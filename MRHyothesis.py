@@ -3,6 +3,7 @@ import os
 import torch
 from transformers import BertTokenizer, BertForSequenceClassification, Trainer, TrainingArguments
 from tqdm import tqdm 
+from sklearn.metrics import confusion_matrix
 
 # 1. Imports and Initial Setup
 base_dir = os.getcwd()
@@ -34,11 +35,19 @@ for dir_name, dir_path in directories.items():
             parsed_content = parse_file(os.path.join(dir_path, file_name))
             parsed_texts[dir_name].extend(parsed_content)
 
+# Print Sample Parsed Texts
+for dir_name, texts in parsed_texts.items():
+    print(f"Sample from {dir_name}: {texts[0][:500]}...\n")
+
 # 3. Tokenization
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 encoded_texts = {}
 for key, texts in tqdm(parsed_texts.items(), desc="Tokenizing"):
     encoded_texts[key] = tokenizer(texts, padding=True, truncation=True, return_tensors="pt", max_length=512)
+
+# Print Tokenization Sample
+for key, value in encoded_texts.items():
+    print(f"Sample tokenized input from {key}: {value['input_ids'][0]}")
 
 # 4. Combine Encodings Function
 def combine_encodings(encodings_list):
@@ -83,6 +92,20 @@ def train_and_evaluate(train_encodings, train_labels, test_encodings, test_label
         eval_dataset=test_dataset
     )
     trainer.train()
+    results = trainer.evaluate()
+    print(f"Results for {trainer.args.output_dir}: {results}")
+
+    # Confusion Matrix
+    predictions = trainer.predict(test_dataset).predictions.argmax(axis=1)
+    labels = [item['labels'] for item in test_dataset]
+    print(confusion_matrix(labels, predictions))
+
+    # Save and Visualize Model Predictions
+    for i, (input_ids, prediction) in enumerate(zip(test_dataset.encodings['input_ids'], predictions)):
+        original_text = tokenizer.decode(input_ids)
+        predicted_label = "Good" if prediction == 0 else "Bad" if prediction == 1 else "Non"
+        print(f"Sample {i}:\nText: {original_text}\nPredicted: {predicted_label}\n")
+
     model.save_pretrained("./saved_model")
     tokenizer.save_pretrained("./saved_model")
 
