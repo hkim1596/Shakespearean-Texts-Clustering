@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ding dong, or Sr. Pitifull Parliament, on his death-bed. His pulses felt by Doctor King, and his water cast by Doctor Bishop. His last will, and testament, with his death, buriall, and epitaph. / By Mercurius Melancholicus.</title>
+            <author>Mercurius Melancholicus, fl. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81480</idno>
+            <idno type="STC">Wing D1495</idno>
+            <idno type="STC">Thomason E441_20</idno>
+            <idno type="STC">ESTC R204904</idno>
+            <idno type="EEBO-CITATION">99864353</idno>
+            <idno type="PROQUEST">99864353</idno>
+            <idno type="VID">161676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161676)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ding dong, or Sr. Pitifull Parliament, on his death-bed. His pulses felt by Doctor King, and his water cast by Doctor Bishop. His last will, and testament, with his death, buriall, and epitaph. / By Mercurius Melancholicus.</title>
+                  <author>Mercurius Melancholicus, fl. 1648.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Printed in the yeare. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 10th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161676:1" rendition="simple:additions"/>
+            <p>DING DONG, OR S<hi rend="sup">r.</hi> Pitifull Parliament, On his Death-Bed.</p>
+            <p>His Pulſes felt by Doctor KING, and his water caſt by Doctor BISHOP.</p>
+            <p>His laſt Will, and Teſtament, with his Death, Buriall, and Epitaph.</p>
+            <p>By <hi>Mercurius Melancholicus.</hi>
+            </p>
+            <lg>
+               <l>Haſt, haſt, good Sexton, toule the bell;</l>
+               <l>Even at the point of death</l>
+               <l>Lies our moſt bleſſed Parliament,</l>
+               <l>And ſcarce can draw his breath.</l>
+            </lg>
+            <lg>
+               <l>Goe call the Doctors; Priviledge,</l>
+               <l>Thou art his ſerving creature.</l>
+               <l>Tell Doctor <hi>King,</hi> he needs muſt come,</l>
+               <l>To helpe reſtore his Nature.</l>
+            </lg>
+            <lg>
+               <l>Ruine Directory, haſt I ſay,</l>
+               <l>Call Doctor <hi>Biſhop</hi> hither;</l>
+               <l>Tell him, our dying Parliament,</l>
+               <l>Want him, and King together.</l>
+            </lg>
+            <lg>
+               <l>O <hi>Nol,</hi> O <hi>Tom,</hi> O <hi>Rainsborow,</hi>
+               </l>
+               <l>O <hi>Devill, Foole,</hi> and <hi>Knave.</hi>
+               </l>
+               <l>Come cloſe the eyes of your Deare State,</l>
+               <l>And lay him in the grave.</l>
+            </lg>
+            <p>Printed in the Yeare. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:161676:2"/>
+            <pb n="1" facs="tcp:161676:2"/>
+            <head>Sir Pitifull Parliament on his Death-Bed.</head>
+            <lg>
+               <head>Induction.</head>
+               <l>Our high and mighty Parliament,</l>
+               <l>Fell ſick of late with diſcontent.</l>
+               <l>The buſineſſe thus, a <hi>Scotchman</hi> came,</l>
+               <l>(Whom for his owne ſake) I'le not name;</l>
+               <l>And juſtling him, began to ſay,</l>
+               <l>Why do'ſt thou God, and Man betray?</l>
+               <l>And do'ſt thy league with me forſake,</l>
+               <l>Not ſuffering me for to partake;</l>
+               <l>Of all thy glory and degree,</l>
+               <l>Nor do'ſt ſet up Presbyterie:</l>
+               <l>Be ſure ere long, arm'd Cap a pee,</l>
+               <l>Strict Vengeance I will take on thee.</l>
+            </lg>
+            <lg>
+               <l>Hee gone, one <hi>Poyer,</hi> with his Mate,</l>
+               <l>Called <hi>Powell,</hi> who by happy Fate;</l>
+               <l>Had ceazed <hi>Pembroke</hi> Caſtle; and</l>
+               <l>Incited all for <hi>CHARLES</hi> to ſtand.</l>
+               <l>Came in and ſaid, O curſed Devill!</l>
+               <l>We'l make the now repent the evill,</l>
+               <l>Thou haſt theſe ſeven yeares put in ure;</l>
+               <l>Yet would'ſt have us to count thee pure.</l>
+               <l>This put Sir <hi>Parliament,</hi> in dread,</l>
+               <l>And preſently, he tooke his bed.</l>
+               <l>Where a ſore ſickneſſe ceazed upon him,</l>
+               <l>That he diſpaires to ſhake if from him.</l>
+               <l>And now alas, he's drawing on,</l>
+               <l>And ſinking to perdition.</l>
+            </lg>
+            <sp>
+               <stage>Enter Mr. <hi>Vete.</hi>
+               </stage>
+               <p>O Run, run, Mr. <hi>Priveledge</hi> or we are all loſt, Sir <hi>Pitifull Parliament</hi> hath taken griefe, which hath ſo prevailed over his powers and maſtered his faculties, that he is now be<g ref="char:EOLhyphen"/>come a meere Skelleton and lies drawing on—away with winged haſt—harke how he groanes—his heart-ſtrings
+<pb n="2" facs="tcp:161676:3"/>
+crack like a Cable, when the affrighted Barke breakes from the Anchor,—hee yawnes againe,—O good man, that hee that hath beene ſo long floriſhing, of ſuch health of body and wealthy above <hi>Craeſſus,</hi> ſhould now bee waſted with a <hi>Scotch</hi> Feaves, and ſhaken to pieces, with a <hi>Welsh</hi> Ague, and fall as poore as <hi>Ir<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s;</hi> O runne, runne good <hi>Priviledge,</hi> ſome <hi>Aqua<g ref="char:EOLhyphen"/>vitae,</hi> for our ſicke <hi>Parliament,</hi> or all's loſt.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Declaration.</hi>
+               </speaker>
+               <p>The Doctors, the Doctors, poſt, poſt, for the Doctors, doe you two, ſtand here like ſtatues to behold your ſick Maſter ſurrender his Ghoſt; dare you be Spectators with the <hi>Divell;</hi> O Mr. <hi>Priviledge,</hi> O Mr. <hi>Vote,</hi> one of you runne for Doctor <hi>King,</hi> the other for Dr. <hi>Biſhop,</hi> but bid the laſt not to appeare in his Lawne ſleeves; for the ſhape of any thing reſembling <hi>Innocence,</hi> will haſten my Maſters end,—runne, runne, for Gods ſake:</p>
+               <lg>
+                  <l>To fetch the <hi>Doctors, Priviledge,</hi> and <hi>Vote</hi>
+                  </l>
+                  <l>Are gone, they'r come, and now what followes note,</l>
+                  <l>Behold <hi>Sr. Parliament,</hi> here in his bed,</l>
+                  <l>
+                     <hi>Sr. Ralph Rebellion,</hi> holding of his head:</l>
+                  <l>With all the Rabble, of his new made Creatures,</l>
+                  <l>Knowing their names, you needs muſt know their natures</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Rebellion.</hi>
+               </speaker>
+               <p>For <hi>Pluto's</hi> ſake cheare up Sir, or elſe all Hell will be ſor<g ref="char:EOLhyphen"/>rowfull, O how his temples beat, as if hee were poſſeſt with a <hi>Vertigo</hi> good Sir bee comforted, the <hi>Scots</hi> are not yet com<g ref="char:EOLhyphen"/>ming, Prince CHARLES is yet in <hi>France, Poyer</hi> may yet bee nam'd, the <hi>Londoners</hi> are ſtill Sir at your ſervice, the Coxcombs are bewitcht unto their ruine you yet may Rule the roaſt o're King and People, why ſhould you dye yet.</p>
+            </sp>
+            <sp>
+               <speaker>Pitifull Parliament.</speaker>
+               <p>O <hi>Rebellion,</hi> thy comforts come too late, my Conſcience,
+<pb n="3" facs="tcp:161676:3"/>
+o<g ref="char:cmbAbbrStroke">̄</g> my Conſcience, 'tis that kills me were there no oppoſition, J am a man that am di'd o're with blood, am guilty of an hun<g ref="char:EOLhyphen"/>dred thouſand lives,—oh, oh,—I have for to inrich my pri<g ref="char:EOLhyphen"/>vate Coſers, undone a Nation, made ten Thouſand beg, have wrongd my King, that is the beſt of Princes, pull'd downe all order in the Church and State, and introduc't the worſt of Turciſme,—oh—oh.</p>
+            </sp>
+            <sp>
+               <speaker>Rebellion.</speaker>
+               <p>
+                  <hi>Conſcience is meerly, but an ayrie ſound;</hi> ſhall fear perſwade you Sir to penitence, recall your wonted temper, and imagine to be as great as ever, deare Sr. without you, I that have ſeaven yeares, maskt with the vayle of ſeeming Pity, been worſhipt as a <hi>god</hi> ſhall now decline into my wonted orbe, and abhor<g ref="char:EOLhyphen"/>red, as the worſt of <hi>Devils.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pitifull Parliament.</speaker>
+               <p>I can hold out no longer, 'tis in vaine for me to cheare my ſelfe, when Death's approaching, ſhift for thy ſelfe <hi>Rebellion,</hi> I muſt leave thee, I ſee as in a glaſſe my <hi>Fate</hi> is caſt, and that the King will have his owne againe; and if the words of dy<g ref="char:EOLhyphen"/>ing men be Oracle, beleeve then<g ref="char:punc">▪</g> that ere Three yeares are ac<g ref="char:EOLhyphen"/>compliſht, all things will be as they were ſeaven yeares ſince, 'tis beſt for me to dye and ſo eſcape the fury of thoſe <hi>Lyons,</hi> wait to teare me; doſt thon not know the Commons of this Iſle have found their errour, and doe now reſolve to have one <hi>King,</hi> rather then forty <hi>Tyrants;</hi> ſeeſt thou not how my miſe<g ref="char:EOLhyphen"/>ries throng about me, perceiveſt thou not that Heaven it ſelfe is bent to give a period to my undertakings, all <hi>England, Ire<g ref="char:EOLhyphen"/>land, Wales, Scotland;</hi> yea the Univerſe, proteſt to fall them<g ref="char:EOLhyphen"/>ſelves or ruine me: Where's Mr. <hi>Covenant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Covenant.</hi>
+               </speaker>
+               <p>Here Sr. yet with no weeping eye, doe I deplore your miſerable Fortune; for you have dea't with mee, as ſome with Iades, ride them of their legges, then turne them to the Commons: I have beene hackney to you Sr. this ſeaven yeares, have made great journyes, and yet carried dou<g ref="char:EOLhyphen"/>ble, and but of late when you were ſwolne with pompe,
+<pb n="4" facs="tcp:161676:4"/>
+and hemd about, with all miſtaken glories, when I expected love and great preferment, you thruſt me forth of doores, with ſcorne and obloquie, for which you now lie Cauving.</p>
+            </sp>
+            <sp>
+               <speaker>Pittifull Parliament.</speaker>
+               <p>I never meant for to make thee my Rivall, how ere, for to adde to my owne advantage, I entertained and hugd thee in my boſome, <hi>Machiavill</hi> was my maſter, any thing that might helpe forward my curſt undertakings, Oaths, Cove<g ref="char:EOLhyphen"/>nants, and Proteſtations, with or againſt God, all was one to me; home to thy <hi>Blew Capt brethren,</hi> both I and thee muſt neere expect our wiſhes; the King, the King man, now muſt rule againe.—Where's Mr. <hi>Plunder.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Plunder.</hi>
+               </speaker>
+               <p>Here my deare Maſter.</p>
+            </sp>
+            <sp>
+               <speaker>Pittifull Parliament.</speaker>
+               <p>O my delicious ſervant, to thee J am ingaged more then to all my creatures, thou haſt been my ſupoorter all a-long, nor ſhall I leave behind me now I die, a doir, but what by thy helpe I have gained.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Plunder.</hi>
+               </speaker>
+               <p>Be chearfull Sir, I ſtill am your true Trojan, give me but Warrants ſigned with your hand, Ile plunder all without di<g ref="char:EOLhyphen"/>ſtinction, fetch you in Money, Cattell goods and Treaſure, make you Delinquents, let me make them poore, ſhew me a <hi>Cleargie man,</hi> that doth preach ſound Doctrine, whoſe life con<g ref="char:EOLhyphen"/>formable unto his words, whoſe Charity extends unto y<hi rend="sup">e</hi> poore, dares build <hi>Almſhouſes,</hi> whoſe ſawcineſſe is ſuch that he dares pray for the King Queen and Progenie, Ile ſoone ceaze on his living and eſtate, and command none for to afford him ſucc<g ref="char:EOLhyphen"/>our, ſhew me an honeſt harmleſſe meaning man, who hold it beſt untroubled to remaine, and view the fate of things and not to meddle, whoſe happy ſoule addors the golden meane, and wiſheth truth alone may get the better, Iſle ſtrip him of his te<g ref="char:EOLhyphen"/>nements and lands, and trie his patience more, then Sathan <hi>Iobes</hi> or ſhew me but a Citizen whoſe Cheſts, ring, loud with ſilver bells, though he be nere ſo honeſt and upright though he ſought for Cauſe and Covenant; yet this vaſt treaſure ſhall
+<pb n="5" facs="tcp:161676:4"/>
+pronounce his doome; that he is rich ſhall be a heynons crime, all that he is poſſeſt of I will rifle, to adde unto your ſtore.</p>
+            </sp>
+            <sp>
+               <speaker>Pittifull Parliament.</speaker>
+               <p>Thou haſt been faithfull in thy undertakings, but my imploying thee hath been my ruine; come all at once about me, Mr. <hi>Privi<g ref="char:EOLhyphen"/>ledge,</hi> Mr. <hi>Vote,</hi> Mr. <hi>Declaration,</hi> Mr. <hi>Rebellion,</hi> Mr. <hi>Covenant,</hi> and Mr. <hi>Plunder,</hi> my glaſſe is almoſt runne, I now muſt leave you to be the ſcorne and hate of after Ages; yet ere I make my Exit 'twere convenient that my laſt Will, and Teſtament, were drawne, which ſhall be in this forme.</p>
+            </sp>
+         </div>
+         <div type="will_and_testament">
+            <head>THE Laſt Will, and Teſtament of Sir Pittifull Parliament.</head>
+            <opener>
+               <hi>In</hi> the name of <hi>Lucifer,</hi> Amen.</opener>
+            <p>I Sir <hi>Pittifull Parliament,</hi> lying very ſick and weake, of a diſ<g ref="char:EOLhyphen"/>eaſe called, the <hi>Scotch</hi> March, and <hi>Poyers</hi> reſolves, doe make this my laſt Will and Teſtament, in manner and forme following.</p>
+            <p>
+               <hi>Imprimis;</hi> I give and bequeath, all my plundered houſhold<g ref="char:EOLhyphen"/>ſtuffe, money Plate and Iewels, unto our grand <hi>Patron Plu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o,</hi> who is the God of riches, which I deſire him to improve and diſtribute to his beſt advantage, either for the allurement of thoſe wicked men, who ſhall after my deceaſe have an itching fancie to pocket Reformation; and ſhall zealouſly affect to be called a Parliame<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, though they forfeit the Eſſence thereof, and inſtead of being the peoples preſervers, become their deſtroyers, the Plunderers of their goods, the betrayers of their Lawes, and the murtherers of your perſons.</p>
+            <p>
+               <hi>Item;</hi> I give and bequeath all my <hi>Ordinances, Votes, Proteſt<g ref="char:EOLhyphen"/>ations, Declarations</hi> and <hi>Covenants,</hi> to my dearly beloved brother<g ref="char:punc">▪</g> the Maſter of the <hi>Ottaman Empire<g ref="char:punc">▪</g>
+               </hi> willing and deſiring my ſaid bro<g ref="char:EOLhyphen"/>ther, to take ſpeciall notice, of their ſenſe and meaning, to the end he may be throughly inſtructed, how to be more barbarous, ſen<g ref="char:EOLhyphen"/>ſuall<g ref="char:punc">▪</g>
+               <pb n="6" facs="tcp:161676:5"/>
+and deviliſh in the contextures of all his Edicts then ever here<g ref="char:EOLhyphen"/>tofore, &amp; the true reaſon that I make my aforeſaid brother, my law<g ref="char:EOLhyphen"/>full Inheritor of the aforeſaid, <hi>Votes, Proteſtations, Declarations,</hi> and <hi>Covenants,</hi> is becauſe I conceive they are onely fit for his imploi<g ref="char:EOLhyphen"/>ment, &amp; not to be uſed by any of my neighbouring ſtates, when now at the point to depart, I heartily implore to avoide them, leſt they prove as fatall, and deſtructive to themſelves and their Nation, as they have been omminous to me and my Countrimen.</p>
+            <p>Laſtly; for that I have not deſerved, eternall happineſſe, but my owne intellect informing that I merrit the loweſt and hotteſt place in Tartarus, I bequeath my ſoule to him whoſe aſſiſtance J have amply injoyed theſe ſeaven years, and wiſhing the whole world to make me their Preſident, leſt they fall into the ſame predi<g ref="char:EOLhyphen"/>cament, I bid the world farewell.</p>
+         </div>
+         <div type="epitaph">
+            <head>Epitath.</head>
+            <lg>
+               <l>Here lies a Devill, whoſe Angel-like hew;</l>
+               <l>Deceived the vul<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r; and in all mens view,</l>
+               <l>He was a Saint, but ere he died, 'twas found,</l>
+               <l>He tooke that ſhape, the deadlier to wound.</l>
+               <l>Vnder pretence, of pious Reformation;</l>
+               <l>He ruin'd quite, the famous <hi>Engliſh</hi> Nation.</l>
+               <l>And while he fain'd to root out Popery;</l>
+               <l>Eradicated Chriſtian verity.</l>
+               <l>Leading the people in thick fogs, and miſts,</l>
+               <l>While they like fooles, obeid baſe Factioniſts.</l>
+               <l>He did his beſt to cauſe his King to die,</l>
+               <l>For ever to extirpate Monarchye</l>
+               <l>While a cloud of errors dim'd Gods glory<g ref="char:punc">▪</g>
+               </l>
+               <l>The like cannot be paralelled in ſtory.</l>
+               <l>He fell at laſt the mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſters Fate it was,</l>
+               <l>To fall by thoſe, his ends had brought to paſſe.</l>
+               <l>And here he lies without a Tombe interr'd</l>
+               <l>Whoſe name is both by God, and man abhord.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,686 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wofull lamentation of Mistris Iane Shore a goldsmiths wife of London, sometimes K. Edwards concubine, who for her wanton life came to a most miserable end. Set forth for an example to all lewd women. To the tune of Liue with me.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00697</idno>
+            <idno type="STC">STC 22463.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[36]</idno>
+            <idno type="EEBO-CITATION">99892874</idno>
+            <idno type="PROQUEST">ocm99892874</idno>
+            <idno type="VID">182294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182294)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wofull lamentation of Mistris Iane Shore a goldsmiths wife of London, sometimes K. Edwards concubine, who for her wanton life came to a most miserable end. Set forth for an example to all lewd women. To the tune of Liue with me.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>printed for G. P[urslow].,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1620?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication and publisher's name from STC.</note>
+                  <note>Verse: "If Rosamond that was so faire ..."</note>
+                  <note>In two parts, printed side by side. The second part has title: The second part of Iane Shore: Wherein her sorrowfull husband bewaileth his ownestate, ..."</note>
+                  <note>Imperfect: mutilated, affecting text and imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shore, Jane, d. 1527? --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182294:1" rendition="simple:additions"/>
+            <head>The wofull lamentation of Miſtris <hi>Iane Shore</hi> a Goldſmiths wife of London, ſometimes K. <hi>Edwards</hi> Concubine, who for her wanton life came to a moſt miſerable end.</head>
+            <head type="sub">Set forth for an example to all lewd women.</head>
+            <opener>To the tune of <hi>Liue with me.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of Jane Shore</figDesc>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <l>IF <hi>Roſamond</hi> that was ſo faire,</l>
+               <l>Had cauſe her ſorrowes to declare,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen let <hi>Iane Shore</hi> with ſorrow ſing,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat was beloued of a King:</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen wanton wiues in time amend,</hi>
+               </l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> loue and beauty will haue end.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> den yeeres my beauty bright,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oued deare of Lord &amp; Knight:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut yet the loue that they required,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then was not as my friends deſired.</l>
+               <l>My Parents they for thirſt of gaine,</l>
+               <l>A huſband for me did obtaine:</l>
+               <l>and I their pleaſure to fulfill,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as forc'd to wed againſt my will.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Mathew Shore</hi> I was a wife,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill Luſt brought ruine to my life:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd then my life ſo lewdly ſpent,</l>
+               <l>now makes my ſoule for to lament.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <hi>Lumbardſtreet</hi> I once did dwell,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> London yet can witneſſe well:</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere many Gallants did behold</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eauty in a ſhop of gold.</l>
+               <l>
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> my plumes as wantons doe,</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e ſweet and ſecret friend to woo,</l>
+               <l>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>auſe my loue I did not find,</l>
+               <l>agreeing to my wanton mind.</l>
+               <l>At laſt my name at Court did ring,</l>
+               <l>Into the eares of Englands King,</l>
+               <l>who came and lik'd, &amp; loue required,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut I made coy what he deſired</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Miſtris <hi>Blage</hi> a neighbour néere,</l>
+               <l>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e friendſhip I e<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eemed deare,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y it was a ga<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nt t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing,</l>
+               <l>
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> beloued of a King.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r perſwaſions I was led,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o d<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> my marriage bed,</l>
+               <l>
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> my wed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſband <hi>Shore,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="5 words">
+                     <desc>〈◊◊◊◊◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s befo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>In heart and mind I did reioyce,</l>
+               <l>That I had made ſo ſweet a choiſe:</l>
+               <l>and therefore did my ſtate reſigne,</l>
+               <l>to be King <hi>Edwards</hi> Concubine.</l>
+               <l>From Citie then to Court I went,</l>
+               <l>And reapt the pleaſures of content:</l>
+               <l>I had the ioyes that loue did bring,</l>
+               <l>and knew the ſecrets of a King.</l>
+               <l>When I was thus aduanc'd on high,</l>
+               <l>Commanding <hi>Edward</hi> with mine eye</l>
+               <l>for Miſtris <hi>Blage</hi> I in ſhort ſpace,</l>
+               <l>obtain'd a liuing of his Grace.</l>
+               <l>No friend I had but in ſhort time,</l>
+               <l>I made vnto promotion clime:</l>
+               <l>but yet for all this coſtly pride,</l>
+               <l>my huſband could not me abide.</l>
+               <l>His bed though wronged by a King,</l>
+               <l>His hart with griefe did deadly ſting:</l>
+               <l>from <hi>England</hi> ſoone he goes his way,</l>
+               <l>to end his life vpon the Sea.</l>
+               <l>He could not liue to ſee his fame,</l>
+               <l>Empaired by my wanton ſhame:</l>
+               <l>although a Prince of péerleſſe might</l>
+               <l>did reape the pleaſures of his right.</l>
+               <l>Long time I liued in the Court,</l>
+               <l>With Lords &amp; Ladies of great port:</l>
+               <l>for when I ſmil'd all men were glad<g ref="char:punc">▪</g>
+               </l>
+               <l>and when I mourn'd my prince grew ſad,</l>
+               <l>But yet an honeſt mind I bore,</l>
+               <l>To helpleſſe people that were poore:</l>
+               <l>I ſtill redreſt the Orphans cry,</l>
+               <l>&amp; ſaued their liues condemn'd to die.</l>
+               <l>I ſtill had ruth on widdowes teares,</l>
+               <l>I ſuccour'd babes of tender yeeres:</l>
+               <l>and neuer lookt for other gaine,</l>
+               <l>but loue and thanks for all my pain.</l>
+               <l>At laſt my Royall King did dye,</l>
+               <l>And then my dayes of wo drew dye;</l>
+               <l>for when K. <hi>Richard</hi> got the crowne,</l>
+               <l>ſwéet <hi>Edwards</hi> friends were ſoon put downe.</l>
+               <l>I was then puniſht for y<hi rend="sup">e</hi> ſin,</l>
+               <l>That I ſo long had liued in:</l>
+               <l>yea euery one that was my friend,</l>
+               <l>that tyrant brought to timeleſſe end.</l>
+               <l>Then for my lewd and wanton life,</l>
+               <l>Who made a Strumpet of a Wife:</l>
+               <l>I penance did in London ſtreet,</l>
+               <l>in ſhamefull manner in a ſheet.</l>
+               <l>Where many thouſands did me vi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>That late in Court my credit knew:</l>
+               <l>which made y<hi rend="sup">e</hi> teares run downe my face</l>
+               <l>to think vpo<g ref="char:cmbAbbrStroke">̄</g> my foule diſgrace.</l>
+               <l>Not thus content, they tooke from me,</l>
+               <l>My goods, my liuings, and my fee:</l>
+               <l>&amp; charg'd that none ſhould me relieue</l>
+               <l>nor any ſuccour to me giue.</l>
+               <l>Then vnto Miſtris <hi>Blage</hi> I went,</l>
+               <l>To <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hom my Ie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>els I had ſent,</l>
+               <l>in hope thereby to eaſe my want,</l>
+               <l>when riches fail'd, &amp; loue grew ſcant</l>
+               <l>But ſhe denyed me the ſame,</l>
+               <l>When in my néed for them I came:</l>
+               <l>to recompence my former loue,</l>
+               <l>out of the doores ſhe did me ſhoue.</l>
+               <l>Thus loue did vaniſh with my ſtate,</l>
+               <l>Which now my ſoule repents too late<g ref="char:punc">▪</g>
+               </l>
+               <l>therefore example take by me,</l>
+               <l>that friendſhip parts in pouerty.</l>
+               <l>But yet a friend amongſt the reſt,</l>
+               <l>Whom I before had ſeene diſtreſt,</l>
+               <l>and ſau'd his life being iudg'd to di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </l>
+               <l>did giue me food to ſuccour me.</l>
+               <l>For which by Law it was decreed,</l>
+               <l>That he was hang'd for his good deed:</l>
+               <l>his death did grieue me ten times more,</l>
+               <l>then I had dyed my ſelfe therefore.</l>
+               <l>Then thoſe to whom I had done good,</l>
+               <l>Durſt not reſtore me any food:</l>
+               <l>whereby in vaine I beg'd all day,</l>
+               <l>and ſtill in ſtreet by night I lay.</l>
+               <l>My gowns beſet with pearle and gold,</l>
+               <l>Were turn'd to ſimple garments cold:</l>
+               <l>my chaines, and gems, &amp; golden rings,</l>
+               <l>to filthy rags and lothſome things.</l>
+               <l>Thus was I ſcornd of maid and wife,</l>
+               <l>For leading ſ<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a wicked life:</l>
+               <l>both ſucking babes, and children ſmal<g ref="char:punc">▪</g>
+               </l>
+               <l>did make a paſtime of my fall.</l>
+               <l>I could no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> get one bit of bread,</l>
+               <l>Whereby my hunger might be fed:</l>
+               <l>nor drinke but ſuch as kennell yeelds,</l>
+               <l>or ſtinking ditches in the fields.</l>
+               <l>Thus weary of my life at length,</l>
+               <l>I yeelded vp my vitall ſtrength:</l>
+               <l>within a ditch of lothſome ſent,</l>
+               <l>where carrion dogs do much frequent<g ref="char:punc">▪</g>
+               </l>
+               <l>Which Ditch now ſince my dying day,</l>
+               <l>Is Shore-ditch cald, as Writers ſay,</l>
+               <l>which is a witneſſe for my ſinne,</l>
+               <l>for being Concubine to a King.</l>
+               <l>You wanton wiues that fall to luſt,</l>
+               <l>Be you aſſured that God is iuſt,</l>
+               <l>whoredome ſhall not eſcape his hand,</l>
+               <l>nor bide vnpuniſht in the Land.</l>
+               <l>If God to me ſuch ſhame did bring,</l>
+               <l>That yeelded onely to a King,</l>
+               <l>how ſhall they ſcape that dayly run</l>
+               <l>to practiſe ſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne with euery man.</l>
+               <l>You huſbands match not but for loue</l>
+               <l>Leſt ſome miſliking after proue:</l>
+               <l>women be warnd whe<g ref="char:cmbAbbrStroke">̄</g> you are <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>what plagues are due to luſtfull liuers.</l>
+               <l>
+                  <hi>Then wanton wiues in time amend,</hi>
+               </l>
+               <l>
+                  <hi>For loue and beauty will haue end.</hi>
+               </l>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="colophon">
+               <p>At London printed by <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:182294:1" rendition="simple:additions"/>
+               <head>The ſecond part of <hi>Iane Shore:</hi> wherein h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſorrowfull husband bewaileth his owne eſta<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wiues wantonneſſe, the wrongs of m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rriage, and the fall of pride: a warning for all wanton women to take heed by.</head>
+               <opener>To the tune of <hi>Liue with me.</hi>
+               </opener>
+               <lg>
+                  <l>IF ſhe that was faire Londons pride,</l>
+                  <l>For beauty fam'd both far and wide,</l>
+                  <l>With Swan-like ſong in ſadneſſe told</l>
+                  <l>Her deepe diſtreſſes manifold:</l>
+                  <l>then in the ſame let me alſo,</l>
+                  <l>now beare a part of ſuch like woe.</l>
+               </lg>
+               <p>
+                  <label>The deſcrip<g ref="char:EOLhyphen"/>tion of <hi>Iane Shore.</hi>
+                  </label> This womans beauty hath beene highly praiſed by a famous Writer that liued in her time, na<g ref="char:EOLhyphen"/>med S<hi rend="sup">r</hi> 
+                  <hi>Tho<g ref="char:EOLhyphen"/>mas Moore,</hi> who deſcribed her in this maner: before her death ſhe was poore &amp; aged, her ſtature was meane, her haire of a dark yellow, her face round &amp; full, her eyes gray, her body fat, white and ſmooth, her countenance cheerefull like to her condi<g ref="char:EOLhyphen"/>tion. There is a Picture of hers now to bee ſeene in London, it is ſuch as ſhe was when ſhe roſe out of her bed in the mor<g ref="char:EOLhyphen"/>ning, hauing nothing on but a rich Mantle caſt vnder one arm ouer her ſhoul<g ref="char:EOLhyphen"/>der, and ſitting in a Chaire, on which her na<g ref="char:EOLhyphen"/>ked arme did lye. What her Fathers name was, or where ſhe was borne, is not certain<g ref="char:EOLhyphen"/>ly known, but her Husband <hi>Mathew Shore,</hi> a yong man of right good parentage, wealth and be<g ref="char:EOLhyphen"/>hauiour, aban<g ref="char:EOLhyphen"/>doned her bed after the King had made her his Concu<g ref="char:EOLhyphen"/>bine.</p>
+               <lg>
+                  <l>Kind <hi>Mathew Shore</hi> men called me,</l>
+                  <l>A Goldſmith once of good degrée,</l>
+                  <l>And might haue liued long therein,</l>
+                  <l>Had not my Wife been wooed to ſinne<g ref="char:punc">▪</g>
+                  </l>
+                  <l>ah gentle <hi>Iane</hi> thy wanton race,</l>
+                  <l>hath brought vs both to this diſgrace.</l>
+               </lg>
+               <lg>
+                  <l>Thou hadſt all things at wiſh and will,</l>
+                  <l>Thy wanton fancy to fulfill;</l>
+                  <l>No London Dame or Merchants wife,</l>
+                  <l>Did leade ſo ſweet and braue a life:</l>
+                  <l>then gentle <hi>Iane</hi> the truth report,</l>
+                  <l>why leftſt thou me to liue in Court?</l>
+               </lg>
+               <lg>
+                  <l>Thou hadſt both gold and iewels ſtore,</l>
+                  <l>No wife in London then had more:</l>
+                  <l>And once a weeke to walke the field,</l>
+                  <l>To ſee what pleaſure it would yeeld:</l>
+                  <l>but woe to me, that liberty</l>
+                  <l>hath brought vs both to miſery,</l>
+               </lg>
+               <lg>
+                  <l>I wedded thee whilſt thou wert yong,</l>
+                  <l>Before thou knewſt what did belong</l>
+                  <l>To huſbands loue, or marriage ſtate,</l>
+                  <l>Which brings repentance now too late:</l>
+                  <l>thus wanton pride made thée vniuſt,</l>
+                  <l>and ſo deceiued was my truſt.</l>
+               </lg>
+               <lg>
+                  <l>But when the King poſſeſt my roome,</l>
+                  <l>And cropt the gallant Roſie bloome,</l>
+                  <l>Faire Londons bloſſome and my ioy,</l>
+                  <l>My heart was drownd in deepe annoy:</l>
+                  <l>to thinke how vnto publike ſhame,</l>
+                  <l>thy wanto<g ref="char:cmbAbbrStroke">̄</g> loue brought my good name.</l>
+               </lg>
+               <lg>
+                  <l>And then me thought each man &amp; wife,</l>
+                  <l>In ieſting ſort accuſ'd my life,</l>
+                  <l>And euery one to other ſaid,</l>
+                  <l>that <hi>Shores</hi> faire wife had wanton plaid<g ref="char:punc">▪</g>
+                  </l>
+                  <l>whereby I grew in mind to change</l>
+                  <l>my dwelling in ſome country ſtrange.</l>
+               </lg>
+               <lg>
+                  <l>Then lands and goods I ſold away,</l>
+                  <l>And ſo from England went to ſea,</l>
+                  <l>Oppreſt with griefe and wofull minde,</l>
+                  <l>But left my cauſe of griefe behinde:</l>
+                  <l>my louing wife whom once I thought</l>
+                  <l>would neuer be to lewdneſſe brought.</l>
+               </lg>
+               <lg>
+                  <l>But women now I well eſpy,</l>
+                  <l>Are ſubiect to inconſtancy,</l>
+                  <l>And few there be ſo true of loue,</l>
+                  <l>But by long ſuite will wanton proue:</l>
+                  <l>for fleſh is fraile and women weake,</l>
+                  <l>when kings for loue great ſuit do make</l>
+               </lg>
+               <lg>
+                  <l>But yet from England my depart,</l>
+                  <l>Was with a ſad and heauy heart,</l>
+                  <l>Whereof when as my leaue I tooke,</l>
+                  <l>I ſent backe many a heauy looke,</l>
+                  <l>deſiring God if it might be,</l>
+                  <l>to ſend one ſigh ſwéet <hi>Iane</hi> to thee.</l>
+               </lg>
+               <lg>
+                  <l>For if thou hadſt but conſtant beene,</l>
+                  <l>Theſe dayes of woe I ne're had ſeene:</l>
+                  <l>But yet I grieue <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d mourne full ſore,</l>
+                  <l>To think what plagues are kept in ſtore</l>
+                  <l>for ſuch as careleſſe tread awry</l>
+                  <l>the modeſt ſteps of conſtancy.</l>
+               </lg>
+               <lg>
+                  <l>Ah gentle <hi>Iane,</hi> if thou didſt know</l>
+                  <l>The vncouth paths I daily goe,</l>
+                  <l>And wofull teares for thee I ſhed,</l>
+                  <l>For wronging thus our marriage bed:</l>
+                  <l>then ſure, I know, thou wouldſt co<g ref="char:cmbAbbrStroke">̄</g>feſſe</l>
+                  <l>my loue was true, though in diſtreſſe.</l>
+               </lg>
+               <lg>
+                  <l>Both <hi>Flanders, France</hi> &amp; <hi>Spaine</hi> I paſt,</l>
+                  <l>And came to <hi>Turky</hi> at the laſt,</l>
+                  <l>And then within that mighty Court,</l>
+                  <l>I liued long in honeſt ſort:</l>
+                  <l>deſiring God that ſits in heauen,</l>
+                  <l>that louers ſinnes might be forgiuen.</l>
+               </lg>
+               <lg>
+                  <l>And there aduanc'd thy louely name,</l>
+                  <l>Of liuing wights the faireſt Dame,</l>
+                  <l>The praiſe of Englands beauties ſtain,</l>
+                  <l>All which thy Huſband did maintaine:</l>
+                  <l>and ſet thy picture there in gold,</l>
+                  <l>for Kings and Princes to behold.</l>
+               </lg>
+               <lg>
+                  <l>But when I thought vpon the ſinne,</l>
+                  <l>Thy wanton thoughts delighted in,</l>
+                  <l>I grieu'd that ſuch a comely face,</l>
+                  <l>Should hold true honour in diſgrace:</l>
+                  <l>And counted it a luckleſſe day,</l>
+                  <l>wherein thou firſt didſt goe aſtray.</l>
+               </lg>
+               <lg>
+                  <l>Deſirous then ſome newes to heare,</l>
+                  <l>Of her my ſoule did loue ſo deare,</l>
+                  <l>My ſecrets then I did impart</l>
+                  <l>To one well ſkild in Magike Art,</l>
+                  <l>who in a glaſſe did true<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſhow</l>
+                  <l>ſuch things as I deſired to kn<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I there beheld thy Courtly ſtat<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Thy pompe, thy pride, thy glor<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>And likewiſe there I did beh<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>My <hi>Iane</hi> in <hi>Edwards</hi> armes <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>thy ſecret loue I there eſpie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>thy riſe, thy fall, and how th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thy naked beauty in the ſtreet,</l>
+                  <l>I ſaw doe penance in a ſheet,</l>
+                  <l>Barefoote before a Beadles wand,</l>
+                  <l>With burning Tapers in thy hand:</l>
+                  <l>and babes not hauing vſe of tongue,</l>
+                  <l>ſtood pointing as thou paſt along.</l>
+               </lg>
+               <lg>
+                  <l>Thus ended was this ſhame of thine,</l>
+                  <l>Though God gaue yet no end to mine<g ref="char:punc">▪</g>
+                  </l>
+                  <l>When I ſuppoſ'd thy name forgot,</l>
+                  <l>And time had waſht away the blot:</l>
+                  <l>then in anothers Princes raigne,</l>
+                  <l>I came to England backe againe.</l>
+               </lg>
+               <lg>
+                  <l>But finding here my friends decaid<g ref="char:punc">▪</g>
+                  </l>
+                  <l>The Princes lawes I diſobaid,</l>
+                  <l>And by true iuſtice iudg'd to dye,</l>
+                  <l>For clipping gold in ſecrecie:</l>
+                  <l>by gold was my beſt liuing made<g ref="char:punc">▪</g>
+                  </l>
+                  <l>and ſo by gold my life decaid.</l>
+               </lg>
+               <lg>
+                  <l>Thus haue you heard the wofull ſtrife,</l>
+                  <l>That came by my vnconſtant wife:</l>
+                  <l>Her fall, my death, wherein is ſhe<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>The Story of a Strumpet le<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>in hope thereby all wome<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>take héed how they the <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>At London printed by <hi>G. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>

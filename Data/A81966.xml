@@ -1,0 +1,1509 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of Sr Francis Drake. Exprest by instrumentall and vocall musick, and by art of perspective in scenes, &amp;c. The first part. Represented daily at the Cockpit in Drury-Lane, at three afternoon punctually.</title>
+            <author>D'Avenant, William, Sir, 1606-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81966</idno>
+            <idno type="STC">Wing D327</idno>
+            <idno type="STC">Thomason E764_1</idno>
+            <idno type="EEBO-CITATION">99862468</idno>
+            <idno type="PROQUEST">99862468</idno>
+            <idno type="VID">167146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167146)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 117:E764[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of Sr Francis Drake. Exprest by instrumentall and vocall musick, and by art of perspective in scenes, &amp;c. The first part. Represented daily at the Cockpit in Drury-Lane, at three afternoon punctually.</title>
+                  <author>D'Avenant, William, Sir, 1606-1668.</author>
+               </titleStmt>
+               <extent>[2], 37, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Herringman, and are to be sold at his shop at the Anchor in the Lower walk in the New Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printed by William Wilson. Cf. Pforzheimer Catalogue.</note>
+                  <note>The 'Frontispiece' described on page 1, sometimes noted as lacking by bibliographers, is not an engraved frontispiece but merely the painted back-drop used on the stage--cf. Pforzheimer Catalogue.</note>
+                  <note>Annotation on Thomason copy: "June 16 June 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drake, Francis, --  Sir, d. 1637 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167146:1" rendition="simple:additions"/>
+            <p>THE HISTORY OF S<hi rend="sup">r</hi> Francis Drake. Expreſt by Inſtrumentall and Vocall Mu<g ref="char:EOLhyphen"/>ſick, and by Art of Perſpective in Scenes, &amp;c. <hi>The First Part.</hi> Repreſented daily at the <hi>Cockpit</hi> in <hi>Drury-Lane</hi> at Three Afternoon Punctually.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Herringman,</hi> and are to be ſold at his ſhop at the <hi>Anchor</hi> in the Lower walk in the <hi>New Exchange.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="description_of_stage_setting">
+            <pb facs="tcp:167146:2"/>
+            <pb n="1" facs="tcp:167146:2"/>
+            <head>THE DISCRIPTION OF THE FRONTISPIECE.</head>
+            <stage>AN Arch is diſcover'd, rais'd upon ſtone of Rustick work; upon the top of which is written, in an Antick Shield, <hi>PERU;</hi> and two Antick Shields are fix'd a little lower on the ſides, the one bearing the Figure of the <hi>Sun,</hi> which was the Scutcheon of the <hi>Incas,</hi> who were Emperors of <hi>Peru:</hi> The other did bear the <hi>Spread-Eagle,</hi> in ſignification of the <hi>Au<g ref="char:EOLhyphen"/>ſtrian Family.</hi> This Frontiſpiece was the ſame which belong'd to the late Repreſentation; and it was convenient to continue it, our Ar<g ref="char:EOLhyphen"/>gument being in the ſame Country.</stage>
+         </div>
+         <div n="1" type="act">
+            <pb n="2" facs="tcp:167146:3"/>
+            <head>The Firſt Entry.</head>
+            <div type="prelude">
+               <stage>THE preparation of the opening of the Scene is by a Prelude and Co<g ref="char:EOLhyphen"/>rante. Afterwards the Curtain riſes by de<g ref="char:EOLhyphen"/>grees to an Aſcending Ayre, and a Har<g ref="char:EOLhyphen"/>bour is diſcern'd, (which was firſt diſco<g ref="char:EOLhyphen"/>ver'd by Sr. <hi>Francis Drake,</hi> and called by him <hi>Port-pheaſant</hi>) where two Ships are Moor'd, and Sea-Carpenters are erecting a Pinnace, whilſt others are ſelling Trees to build a Fort. The narrowneſs to the entrance of the Harbour may be obſerv'd, with Rocks on either ſide; and out at Sea a Ship towing a Prize. And likewiſe on the top of a high Tree, a Marriner ma<g ref="char:EOLhyphen"/>king his Ken. This Proſpect is made through a Wood, differing from thoſe of European Climats, by repreſenting of <hi>Coco</hi>-Trees, <hi>Pines,</hi> and <hi>Palmitos.</hi> And on
+<pb n="3" facs="tcp:167146:3"/>the boughs of other Trees are ſeen <hi>Mun<g ref="char:EOLhyphen"/>kies, Apes,</hi> and <hi>Parrots.</hi>
+               </stage>
+               <stage>
+                  <hi>The Introduction of the Entry is by a Martiall</hi> Saraband.</stage>
+            </div>
+            <div n="1" type="scene">
+               <stage>
+                  <hi>The Saraband being ended, Enter</hi> Drake <hi>Junior, and</hi> Boatſwain.</stage>
+               <sp>
+                  <speaker>Drak. jun.</speaker>
+                  <l>CLimb, Boatſwain, climb! and from the height</l>
+                  <l>Of that ſteep Rock inform thy ſight!</l>
+                  <l>From yonder Point our Maſter call.</l>
+                  <l>I'le here attend our Admirall.
+<stage>Exit Boatſ.</stage>
+                  </l>
+                  <l>The Miſt aſcends, and ſouth'rd it growes clear!</l>
+                  <l>Me thinks at diſtance ſomewhat does appear,</l>
+                  <l>Which wakens us with hope.</l>
+               </sp>
+               <sp>
+                  <speaker>Boatſ.</speaker>
+                  <l>A Sail! a Sail!</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. jun. </speaker>
+                  <l>'Tis Engliſh built, or elſe my ſight does fail.</l>
+               </sp>
+               <sp>
+                  <speaker>Boatſ. within.</speaker>
+                  <l>Oho! Oho! another Ship I ſpy,</l>
+                  <l>And, by their Courſe, both to this Harbour ply.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. jun.</speaker>
+                  <l>She lowers her Main-ſail, the wind does riſe!</l>
+               </sp>
+               <sp>
+                  <speaker>Boatſ. within.</speaker>
+                  <l>She now bears in, and ſhe does tow a Prize</l>
+               </sp>
+               <pb n="4" facs="tcp:167146:4"/>
+               <stage>
+                  <hi>Enter</hi> Drake <hi>Senior.</hi>
+               </stage>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>TO Sea, to Sea! Man out the Boat!</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. jun.</speaker>
+                  <l>It has not Tyde enough to float.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>Stir, Mates! ſtir, ſtir! and bring more hands:</l>
+                  <l>Shove, ſhove! and roul her o're the Sands!</l>
+                  <l>Lanch forth, and make your Ken!</l>
+                  <l>Both by her Rigging and her Mould</l>
+                  <l>She brings our Country-men;</l>
+                  <l>And has a rich and heavy Hould.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter a</hi> Marriner.</stage>
+               <sp>
+                  <speaker>1 <hi>Mar.</hi>
+                  </speaker>
+                  <l>HO, Mate! ho, ho! what canſt thou ſee</l>
+                  <l>From the top-Gallant of that Tree?</l>
+               </sp>
+               <sp>
+                  <speaker>Mar. within.</speaker>
+                  <l>The Ship does Anchor caſt;</l>
+                  <l>And now her Boat does haſte</l>
+                  <l>To reach the Shore.</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Mar. </hi>
+                  </speaker>
+                  <l>What ſeeſt thou more?</l>
+               </sp>
+               <sp>
+                  <speaker>Mar. within.</speaker>
+                  <l>Enough to make me haſten down:</l>
+                  <l>For, if my eyes prove true,</l>
+                  <l>The bowels of <hi>Peru</hi>
+                  </l>
+                  <l>Shall be ript up and be our own.</l>
+                  <l>The Lion <hi>Rouſe</hi> is landed here.</l>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Mar.</hi>
+                  </speaker>
+                  <l>I'le run to meet him at the Peer.</l>
+                  <pb n="5" facs="tcp:167146:4"/>
+                  <l>A Tun of yellow Gold,</l>
+                  <l>Conceal'd within our Hold,</l>
+                  <l>For half my ſhare I ſcorn to take,</l>
+                  <l>When he is joyn'd with Dragon-<hi>Drake.</hi>
+                     <stage>Exit.</stage>
+                  </l>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <stage>
+                  <hi>Two Marriners having met with another newly landed, dance to a Rustick Ayre; The Dance being ended, Enter</hi> Drake <hi>Senior, Captain</hi> Rouſe, Drake <hi>Junior, and</hi> Page.</stage>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>WElcome to Land my brother of the Sea!</l>
+                  <l>From childhood rockt by winds</l>
+                  <l>and waves like me.</l>
+                  <l>VVho never canſt a danger dread,</l>
+                  <l>Since ſtill in dang'rous Tempeſts bred.</l>
+                  <l>Yet ſtill art ſafe and calm within thy breaſt,</l>
+                  <l>As Lovers who in ſhady Coverts reſt.</l>
+                  <l>Thy fame about the world does make her flight,</l>
+                  <l>And flies as ſwiftly as the wings of light.</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſ.</speaker>
+                  <l>My fame does lay her Trumpet down,</l>
+                  <l>VVhen yours does publiſh your renown.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen. </speaker>
+                  <l>VVhat is your Prize?</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſ.</speaker>
+                  <l>'Tis fraught with Spies:</l>
+                  <l>A Carvel rigg'd at <hi>Sivell</hi> for this Coaſt,</l>
+                  <pb n="6" facs="tcp:167146:5"/>
+                  <l>To fetch from hence</l>
+                  <l>Intelligence;</l>
+                  <l>But, meeting me, ſhe has her Voyage loſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>Brave friend, wilt thou now guided be</l>
+                  <l>By that bright Star which uſhers me?</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſ.</speaker>
+                  <l>VVhat man is that, Lov'd Admirall,</l>
+                  <l>VVho does not haſten at your call?</l>
+                  <l>He muſt be either deaf, or ever lame,</l>
+                  <l>VVho followes not your loud and leading fame.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>My courſe muſt now not be</l>
+                  <l>Upon the open Sea:</l>
+                  <l>Our Country's foes we muſt invade</l>
+                  <l>Through Woods, and ſeek them in the Shade;</l>
+                  <l>And follow them where <hi>Phoebus</hi> never ſhines,</l>
+                  <l>Through depths as dark and winding as their Mines.</l>
+               </sp>
+               <sp>
+                  <speaker>Chrous of all.</speaker>
+                  <l>That which enlightens, and does lead</l>
+                  <l>The world, and all our Vict'ries breed,</l>
+                  <l>We in thoſe Caverns ſhall behold,</l>
+                  <l>In ſeeing Man's bright Miſtris, Gold.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>Boat all our Guns! haſte, haſte aboar'd!</l>
+                  <l>Unlade! then let our Ships be Moor'd!</l>
+                  <l>To raiſe our Fort, ſome hew down Trees!</l>
+                  <l>Whilſt other rig our Pinnaces.</l>
+                  <l>Their watchfull Guards let ev'ry Sentry keep,</l>
+                  <l>That, after labour, all may ſafely ſleep.</l>
+                  <l>Some o're remoter grounds</l>
+                  <l>VValk, and relieve their Rounds:</l>
+                  <pb n="7" facs="tcp:167146:5"/>
+                  <l>VVhilſt ſome ſecure each <hi>Poſt</hi>
+                  </l>
+                  <l>On out-lets of the Coaſt.</l>
+                  <l>That, after wandring long to trace</l>
+                  <l>VVild Rivers, we may find this place</l>
+                  <l>For our imbarkment free,</l>
+                  <l>To wander more at Sea.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. jun.</speaker>
+                  <l>The jealous <hi>Spaniards</hi> long have un<g ref="char:EOLhyphen"/>derſtood</l>
+                  <l>The danger of this Harbour's neigh<g ref="char:EOLhyphen"/>bourhood.</l>
+                  <l>'Tis therefore fit</l>
+                  <l>That thou ſhouldſt leave behind,</l>
+                  <l>To govern it,</l>
+                  <l>A great experienc'd Mind.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>I know it is of high import.</l>
+                  <l>My ſecond thoughts conclude, thou <hi>Rouſe</hi> ſhalt ſtay,</l>
+                  <l>To finiſh and ſecure the Fort;</l>
+                  <l>VVhilſt we to <hi>Venta-Cruz</hi> enforce our way.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus of all.</speaker>
+                  <l>VVe muſt the Main forbear,</l>
+                  <l>And now a Coaſting go,</l>
+                  <l>Then up with Rivers ſteer,</l>
+                  <l>To watch how far they flow.</l>
+                  <l>But if landing we paſſe</l>
+                  <l>VVhere <hi>Recoes</hi> through Foords are long wading.</l>
+                  <l>Then we in pitty, alaſs,</l>
+                  <l>Their Mules muſt eaſe of their lading.</l>
+                  <stage>Exeunt omnes.</stage>
+               </sp>
+            </div>
+         </div>
+         <div n="2" type="act">
+            <pb n="8" facs="tcp:167146:6"/>
+            <head>The Second Entry. <hi>Symphony variouſly humour'd prepares the change of the Scene.</hi>
+            </head>
+            <div type="prelude">
+               <stage>The Scene is chang'd. IN which is diſcern'd a Rocky Country of the Symerons, who were a Mooriſh People, brought formerly to <hi>Peru</hi> by the Spaniards, as their Slaves, to dig in Mines; and having lately revolted from them, did live under the government of a King of their own Election. A Sea is diſ<g ref="char:EOLhyphen"/>cover'd, and Ships at diſtance, with Boats rowing to the ſhore, and <hi>Symerons</hi> upon the Rocks.</stage>
+            </div>
+            <div n="1" type="scene">
+               <pb n="9" facs="tcp:167146:6"/>
+               <stage>
+                  <hi>The Proſpect having continu'd a while, this Song is ſung by a Steers-man in theforeostm Boat, and the</hi> Chorus <hi>by Marri<g ref="char:EOLhyphen"/>ners rowing in it.</hi>
+               </stage>
+               <sp>
+                  <speaker>Steers<g ref="char:EOLhyphen"/>man.</speaker>
+                  <lg n="1">
+                     <l>A Loof! and aloof! and ſteady I ſteer!</l>
+                     <l>'Tis a Boat to our wiſh,</l>
+                     <l>And ſhe ſlides like a Fiſh,</l>
+                     <l>VVhen chearily ſtem'd, and when you row clear.</l>
+                     <l>She now has her trimme!</l>
+                     <l>Away let her ſwim.</l>
+                     <l>Mackrels are ſwift in the ſhine of the Moon;</l>
+                     <l>And Herrings in Gales when they wind us,</l>
+                     <l>But, timeing our Oars, ſo ſmoothly we run,</l>
+                     <l>That we leave them in ſhoals behind us.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Then cry, One and all!</l>
+                  <l>Amain! for <hi>Whitehall!</hi>
+                  </l>
+                  <l>The <hi>Diegos</hi> wee'll board to rummidge their Hould;</l>
+                  <l>And drawing our Steel, they muſt draw out their Gold.</l>
+               </sp>
+               <sp>
+                  <speaker>Steers<g ref="char:EOLhyphen"/>man.</speaker>
+                  <lg n="2">
+                     <l>Our Maſter and's Mate, with Bacon &amp; peaſe,</l>
+                     <l>In Cabins keep aboard;</l>
+                     <l>Each as warm as a Lord:</l>
+                     <l>No Queen, lying in, fies more at her eaſe.</l>
+                     <l>VVhilſt we lie in wait</l>
+                     <l>For Reals of Eight,</l>
+                     <l>And for ſome Gold Quoits, which fortune</l>
+                     <l>muſt ſend:</l>
+                     <pb n="10" facs="tcp:167146:7"/>
+                     <l>But, alas, how their ears will tingle,</l>
+                     <l>VVhen finding, though ſtill like <hi>Hectors</hi> we ſpend,</l>
+                     <l>Yet ſtill all our pockets ſhall jingle.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Then cry, One and all!</l>
+                  <l>Amain, &amp;c.</l>
+               </sp>
+               <sp>
+                  <speaker>Steers<g ref="char:EOLhyphen"/>man.</speaker>
+                  <lg n="3">
+                     <l>But Oh how the Purſer ſhortly will wonder,</l>
+                     <l>VVhen he ſums in his Book</l>
+                     <l>All the wealth we have took,</l>
+                     <l>And finds that wee'l give him none of the Plunder;</l>
+                     <l>He means to abate</l>
+                     <l>The Tyth for the State;</l>
+                     <l>Then for our Owners ſome part he'l diſ<g ref="char:EOLhyphen"/>count:</l>
+                     <l>But his fingers are pitcht together;</l>
+                     <l>VVhere ſo much will ſtick, that little will mount,</l>
+                     <l>VVhen he reckons the ſhares of either.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Then cry, One and all!</l>
+                  <l>Amain, &amp;c.</l>
+               </sp>
+               <sp>
+                  <speaker>Steers<g ref="char:EOLhyphen"/>man.</speaker>
+                  <lg n="4">
+                     <l>At ſight of our Gold, the Boatſwain will briſtle,</l>
+                     <l>But not finding his part,</l>
+                     <l>He will break his proud heart,</l>
+                     <l>And hang himſelf ſtrait ith' Chain of his VVhiſtle.</l>
+                     <l>Abaft and afore!</l>
+                     <l>Make way to the ſhore!</l>
+                     <l>Softly as fiſhes which ſlip through the ſtream,</l>
+                     <l>That we may catch their Sentries napping.</l>
+                     <pb n="11" facs="tcp:167146:7"/>
+                     <l>Poor little <hi>Diegos,</hi> they now little dream</l>
+                     <l>Of us the brave VVarriors of <hi>Wapping.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Then cry, One and all!</l>
+                  <l>Amain, &amp;c.</l>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <stage>
+                  <hi>This Song being ſung, Enter the King of the</hi> Si<g ref="char:EOLhyphen"/>merons, Drake <hi>Senior,</hi> Pedro, <hi>and</hi> Page.</stage>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>GReat VVand'rer of the Sea,</l>
+                  <l>Thy walks ſtill pathleſs be.</l>
+                  <l>The Races thou doſt run,</l>
+                  <l>Are known but to the Sun.</l>
+                  <l>And as the walk above,</l>
+                  <l>VVhere he does yearly move,</l>
+                  <l>VVe onely gueſs, though him we know,</l>
+                  <l>By great effects below.</l>
+                  <l>So, though thy courſes traceleſs are,</l>
+                  <l>As if conducted by a wandring Star,</l>
+                  <l>Yet by thy deeds all Climes acknowledge thee;</l>
+                  <l>And thou art known and felt as much as he.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>So narrow is my merit wrought,</l>
+                  <l>That when ſuch breadth you thus allow my fame,</l>
+                  <l>I ſtand corrected, and am taught</l>
+                  <l>To hide my ſtory, and to ſhew my ſhame.</l>
+               </sp>
+               <sp>
+                  <speaker>Kin.</speaker>
+                  <l>As tireleſs as thy Body is thy Mind:</l>
+                  <l>No adverſe current can thy progreſs ſtop.</l>
+                  <l>Thy forward courage leaves all doubts behind</l>
+                  <l>And when thy Anchor's loſt, thou keep'ſt thy Hope.</l>
+                  <pb n="12" facs="tcp:167146:8"/>
+                  <l>VVelcom! and in my Land be free,</l>
+                  <l>And pow'r full as thou art at Sea.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>Monarch of much! and ſtil deſerving more</l>
+                  <l>Then I have coaſted on the VVeſtern ſhore!</l>
+                  <l>Slave to my Queen! to whom thy vertue ſhowes</l>
+                  <l>How low thou canſt to vertue be;</l>
+                  <l>And, ſince declar'd a Foe to all her Foes,</l>
+                  <l>Thou mak'ſt them lower bow to thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Kin.</speaker>
+                  <l>Inſtruct me how my <hi>Symerons</hi> and I</l>
+                  <l>May help thee to afflict the Enemy.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>Afford me Guides to lead my bold</l>
+                  <l>Victorious Sea-men to their Gold:</l>
+                  <l>For nothing can afflict them more,</l>
+                  <l>Then to deprive them of that ſtore</l>
+                  <l>VVith which from hence they furniſht are</l>
+                  <l>T'afflict the peacefulll world with war.</l>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <l>Here from my boſom <hi>Pedro</hi> take,</l>
+                  <l>And him thy chief Conductor make.</l>
+                  <l>Who once was an unhappy ſlave to them;</l>
+                  <l>But now is free by my deſerv'd eſteem.</l>
+                  <l>He is as watchfull as the Eye</l>
+                  <l>Of Age ſtill wak'd with jealouſie:</l>
+                  <l>And like experienc'd Lovers wiſely true:</l>
+                  <l>Who after long ſuſpition find,</l>
+                  <l>They had no cauſe to be unkind,</l>
+                  <l>And then with ſecond vows their loves renew.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen</speaker>
+                  <l>He is, ſince ſo deſervingly expreſt,</l>
+                  <l>Remov'd but from thy boſom to my breaſt.</l>
+               </sp>
+               <pb n="13" facs="tcp:167146:8"/>
+               <sp>
+                  <speaker>Kin.</speaker>
+                  <l>All other ayds requir'd to thy deſigne,</l>
+                  <l>Chuſe and receive: for all my ſtrenghts are thine.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter Four</hi> Simerons, <hi>who dance a</hi> Moriſco <hi>for joy of the arrivall of</hi> Sr. Francis Drake, <hi>and depart. Then this Song is ſung by a</hi> Chorus <hi>of Marriners within.</hi>
+               </stage>
+               <sp>
+                  <speaker>Cherus of Marriners within.</speaker>
+                  <l>WInds now may whiſtle, and waves may dance to 'em,</l>
+                  <l>Whilſt Merchants cry out, ſuch ſport will undo 'em.</l>
+                  <l>And the Maſter alowd bids, Lee the Helm, Lee!</l>
+                  <l>But we now ſhall fear nor the Rocks nor the Sand,</l>
+                  <l>Whilſt calmly we follow our Plunder at Land,</l>
+                  <l>VVhen others in ſtorms ſeek Prizes at Sea.</l>
+               </sp>
+            </div>
+         </div>
+         <div n="3" type="act">
+            <head>The Third Entry.</head>
+            <div type="prelude">
+               <stage>THe change of the Scene is prepar'd by a Symphony, conſiſting of a Mar<g ref="char:EOLhyphen"/>tiall Ayre, which having continu'd a while, the Scene changes, and repreſents a Peru<g ref="char:EOLhyphen"/>vian Town, pleaſantly ſcituated, with <hi>Palmeto</hi>-Trees, <hi>Guavas,</hi> and <hi>Cypreſſes,</hi> grow<g ref="char:EOLhyphen"/>ing about it: whilſt Engliſh Land-ſoul<g ref="char:EOLhyphen"/>diers
+<pb n="14" facs="tcp:167146:9"/>and Sea-men ſeem to be drawn up to<g ref="char:EOLhyphen"/>wards the Weſt end; whilſt the Peruvians are feaſting their Gueſts, and Two of their Boyes bearing fruit towards the Strangers.</stage>
+            </div>
+            <div n="1" type="scene">
+               <stage>
+                  <hi>This Object having continu'd a while, Enter</hi> Drake <hi>Senior,</hi> Drake <hi>Junior,</hi> Pedro, Page.</stage>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>MArch! March! wheel to the right hand ſtill,</l>
+                  <l>To ſhun loos footing on that Hill.</l>
+                  <l>From thy Meridian run,</l>
+                  <l>O thou inflaming Sun!</l>
+                  <l>The Ayre above us elſe to fire will turn,</l>
+                  <l>And all this Sand beneath like cynders burn.</l>
+                  <l>Now give the word!</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. jun. </speaker>
+                  <l>Stand!</l>
+               </sp>
+               <sp>
+                  <speaker>Within. 1. </speaker>
+                  <l>Stand.</l>
+               </sp>
+               <sp>
+                  <speaker>Within. 2. </speaker>
+                  <l>Stand.</l>
+               </sp>
+               <sp>
+                  <speaker>Within. 3. </speaker>
+                  <l>Stand.</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. ſen.</speaker>
+                  <l>All firm and Soddain to command!</l>
+                  <l>Halt for our Reer awhile, and then</l>
+                  <l>VVeſt from that VVood draw up our Men.</l>
+                  <l>Stand to your Arms till we ſend out</l>
+                  <l>Our truſty <hi>Symerons</hi> to Scout.</l>
+               </sp>
+               <sp>
+                  <speaker>Pedr.</speaker>
+                  <l>Scouts I have choſen, who can trace</l>
+                  <l>All the retreats, which in the chace</l>
+                  <l>The Hunted ſeek; all ſhades to which they run</l>
+                  <l>VVhen ſtrength leaves them, and they the Hunters ſhun.</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. ſen.</speaker>
+                  <l>Are theſe <hi>Peruvians</hi> friends, or, by ſurprize,</l>
+                  <l>Muſt we ſecure them as our enemies?</l>
+               </sp>
+               <pb n="15" facs="tcp:167146:9"/>
+               <sp>
+                  <speaker>Pedro.</speaker>
+                  <l>Great Chief, they rev'rence thy renown,</l>
+                  <l>And thou maiſt quarter in their Town.</l>
+                  <l>Yet ſo advance with care,</l>
+                  <l>In all the ſhapes of War;</l>
+                  <l>That when the Spaniards know</l>
+                  <l>How well they treat their Foe,</l>
+                  <l>The Entertainment may appear,</l>
+                  <l>Not the effect of Love, but Fear.</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. Jun.</speaker>
+                  <l>Their dwelling ſeems ſo freſh and flouriſh<g ref="char:EOLhyphen"/>ing,</l>
+                  <l>As if it ſtill the Nurs'ry were</l>
+                  <l>Of all the ſeeds that furniſh out the Spring</l>
+                  <l>For ev'ry Clime, and all the Year.</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. Sen.</speaker>
+                  <l>Here Nature to her Summer Court retires:</l>
+                  <l>Our Northern Region is the ſhade,</l>
+                  <l>Where ſhe grows cold, and looks decaid,</l>
+                  <l>And ſeems to ſit by Artificial fires.</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. Jun.</speaker>
+                  <l>Advance, advance,</l>
+                  <l>And in the Rear,</l>
+                  <l>To make our number more appear,</l>
+                  <l>Let all our truſty SYM'RONS ſpread</l>
+                  <l>Their Ranks, and be by PEDRO led.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus of all.</speaker>
+                  <l>All Order with ſuch clemency preſerve,</l>
+                  <l>That ſuch as to our pow'r ſubmit,</l>
+                  <l>May take delight to cheriſh it,</l>
+                  <l>And ſeem as free as thoſe whom they ſhall ſerve.</l>
+               </sp>
+            </div>
+            <div n="2" type="scene">
+               <pb n="16" facs="tcp:167146:10"/>
+               <stage>Peruvians <hi>Enter, and Dance to a Ruſtick Ayr, after which, this Song is ſung by a</hi> Peruvian, <hi>and the</hi> Chorus <hi>to it by his Countrymen, whilſt they Dance again in a Round.</hi>
+               </stage>
+               <sp>
+                  <speaker>Peru.</speaker>
+                  <lg n="1">
+                     <l>VVIth Boughs and with Branches trim up our Bowres,</l>
+                     <l>And ſtrew them with Flowers:</l>
+                     <l>To receive ſuch a Gueſt</l>
+                     <l>As deſerves for a Feaſt</l>
+                     <l>All that the Forreſt, or the Field,</l>
+                     <l>Or deeper Lakes and Rivers yeild.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Still round, and round, and round,</l>
+                  <l>Let us compaſſe the ground.</l>
+                  <l>What man is he who feels</l>
+                  <l>Any weight at his heels?</l>
+                  <l>Since our hearts are ſo light, that all weigh'd together,</l>
+                  <l>Agree to a grain, &amp; they weigh not a feather. Land,</l>
+               </sp>
+               <sp>
+                  <speaker>Peru.</speaker>
+                  <lg n="2">
+                     <l>The Lord ot the Sea is welcom to And here ſhall command</l>
+                     <pb n="17" facs="tcp:167146:10"/>
+                     <l>All our Wealth, and our Arms;</l>
+                     <l>For his Name more Alarms</l>
+                     <l>The Spaniards, then Trumpets or Drums:</l>
+                     <l>Hark how they cry, <hi>Drake</hi> comes, <hi>Drake</hi> comes!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Still round, and round, and round, Let <hi>&amp;c.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Peru.</speaker>
+                  <lg n="3">
+                     <l>Though to his Foes like thoſe Winds he is rough,</l>
+                     <l>That meet in a huff:</l>
+                     <l>Yet that ſtorm quickly ends,</l>
+                     <l>When embrac'd by his friends:</l>
+                     <l>Then he is calm and gentle made</l>
+                     <l>As Loves ſoft whiſpers in a ſhade.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>Still round, and round, and round, Let <hi>&amp;c.</hi>
+                  </l>
+               </sp>
+            </div>
+         </div>
+         <div n="4" type="act">
+            <pb n="18" facs="tcp:167146:11"/>
+            <head>The Fourth Entry.</head>
+            <div type="prelude">
+               <stage>A Wilde <hi>Ayre,</hi> by way of Symphony, prepares the change of the Scene: which having continu'd a while, the Scene is chang'd; wherein is diſcern'd upon a Hill, a Wood, and in it a Tree vvhich vvas fa<g ref="char:EOLhyphen"/>mous in thoſe times for extraordinary com<g ref="char:EOLhyphen"/>paſs and height; on the top of which, <hi>Pedro</hi> (formerly a ſlave to the Spaniards, but now employ'd by the Mooriſh King to conduct Sir <hi>Francis Drake</hi> towards <hi>Panamah</hi>) had promis'd Sir <hi>Francis Drake</hi> to ſhew him both the North and the South Atlantick Seas. Engliſh Souldiers and Mariners are repoſing themſelves under it. At diſtance the Natives are diſcern'd in their hunting of Bores; and at nearer view, two Peruvians are killing a Stagg. This Object having remain'd a while,</stage>
+            </div>
+            <div n="1" type="scene">
+               <pb n="19" facs="tcp:167146:11"/>
+               <stage>Enter <hi>Drake</hi> Senior, <hi>Drake</hi> Junior, Page.</stage>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>A Boar ſo fierce and large,</l>
+                  <l>No Hunter e're did charge.</l>
+                  <l>Advance thy Spear,</l>
+                  <l>And turn him there.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Junior</hi>
+                  </speaker>
+                  <l>This laſt encounter he has bravely ſtood;</l>
+                  <l>But now has loſt his courage with his blood.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>He foams, and ſtill his Tusks does whet,</l>
+                  <l>As if he ſtill diſdain'd retreat.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Junior</hi>
+                  </speaker>
+                  <l>The wound you gave him makes him turn his head</l>
+                  <l>To ſeek the darker ſhades, where he was bred.</l>
+               </sp>
+               <sp>
+                  <speaker>Page</speaker>
+                  <l>Follow, follow!</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>Stay my Victorious Boy!</l>
+                  <l>When a couragious Beaſt does bleed,</l>
+                  <l>Then learn how far you ſhould proceed</l>
+                  <l>To uſe advantage where you may deſtroy:</l>
+                  <l>To courage even of Beaſts ſome pity's due;</l>
+                  <l>And where reſiſtance fails, ceaſe to purſue.</l>
+               </sp>
+               <stage>Enter <hi>Pedro.</hi>
+               </stage>
+               <sp>
+                  <speaker>Pedro</speaker>
+                  <l>Our men have firmly ſtood and ſwiftly run:</l>
+                  <l>The game was plentious &amp; the chace is done.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Junior</hi>
+                  </speaker>
+                  <l>PEDRO in ſev'ral formes has all</l>
+                  <l>That ev'ry where we merit call.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>Wary in War as Chiefs grown old;</l>
+                  <l>And yet in ſodain dangers bold.</l>
+                  <l>Civil and real too in courts;</l>
+                  <l>Painful in buſ'neſs and in ſports.</l>
+               </sp>
+               <pb n="20" facs="tcp:167146:12"/>
+               <sp>
+                  <speaker>Pedro</speaker>
+                  <l>Behold that Tree which much ſuperiour grows</l>
+                  <l>To all that in this Wood</l>
+                  <l>Have many Ages ſtood:</l>
+                  <l>Beneath whoſe ſhade your Warriours may re<g ref="char:EOLhyphen"/>poſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Junior</hi>
+                  </speaker>
+                  <l>There let us ſtay</l>
+                  <l>And turn our Prey</l>
+                  <l>Into a Feaſt</l>
+                  <l>Till in the Weſt</l>
+                  <l>The Cypreſs curtain of the night is drawn;</l>
+                  <l>Then forward march as early as the dawn.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>Is this that moſt renown'd of Weſtern Trees</l>
+                  <l>On whoſe Main-top</l>
+                  <l>Thou gav'ſt me hope</l>
+                  <l>To view the North and South Atlantick Seas?</l>
+               </sp>
+               <sp>
+                  <speaker>Pedro</speaker>
+                  <l>It is; therefore with ſpeed</l>
+                  <l>Thither, my Chief, proceed:</l>
+                  <l>And, when you climbing have attaind' the height,</l>
+                  <l>Report will grow authentick by your ſight.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>When from thoſe lofty branches I</l>
+                  <l>The ſouth Atlantick ſpy</l>
+                  <l>My vows ſhall higher fly,</l>
+                  <l>Till they with higheſt Heav'n prevail</l>
+                  <l>That, as I ſee it, I may on it Sail.</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. <hi>Jun.</hi>
+                  </speaker>
+                  <l>No Engliſh Keel hath yet that Ocean plow'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Pedro.</speaker>
+                  <l>If Propheſie from me may be allow'd,</l>
+                  <l>Renowned DRAKE, Heav'n does decree</l>
+                  <l>That happy Enterprize to thee.</l>
+                  <l>For thou of all the Brittains art the firſt</l>
+                  <l>That boldly durſt</l>
+                  <pb n="21" facs="tcp:167146:12"/>
+                  <l>This Weſtern World invade;</l>
+                  <l>And as thou now art made</l>
+                  <l>The firſt to whom that Ocean will be ſhown,</l>
+                  <l>So to thy Iſle thou firſt ſhalt make it known.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus of all.</speaker>
+                  <l>This Propheſie will riſe</l>
+                  <l>To higher Enterpriſe.</l>
+                  <l>The Engliſh Lion's Walk ſhall reach as far</l>
+                  <l>As proſp'rous Valour dares adventure War.</l>
+                  <l>As Winds can drive, or Waves can bear</l>
+                  <l>Thoſe Ships which boldeſt Pilots ſtear.</l>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="2" type="scene">
+               <head>
+                  <hi rend="stage">This Song is ſung by two Land Souldiers, and two Seamen.</hi> The Song.</head>
+               <sp>
+                  <speaker>Sea<g ref="char:EOLhyphen"/>men.</speaker>
+                  <l>HOw comes it you Land-men, and</l>
+                  <l>we of the Sea,</l>
+                  <l>Though oft mixt together, yet</l>
+                  <l>ſeldom agree?</l>
+               </sp>
+               <sp>
+                  <speaker>Landm.</speaker>
+                  <l>A Riddle, which we can finde out</l>
+                  <l>no more</l>
+                  <l>Then you can why Seas conteſt</l>
+                  <l>with the Shore.</l>
+               </sp>
+               <pb n="22" facs="tcp:167146:13"/>
+               <sp>
+                  <speaker>Seam.</speaker>
+                  <l>We give a ſhrewd gueſs how our</l>
+                  <l>quarrels have grown;</l>
+                  <l>For ſtill when at land we are</l>
+                  <l>joyntly deſign'd</l>
+                  <l>To the dainty delight of ſtorming</l>
+                  <l>a Town,</l>
+                  <l>You run to the Plunder, and</l>
+                  <l>leave us behinde.</l>
+               </sp>
+               <sp>
+                  <speaker>Landm.</speaker>
+                  <l>Alas, our dear Brothers! How can</l>
+                  <l>we forbear?</l>
+                  <l>But aboord when you have us,</l>
+                  <l>where wonderful Gold</l>
+                  <l>Is ſhovell'd like Ballaſt, y'are even</l>
+                  <l>with us there:</l>
+                  <l>We fight on the Decks, whilſt</l>
+                  <l>you rummidge the Hould.</l>
+               </sp>
+               <sp>
+                  <speaker>Seam.</speaker>
+                  <l>But now we ſhall March where</l>
+                  <l>the <hi>Diegos</hi> (though loth</l>
+                  <l>To part with it civi'ly) may</l>
+                  <l>ſoon oblige both.</l>
+               </sp>
+               <sp>
+                  <speaker>Landm.</speaker>
+                  <l>They ſo much are ſcar'd from their</l>
+                  <l>Wits with their dangers</l>
+                  <l>That now they want wit to be</l>
+                  <l>civil to ſtrangers.</l>
+               </sp>
+               <pb n="23" facs="tcp:167146:13"/>
+               <sp>
+                  <speaker>Chorus of all.</speaker>
+                  <l>Come let us joyn hands then, and</l>
+                  <l>ne'r part aſunder,</l>
+                  <l>But, like the true Sons of truſty</l>
+                  <l>old Mothers,</l>
+                  <l>Make equally haſte to a ſnap of</l>
+                  <l>the plunder,</l>
+                  <l>Then juſtly divide and ſpend it</l>
+                  <l>like Brothers.</l>
+               </sp>
+               <stage>
+                  <hi>This</hi> Song <hi>being ended, the two</hi> Land-ſoul<g ref="char:EOLhyphen"/>diers <hi>and the two</hi> Sea-men <hi>dance a Jigg, to intimate their future agreement.</hi>
+               </stage>
+            </div>
+         </div>
+         <div n="5" type="act">
+            <head>The Fifth Entry.</head>
+            <div type="prelude">
+               <stage>THis Entry is prepar'd by an Ayr and Corante; and then the Scene is chang'd; in which is diſcover'd the riſing of the Sun through a thick Wood, and <hi>Venta-Cruz</hi> at great diſtance on the South ſide. Which being diſcern'd a while,</stage>
+            </div>
+            <div n="1" type="scene">
+               <pb n="24" facs="tcp:167146:14"/>
+               <stage>Enter <hi>Drake</hi> Senior, <hi>Drake</hi> Junior, Page, Souldier.</stage>
+               <sp>
+                  <speaker>Drake <hi>Junior</hi>
+                  </speaker>
+                  <l>Bold ROUSE, doubting our ſafety by our ſtay;</l>
+                  <l>Thinking his patience longer then our way;</l>
+                  <l>And having well ſecur'd our Port,</l>
+                  <l>Our Trenches digg'd, and rais'd our Fort,</l>
+                  <l>Is here arriv'd, reſolving ſtill to be</l>
+                  <l>A ſharer in your worſer deſtinie.</l>
+                  <l>He was conducted by a SYMERON;</l>
+                  <l>And bows for what his raſher Love has done.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>I ſhall be very ſlow</l>
+                  <l>When I muſt backward go,</l>
+                  <l>With puniſhment to overtake</l>
+                  <l>The errours which my friend did make.</l>
+                  <l>Tell him I know his fault is paſt;</l>
+                  <l>And now I cannot but go faſt</l>
+                  <l>When I ſhall forward move</l>
+                  <l>To meet approaching Love.</l>
+                  <stage>Exit Soldier.</stage>
+                  <l>The morn begins her glory in the Eaſt;</l>
+                  <l>And now the world prepares</l>
+                  <l>To entertain new cares;</l>
+                  <l>Though th'old ſuffic'd to hinder all our reſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Junior</hi>
+                  </speaker>
+                  <l>Benighted Seamen now their Courſe reform</l>
+                  <l>Who, Coaſting, were miſguided by a ſtorm.</l>
+                  <l>Now Merchants to imported ſtowage haſte,</l>
+                  <l>Whilſt Plowmen drive from cottages their Teems.</l>
+                  <l>The Poor in Cities riſe to toyl and faſte;</l>
+                  <l>And Lovers grieve to leave their pleaſant Dreams.</l>
+               </sp>
+               <pb n="25" facs="tcp:167146:14"/>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>Be careful not to let</l>
+                  <l>The Camps Reveilie beat</l>
+                  <l>To make our Warriours riſe and move:</l>
+                  <l>But as Heav'ns Traveller above</l>
+                  <l>Unheard begins, and ſilently his way</l>
+                  <l>Does ſtill continue till he perfects Day,</l>
+                  <l>So all this progreſs muſt be calmly made.</l>
+                  <l>The winds, which ſtill unſeen</l>
+                  <l>Have in their motion been,</l>
+                  <l>Oft paſs without a whiſper through the ſhade.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Junior</hi>
+                  </speaker>
+                  <l>Each, dutious as your ſlave,</l>
+                  <l>Does to your Orders grow;</l>
+                  <l>And all, as in the Grave,</l>
+                  <l>Are huſht and private now.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>Ere we begin to march, ſend out</l>
+                  <l>The SYMERONS agen to ſcout:</l>
+                  <l>Let not our Wings be looſely ſpread:</l>
+                  <l>The Van I'le at ſome diſtance lead.</l>
+                  <l>Thoſe who the Baggage bear</l>
+                  <l>Let PEDRO ſtill relieve, and cloſse</l>
+                  <l>Secure their Haltings in our Groſs.</l>
+                  <l>You ſhall command the Rere.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Rouſe.</stage>
+               <sp>
+                  <speaker>Rouſe.</speaker>
+                  <l>Arm, Arm! make haſte, and bring me to my Chief!</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>What great diſtreſs does haſten for relief?</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſe.</speaker>
+                  <l>I come not now thy pardon to receive,</l>
+                  <l>Becauſe my raſher love without thy leave</l>
+                  <l>Durſt venture for a ſhare</l>
+                  <l>Of thy miſhaps in War.</l>
+               </sp>
+               <pb n="26" facs="tcp:167146:15"/>
+               <sp>
+                  <speaker>Dr. Sen.</speaker>
+                  <l>What wildeneſs more</l>
+                  <l>Then I have ſeen before</l>
+                  <l>In Deſerts openly expos'd,</l>
+                  <l>Or Woods with ancient growth of ſhades inclos'd,</l>
+                  <l>Or Seas, when nought but light'ning has appear'd,</l>
+                  <l>And only Thunder and the Winds were heard,</l>
+                  <l>Does now thy wond'ring looks poſſeſs?</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. Jun.</speaker>
+                  <l>What more then yet thou canſt expreſs?</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſe.</speaker>
+                  <l>DRAKE, thy belov'd renown is loſt,</l>
+                  <l>Of which thy Nation us'd to boaſt:</l>
+                  <l>Since now, where thou a ſword doſt wear,</l>
+                  <l>And many marks of pow'r doſt bear,</l>
+                  <l>The worſt of licenſe does beſt Laws invade:</l>
+                  <l>For Beauty is an abject captive made;</l>
+                  <l>Even whilſt thoſe flowry Ornaments are worn</l>
+                  <l>Which ſhould the Bridal dignity adorn.</l>
+                  <l>If thus the crowd be ſuffer'd to deride</l>
+                  <l>The ſacred Rites and Honours of a Bride,</l>
+                  <l>Let ſavage War devour all civil Peace,</l>
+                  <l>Love fly from Courts to Camps, and Sexes ceaſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. <hi>Sen.</hi>
+                  </speaker>
+                  <l>Thy myſtick meaning thou doſt leſs</l>
+                  <l>By words then by thy looks expreſs.</l>
+               </sp>
+               <sp>
+                  <speaker>Dr. Jun.</speaker>
+                  <l>That we may better know</l>
+                  <l>Thy thoughts, make haſte to ſhow</l>
+                  <l>The object of our wonder, and thy fear.</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſe.</speaker>
+                  <l>Turn your unhappy eyes, and ſee it there.</l>
+               </sp>
+               <pb n="27" facs="tcp:167146:15"/>
+               <stage>
+                  <hi>The</hi> Scene <hi>is ſuddenly chang'd into the for<g ref="char:EOLhyphen"/>mer proſpect of the riſing of the Morning, and</hi> Venta Cruz; <hi>but, about the Middle, it is vary'd with the diſcov'ry of a Beautiful Lady ty'd to a Tree, adorn'd with the Ornaments of a Bride, with her hair diſhevel'd, and com<g ref="char:EOLhyphen"/>plaining with her hands towards Heaven: near her are likewiſe diſcern'd the</hi> Symerons <hi>who took her priſoner.</hi>
+               </stage>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>What diſmal Beauty does amaze my ſight,</l>
+                  <l>Which from black ſorrow breaks like Morn from Night?</l>
+                  <l>And though it ſweeteſt Beauty be</l>
+                  <l>Does ſeem more terrible to me</l>
+                  <l>Then all the ſudden and the various forms</l>
+                  <l>Which Death does wear in Battels and in ſtorms.</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſe.</speaker>
+                  <l>A party of your SYMERONS (whoſe eyes</l>
+                  <l>Pierce through that darkneſs which does night diſguiſe</l>
+                  <l>Whom weary toyls might ſleepy make,</l>
+                  <l>But that revenge keeps them awake)</l>
+                  <l>Did e're the early dawning riſe,</l>
+                  <l>And cloſse by VENTA-CRUZ ſurpriſe</l>
+                  <l>A Bride and Bridegroom at their Nuptial Feaſt,</l>
+                  <l>To whom the SYM'RONS now</l>
+                  <l>Much more then fury ſhow;</l>
+                  <l>For they have all thoſe cruelties expreſt</l>
+                  <pb n="28" facs="tcp:167146:16"/>
+                  <l>That Spaniſh pride could e're provoke from them</l>
+                  <l>Or Mooriſh Malice can revenge eſteem.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>Arm! Arm! the honour of my Nation turns</l>
+                  <l>To ſhame, when an afflicted Beauty mourns.</l>
+                  <l>Though here theſe cruel SYMERONS exceed</l>
+                  <l>Our number, yet they are too few to bleed</l>
+                  <l>When Honour muſt revengeful be</l>
+                  <l>For this affront to Love and me.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Junior</hi>
+                  </speaker>
+                  <l>Our Forces of the Land,</l>
+                  <l>Brave Chief, let me command.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>March on! whilſt with my Seamen I advance;</l>
+                  <l>Let none, before the Dice are caſt, deſpair;</l>
+                  <l>Nor after they are thrown, diſlike the chance;</l>
+                  <l>For Honour throws at all, and ſtill plays fair.</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſe</speaker>
+                  <l>In Beauties noble cauſe no Seaman doubt,</l>
+                  <l>If Poets may authentick be.</l>
+                  <l>For Sea-born VENUS ſake let them march out:</l>
+                  <l>She leads them both at Land and Sea.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>Long yet ere night</l>
+                  <l>I ſhall in fight</l>
+                  <l>Their ſtormy courage prove:</l>
+                  <l>Each Seaman hath his Mermaid too;</l>
+                  <l>And by inſtinct muſt love,</l>
+                  <l>Though he were never taught to wooe.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Pedro.</stage>
+               <sp>
+                  <speaker>Pedro</speaker>
+                  <l>Stay! ſtay! ſucceſsful Chief! my heart as low</l>
+                  <l>As the foundation where thou tread'ſt does bow:</l>
+                  <l>But 'tis not for my own offence;</l>
+                  <pb n="29" facs="tcp:167146:16"/>
+                  <l>For if I ſhould offend</l>
+                  <l>My King, in thee his friend,</l>
+                  <l>I would not with my ſelf diſpence.</l>
+                  <l>Thy mercy ſhall our pattern be,</l>
+                  <l>Behold th'aſflicted Bride is free.</l>
+                  <stage>
+                     <hi>The</hi> Scene <hi>is ſuddenly, chang'd again, where the Lady is vaniſht, and nothing appears butthat Proſpect which was in the beginning of the</hi> Entry.</stage>
+                  <l>She is as free and as unblemiſht too</l>
+                  <l>As if ſhe had a Pris'ner been to you.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Senior</hi>
+                  </speaker>
+                  <l>What are they who diſguis'd in nights dark ſhade,</l>
+                  <l>Unlicens'd, from our Cap this ſally made?</l>
+                  <l>Strait to the ſtroke of Juſtice bring me thoſe!</l>
+               </sp>
+               <sp>
+                  <speaker>Pedro</speaker>
+                  <l>They thought their duties was to take their foes.</l>
+                  <l>Be merciful, and cenſure the offence</l>
+                  <l>To be, but their miſtaken diligence.</l>
+               </sp>
+               <sp>
+                  <speaker>Drake <hi>Junior</hi>
+                  </speaker>
+                  <l>Suſpect not PEDRO in this crime, who ſtill</l>
+                  <l>Has ſhewn exact obedience to thy Will.</l>
+               </sp>
+               <sp>
+                  <speaker>Pedro</speaker>
+                  <l>And noble Chief, the cruelties which they</l>
+                  <l>Have often felt beneath the Spaniards ſway</l>
+                  <l>(Who midſt the tryumphs of our Nuptial feaſts</l>
+                  <l>Have forc'd our Brides, &amp; ſlaughter'd al our gueſts)</l>
+                  <l>May ſome excuſe even from your Reaſon draw:</l>
+                  <l>Revenge does all the fetters break of Law.</l>
+               </sp>
+               <pb n="30" facs="tcp:167146:17"/>
+               <sp>
+                  <speaker>Dr. <hi>Sen.</hi>
+                  </speaker>
+                  <l>The future guidance and the care</l>
+                  <l>Of their demeanour in this war,</l>
+                  <l>Is ſtrictly, PEDRO, left to thee:</l>
+                  <l>The gentle Sex muſt ſtill be free.</l>
+                  <l>No length of ſtudy'd torments ſhall ſuffice</l>
+                  <l>To puniſh all unmanly cruelties.</l>
+                  <l>March on! they may ere night redeem</l>
+                  <l>By vertuous Valour my eſteem.</l>
+               </sp>
+               <stage>
+                  <hi>Exeunt Drake</hi> Sen. <hi>Drake</hi> Jun. <hi>Rouſe,</hi> &amp; Page.</stage>
+               <sp>
+                  <speaker>Pedro</speaker>
+                  <l>Ho! ho! the Pris'ners ſtraight unbinde,</l>
+                  <l>And let the Bride all homage finde;</l>
+                  <l>The Father and the Bridegroom hither bring.</l>
+                  <l>Ere yet our Van ſhall far advance,</l>
+                  <l>Know Diegos you muſt dance.</l>
+                  <l>Strike up, ſtrike up! in honour of my King.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> the Father of the Bride, and her Bridegroom; the Bridegroom dancing with <hi>Caſtanietos,</hi> to expreſs the joy he receives for his liberty, whilſt the Father moves to his meaſures, denoting the fright he had receiv'd from the <hi>Symerons,</hi> when he was ſurpriz'd at his Nuptial Entertainment.</stage>
+            </div>
+         </div>
+         <div n="6" type="act">
+            <pb n="31" facs="tcp:167146:17"/>
+            <head>The Sixt Entry.</head>
+            <div type="prelude">
+               <stage>THis Entry is prepar'd with a Martiall Ayre, and preſently the Scene is chang'd; wherein is diſcover'd the Proſpect of a hilly Country, with the Town <hi>Pana<g ref="char:EOLhyphen"/>mah</hi> at a diſtance, and <hi>Recoes</hi> of Mules, in along train, loaden with Wedges of Sil<g ref="char:EOLhyphen"/>ver and Ingots of Gold, and travelling in ſeverall Roads down a Mountain. There likewiſe may be diſcern'd their Drivers and Guards.</stage>
+            </div>
+            <div n="1" type="scene">
+               <stage>
+                  <hi>Enter</hi> Drake <hi>Senior,</hi> Drake <hi>Junior,</hi> Page.</stage>
+               <sp>
+                  <speaker>Drak. jun.</speaker>
+                  <l>THe <hi>Reco</hi> is not yet within our Ken.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>It will be ſtrait. Draw up our men,</l>
+                  <l>And in low whiſpers give our Orders out.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. jun.</speaker>
+                  <l>Where's <hi>Pedro</hi> now?</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>Upon the brow</l>
+                  <l>Of that high Hill, I ſent him there to ſcout.</l>
+               </sp>
+               <pb n="32" facs="tcp:167146:18"/>
+               <stage>
+                  <hi>Enter</hi> Rouſe.</stage>
+               <sp>
+                  <speaker>Rouſ.</speaker>
+                  <l>CHief, we are all into a Body drawn,</l>
+                  <l>And now an hour is waſted ſince the dawn.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak ſen.</speaker>
+                  <l>The time will yet ſuffice. We halted here</l>
+                  <l>To ſtay for our tir'd Baggage in the Reer.</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſ.</speaker>
+                  <l>If ought from new reſolves thou wilt com<g ref="char:EOLhyphen"/>mand,</l>
+                  <l>Speak, Chief, we now in expectation ſtand.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak ſen.</speaker>
+                  <l>If Engliſh courage could at all be rais'd,</l>
+                  <l>By being well perſwaded, or much prais'd,</l>
+                  <l>Speech were of uſe: but Valour born, not bred,</l>
+                  <l>Cannot by Art (ſince being ſo,</l>
+                  <l>It does as far as Nature goe)</l>
+                  <l>Be higher lifted, or be farther led.</l>
+                  <l>All I would ſpeak, ſhould tell you, I deſpiſe</l>
+                  <l>That treaſure which I now would make your Prize:</l>
+                  <l>Unworthy 'tis to be your chiefeſt aime.</l>
+                  <l>For this attempt is not for Gold, but Fame;</l>
+                  <l>Which is not got when we the <hi>Reco</hi> git,</l>
+                  <l>But by ſubduing thoſe who reſcue it.</l>
+               </sp>
+               <stage>Enter a Souldier.</stage>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <l>
+                     <hi>PEdro</hi> deſcends the Hill, and does deſire</l>
+                  <l>That from this open plain you would retire,</l>
+                  <pb n="33" facs="tcp:167146:18"/>
+                  <l>And wheel behind that Wood a little ſpace.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>Divide our Forces to ſecure the Paſſe.</l>
+               </sp>
+               <stage>Exeunt.</stage>
+               <stage>
+                  <hi>Enter</hi> Drake <hi>Junior, a Souldier,</hi> Rouſe, <hi>and a Marriner, the Soldier and Marriner being brought to be plac'd as Sentrys.</hi>
+               </stage>
+               <sp>
+                  <speaker>Drak jun.</speaker>
+                  <l>THis muſt your ſtation be;</l>
+                  <l>Stand ſtedfaſt as that Tree!</l>
+               </sp>
+               <sp>
+                  <speaker>Rouſ.</speaker>
+                  <l>Bravely alive upon this ground,</l>
+                  <l>Or greater elſe in death be found.</l>
+                  <stage>
+                     <hi>Exeunt</hi> Drak. <hi>jun. &amp;</hi> Rouſ.</stage>
+                  <l>
+                     <hi>The Bells of the Mules are heard from within.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Mules! Mules! I hear their walking chim, Ting, ting! —</l>
+                  <l>They love ſad Tunes, how dolfully they ring?</l>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <l>This ſound ſeems ſingle, &amp; from far does come.</l>
+                  <l>Would I were leading one rich Mule at home.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Still one and all I cry.</l>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <l>The reſt are paſſing by.</l>
+                  <l>Hark! hark! this mournfull toleing does foretell</l>
+                  <l>Some <hi>Diegos</hi> death, it is his paſſing Bell.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Pedro, <hi>leading a Symeron to be plac'd as a Sentry.</hi>
+               </stage>
+               <sp>
+                  <speaker>Pedr.</speaker>
+                  <l>HEre <hi>Sym'ron,</hi> you muſt bold and watchful be.</l>
+                  <l>Two Foes reſiſt, but if oppreſt by three,</l>
+                  <pb n="34" facs="tcp:167146:19"/>
+                  <l>Then ſtrait fall back to that next Sentry there:</l>
+                  <l>Or if in Groſſe th'Enemy does appear,</l>
+                  <l>Both to the third retirement make,</l>
+                  <l>Till we th'Alarm, advancing, take.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Friend <hi>Pedro,</hi> friend! Is't one and all?</l>
+               </sp>
+               <sp>
+                  <speaker>Pedr.</speaker>
+                  <l>Speak ſoftly, Sentry, doſt thou call?</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>How many golden <hi>Recoes</hi> didſt thou ſpy?</l>
+               </sp>
+               <sp>
+                  <speaker>Pedr.</speaker>
+                  <l>But two: in which I gueſſe</l>
+                  <l>By diſtant view, no leſs</l>
+                  <l>Then ninety loaden Mules are paſſing by,</l>
+               </sp>
+               <sp>
+                  <speaker>Sold.</speaker>
+                  <l>What number is their Guard who march be<g ref="char:EOLhyphen"/>fore?</l>
+               </sp>
+               <sp>
+                  <speaker>Pedr.</speaker>
+                  <l>Five hundred Foot, their Horſe may ſeem threeſcore.</l>
+               </sp>
+               <stage>Exit.</stage>
+               <sp>
+                  <speaker>Sold.</speaker>
+                  <l>Friend of the Sea, their number is not ſmall.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>'T will ſerve our turn, they crying one and all!</l>
+                  <l>But brother of the Land,</l>
+                  <l>We now muſt underſtand</l>
+                  <l>That <hi>Basta</hi> is the Word.</l>
+               </sp>
+               <sp>
+                  <speaker>Sold.</speaker>
+                  <l>VVould thou were ſafe aboard.</l>
+               </sp>
+               <sp>
+                  <speaker>Mar.</speaker>
+                  <l>Aſleep under Deck, and danc'd on a Billow,</l>
+                  <l>With two Silver Wedges, each for my Pillow.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Drake <hi>Senior, with his ſword drawn.</hi>
+               </stage>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>THat Volly was well fir'd,</l>
+                  <l>Our out-Guards are retir'd.</l>
+                  <l>Draw all our Sentries in!</l>
+                  <l>The Skirmiſh does begin.
+<stage>Exit.</stage>
+                  </l>
+               </sp>
+               <stage>Claſhing of Arms is heard afar off.</stage>
+               <pb n="35" facs="tcp:167146:19"/>
+               <stage>
+                  <hi>Enter</hi> Drake <hi>Junior.</hi>
+               </stage>
+               <sp>
+                  <speaker>Drak. jun.</speaker>
+                  <l>MOre Pikes! more Pikes! to reinforce</l>
+                  <l>That Squadron, and repulſe the Horſe.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Rouſe.</stage>
+               <sp>
+                  <speaker>Rouſ.</speaker>
+                  <l>THe Foe does make his firſt bold count'<g ref="char:EOLhyphen"/>nance good.</l>
+                  <l>Our Charge was bravely made, and well with-ſtood..</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Pedro.</stage>
+               <sp>
+                  <speaker>Rouſ.</speaker>
+                  <l>YOur <hi>Sym'rons,</hi> valiant <hi>Pedro,</hi> ſeem to reel.</l>
+               </sp>
+               <sp>
+                  <speaker>Pedr.</speaker>
+                  <l>Suſpect your Rocks at Sea. They do bur wheel.</l>
+                  <l>Haſte! haſte! brave <hi>Sym'rons,</hi> haſte to gain that Bank,</l>
+                  <l>And with your Arrowes gall them in the Flank.</l>
+                  <stage>Claſhing of Arms within again.</stage>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Drake <hi>Senior, Page.</hi>
+               </stage>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>HOw warmly was this ſtrife</l>
+                  <l>Maintain'd 'twixt Death and Life,</l>
+                  <l>Till Blood had quench'd the flame of Valours fire?</l>
+                  <l>Death ſeeming to advance in haſte,</l>
+                  <l>Whilſt Life, though weary, yet ſtood faſt;</l>
+                  <l>For Life is ſtill unwilling to retire.</l>
+                  <l>My Land-men bravely fought,</l>
+                  <l>And high renown have got,</l>
+                  <pb n="36" facs="tcp:167146:20"/>
+                  <l>For twice my Sea-men they from death reliev'd.</l>
+                  <l>As oft my Sea-men have</l>
+                  <l>Preſerv'd them form the grave,</l>
+                  <l>And did requite the reſcue they receiv'd.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Drake <hi>Junior.</hi>
+               </stage>
+               <sp>
+                  <speaker>Dra. jun.</speaker>
+                  <l>THey fly! they fly! yet now they ſeem to face</l>
+                  <l>All thoſe who them purſue,</l>
+                  <l>And would the Fight renew.
+<stage>
+                        <hi>Enter</hi> Rouſe <hi>and</hi> Pedro.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Rouſ.</speaker>
+                  <l>They fly, they fly!</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>Away, make good the Chaſe.
+<stage>Exeunt omnes.</stage>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Chorus of all within.</speaker>
+                  <l>Follow, follow, follow!</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Drake <hi>Senior,</hi> Drake <hi>Junior,</hi> Rouſe, Pedro, Page.</stage>
+               <sp>
+                  <speaker>Pedr.</speaker>
+                  <l>THe Mules are ceis'd, and in our pow'r remain.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. ſen.</speaker>
+                  <l>Draw out new Guards, and range them in the Plain.</l>
+                  <l>Thoſe who hereafter on our Legend look,</l>
+                  <l>And vallue us by that which we have took,</l>
+                  <l>May over-reckon it, and us miſprize.</l>
+                  <l>Our dang'rous courſe through ſtorms and ra<g ref="char:EOLhyphen"/>ging floods,</l>
+                  <l>And painfull march through unfrequented Woods.</l>
+                  <l>Will make thoſe wings by which our fame ſhall riſe.</l>
+                  <pb n="37" facs="tcp:167146:20"/>
+                  <l>Your glory, valiant Engliſh, muſt be known,</l>
+                  <l>When men ſhall read how you did dare</l>
+                  <l>To ſail ſo long, and march ſo far,</l>
+                  <l>To tempt a ſtrength much greater than your own.</l>
+               </sp>
+               <sp>
+                  <speaker>Drak. jun.</speaker>
+                  <l>And now by making our Retreat,</l>
+                  <l>We ſhall new Wreaths and Statues get.</l>
+               </sp>
+               <stage>
+                  <hi>The Grand Chorus, first ſung by</hi> Drake <hi>ſen.</hi>
+               </stage>
+               <sp>
+                  <speaker>Chorus of all.</speaker>
+                  <l>Our Courſe let's to victorious <hi>England</hi> ſteer!</l>
+                  <l>Where, when our Sails ſhall on the Coaſt ap<g ref="char:EOLhyphen"/>pear,</l>
+                  <l>Thoſe who from Rocks and Steeples ſpy</l>
+                  <l>Our Streamers out, and Colours fly,</l>
+                  <l>VVill cauſe the Bells to ring,</l>
+                  <l>VVhilſt chearfully they ſing</l>
+                  <l>Our ſtory, which ſhall their Example be,</l>
+                  <l>And make Succesſion cry, To Sea, to Sea.</l>
+               </sp>
+               <stage>Exeunt omnes.</stage>
+               <stage>The Grand Dance begins, conſiſting of two Land-ſouldiers, two Sea-men, two Symerons, and a Peruvian; intimating, by their ſeverall interchange of ſalutations, their mutuall deſires of amity. The Dance being ended,</stage>
+               <trailer>The Curtain falls.</trailer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

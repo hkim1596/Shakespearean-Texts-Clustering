@@ -1,0 +1,620 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Women will have their will: or, Give Christmas his due. In a dialogue betweene Mris Custome, a victuallers wife neere Cripplegate, and Mris New-come, a captains wife, living in Reformation-Alley, neer Destruction-street. When Gillian Turn-tripe, Jack-an-apes his trull, and Cicely Sly-tricks, Gol-magogs great gull, shall once begin to rule and sway this land, oh, to those subjects under their command!</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96827</idno>
+            <idno type="STC">Wing W3327</idno>
+            <idno type="STC">Thomason E1182_12</idno>
+            <idno type="STC">ESTC R208164</idno>
+            <idno type="EEBO-CITATION">99867143</idno>
+            <idno type="PROQUEST">99867143</idno>
+            <idno type="VID">119434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119434)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1182[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Women will have their will: or, Give Christmas his due. In a dialogue betweene Mris Custome, a victuallers wife neere Cripplegate, and Mris New-come, a captains wife, living in Reformation-Alley, neer Destruction-street. When Gillian Turn-tripe, Jack-an-apes his trull, and Cicely Sly-tricks, Gol-magogs great gull, shall once begin to rule and sway this land, oh, to those subjects under their command!</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E.P. for W.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut.</note>
+                  <note>Annotation on Thomason copy: "Dec: 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English drama (Comedy) --  17th century.</term>
+               <term>Women in literature --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119434:1" rendition="simple:additions"/>
+            <p>WOMEN WILL Have their Will: <hi>OR, Give</hi> Chriſtmas <hi>his Due.</hi>
+            </p>
+            <p>In a Dialouge betweene M<hi rend="sup">ris</hi> 
+               <hi>Cuſtome,</hi> a Victuallers Wife neere <hi>Cripplegate,</hi> and M<hi rend="sup">ris</hi> 
+               <hi>New-come,</hi> a Captains Wife, living in <hi>Reformation</hi>-Alley, neer <hi>Deſtruction</hi>-Street.</p>
+            <lg>
+               <l>When <hi>Gillian</hi> Turn-tripe, <hi>Jack</hi>-an-apes his Trüll,</l>
+               <l>And <hi>Cicely</hi> Sly-tricks, <hi>Gol-magogs</hi> great Gull,</l>
+               <l>Shall once begin to Rule and Sway this Land,</l>
+               <l>Oh, to thoſe Subjects under their Command!</l>
+            </lg>
+            <figure/>
+            <p>LONDON: Printed by <hi>E. P.</hi> for <hi>W. G.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="2" facs="tcp:119434:2"/>
+            <head>Women will have their Will: <hi>Or, Give</hi> Chriſtmas <hi>his Due.</hi>
+            </head>
+            <sp>
+               <speaker>Miſtris New-come.</speaker>
+               <p>
+                  <hi>HOw doe you good Miſtris</hi> Cuſtome? <hi>I made hold to give you a <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, to ſee how you doe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Miſtris Cuſtome,</speaker>
+               <p>M. New-come, pray draw neare and ſit downe; come, you are heartily, heartily welcome.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>I ſhall be a trouble to you, I ſee you are buſie.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>No, no, not ſo buſie, but I can ſpare ſo much time as to diſcourſe with you a while; how doth your husband doe? what, is he at home? or where is his Rendezvouz?</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>I thank you Miſtris</hi> Cuſtome; <hi>he is not at home, nor is his Rendezvouz farre from home, but what, have you a Feaſt here ſudden<g ref="char:EOLhyphen"/>ly. that you are ſo Decking, Adorning, &amp; Trim<g ref="char:EOLhyphen"/>ming up your houſe with this fine Roſemary and Bayes? I beleeve there is ſome ſuch doings, is there not?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>No truely, here <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no Feaſting, but what doth fall out according to the Time.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Time; pray now what Time?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:119434:2"/>
+               <speaker>M. Cuſt.</speaker>
+               <p>Why, <hi>Chriſtmas,</hi> woman; have you for<g ref="char:EOLhyphen"/>got it? Indeed theſe Wars and Jars would almoſt make one forget their Chriſten name, if they were not often called on, to put one in remembrance.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Iudeed</hi> Chriſtmas <hi>can hardly be boa<g ref="char:EOLhyphen"/>ten out of many folks heads, which is a very ſtrange thing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Not ſo ſtrange as true, woman; I ſhould rather, and ſooner forget my mother that bare me, and the paps that gave me ſuck, then for<g ref="char:EOLhyphen"/>get this merry Time; nay, if thou hadſt ever ſeen the Mirth and Jolitie that we have had at thoſe Times when I was young, thou wouldſt bleſſe thy ſelfe to ſee it.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Nay, undoubtedly I might very well beleeve you without ſwearing; for ſurely, there was then exceſſive Sports, Paſtimes, &amp; Revels, that it would make a bodies haire ſtand an and to heare and ſee it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Didſt thou never heare of my Grand<g ref="char:EOLhyphen"/>father? why, he was ſecond couſin to the Earle of <hi>Dum-belly,</hi> Cup-bearer to <hi>Bacchus,</hi> Knight of the Vapour, and Eſquire of the Pipe; he was a great Polititian, Monopoliſt, and Project-monger; 'tis very ſtrange you never heard of him.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>I have heard of the like, if not the ſame; but what of him?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>What of him; nay, nothing of him, but I ſay my Grand-father was his ſecond couſin.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Well, and what of that?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:119434:3"/>
+               <speaker>M. Cuſt.</speaker>
+               <p>What of that? Nay, by the maſſe, I for<g ref="char:EOLhyphen"/>got where I was; this 'tis to have ſuch a ſcurvy head-piece, by Lady I know not what I was going to ſay.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>It was about your Grand-father at</hi> Chriſtmas.</p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>O me, O me, 'tis true, 'tis true; I ſeey on keep your brains warmer then I doe, which makes you ſo ripe-witted: but for feare I ſhould forget againe, Ile tell thee; my Grand-father kept a brave houſe at <hi>Chriſtmas,</hi> (it makes ones teeth dance in ones head like Virginal-Jacks with the very con<g ref="char:EOLhyphen"/>ceit on't) for according to his owne Verſes:)</p>
+               <lg>
+                  <l>
+                     <hi>Then Pell Mell murther in a purple hue,</hi>
+                  </l>
+                  <l>
+                     <hi>In reeking blood, did ſlaughtering pawes imbren;</hi>
+                  </l>
+                  <l>
+                     <hi>Then Cocks Hens, Capons, Turkey, Gooſe &amp; Widgeon,</hi>
+                  </l>
+                  <l>
+                     <hi>Hares, Conyes, Pheſants, Partridge; Plover, Pigeon.</hi>
+                  </l>
+                  <l>
+                     <hi>All theſe were caſt into the furious pawes</hi>
+                  </l>
+                  <l>
+                     <hi>Of break-neck Powlt'rers, t'undegoe their Lawes:</hi>
+                  </l>
+                  <l>
+                     <hi>The Butchers Axe (like great <hi>Achilles</hi> Bat)</hi>
+                  </l>
+                  <l>
+                     <hi>Dings deadly downe, ten thouſand thouſand flat;</hi>
+                  </l>
+                  <l>
+                     <hi>Each Butcher by himſelfe makes Martiall Lawes,</hi>
+                  </l>
+                  <l>
+                     <hi>Cut throats and kills, then quarters, hangs, and drows.</hi>
+                  </l>
+                  <l>
+                     <hi>When this is done, then to the Pot and Spit</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis totally committed every bit.</hi>
+                  </l>
+               </lg>
+               <p>This I ſay, the very conceit of this is enough to make one chew the Cud; for my part, it makes me methinks look two yeares younger then I did before, every time I think on't; indeed they were brave Times, pray God ſend us ſuch again, and we ſhall once more have a merry world.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:119434:3"/>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>This was in the times of old, when men were trunck-Hoſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Nay, by Lady (God forgive me for ſwearing) it is not ſo long ſince; for my father kept a brave houſe to at that Time, though he pin<g ref="char:EOLhyphen"/>ched for it all the yeare after; he had all the Va<g ref="char:EOLhyphen"/>rieties as the earth could afford, for Boyled, Ba<g ref="char:EOLhyphen"/>ked, and Roaſted.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>I have ſéen but a little of this Sport, yet of that little I have ſeen too much; for it would make the ſtander by aſhamed to ſee what the feeder devoures, and what gods they make of their bellies, that one would think that people did take in twelve moneths Proviſion into their panches, or that they did ballaſt their bellies for a voyage to</hi> Conſtantinople, <hi>or to the</hi> Eaſt-Indies.</p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Indeed all this as you ſpeake is true; for I think verily, if it were not for Dancing, Friſ<g ref="char:EOLhyphen"/>king, Playing, Toying, <hi>Christmas</hi>-Gamboles, and ſuch kind of jogging Exerciſes to ſhake it down, it were impoſſible they ſhould devoure ſo much as they do. Then to ſee Cook hot and Cook cold, Cook young and Cook old, Scullion &amp; Scullions mate, all in a ſweat, like ſo many Monarchs of the Marrow-bones, Marqueſſes of the Mutton, Prin<g ref="char:EOLhyphen"/>ces of the Pyes and Paſties, Lords, High-Regents of the Spits and Kittles, Barons of the Griddiron, and ſo be Commanders of the Frying-pannes du<g ref="char:EOLhyphen"/>ring this Feſtivall. I ſay, to ſee them Act their Tragi-comicall Feaſts, would make a man or
+<pb n="6" facs="tcp:119434:4"/>womans ſtomacke elevate its ſelfe into another temper.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>And all this hurly-burly is for no o<g ref="char:EOLhyphen"/>ther purpoſe but to ſtop the greedy mouth of this</hi> Leviathan, <hi>or Land-whale,</hi> Chriſtmas.</p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Well, 'tis true; but now forſooth <hi>Chriſt<g ref="char:EOLhyphen"/>mas</hi> muſt be cryed downe, <hi>Reformation</hi> muſt be cryed up; if they were weighed in a ballance, then I know <hi>Chriſtmas</hi> would goe downe without cry<g ref="char:EOLhyphen"/>ing: but there are ſome now adayes, a Crew of Tatter-demallians, amongſt which the beſt could ſcarce ever attain to a Calves-ſkin-Sute, or a piece of Neck-Beefe and Carrets to dinner on a Sunday, or ſcarcely ever mounted (before theſe times) to any Office above the degree of Scavenger or Ty<g ref="char:EOLhyphen"/>thing-man at the fartheſt; and now forſooth theſe Reformado's, upon pretence of Reformation, ſhall deſtroy and overthrow the moſt Famous and Commendable Cuſtomes of this Land; eſpecially for the obſerving and keeping of this Great Day: what, are we forſooth wiſer then our fathers, that brought us up, and educated us in this Wiſedom? 'Tis a ſtrange thing to me; it can't be beaten in<g ref="char:EOLhyphen"/>to my braines, that this can be juſt and honeſt.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>M. Cuſtome, <hi>you were beſt to diſcourſe with ſome of theſe which thinke it not fitting to keep that Time in ſuch a Revelling way, per<g ref="char:EOLhyphen"/>haps and no doubt but they will give you reaſons againſt it; &amp; I partly know you to be a rationall <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>man, and that you will permit reaſon to bear the ſway.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:119434:4"/>
+               <speaker>M. Cuſt.</speaker>
+               <p>Reaſon, reaſon; as if any man could ſhew a reaſon for not keeping of <hi>Christmas,</hi> you ſpake as bad as blaſphemie: <hi>Chriſtmas,</hi> that hath been a Cuſtome ever ſince the world began, ſhould now with a puffe of reaſon, through the Ramſ<g ref="char:EOLhyphen"/>horne of ſelfe-conceit, with the walls of <hi>Jericho,</hi> be layd flat to the ground.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Nay,</hi> M. Cuſtome, <hi>although it is a Cuſtome very Ancient, yet it is not ſo old as the world; there you are ſomewhat miſtaken.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>As for the world, I doe not know its age; but for <hi>Chriſtmas,</hi> I am ſure it was kept in my Grand-fathers great Grand-fathers time, in my Grand-fathers time, &amp; in my fathers time, &amp; none of theſe did over think it Superſtition or Idolatry; and for my part, I will keep it as long as I am able, let all the powers on earth ſtand to oppoſe it.</p>
+               <lg>
+                  <l>
+                     <hi>And though the Fields diſ-robed be</hi>
+                  </l>
+                  <l>
+                     <hi>Of all their Herbs and Fruits,</hi>
+                  </l>
+                  <l>
+                     <hi>And the merrie chirping Birds</hi>
+                  </l>
+                  <l>
+                     <hi>Are all turn'd tongueleſſe mutes;</hi>
+                  </l>
+                  <l>
+                     <hi>Yet we will ſing and merrie be,</hi>
+                  </l>
+                  <l>
+                     <hi>Our time in Sport wee'l paſſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Not weighing how the time ſhall be,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor never how it was.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Then you are reſolved.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>I am for that matter, come what will come; ah how (me thinkes) my braines are wher upon the conceit on't; I could wiſh now at this Time, that the Valianteſt Champion of all the
+<pb n="8" facs="tcp:119434:5"/>Round-headed Diſputants, to encounter with me in this Argument: I tell thee, If I had the tongue of <hi>Hermes,</hi> who (as my Husband ſaith) was Pro<g ref="char:EOLhyphen"/>locutor to the gods; or if I had as many fingers as <hi>Camaldus,</hi> who was feigned to have an hundred hands. If <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urging <hi>Neptune,</hi> was converted into Inke, or the rugged-ragged-face of our antient mother <hi>Tellus,</hi> were Paper, yet could not the ver<g ref="char:EOLhyphen"/>ball, volubilitie, or elocution of my voyce, nor the agilitie, dexteritie, or facultie of my hands, nor the ſpacious, unmeſurable number-leſſe, white inno<g ref="char:EOLhyphen"/>cent Paper; no, none of all theſe could either ſpeak, write, or by any other meanes declare the aboun<g ref="char:EOLhyphen"/>dance of Arguments, comprehended within the notion of my braine for this unlimited Subject.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>For my part, your Eloquence is too harſh for me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Oh, I have it by heart; I have heard my Husband, when Gentlemen have been drink<g ref="char:EOLhyphen"/>ing here at my houſe, rabble out aboundance of this Fuſtian-ſtuffe, which gives them a great deale of content, eſpecially when they have almoſt ſeen the Devill in a Frize Jerkin, and every thing look with <hi>Janus</hi> faces.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Then I perceive by you that you cannot poſſibly be wrought on to leave this Old Ceremony, your mind is ſo unchangeable.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Unchangeable, can the Black-moore change his skin, or the Sunne alrer his continued courſe? Yet ſooner can theſe things be done then
+<pb n="9" facs="tcp:119434:5"/>my mind changed, for to keep old <hi>Chriſtmas</hi> once again.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>It is an old ſaying, and true, That which is bred in the bone, will ſeldome or never out of the fleſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Thou ſayeſt true; My great Grand-father, my Grand-father, my father, and now my ſelfe, theſe nine and fortie yeares have kept this Feſtivall Time, and this yeare above all the reſt ought to be kept, for it is the yeare of <hi>Iubile,</hi> as the Biſhop of <hi>Armagh</hi> ſaid, when he preached be<g ref="char:EOLhyphen"/>fore the King; and I for my part am foureſcore and one yeares old: So that here is <hi>Iubile</hi> upon <hi>Iubile,</hi> yeare-<hi>Iubile</hi> for my birth, and the year <hi>Iu<g ref="char:EOLhyphen"/>bile</hi> for my keeping <hi>Chriſtmas:</hi> and therefore ſhall not we be merry mine owne S. <hi>Nichol.</hi> a <hi>Cod?</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>We will be merry, let all ſay what they will,</hi>
+                  </l>
+                  <l>
+                     <hi>As we have kept it, ſo wee'l keepe it ſtill.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>What, will you keepe it in ſpite of Authoritie?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>What Authoritie? I am ſure my fa<g ref="char:EOLhyphen"/>ther and mother had the greateſt authoritie over me ever ſince I was borne, and other authoritie I knew none before I was married, &amp; now it ſeems I am under a crabbed Husbands authoritie, and be<g ref="char:EOLhyphen"/>ſides him I will be ſubject to none, and I am ſure he is as ſtrong for <hi>Chriſtmas</hi> as the greateſt of our Anceſtours; and therefore that Authoritie will not curb me.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Then it ſemes you know no other authoritie?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:119434:6"/>
+               <speaker>M. Cuſt.</speaker>
+               <p>No by our Lady, not I: neither doe I deſire to know any, for he is crabbed enough of a<g ref="char:EOLhyphen"/>ny conſcience; if I ſhould tell you all, you would ſay ſo too: therefore the Devill take all other Authority, if it be no better then a dogged, croſſe-graine Devilliſh Husband.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Why, then you count the Parlia<g ref="char:EOLhyphen"/>ment no Authoritie?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>I hope Goſſip you are not come to pick quarrells with me in my owne houſe?</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>No truely</hi> M. Cuſtome, <hi>not I, neither would I have you to entertaine ſuch a hard con<g ref="char:EOLhyphen"/>ceit; for my part I was never ſo well read in ſuch Principles, nor ever took any degree at the Vniverſitie of</hi> Billingſgate.</p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Perhaps you are of your mothers tu<g ref="char:EOLhyphen"/>tor-age then, for I am ſure ſhe was an Oyſter-wo<g ref="char:EOLhyphen"/>man of that Colledge for one and twentie yeares, to my owne knowledge; and had her tongue as nimble as an <hi>Italian</hi> Mountebanck.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>What my mother was, is nothing to me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>But you are a Chip of the Old Block: for what doe you mean, in telling me of the Par<g ref="char:EOLhyphen"/>liament?</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>I meane the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment which have jumped together in one Opini<g ref="char:EOLhyphen"/>on, for the putting downe and deſtroying of this</hi> Romiſh <hi>Beaſt</hi> Chriſtmas; <hi>for which, they are to be commended.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:119434:6"/>
+               <speaker>M. Cuſt.</speaker>
+               <p>It is a ſtrange thing; let the Devill never ſo cunningly hide his head, we ſhall know him by his Cloven foot; nor let the Aſſe never ſo craftily hide his feet, yet we may know him by his Eares: and howſoever covertly you have carri<g ref="char:EOLhyphen"/>ed your ſelfe, I know you, both by head &amp; heels: I ſee you are one of the New Faction, and a great Student in <hi>Spittle-Colledge;</hi> but that is nothing to me: yet what do you mean by Calling <hi>Christ<g ref="char:EOLhyphen"/>mas</hi> a <hi>Romiſh</hi> Beaſt? pray explain your ſelf at large.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>To leave all manner of Circum<g ref="char:EOLhyphen"/>ſtance, which is not pertinent to our Subject in hand</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>By Lady neighbour, I think you are one of theſe New Teachers, you handle your mat<g ref="char:EOLhyphen"/>ter ſo excellent; but I trouble you, pray proceed.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>The word</hi> (Chriſtmas) <hi>if learnedly weighed in it we ſhall find matter of dangerous Conſequence: As,</hi>
+                  <list>
+                     <item>1. <hi>If we conſider what the word or name is,</hi> Chriſt.</item>
+                     <item>2. <hi>If we conſider who gave him this name.</hi>
+                     </item>
+                     <item>3. <hi>Where he was Chriſtned, or had the name given him.</hi>
+                     </item>
+                     <item>4. <hi>By what authoritie they gave him this name.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Of which I ſhall procéed in order, according to my weak abilitie: And firſt for the word;</hi> Chriſt<g ref="char:EOLhyphen"/>mas <hi>is a word which deciphers a Scorpion, which is a venomous Beaſt, which carries a ſting at his tayle, and ſo doth</hi> Chriſtmas; <hi>for the word</hi>
+                  <pb n="12" facs="tcp:119434:7"/>Maſſe <hi>is a ſting in the tayle of that</hi> Romiſh <hi>Beaſt: Secondly, we muſt conſider who gave him this name, &amp; that was his God-fathers and God-mothers in Baptiſme; from whence ariſeth this doubtfull queſtion? who they were, and that was Pope</hi> Boniface, <hi>Pope</hi> Fireface, <hi>and Pope</hi> Joane; <hi>but by reaſon of their non-reſidence hers in</hi> England, <hi>the Biſhops took that <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> upon there and ſtood as ſhitten Goſſips: Thirdly, the place where, this is by the learned held in great Diſpute, but I beleeve in his infancie he was ſickly; and therefore according to the Church of</hi> Englands <hi>Tenets he was twice Chriſtned, that is to ſay, at home here in</hi> England, <hi>and afterwards confirmed at</hi> Rome, <hi>the Mother Church of all ſuch Antichriſtian Hereſies: but I ſhall be oder-tedious, therefore I will come to the fourth Deviſion, and that is by what authori<g ref="char:EOLhyphen"/>tie they doe theſe things: this will take up a great deale of time to open and explaine unto you, if I ſhould doe it to purpoſe; therefore I will omit it, onely certifying you thus much, that there is no power under the Sun that hath any authoritie to erect or build up, neither to deſtroy and pull down any thing, ſave what is in the will of the two Houſes of Parliament.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>That word waked me, indeed I was al<g ref="char:EOLhyphen"/>moſt aſleep; what, you ſay that the Parliament hath power to pull down <hi>Chriſtmas;</hi> I pray then what will they put up in the roome on't, Stage-Playes,
+<pb n="13" facs="tcp:119434:7"/>Dancing upon the Ropes, &amp; <hi>Hocus Pocus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>No, it ſhall be like other Times, not one day higher or lower then another; for it is not for us to ſtand upon Times and Seaſons.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Fie upon't, fie upon't, away with't, away with't, I doe not know this Parliament, 'tis no kin to me; If this is the Authoritie you talked of, God deliver me from ſuch Authoritie; this is worſer Authoritie then my Husbands, for though my Husband beats me now and then, yet he gives my belly full, and allowes me money in my purſe; which as I take it, the Parliament will not; for I remember, men come for money, money, and if I aske them what it is, for they ſtill keepe in one tune like the Cockoe, and tell me it is for the Par<g ref="char:EOLhyphen"/>liament; God deliver me from thoſe that will neither let us eate our victualls and be merry, though they don't pay for it; nor yet if they could helpe it, leave us any money in our purſes.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Then you doe not regard theſe Pow<g ref="char:EOLhyphen"/>ers, let them ſay or doe what they will.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>No indeed, not <hi>I;</hi> is it not fitting I ſhould do what I will with mine own? Cannot I keep <hi>Chriſtmas,</hi> ear good Chear, &amp; be Merry, with<g ref="char:EOLhyphen"/>out I goe and get a Licence from the Parliament? Marry gap, come up here, for my part Ile be han<g ref="char:EOLhyphen"/>ged by the neck firſt; muſt I be ſubject to them I never ſaw in my life? No, no, neighbour, they are miſtaken in me; though they ſet up Scare-Crowes to ſcare ſooles withall, they ſhall not fright me.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:119434:8"/>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Truely neighbour, if theſe Powers and Authorities will not make you leave off this Superſtitious and Idolatrous Feaſting, ſome other ſharper and more rigorous power muſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Muſt, doe you ſay? How now, you ſaid you did not come to Scold, but I ſee you will Scold before you goe: I ſee now by the Maſſe, there is no making hony of a Dogs-turd; that which is bred in the bone will never out of the fleſh; your mother I faith hath taught you your lerry, almoſt as perfect as ſhe hath it her ſelfe: muſt make me?</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Yes, muſt make you: I do not goe to eats my words</hi> Gillian; <hi>what I have ſpoken Ile ſpeake againe, I have thoſe which ſhall main<g ref="char:EOLhyphen"/>taine me in it, I care not who knows it, and that is the honeſt godly partie of the Armie, of which ſocietie my Husband is a member; therefore take heed what you ſay.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>What have I to doe with the Army, <hi>I</hi> have nothing to ſay to the Army.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>But the Armie hath ſomething to ſay to you then: for if no power will tame you, they can and will tame you; were you as fierce as a Lyon, they will new-mould you into batter breeding, and make you leave off your Superſti<g ref="char:EOLhyphen"/>tious Feaſting, and turne to Faſting, if you doe not mend your manners.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>As for the Armie, no doubt but there may be ſome honeſt men amongſt them, but all
+<pb n="15" facs="tcp:119434:8"/>the world knowes what thy Husband was a poore man which ran out of his Countrey for debt, and afterwards betooke himſelfe to be Maſter <hi>Percyes</hi> Groome, to rub his Horſes heeles in <hi>Drury-Lane;</hi> And now ſuch as he is, muſt come to tame thoſe which are ten times better then themſelves; this is a fine world indeed.</p>
+            </sp>
+            <sp>
+               <speaker>M. New.</speaker>
+               <p>
+                  <hi>Huſwife, farewell; I have with ſi<g ref="char:EOLhyphen"/>lence heard things of a dangerous Conſequence againſt the Parliament and Armie; therefore looke to it, for you ſhall ſurely ſuffer for it; theſe things cannot be let ſlip without ſevere puniſh<g ref="char:EOLhyphen"/>ment, either with the deprivation of Life and Libertie, or at leaſt the loſſe of your Goods.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. Cuſt.</speaker>
+               <p>Devill, doe thy worſt; if they are ho<g ref="char:EOLhyphen"/>neſt men they will not doe it: Yet all this Chat<g ref="char:EOLhyphen"/>tring ſhall not put me off from keeping <hi>Christ<g ref="char:EOLhyphen"/>mas.</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>For as long as I doe live,</hi>
+                  </l>
+                  <l>
+                     <hi>And have a Joviall Crew,</hi>
+                  </l>
+                  <l>
+                     <hi>I'le ſit and Chat, Laugh, and be Fat,</hi>
+                  </l>
+                  <l>
+                     <hi>And give</hi> Chriſtmas <hi>his Due.</hi>
+                  </l>
+               </lg>
+            </sp>
+         </div>
+         <div type="epilogue">
+            <pb n="16" facs="tcp:119434:9"/>
+            <head>The EPILOGUE.</head>
+            <lg>
+               <l>
+                  <hi>CHriſtmas</hi> is the welcommeſt time,</l>
+               <l>That does come through the yeare:</l>
+               <l>For't maketh many joyfull hearts,</l>
+               <l>and fills the world with Cheare.</l>
+            </lg>
+            <lg>
+               <l>And though a man a Mizer is,</l>
+               <l>all the whole yeare beſide;</l>
+               <l>He now begins to hang up Care,</l>
+               <l>and let the world goe ſlide.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Tom</hi> and <hi>Tib,</hi> and Luſtie <hi>Jack,</hi>
+               </l>
+               <l>the time in Mirth doe paſſe;</l>
+               <l>And each in Kitchin or the Hall,</l>
+               <l>is towſing of his Laſſe.</l>
+            </lg>
+            <lg>
+               <l>The Cards in every corner ſtirs,</l>
+               <l>the Dice doe take no reſt,</l>
+               <l>Likewiſe the frisking Dancers, they</l>
+               <l>are held in great requeſt.</l>
+            </lg>
+            <lg>
+               <l>As long as there'there the flagrant fire</l>
+               <l>doth ſpit out its fierce flames,</l>
+               <l>There is no ceaſing of their Mirth,</l>
+               <l>nor period to their Games.</l>
+            </lg>
+            <lg>
+               <l>But now the Log of Logs is burnt,</l>
+               <l>The Hall-Chimney leaves ſmoaking,</l>
+               <l>Good folkes farewell, for I will ſtay</l>
+               <l>no longer in it poaking.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119434:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>

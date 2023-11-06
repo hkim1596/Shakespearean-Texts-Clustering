@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mistris Parliament presented in her bed, after the sore travaile and hard labour which she endured last weeek, in the birth of her monstrous off-spring, the childe of deformation. The hopefull fruit of her seven yeers teeming, and a most precious babe of grace. With the severall discourses between Mrs. Sedition, Mrs. Schisme, Mrs. Synod her dry-nurse, Mrs. Iealousie, and others her gossips. / By Mercurius Melancholicus.</title>
+            <author>Mercurius Melancholicus, fl. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89188</idno>
+            <idno type="STC">Wing M2284</idno>
+            <idno type="STC">Thomason E441_21</idno>
+            <idno type="STC">ESTC R14014</idno>
+            <idno type="EEBO-CITATION">99859595</idno>
+            <idno type="PROQUEST">99859595</idno>
+            <idno type="VID">161677</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161677)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mistris Parliament presented in her bed, after the sore travaile and hard labour which she endured last weeek, in the birth of her monstrous off-spring, the childe of deformation. The hopefull fruit of her seven yeers teeming, and a most precious babe of grace. With the severall discourses between Mrs. Sedition, Mrs. Schisme, Mrs. Synod her dry-nurse, Mrs. Iealousie, and others her gossips. / By Mercurius Melancholicus.</title>
+                  <author>Mercurius Melancholicus, fl. 1648.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer of the saints fear. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in the form of a play.</note>
+                  <note>"Mercurius Melancholius" was a pseudonym used by a number of Royalist writers including Martin Parker and John Crouch.</note>
+                  <note>A variant edition has corrected the spelling of "weeek" to "weeke".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 10th London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161677:1" rendition="simple:additions"/>
+            <p>Miſtris PARLIAMENT Preſented in her Bed, after the ſore travaile and hard labour which ſhe endured laſt weeek, in the Birth of her Monſtrous Off<g ref="char:punc">▪</g>ſpring, the<lb/> Childe of Deformation.</p>
+            <p>The hopefull fruit of her ſeven Yeers Teeming, <hi>And a moſt precious Babe of Grace.</hi>
+            </p>
+            <p>
+               <hi>With the ſeverall Diſcourſes between Mrs.</hi> Sedition, <hi>Mrs.</hi> Schiſme, <hi>Mrs.</hi> Synod <hi>her dry-Nurſe, Mrs.</hi> Iealouſie, <hi>and others her</hi> Goſſips.</p>
+            <lg>
+               <l>Oh ſick! oh ſaint! alas my ſight doth faile,</l>
+               <l>My Members tremble and my Spirits quaile;</l>
+               <l>Oh what a chilneſſe doth my heart oppreſſe,</l>
+               <l>But what the cauſe of't is, I know you'le gueſſe</l>
+               <l>'Tis this moſt hedious Birth doth me a maze,</l>
+               <l>And <hi>much</hi> torment me when on it I gaze:</l>
+            </lg>
+            <lg>
+               <l>But <hi>more</hi> when as I thinke what men will conſter,</l>
+               <l>To ſee th'expected <hi>Babe</hi> of <hi>Grace</hi> prove Monſter.</l>
+            </lg>
+            <p>BY Mercurius Melancholicus.</p>
+            <p>
+               <add>May .10<hi rend="sup">th</hi> London</add>
+            </p>
+            <p>Printed in the Yeer of the Saints fear. 1648.</p>
+            <pb facs="tcp:161677:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="3" facs="tcp:161677:2"/>
+            <div n="1" type="act">
+               <stage>Mrs. PARLIAMENT preſented in her Bed, after the ſore travaile and hard labour which ſhe endured laſt week, in the Birth of her Monſtrous off-Spring, the CHILDE OF DEFORMATION.</stage>
+               <sp>
+                  <speaker>Mrs. <hi>Shiſme</hi>
+                  </speaker>
+                  <p>The Kingdomes <hi>mine,</hi> I am the child, My name's <hi>Tom.</hi> Presbyter.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Sedition</hi>
+                  </speaker>
+                  <p>'Tis falſe, 'tis Th' Saints; whoſe King I'me, ſtil'd, Holy St.<hi>— Oliver.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Schiſme</hi>
+                  </speaker>
+                  <p>
+                     <hi>We</hi> are the Saints, we, <hi>Presbyters.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Sedition</hi>
+                  </speaker>
+                  <p>
+                     <hi>We Independents,</hi> are.</p>
+               </sp>
+               <sp>
+                  <speaker>King <hi>Charles</hi>
+                  </speaker>
+                  <l>Nor Saints, nor Kings, what need theſe ſtirs?</l>
+                  <l>'Tis mine which you would ſhare.</l>
+               </sp>
+               <sp>
+                  <speaker>Jealouſie</speaker>
+                  <l>I ſmell a plot, the Kings no doubt,</l>
+                  <l>To prove true, what is known;</l>
+                  <l>When Theeves about ſtolne goods fall out</l>
+                  <l>True men ſtill get their owne.</l>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Sa. Yandſeal</hi>
+                  </speaker>
+                  <l>No, no, arme, arme (the common Foe</l>
+                  <l>Appeares for <hi>Charles)</hi> I'le; bawle</l>
+                  <l>
+                     <hi>Herod</hi> and <hi>Pilate</hi> made friends ſo,</l>
+                  <l>Though Chriſt, he then muſt fall</l>
+                  <l>The Child-wif's laid, the tables's ſpread<hi>:</hi> but oh!</l>
+                  <l>The Goſſips ſtrive for place, 'tis alwayes ſo.</l>
+               </sp>
+            </div>
+            <div n="2" type="act">
+               <div n="1" type="scene">
+                  <head>
+                     <hi>Act.</hi> 2. <hi>Scen.</hi> 1.</head>
+                  <sp>
+                     <speaker>Sedition.</speaker>
+                     <p>ANd why you firſt, Mrs. <hi>Schiſme.</hi> Pray you give place to Seniority.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Schiſme.</speaker>
+                     <p>Nay, nay, neighbour <hi>Sedition,</hi> me thinks you and I ſhould be better friends, our affections are the ſame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sedition.</speaker>
+                     <p>And one Progenitor, the Devill, belongs to both I confeſſe, only, becauſe I come of the Elder houſe (for though you
+<pb n="4" facs="tcp:161677:3"/>
+are of the Houſe of the Incendiaries in the Church, which is a very ancient Family, I grant, yet I am of that of the Incendiaries in the State, which preceeds in antiquity) I claime the priority, both here, and alſo in preſenting my ſervice to Mrs. <hi>Parliament,</hi> yea, I expect the preheminence above you in her Honours imploy<g ref="char:EOLhyphen"/>ments too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Schiſme.</speaker>
+                     <p>Cozen! Whatſoere your ſeniority may plead for you to her in your behalfe, my paſt actions in her ſervice may exact as due to my deſerts: Never did any State Incendiary bring the Deſignes of any Tyrant to ſuch perfection in an age, as I have done Mrs. <hi>Parliaments</hi> in leſſe then ſeven yeers, under the vizard of Religion, therefore, by your leave Mrs. <hi>Sedition,</hi> I think my ſelfe worthy to be preferred before you in her affections.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sedition.</speaker>
+                     <p>Marry gip with a wynnion! you preferred before me. Have not my pretences, to make every free-borne Subject a quiet poſſeſſor of his propriety and liberty, to ſuppreſſe Tyran<g ref="char:EOLhyphen"/>ny, and prevent Arbitrarineſſe in the King (which I intend to act my ſelfe) brought Mrs. <hi>Parliament</hi> to this height of unlimited power which now ſhe is at, and doe you think now to carry a<g ref="char:EOLhyphen"/>way her favour from me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Sa. Yandſeale.</hi>
+                     </speaker>
+                     <p>Fie, fie friends fal out about trifles? You have both deſerved well, and no doubt ſhall in fit time and place receive your reward; but agree, agree, and the rather becauſe the common enemy begins to ſtirre and hold up his head again: and will you by your diviſions give life to their dead hopes? what were this but to blaſt all your former glorious actions, abſolutely fruſtrate all your golden hopes, and wholly annihilate your vaſt expectations, and will you now prove ſuch enemies not only to her, whoſe ſervants ye profeſſe your ſelves to be, but alſo to your ſelves and all your friends? Come come, you ſhall (like gentle<g ref="char:EOLhyphen"/>women of equall birth and merit) walke hand in hand, and have the ſame degree of place at her table and in her affections: only for the preſent I muſt prevaile with Mrs. <hi>Schiſme,</hi> that Mrs. <hi>Sedi<g ref="char:EOLhyphen"/>on</hi> may have her right hand; for Mrs. <hi>Parliament</hi> hath now occaſi<g ref="char:EOLhyphen"/>on to uſe the ſword, (as indeed when will ſhe not find occaſion to uſe?) and we all know Mrs. <hi>Sedition</hi> knowes how to weild that beſt for her advantage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Schiſme.</hi>
+                     </speaker>
+                     <p>I am content, for I muſt confeſſe that I am no <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ghter, though none could ever match me for an Incendiary and Abettor to warre and bloud<g ref="char:punc">▪</g>ſhed. Wil't pleaſe you walk to Mrs. <hi>Sedition?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="5" facs="tcp:161677:3"/>
+                     <speaker>Mr. <hi>Sedition.</hi>
+                     </speaker>
+                     <p>Your Servant, in your hand, ſweet Coſin <hi>Schiſme.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs.</speaker>
+                     <p>So this is well and timely brought about.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <sp>
+                     <speaker>Sa. andſeale.</speaker>
+                     <p>We looſe our precious hopes if theſe fall out.</p>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>Scen. 2.</head>
+                  <stage>Enter Mrs. <hi>Parliament</hi> in Child-bed.</stage>
+                  <sp>
+                     <speaker>Mrs. <hi>Parl.</hi>
+                     </speaker>
+                     <p>Nurſe, Nurſe,—why Nurſe, Where art thou Nurſe?</p>
+                  </sp>
+                  <stage>Enter Mrs <hi>Synod</hi> Dry Nurſe.</stage>
+                  <sp>
+                     <speaker>Nurſe.</speaker>
+                     <p>Anan forſooth Miſtris, I am here: What is't your plea<g ref="char:EOLhyphen"/>ſure I ſhould do?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Parl.</hi>
+                     </speaker>
+                     <p>O, prethee Nurſe ſpeak ſoftly (for a time:) the noiſe which tho<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> makeſt with thy babling and prating pierceth my head, and may prove a great hindrance of my Recoverie, if not totally obſtruct it. I am very weak with my paſt ſore Travail, and ſhould I fall into a Relapſe it might coſt me my Life; and then Nurſe, you would (I know) confeſſe (as being ſenſible of your loſſe) that the moſt bountifull Miſtris, that ever you had, is de<g ref="char:EOLhyphen"/>ceaſed: Was it ever known that ſuch a rate was given a <hi>Dry Nurſe</hi> before; four ſhillings a day, beſides other by-blowes, gra<g ref="char:EOLhyphen"/>tuities and eſpecially three or four ſteeple-houſes and pofitable Le<g ref="char:EOLhyphen"/>ctures? therefore Nurſe it nearly concernes you to have a ſpecial care of me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurſe.</speaker>
+                     <p>Dear Miſtris, you ſhall for the future experience my diligence to comply in all things with your deſires, and my care hereafter ſhall evidence the readineſſe of my obedience to your commands.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Parl.</hi>
+                     </speaker>
+                     <p>It is well ſaid Nurſe:—But is Mrs. <hi>Truth</hi> gone?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurſe.</speaker>
+                     <p>Gone, quoth you? Why what ſhould ſhe do here? Do you ever hope to recover your ſtrength or regain your credit by her? If you ſhould follow her Directions and take ſuch Phyſicke as ſhe would preſcribe you, ſhe would give you ſuch a Potion as would make you fall a vomiting with a witneſſe, and then up would come (to the view of the whole World) all that you have converted to the ſatisfying of your own private Luſt, though pretended to be done for the publique good of the Kingdom; as the Revenues of the Crown—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Parl.</hi>
+                     </speaker>
+                     <p>O, prethee Nurſe ſpeak ſoftly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurſe.</speaker>
+                     <p>Noble mens Eſtates, Biſhops Lands and Houſes, all Se<g ref="char:EOLhyphen"/>queſtrations, and vaſt Compoſitions, beſides great ſummes of Loan-money for Rebells Lands in <hi>Ireland,</hi> Publique Faith Mo<g ref="char:EOLhyphen"/>ney, Exciſe money, Contribution and Free-quarter; All would up. Verily Miſtris, if you be rul'd by her, it will inevitably fol<g ref="char:EOLhyphen"/>low, that you cannot eſcape your (I too ſadly fear too too ſud<g ref="char:EOLhyphen"/>dain) diſſolution.</p>
+                  </sp>
+                  <sp>
+                     <pb n="6" facs="tcp:161677:4"/>
+                     <speaker>Mrs. <hi>Parl.</hi>
+                     </speaker>
+                     <p>It is truth Nurſe; I have ever rejected her Counſels (though I have alwayes made the World believe I have followed them moſt preciſely) and though I ſent for her in my extremitie, and deſired her to indite that ſeigned Confeſſion ſo to blinde the eyes of the World that I might the more ſecurely and undiſco<g ref="char:EOLhyphen"/>vered compaſſe mine own Deſigne, yet know Nurſe, that I hate her companie, and loath her ſight, much leſſe will I follow her Dictates and Directions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurſe.</speaker>
+                     <p>No, do not Miſtris, Did you ever reap any benefit by her companie? or, Did at any time any good accrew to you by following her counſell? If the People ſhould know all that ſhe can tell of you (and ſhe can as well be hanged [which you know is the leaſt you have deſerved] as conceal her knowledge, but will at ſome time or other diſcover all) What would be the event thereof? Indeed Miſtris I tremble to thinke (being in the ſame condemnation, and deſerving the ſame reward with your ſelfe) and by that little experience thereof, which you have had of late you may be ſenſible enough what you muſt expect.</p>
+                     <p>No, no, Miſtris, if you hope to recover again, make uſe of Miſtris <hi>Mendax,</hi> the whole Packe of your weekly forging Pam<g ref="char:EOLhyphen"/>phleters, they have ever ſtucke cloſe to you, and by imploying them ſtill, you know how advantagious it hath been to the ad<g ref="char:EOLhyphen"/>vance of your Deſignes; but among them all there is none (ſince <hi>Britannicus</hi> his deceaſe) comparable to <hi>Luke Haruney</hi> or <hi>Walker,</hi> the <hi>quondam</hi> pillorie Iremonger, he is alwaies at your elbow, with his out-ſide <hi>Satin,</hi> and in-ſide <hi>Devil,</hi> ready to breathe into the eares of your tame Guls and nooſed Woodcockes, what you thinke may beſt advantage the <hi>Cauſe</hi> (though never ſo falſe) in his perfect Occurrence.</p>
+                     <p>Beſides it is evident what ſervice his double diligence hath done you in endeavouring to ſuppreſſe your worſt Enemies, the Tell-truths of the Times, <hi>Pragmaticus, Melancholicus, Elenti<g ref="char:EOLhyphen"/>chus, &amp;c.</hi> whoſe publiſhing the Truth of thoſe foul Enormities which they by intelligence have and do daily diſcover in your Actions, have done you more hurt of late, than all the Kings Ar<g ref="char:EOLhyphen"/>my could heretofore; by their pennes having wounded you deep<g ref="char:EOLhyphen"/>er in your credit and reputation, than ever the Sword of the Ca<g ref="char:EOLhyphen"/>valiers did your bodie in your Souldiers; and therefore the care of your creature <hi>Walker,</hi> in endeavouring to diſcover and ſo ſup<g ref="char:EOLhyphen"/>preſſe them, deſerves your notice and encouragement. Beſides as a teſtimonie of his affection to your Service, and to manifeſt his
+<pb n="7" facs="tcp:161677:4"/>
+knowledge to be as deep in the <hi>Greek</hi> as <hi>Hebrew</hi> Tongue, he hath deſired you to hear this Etimologie of <hi>Parliament,</hi> 1648.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Parl.</hi>
+                     </speaker>
+                     <p>Reade it, good Nurſe, let me hear it: I know he ever puts that forth that ſhall tend to my Honour and advance<g ref="char:EOLhyphen"/>ment in the good opinion of the Saints. Reade it Nurſe, reade it <hi>Nur. Parliament</hi> in the <hi>Greek</hi> is written thus <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</p>
+                     <p>They that can reade and underſtand it may, Ile look for the <hi>Engliſh</hi> of it according to his direction, <hi>Rev.</hi> 17. <hi>v.</hi> 5.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Parl.</hi>
+                     </speaker>
+                     <p>Do good Nurſe, I long to know the <hi>Engliſh</hi> of it, <hi>MYSTERY BABYLON THE GREAT, the Mo<g ref="char:EOLhyphen"/>ther of Harlots and Abominations, Nurſe of errour, hereſie and blasphemy. Parl.</hi> O hold Nurſe, ſicke, ſicke, a ſuddain ſhi<g ref="char:EOLhyphen"/>vering carreers through every part, beſides—a—deadly—qual—O<hi>—Nurſe.</hi> Helpe good Women, helpe, helpe. Mrs. <hi>Schiſme,</hi> Mrs. <hi>Toleration,</hi> What are ye all deaf? Cannot one of you hear? Why Mrs. <hi>Sa-Yand-Seal.</hi> Helpe, helpe.</p>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <stage>Scen. 3.</stage>
+                  <stage>Enter Mrs. <hi>Sa-Yand-Seal</hi> in haſte, after her Mrs. <hi>Iealouſie</hi> and the reſt of the Goſſips ſhreeking and ſcreeming with Mrs. <hi>Suburbs</hi> the Deputy.</stage>
+                  <sp>
+                     <speaker>Mrs. <hi>Sa-yand-ſeal.</hi>
+                     </speaker>
+                     <p>What's the matter Nurſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurſe.</speaker>
+                     <p>O Mrs. <hi>Parliament,</hi> Mrs. <hi>Parl.—</hi>is gone, is gone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Suburbs.</hi>
+                     </speaker>
+                     <p>Be patient Nurſe, ſhe is but in a ſwoone, burne ſome ill-ſenting thing under her noſe<hi>:</hi> that will bring her again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurſe.</speaker>
+                     <p>Oh what ſhall I burne?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Sa. Yandſeale.</hi>
+                     </speaker>
+                     <p>Nothing makes a loathſomer ſmell than the Vote wherein ſhe reſolved upon the queſtion, that ſhe would make no more addreſſes to her husband, herhead, and that it ſhould be treaſon for any to bring Meſſages from, or carry intelli<g ref="char:EOLhyphen"/>gence to him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Suburbs.</hi>
+                     </speaker>
+                     <p>'Tis well thought on, Mrs. <hi>Sa: Yandſeale</hi> good Nurſe run to <hi>H. Elſing,</hi> and wiſh him to cut it out of the jour<g ref="char:EOLhyphen"/>nall book, and bring it thou hither, and burne it preſently</p>
+                  </sp>
+                  <stage>from behind the Curtaine</stage>
+                  <sp>
+                     <speaker>Nurſe.</speaker>
+                     <p>I flye<hi>—Melancho</hi> 'tis more than time, ſhall I haile <hi>Rainſborough</hi> for you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Jealouſie.</hi>
+                     </speaker>
+                     <p>But Gentlewomen doe you not deceive your ſelves? (pardon me I am jealous for Mrs. <hi>Parliaments</hi> good, and am the foundation upon which her riſing to this height was laid at firſt) as I conceive no incenſe would ſmell better, and be more comfortable in all mens noſtrills than the fume of that, burnt</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Sa. Yandſeale.</hi>
+                     </speaker>
+                     <p>Yea (Goſſip <hi>Jealouſie)</hi> but not in the no<g ref="char:EOLhyphen"/>ſtrils
+<pb n="8" facs="tcp:161677:5"/>
+of all women, eſpecially hers, becauſe it would trouble her much to be made ſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nſible of the burning of that her darling: and as for others, it is good to pleaſe ſooles a while: ſo ſhe recover, it is no matter for burning of it: when ſhe ge<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s ſtrenght againe, 'tis but pre<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mbling that it was done in fear, and in caſe of eminent danger, and t<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>en ſhe may revote it again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>M<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s <hi>Sedition.</hi>
+                     </speaker>
+                     <p>There ſpake an <hi>Ac<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>p<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l</hi> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> indeed, and he muſt nee<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s be a good man, for we reade th<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t his counſel was as the Oracle—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nurſe.</speaker>
+                     <p>He', her', here '<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is. Mrs. <hi>Sa.</hi> That's well burne it quickly, rub her temples, ſhe ſneezes—ſo, ſo,—ſhe com<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> again—why M<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s. <hi>Parl<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a<g ref="char:EOLhyphen"/>ment.</hi>
+                     </p>
+                  </sp>
+                  <stage>Enter Nu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe</stage>
+                  <stage>Mel. behinde the curtain,</stage>
+                  <p>And I hope ſhortly to ſee he come to that good-m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns end, it will ſave <hi>G<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ig</hi> the trouble.</p>
+                  <sp>
+                     <speaker>Parl.</speaker>
+                     <p>Where am I—O ſick, Awe—Awe,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sa.</speaker>
+                     <p>A Baſon Nurſe, quickly:—ſo—up with it Women—ſo 'tis well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mrs. <hi>Sub</hi>
+                     </speaker>
+                     <p>God bleſſe us, Whaa is here?—What blacke ſtuffe is this?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sa.</speaker>
+                     <p>Nothing but <hi>Atra bilis</hi> or melauchollicke aduſt, throw't aſide, throw't aſide, I have many times my ſelfe vomited the like.</p>
+                  </sp>
+                  <stage>Mel from behinde the curtain.</stage>
+                  <p>I believe you indeed Mrs. <hi>Sa-yand-ſeal,</hi> for (good People) it is no leſſe than and Hereſie Blaſphemy, which during her health ſhe wink'd at and ſwallowed, and now in her weakneſſe up it is come: And—let me ſee—there is ſomething elſe in the bowle—What is this?—A ſcrowle?—and ſomething writ in it too?—Reade it Gentlemen, I warrant ſhe hath uttered her minde in it.</p>
+                  <lg>
+                     <head>The Scrowle.</head>
+                     <l>From XLI. to VIII. have I (a Brood</l>
+                     <l>Of Vipers) <hi>England</hi> ſwaid: and (in an hood</l>
+                     <l>Of zeal cloſe lurking and the publique Weal)</l>
+                     <l>Bewitch'd the ſimple and their hearts did ſteal.</l>
+                     <lg>
+                        <l>But now by time unmask'd 'tis plainly ſeen</l>
+                        <l>For <hi>Englands</hi> Bloud and Wealth my thirſt hath been.</l>
+                     </lg>
+                  </lg>
+                  <p>Gentlemen, I am ſorry ſhe's come again, I was in good hope ſhe would have gone this bout, but (believe me) ſhe's not long liv'd, the next newes from <hi>Wales</hi> ſets her packing, if that from the North do not do it before.</p>
+                  <lg>
+                     <l>Rowze up your valiant hearts brave <hi>Engliſh men</hi>
+                     </l>
+                     <l>And put in <hi>Charles</hi> his hand his ſword again.</l>
+                  </lg>
+                  <closer>God bleſſe and ſave Him.</closer>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

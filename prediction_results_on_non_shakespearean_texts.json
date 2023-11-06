@@ -1,0 +1,3818 @@
+[
+    {
+        "play_title": "A new cōmodye in englysh in maner Of an enterlude ryght elygant & full of craft of rethoryk / wherein is shewd & dyscrybyd as well the bewte & good propertes of women / as theyr vycys & euyll cōdiciōs / with a morall cōclusion & exhortacyon to vertew",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7723551670710247,
+            -4.020520424842834
+        ]
+    },
+    {
+        "play_title": "¶ A mery play betwene the pardoner and the frere / the cura•e and neybour Pratte.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.239943279939539,
+            4.527021941016702
+        ]
+    },
+    {
+        "play_title": "untitled",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            0.16079842521433244,
+            -0.1781222232949664
+        ]
+    },
+    {
+        "play_title": "Actus secundus.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9614556925637383,
+            -4.14417348589216
+        ]
+    },
+    {
+        "play_title": "Incipit Comoedia.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.277373167184683,
+            4.575634919680082
+        ]
+    },
+    {
+        "play_title": "A Comedye concernynge thre lawes, Compyled by Iohan Bale.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9552022835304,
+            -4.138526135477527
+        ]
+    },
+    {
+        "play_title": "Actus Primus.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -1.0860746935622332,
+            1.1800687476380232
+        ]
+    },
+    {
+        "play_title": "TRO AS OF SFNECA",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9470517584618103,
+            -4.1966843807950935
+        ]
+    },
+    {
+        "play_title": "THYESTES OF Seneca.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.84650964086706,
+            -4.144107417626814
+        ]
+    },
+    {
+        "play_title": "ACTVS PRIMVS.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -3.2019506057754894,
+            3.3596220895078015
+        ]
+    },
+    {
+        "play_title": "Thersites commeth in fyrste hauinge a clubbe vppon his necke",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7573103952407836,
+            -3.9652154207229615
+        ]
+    },
+    {
+        "play_title": "¶The prologue of the messenger.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9604603350162506,
+            -4.153316229581833
+        ]
+    },
+    {
+        "play_title": "A briefe view of the weakneſſe of the Grounds of PopiſhReligion, as is euident by theſeſeuerall Obiections andAnſweres following.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.272196852642557,
+            4.561688837797745
+        ]
+    },
+    {
+        "play_title": "An Enterlude of the Repentance",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.914020065603585,
+            -4.175855098099544
+        ]
+    },
+    {
+        "play_title": "The Song,",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9185706708166332,
+            -4.208007521099514
+        ]
+    },
+    {
+        "play_title": "The Historie of Jacob and Eſau.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.289666212522066,
+            4.580824861159692
+        ]
+    },
+    {
+        "play_title": "Nature, witte and will.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.952008157163053,
+            -4.208074608364621
+        ]
+    },
+    {
+        "play_title": "A Commedy ofFirſt enter Cambiſes the King, Knight andCouncellor.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.302911231392308,
+            4.576451389413131
+        ]
+    },
+    {
+        "play_title": "Enter Worldly man ſtout and frolike.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.290756011009217,
+            4.580312275886536
+        ]
+    },
+    {
+        "play_title": "Sing heere.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.292673173158065,
+            4.573452949523926
+        ]
+    },
+    {
+        "play_title": "Abrahams Sacrifice.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9080185371896494,
+            -4.168623913889346
+        ]
+    },
+    {
+        "play_title": "Theologie commeth in a long ancient garment like a Prophet, and speaketh as doth folowe.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9306822965542474,
+            -4.2024084230264025
+        ]
+    },
+    {
+        "play_title": "¶A Declaration of the Triumph shewed before the Queenes Maiestie, and the French Ambassadours, on VVhitson Munday & Tuesday.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8950795026925893,
+            -4.153537300916819
+        ]
+    },
+    {
+        "play_title": "A pythie and pleasant Comoedie of the three Ladies of London.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.90459700358116,
+            -4.202975883322247
+        ]
+    },
+    {
+        "play_title": "Heere followethHemetestale.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.915498367945353,
+            -4.18352263768514
+        ]
+    },
+    {
+        "play_title": "The pleasant and statelie Morall of the three Lords of London.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9365876481152964,
+            -4.219027415565822
+        ]
+    },
+    {
+        "play_title": "A speech on the water deliuered in the morning at my Lord Maiors going to Westminster.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.930703639984131,
+            -4.199194550514221
+        ]
+    },
+    {
+        "play_title": "The Tragedie of Tancredand Gismund.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7998898491567497,
+            -4.079789283324261
+        ]
+    },
+    {
+        "play_title": "GALLATHEA.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.931908513224402,
+            -4.201254656148511
+        ]
+    },
+    {
+        "play_title": "The Tragedy of M. Arden of Feueshame.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9175687581300735,
+            -4.2129199616611
+        ]
+    },
+    {
+        "play_title": "THE Tragedie ofSolimanandPerseda.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9398412863413492,
+            -4.206863188743592
+        ]
+    },
+    {
+        "play_title": "THE Famous Chronicle historie of King Edwarde the first, sirnamed Edwarde Longshankes: with the sincking of QueeneElinor at Charingcrosse, and her risingagaine at Potters hith, otherwise called Queene hith.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.923951374857049,
+            -4.229040309002525
+        ]
+    },
+    {
+        "play_title": "A merie Knacke to knowe a Knaue,",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8284044333224028,
+            -4.097574418445803
+        ]
+    },
+    {
+        "play_title": "A LOOKING GLASSE FOR London and England.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9191658906638622,
+            -4.210076957941055
+        ]
+    },
+    {
+        "play_title": "A Pleaſant conceited Hiſtorie, calledThe Taming of a Shrew.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.294281882208747,
+            4.576278738073401
+        ]
+    },
+    {
+        "play_title": "G. STEEVENS❧A pleaſant conceited Hiſtorie, called, The Taming of a Shrew.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.289840434726916,
+            4.570943656720613
+        ]
+    },
+    {
+        "play_title": "THE HONOVRABLE Hiſtorie of Frier Bacon.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2745729614706605,
+            4.571284901862051
+        ]
+    },
+    {
+        "play_title": "THE HONORABLE HISTORY OF FRYER BACON.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.292407430135286,
+            4.5791266698103685
+        ]
+    },
+    {
+        "play_title": "THE HISTORIE OF Orlando Furioso One of the twelue Pieres of France.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.867027727333275,
+            -4.192381472200961
+        ]
+    },
+    {
+        "play_title": "THE COBLERS Prophesie.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9102820336818693,
+            -4.2203996777534485
+        ]
+    },
+    {
+        "play_title": "THE TRVE TRAGEDIE OF RICHARD THE THIRD.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.301055640505071,
+            4.5760244737591655
+        ]
+    },
+    {
+        "play_title": "The troublesome raigne and lamentable death ofEdwardthe second, king of England: with the tragicall fall of proudMortimer.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.935640187330649,
+            -4.231700151738986
+        ]
+    },
+    {
+        "play_title": "THE FIRST PART OF THE moſt tyrannicall Tragedie and raigne of Selimus, Emperour of the Turkes, and grandfather to him that now•igneth.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2756894950209,
+            4.569944151516618
+        ]
+    },
+    {
+        "play_title": "The warres of Cyrus king ofPerſia againſt Antiochus kingof Aſsiria.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.291275501251221,
+            4.58005769436176
+        ]
+    },
+    {
+        "play_title": "THE MASSACRE AT PARIS. VVith the Death of the Duke ofGuise.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.921504006241307,
+            -4.217325687408447
+        ]
+    },
+    {
+        "play_title": "The Pedlers Prophecie.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9263559920447215,
+            -4.186284019833519
+        ]
+    },
+    {
+        "play_title": "The old VViues Tale.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.903743125774242,
+            -4.189065977379128
+        ]
+    },
+    {
+        "play_title": "¶A pleaſant conceited Comoedie, called A knacke to know an honeſt Man.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.302668582825434,
+            4.572416453134446
+        ]
+    },
+    {
+        "play_title": "THE RAIGNE OF K: Edward the third.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.298839302386268,
+            4.574374837390447
+        ]
+    },
+    {
+        "play_title": "THE HISTORIE OF Henry the fourth.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9216596677705837,
+            -4.222320482328341
+        ]
+    },
+    {
+        "play_title": "Song.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.922721496848173,
+            -4.224183004955913
+        ]
+    },
+    {
+        "play_title": "Octauiae tragicomoedia.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9260943019599246,
+            -4.188172482607658
+        ]
+    },
+    {
+        "play_title": "THE SCOTTISH Hystorie of Iames the fourth, slaine atFlodden.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.934402291454486,
+            -4.220124337210584
+        ]
+    },
+    {
+        "play_title": "The Song.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.286682783029018,
+            4.578342486650516
+        ]
+    },
+    {
+        "play_title": "A moſt pleaſant Comedy ofMucedorusthe Kings Son ofValentia,andAmadinethe Kings DaughterofAragon.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.283567640516493,
+            4.570762713750203
+        ]
+    },
+    {
+        "play_title": "THE HISTORIE OF Sir Clyomon Knight of the golden Sheeld, ſon to the King of Denmark: And Clamydes the white Knight, ſonne to the King of Swauia.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.299026571001325,
+            4.573165702819824
+        ]
+    },
+    {
+        "play_title": "A pleasant conceyted Comedie ofGeorge a Greene,the Pinner of Wakefield.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.914533765227706,
+            -4.226238091786702
+        ]
+    },
+    {
+        "play_title": "A pleasant Comedie entituledAn humorous dayes mirth.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8940317900675647,
+            -4.22747299806127
+        ]
+    },
+    {
+        "play_title": "The pleasant Comedy of the two angry Women of Abington.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9086816020128206,
+            -4.220110544344274
+        ]
+    },
+    {
+        "play_title": "THE COMEDIE OF Olde Fortunatus.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9199142274977286,
+            -4.2141059621979915
+        ]
+    },
+    {
+        "play_title": "Euery man out of his Humor.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9208909645080565,
+            -4.198725105285645
+        ]
+    },
+    {
+        "play_title": "The true and honorable Historie, of the life of Sir Iohn Oldcastle, the good Lord Cobham.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9111741168158396,
+            -4.215524026325771
+        ]
+    },
+    {
+        "play_title": "Much adoe aboutNothing.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.928443612474384,
+            -4.217681863091209
+        ]
+    },
+    {
+        "play_title": "A MIDSOMMER NIGHTS DREAME.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.946192637356845,
+            -4.188374848799272
+        ]
+    },
+    {
+        "play_title": "The comicall Hiſtory of the Merchant of Venice.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.298299663945248,
+            4.580031955451296
+        ]
+    },
+    {
+        "play_title": "The Comical Hiſtory of the Merchant of Venice.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.295912496505245,
+            4.580282588158885
+        ]
+    },
+    {
+        "play_title": "SVMMERS last will and Testament.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9014785694626144,
+            -4.184754164713733
+        ]
+    },
+    {
+        "play_title": "A pleasant Comedie of the Gentle Craft.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9335379177524197,
+            -4.22764172861653
+        ]
+    },
+    {
+        "play_title": "EVERY MAN in his Humor.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9296815341169182,
+            -4.213971381837672
+        ]
+    },
+    {
+        "play_title": "THE DEATH OF ROBERT, EARLE OF HVNTINGTON.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9415835920969644,
+            -4.211468613942464
+        ]
+    },
+    {
+        "play_title": "Two Tragedies in one.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.936504844696291,
+            -4.20794020160552
+        ]
+    },
+    {
+        "play_title": "The Play called Antonio and Mellida.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8548601627349854,
+            -4.113062906265259
+        ]
+    },
+    {
+        "play_title": "Antonios Reuenge. ¶ The second part of the Historie of Antonio and Mellida.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.942669983421053,
+            -4.185209674494607
+        ]
+    },
+    {
+        "play_title": "THE MERRY VVIVES OF VVINSOR.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2881272357443105,
+            4.583037424778593
+        ]
+    },
+    {
+        "play_title": "Blurt Master Constable.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9395433078377935,
+            -4.202356831502106
+        ]
+    },
+    {
+        "play_title": "The life and death of the LordCromwell.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9200217073613945,
+            -4.197261067953977
+        ]
+    },
+    {
+        "play_title": "To the faythfull Chriſtians.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.1780961354573565,
+            4.508008162180583
+        ]
+    },
+    {
+        "play_title": "The life and death of the Lord Cromwell.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.295593583306601,
+            4.575706870056862
+        ]
+    },
+    {
+        "play_title": "THE CONTENTION betweene Liberalitie and Prodigalitie.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.761568650177547,
+            -4.034929714884076
+        ]
+    },
+    {
+        "play_title": "A pleasant conceited Comedie, wherein is shewed how a man may chuse a good Wife from a bad.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.935516243395598,
+            -4.205322168875432
+        ]
+    },
+    {
+        "play_title": "A Larum for London, or the siedge of Antwerpe: with the vertuous actes and valorous deedes of the•ame Soldier.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9354630368096486,
+            -4.212368772143409
+        ]
+    },
+    {
+        "play_title": "The Vntrussing of the Humorous Poet.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.926323181622988,
+            -4.216121503285
+        ]
+    },
+    {
+        "play_title": "The pleasant Commoedye of Patient Grissil.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8577199595815994,
+            -4.12438806365518
+        ]
+    },
+    {
+        "play_title": "Ane verie excellent and delectabill Treatiſe intitulit PHILOTVS.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.277397028605143,
+            4.566344181696574
+        ]
+    },
+    {
+        "play_title": "THE MALECONTENT.〈…〉",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9351163813562104,
+            -4.2101944576610215
+        ]
+    },
+    {
+        "play_title": "The tragicall Historie of Doctor Faustus.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9085544466972353,
+            -4.197988599538803
+        ]
+    },
+    {
+        "play_title": "LONDINIVM",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -2.831621825695038,
+            3.162672698497772
+        ]
+    },
+    {
+        "play_title": "The Hiſtorie of the triall of Cheualry.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.299855429028708,
+            4.579957700911022
+        ]
+    },
+    {
+        "play_title": "The Faire maid of Briſtovv.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.291009689199513,
+            4.577589676297944
+        ]
+    },
+    {
+        "play_title": "When you see me, You know me.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9345634669065475,
+            -4.220742264389992
+        ]
+    },
+    {
+        "play_title": "The true Chronicle Historie of KingLeir and his three daughters.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8405675231546597,
+            -4.125391661256984
+        ]
+    },
+    {
+        "play_title": "THE Dutch Curtezan.Turpe eſt diffi•de•habere nug•••",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.282494100473695,
+            4.571619308600991
+        ]
+    },
+    {
+        "play_title": "If you knovv not me, You know no bodie: Or, The troubles of QueeneELIZABETH.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.917347925465281,
+            -4.221867421778237
+        ]
+    },
+    {
+        "play_title": "EAST-WARD HOE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.293672815958659,
+            4.579308554331462
+        ]
+    },
+    {
+        "play_title": "The triumphes of re-vnited Brytannia.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.267026356288365,
+            4.5573539052690775
+        ]
+    },
+    {
+        "play_title": "The First Part of Ieronimo.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.942801244556904,
+            -4.222259238362312
+        ]
+    },
+    {
+        "play_title": "THE LONDON Prodigall.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8856045360918396,
+            -4.159731962062694
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE ofCleopatra.To the LadyMarieCountisseofPembrooke.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.913784903149272,
+            -4.196324503699015
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE of PHILOTAS.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.945613104563493,
+            -4.189451657808744
+        ]
+    },
+    {
+        "play_title": "The second Part of If you know not mee, youknow no bodie:With the building of the Exchange.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9351099696424274,
+            -4.21175487836202
+        ]
+    },
+    {
+        "play_title": "THE QVEENES ARCADIA.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9052276336229763,
+            -4.142092600235572
+        ]
+    },
+    {
+        "play_title": "C RHONI SOIT QVI MAL Y PENCEflower surmounted by a crownthistle surmounted by a crownfleur-de-lys surmounted by a crownharp surmounted by a crown",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.302926540374756,
+            4.567006826400757
+        ]
+    },
+    {
+        "play_title": "NO-BODY, AND SOME-BODY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9443016367138557,
+            -4.208609509018232
+        ]
+    },
+    {
+        "play_title": "The Fawne.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.926277027130127,
+            -4.21082550684611
+        ]
+    },
+    {
+        "play_title": "The Tragedie of Caeſar and Pompey.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2889769400580455,
+            4.569169674889516
+        ]
+    },
+    {
+        "play_title": "WILY BEGVILDE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.274345974127452,
+            4.565941103299459
+        ]
+    },
+    {
+        "play_title": "The Ile of Gulls.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.285349001095989,
+            4.577629340915229
+        ]
+    },
+    {
+        "play_title": "MONSIEVR D'OLIVE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.284297634054114,
+            4.577533721923828
+        ]
+    },
+    {
+        "play_title": "HYMENAEI.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7967439360088773,
+            -4.030063615904914
+        ]
+    },
+    {
+        "play_title": "THE Description of a Maske presented before the Kinges Maiestie at White Hall, on twelft night last, in honour of the LordHAYES,and his Bride, daughter, and heire to the Honourable the Lord DENNYE, their mariage hauing been the same day at Court solemnized.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8670122305552166,
+            -4.119423580169678
+        ]
+    },
+    {
+        "play_title": "Prologue.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -0.41640351917229446,
+            0.4414087311894286
+        ]
+    },
+    {
+        "play_title": "THE VVHOREof Babylon.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7736015915870667,
+            -4.047570637966457
+        ]
+    },
+    {
+        "play_title": "¶ The faire Maide of the Exchange.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.937212826549143,
+            -4.213122616643491
+        ]
+    },
+    {
+        "play_title": "THE Phoenix:",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2950190380215645,
+            4.57962217181921
+        ]
+    },
+    {
+        "play_title": "Inductio.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.28411669201321,
+            4.578802260141524
+        ]
+    },
+    {
+        "play_title": "CVPIDS Whirligig.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.929652061462402,
+            -4.220280164082845
+        ]
+    },
+    {
+        "play_title": "The Miseries of inforst Mariage.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.847975224643559,
+            -4.149660088799217
+        ]
+    },
+    {
+        "play_title": "The Puritaine Widdow.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.835345767094539,
+            -4.122474842805129
+        ]
+    },
+    {
+        "play_title": "What you will.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9360514586089086,
+            -4.202064553245169
+        ]
+    },
+    {
+        "play_title": "The Tragaedie ofAlexanderthe 6.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.859934859332584,
+            -4.133949255659466
+        ]
+    },
+    {
+        "play_title": "The Fleire.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9302383219754256,
+            -4.216651845861365
+        ]
+    },
+    {
+        "play_title": "THE Famous Historie ofSirThomas Wyat.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.109602310718634,
+            -3.4190941773928127
+        ]
+    },
+    {
+        "play_title": "The merry Deuill of Edmonton.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9298086166381836,
+            -4.218174812121269
+        ]
+    },
+    {
+        "play_title": "M. William Shak-speareHISHistorie, of King Lear.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9271552356672874,
+            -4.221300325275939
+        ]
+    },
+    {
+        "play_title": "Your fiue Gallants.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.274257909006147,
+            4.57646701585001
+        ]
+    },
+    {
+        "play_title": "Law-tricks, OR Who would haue thought it.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2898115457273,
+            4.581543258592194
+        ]
+    },
+    {
+        "play_title": "ACTƲS1.Scena.1.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.284811984168159,
+            4.5812864091661245
+        ]
+    },
+    {
+        "play_title": "ALL'S ONE, OR, One of the foure Plaies in one, called aYork-shireTragedy: as it was plaid by the Kings Maiesties Plaiers.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.921143579483032,
+            -4.18719722032547
+        ]
+    },
+    {
+        "play_title": "THE Rape of Lucrece.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.819951541181924,
+            -4.114512256954027
+        ]
+    },
+    {
+        "play_title": "A mad VVorld, my Maſters.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.287881604830424,
+            4.578657484054565
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDY OF MVSTAPHA.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.901973995295438,
+            -4.18991602008993
+        ]
+    },
+    {
+        "play_title": "The history of Troylus and Cresseida.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.930023196068677,
+            -4.2087808766148305
+        ]
+    },
+    {
+        "play_title": "A pleaſant Comedy called, theCaſe is Alterd.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.290783857477122,
+            4.582443327739321
+        ]
+    },
+    {
+        "play_title": "A pleasant Comedy called, the Case is Alterd.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.928013042303232,
+            -4.211146519734309
+        ]
+    },
+    {
+        "play_title": "Euerie Woman in herHumor.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2946794458798,
+            4.579385808535984
+        ]
+    },
+    {
+        "play_title": "The Historie of the two Maides of More-clacke. With the life and simple manner of IOHN i'the Hospitall.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9266057139948796,
+            -4.223571810806007
+        ]
+    },
+    {
+        "play_title": "Mulleasses the Turke,",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.92962264178092,
+            -4.213321376265141
+        ]
+    },
+    {
+        "play_title": "HISTRIO-MASTIX.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9155488113562265,
+            -4.170094008247058
+        ]
+    },
+    {
+        "play_title": "The Golden Age,With the liues ofIupiterandSaturne.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9315449334681034,
+            -4.197552438825369
+        ]
+    },
+    {
+        "play_title": "MAY-DAY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.915511419898585,
+            -4.2249633512998885
+        ]
+    },
+    {
+        "play_title": "The Roaring Girle.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9286417147008383,
+            -4.221417485213861
+        ]
+    },
+    {
+        "play_title": "A Woman's a Weather-cocke.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9297093868255617,
+            -4.219739177010276
+        ]
+    },
+    {
+        "play_title": "A Christian turn'd Turke.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9429836794734,
+            -4.213382333517075
+        ]
+    },
+    {
+        "play_title": "The VViddowes Teares. A COMEDIE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9319762856992955,
+            -4.207922687269237
+        ]
+    },
+    {
+        "play_title": "Troia Noua Triumphans. London Triumphing.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9315019775839413,
+            -4.142615725012386
+        ]
+    },
+    {
+        "play_title": "THE ALCHEMIST.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9176962208747863,
+            -4.1745542359352115
+        ]
+    },
+    {
+        "play_title": "EPICOENE, OR The ſilent VVoman.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.29196767592698,
+            4.573576659299015
+        ]
+    },
+    {
+        "play_title": "IF THIS BE NOT A GOOD PLAY, THE DIVELL IS IN IT.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.929717406630516,
+            -4.213278216123581
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDY OF PAVLO GIORDANO Vrsini Duke of Brachiano, and Vittoria Corombona.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.927087148954702,
+            -4.190163787021193
+        ]
+    },
+    {
+        "play_title": "THE DEVISE OR ARGVMENT OF THE MASQVE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.527589875459671,
+            -3.771889466047287
+        ]
+    },
+    {
+        "play_title": "THE PRESENTMENT.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8803703784942627,
+            -4.16006584962209
+        ]
+    },
+    {
+        "play_title": "The Brazen Age,CONTAININGThe labours and death ofHercules.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.913600853044693,
+            -4.189109821842141
+        ]
+    },
+    {
+        "play_title": "CINTHIAS REVENGE: OR MAENANDERS EXTASIE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9338855842749276,
+            -4.173773829142252
+        ]
+    },
+    {
+        "play_title": "THE INSATIATE Countesse.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9378807953425814,
+            -4.213014445986066
+        ]
+    },
+    {
+        "play_title": "The Deuice of the Maske",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.244150439898173,
+            4.55405064423879
+        ]
+    },
+    {
+        "play_title": "THE HOGGE HATH loſt his Pearle.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.28891937586726,
+            4.570397698149389
+        ]
+    },
+    {
+        "play_title": "Greenes Tu Quoque.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8681632086634634,
+            -4.143133659660816
+        ]
+    },
+    {
+        "play_title": "The description of a Masque, Presented in the Banqueting roome at Whitehall, On St. Stephens night last: At the Mariage of the right Honourable the Earle of Somerset, & the right noble the Lady Frances Howard.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.72098770737648,
+            -4.002424985170364
+        ]
+    },
+    {
+        "play_title": "A Merrie Dialogue betvveene BAND, CVFFE, and RVFFE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.303544712066651,
+            4.581413650512696
+        ]
+    },
+    {
+        "play_title": "¶CERTAINE STRANGE and Lamentable Tragicall Hiſtoryes.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.275665200551351,
+            4.568880112965902
+        ]
+    },
+    {
+        "play_title": "CVPIDS REVENG.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9531503079542474,
+            -4.205610353555253
+        ]
+    },
+    {
+        "play_title": "Palsgraue.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.939079905455967,
+            -4.214390250871766
+        ]
+    },
+    {
+        "play_title": "ALBVMAZAR.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.938378684128387,
+            -4.191132934787605
+        ]
+    },
+    {
+        "play_title": "METROPOLISCORONATA:OR, The olde Drapery and Cloathingof England, triumphing a ſecond Yeere.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.1796510219573975,
+            4.453892361034047
+        ]
+    },
+    {
+        "play_title": "The foure PrentisesOF LONDON.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.916290048050554,
+            -4.221914474278281
+        ]
+    },
+    {
+        "play_title": "The Scornful Lady: A COMEDY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.845831807655624,
+            -4.1485465025599995
+        ]
+    },
+    {
+        "play_title": "Chryſanaleia: THE GOLDEN FISHING.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.28112658587369,
+            4.571253819899126
+        ]
+    },
+    {
+        "play_title": "THE HONESTLAWYER.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2830793156343345,
+            4.578586031408871
+        ]
+    },
+    {
+        "play_title": "The Ample Order and Solemnityof PrinceCHARLEShis Creation",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.224845734509555,
+            4.538855639371005
+        ]
+    },
+    {
+        "play_title": "A Faire Quarrell.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9398842676361996,
+            -4.210059721078446
+        ]
+    },
+    {
+        "play_title": "ΤΕΧΝΟΓΑΜΙΑ: OR The Marriages of the Arts.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.281093877774698,
+            4.566485839861411
+        ]
+    },
+    {
+        "play_title": "See mee, and ſee mee not.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.28307440953377,
+            4.568162979223789
+        ]
+    },
+    {
+        "play_title": "The Maydes Tragedy.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8559743463993073,
+            -4.136202491381589
+        ]
+    },
+    {
+        "play_title": "THE INNER-TEMPLE MASQVE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.263560983869764,
+            4.566599422030979
+        ]
+    },
+    {
+        "play_title": "A King and NO KING.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.294321778702409,
+            4.575476920768006
+        ]
+    },
+    {
+        "play_title": "PHYLASTER.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9254571832716465,
+            -4.221336603164673
+        ]
+    },
+    {
+        "play_title": "THE SVNNE IN ARJES.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.241037011146545,
+            4.5334771275520325
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE OF THIERRIE AND THEODORET.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            -0.01606659517913568,
+            0.018587911715272996
+        ]
+    },
+    {
+        "play_title": "THE VIRGIN MARTIR.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.940292224078111,
+            -4.197516592455582
+        ]
+    },
+    {
+        "play_title": "AN EXCELLENT COMEDY CALLED the Heire.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.294997100830078,
+            4.5718067932128905
+        ]
+    },
+    {
+        "play_title": "THE DVKE OF MILLAINE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.869140080043248,
+            -4.119780775478908
+        ]
+    },
+    {
+        "play_title": "The Deuil's Law Case.OR,When Women goe to Law, the Deuill is full of Businesse.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.879985686937968,
+            -4.128812467257182
+        ]
+    },
+    {
+        "play_title": "NEPTVNES TRIVMPH.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8507730431026883,
+            -4.138690895504421
+        ]
+    },
+    {
+        "play_title": "Monuments of Honor.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.579894542694092,
+            -3.842821458975474
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE OFNERO.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2942348803792685,
+            4.573363661766052
+        ]
+    },
+    {
+        "play_title": "THE FORTVNATE ISLES.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.927414894104004,
+            -4.165111939112346
+        ]
+    },
+    {
+        "play_title": "THE GHOST of Lucrece",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.284869194030762,
+            4.555953612694373
+        ]
+    },
+    {
+        "play_title": "The Triumphes of Health and Proſperity.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.162766019503276,
+            4.461523413658142
+        ]
+    },
+    {
+        "play_title": "Apollo Shrouing.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.802145159826046,
+            -4.130363498519107
+        ]
+    },
+    {
+        "play_title": "Brittannia's Honor: Brightly shining in seuerall Magnificent Shewes or Pageants, to Celebrate the Solemnity of the Right Honorable RICHARD DEANE, at his Inauguration into the Majoralty of the Honorable Citty of London, on Wensday the 29. of October. 1628.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8972167457853044,
+            -4.15583416393825
+        ]
+    },
+    {
+        "play_title": "THE LOVERS MELANCHOLY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.933527573943138,
+            -4.19427589699626
+        ]
+    },
+    {
+        "play_title": "Londons Tempe.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.250888967514038,
+            4.55605993270874
+        ]
+    },
+    {
+        "play_title": "THE FAVORITE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.263313546180725,
+            4.540454703966777
+        ]
+    },
+    {
+        "play_title": "THE CRVELL BROTHER.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.276061618537233,
+            4.580898527513471
+        ]
+    },
+    {
+        "play_title": "THE IVST ITALIAN.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.283525692332875,
+            4.573380574313077
+        ]
+    },
+    {
+        "play_title": "THE GRATEFVLL SERVANT.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9288950074802744,
+            -4.224764867262407
+        ]
+    },
+    {
+        "play_title": "THE RENEGADO.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.967876615808971,
+            -4.184868897964705
+        ]
+    },
+    {
+        "play_title": "A Chaſt Mayd in Cheape-ſide.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.293745885815537,
+            4.579475026381643
+        ]
+    },
+    {
+        "play_title": "THE HONEST VVHORE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9100732833147047,
+            -4.214822328090667
+        ]
+    },
+    {
+        "play_title": "THE PICTVRE, A true Hungarian History.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9601209825939603,
+            -4.2036171952883405
+        ]
+    },
+    {
+        "play_title": "To make the Spectators vnderstanders.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.830999175707499,
+            -4.10616672039032
+        ]
+    },
+    {
+        "play_title": "The Tragedy of Hoffman.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.939783099871963,
+            -4.212442842882071
+        ]
+    },
+    {
+        "play_title": "A COMEDIE, OR TRAGICKE COMEDIE OF CALISTO and MELIBEA.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8966568716367087,
+            -4.191782379945119
+        ]
+    },
+    {
+        "play_title": "❧The valiant and moſt laudable fight performed on the Sea, by theCenturionof London.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.1391319036483765,
+            4.452310681343079
+        ]
+    },
+    {
+        "play_title": "MATCH MEE IN LONDON.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.918557019460769,
+            -4.225657311696855
+        ]
+    },
+    {
+        "play_title": "THE SCHOOLE OF COMPLEMENT.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9298615058263144,
+            -4.20908166302575
+        ]
+    },
+    {
+        "play_title": "THE NEVV INNE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9217174900205514,
+            -4.193248391151428
+        ]
+    },
+    {
+        "play_title": "SICELIDES,",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9347281926114794,
+            -4.215143062699009
+        ]
+    },
+    {
+        "play_title": "ONELY A IVST MAN IS A FREE MAN.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            0.006343386588840309,
+            -0.007169846001021359
+        ]
+    },
+    {
+        "play_title": "THE RAGING TVRKE, Or the Tragedie of BAIAZET, the second of that name.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.942812372808871,
+            -4.206602905107581
+        ]
+    },
+    {
+        "play_title": "LONDONSIus Honorarium.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.811673402786255,
+            -4.1015661196275195
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDY OF ANTIGONE TheThebanPrinceſſe.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.293263395627339,
+            4.573544065157573
+        ]
+    },
+    {
+        "play_title": "THE DVTCHE•OF SVFFOLKE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9187281940664564,
+            -4.224216324942453
+        ]
+    },
+    {
+        "play_title": "TEMPE RESTOR'D",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8142972707748415,
+            -4.120073390007019
+        ]
+    },
+    {
+        "play_title": "THE COVRAGIOVS TVRKF,OR,AMVRATH the first.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8427073680437527,
+            -4.1959469089141255
+        ]
+    },
+    {
+        "play_title": "HOLLANDS LEAGVER.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.286066494882107,
+            4.580884963274002
+        ]
+    },
+    {
+        "play_title": "THE NORTHERN LASSE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9186849017719645,
+            -4.212650073753609
+        ]
+    },
+    {
+        "play_title": "The Fatall Dowry: A Tragedy.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.947480961254665,
+            -4.205887522016253
+        ]
+    },
+    {
+        "play_title": "Actus primus, Scena prima.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.27864389467721,
+            4.55884267826273
+        ]
+    },
+    {
+        "play_title": "Londons Scaturigo.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.258103067224676,
+            4.559304844249379
+        ]
+    },
+    {
+        "play_title": "The Jealous Lovers.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8604922231874967,
+            -4.1924336897699455
+        ]
+    },
+    {
+        "play_title": "ALL'S LOST BY LVST.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.813717908329434,
+            -4.129581619192053
+        ]
+    },
+    {
+        "play_title": "THE COSTLYWHORE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.290824527541797,
+            4.572801967461904
+        ]
+    },
+    {
+        "play_title": "A CONTENTION FOR HONOR AND RICHES.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.878947297732035,
+            -4.193374872207642
+        ]
+    },
+    {
+        "play_title": "THE VVITTY FAIRE ONE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.932422459125519,
+            -4.2124534504754205
+        ]
+    },
+    {
+        "play_title": "Loues Sacrifice.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.926486508487022,
+            -4.217192042363833
+        ]
+    },
+    {
+        "play_title": "THE BIRD IN A CAGE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9074886236034456,
+            -4.221928956078702
+        ]
+    },
+    {
+        "play_title": "THE BROKEN HEART.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8725656452386277,
+            -4.137311562247898
+        ]
+    },
+    {
+        "play_title": "A Fine Companion.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.291981422539913,
+            4.576850342028068
+        ]
+    },
+    {
+        "play_title": "Mercury, conducting the Ghosts of Brennus and Camillus, in compleate armour, and with swords drawne.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.904442505041758,
+            -4.19879785378774
+        ]
+    },
+    {
+        "play_title": "LONDONS EMPORIA, OR MERCATVRA.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.843553526060922,
+            -4.1220689330782205
+        ]
+    },
+    {
+        "play_title": "THE ENGLISH TRAVELLER.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.919678850306405,
+            -4.211690995428297
+        ]
+    },
+    {
+        "play_title": "T'is Pitty Shee's a VVHOORE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9203114189318757,
+            -4.195236643748497
+        ]
+    },
+    {
+        "play_title": "The entertainement of the High and Mighty Monarch, Prince CHARLES, King of great Brittaine,FranceandIreland,into his ancient and Royall Citie ofEdenbourgh,the 15. of Iune. 1633.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.785825218473162,
+            -4.110320670264108
+        ]
+    },
+    {
+        "play_title": "THE NOBLE SPANISH SOVLDIER:",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8942644190280995,
+            -4.211421002732947
+        ]
+    },
+    {
+        "play_title": "THE CHRONICLE HISTORIE OF PERKIN WARBECK.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9306838477867236,
+            -4.206160617911297
+        ]
+    },
+    {
+        "play_title": "A MAYDEN-HEAD VVELL LOST.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.950715592566957,
+            -4.216743428656396
+        ]
+    },
+    {
+        "play_title": "THE TEMPLE OF LOVE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            0.9097400108973185,
+            -1.0343448917071025
+        ]
+    },
+    {
+        "play_title": "THE TRAYTOR.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9176861393836235,
+            -4.223886420649867
+        ]
+    },
+    {
+        "play_title": "The Perſons of the Play.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.301013095038278,
+            4.572145811149052
+        ]
+    },
+    {
+        "play_title": "THE VVOMANS SPLEENE,ANDLOVES CONQVEST: A Tragi-Comedie.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.292362016790054,
+            4.573708926930147
+        ]
+    },
+    {
+        "play_title": "A MASQVE PRESENTED BY his HIGHNESSE, at his Pallace in the Middle-Temple, the 24th.of February, 1635.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.243144303560257,
+            4.54256397485733
+        ]
+    },
+    {
+        "play_title": "Loues Mistris.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.2878749759300896,
+            -3.5816536856734236
+        ]
+    },
+    {
+        "play_title": "A COMICAL HISTORY OF THE GREAT DVKE OF FLORENCE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.90686674118042,
+            -4.19996779759725
+        ]
+    },
+    {
+        "play_title": "HANNIBALL AND SCIPIO.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9164910041368923,
+            -4.179164528846741
+        ]
+    },
+    {
+        "play_title": "The Royall King, AND The Loyall Subiect.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.857095214187122,
+            -4.198674264501353
+        ]
+    },
+    {
+        "play_title": "HIDE PARKE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9147474630823673,
+            -4.221116929684046
+        ]
+    },
+    {
+        "play_title": "The Lady of Pleasure.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.916089855134487,
+            -4.216861009597778
+        ]
+    },
+    {
+        "play_title": "THE YOVNG ADMIRALL.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8104380924126198,
+            -4.122768543917557
+        ]
+    },
+    {
+        "play_title": "THE EXAMPLE",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.913527384138944,
+            -4.217892274521945
+        ]
+    },
+    {
+        "play_title": "Londini Speculum, OR, Londons Mirrour.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8281080524126687,
+            -4.130819459756215
+        ]
+    },
+    {
+        "play_title": "A Tragicomedy.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.279454894182159,
+            4.554450366555191
+        ]
+    },
+    {
+        "play_title": "BRITANNIA Triumphans.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7963122725486755,
+            -4.114553466439247
+        ]
+    },
+    {
+        "play_title": "The Martyr'd Souldier.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.870644560400045,
+            -4.1975981154531805
+        ]
+    },
+    {
+        "play_title": "THE WISE-VVOMAN OF HOGSDON.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.652773871537178,
+            -3.9752907820286287
+        ]
+    },
+    {
+        "play_title": "THE DVKES MISTRIS",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9234028322654857,
+            -4.218711049933183
+        ]
+    },
+    {
+        "play_title": "PALLANTUS and EUDORAATRAGEDY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.835001554178155,
+            -4.158169839693152
+        ]
+    },
+    {
+        "play_title": "THE FISRT ACT.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.910487582466819,
+            -4.218539177287709
+        ]
+    },
+    {
+        "play_title": "Act. 1.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9116420269012453,
+            -4.208987782218239
+        ]
+    },
+    {
+        "play_title": "AGLAURA.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            -0.07902358167914934,
+            0.03498179938203545
+        ]
+    },
+    {
+        "play_title": "The ſeven Champions of Chriſtendome.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.297109222412109,
+            4.571664223304162
+        ]
+    },
+    {
+        "play_title": "Londini Porta Pietatis: Londons Gate to Piety.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7311699390411377,
+            -4.039721337231723
+        ]
+    },
+    {
+        "play_title": "THE BALL.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8725882308524953,
+            -4.176295088048567
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE OF PHILIP CHABOT, ADMIRALL of FRANCE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.304104601895368,
+            4.571572480378328
+        ]
+    },
+    {
+        "play_title": "MonſieurThomas,A Comedy.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.297988737546481,
+            4.578682239239033
+        ]
+    },
+    {
+        "play_title": "THE VNNATVRALL COMBAT.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.920964789390564,
+            -4.2116555372873945
+        ]
+    },
+    {
+        "play_title": "A New Tricke to Cheat the Divell.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.298849165439606,
+            4.578163594007492
+        ]
+    },
+    {
+        "play_title": "THE MAIDES REVENG.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9094591266230534,
+            -4.216754578707511
+        ]
+    },
+    {
+        "play_title": "The drinking Song, to the second Act.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8375625168123553,
+            -4.167655981356098
+        ]
+    },
+    {
+        "play_title": "THE TRAGOEDY OF ROLLO Duke of NORMANDY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8810375244891056,
+            -4.204083219903414
+        ]
+    },
+    {
+        "play_title": "Londini Status Pacatus: or Londons Peaceable Estate.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.5752406199773152,
+            -3.872552434603373
+        ]
+    },
+    {
+        "play_title": "THE BLOODY BANQVET, A TRAGEDIE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.897912400109427,
+            -4.217769369787099
+        ]
+    },
+    {
+        "play_title": "The Phaenix in her Flames. A Tragedy.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.916476417595232,
+            -4.2091329567868945
+        ]
+    },
+    {
+        "play_title": "THE CORONATION.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9151688650542615,
+            -4.215747010474112
+        ]
+    },
+    {
+        "play_title": "LOVES CRVELTY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.924894528388977,
+            -4.2200344276428225
+        ]
+    },
+    {
+        "play_title": "THE NIGHT-VVALKER: OR, The little Theefe.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8984920866787434,
+            -4.215319395065308
+        ]
+    },
+    {
+        "play_title": "THE OPPORTVNITIE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9321529700838287,
+            -4.224325122504399
+        ]
+    },
+    {
+        "play_title": "THE HVMOROVS COVRTIER.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9301673571268716,
+            -4.208433614836799
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDY OF Messallina, The Roman Empresse.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.907080135847393,
+            -4.188513170208847
+        ]
+    },
+    {
+        "play_title": "THE FIRST ACT.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -3.8644458933880457,
+            4.110464463108464
+        ]
+    },
+    {
+        "play_title": "THE Vnfortunate Mother. A Tragedy.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9297746249607632,
+            -4.201573485419864
+        ]
+    },
+    {
+        "play_title": "THE REBELLION: A TRAGEDY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9125002774325286,
+            -4.200737324627963
+        ]
+    },
+    {
+        "play_title": "A PASTORALL CALLED THE ARCADIA.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9304415164170443,
+            -4.214132397263138
+        ]
+    },
+    {
+        "play_title": "THE STRANGE DISCOVERY, A Trage-Comedie.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.291095000594409,
+            4.576285091798697
+        ]
+    },
+    {
+        "play_title": "Act 1. Scene 2.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8628810435533523,
+            -4.194031989574432
+        ]
+    },
+    {
+        "play_title": "THE QVEENE OF ARRAGON.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9106889196804593,
+            -4.193084440061024
+        ]
+    },
+    {
+        "play_title": "THE SVVAGGERING DAMSELL. A COMEDIE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.305296306256895,
+            4.570339194050542
+        ]
+    },
+    {
+        "play_title": "The Ladies Priviledge.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9361285858965935,
+            -4.203385180615364
+        ]
+    },
+    {
+        "play_title": "VVit in a Constable.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9248886203765867,
+            -4.202238011360168
+        ]
+    },
+    {
+        "play_title": "The Hollander.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.862012409246885,
+            -4.153071707028609
+        ]
+    },
+    {
+        "play_title": "The Second Part of The CID.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2879493525533965,
+            4.551055655334935
+        ]
+    },
+    {
+        "play_title": "RVLE A WIFE and have a wife.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.822569386712436,
+            -4.177307515308775
+        ]
+    },
+    {
+        "play_title": "SICILY and NAPLES,ORThe Fatall Vnion.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2987743304325985,
+            4.571153721442589
+        ]
+    },
+    {
+        "play_title": "The Parlament of Bees.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.295115964166049,
+            4.574032668409677
+        ]
+    },
+    {
+        "play_title": "The Censure of the Iudges: OR, THE COVRT CVRE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8425615842525778,
+            -4.171777725219727
+        ]
+    },
+    {
+        "play_title": "THE SOPHY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8753317509378706,
+            -4.1952067869050165
+        ]
+    },
+    {
+        "play_title": "The life and death of JOHN the BAPTIST.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.77284481308677,
+            -4.143843405174486
+        ]
+    },
+    {
+        "play_title": "COLA'S FVRY. OR LIRENDA'S MISERY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8988934957756185,
+            -4.211694717407227
+        ]
+    },
+    {
+        "play_title": "THE Triumph of Beauty.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.282301790574017,
+            4.561770242803237
+        ]
+    },
+    {
+        "play_title": "THE COMMITTEE-MAN CURRIED.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.258632348133967,
+            4.515256230647747
+        ]
+    },
+    {
+        "play_title": "The Country Girle.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7723094256300675,
+            -4.128455403604005
+        ]
+    },
+    {
+        "play_title": "The Levellers level'd:Or,The Jndpendents Conſpiracie to root out Monarchie.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2860014622028055,
+            4.568688099200909
+        ]
+    },
+    {
+        "play_title": "The Scotch politike Presbyter.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.286552707354228,
+            4.561303933461507
+        ]
+    },
+    {
+        "play_title": "THE AMOROVS WARRE. A Tragi-Comoedy.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.920515298843384,
+            -4.185706662543026
+        ]
+    },
+    {
+        "play_title": "Craftie CROMWELL:A Tragi-Comedie.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.280049006144206,
+            4.552229007085164
+        ]
+    },
+    {
+        "play_title": "CRAFTY CROMWEL OrOLJVERin his Glorie.;Secunda pars.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.293061169711026,
+            4.566640377044678
+        ]
+    },
+    {
+        "play_title": "THE DEVILL and the PARLIAMENT,OR,The Parliament and the Devill.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.275199731190999,
+            4.556861877441406
+        ]
+    },
+    {
+        "play_title": "Sir Pitifull Parliament on his Death-Bed.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.289000749588013,
+            4.5587087869644165
+        ]
+    },
+    {
+        "play_title": "MEDEA. A TRAGEDY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.853864221861868,
+            -4.178637988639601
+        ]
+    },
+    {
+        "play_title": "Mrs. PARLIAMENT BROUGHT TO BID Of the Precious Babe of REFORMATION.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.276675780614217,
+            4.558179457982381
+        ]
+    },
+    {
+        "play_title": "Act.2.Scen.1.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.271733011518206,
+            4.556382179260254
+        ]
+    },
+    {
+        "play_title": "Mrs.ParliamentherGOSSIPPING.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -3.930079221725464,
+            4.182928238596235
+        ]
+    },
+    {
+        "play_title": "Mrs.PARLAMEENT, her Invitation OFMrs.LONDON, to aThankſgiving Dinner.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.273844083150228,
+            4.55809211730957
+        ]
+    },
+    {
+        "play_title": "THETRAGEDIEOFKingCHARLESthe Firſt.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.282365812974818,
+            4.552906842792735
+        ]
+    },
+    {
+        "play_title": "THE Diſeaſe of the Houſe:Or, theSTATE MOUNTEBANCK: AdmmiſtringPhyſickTo a Sick Parliament.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.072981119155884,
+            4.327417203358242
+        ]
+    },
+    {
+        "play_title": "ELECTRAOFSOPHOCLES.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.30487478696383,
+            4.574181140997471
+        ]
+    },
+    {
+        "play_title": "Love in it's Extasie.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8581241719862995,
+            -4.176746472190408
+        ]
+    },
+    {
+        "play_title": "A New Bull-Baiting: OR, A Match Play'd at the TOWN-BULL OF ELY.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.270302152633667,
+            4.556766605377197
+        ]
+    },
+    {
+        "play_title": "A Tragi-COMEDY,calledNEW-Market-FAYRE, OR A PARLIAMENT Out-Cry:OFState-Commodities, SET TO SALE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.257357676823934,
+            4.56541379292806
+        ]
+    },
+    {
+        "play_title": "TheSecond Partof the Tragi-COMEDY,CalledNEW-Market-FAYRE. OR Mrs. PARLIAMENTS New Figaryes.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.252028107643127,
+            4.533464163541794
+        ]
+    },
+    {
+        "play_title": "THE REBELLION OF NAPLES.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.288576412200928,
+            4.569154604276021
+        ]
+    },
+    {
+        "play_title": "THE DISTRACTED STATE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2952904809604995,
+            4.567739064043218
+        ]
+    },
+    {
+        "play_title": "Scene 1. Act. 1.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7796407595072705,
+            -4.134310774607201
+        ]
+    },
+    {
+        "play_title": "HIPPOLITUS ENGLISHED.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8678961184716996,
+            -4.191356505117109
+        ]
+    },
+    {
+        "play_title": "THE IOVIALL CREVV, OR The Devill turnedRANTER.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.268331629889352,
+            4.56891884122576
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDY OF M.TVLLIVS CICERO",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            2.86464402406183,
+            -3.151167357825253
+        ]
+    },
+    {
+        "play_title": "Hey for Honesty, down with Knavery.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.789689849723469,
+            -4.134604302319613
+        ]
+    },
+    {
+        "play_title": "THE PRINCE OF PRIGGS:",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.191546988487244,
+            4.4667411088943485
+        ]
+    },
+    {
+        "play_title": "THE JUST GENERAL.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.307291037506527,
+            4.570388873418172
+        ]
+    },
+    {
+        "play_title": "THE Wild-Goose-Chase.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7242013180957123,
+            -4.106755456503699
+        ]
+    },
+    {
+        "play_title": "THE BASTARD.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.300129655041272,
+            4.575598288185989
+        ]
+    },
+    {
+        "play_title": "A JOVIAL CREW: OR, The merry Beggars.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.6932501443227133,
+            -4.049130961100261
+        ]
+    },
+    {
+        "play_title": "THE LOYALL LOVERS: A Tragi-Comedy.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.295473968065702,
+            4.568804931640625
+        ]
+    },
+    {
+        "play_title": "The Changeling.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.773852253782338,
+            -4.133341735806958
+        ]
+    },
+    {
+        "play_title": "The Fatall Contract, A TRAGEDY.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.298642423417833,
+            4.574796544180976
+        ]
+    },
+    {
+        "play_title": "The Ghoſt.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.30758137580676,
+            4.568794592832908
+        ]
+    },
+    {
+        "play_title": "THE SPANISH GIPSIE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7967966877180954,
+            -4.1301469700089815
+        ]
+    },
+    {
+        "play_title": "THE DAMOISELLE, OR, The NewOrdinary.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.29664985717289,
+            4.569775123444814
+        ]
+    },
+    {
+        "play_title": "THE BROTHERS.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            1.2743333585514045,
+            -1.4013375436297115
+        ]
+    },
+    {
+        "play_title": "THE SISTERS.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            1.2174335871973345,
+            -1.3592761947262673
+        ]
+    },
+    {
+        "play_title": "THE CARDINAL.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            1.207569855657117,
+            -1.3465720176696778
+        ]
+    },
+    {
+        "play_title": "ALPHONSUS Emperour of Germany.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7366384176107554,
+            -4.101931637984055
+        ]
+    },
+    {
+        "play_title": "ARIADNE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.570831775665283,
+            -3.9241690238316855
+        ]
+    },
+    {
+        "play_title": "The Extravagant SHEEPHERD.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7256315609194197,
+            -4.060263073669289
+        ]
+    },
+    {
+        "play_title": "Love's Dominion.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.811344087123871,
+            -4.153083774176511
+        ]
+    },
+    {
+        "play_title": "Fortune by Land and Sea.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.6504086754538796,
+            -4.028458634289828
+        ]
+    },
+    {
+        "play_title": "The POOR-MANS COMFORT.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8174276435584353,
+            -4.177883625030518
+        ]
+    },
+    {
+        "play_title": "The Floating Iſland.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.277827349576083,
+            4.5698224934664635
+        ]
+    },
+    {
+        "play_title": "THE GENTLEMAN OFVENICE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8637312238866635,
+            -4.197556799108332
+        ]
+    },
+    {
+        "play_title": "The GOSSIPS BRAULE, OR, The WOMEN weare theBREECHES.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.263811111450195,
+            4.562109279632568
+        ]
+    },
+    {
+        "play_title": "POLYEUCTES, OR, THE MARTYR. A CHRISTIAN TRAGEDY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8381069582335803,
+            -4.165110057714034
+        ]
+    },
+    {
+        "play_title": "THE Careless Shepherdess: A PASTORALL.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.89600637058417,
+            -4.199166784683864
+        ]
+    },
+    {
+        "play_title": "The SIEGE OF RHODES.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.28966702585635,
+            4.567198691160782
+        ]
+    },
+    {
+        "play_title": "THE SIEGE OF RHODES. The Second Part,",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2975774049758915,
+            4.57247656583786
+        ]
+    },
+    {
+        "play_title": "Londons Triumph.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.082968711853027,
+            4.3857808113098145
+        ]
+    },
+    {
+        "play_title": "HORATIUS: A ROMANE TRAGEDIE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.660813499004283,
+            -4.042890523342376
+        ]
+    },
+    {
+        "play_title": "THE Sun's-Darling.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.84108787461331,
+            -4.18059347805224
+        ]
+    },
+    {
+        "play_title": "The Walks ofIſlingtonandHogsdon,&c.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.280979376572829,
+            4.569649971448458
+        ]
+    },
+    {
+        "play_title": "The false Favourit DISGRAC'D. AND, The Reward of Loyalty.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8723526408797815,
+            -4.192593248266923
+        ]
+    },
+    {
+        "play_title": "Lusts Dominion;OR, THE Lascivious Queen.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.780481615487267,
+            -4.1554641443140365
+        ]
+    },
+    {
+        "play_title": "NOWitHelpLike a WOMANS.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.274422705927981,
+            4.561196616933316
+        ]
+    },
+    {
+        "play_title": "OSMOND the great TVRK, Or the NOBLE SERVANT.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.309269746144612,
+            4.566836317380269
+        ]
+    },
+    {
+        "play_title": "The Witch ofEdmonton.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7358046032133556,
+            -4.098760835708133
+        ]
+    },
+    {
+        "play_title": "Londons Tryumph, Presented byIndustryandHonour;Performed at the Costs and Charges of the Worshipfull Company of CLOTH-WORKERS. October 29. 1658.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            2.567219681209988,
+            -2.8324019511540732
+        ]
+    },
+    {
+        "play_title": "THE City-Madam, A COMEDIE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.856552722024136,
+            -4.173308333412546
+        ]
+    },
+    {
+        "play_title": "LOVE and WAR, A TRAGEDY.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.770928198908582,
+            -4.099991074314824
+        ]
+    },
+    {
+        "play_title": "Loves Victory.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.265277466353248,
+            4.522829837658826
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDY OF The unhappy fair Irene.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7939364433288576,
+            -4.145920268694559
+        ]
+    },
+    {
+        "play_title": "Londons Tryumph,Presented byAnEuropean,anEgyptian,and aPersian; Performed at the Costs and Charges of the everto be honoured Company ofGROCERS.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.3774141205681696,
+            -3.697582032945421
+        ]
+    },
+    {
+        "play_title": "The Blind-Beggar ofBednall-Green.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.812437957441303,
+            -4.1715926653902295
+        ]
+    },
+    {
+        "play_title": "THE NOBLE INGRATITVDE. A Tragi-Comedy.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.29039188053297,
+            4.572886632836384
+        ]
+    },
+    {
+        "play_title": "PLƲTƲS.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.270315549312493,
+            4.559358706841102
+        ]
+    },
+    {
+        "play_title": "TASSO'S AMINTA.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.3012735552904084,
+            4.565037948329274
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDY OF ANDROMANA.Or,The fatal and deserved End ofDisloyaltyandAmbition.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8058305168151856,
+            -4.149344429969788
+        ]
+    },
+    {
+        "play_title": "THEAMOUROUS FANTASME.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.3012600918205415,
+            4.574044889333297
+        ]
+    },
+    {
+        "play_title": "Heere beginneth the play of Robin Hood, very proper to be played in May games.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -3.745919346809387,
+            3.9837006330490112
+        ]
+    },
+    {
+        "play_title": "SVPPOSES: A Comedie written in the Italian tongue by Ariosto, and Englished by George Gascoygne of Grayes Inne Esquire, and there presented.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9579875032107035,
+            -4.199501180648804
+        ]
+    },
+    {
+        "play_title": "IOCASTA: A Tragedie vvritten in Greke by Euripides, translated and digested into Acte by George Gascoygne, and Francis Kinvvelmershe of Grayes Inne, and there by them presented. 1566.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9513152450323106,
+            -4.199904125928879
+        ]
+    },
+    {
+        "play_title": "Suppoſes.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.27986892786893,
+            4.560085127570412
+        ]
+    },
+    {
+        "play_title": "The firſt Acte.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2960802104375135,
+            4.571003796303109
+        ]
+    },
+    {
+        "play_title": "The Roed made by Syr william Druery Knight, into Skotland, from the East Seas to the VVest (vvith sundry Gentlemen of good calling) for the reformation of such causes as the Queens Maiestie and her Councel thoght cōuenient. In the .xiii. year of the raign of our soueraigne Lady Queene Elizabeth.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.903357519822962,
+            -4.195342877331902
+        ]
+    },
+    {
+        "play_title": "❧The Hiſtorie, ofPromosandCaſſandra.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.290090209907955,
+            4.577339828014374
+        ]
+    },
+    {
+        "play_title": "The two tragical Discourses of mighty Tamburlaine, the Scythian Shepheard. &c.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8904988927356268,
+            -4.1785458629414185
+        ]
+    },
+    {
+        "play_title": "The troubleſome Raigne of King Iohn.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.299326070925084,
+            4.573816799535984
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE OF CLEOPATRA.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9099412702378773,
+            -4.188512149311247
+        ]
+    },
+    {
+        "play_title": "THE FIRST AND SECOND partes of King Edward the fourth.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9211761074681437,
+            -4.231263133018247
+        ]
+    },
+    {
+        "play_title": "ANE Pleaſant Satyre of the thrieESTAITIS IN COMMENDATIOVNof vertew and vituperatioun ofvyce, as follovvis.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.278944951678635,
+            4.56725373399367
+        ]
+    },
+    {
+        "play_title": "A PANEGYRE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.14148773252964,
+            -3.367748627066612
+        ]
+    },
+    {
+        "play_title": "BYRONS CONSPIRACIE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9270198929984614,
+            -4.185498390557631
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE OFCharlesDuke ofByron.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.92513108253479,
+            -4.189522485264012
+        ]
+    },
+    {
+        "play_title": "THE ORDER AND SOLEMNITIE OF THE creation of Prince HENRY, eldest sonne to his sacred Maiestie, Prince of VVales, as it was celebrated in the Parliament house on Monday the fourth of Iune last past.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.3894719752398403,
+            -3.704742290756919
+        ]
+    },
+    {
+        "play_title": "EPIGRAMMES.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9216415745871407,
+            -4.194603647504534
+        ]
+    },
+    {
+        "play_title": "The Andrian Woman.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2242997640913185,
+            4.515323747288097
+        ]
+    },
+    {
+        "play_title": "THE EVNVCH.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2933700780073805,
+            4.5769190192222595
+        ]
+    },
+    {
+        "play_title": "THE PRAELVDIVM.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8711336563373435,
+            -4.163102133520718
+        ]
+    },
+    {
+        "play_title": "ALAHAM",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.9074427275590495,
+            -4.188226132325723
+        ]
+    },
+    {
+        "play_title": "MVSTAPHA",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.891226858332537,
+            -4.169858286346215
+        ]
+    },
+    {
+        "play_title": "A PRESENTATION Intended for the Prince his Highnesse on his Birthday the 29 of May, 1638. annually celebrated.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8458851746150424,
+            -4.153922251292637
+        ]
+    },
+    {
+        "play_title": "THE MVSES LOOKING-GLASSE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8907605909532115,
+            -4.179659074352633
+        ]
+    },
+    {
+        "play_title": "AMYNTAS.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.919886145793216,
+            -4.197175412110879
+        ]
+    },
+    {
+        "play_title": "BARTHOLMEVV FAYRE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.289511497204121,
+            4.572956077054015
+        ]
+    },
+    {
+        "play_title": "THE STAPLE OF NEWES.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.296017405630528,
+            4.578141848246257
+        ]
+    },
+    {
+        "play_title": "THE DIVELL IS AN ASSE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2891852259635925,
+            4.566807689874069
+        ]
+    },
+    {
+        "play_title": "THE MAGNETICK LADY:OR,HUMORS RECONCIL'D.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.29500190535588,
+            4.5762978454134355
+        ]
+    },
+    {
+        "play_title": "A TALE OF A TUB.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.281537117276873,
+            4.573596933909825
+        ]
+    },
+    {
+        "play_title": "THE SAD SHEPHERD; OR, A TALE OFRobin-hood.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.293981119990349,
+            4.571725130081177
+        ]
+    },
+    {
+        "play_title": "THE DESCRIPTION OF THE SCAENE.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.636806872797509,
+            -3.9758857071399687
+        ]
+    },
+    {
+        "play_title": "Arcades.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -3.8541742960611978,
+            4.107773542404175
+        ]
+    },
+    {
+        "play_title": "A MASK PRESENTED At LUDLOW-Caſtle, 1634. &c.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.27702032436024,
+            4.566871838136152
+        ]
+    },
+    {
+        "play_title": "CUPIDSCall.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.292556008984966,
+            4.5674948077048025
+        ]
+    },
+    {
+        "play_title": "Francelia.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.29847924302264,
+            4.536211118465516
+        ]
+    },
+    {
+        "play_title": "Brennoralt.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.278409802913666,
+            4.549465596675873
+        ]
+    },
+    {
+        "play_title": "THE MAD LOVER.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.29565717434061,
+            4.575739811206686
+        ]
+    },
+    {
+        "play_title": "THE SPANISH CURAT.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.300172487894694,
+            4.576801265495411
+        ]
+    },
+    {
+        "play_title": "THE LITTLE FRENCH LAWYER.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.295152678418515,
+            4.574528160379894
+        ]
+    },
+    {
+        "play_title": "The Cuſtome of the Countrey.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.301694241122923,
+            4.575810549915701
+        ]
+    },
+    {
+        "play_title": "THE NOBLE GENTLEMAN.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.293787670986993,
+            4.570287712982723
+        ]
+    },
+    {
+        "play_title": "THE CAPTAINE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.298008063068129,
+            4.574209631305852
+        ]
+    },
+    {
+        "play_title": "BEGGARS BVSH.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2965202097032895,
+            4.57746178204896
+        ]
+    },
+    {
+        "play_title": "THE COXCOMBE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.291950362069266,
+            4.573642465803358
+        ]
+    },
+    {
+        "play_title": "THE FALSE ONE. A TRAGEDY.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.300063351453361,
+            4.572868945234913
+        ]
+    },
+    {
+        "play_title": "THE CHANCES.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.296794685662961,
+            4.575265781552184
+        ]
+    },
+    {
+        "play_title": "THE LOYAL SVBIECT.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2978105545043945,
+            4.576213782346701
+        ]
+    },
+    {
+        "play_title": "The Lavves of Candy.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.301069571047413,
+            4.576597787895981
+        ]
+    },
+    {
+        "play_title": "THE LOVERS PROGRES.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.292962558685788,
+            4.578376353733123
+        ]
+    },
+    {
+        "play_title": "THE ISLAND PRINCESSE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.299935355115292,
+            4.573616711061392
+        ]
+    },
+    {
+        "play_title": "The Humorous Lieutenant.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.29274350718448,
+            4.573797997675444
+        ]
+    },
+    {
+        "play_title": "THE NICE VALOVR, OR, The Paſsionate Mad-man.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.296017947404281,
+            4.577122066331946
+        ]
+    },
+    {
+        "play_title": "THE MAID IN THE MILL.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.284799583256245,
+            4.577370412647724
+        ]
+    },
+    {
+        "play_title": "THE PROPHETESSE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.293889003140586,
+            4.575699695519039
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE OF BONDUCA",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.288680575444148,
+            4.574205904740554
+        ]
+    },
+    {
+        "play_title": "THE SEA VOYAGE",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.28831396653102,
+            4.575678614469675
+        ]
+    },
+    {
+        "play_title": "The double Marriage.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.289614370891026,
+            4.575858163833618
+        ]
+    },
+    {
+        "play_title": "THE PILGRIM.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.288971518025254,
+            4.573707847884207
+        ]
+    },
+    {
+        "play_title": "The Knight of Malta.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.288311559813363,
+            4.566389761652265
+        ]
+    },
+    {
+        "play_title": "THE WOMANS PRIZE: OR, The Tamer Tamed.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.288728376229604,
+            4.57378947072559
+        ]
+    },
+    {
+        "play_title": "LOVE CURE OR, The Martial Maid.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.287393042298614,
+            4.570543109393511
+        ]
+    },
+    {
+        "play_title": "The Honeſt mans Fortune.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.295159646959016,
+            4.567961743383696
+        ]
+    },
+    {
+        "play_title": "The Queene of Corinth,",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.296866070839666,
+            4.570461496230094
+        ]
+    },
+    {
+        "play_title": "VVomen pleaſ'd.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2837612852454185,
+            4.5657432451844215
+        ]
+    },
+    {
+        "play_title": "A VVife for a Moneth.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.301848623487684,
+            4.573236404903351
+        ]
+    },
+    {
+        "play_title": "VVIT At ſeverall VVeapons.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.27511229253795,
+            4.550980127021058
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE OF VALENTINIAN.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.267245879044404,
+            4.5319754126909615
+        ]
+    },
+    {
+        "play_title": "THE FAIRE MAIDE OF THE INNE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.289928278615398,
+            4.568241438558025
+        ]
+    },
+    {
+        "play_title": "LOVES PILGRIMAGE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.298040696044467,
+            4.57254891609078
+        ]
+    },
+    {
+        "play_title": "FOVR PLAYES. OR Morall Repreſentations, IN ONE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.294264130294323,
+            4.571940928697586
+        ]
+    },
+    {
+        "play_title": "THE Wild-Gooſe-Chaſe.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.289112842444218,
+            4.5731777061115615
+        ]
+    },
+    {
+        "play_title": "A Maske of the Gentlemen ofGraiesInne, and the Inner Temple, by MrFrancis Beaumont.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.084568119049072,
+            4.3642249584198
+        ]
+    },
+    {
+        "play_title": "A MAD COUPLE VVELL MATCH'D.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.300523005033794,
+            4.571242790473135
+        ]
+    },
+    {
+        "play_title": "THE NOVELLA.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.292171628386886,
+            4.575924979315864
+        ]
+    },
+    {
+        "play_title": "THE COURT BEGGER.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.297000862303234,
+            4.574590993305994
+        ]
+    },
+    {
+        "play_title": "The City VVit. OR, The woman wears the Breeches.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.287784422145171,
+            4.571174102671006
+        ]
+    },
+    {
+        "play_title": "THE DOVBTFVLL HEIR.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8350897276843035,
+            -4.180091672473484
+        ]
+    },
+    {
+        "play_title": "THE IMPOSTURE",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.8510898968269087,
+            -4.1915430776004134
+        ]
+    },
+    {
+        "play_title": "THE COURT SECRET.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.827813742377541,
+            -4.168576405265115
+        ]
+    },
+    {
+        "play_title": "THE NVPTIALS Of PELEUS and THETIS; OR; The Great Royall Ball.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.280940158026559,
+            4.574029445648193
+        ]
+    },
+    {
+        "play_title": "THE CLOVDS of Aristophanes.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7814242158617293,
+            -4.117419753755842
+        ]
+    },
+    {
+        "play_title": "THE Paſsionate Lover,",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.299566544738471,
+            4.568006950266221
+        ]
+    },
+    {
+        "play_title": "Simpleton the Smith.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            1.1224946710798476,
+            -1.242094702190823
+        ]
+    },
+    {
+        "play_title": "ACTAEON and DIANA.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.648141077586583,
+            -3.9934499944959367
+        ]
+    },
+    {
+        "play_title": "Singing Simpkin.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            2.6296674489974974,
+            -2.86780903339386
+        ]
+    },
+    {
+        "play_title": "Here follow the Rurall sports on the Birth-day of the Nymph Oenone.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7711708205086842,
+            -4.094711269651141
+        ]
+    },
+    {
+        "play_title": "Here followes the Humor of Iohn Swabber.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7234888275464377,
+            -4.090840995311737
+        ]
+    },
+    {
+        "play_title": "THE Bashful Lover.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.837156513989982,
+            -4.174404503935475
+        ]
+    },
+    {
+        "play_title": "THE GUARDIAN.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.85842962034287,
+            -4.181770670798517
+        ]
+    },
+    {
+        "play_title": "A Very VVoman.",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.7635914933296943,
+            -4.120507694059802
+        ]
+    },
+    {
+        "play_title": "THE RAGING TURKE, OR, the Tragedie of BAIAZET, the ſecond of that name.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.295767681508124,
+            4.576045736481872
+        ]
+    },
+    {
+        "play_title": "THE COURAGEOUS TURK, OR, AMURATH THE FIRST.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.298943191104465,
+            4.573067156473796
+        ]
+    },
+    {
+        "play_title": "THE TRAGEDIE. OF ORESTES.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.270154918943133,
+            4.54638591834477
+        ]
+    },
+    {
+        "play_title": "MORE DISSEMBLERS BESIDES WOMEN.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.285133512396562,
+            4.574142138163249
+        ]
+    },
+    {
+        "play_title": "WOMEN BEWARE WOMEN.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.253300787629308,
+            4.536444866979444
+        ]
+    },
+    {
+        "play_title": "HONORIA AND MAMMON",
+        "prediction": "bad",
+        "avg_raw_scores": [
+            3.832284031090913,
+            -4.175804456075032
+        ]
+    },
+    {
+        "play_title": "THE ENGLISH-MOOR or the Mock-Marriage.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.2939032749696215,
+            4.566743648413456
+        ]
+    },
+    {
+        "play_title": "THE LOVE—SICK COURT.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.29131414492925,
+            4.569762722651164
+        ]
+    },
+    {
+        "play_title": "THE COVENT-GARDEN Weeded.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.290024339336238,
+            4.5729718992154895
+        ]
+    },
+    {
+        "play_title": "THE NEW ACADEMY, OR, THENEW EXCHANGE.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.283079321567829,
+            4.572765111923218
+        ]
+    },
+    {
+        "play_title": "ACT. I.",
+        "prediction": "good",
+        "avg_raw_scores": [
+            -4.291337003099158,
+            4.569913681517256
+        ]
+    }
+]

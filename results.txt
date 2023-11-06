@@ -1,0 +1,1 @@
+Results for ./results: {'eval_loss': 0.7709742188453674, 'eval_runtime': 7.3127, 'eval_samples_per_second': 96.408, 'eval_steps_per_second': 12.171, 'epoch': 3.0}

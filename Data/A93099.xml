@@ -1,0 +1,1223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second part of The committee-man curried. By the first author, S.S.</title>
+            <title>Committee-man curried. Part 2</title>
+            <author>Sheppard, S. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93099</idno>
+            <idno type="STC">Wing S3168</idno>
+            <idno type="STC">Thomason E401_40</idno>
+            <idno type="STC">ESTC R201807</idno>
+            <idno type="EEBO-CITATION">99862301</idno>
+            <idno type="PROQUEST">99862301</idno>
+            <idno type="VID">160434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160434)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second part of The committee-man curried. By the first author, S.S.</title>
+                  <title>Committee-man curried. Part 2</title>
+                  <author>Sheppard, S. (Samuel)</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.S. = Samuel Sheppard.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English drama --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160434:1" rendition="simple:additions"/>
+            <p>The Second Part OF THE COMMITTEE-MAN CURRIED.</p>
+            <p>By the firſt Author, <hi>S. S.</hi>
+            </p>
+            <q>
+               <l>—Stulta eſt clementia, cùm tot ubique</l>
+               <l>Vatibus occurras periturae parcere Chartae.</l>
+            </q>
+            <p>Printed in the Yeere 1647.</p>
+         </div>
+         <div type="summary">
+            <pb facs="tcp:160434:2"/>
+            <pb facs="tcp:160434:2"/>
+            <head>The argument of the firſt and ſecond Part of the Committee-man curried.</head>
+            <l>
+               <hi>S<g ref="char:V">Ʋ</g>ck-dry,</hi> one o'th Committee throng,</l>
+            <l>Forgets himſelfe, and ſleeps too long,</l>
+            <l>And vext, that ſo he loſt much pelfe,</l>
+            <l>Doth cudgell his Domeſtick Elfe,</l>
+            <l>
+               <hi>Common Curſe,</hi> one borne to tyrannize,</l>
+            <l>A gatherer of the Exciſe,</l>
+            <l>With <hi>Time-Server,</hi> a two fac't Prieſt</l>
+            <l>Within a Tavern meet and feaſt,</l>
+            <l>And there when warm'd with wine, bewray</l>
+            <l>How they the Commons doe betray:</l>
+            <l>And after both incens'd with ſpight</l>
+            <l>Within a wood they meet, and fight.</l>
+            <l>A faithfull ſubject <hi>Loyaltie,</hi>
+            </l>
+            <l>One that had fought for Soveraigntie,</l>
+            <l>Droven to want, and needie cares,</l>
+            <l>Unto his unkles houſe repaires,</l>
+            <l>Of whom hee's not the leaſt reſpected,</l>
+            <l>But as a caſtaway rejected:</l>
+            <l>Yet after by a wily traine,</l>
+            <l>He threeſcore pounds, from him doth gaine.</l>
+            <l>
+               <hi>Shallow Brains, Common Curſe</hi> his <hi>Clark.</hi>
+            </l>
+            <l>Doth wed a widdow in the dark:</l>
+            <l>
+               <hi>Time-ſerver</hi> had the plot hit right,</l>
+            <l>Had dayen with her, her marriage night.</l>
+            <l>But both (detected by good hap)</l>
+            <l>Are taken in a watry trap:</l>
+            <l>
+               <hi>Horne,</hi> a contented cuckold, keepes</l>
+            <l>A wife, maintaines him while he ſleepes;</l>
+            <l>
+               <hi>Suck-drie</hi> with him often barters,</l>
+            <l>That he might come between her quarters:</l>
+            <l>Is taken in the act of ſhame,</l>
+            <l>By one that coveted the ſame,</l>
+            <l>Is beaten by him almoſt dead,</l>
+            <l>Or (if it pleaſe you) <hi>Curried.</hi>
+            </l>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:160434:3"/>
+            <head>The Prologue.</head>
+            <l>A Second part (you'l ſay) the firſt weel ſweare</l>
+            <l>Was neatly writ, though not one goood line there:</l>
+            <l>Another gives his Vote, and ſaies fie, fie,</l>
+            <l>The plot was poore, the Authors braines were drie,</l>
+            <l>And each man gives his Doome; ſome not affeard</l>
+            <l>To pronounce judgement e're the cauſe they've heard,</l>
+            <l>You not the Authour, but your ſelves diſgrace;</l>
+            <l>And pray conſider't, for here lies the caſe,</l>
+            <l>It oft fals out in penny worths of wit,</l>
+            <l>As in all bargaines elſe, men ever get</l>
+            <l>All they can in; and will have London meaſure</l>
+            <l>A handfull over, in their verie pleaſure,</l>
+            <l>Beſides you might conſider, that the Age</l>
+            <l>Allowes not wit to enter on the Stage</l>
+            <l>As formerly, the ſweat of <hi>Johnſons</hi> braine,</l>
+            <l>Nor yet the Comick <hi>Fletchers</hi> eaſier ſtraine,</l>
+            <l>Which once a Hackney Coach convey'd you to,</l>
+            <l>Where you ſate ſcorning all the raine could doe,</l>
+            <l>And for your twelvepences a peece could ſit</l>
+            <l>As ſterne brow'd Iudges of all freſher wit:</l>
+            <l>And therefore ſince'tis ſo, you Gentiles all,</l>
+            <l>W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld blaſt your owne bliſſe, to be criticall,</l>
+            <l>The Author praiſe you, for to thinke the ſtore</l>
+            <l>Of wit is waſted by thoſe were before,</l>
+            <l>And that the fatneſſe of the ſoile being ſpent,</l>
+            <l>Mens braines grown barren, you'd not raiſe the rent.</l>
+            <stage>Exit.</stage>
+         </div>
+         <div type="dramatis_personae">
+            <head>The perſons acting who preſent not in the firſt Part.</head>
+            <p>
+               <hi>URinall,</hi> a Phyſitian. A <hi>Tailor,</hi> two <hi>Sergeants. Sleep</hi> &amp; <hi>Death,</hi> according as they are uſually fancied. <hi>Povertie. Harlotto Sneaks</hi> wife. Three <hi>Creditors.</hi> A <hi>Maid. Servants.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:160434:3"/>
+            <head>THE COMMITTEE-MAN CURRIED.</head>
+            <div n="1" type="act">
+               <head>Act 1.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>Enter <hi>Sneake</hi> and <hi>Shallow-Braines.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Sneake.</speaker>
+                     <p>THy father left thee much money, and but a ſmal quan<g ref="char:EOLhyphen"/>tity of wit to mannage it. What—after all this to marrie a widdow, a kinde of chewed meat—what a fantaſticall ſtomack haſt thou, that thou canſt not eat of a diſh till another firſt cut of it—who would waſh after another, when he might have freſh water enough for asking.</p>
+                  </sp>
+                  <stage>Enter Time-Server.</stage>
+                  <sp>
+                     <speaker>Time-Serv.</speaker>
+                     <p>M. <hi>Shallow Braines,</hi> and M. <hi>Sneake,</hi> the whole company are troubled at your abrupt departure—your faire wife M. <hi>Shallow-Braines</hi> is very ſenſible of your departure—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Shallow-Br.</speaker>
+                     <p>Why here <hi>Sneake</hi> tells me, widdowes are but chewed meat—and has ſet ſuch a ſoile upon my appetite, that ſhould I ſee her, I ſhould go nigh to vomit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time-Ser.</speaker>
+                     <p>Fie M. <hi>Sneake,</hi> that you with rude breath ſhould go about to extinguiſh <hi>Hymens</hi> taper ere it is through ligh<g ref="char:EOLhyphen"/>ted. Come hither M. <hi>Shallow-Braines,</hi>—M. <hi>Sneake,</hi> give me leave to pitie thee, who wouldſt faine condemne that which I will make thee confeſſe naturall; and the ſooner the better.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>As how, as how?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time.</speaker>
+                     <p>Firſt, I will prove that a widdow is rather the chew<g ref="char:EOLhyphen"/>er, then the chewed; for ſhould we not account him ſtrange<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:160434:4"/>fantaſticall, that would ſpend an houre in pulling on a ſtrait boot, when he might be furniſhed with enough that would come on eaſily, and do him more ſervice, and as much cred<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t<g ref="char:punc">▪</g> wine firſt broacht drinks not half ſo wel as after awhile drawing: wouldſt thou not account him a mad man, who whileſt he might faire and eaſily ride on the beaten road way, ſhould trouble himſelf with breaking up of gaps; a well-wayed horſe will ſooner conveigh thee to thy journeys end, then an unbackt Fillie: 'tis Prince-like to marrie a widdow, for 'tis to have a Taſter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Shal.</speaker>
+                     <p>I begin to have my ſtomack come to me again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>I, but Sir, I pray reſolve me, whether it be not bet<g ref="char:EOLhyphen"/>ter, if a man muſt be in priſon, to lie in a private room, then in the hole.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time-ſer.</speaker>
+                     <p>I ſhall anſwer you with <hi>Pythagoras</hi> in his 2. <hi>Sect. de Cuniculorum,</hi> that it is better to lie in the hole, then ſit in the ſtocks. —Come M. <hi>Shallow-braines,</hi> the widdow you have married, I hope, will never give you cauſe to curſe the time I joyn'd your hands: ſhe is faire and demure; come M. <hi>Sneake,</hi> will you along?</p>
+                     <lg>
+                        <l>
+                           <hi>The joviall crew will blame our tardy ſtay,</hi>
+                        </l>
+                        <l>
+                           <hi>And may they make the bridegroom drunk to day.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>Exeunt</stage>
+                  <stage>Manet Sneak.</stage>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Ile follow you—I nere yet affected a woman but as an houſe of office, to exonerate nature for that time.</p>
+                     <lg>
+                        <l>
+                           <hi>Women enjoy'd, what ere before they've been,</hi>
+                        </l>
+                        <l>
+                           <hi>Are like Romances read, or ſights once ſeen;</hi>
+                        </l>
+                        <l>
+                           <hi>Or like to Majeſty, which we deſire</hi>
+                        </l>
+                        <l>
+                           <hi>Often to ſee, yet if too much we tire,</hi>
+                        </l>
+                        <l>
+                           <hi>Fruition's dull, and ſpoiles the Play much more,</hi>
+                        </l>
+                        <l>
+                           <hi>Then if one read, or knew the plot before.</hi>
+                        </l>
+                        <l>
+                           <hi>'Tis expectation makes a bleſſing deare,</hi>
+                        </l>
+                        <l>
+                           <hi>All joyes were nothing, knew we what they were.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>
+                     <hi>SCENE</hi> 2.</head>
+                  <stage>Enter a <hi>Taylor.</hi> 2. <hi>Sergeants.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Taylor.</speaker>
+                     <p>Hee's ſomwhat tall of ſtature, his haire ſomwhat inclining to black; his chin has no buſh, ſave a little downe, enough to give notice to the world, he now growes manniſh.</p>
+                  </sp>
+                  <pb n="3" facs="tcp:160434:4"/>
+                  <sp>
+                     <speaker>1. <hi>Ser.</hi>
+                     </speaker>
+                     <p>Is he a blade, will he fence, and uſe his ſpit dexte<g ref="char:EOLhyphen"/>rouſly?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tay.</speaker>
+                     <p>O, no, he weares no ſword, the Committees have ta<g ref="char:EOLhyphen"/>ken away your feares in that point, and ordered, that on pain of cloſe impriſonment no Cavalier ſhall mannage ſteel.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Ser.</hi>
+                     </speaker>
+                     <p>I like that well, <hi>Rapio,</hi> is the word, what's the debt?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tay.</speaker>
+                     <p>Nine pounds, Ile aſſure you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Ser.</hi>
+                     </speaker>
+                     <p>Are you ſure he's retir'd into his houſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tay.</speaker>
+                     <p>Moſt certain, 'tis but a little waiting, I ſhall requite your ſtay, you ſhall find me at the next Tavern.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>2 <hi>Ser.</hi>
+                     </speaker>
+                     <p>Stand cloſe, I heare one coming.</p>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>SCENE 3.</head>
+                  <stage>Enter <hi>Loyalty.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>
+                        <hi>He's not at home, this</hi> Povertie<hi>'s ſo hated a diſeaſe, men flie from't as the Pox or Plague.</hi> — No matter, to morrow Ile imbarque for France, and prove, if with the climate I can change my fortune; but before I go, I have diſcover'd that which cheares my ſoule, the States-men that ſo long have re<g ref="char:EOLhyphen"/>velled, now hang their heads like full-ear'd corne, two of them ſupt laſt night in London at a place where I then was, &amp; in the midſt of ſupper one askt what a clock 'twas, and when 'twas told, ſtarted, as if he had been to run a race, —there's ſome great ſtorm towards, whiſpering in every corner; and there has been about the town to day a murmuring and a buzzing, ſuch as men uſe to make when they do fear to vent their fears.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Ser.</hi>
+                     </speaker>
+                     <p>Tis he, upon him, upon him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>How now my friends, what means this outrage?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Ser.</hi>
+                     </speaker>
+                     <p>Quietly, 'twill be your beſt way.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>Beſt way, for what?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Ser.</hi>
+                     </speaker>
+                     <p>Why 'twill be your beſt way, becauſe there is no o<g ref="char:EOLhyphen"/>ther; <hi>Rapio,</hi> that's the word, you muſt along Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>Is that the word, then here's my ſword.</p>
+                     <stage>runs at them, one ſcapes away.</stage>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Ser.</speaker>
+                     <p>Murder, murder, murder, h'as kild one of the Kings Officers, murder, murder.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>The people begin to gather, I muſt not ſtay.</p>
+                  </sp>
+                  <stage>Enter <hi>Conſtable, People.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <p>What's the matter?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ser.</speaker>
+                     <p>Here Sir, here,—oh a man-mender, a man-mender has broacht me in ſo many places, all the liquor in my body will run out—Oh, oh!</p>
+                  </sp>
+                  <pb n="4" facs="tcp:160434:5"/>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <p>In troth neighbour, and in good deed ſaw, I am very ſorry for your hurts; on my life this was one of the carriers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ser.</speaker>
+                     <p>Cavaliers you meane.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <p>I Cavalier, would I had him in hold, the Commit<g ref="char:EOLhyphen"/>tee, I believe would order him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ser.</speaker>
+                     <p>Hang the Committee, ô ſhall I bleed to death? ſome help good people.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <p>Alas neighbour, — ſee, h'as tapt him at the wrong end too, hee has been buſie with you here behind (as they ſay) lend a hand ſome of you; I charge ſome — in the Kings name to follow mee.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>Act 2.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>
+                     <hi>Enter againe</hi> Loyalty.</stage>
+                  <sp>
+                     <speaker>Loyalty.</speaker>
+                     <p>I Shall not ſcape them ſure, which way now? ther'es no paſſage that way: —a doore, and open too.</p>
+                  </sp>
+                  <stage>Enter againe.</stage>
+                  <stage>Exit.</stage>
+                  <p>Where am I now?</p>
+                  <stage>Enter a Maid.</stage>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>O Mr. <hi>Loveleſſe,</hi> my Miſtreſſe hath been in ſuch feares for you—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>Ha, for me, 'tis fit I apprehend her, and take the op<g ref="char:EOLhyphen"/>portunity, <stage>(aſide)</stage> Alas I could not help it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>Sir, ſhee's i'th garden walks, hoping your preſence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>This is prettie. <stage>(aſide.)</stage> Ile to her inſtantly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>She hath been ſo diſtemper'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>How ſhall I beare my ſelfe? <stage>(aſide.)</stage> I am very ſorrie for that.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maid.</speaker>
+                     <p>Come Sir, my Miſtreſſe will rejoyce to heare your entrance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>Ile venter in, Love guide me right this night, and lovers ſhall reſtore thee back againe thoſe eyes the Poets took ſo boldly from thee. Ile henceforth learne to love a woman better then I was wont: who knows how this may prove?</p>
+                     <lg>
+                        <l>
+                           <hi>The world is of a vaſt extent, we ſee,</hi>
+                        </l>
+                        <l>
+                           <hi>And muſt be peopled; children there muſt be.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>Exit with the maid.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <pb n="5" facs="tcp:160434:5"/>
+                  <head>SCENE 2.</head>
+                  <stage>Enter Rebellion, Sneake.</stage>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>What caus'd their quarrell?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>This Sir: becauſe when you, my Maſter, and M. <hi>Time-Server,</hi> were with him at the Sun Tavern, you went a<g ref="char:EOLhyphen"/>way and left him ſleeping on a bench, which act he took ſo hainouſly that the next day he ſent a furious challenge to my Maſter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>The place.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>Hide-Park.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rebellion.</speaker>
+                     <p>Tell M. <hi>Suckdry</hi> I will be there and back him, as his ſecond <hi>(vengeance purſue him, why made he choyce of mee)</hi> I have had vigour in my arme ere now, and yet I can doe ſome<g ref="char:EOLhyphen"/>what, tell him Ile meet him at the houre appointed. Farwell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sneak.</speaker>
+                     <p>I ſhall informe him Sir.</p>
+                  </sp>
+                  <stage>(Exit)</stage>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>The death of ſlaves purſue thee: — So now my houre of death drawes neer, I could not force my tongue to a deniall — I ſhall meet them at more diſtance, then a country Gentle-womman, ſees the Lyons at firſt time — Ile goe (though by the way I fall to aſhes.)</p>
+                  </sp>
+                  <stage>exit Rebel.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>SCENE 3.</head>
+                  <stage>
+                     <hi>Enter Time-ſerver, with Harlat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Shallow-braines wife.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Time-ſer.</speaker>
+                     <p>Is he drunk? <hi>Har.</hi> So dead, that you may pound him in a mortar, or ſhake him in a blanket ſtuck with pins, and he nere cry for help.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time-ſer.</speaker>
+                     <p>Very good fortune, this favour does me ample amends for all thy frowns: Sweet tis thy marriage night, the thought of that creates an earthly heaven, while now the fool thy husband ſnorts in's bed, and dreams, that paſſing a rough tide, he arrives at Cuckolds haven; I'me ſwallowed in the O<g ref="char:EOLhyphen"/>cean of thy beauty, and thus I ſpread my armes for help.</p>
+                  </sp>
+                  <stage>Pulls her to him in a chaire, they kiſſe. Shallow-braines in his ſhirt peeps through the Arras.</stage>
+                  <sp>
+                     <speaker>Shal.</speaker>
+                     <p>So, cloſe Prieſt, I ſhall pound you with her, my wit is not ſo ſhallow, but it can prompt me to ſave my head from being grafted on my marriage night: J, ſo, revell with your ſalt lips, the other ſport is fulſome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Har.</speaker>
+                     <p>Thou knoweſt J ever lov'd thee, and that J took this fool but for a Stale, his money thee and J will revellout in cloaths and banquets.</p>
+                  </sp>
+                  <pb n="6" facs="tcp:160434:6"/>
+                  <sp>
+                     <speaker>Shal.</speaker>
+                     <p>O where!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time-Ser.</speaker>
+                     <p>Ha, ha, ha, was ever ſuch a novice, to fill the bed himſelfe his marriage night,—ſweet ſhal's go to a cham<g ref="char:EOLhyphen"/>ber, and there we will feaſt love unto the height, and uſe va<g ref="char:EOLhyphen"/>riety in luſt, which ſhall beget perpetuall appetite.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Shal.</speaker>
+                     <p>I'le circumvent you—Sir.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Har.</speaker>
+                     <p>But now I think on't, firſt, I pray reſolve me Sir, doe you find no remorſe at no time, that you who are obliged to be a guide to others, ſhould ſo forget the way your ſelfe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time-ſer.</speaker>
+                     <p>And what of that? let men do as I ſay, and not as I do; is man inſlav'd more then the beaſts? Does not the wombe of one faire ſpring bring unto the earth many ſweet Rivers, that wantonly do one another chaſe, And in one bed, kiſſe, mingle and imbrace: nice obſervations cleave to eaſie ſouls that love to be deluded.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Har.</speaker>
+                     <p>Can you deceive the world ſo?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time-ſer.</speaker>
+                     <p>As eaſily as Whores their jealous husbands; I muſt ſeem holy to the publike view, elſe there's no comings in, 'tis out-ſides men are taken with, I can on the Faſt-daies preſſe abſtinence, and on Thankſgiving daies, teach how wee ought rejoyce with moderation, on Sabbath daies exhort to ſtrict devotion, and keeping of that day inviolate, elſe not a penny from the Siſters purſes but oh away prophane.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Shal.</speaker>
+                     <p>Ime verie cold, that villan will undoe me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Har.</speaker>
+                     <p>Sir, you are abſolute in hypocriſie, an art I'me not to learne, but I that have been falſe my ſelfe, would faine rely on your fidelity,—will ye prove true unto me, <hi>Shallow,</hi> lightning blaſt um, would they would riſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time-ſer.</speaker>
+                     <p>By this and this loves breakfaſt, <stage>[they kiſſe]</stage> and by his feaſts to come, by all the beauty in this face.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Har.</speaker>
+                     <p>O hold, ſweare not by that, ſickneſſe and miſchance, are great devourers, and when there is not in theſe cheeks and lips left red enough to bluſh at perjury, when you ſhall make it, what ſhall I doe then?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time-ſer.</speaker>
+                     <p>Our ſouls by that time, ſweet, wil by long cuſtom ſo acquainted be, they <hi>will not need that duller truch-man fleſh,</hi>
+                     </p>
+                     <lg>
+                        <l>
+                           <hi>Meane time weel teach love how to aime aright,</hi>
+                        </l>
+                        <l>
+                           <hi>While we do wound each other in his ſight,</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Shal.</speaker>
+                     <p>Ha, ha, ha, they're taken in my toyle.—</p>
+                     <stage>They ariſe, and as they go out, fall in at a trap-door, ſeen to be o<g ref="char:EOLhyphen"/>pened by Shallow-braine.</stage>
+                     <pb n="7" facs="tcp:160434:6"/>
+                     <p>Now M. <hi>Time-ſerver,</hi> and my Bride, how <stage>ſtoops down.</stage> do you like your bathe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Time-ſer. in the Vault.</speaker>
+                     <p>We are undone, this vault is full of mire not water.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Har.</speaker>
+                     <p>I do confeſſe my fault, ſweet husband draw me out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Shal.</speaker>
+                     <p>I have no ambition to be hanged for you ſweet-heart, nor for the leacherous Prieſt there, here one of you bind your ſelfe to this rope, and view the light agen,—come now.</p>
+                  </sp>
+                  <stage>pulls up Harlot.</stage>
+                  <sp>
+                     <speaker>Shal.</speaker>
+                     <p>So now pull you up the Prieſt, or let him lie there; I think I have ſo cooled you, you are this night unfit for <hi>Venus</hi> ſports, to morrow I'le proclaime ye.</p>
+                     <lg>
+                        <l>
+                           <hi>Hereafter men for this my name will hallow,</hi>
+                        </l>
+                        <l>
+                           <hi>And will eſteem them fools, ſhall count mee ſhallow.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Time-ſer.</speaker>
+                     <p>I ſink deeper, and deeper, was I ordained to pe<g ref="char:EOLhyphen"/>riſh thus in mud.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Har.</speaker>
+                     <p>here Sir, faſten your body to this rope,— if my weake ſtrength can help come Sir.</p>
+                  </sp>
+                  <stage>Pulls him up dropping wet and durty.</stage>
+                  <sp>
+                     <speaker>Time-ſer.</speaker>
+                     <p>My cloathes are weightier then if I were arm'd <hi>cap a pe</hi> for the battell, where ſhall I ſhift my ſelfe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Har.</speaker>
+                     <p>I ſhake like to a lambe new yean'd upon a ſheet of ſnow; O fatall chance, this miſery Sir you have brought upon me!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Timeſ.</speaker>
+                     <p>I thought he had been ſo drunk the cannons iron throat could not have wak'd him; let's ſeek ſome place to ſhift us.</p>
+                     <lg>
+                        <l>
+                           <hi>They paſſe through whirlpools, and deep Ills doe ſhunne,</hi>
+                        </l>
+                        <l>
+                           <hi>Who weigh the event, e're that the action's done.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <head>Act 3.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>Enter Loyalty.</stage>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>WHat have I done unto the Fates that they ſhould thus find waies to ruine me, this whore betraid me to my death, and like the Syren uſeth to allure thoſe that paſſe by, to prey on um, for none live here but whores and villans, J have eſcapt their hands, this houſe is full of thre<g ref="char:EOLhyphen"/>ſholds and trap-doors, would I were out: J was i'th cellar too where maids were couch't, J laid my hand (groping for my way) upon one of them and and ſhe began to ſqueake; J muſt ſubmit to chance, and think on ſome way to relieve my ſelfe in meet time, wait with patience.</p>
+                     <lg>
+                        <l>
+                           <hi>We muſt not let our griefe be too profound,</hi>
+                        </l>
+                        <l>
+                           <hi>Mans paine ſhould be no greater then his wound.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <pb n="8" facs="tcp:160434:7"/>
+                  <head>SCENE 2.</head>
+                  <stage>Enter Suck-dry, Com-curſe, Shal brains, as in Hide-Park.</stage>
+                  <sp>
+                     <speaker>Common-cur.</speaker>
+                     <p>You have obſerved your time, are nobler then J thought you would have been;—where is your ſecond?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>Where's yours?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Com.</speaker>
+                     <p>Here.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>What <hi>Shallow-brains?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Shal.</speaker>
+                     <p>Yes Sir; <hi>Shallow-braines,</hi> who intends e're that his Ma<g ref="char:EOLhyphen"/>ſter ſhall be wrong'd for to beat out your braines? —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>J like thy humour well, go on and proſper, my friend ſtaies long.</p>
+                  </sp>
+                  <stage>Enter Rebellion, and ſtanding afar off gazeth upon them.</stage>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>As J live, they are ſo fooliſh, as to fight, ſee where they ſtand. J would give twenty pound now for <hi>Fortunatus</hi> wiſhing hat, that in a trice J might flie home againe,—J had thought not to have found them there.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>Now yon<g ref="char:EOLhyphen"/>der comes my friend.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Com.</speaker>
+                     <p>Yes, he ſteals along as he had rob'd ſome henrooſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>J am deſcride, nor can J now give back, feare ſeizes on me like the hand of death.</p>
+                     <p>—Gentlemen J am come but may not fight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>—<hi>Com.</hi>
+                     </speaker>
+                     <p>How not not fight,— <hi>Reb.</hi> No Sir, this night J had a viſion, that certified mee, if J ſhould fight to day 'twere as much as my life's worth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Com.</speaker>
+                     <p>Baſe coward get thee home again, drawes: Come M. <hi>Suck-dry</hi> let us now meet in ſingle battell here, and ſtruggle till wee want our ſoules.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>Alas Sir, you ſee my ſecond doth refuſe to fight, and be<g ref="char:EOLhyphen"/>ſides, as yet J have not made my peace with heaven, J nere thought on't till now.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Com.</speaker>
+                     <p>Under this tree (kneel down) and quickly end thy oriſons.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>Alas Sir, this place is not convenient, let me go home, and anie other day you ſhall appoint, J will be ſure to meet you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>They're buſie in diſcourſe, Jle take the opportunity, —runs—away.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>Slave, Jle be thy confeſſor, thou art not worthy of my ſword, a wand were better,—cuts a cudgell,—Jle bee your ghoſtly father,—nay ſtirre not, if thou doſt, Jle cut thee into At<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oms, and let the humerous wind to fanne the o're thee earth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>Oh, oh! good Sir, let me go home, Jle enter into bond to give forty pounds.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Com.</speaker>
+                     <p>So periſhing ſailors pray to ſtorms, and ſo they heare agen, <stage>(bangs him)</stage> — ſirrha confeſſe unto me, J know J have been everie way as guiltie as thy ſelfe, but Tve repented of what hath been, and left my curſed calling, and now Jle <hi>Curr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e</hi> thee into a better Creed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>O hold Sir, J will confeſſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Com.</speaker>
+                     <p>Come then.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>J do acknowledge,
+<pb n="9" facs="tcp:160434:7"/>J have hitherto pretended zeale to God and love to good<g ref="char:EOLhyphen"/>neſſe onely to blind the eyes of men.—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Com.</speaker>
+                     <p>So.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>And J have contrarie to the very light of knowledge extold thoſe men for vertuous, faithfull ones, whom J have knowne to be the worſt of Traytors<g ref="char:punc">▪</g>—</p>
+                     <lg>
+                        <l>
+                           <hi>Men that turne blacke to white, and can with eaſe</hi>
+                        </l>
+                        <l>
+                           <hi>Forme holy earth, the rivers and the ſeas.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Com.</speaker>
+                     <p>Good, very good.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <p>That I with them have daily hoorded that coine the fooliſh Commons have brought in, —ſwaid with a fooliſh zeal, and that I have uſed all means to impede what ere did tend to peace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Com.</speaker>
+                     <p>Hold, my ears are bliſtered ſore already, and ſhould I heare thee further, I feare they will drop off; be gone, Ile leave thee, wiſhing thy converſion; the conſtitution of my ſoule agrees not with this climate; Ile leave this Iſle ere long<g ref="char:punc">▪</g>
+                     </p>
+                     <lg>
+                        <l>
+                           <hi>Where want keeps vertue down, and none can riſe,</hi>
+                        </l>
+                        <l>
+                           <hi>Without they'r o'th' Committees, or th'Excize.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Suck.</speaker>
+                     <lg>
+                        <l>
+                           <hi>I've ſcap'd with life, Ile home, and if I can.</hi>
+                        </l>
+                        <l>
+                           <hi>I will till death be a Committee-man.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <head>Act 4.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>Loyalty put forth in a bed, with him <g ref="char:V">Ʋ</g>rinall a Phyſitian, and three Creditors.</stage>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>YOu know what's my diſeaſe Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>ri.</speaker>
+                     <p>Yes, and the cure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>Jf it take, I will reward your friendſhip: is my uncle ſent for?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Vri.</speaker>
+                     <p>Yes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>My friends, I've ſent for one able enough to pay you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Cred.</hi>
+                     </speaker>
+                     <p>But is he willing Sir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>For that you muſt remain in hope, two houres will not expire ere you receive your money, or be for ever out of hope.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Cred.</hi>
+                     </speaker>
+                     <p>Of paiment? Heaven forbid it ſir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>Ile joyn with you in the ſame prayer, but if it happen that unawares you do receive your money, you'l not be time<g ref="char:EOLhyphen"/>rous to truſt anew.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Cred.</hi>
+                     </speaker>
+                     <p>You ſhall not want for cloth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Cred.</hi>
+                     </speaker>
+                     <p>For Linnen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Cred.</hi>
+                     </speaker>
+                     <p>For money.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>I thank you all.</p>
+                  </sp>
+                  <stage>Enter a Servant.</stage>
+                  <sp>
+                     <speaker>Ser.</speaker>
+                     <p>Mr. <hi>Rebellion</hi> is without.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>Admit him in. Sir, von know your charge, <stage>[to the Phyſitian]</stage> Now muſt I practiſe my diſguiſe.</p>
+                  </sp>
+                  <stage>Enter Rebellion.</stage>
+                  <pb n="10" facs="tcp:160434:8"/>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>How now nephew, although I once reſolved forever to deſert thee, yet naturall affection cannot be hid: what's your deſire?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>You ſee Sir, in what a deſpicable ſtate I am worn quite away with ſickneſſe, my ſoule now ready to take her flight to him that lent her me. —Oh, Oh, I can no more.</p>
+                  </sp>
+                  <stage>Seems to ſwoune.</stage>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>Help for Gods ſake, rub him, rub him, ſo, ſo, ſo, how do you nephew.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Death deales with me, but as with tortur'd men,</hi>
+                        </l>
+                        <l>
+                           <hi>Whom ſtates preſerve, onely to wrack agen.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>We muſt all die, the ſiſters ſpin no cables for us mor<g ref="char:EOLhyphen"/>talls: you'r his Phyſition I ſuppoſe Sir, what's his diſeaſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phy.</speaker>
+                     <p>A burning Fever Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>Me thinks he lookes too pale for that.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phy.</speaker>
+                     <p>Alas the operation's ſecret, which renders him the worſe, it is <hi>Aurum palpabile</hi> alone can cure him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>I quite diſpare of life, wer't thou a ſecond <hi>Aeſculapi<g ref="char:EOLhyphen"/>us</hi> Doctor, thy skill were ſpent in vaine, on mee only thus Sir I would deſire you Uncle, as you are vertuous, and would not be thought guiltie of obſtructing my journey unto heaven, you would before my death diſcharge thoſe debts I am to theſe ingag'd, which when I ſee perform'd, I ſhall with joy depart; imbrace my death with as much willingneſſe as ſhip-wrack Sea-men would the ſhore, or Malefactors a repreive: till that be done, my ſoule is much diſtracted, and worldly thoughts incountring thoſe are pious, maintain fierce warre within mee. Oh! oh! oh!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>Ha, I'm caught, <stage>[ſcratches his head]</stage> cannot for credit of my own humanity, denie for to perform his heſts; I ſhall be rid of him at once: what's he oblig'd to pay you?</p>
+                  </sp>
+                  <stage>to the creditors.</stage>
+                  <sp>
+                     <speaker>1 <hi>Cred.</hi>
+                     </speaker>
+                     <p>Twenty pound Sir to me for cloth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Cred.</hi>
+                     </speaker>
+                     <p>Thirty to me Sir for linnen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Cred</hi>
+                     </speaker>
+                     <p>Twenty he borrowed of me, beſide the intereſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>It muſt be ſo, Ile pay it, Gentlemen you ſhall have your mony.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cred.</speaker>
+                     <p>We thank you Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>The world ſha'nt ſay I damn'd my brothers ſon. May I uſe a ſervant?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Cred.</hi>
+                     </speaker>
+                     <p>O yes Sir: <hi>Richard,</hi> come hither.</p>
+                  </sp>
+                  <stage>Enter ſervant.</stage>
+                  <sp>
+                     <speaker>Ser.</speaker>
+                     <p>Your pleaſure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>Goe you my friend home to my houſe, —Thou knoweſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ser.</speaker>
+                     <p>Yes Sir I do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>And bid <hi>Thomas</hi> bring me the ſeal'd bag that lies in my Studie window; this key will further him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ser.</speaker>
+                     <p>I ſhall Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>How fare you nephew?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>Sir, now my
+<pb n="11" facs="tcp:160434:8"/>ſoule is pacified, and I ſhall paſſe away as in a pleaſing dream; pray heaven the fatall Siſters cut not into my vitall thread, untill I ſee the money paid: pray take your ſeat unkle, M. <hi>Vrinal</hi> pray ſir down; Gen<g ref="char:EOLhyphen"/>tlemen, pray fill thoſe chaires: I've a device ere I depart the world, worthy your obſervation.</p>
+                  </sp>
+                  <stage>
+                     <hi>Recorders: Enter Sleep and Death, bearing a young man betwixt them naked, they lay him down, dance about him. Enter</hi> Poverty, <hi>ſhe bewailes over him, and danceth with the reſt.</hi> Death <hi>and</hi> Sleep <hi>ſeem to ſtrive for the body,</hi> Sleep <hi>prevaileth. Enter</hi> Mammon, <hi>and pla<g ref="char:EOLhyphen"/>cing two bags of gold under either arme, he reviveth, danceth with</hi> Sleep <hi>and</hi> Poverty, <hi>then</hi>
+                  </stage>
+                  <stage>Exeunt.</stage>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>What's the conceipt of this?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>This is a viſion Sir, fore<g ref="char:EOLhyphen"/>warnes what is to come, and is an excellent preparative for me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>I underſtand not what was meant, but much I like their poſtures.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Thomas <hi>with a ſealed bag.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Thom.</speaker>
+                     <p>Sir, here's the gold you ſent for.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>O very good, Gentlemen draw neer, here's pen, ink, and pa<g ref="char:EOLhyphen"/>per, give me acquittance, and ſubſcribe your names, then take your money.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Cred.</speaker>
+                     <p>Willingly.</p>
+                  </sp>
+                  <stage>They write.</stage>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>Let me ſee, there's twenty <stage>powers gold on the board.</stage> pounds for you Sir, there's thirty for you Sir, there's 20. for you Sir. Now nephew, I truſt, your peace being made on earth, you will make peace with heaven, I have diſcharged your debts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <p>I thank you Sir, <stage>leaps out of the bed.</stage> This hearty love of yours has wrought my perfect cure.</p>
+                     <p>Fa, la, fa, la, la, fa, la, la, la, la, la.</p>
+                  </sp>
+                  <stage>dances.</stage>
+                  <sp>
+                     <speaker>Reb.</speaker>
+                     <p>Does he counterfeit? I'm fool'd out of my money, theſe var<g ref="char:EOLhyphen"/>lets have ſpread a net to catch me threeſcore and ten pounds, —I ſhall run mad, I can't contain my ſelfe, what ſhall I do?</p>
+                     <lg>
+                        <l>Ile get an halter, and on the next tree</l>
+                        <l>Ile put an end unto my miſerie.</l>
+                     </lg>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Loy.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Come, let's away, Rebellion hang'd and dead,</hi>
+                        </l>
+                        <l>
+                           <hi>Loyalty with applauſe will ſhew his head.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>Act 5.</head>
+               <stage>
+                  <hi>Enter</hi> Horne <hi>alone.</hi>
+               </stage>
+               <sp>
+                  <speaker>Horn.</speaker>
+                  <p>WOman beſides the trouble, has ever bin thought a rent<g ref="char:EOLhyphen"/>charge, and though through the vain curioſity of man, it has often been incloſed, yet it has ſeldome been brought to improve or become profitable, it faring with married men (for the moſt part)
+<pb n="12" facs="tcp:160434:9"/>as with thoſe that are at great charges, wall in grounds, and place, who cheaper might have eaten Melons elſwhere, then in their owne garden Cucumbers, they are creatures (for the moſt part) ſo beholden to <hi>Venus,</hi> that they cannot contain themſelves without variety of gli<g ref="char:EOLhyphen"/>ſter-pipes, nay and are ſo ravenous, that they court men by proxies to meet them.</p>
+                  <lg>
+                     <l>
+                        <hi>Come none, they'l meet their ſlaves, thoſe out o'th way.</hi>
+                     </l>
+                     <l>
+                        <hi>A tankerd-bearer for his paines they'l pay,</hi>
+                     </l>
+                     <l>
+                        <hi>He abſent, no man found, ere they'l abide</hi>
+                     </l>
+                     <l>
+                        <hi>Delay, they'l let a horſe, get up, and ride.</hi>
+                     </l>
+                  </lg>
+                  <p>But I, under the roſe be it ſpoken, have let my wife to farm, and make the beſt of her: thoſe Gallants that reſort to her, pay liberally, and ſo that I gain coine, let them gain—what ſhe gives them: but there's one <hi>Dammee</hi> a Ruffian that would ingroſſe her to himſelf, drives thoſe away that come and bring in gain, nor will disburſe himſelf one do it.</p>
+                  <lg>
+                     <l>
+                        <hi>A fellow takes no reſt, if peace he keep,</hi>
+                     </l>
+                     <l>
+                        <hi>A quarrell ſtill is prologue to his ſleep,</hi>
+                     </l>
+                     <l>
+                        <hi>And I that have the Moon before me borne,</hi>
+                     </l>
+                     <l>
+                        <hi>With my large Antlers, am but made his ſcorne:</hi>
+                     </l>
+                     <l>
+                        <hi>He are how we quarrel'd, if a quarrell't were,</hi>
+                     </l>
+                     <l>
+                        <hi>Where he layes on the blowes, I onely beare:</hi>
+                     </l>
+                     <l>
+                        <hi>He ſtands before me, and commands me ſtand,</hi>
+                     </l>
+                     <l>
+                        <hi>And I muſt be obedient to's command.</hi>
+                     </l>
+                     <l>
+                        <hi>Alas, what would you have a man to doe</hi>
+                     </l>
+                     <l>
+                        <hi>I'th hands of one that's mad, and ſtronger too!</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <div n="2" type="scene">
+                  <head>SCENE 2.</head>
+                  <stage>knocking within.</stage>
+                  <p>Whence, who's there? <hi>Dammee without.</hi> Where's Mrs. <hi>Horns.</hi>
+                  </p>
+                  <sp>
+                     <speaker>Horn.</speaker>
+                     <p>I ſhall be beat to duſt if be ſet eye on me, Ile ſend one to him, <stage>(goes off.) Enter Iames. knock<g ref="char:EOLhyphen"/>ing</stage> 
+                        <hi>without I am</hi> Who's there? <hi>Dam</hi> Open the doore you rogue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iam.</speaker>
+                     <p>Rogue, who are you? <stage>
+                           <hi>(<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                                 <desc>…</desc>
+                              </gap>ens the doore)</hi>
+                        </stage> OM. <hi>Dammee,</hi> you are welcome Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dam</speaker>
+                     <p>Wher's thy miſtreſſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iam.</speaker>
+                     <p>Not at home Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dam.</speaker>
+                     <p>Then all my feares are true, any ſhe is falſe, falſe as a falling ſtarre, or glow wormes fire: this divell beauty is compounded ſtrangely, it is a ſubtill point, and hard to know, whether it has in it more active tempting, or more paſſive tempted, ſo ſoon it forces, and ſo ſoon it yeelds—Shees light as ayre, Ile once give her the bells, and let her flie to the devill.</p>
+                     <lg>
+                        <l>
+                           <hi>Ile to the tavern, that my thought may move,</hi>
+                        </l>
+                        <l>
+                           <hi>And then Ile go, and find another love.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <stage>
+                     <hi>Enter</hi> Horn <hi>againe.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Horn</speaker>
+                     <p>
+                        <hi>Iames,</hi> Is he gone <hi>Iames?</hi> His vo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce doth terrifie me more then thunder doth the Indians: my game is gone, my wife is run away, I could for ſpight now be a convert, and turn <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oneſt in my age; I have a Countrie-houſe in Warwick thire, thither Ile go, and live upon the Onions that I ſow, and Beans that I ſhall ſet. W<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> along <hi>Iames</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Iam.</speaker>
+                     <p>Yes Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Horn.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Come then, and ſince I've loſt my citie wife.</hi>
+                        </l>
+                        <l>
+                           <hi>Ile for the future lead a countrey-life.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

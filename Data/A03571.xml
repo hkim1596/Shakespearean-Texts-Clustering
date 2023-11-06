@@ -1,0 +1,2484 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A merry iest of Robin Hood and of his life, vvith a newe play for to be plaied in May-games. Very pleasant and full of pastime.</title>
+            <title>Little gest of Robin Hood.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1590</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A03571</idno>
+            <idno type="STC">STC 13692</idno>
+            <idno type="STC">ESTC S116951</idno>
+            <idno type="EEBO-CITATION">99852166</idno>
+            <idno type="PROQUEST">99852166</idno>
+            <idno type="VID">17475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A03571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1383:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A merry iest of Robin Hood and of his life, vvith a newe play for to be plaied in May-games. Very pleasant and full of pastime.</title>
+                  <title>Little gest of Robin Hood.</title>
+               </titleStmt>
+               <extent>[64] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[ca. 1590?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In verse.</note>
+                  <note>In 95 mm. textura with w⁵[superscript b], w¹² --STC.</note>
+                  <note>Signatures: A-H⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Robin Hood, --  Legendary character --  Poetry --  Early works to 1800.</term>
+               <term>Ballads, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:17475:1" rendition="simple:additions"/>
+            <pb facs="tcp:17475:1"/>
+            <p>A merry Ieſt of <hi>Robin Hood,</hi> and of his life, VVith a newe play for to be plaied in May-games. Very pleaſant and full of paſtime.</p>
+            <figure>
+               <figDesc>Robin Hood (?) with a longbow and arrow, wearing a cap with a feather, facing Little John, who bears a sword and axe</figDesc>
+               <head>Litle Iohn.</head>
+            </figure>
+            <p>LONDON. Printed for <hi>Edward White.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:17475:2"/>
+            <head>¶ Heere beginneth a little ieſt of Robin Hood and his merry men and of the proud Sheriffe of Noting<g ref="char:EOLhyphen"/>ham.</head>
+            <div n="1" type="fitte">
+               <lg>
+                  <l>Lythe and liſten Gentlemen,</l>
+                  <l>that be of fre borne blood:</l>
+                  <l>I ſhall you tell of a good yeoman</l>
+                  <l>his name was Robin Hood.</l>
+                  <l>Robin was a proud out-law</l>
+                  <l>whilſt he walked on the ground,</l>
+                  <l>So courteiſe an out-law as he was one,</l>
+                  <l>was neuer none yfound,</l>
+                  <l>Robin ſtood in Bernſdale</l>
+                  <l>and leaned vpon a tree,</l>
+                  <l>And by him little Iohn</l>
+                  <l>a good yeoman was he.</l>
+                  <l>And alſo did good Scathlock,</l>
+                  <l>and Much the milners ſonne,</l>
+                  <l>there was no inch of his body</l>
+                  <l>but it was worth a grome.</l>
+                  <l>Then beſpake him little Iohn</l>
+                  <l>all vnto Robin hood:</l>
+                  <l>Maiſter if you would dine betime</l>
+                  <l>it would doe you much good.</l>
+                  <l>Then beſpake good Robin hood,</l>
+                  <l>to dine I haue no luſt</l>
+                  <l>till I haue ſome bould Baron</l>
+                  <l>or ſome vnketh geſt</l>
+                  <l>that may pay for the beſt</l>
+                  <l>Or ſome Knight, or ſome Squire</l>
+                  <l>that dwelleth heere by weſt.</l>
+                  <l>A good manner then had Robin</l>
+                  <l>in land where that he were,</l>
+                  <pb facs="tcp:17475:2"/>
+                  <l>Euery day ere he would dine</l>
+                  <l>three maſſes would he heere.</l>
+                  <l>The one in the worſhip of the Father,</l>
+                  <l>the other of the holy Ghoſt:</l>
+                  <l>the third was of our deere Lady</l>
+                  <l>that he loued of all other moſt.</l>
+                  <l>Robin he loued our deere Lady,</l>
+                  <l>for doubt of deadly ſinne,</l>
+                  <l>would he neuer doe company harme</l>
+                  <l>that any woman was in.</l>
+                  <l>Maiſter then ſaid little Iohn</l>
+                  <l>and we our boord ſhall ſpread</l>
+                  <l>tell vs what way we ſhall gone,</l>
+                  <l>and what life we ſhall lead,</l>
+                  <l>where we ſhall take wher we ſhall leaue</l>
+                  <l>where we ſhall abide behinde:</l>
+                  <l>where we ſhall rob where we ſhall reaue</l>
+                  <l>where we ſhall beat and binde.</l>
+                  <l>Thereof no force ſaid Robn,</l>
+                  <l>we ſhall doe well enough,</l>
+                  <l>but look you doe no huſbandman harme</l>
+                  <l>that tilleth with the plough,</l>
+                  <l>No more you ſhall no good yeoman</l>
+                  <l>that walketh by greene wod ſhaw:</l>
+                  <l>Ne no Knight, ne no Squire</l>
+                  <l>that would be a good fellow.</l>
+                  <l>Biſhops and theſe Archbiſhops</l>
+                  <l>ye ſhall them beate and binde,</l>
+                  <l>the high Sheriffe of Nottingeam</l>
+                  <l>him hold in your minde.</l>
+                  <l>this word ſhall hold ſaid little Iohn,</l>
+                  <l>and this leſſon ſhall we lere.</l>
+                  <l>It is farre daies God ſend vs a gueſt</l>
+                  <l>that we were at our dinnere.</l>
+                  <pb facs="tcp:17475:3"/>
+                  <l>Take thy good bowe in thy hand ſaid Robin</l>
+                  <l>let Much goe with thee,</l>
+                  <l>and ſo ſhall William Scathlock,</l>
+                  <l>and no man abide with me.</l>
+                  <l>Now walke ye vp vnto the ſhore,</l>
+                  <l>and ſo to Watling-ſtreet</l>
+                  <l>and wait after ſome vncouth gueſt,</l>
+                  <l>by chance ſome may ye meet.</l>
+                  <l>Be he Earle or any Baron</l>
+                  <l>Abbot or any Knighti</l>
+                  <l>bring him then to lodge to me</l>
+                  <l>his dinner ſhall be dight.</l>
+                  <l>They went anon vnto the Sayles</l>
+                  <l>theſe yeomen all three,</l>
+                  <l>they looked Eaſt they looked Weſt,</l>
+                  <l>they might no man ſee</l>
+                  <l>But as they looked in Berneſdale</l>
+                  <l>by a deme ſtreet:</l>
+                  <l>Then came there a Knight riding,</l>
+                  <l>full ſoone they gan him meet.</l>
+                  <l>All drouflye was his ſemblant,</l>
+                  <l>and little was his pride,</l>
+                  <l>His one foot on the ſtirtop ſtood,</l>
+                  <l>the other waued beſide:</l>
+                  <l>His hood hanged ouer his eyes two,</l>
+                  <l>he rode in ſimple array,</l>
+                  <l>A ſorrier man then he was one</l>
+                  <l>rode neuer on Summers day.</l>
+                  <l>Little Iohn was courteous,</l>
+                  <l>and ſet him on his knee:</l>
+                  <l>Welcome be ye gentle Knight,</l>
+                  <l>welcome are you to me,</l>
+                  <l>Welcome be thou to greene-wood</l>
+                  <l>hend Knight and free.</l>
+                  <pb facs="tcp:17475:3"/>
+                  <l>My Maiſter hath abiden faſting</l>
+                  <l>ſir all theſe howers three.</l>
+                  <l>Who is your Maiſter ſaid the Knight.</l>
+                  <l>Iohn ſaid Robin hood:</l>
+                  <l>He is a good yeoman ſaid the Knight,</l>
+                  <l>of him haue I heard much good.</l>
+                  <l>I grant he ſaid with you to wend</l>
+                  <l>my bretheren all three:</l>
+                  <l>My purpoſe was to haue dined to day</l>
+                  <l>at Blithe or Dancaſtre.</l>
+                  <l>Forth then went that gentle Knight</l>
+                  <l>with a carefull cheere,</l>
+                  <l>The teares out of his eyes rann</l>
+                  <l>and fell downe by his leere.</l>
+                  <l>They brought him vnto the lodge doore</l>
+                  <l>When Robin gan him ſee</l>
+                  <l>Full courteouſly he did off his hood</l>
+                  <l>and ſet him downe on his knee.</l>
+                  <l>welcome ſir Knight then ſaid Robin,</l>
+                  <l>welcome thou art to me,</l>
+                  <l>I haue abyden faſting ſir</l>
+                  <l>all theſe houres three.</l>
+                  <l>Then anſwered the gentle Knight</l>
+                  <l>with words faire and free,</l>
+                  <l>God thee ſaue good Robin,</l>
+                  <l>and all thy faire menye.</l>
+                  <l>They waſhed together and wiped both</l>
+                  <l>and ſet to their dinnere,</l>
+                  <l>Bread and wine they had enough</l>
+                  <l>and numbles of the Deere.</l>
+                  <l>Swans and Feſants they had full good</l>
+                  <l>and Foules of the riuer</l>
+                  <l>there faileth neuer ſo little a bird</l>
+                  <l>that euer was ſpread on bryer.</l>
+                  <pb facs="tcp:17475:4"/>
+                  <l>Doe gladly ſir Knight ſaid Robin,</l>
+                  <l>Gramercy ſir ſaid he</l>
+                  <l>Such a dinner had I not</l>
+                  <l>Of all theſe weekes three.</l>
+                  <l>If I come againe Robin</l>
+                  <l>Heere by this Countrie,</l>
+                  <l>As good a dinner I ſhall thee make,</l>
+                  <l>as thou haſt made to me.</l>
+                  <l>I thanke thee Knight then ſaid Robin</l>
+                  <l>my dinner when I haue,</l>
+                  <l>By God I was neuer ſo greedy</l>
+                  <l>my dinner for to craue.</l>
+                  <l>But pay ere you wend ſaid Robin</l>
+                  <l>me thinke is good right,</l>
+                  <l>It was neuer y<hi rend="sup">e</hi> manner by worthy God</l>
+                  <l>a yeoman to pay for a Knight.</l>
+                  <l>I haue nought in my Coffers ſaid the Knight</l>
+                  <l>that I may proffer for ſhame:</l>
+                  <l>Little Iohn goe looke ſaid Robin hood,</l>
+                  <l>Ne let not for no blame.</l>
+                  <l>Tell me truth ſaid Robin</l>
+                  <l>ſo God haue part of thee:</l>
+                  <l>I haue no more but x s. ſaid the Knight</l>
+                  <l>ſo God haue part of me.</l>
+                  <l>If thou haue no more ſaid Robin</l>
+                  <l>I will not one peny,</l>
+                  <l>And if thou haue need of any more</l>
+                  <l>more I ſhall lend thee.</l>
+                  <l>Goe now foorth little Iohn</l>
+                  <l>the truth tell thou me,</l>
+                  <l>If there be no more but ten ſbillings</l>
+                  <l>not any peny that I ſee</l>
+                  <l>Little Iohn ſpred downe his mantle</l>
+                  <l>full faire vpon the ground</l>
+                  <pb facs="tcp:17475:4"/>
+                  <l>And there he found in the Knights cofer</l>
+                  <l>but euen halfe a pound</l>
+                  <l>Little Iohn let it lye full ſtill</l>
+                  <l>and went to his maiſter full lowe</l>
+                  <l>What tidings Iohn ſaid Robin</l>
+                  <l>Sir the Knight is true</l>
+                  <l>Fill of the beſt wine ſaid Robin</l>
+                  <l>the Knight ſhall beginne</l>
+                  <l>Much wonder thinketh me</l>
+                  <l>thy clothing is ſo thin.</l>
+                  <l>Tell me one word ſaid Robin</l>
+                  <l>and counſaile ſhall it be,</l>
+                  <l>I trow thou wert made Knight of force</l>
+                  <l>or elſe of yeomanry,</l>
+                  <l>or elſe thou haſt be a ſorry huſband,</l>
+                  <l>and liued in ſtroke and ſtrife,</l>
+                  <l>an Okerer or elſe a Letcher ſaid Robin</l>
+                  <l>with whores haſt thou led thy life.</l>
+                  <l>I am none of theſe ſaid the Knight</l>
+                  <l>by God that mage me,</l>
+                  <l>An hundreth winters heare before</l>
+                  <l>mine Anceſtors Knights haue be.</l>
+                  <l>But of it hath befall Robin</l>
+                  <l>a man hath be diſgraſt</l>
+                  <l>But God that ſitteth in heauen aboue</l>
+                  <l>may amend his eſtate.</l>
+                  <l>Within 2. or 3. yeares Robin ſaid he</l>
+                  <l>Foure hundreth pound of good money</l>
+                  <l>full well then might I ſpend.</l>
+                  <l>Now haue I no good ſaid the Knight</l>
+                  <l>but my children an my wife,</l>
+                  <l>God hath ſhapen ſuch an end</l>
+                  <l>till God it amend.</l>
+                  <l>In what manner ſaid Robin</l>
+                  <pb facs="tcp:17475:5"/>
+                  <l>haſt thou loſt thy riches?</l>
+                  <l>For my great folly he ſaid</l>
+                  <l>and for my kindnes.</l>
+                  <l>I had a ſonne forſooth Robin</l>
+                  <l>that ſhould haue beene mine heire,</l>
+                  <l>When he was twenty winters old</l>
+                  <l>In field would iuſt full faire.</l>
+                  <l>He ſlewe a Knight of Lancaſhire</l>
+                  <l>and a Squire bold,</l>
+                  <l>For to ſaue him in his right</l>
+                  <l>my goods both ſet and ſold.</l>
+                  <l>My Landes be ſet to wed Robin</l>
+                  <l>vntill a certaine day,</l>
+                  <l>To a rich Abbot heere beſide</l>
+                  <l>of Saint Mary Abbay.</l>
+                  <l>What is the ſumme ſaid Robin,</l>
+                  <l>truth then tell thou me</l>
+                  <l>Sir he ſaid foure hundreth pound</l>
+                  <l>the Abbot told it to me.</l>
+                  <l>Now and thou looſe thy land ſaid Robin</l>
+                  <l>what ſhall fall of thee?</l>
+                  <l>Haſtily I will me buſke ſaid the Knight</l>
+                  <l>ouer the ſalt Sea:</l>
+                  <l>And ſee where Chriſt was quick &amp; dead</l>
+                  <l>on the mount of Caluere.</l>
+                  <l>Farewell friend and haue good day</l>
+                  <l>it may no better be.</l>
+                  <l>Teares fell out of his eyes two,</l>
+                  <l>he would haue gone his way,</l>
+                  <l>Farewell friends and haue good day,</l>
+                  <l>I haue no more to pay.</l>
+                  <l>Where be thy friends ſaid Robin,</l>
+                  <l>ſir neuer a one will know me:</l>
+                  <l>Whiles I was rich enough at home</l>
+                  <pb facs="tcp:17475:5"/>
+                  <l>great boaſt then would they blow:</l>
+                  <l>And now they run away from me</l>
+                  <l>As beaſts on a rowe</l>
+                  <l>They take no more heed of me</l>
+                  <l>than they me neuer ſaw</l>
+                  <l>For ruthe they went little Iohn</l>
+                  <l>Scathlocke and Much alſo</l>
+                  <l>Fill of the beſt wine ſaid Robin</l>
+                  <l>for here is a ſimple cheere</l>
+                  <l>Haſt thou any friends ſaid Robin</l>
+                  <l>thy borrowes that will be</l>
+                  <l>I haue none ſaid the Knight</l>
+                  <l>but God that dyed on a tree</l>
+                  <l>Doo away thy ieſt ſaid Robin</l>
+                  <l>thereof I will right none</l>
+                  <l>weeneſt thou I will God to borrow</l>
+                  <l>Peter, Paul or Iohn</l>
+                  <l>Nay by him that made me</l>
+                  <l>and ſhope both Sun and Moone</l>
+                  <l>Finde a better borrow ſaid Robin</l>
+                  <l>Or money getteſt thou none</l>
+                  <l>I haue none other ſaid the Knight</l>
+                  <l>the ſooth for to ſay,</l>
+                  <l>But it be our deere Lady</l>
+                  <l>ſhe faileth me neuer or this day.</l>
+                  <l>By deere worthy God ſaid Robin</l>
+                  <l>to ſeech all England thorowe</l>
+                  <l>Yet found I neuer to my pay</l>
+                  <l>a much better borowe</l>
+                  <l>Come now forth little Iohn</l>
+                  <l>and goe to my treaſure</l>
+                  <l>And bring me foure hundreth pound</l>
+                  <l>and looke it well tolde be</l>
+                  <l>Forth then went little Iohn</l>
+                  <pb facs="tcp:17475:6"/>
+                  <l>and Scathelocke went before</l>
+                  <l>He tolde forth foure hundreth pound</l>
+                  <l>by eighteene ſcore</l>
+                  <l>Is this well tolde ſaid little Much</l>
+                  <l>Iohn ſaid what grieued thee</l>
+                  <l>It is almes to help a gentle knight</l>
+                  <l>that is fallen in pouertie</l>
+                  <l>Maiſter then ſaid little Iohn</l>
+                  <l>his clothing is full thinne</l>
+                  <l>Ye muſt giue the knight a liuery,</l>
+                  <l>to wrap his body therein</l>
+                  <l>For ye haue Scarlet and greene maiſter</l>
+                  <l>and much rich aray</l>
+                  <l>there is no marchant in mery England</l>
+                  <l>ſo rich I dare well ſay</l>
+                  <l>Take him three yeards of euery colour</l>
+                  <l>and looke that well ymet it be</l>
+                  <l>Little Iohn tooke none other meaſure</l>
+                  <l>but his bowe tree</l>
+                  <l>And of euery handfull that he met</l>
+                  <l>he leped ouer foots three</l>
+                  <l>What diuels draper ſaid little Much</l>
+                  <l>thinkeſt thou to be</l>
+                  <l>Scathelocke ſtood ſtill and laught</l>
+                  <l>and ſaid by God almight</l>
+                  <l>Iohn may giue him the better meaſure</l>
+                  <l>by God it coſt him but light</l>
+                  <l>Maiſter ſaid little Iohn</l>
+                  <l>All vnto Robin hood</l>
+                  <l>Ye muſt giue the knight an horſe</l>
+                  <l>to lede home all his good</l>
+                  <l>Take him a gray courſer ſaid Robin</l>
+                  <l>and a ſaddle new</l>
+                  <l>He is our Ladies meſſenger</l>
+                  <pb facs="tcp:17475:6"/>
+                  <l>God lend that it be true</l>
+                  <l>And a good Palfray ſaid little much</l>
+                  <l>to maintaine him in his right</l>
+                  <l>And a paire of boots ſaid Scathelocke</l>
+                  <l>for he is a gentle knight</l>
+                  <l>what ſhalt thou giue him litle Iohn ſaid Robin</l>
+                  <l>ſir a paire of gilte ſpurres clene</l>
+                  <l>to pray for all this company</l>
+                  <l>God bring them out of tene</l>
+                  <l>When ſhall my day be ſaid the Knight</l>
+                  <l>ſir and your will be</l>
+                  <l>This day twelue months ſaid Robin</l>
+                  <l>vnder the greene wood tree</l>
+                  <l>It were great ſhame ſaid Robin</l>
+                  <l>a Knight alone to ride</l>
+                  <l>without ſquire, yeomen or page</l>
+                  <l>to walke by his ſide</l>
+                  <l>I ſhall thee lend little Iohn my man</l>
+                  <l>for he ſhall be thy knaue</l>
+                  <l>In a yeomans ſted he may ſtand</l>
+                  <l>if thou great need haue.</l>
+               </lg>
+            </div>
+            <div n="2" type="fitte">
+               <head>¶ The ſecond fitte.</head>
+               <lg>
+                  <l>NOw is the Knight gon on his way</l>
+                  <l>this game he thought full good</l>
+                  <l>When he looked on Berniſdale</l>
+                  <l>he bleſſed Robin hood</l>
+                  <l>And when he thought on Berniſdale</l>
+                  <l>on Scathelocke much and Iohn</l>
+                  <l>He bleſſed them for the beſt company</l>
+                  <l>that euer he in came</l>
+                  <l>Then ſpake the gentle Knight</l>
+                  <l>to little Iohn gan he ſay</l>
+                  <l>tomorrow I muſt to Yorke towne</l>
+                  <l>to ſaint Mary Abbay</l>
+                  <pb facs="tcp:17475:7"/>
+                  <l>And to the Abbot of that place</l>
+                  <l>foure hundreth pound I muſt pay</l>
+                  <l>And but I be there this night</l>
+                  <l>my land is loſt for aye</l>
+                  <l>The Abbot ſaid to his couent</l>
+                  <l>there he ſtood on ground</l>
+                  <l>this day xii. months came a Knight</l>
+                  <l>and borrowed four<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hundreth pound</l>
+                  <l>Vpon his land and fee</l>
+                  <l>But he come this ilke day</l>
+                  <l>diſberited ſhall he be</l>
+                  <l>It is full early ſaid the priour</l>
+                  <l>the day is not yet farre gone</l>
+                  <l>I had leuer to pay a hundreth pound</l>
+                  <l>and lay it downe anone</l>
+                  <l>The Knight is farre beyond the ſea</l>
+                  <l>in England is his right</l>
+                  <l>And ſuffereth hunger and cold</l>
+                  <l>and many a ſore night</l>
+                  <l>It were great pittie ſaid the priour</l>
+                  <l>So to haue his land</l>
+                  <l>And ye be ſo light of your conſcience</l>
+                  <l>you doe him much wrong</l>
+                  <l>Thou art euer in my berde ſaid y<hi rend="sup">e</hi> Abbot</l>
+                  <l>by God and ſaint Richad</l>
+                  <l>With that came in a fat headed muncke</l>
+                  <l>the high ſellerere</l>
+                  <l>He is dead or hanged ſaid the Muncke</l>
+                  <l>by God that bought me deere</l>
+                  <l>Ind we ſhall haue to ſpend in this place</l>
+                  <l>foure hundreth pounds by yeere</l>
+                  <l>The Abbot and high ſellerere</l>
+                  <l>ſtert forth full bolde</l>
+                  <l>The high Iuſtice of England</l>
+                  <pb facs="tcp:17475:7"/>
+                  <l>the Abbot there did holde</l>
+                  <l>The high Iuſtice and many mo</l>
+                  <l>had taken into their hand</l>
+                  <l>Wholly all the knights det</l>
+                  <l>to put that knight to wrong</l>
+                  <l>They demed the knight wonder ſore</l>
+                  <l>the Abbot and his meiny</l>
+                  <l>But he comes this ylke day</l>
+                  <l>diſherited ſhall he be</l>
+                  <l>He will come yet ſaid the Iuſtice</l>
+                  <l>I dare well vndertake</l>
+                  <l>But in ſorrow time to them all</l>
+                  <l>The knight came to the gate</l>
+                  <l>Then beſpake that gentle knight</l>
+                  <l>vntill his menye</l>
+                  <l>Now put on your ſimple weeds</l>
+                  <l>that ye brought fro the ſea</l>
+                  <l>They came to the gates anon</l>
+                  <l>the porter was redy himſelfe</l>
+                  <l>and welcommed them euerie chone</l>
+                  <l>Welcome ſir knight ſaid the porter</l>
+                  <l>my Lord to meat is he</l>
+                  <l>And ſo is many a gentleman</l>
+                  <l>for the loue of thee</l>
+                  <l>The Porter ſwore a full great oath.</l>
+                  <l>by God that made me</l>
+                  <l>Heere be the beſt corſe horſe</l>
+                  <l>that euer yet ſaw me</l>
+                  <l>Lede them to the ſtable he ſaid</l>
+                  <l>that eaſed might they be</l>
+                  <l>they ſhall not come there ſaid the knight</l>
+                  <l>by God that dyed on a tree</l>
+                  <l>Lords were to meat yſet</l>
+                  <l>in that Abbots hall</l>
+                  <pb facs="tcp:17475:8"/>
+                  <l>the knight went foorth &amp; kneeled downe</l>
+                  <l>and ſaluted them great and ſmall:</l>
+                  <l>Doe gladly ſir Abbot (ſaid the Knight)</l>
+                  <l>I am come to hold my day.</l>
+                  <l>The firſt word the Abbot ſpake</l>
+                  <l>haſt thou brought me my pay?</l>
+                  <l>Not one penny ſaid the Knight</l>
+                  <l>by God that hath made me:</l>
+                  <l>Thou art a ſhrewde debter ſaid y<hi rend="sup">t</hi> Abbot</l>
+                  <l>ſir Iuſtice drinke to me.</l>
+                  <l>What doeſt thou heere (ſaid the Abbot)</l>
+                  <l>but thou hadſt brought thy pay?</l>
+                  <l>For God then ſaid the Knight</l>
+                  <l>to deſire of a longer day.</l>
+                  <l>Thy day is broake ſaid the Iuſtice,</l>
+                  <l>land getteſt thou none:</l>
+                  <l>Now good ſir Iuſtice be my friend,</l>
+                  <l>and defend me againſt my fone.</l>
+                  <l>I am hold with the Abbot ſaid y<hi rend="sup">e</hi> Iuſtice</l>
+                  <l>both with cloath and fee:</l>
+                  <l>Now good ſir Sheriffe be my friend,</l>
+                  <l>nay for God ſaid he.</l>
+                  <l>Now good ſir Abbot be my friend</l>
+                  <l>for thy curteſie:</l>
+                  <l>and hold my lands in thy hand</l>
+                  <l>till I haue made thee gree:</l>
+                  <l>and I will be thy true ſeruant,</l>
+                  <l>till ye haue foure hundreth pound</l>
+                  <l>of money good and free.</l>
+                  <l>The Abbot ſware a full great oath,</l>
+                  <l>by God that died on a tree,</l>
+                  <l>Get thy land where thou may</l>
+                  <l>for thou getteſt none of me.</l>
+                  <l>By deere worthy God ſaid the Knight</l>
+                  <pb facs="tcp:17475:8"/>
+                  <l>that all this world wrought</l>
+                  <l>but I haue my land againe</l>
+                  <l>full deere it ſhall be bought.</l>
+                  <l>God that was of a maiden borne</l>
+                  <l>ſend vs well to ſpeed,</l>
+                  <l>for it is good to aſſay a friend</l>
+                  <l>or that a man haue need.</l>
+                  <l>The Abbot loathly on them gan looke,</l>
+                  <l>Out he ſaid thou falſe Knight,</l>
+                  <l>ſtep thee out of the hall.</l>
+                  <l>Thou lieſt then ſaid the gentle Knight</l>
+                  <l>Abbot in thy hall:</l>
+                  <l>falſe Knight was I neuer;</l>
+                  <l>by God that made vs all.</l>
+                  <l>Vp then ſtood that gentle Knight</l>
+                  <l>to the Abbot ſaid he:</l>
+                  <l>To ſuffer a Knight to kneele ſo long</l>
+                  <l>thou canſt no curteſie.</l>
+                  <l>In Iuſts and in Tournaments</l>
+                  <l>full farre that haue I be,</l>
+                  <l>and put my ſelfe as farre in preſſe</l>
+                  <l>as any that euer I ſee.</l>
+                  <l>What will ye giue more ſaid the Iuſtice</l>
+                  <l>and the Knight ſhall make releaſe:</l>
+                  <l>or elſe dare I ſafely ſay</l>
+                  <l>ye hold neuer your land in peace.</l>
+                  <l>An hundreth pound ſaid the Abbot,</l>
+                  <l>the Iuſtice ſaid giue him two:</l>
+                  <l>Nay by God ſaid the Knight,</l>
+                  <l>ye get not my land ſo.</l>
+                  <l>Though ye would giue a thouſa<g ref="char:cmbAbbrStroke">̄</g>d pound more</l>
+                  <l>yet were thou neuer the neere:</l>
+                  <l>Shall there neuer be mine heire</l>
+                  <l>Abbot, Iuſtice ne Fryer.</l>
+                  <pb facs="tcp:17475:9"/>
+                  <l>He ſtert him to a bourd anon</l>
+                  <l>till a table round</l>
+                  <l>And there he ſhooke out of a bag</l>
+                  <l>euen foure hundreth pound</l>
+                  <l>Haue heere thy gold ſir abbot ſaid the Knight</l>
+                  <l>which thou lenteſt me</l>
+                  <l>Hadſt thou bene curtiſe at my comming</l>
+                  <l>I would haue rewarded thee</l>
+                  <l>The Abbot ſat ſtill and eat no more</l>
+                  <l>for all his royall cheere</l>
+                  <l>He caſt his head on his ſhoulder</l>
+                  <l>and faſt gan to ſtare</l>
+                  <l>Take my gold againe ſaid the Abbot</l>
+                  <l>ſir Iuſtice that I tooke to thee</l>
+                  <l>Not a penny ſaid the Iuſtice</l>
+                  <l>by God that dyed on a tree</l>
+                  <l>Sir Abbot and you men of lawe</l>
+                  <l>Now haue I held my day</l>
+                  <l>Now ſhall I haue my land again</l>
+                  <l>for ought that you can ſay</l>
+                  <l>The knight ſtart out of the dore</l>
+                  <l>away was all his care</l>
+                  <l>And on he put his good clothing</l>
+                  <l>and the other he left there</l>
+                  <l>He went him forthfull mery ſinging</l>
+                  <l>as men haue told in tale</l>
+                  <l>His Lady met him at the gate</l>
+                  <l>at home in Veriſdale</l>
+                  <l>Welcome my Lord ſaid his Lady</l>
+                  <l>ſir loſt is all your good</l>
+                  <l>Be merry dame ſaid the knight</l>
+                  <l>and pray for Robin hood</l>
+                  <l>That euer his ſoule be in bliſſe</l>
+                  <l>he holpe me out of tene</l>
+                  <pb facs="tcp:17475:9"/>
+                  <l>Ne had not bee his kindnes</l>
+                  <l>beggers had we beene.</l>
+                  <l>The Abbot and I accorded beene,</l>
+                  <l>he ſerued of his pay:</l>
+                  <l>the good yeoman lent it me</l>
+                  <l>as I came on the way.</l>
+                  <l>This Knight then dwelled faire at home</l>
+                  <l>the ſooth for to ſay:</l>
+                  <l>till he had got foure hundreth pound</l>
+                  <l>all ready for to pay.</l>
+                  <l>He puruaide him an hundreth bowes</l>
+                  <l>the ſtrings were well dight:</l>
+                  <l>An hundreth ſheafe of arrowes good,</l>
+                  <l>the heads burniſht full bright:</l>
+                  <l>And euery arrow an ell long,</l>
+                  <l>with Peacocke well ydight:</l>
+                  <l>And nocked they were with white ſiluer</l>
+                  <l>it was a ſeemely ſight.</l>
+                  <l>He puruaide him an hundreth men</l>
+                  <l>well harnaſed in that ſtead:</l>
+                  <l>And himſelfe in that ſame ſuite,</l>
+                  <l>and cloathed in white and red.</l>
+                  <l>He bare a launce gay in his hand,</l>
+                  <l>and a man led his male:</l>
+                  <l>and rode with a light ſong</l>
+                  <l>vnto Berniſdale.</l>
+                  <l>As he went vp a bridge was a wraſtling</l>
+                  <l>and there taried was he:</l>
+                  <l>And there was all the beſt yeomen</l>
+                  <l>of all the weſt Cuntrie.</l>
+                  <l>A great courſer with a ſaddle and bridle</l>
+                  <l>with gould burniſht full bright:</l>
+                  <l>A paire of gloues a red gold ring,</l>
+                  <l>a pipe of wine in good fay:</l>
+                  <pb facs="tcp:17475:10"/>
+                  <l>What man beareth him beſt ywis</l>
+                  <l>the prize ſhall beare away.</l>
+                  <l>There was a yeoman in that place</l>
+                  <l>and beſt worthy was he,</l>
+                  <l>And for he was farre and friend beſted</l>
+                  <l>yſlaine he ſhould haue be.</l>
+                  <l>The Knight had ruth of this yeoman</l>
+                  <l>in place where that he ſtood,</l>
+                  <l>He ſaid the yeoman ſhould haue no harm</l>
+                  <l>for the loue of Robin hood.</l>
+                  <l>The Knight preaſed into the place,</l>
+                  <l>an hundreth followed him in feare,</l>
+                  <l>With bowes bent and arrowes ſharpe</l>
+                  <l>for to ſhend that company.</l>
+                  <l>They ſhouldred and made him roome</l>
+                  <l>to wit what he would ſay:</l>
+                  <l>He tooke the yeoman by the hand,</l>
+                  <l>and gaue him all the play,</l>
+                  <l>He gaue him fiue markes for his wine</l>
+                  <l>there it lay then on the mould,</l>
+                  <l>and bad it ſhould be ſet abroach</l>
+                  <l>and drinke who ſo would.</l>
+                  <l>Thus long taried this gentle Knight</l>
+                  <l>till that the play was doone.</l>
+                  <l>So long abode Robin faſting</l>
+                  <l>three houres after noone.</l>
+               </lg>
+            </div>
+            <div n="3" type="fitte">
+               <head>¶ The third fitte.</head>
+               <lg>
+                  <l>LYthe and liſten Gentlemen</l>
+                  <l>all that now be heere,</l>
+                  <l>Of little Iohn that was the Knights man</l>
+                  <l>good mirth ye ſhall heare.</l>
+                  <l>It was vpon a merry day</l>
+                  <l>that yong men would goe ſhoote</l>
+                  <l>Little Iohn fet his bowe anon</l>
+                  <pb facs="tcp:17475:10"/>
+                  <l>and ſaid he would them mnete.</l>
+                  <l>Three times little Iohn ſhot about</l>
+                  <l>and alway claue the wand.</l>
+                  <l>The proud Sheriffe of Nottingham</l>
+                  <l>by the markes gan ſtand.</l>
+                  <l>The Sheriffe ſwore a full great oath</l>
+                  <l>by him that died on a tree,</l>
+                  <l>this man is the beſt archer</l>
+                  <l>that euer I did ſee.</l>
+                  <l>Say me thou wight yong man</l>
+                  <l>what is now thy name:</l>
+                  <l>in what countrie waſt thou borne,</l>
+                  <l>and where is thy wonning wane.</l>
+                  <l>In Holdernes I was borne</l>
+                  <l>ywis of my dame,</l>
+                  <l>Men call me Reinald Greene-leafe.</l>
+                  <l>when I am at home.</l>
+                  <l>Say me Reinald Greene-leafe</l>
+                  <l>Wilt thou dwell with me,</l>
+                  <l>and euery yeare I will thee giue</l>
+                  <l>twenty marke to thy fee.</l>
+                  <l>I haue a Maiſter ſaid little Iohn,</l>
+                  <l>A courteous Knight is he,</l>
+                  <l>may ye get leaue of him the better may it be</l>
+                  <l>The Sheriffe gat little Iohn</l>
+                  <l>twelue monthes of the Knight:</l>
+                  <l>therefore he gaue to him anon</l>
+                  <l>a good horſe and a wight.</l>
+                  <l>Now is little Iohn the Sheriffes man</l>
+                  <l>he giue vs well to ſpeed.</l>
+                  <l>But alway thought little Iohn</l>
+                  <l>to quite him well his meed.</l>
+                  <l>Now ſo God helpe ſaid little Iohn</l>
+                  <l>and by my true lewte</l>
+                  <pb facs="tcp:17475:11"/>
+                  <l>I ſhall be the worſt ſeruant to him</l>
+                  <l>that euer he had yet.</l>
+                  <l>It befell vpon a wedneſday</l>
+                  <l>the Sheriffe on hunting was gone:</l>
+                  <l>and little Iohn lay in his bed</l>
+                  <l>and was forgot at home:</l>
+                  <l>Therefore he was faſting</l>
+                  <l>till it was paſt noone.</l>
+                  <l>Good ſir Steward I pray thee</l>
+                  <l>giue me meat ſaid little Iohn:</l>
+                  <l>It is long for greene-leafe</l>
+                  <l>faſting ſo long to be:</l>
+                  <l>Therefore I pray thee Steward</l>
+                  <l>my dinner giue thou me.</l>
+                  <l>Shalt neither eat nor drinke ſaid the Steward</l>
+                  <l>till my Lord be come to towne</l>
+                  <l>I make mine auow to God ſaid little Iohn</l>
+                  <l>I had leuer to crack thy crowne.</l>
+                  <l>The Butler was vncourteous</l>
+                  <l>there he ſtood on the floore:</l>
+                  <l>He ſtart to the buttery and ſhut faſt the doore</l>
+                  <l>little Iohn gaue the Butler ſuch a rappe</l>
+                  <l>his backe yede nigh in two:</l>
+                  <l>Though he liueth an hundreth winters</l>
+                  <l>the worſe he ſtill ſhall goe.</l>
+                  <l>He ſpurned the doore with his foote</l>
+                  <l>it went ope well and fine:</l>
+                  <l>And there he made a large liuery</l>
+                  <l>both of ale and wine.</l>
+                  <l>Sith you will not dine ſaid little Iohn</l>
+                  <l>I ſhall giue you to drinke:</l>
+                  <l>and thogh you liue this hundreth winter</l>
+                  <l>on little Iohn ſhall ye thinke:</l>
+                  <l>Little Iohn eat and alſo drunke</l>
+                  <pb facs="tcp:17475:11"/>
+                  <l>the while that he would:</l>
+                  <l>the Sheriffe had in the kitchin a Cooke</l>
+                  <l>a ſtout man and a bold.</l>
+                  <l>I make my auow to God ſaid the Cooke</l>
+                  <l>thou art a ſhrewd hine</l>
+                  <l>in an houſ-hold for to dwell</l>
+                  <l>for to aſke thus to dine.</l>
+                  <l>And there he lent little Iohn</l>
+                  <l>good ſtrokes three:</l>
+                  <l>I make mine auow ſaid little Iohn</l>
+                  <l>theſe ſtrokes doe like well me.</l>
+                  <l>Thou art a bold man and a hardie,</l>
+                  <l>and ſo thinketh me:</l>
+                  <l>And ere I paſſe from this place</l>
+                  <l>aſſaied better ſhalt thou be.</l>
+                  <l>Little Iohn drew a good ſword:</l>
+                  <l>The Cooke an other in hand,</l>
+                  <l>they thought nothing to flee</l>
+                  <l>but ſtifly for to ſtand.</l>
+                  <l>There they fought ſore togethrr</l>
+                  <l>two mile way and more:</l>
+                  <l>might neither other harme done</l>
+                  <l>the mountenance of an houre.</l>
+                  <l>I make mine auow to God ſaid little Iohn</l>
+                  <l>and by my true lewte</l>
+                  <l>thou art one of the beſt ſword-men</l>
+                  <l>that euer I ſaw yet.</l>
+                  <l>Couldſt thou ſhoote as well in a bow</l>
+                  <l>to greene-wood thou ſhouldſt with me:</l>
+                  <l>And two times in the yeare thy clothing</l>
+                  <l>changed it ſhould be:</l>
+                  <l>And euery yeare of Robin hood</l>
+                  <l>twenty marke to thy fee.</l>
+                  <l>Put vp thy ſword ſaid the Cooke</l>
+                  <pb facs="tcp:17475:12"/>
+                  <l>and fellowes we will be</l>
+                  <l>Then he fet to little Iohn</l>
+                  <l>the numbles af a Doe:</l>
+                  <l>Good bread and full good wine,</l>
+                  <l>they eat and dranke thereto.</l>
+                  <l>And when they had drunken well</l>
+                  <l>their truthes together they plight,</l>
+                  <l>that they would be with Robin</l>
+                  <l>that ylke day at night:</l>
+                  <l>They hied them to the treaſure-houſe</l>
+                  <l>as faſt as they could gone:</l>
+                  <l>The lockes that were of good ſteele</l>
+                  <l>they brake them euery one:</l>
+                  <l>They tooke away ſiluer Veſſell,</l>
+                  <l>and all that they might get:</l>
+                  <l>Peeces Maſers and ſpoones</l>
+                  <l>would they none forget:</l>
+                  <l>Alſo they tooke the good pence</l>
+                  <l>three hundreth pound and three,</l>
+                  <l>and hied them to Robin hood</l>
+                  <l>vnder the greene-wood tree.</l>
+                  <l>God thee ſaue my deere Maiſter,</l>
+                  <l>and Chriſt thee ſaue and ſee.</l>
+                  <l>And thou ſaid Robin to little Iohn</l>
+                  <l>welcome thou art to me,</l>
+                  <l>and ſo is that good yeoman</l>
+                  <l>that thou haſt brought with thee.</l>
+                  <l>What tydings from Noti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngham</l>
+                  <l>little Iohn tell thou me.</l>
+                  <l>Well thee greeteth the proude Sheriffe</l>
+                  <l>he hath ſent thee heere by me</l>
+                  <l>his Cup and his ſiluer Veſſell,</l>
+                  <l>and three hundreth pound and three</l>
+                  <l>I make mine auow to God ſaid Robin</l>
+                  <pb facs="tcp:17475:12"/>
+                  <l>and by the Trinity</l>
+                  <l>it was neuer by his good will</l>
+                  <l>this good is come to me.</l>
+                  <l>Little Iohn him bethought</l>
+                  <l>on a ſhrewde wile 5. mile in the Forreſt</l>
+                  <l>him happened at his will.</l>
+                  <l>Then he met the proude Sheriffe</l>
+                  <l>hunting with hound and horne.</l>
+                  <l>Little Iohn could his courteſie</l>
+                  <l>and kneeled him beſorne.</l>
+                  <l>God ſaue thee my deere Maiſter:</l>
+                  <l>and Chriſt you ſaue and ſee.</l>
+                  <l>Reinald Greene-leafe ſaid the Sheriffe</l>
+                  <l>where haue you now be.</l>
+                  <l>I haue now be in the Forreſt</l>
+                  <l>a faire ſight can I ſee,</l>
+                  <l>it was one of the faireſt ſights</l>
+                  <l>that euer yet ſaw I me.</l>
+                  <l>Yonder I ſee a right faire Hart</l>
+                  <l>his colour is of greene,</l>
+                  <l>ſeauen ſcore Deere vpon a heard</l>
+                  <l>be with him all by deene,</l>
+                  <l>His tindes be ſo ſharpe Maiſter</l>
+                  <l>of ſixty and well mo,</l>
+                  <l>that I durſt not ſhoote for dread</l>
+                  <l>leaſt they would me ſlo.</l>
+                  <l>I make my auow to God ſaid y<hi rend="sup">e</hi> ſheriffe</l>
+                  <l>that ſight would I faine ſee.</l>
+                  <l>Buske thee thither ward my deere Maiſter</l>
+                  <l>anon and wend with me</l>
+                  <l>The Sheriffe rode and little Iohn</l>
+                  <l>a foote he was full ſmart,</l>
+                  <l>And when they came a fore Robin</l>
+                  <l>Loe heere is the maiſter Ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t,</l>
+                  <pb facs="tcp:17475:13"/>
+                  <l>Still ſtood the proude Sheriffe,</l>
+                  <l>a ſorry man was he:</l>
+                  <l>Woe worth thee Reinald Greenleafe</l>
+                  <l>thou haſt betrayed me.</l>
+                  <l>I make mine auow to God ſaid Iohn</l>
+                  <l>Maiſter ye be to blame:</l>
+                  <l>I was miſſerued of my dinner</l>
+                  <l>when I was with you at home.</l>
+                  <l>Soone he was to ſupper ſet,</l>
+                  <l>and ſerued with ſiluer white:</l>
+                  <l>And when the Sheriffe ſaw his Veſſell</l>
+                  <l>for ſorrow he might not eat.</l>
+                  <l>Make good cheere ſaid Robin hood</l>
+                  <l>Sheriffe of charity:</l>
+                  <l>And for the loue of little Iohn</l>
+                  <l>thy life is graunted to thee.</l>
+                  <l>When they had all ſupped well</l>
+                  <l>the day was all gone:</l>
+                  <l>Robin commanded little Iohn</l>
+                  <l>to draw off his hoſe and ſhoone:</l>
+                  <l>His kertle and his coate a pie</l>
+                  <l>that was furred well and fine:</l>
+                  <l>And tooke him a greene mantle</l>
+                  <l>to lap his body therein.</l>
+                  <l>Robin commanded his wight yeomen</l>
+                  <l>vnder the greene wood tree</l>
+                  <l>that they ſhall lie in that ſorte</l>
+                  <l>that the Sheriffe might them ſee.</l>
+                  <l>All night lay that proud Sheriffe</l>
+                  <l>in his breech and in his ſhirt:</l>
+                  <l>Now wonder it was in greene-wood</l>
+                  <l>though his ſides doe ſmart.</l>
+                  <l>Make glad ſaid Robin hood</l>
+                  <l>Sheriffe for charity:</l>
+                  <pb facs="tcp:17475:13"/>
+                  <l>For this is our order ywis</l>
+                  <l>vnder the greene-wood tree.</l>
+                  <l>This is harder order ſaid the Sheriffe</l>
+                  <l>then any ancre or frere:</l>
+                  <l>For all the gold in merry England</l>
+                  <l>I would not dwell long heere.</l>
+                  <l>All theſe twelue monthes ſaid Robin</l>
+                  <l>thou ſhalt dwell with me,</l>
+                  <l>I ſhall thee teach proude Sheriffe</l>
+                  <l>an out-law for to be.</l>
+                  <l>Or I heere an other night lie</l>
+                  <l>Robin now I pray thee</l>
+                  <l>Smite off my head rather to morne,</l>
+                  <l>Let me goe then ſaid the Sheriffe</l>
+                  <l>and I forgiue it thee:</l>
+                  <l>for Saint Chaiity:</l>
+                  <l>and I will be the beſt friend</l>
+                  <l>thar euer yet had ye.</l>
+                  <l>Thou ſhalt ſweare me an oath ſaid Robin</l>
+                  <l>on my bright brand,</l>
+                  <l>Thou ſhalt neuer wait me ſcath</l>
+                  <l>by water nor by land.</l>
+                  <l>And if thou finde any of my men</l>
+                  <l>by night or elſe by day</l>
+                  <l>vppon thine oath thou ſhalt ſweare</l>
+                  <l>to helpe them that thou may.</l>
+                  <l>Now hath the Sheriffe ſworne his oath</l>
+                  <l>and home againe to gone,</l>
+                  <l>He was full of greene-wood</l>
+                  <l>as euer was any man.</l>
+               </lg>
+            </div>
+            <div n="4" type="fitte">
+               <pb facs="tcp:17475:14"/>
+               <head>¶ The fourth fitte.</head>
+               <lg>
+                  <l>THe Sheriffe dwelt in Nottingham</l>
+                  <l>he was faine that he was gon:</l>
+                  <l>and Robin and his merry men</l>
+                  <l>went to wood anon.</l>
+                  <l>Goe we to dinner ſaid little Iohn:</l>
+                  <l>but Robin ſaid nay,</l>
+                  <l>for I dread our Lady be wrath with me</l>
+                  <l>for ſhe ſent me not my pay.</l>
+                  <l>Haue no doubt Maiſter ſaid little Iohn</l>
+                  <l>yet is not the Sunne at reſt,</l>
+                  <l>for I dare ſweare and ſafely ſweare</l>
+                  <l>the Knight is true and truſt.</l>
+                  <l>Take thy bowe in thy hand ſaid Robin</l>
+                  <l>let Much wend with thee,</l>
+                  <l>and ſo ſhall William Scathlock</l>
+                  <l>and no man abide with me,</l>
+                  <l>and vp into the ſayles,</l>
+                  <l>and to watling ſtreet,</l>
+                  <l>and looke for ſome ſtrange gueſt,</l>
+                  <l>by chance you may them meet:</l>
+                  <l>Whither he be Meſſenger,</l>
+                  <l>or man that mirths can,</l>
+                  <l>or if he be a poore man</l>
+                  <l>of my goods he ſhall haue ſome.</l>
+                  <l>Foorth then ſtart little Iohn</l>
+                  <l>halfe in a fray and teene,</l>
+                  <l>and girt him with a full good ſword</l>
+                  <l>vnder a mantle of greene.</l>
+                  <l>They went then vnto the Sayles</l>
+                  <l>theſe yeomen all three,</l>
+                  <l>they looked Eaſt they looked Weſt</l>
+                  <l>they might no man ſee,</l>
+                  <l>But as they looked in Berniſdale</l>
+                  <pb facs="tcp:17475:14"/>
+                  <l>by the high way</l>
+                  <l>they were ware of two black Monkes</l>
+                  <l>each on a good palfray.</l>
+                  <l>Then beſpake little Iohn</l>
+                  <l>to Much he gan ſay,</l>
+                  <l>I dare lay my life to wed</l>
+                  <l>theſe Monkes haue brought our pay.</l>
+                  <l>Make glad cheere ſaid little Iohn,</l>
+                  <l>and bend we our bowes of ewe,</l>
+                  <l>and looke our hearts be ſyker and ſad</l>
+                  <l>your ſtrings truſty and true,</l>
+                  <l>the Monke hath but fifty and two man</l>
+                  <l>and ſeouen ſommers full ſtrong,</l>
+                  <l>there rideth no Byſhop in this land</l>
+                  <l>ſo royall I vnderſtand.</l>
+                  <l>Bretheren ſaid little Iohn</l>
+                  <l>heere are no more but we three,</l>
+                  <l>but we bring them to dinner</l>
+                  <l>our Maiſter dare we not ſee.</l>
+                  <l>Bend your bowes ſaid little Iohn,</l>
+                  <l>make you youder Prieſt to ſtand,</l>
+                  <l>the formoſt Monk his life and his death</l>
+                  <l>is cloaſed in my hand.</l>
+                  <l>Abide churle Monke ſaid little Iohn,</l>
+                  <l>no farther that thou gon,</l>
+                  <l>if thou doeſt by deere worthy God</l>
+                  <l>thy death is in my hand.</l>
+                  <l>An euill thrift on thy head ſaid little Iohn</l>
+                  <l>right vnder thy hattes band,</l>
+                  <l>for thou haſt made our Maiſter wrath</l>
+                  <l>he is faſting ſo long.</l>
+                  <l>What hight your Maiſter ſaid the Monke</l>
+                  <l>Little Iohn ſaid Robin hood:</l>
+                  <l>He is a ſtrong theefe ſaid the Monke</l>
+                  <pb facs="tcp:17475:15"/>
+                  <l>of him heard I neuer good.</l>
+                  <l>Thou lieſt then ſaid little Iohn</l>
+                  <l>and that ſhall ſore rue thee.</l>
+                  <l>He is a yeoman of the Forreſt</l>
+                  <l>to dine he hath bode thee.</l>
+                  <l>Much was ready with a Bowe</l>
+                  <l>ready and anone.</l>
+                  <l>He ſet the monke to fore the breſt</l>
+                  <l>to the ground he gan gone</l>
+                  <l>Of two and fiftie wight yeomen</l>
+                  <l>there abode but one</l>
+                  <l>Saue a little Page and a groome</l>
+                  <l>to leade the ſommers with little Iohn.</l>
+                  <l>they brought the monk to the lodge dore</l>
+                  <l>whither he were loth or leefe</l>
+                  <l>For to ſpeake with Robin</l>
+                  <l>mangre in their teeth</l>
+                  <l>Robin did downe his hood</l>
+                  <l>the monke when he did ſee</l>
+                  <l>the monke was not ſo curteiſe</l>
+                  <l>his hood then let it be.</l>
+                  <l>He is a churle maiſter by deere worthy God</l>
+                  <l>then ſaid little Iohn:</l>
+                  <l>Thereof no force ſaid Robin</l>
+                  <l>for curteſie can he none.</l>
+                  <l>How many men ſaid Robin</l>
+                  <l>had this monke Iohn:</l>
+                  <l>Fifty and two, when that we met</l>
+                  <l>but many of them be gon.</l>
+                  <l>Let blowe we a horne ſaid Robin</l>
+                  <l>that fellowſhip may vs knowe</l>
+                  <l>Seuen ſcore of wight yeomen</l>
+                  <l>came pricking on a rowe</l>
+                  <l>And euerich of them a good mantell</l>
+                  <pb facs="tcp:17475:15"/>
+                  <l>of ſcarlet and of raye,</l>
+                  <l>All they came to good Robin</l>
+                  <l>to wete what he would ſaie</l>
+                  <l>They made the monke to waſh &amp; wipe</l>
+                  <l>and ſit at his diner:</l>
+                  <l>Robin hood and little Iohn</l>
+                  <l>they ſerued him both in fere.</l>
+                  <l>Doo gladly monke ſaid Robin</l>
+                  <l>gramercy ſir ſaid hee:</l>
+                  <l>Where is your abbay when you are at home</l>
+                  <l>and who is your auowe</l>
+                  <l>Saint Mary abbay ſaid the monke</l>
+                  <l>though I be ſimple here.</l>
+                  <l>In what office ſaid Robin</l>
+                  <l>ſir the hie Sellerere.</l>
+                  <l>Ye be the more welcome ſaid Robin</l>
+                  <l>So mote I thriue of thee</l>
+                  <l>Fill of the beſt wine ſaid Robin</l>
+                  <l>this monke ſhall drinke to me</l>
+                  <l>But I haue great maruaile ſaid Robin</l>
+                  <l>of all this long day,</l>
+                  <l>I dread our Lady be wrath with me</l>
+                  <l>ſhe ſent me not my pay.</l>
+                  <l>haue no dout maiſter ſaid little Iohn ſwere</l>
+                  <l>you neede not ſo to ſay</l>
+                  <l>This monk hath brought it I dare well</l>
+                  <l>for he is of her abbay.</l>
+                  <l>She was a borrowe ſaid Robin</l>
+                  <l>betweene a knight and me</l>
+                  <l>Of a little money that I him lent</l>
+                  <l>vnder the greene wood tree:</l>
+                  <l>And if thou haſt the mony brought</l>
+                  <l>I pray thee let me ſee</l>
+                  <l>And I ſhall helpe thee eft againe</l>
+                  <pb facs="tcp:17475:16"/>
+                  <l>if thou haue need of me.</l>
+                  <l>The Monke ſwore a full great oath</l>
+                  <l>with a ſorry cheere,</l>
+                  <l>of the borrowhood thou ſpeakeſt to me</l>
+                  <l>heard I neuer ere.</l>
+                  <l>I make my auow to God ſaid Robin</l>
+                  <l>Monke thou art too blame,</l>
+                  <l>for God is hold a right wiſe man,</l>
+                  <l>and ſo is his Dame:</l>
+                  <l>Thou toldeſt with thine owne tongue</l>
+                  <l>thou maiſt it not denay,</l>
+                  <l>how thou art her ſeruant,</l>
+                  <l>and ſerueſt her euery day:</l>
+                  <l>And thou art her Meſſenger</l>
+                  <l>my money for to pay,</l>
+                  <l>therefore I doe thee thanke</l>
+                  <l>thou art come at thy day.</l>
+                  <l>What is in your coffers ſaid Robin,</l>
+                  <l>truth then tell thou me,</l>
+                  <l>Sir he ſaid twenty marke,</l>
+                  <l>ſo mought I thriue and thee.</l>
+                  <l>If there be no more ſaid Robin</l>
+                  <l>I will not take one penny,</l>
+                  <l>if thou haſt need of any more</l>
+                  <l>ſir more ſhall I lend thee:</l>
+                  <l>And if I finde more ſaid Robin,</l>
+                  <l>ywis thou ſhalt it forgone,</l>
+                  <l>for of thy ſpending money Monke</l>
+                  <l>thereof I will haue none.</l>
+                  <l>Goe now foorth little Iohn,</l>
+                  <l>and the truth tell thou me,</l>
+                  <l>if there be no more but twenty marke,</l>
+                  <l>no penny let me ſee.</l>
+                  <l>Little Iohn laid his mantle downe,</l>
+                  <pb facs="tcp:17475:16"/>
+                  <l>as he had done before,</l>
+                  <l>and told out of the Mankes male</l>
+                  <l>eight hundreth pound and more.</l>
+                  <l>Little Iohn let it lie full ſtill,</l>
+                  <l>and went to his Maiſter in haſt:</l>
+                  <l>Sir he ſaid the Monke is true now,</l>
+                  <l>our Lady hath doubled your coſt.</l>
+                  <l>I make mine auow to God ſaid Robin</l>
+                  <l>Monke that told I thee:</l>
+                  <l>Our Lady is the trueſt woman</l>
+                  <l>that euer yet found I me.</l>
+                  <l>By deere worthy God ſaid Robin,</l>
+                  <l>to ſeeke all England thorow,</l>
+                  <l>yet found I neuer to my pay</l>
+                  <l>a much better borrow.</l>
+                  <l>Fill of the beſt wine &amp; to him drinke ſaid Robin</l>
+                  <l>and greet well thy Lady hend,</l>
+                  <l>and if ſhe haue need of Robin hood,</l>
+                  <l>a friend ſhe ſhall him finde:</l>
+                  <l>And if ſhe haue need of any more ſiluer</l>
+                  <l>come thou againe to me,</l>
+                  <l>and by this token ſhe hath me ſent</l>
+                  <l>ſhe ſhall haue ſuch three.</l>
+                  <l>The Monk was going to Londonward</l>
+                  <l>there to hold great mote,</l>
+                  <l>the Knight that rode ſo hie on horſe</l>
+                  <l>to bring him vnder foot.</l>
+                  <l>Whither be ye away ſaid Robin,</l>
+                  <l>ſir to manners in this land,</l>
+                  <l>to reckon with our reues,</l>
+                  <l>that haue done much wrong.</l>
+                  <l>Come now foorth little Iohn</l>
+                  <l>and hearken to my tale,</l>
+                  <l>a better yeoman I know none</l>
+                  <pb facs="tcp:17475:17"/>
+                  <l>to ſeeke a Monkes male.</l>
+                  <l>And what is in y<hi rend="sup">e</hi> other coffer ſaid Ro<g ref="char:EOLhyphen"/>bin</l>
+                  <l>the ſoothe we muſt ſee</l>
+                  <l>By our Lady ſaid the Monk</l>
+                  <l>that were no curteſie</l>
+                  <l>To bid a man to dinner</l>
+                  <l>and ſith him beate and binde.</l>
+                  <l>It is our olde manner ſaid Robin</l>
+                  <l>to leaue but little behinde.</l>
+                  <l>The Monk tooke the horſe with ſpurre</l>
+                  <l>no longer would abide.</l>
+                  <l>Aſke to drinke then ſaid Robin</l>
+                  <l>or that ye farther ride.</l>
+                  <l>Nay for God ſaid the Monk</l>
+                  <l>Me rueth I came ſo neere</l>
+                  <l>For better chepe I might haue dined</l>
+                  <l>in Blithe or Dancaſter.</l>
+                  <l>Greet well your Abbot ſaid Robin</l>
+                  <l>and your Priour I you pray</l>
+                  <l>And bid hun ſend me ſuch a Monk</l>
+                  <l>to dinner euery day.</l>
+                  <l>Now let we that Monk be ſtill</l>
+                  <l>and ſpeake we of that knight</l>
+                  <l>Yet he came to holde his day</l>
+                  <l>while that it was light</l>
+                  <l>He did him ſtraight to Berneſdale</l>
+                  <l>vnder the greenwood tree:</l>
+                  <l>And he found there Robin hood</l>
+                  <l>and all his merry menie.</l>
+                  <l>The Knight light from his good palfrey</l>
+                  <l>Robin when he can ſee,</l>
+                  <l>Right curteouſly he did down his hood</l>
+                  <l>and ſet him on his knee.</l>
+                  <l>God thee ſaue good Robin hood</l>
+                  <pb facs="tcp:17475:17"/>
+                  <l>and all this company.</l>
+                  <l>Welcome be thou gentle Knight,</l>
+                  <l>and right welcome to me:</l>
+                  <l>Then beſpoke good Robin</l>
+                  <l>to that Knight ſo free:</l>
+                  <l>What need driueth thee to greene-wood</l>
+                  <l>I pray thee ſir Knight tell me,</l>
+                  <l>and welcome be thou gentle Knight,</l>
+                  <l>why haſt thou be ſo long:</l>
+                  <l>The Abbot and the high Iuſtice</l>
+                  <l>they would haue had my land.</l>
+                  <l>Haſt thou thy land againe ſaid Robin,</l>
+                  <l>truth then tell thou me:</l>
+                  <l>Yea for God then ſaid the Knight,</l>
+                  <l>and thanke I God and thee.</l>
+                  <l>But take no griefe ſaid the Knight</l>
+                  <l>that I haue be ſo long,</l>
+                  <l>I came by a wraſtling,</l>
+                  <l>and there did I helpe a poore yeoman</l>
+                  <l>with wrong they put behinde,</l>
+                  <l>Now by my truth then ſaid Robin,</l>
+                  <l>for that Knight thanke I thee,</l>
+                  <l>what man that helpeth a good yeoman</l>
+                  <l>his friend then will I be.</l>
+                  <l>Haue heere cccc. pound ſaid the Knight</l>
+                  <l>the which ye lent to me:</l>
+                  <l>And there is xx. marke for your curteſie.</l>
+                  <l>Nay fore God ſaid Robin</l>
+                  <l>thou brooke it well for ay,</l>
+                  <l>for our Lady by her hie Sellerer</l>
+                  <l>hath ſent to me my pay,</l>
+                  <l>and I ſhould take it twice</l>
+                  <l>a ſhame it were for me,</l>
+                  <l>but truely gentle Knight</l>
+                  <pb facs="tcp:17475:18"/>
+                  <l>welcome thou art to me.</l>
+                  <l>And when Robin had tolde his tale,</l>
+                  <l>he laughed and made good cheere:</l>
+                  <l>By my troth then ſaid the knight</l>
+                  <l>your mony is ready heere.</l>
+                  <l>Brooke it well ſaid Robin</l>
+                  <l>thou gentle knight ſo free,</l>
+                  <l>And welcome be thou gentleknight</l>
+                  <l>vnder this truſty tree:</l>
+                  <l>But what ſhall theſe Bowes do he ſaid</l>
+                  <l>and theſe Arrowes fethered free,</l>
+                  <l>By God then ſaid the gentle knight</l>
+                  <l>a poore preſent to thee.</l>
+                  <l>Come now foorth little Iohn</l>
+                  <l>my will doone that it be,</l>
+                  <l>Go and fetch me foure hundreth pounds</l>
+                  <l>the monk ouer tolde it me:</l>
+                  <l>Haue heere foure hundreth pound</l>
+                  <l>thou gentle Knight and true,</l>
+                  <l>And buye thee horſe and harnes good</l>
+                  <l>and gilt thy ſpucres all newe:</l>
+                  <l>And if thou faile any ſpending</l>
+                  <l>come to Robin hood,</l>
+                  <l>And by my troth thou ſhalt not faile</l>
+                  <l>whilſte I haue any good:</l>
+                  <l>And brook well for thy hundreth pound</l>
+                  <l>which I did ſend to thee,</l>
+                  <l>And make thy ſelfe no more ſo bare</l>
+                  <l>by the counſaile of me.</l>
+                  <l>Thus then holpe him good Robin</l>
+                  <l>the Knight of all his care,</l>
+                  <l>God that ſitteth in heauen hie</l>
+                  <l>graunt vs well to fare.</l>
+               </lg>
+            </div>
+            <div n="5" type="fitte">
+               <pb facs="tcp:17475:18"/>
+               <head>¶ The fift fitte.</head>
+               <lg>
+                  <l>NOw hath the Knight his leane take</l>
+                  <l>and wend him on his way,</l>
+                  <l>Robin hood and his merry men</l>
+                  <l>dwell ſtill full many a day.</l>
+                  <l>Lythe and liſten Gentlemen,</l>
+                  <l>and hearken what I ſhall ſay,</l>
+                  <l>how the proud Sheriffe of Nottingham</l>
+                  <l>did crie a full faire play,</l>
+                  <l>that all the beſt archers of the North</l>
+                  <l>ſhould come vpon a day,</l>
+                  <l>and they that ſhoote all of the beſt</l>
+                  <l>the beſt ſhall beare away,</l>
+                  <l>He that ſhooteth all of the beſt</l>
+                  <l>furtheſt faire and low,</l>
+                  <l>at a paire of goodly Buttes</l>
+                  <l>vnder the greene wood ſhawe,</l>
+                  <l>a right good Arrow he ſhould haue</l>
+                  <l>the ſhaft of ſiluer white,</l>
+                  <l>the head and feathers of richred gold,</l>
+                  <l>in England is none the like.</l>
+                  <l>This then heard good Robin</l>
+                  <l>vnder his truſty tree:</l>
+                  <l>Make ye ready you wight yeomen,</l>
+                  <l>that ſhooting will I ſee,</l>
+                  <l>buske you my merry yeomen</l>
+                  <l>ye ſhall goe with me:</l>
+                  <l>And I ſhall know the Sheriffes faith</l>
+                  <l>true and if he be.</l>
+                  <l>When they had their vowes ybend,</l>
+                  <l>their arrowes fethered free,</l>
+                  <l>ſeauenſcore wight yeomen</l>
+                  <l>ſtood by Robins knee.</l>
+                  <l>When they came to Nottingham</l>
+                  <pb facs="tcp:17475:19"/>
+                  <l>the Buttes were faire and long:</l>
+                  <l>Many were the bold archers</l>
+                  <l>that ſhot with bowes ſtrong:</l>
+                  <l>There ſhall but ſixe ſhoote with me,</l>
+                  <l>the other ſhall keepe my head,</l>
+                  <l>and ſtand with good bowes bent</l>
+                  <l>that I be not deceiued:</l>
+                  <l>The firſt out-law his vowe gan bend,</l>
+                  <l>and that was Robin hood:</l>
+                  <l>and that beheld the proud Sheriffe</l>
+                  <l>all by the buttes where he ſtood.</l>
+                  <l>Thrice Robin ſhot about,</l>
+                  <l>and alway he claue the wand:</l>
+                  <l>And ſo did good Gilbert</l>
+                  <l>with the lilly-white hand.</l>
+                  <l>Little Iohn and good Scathlock</l>
+                  <l>were archers good and free,</l>
+                  <l>little Much and good Reinald</l>
+                  <l>the worſt they would not be.</l>
+                  <l>When they had ſhot about</l>
+                  <l>theſe archers faire and good,</l>
+                  <l>euermore then was the beſt</l>
+                  <l>for ſooth Robin hood.</l>
+                  <l>To him was deliuered the good Arrow,</l>
+                  <l>for beſt worthy was he,</l>
+                  <l>he tooke the guift full curteouſly,</l>
+                  <l>to greene-wood then would he.</l>
+                  <l>They cried out on Robin hood,</l>
+                  <l>a great horne gan he blow:</l>
+                  <l>Woe worth thee treaſon ſaid Robin</l>
+                  <l>for euill tohu art to know:</l>
+                  <l>And woe be to thee thou proud Sheriffe</l>
+                  <l>thus cheering thy gueſt,</l>
+                  <l>an other promiſe thou madeſt to me</l>
+                  <pb facs="tcp:17475:19"/>
+                  <l>within the greene forreſt:</l>
+                  <l>But and I had thee there againe</l>
+                  <l>vnder the truſty tree,</l>
+                  <l>thou ſhouldeſt giue me a better wed</l>
+                  <l>then thy true lewte,</l>
+                  <l>Full many a bowe there was bent,</l>
+                  <l>and arrowes let they glide:</l>
+                  <l>Many a kirtle there was torne,</l>
+                  <l>and hurt many a ſide.</l>
+                  <l>The out-lawes ſhot was ſo ſtrong,</l>
+                  <l>that no man might them driue,</l>
+                  <l>and the proud Sheriffes men</l>
+                  <l>they fled away beliue,.</l>
+                  <l>Robin ſaw the buſhment broke,</l>
+                  <l>in greene-wood he would haue be,</l>
+                  <l>many an arrow there was ſhot</l>
+                  <l>among the company.</l>
+                  <l>Little Iohn he was hurt full ſore</l>
+                  <l>with an arrow on the knee,</l>
+                  <l>that he might neither goe nor ride,</l>
+                  <l>it was full great pitty.</l>
+                  <l>Maiſter then ſaid little Iohn</l>
+                  <l>if euer you loued me,</l>
+                  <l>and for that ylke Lords loue</l>
+                  <l>that died vpon a tree,</l>
+                  <l>and for the meeds of my ſeruice</l>
+                  <l>that I haue ſerued thee,</l>
+                  <l>let neuer the proud Sheriffe</l>
+                  <l>aliue now finde me,</l>
+                  <l>but take out thy browne ſword,</l>
+                  <l>and ſmite thou off my head,</l>
+                  <l>and giue me wounds ſo wide and long</l>
+                  <l>that I after eat no bread.</l>
+                  <l>I would not ſaid Robin</l>
+                  <pb facs="tcp:17475:20"/>
+                  <l>Iohn that thou wert ſlaine</l>
+                  <l>for all the gold in merry England</l>
+                  <l>though I had it all by me.</l>
+                  <l>God forbid that ſaid little Much then</l>
+                  <l>that died on a tree</l>
+                  <l>that thou ſhouldſt little Iohn</l>
+                  <l>depart our company:</l>
+                  <l>Vp he tooke him on his back,</l>
+                  <l>and bare hun well a mile,</l>
+                  <l>many a time he ſet him downe</l>
+                  <l>and ſhot another while.</l>
+                  <l>Then was there a faire Caſtle</l>
+                  <l>a little within the wood,</l>
+                  <l>double ditched it was about,</l>
+                  <l>and walled by the Rood:</l>
+                  <l>And there dwelt that gentle Knight</l>
+                  <l>ſir Richard of the Lee</l>
+                  <l>that Robin had lent his good</l>
+                  <l>vnder the greene wood tree.</l>
+                  <l>In he tooke good Robin,</l>
+                  <l>and all his company:</l>
+                  <l>Welcome Robin hood</l>
+                  <l>welcome art thou to me,</l>
+                  <l>I doo thee thanke for thy comfort</l>
+                  <l>and for thy curteſie</l>
+                  <l>And for thy great kindenes,</l>
+                  <l>vnder the greene wood tree,</l>
+                  <l>I loue no man in all the world</l>
+                  <l>ſo much as I doo thee:</l>
+                  <l>For all the proud Sheriffe of Noting<g ref="char:EOLhyphen"/>ham</l>
+                  <l>right heere ſhalt thou be.</l>
+                  <l>Shut the gates and draw the bridge</l>
+                  <l>and let no man come in,</l>
+                  <l>And arme you well and make you ready</l>
+                  <pb facs="tcp:17475:20"/>
+                  <l>and to the wall ye win.</l>
+                  <l>For one thing Robin I thee hite,</l>
+                  <l>And ſweare by Saint Quintine,</l>
+                  <l>thou ſhalt theſe twelue daies abide with me</l>
+                  <l>to ſup, eat and dine.</l>
+                  <l>Boordes were laid and cloathes were ſpread</l>
+                  <l>ready and anon</l>
+                  <l>Robin hood and his merry men</l>
+                  <l>to meat gan they gon.</l>
+               </lg>
+            </div>
+            <div n="6" type="fitte">
+               <head>
+                  <g ref="char:cross">✚</g> The ſixt fitte.</head>
+               <lg>
+                  <l>LYthe and liſten Gentlemen,</l>
+                  <l>and hearken vnto the ſong,</l>
+                  <l>how the proud Sheriffe began,</l>
+                  <l>and men of armes ſtrong</l>
+                  <l>full faſt came to the hie Sheriffe</l>
+                  <l>the countrie vp to rout,</l>
+                  <l>and they beſet the Knights Caſtle</l>
+                  <l>the walls all about.</l>
+                  <l>The proud Sheriffe loude gan crie,</l>
+                  <l>and ſaid thou traytor Knight,</l>
+                  <l>thou keepeſt there the Kings enemies</l>
+                  <l>againſt all law and right.</l>
+                  <l>Sir I will anow what I haue doone,</l>
+                  <l>the deeds that heere be dight,</l>
+                  <l>vpon all the lands that I haue</l>
+                  <l>as I am true Knight:</l>
+                  <l>Wend foorth ſirs on your way,</l>
+                  <l>and doe ye no more to me</l>
+                  <l>till you wit your Kings will</l>
+                  <l>what he will ſay to thee.</l>
+                  <l>The Sheriffe thus had his anſwere</l>
+                  <l>without any leaſing:</l>
+                  <l>Forth he went to London Town</l>
+                  <l>all for to tell our King,</l>
+                  <pb facs="tcp:17475:21"/>
+                  <l>there he told him of that Knight,</l>
+                  <l>and eke of Robin hood,</l>
+                  <l>and alſo of the bold archers,</l>
+                  <l>that noble were and good,</l>
+                  <l>he would auow that he had done</l>
+                  <l>to maintaine the out-lawes ſtrong</l>
+                  <l>he would be Lord and ſet you at naught</l>
+                  <l>in all the north land.</l>
+                  <l>I will be at Nottingham ſaid the King</l>
+                  <l>within this fortnight,</l>
+                  <l>and take I will Robin hood,</l>
+                  <l>and ſo will I that Knight.</l>
+                  <l>Goe home thou proude Sheriffe,</l>
+                  <l>and doe as I you bid,</l>
+                  <l>and ordaine good archers enough</l>
+                  <l>of all the wide country.</l>
+                  <l>The Sheriffe had his leaue ytake,</l>
+                  <l>and went him on his way:</l>
+                  <l>And Robin hood to greene-wood</l>
+                  <l>vpon a certaine day.</l>
+                  <l>And little Iohn was hole of the arrow</l>
+                  <l>that was ſhot in his knee:</l>
+                  <l>And did him ſtrait to Robin hood</l>
+                  <l>vnder the greene-wood tree.</l>
+                  <l>Robin hood walked in the Forreſt,</l>
+                  <l>vnder the leaues greene,</l>
+                  <l>the proud Sheriffe of Nottingham</l>
+                  <l>therefore had great teene.</l>
+                  <l>The Sheriffe there he failed of Robin hood</l>
+                  <l>he might not haue his pray,</l>
+                  <l>then he awaited that gentle Knight</l>
+                  <l>both by night and day,</l>
+                  <l>euer awaited that gentle Knight</l>
+                  <l>ſir Richard of the Lee:</l>
+                  <pb facs="tcp:17475:21"/>
+                  <l>As he went on banking by the riuer ſide</l>
+                  <l>and let his Hauke flee.</l>
+                  <l>To betray this gentle knight</l>
+                  <l>with men of armes ſtrong,</l>
+                  <l>And led him home to Notingham-ward</l>
+                  <l>ybound both foote and hand,</l>
+                  <l>The Sheriffe ſwore a full great oath</l>
+                  <l>by him that died on a tree,</l>
+                  <l>he had rather then a hundreth pound</l>
+                  <l>that Robin hood had hee.</l>
+                  <l>Then the Lady the Knights wife.</l>
+                  <l>a faire Lady and free,</l>
+                  <l>ſhe ſet her on a good Palfray,</l>
+                  <l>to greene-wood anon rode ſhee:</l>
+                  <l>When ſhe came to the Forreſt.</l>
+                  <l>vnder the greene-wood tree</l>
+                  <l>there found ſhe Robin hood,</l>
+                  <l>and all his merry menye:</l>
+                  <l>God thee ſaue good Robin,</l>
+                  <l>and all thy company:</l>
+                  <l>For our deere Ladies loue</l>
+                  <l>a boon grant thou me:</l>
+                  <l>Let thou neuer my wedded Lord</l>
+                  <l>ſhamefully ſlaine be:</l>
+                  <l>He is faſt bound to Nottingham-ward</l>
+                  <l>for the loue of thee:</l>
+                  <l>Anon then ſaid good Robin</l>
+                  <l>to that Lady free,</l>
+                  <l>What man hath thy Lord ytake?</l>
+                  <l>The proud Sheriffe then ſaid ſhe,</l>
+                  <l>he is not yet paſſed three miles,</l>
+                  <l>you may them ouertake,</l>
+                  <l>Vp then ſtart good Robin</l>
+                  <l>as a man that had beene wake.</l>
+                  <pb facs="tcp:17475:22"/>
+                  <l>Buske ye my merry yeomen</l>
+                  <l>for him that dyed on a tree,</l>
+                  <l>And he that this ſorrow forſaketh</l>
+                  <l>by him that dyed on a tree.</l>
+                  <l>And by him that all things maketh</l>
+                  <l>no lenger ſhall dwell with me:</l>
+                  <l>Soone there were good vowes ybent</l>
+                  <l>more then ſeuen ſcore,</l>
+                  <l>Hedge ne ditche they ſpared none</l>
+                  <l>that was them before.</l>
+                  <l>I make mine auow to God ſaid Robin</l>
+                  <l>the Knight would I faine ſee,</l>
+                  <l>And if ye may him ouertake</l>
+                  <l>yquight then ſhall he be.</l>
+                  <l>And when they came to Nottingham</l>
+                  <l>they walked in the ſtreet,</l>
+                  <l>And with the proud Sheriffe ywis</l>
+                  <l>ſoon gan they meet.</l>
+                  <l>Abide thou proud Sheriffe he ſaid</l>
+                  <l>abide and ſpeake with me,</l>
+                  <l>Of ſome tidings of our King</l>
+                  <l>I would faine heare of thee,</l>
+                  <l>this ſeauen yeere by deere worthy God</l>
+                  <l>ne yede I ſo faſt on foot.</l>
+                  <l>I make mine auow to God thou proud ſheriffe</l>
+                  <l>that is not for thy boote:</l>
+                  <l>Robin bent a good Bowe</l>
+                  <l>An arrow he drew at his will,</l>
+                  <l>He hit ſo the proud ſheriffe</l>
+                  <l>vpon the ground he lay full ſtill.</l>
+                  <l>And ere he might vp ariſe</l>
+                  <l>on his feet to ſtand,</l>
+                  <l>He ſmote of the ſheriffes head</l>
+                  <l>with his bright brand.</l>
+                  <pb facs="tcp:17475:22"/>
+                  <l>Lye thou there the proud ſheriffe</l>
+                  <l>euill may thou thriue,</l>
+                  <l>there might no man to thee truſt</l>
+                  <l>the whiles thou were aliue.</l>
+                  <l>His men drew out their bright ſwordes</l>
+                  <l>that were ſo ſharpe and keene,</l>
+                  <l>And laid it on the Sheriffes men</l>
+                  <l>and driue them downe by deene.</l>
+                  <l>Robin ſtart to that knight</l>
+                  <l>and cut in twe his band,</l>
+                  <l>And tooke him in his hand a Bowe</l>
+                  <l>and bad him by him ſtand.</l>
+                  <l>Leaue thy horſe thee behinde</l>
+                  <l>and learn for to renne,</l>
+                  <l>Thou ſhalt with me to greene wood</l>
+                  <l>through mire, moſſe and feene.</l>
+                  <l>thou ſhalt with me to greenewood</l>
+                  <l>without any leaſind,</l>
+                  <l>till that I haue get vs grace</l>
+                  <l>of Edward our comely King.</l>
+               </lg>
+            </div>
+            <div n="7" type="fitte">
+               <lg>
+                  <head>
+                     <g ref="char:cross">✚</g> The vii. fitte.</head>
+                  <l>THe King came to Nottingham</l>
+                  <l>with knights in great aray,</l>
+                  <l>For to take that gentle Knight</l>
+                  <l>and Robin hood if he may.</l>
+                  <l>He aſked them of that country</l>
+                  <l>after Robin hood</l>
+                  <l>And after that gentle knight</l>
+                  <l>that was ſo boulde and ſtout,</l>
+                  <l>when they had tolde him the caſe</l>
+                  <l>our King vnderſtood their tale,</l>
+                  <l>And ſeaſed in his hand</l>
+                  <l>all the knights land:</l>
+                  <l>The compaſſe of Lankaſhire</l>
+                  <pb facs="tcp:17475:23"/>
+                  <l>he wend both farre and neere.</l>
+                  <l>Till he came to Plumpton parke</l>
+                  <l>he fayled many of his Deere.</l>
+                  <l>There the king was wont to ſee</l>
+                  <l>heards many a one,</l>
+                  <l>He could vnneth finde any Deere</l>
+                  <l>that bare any good horne.</l>
+                  <l>the King was wonder wroth withall</l>
+                  <l>and ſwore by the Trinitie,</l>
+                  <l>I would I had Robin hood</l>
+                  <l>with eyes I might him ſee.</l>
+                  <l>And he that would ſmite of the knights head</l>
+                  <l>and bring it vnto mee.</l>
+                  <l>He ſhould haue the knights lands</l>
+                  <l>ſir Richard of the Lee:</l>
+                  <l>I giue it him with my charter</l>
+                  <l>and ſeale it with my hand,</l>
+                  <l>To haue and holde for euermore</l>
+                  <l>in all merry England,</l>
+                  <l>than beſpake a faire olde knight</l>
+                  <l>that was true in his fay,</l>
+                  <l>O my lege Lord the King</l>
+                  <l>one word I ſhall you ſay:</l>
+                  <l>there is no man in this country</l>
+                  <l>may haue the knights lands,</l>
+                  <l>While Robin hood may ride or gone</l>
+                  <l>and beare a Bowe in his hands.</l>
+                  <l>that he ne ſhall loſe his head</l>
+                  <l>that is his beſt ball in his hood,</l>
+                  <l>Giue it to no man my Lord the King</l>
+                  <l>that ye will any good.</l>
+                  <l>Halfe a yere dwelled our comely King</l>
+                  <l>in Nottingham and well more,</l>
+                  <l>Could he not heare of Robin hood</l>
+                  <pb facs="tcp:17475:23"/>
+                  <l>in what country that he were,</l>
+                  <l>but allway went good Robin</l>
+                  <l>by halt and eke by hill,</l>
+                  <l>and alway he ſlew the Kings Dere,</l>
+                  <l>and vſed them at his will.</l>
+                  <l>Than beſpake a proud Foſter</l>
+                  <l>that ſtood by our Kings knee,</l>
+                  <l>If ye will ſee good Robin,</l>
+                  <l>you muſt do after mee:</l>
+                  <l>take fiue of the beſt knights</l>
+                  <l>that now be in your lede,</l>
+                  <l>And walke downe by your Abbay</l>
+                  <l>And get you a Monks wede.</l>
+                  <l>And I will be your lodes man</l>
+                  <l>and lead you on the way,</l>
+                  <l>And ere you come at Notingham</l>
+                  <l>my head then dare I lay:</l>
+                  <l>that ye ſhall meet with good Rodin</l>
+                  <l>on liue if that he be,</l>
+                  <l>Or ye come to Nottingham</l>
+                  <l>with eyes ye ſhall him ſee.</l>
+                  <l>full haſtily our king was dight</l>
+                  <l>ſo were his knights fiue,</l>
+                  <l>they were all in Monks weeds</l>
+                  <l>and haſted them thither blithe</l>
+                  <l>Our King was great aboue his coule</l>
+                  <l>a broad hat on his Crowne,</l>
+                  <l>Right as he were Abbot like</l>
+                  <l>they rode vp in the towne:</l>
+                  <l>Stiffe bootes our King had on</l>
+                  <l>forſooth as I you ſay,</l>
+                  <l>He rode ſinging to green-wood</l>
+                  <l>the couent was clothed in gray.</l>
+                  <l>His male horſe and his great ſommer</l>
+                  <pb facs="tcp:17475:24"/>
+                  <l>followed our King behinde,</l>
+                  <l>Vntill they came to greenwood</l>
+                  <l>a mile vnder the linde.</l>
+                  <l>there they met with good Robin</l>
+                  <l>ſtanding by the way,</l>
+                  <l>And ſo did many a bolde Archer</l>
+                  <l>forſooth as I you ſay.</l>
+                  <l>Robin tooke the Kings horſe</l>
+                  <l>haſtely in that ſtede,</l>
+                  <l>And ſir Abbot by your leaue</l>
+                  <l>a while you muſt abide:</l>
+                  <l>We be yeomen of this Forreſt</l>
+                  <l>vnder the greenewood tree,</l>
+                  <l>We liue by our Kings Deere</l>
+                  <l>other ſhift haue not wee.</l>
+                  <l>And ye haue Churches and rents both</l>
+                  <l>and good full great plenty,</l>
+                  <l>Giue vs ſome of your ſpending</l>
+                  <l>for ſaint Chritie.</l>
+                  <l>Then beſpake our comely King</l>
+                  <l>anon then ſaid he,</l>
+                  <l>I brought no more to greenwood</l>
+                  <l>but forty pound with me:</l>
+                  <l>I haue laine at Nottingham</l>
+                  <l>this fortnight with our King,</l>
+                  <l>And ſpent I haue much good</l>
+                  <l>on many a great Lording:</l>
+                  <l>And haue but forty pound</l>
+                  <l>no more then haue I mee,</l>
+                  <l>But if I had a hundreth pound</l>
+                  <l>I would giue it to thee.</l>
+                  <l>Robin tooke the forty pound</l>
+                  <l>and deuided it then did he,</l>
+                  <l>Halfe he gaue to his merry men</l>
+                  <pb facs="tcp:17475:24"/>
+                  <l>and bad them merry be:</l>
+                  <l>Full curteouſly Robin gan ſay,</l>
+                  <l>haue this for your ſpending,</l>
+                  <l>we ſhall meet another day</l>
+                  <l>gramercy then ſaid our King.</l>
+                  <l>but well thee greeteth Edward our king</l>
+                  <l>he hath ſent to thee his Seale,</l>
+                  <l>And biddeth thee come to Nottingham</l>
+                  <l>both to meat and meale:</l>
+                  <l>He tooke out the broad Seale</l>
+                  <l>and ſoone he let him ſee,</l>
+                  <l>Robin could his curteſie</l>
+                  <l>and ſet him on his knee.</l>
+                  <l>I loue no man in all the world</l>
+                  <l>ſo well as I doe my King,</l>
+                  <l>Welcome be my Lords Seale</l>
+                  <l>and Monk for thy tyding:</l>
+                  <l>Sir Abbot for thy tyding</l>
+                  <l>to day thou ſhalt dine with mee,</l>
+                  <l>For the loue of my King</l>
+                  <l>vnder the truſty tree.</l>
+                  <l>Foorth he had our comely King</l>
+                  <l>full faire by the hand,</l>
+                  <l>Many a Deere there was ſlaine</l>
+                  <l>and full was faſt dight and:</l>
+                  <l>Robin tooke a full great horne</l>
+                  <l>and loud he gan it blowe,</l>
+                  <l>Seauen ſcore of wight yeomen</l>
+                  <l>came running on a rowe.</l>
+                  <l>All they kneeled on their knee</l>
+                  <l>full faire before Robin,</l>
+                  <l>The King ſaid himſelfe vntill</l>
+                  <l>and ſwore by ſaint Auſtin,</l>
+                  <l>Here is a wonder ſeemely ſight</l>
+                  <pb facs="tcp:17475:25"/>
+                  <l>me thinketh by Gods pine,</l>
+                  <l>His men are more at his bidding</l>
+                  <l>then my men be at mine.</l>
+                  <l>Full haſtily was their dinner dight,</l>
+                  <l>and thereto can they gone,</l>
+                  <l>they ſerued our king with all their might</l>
+                  <l>both Robin and little Iohn.</l>
+                  <l>Anon before our King was ſet</l>
+                  <l>the fat Veniſon.</l>
+                  <l>the good white bread, the good red wine</l>
+                  <l>and thereto the good Ale browne:</l>
+                  <l>Make good cheere ſaid Robin</l>
+                  <l>Abbot for charitie,</l>
+                  <l>And for this ylke tiding</l>
+                  <l>bleſſed may thou be.</l>
+                  <l>Now ſhalt thou ſee what life I lead</l>
+                  <l>or that thou hence wend,</l>
+                  <l>then thou maiſt enforme our King</l>
+                  <l>when ye together be lend:</l>
+                  <l>Vp they ſtart all in haſte</l>
+                  <l>their Bowes were ſmartly bent,</l>
+                  <l>Our King was neuer ſo ſore agaſt</l>
+                  <l>he went to haue beene ſhent.</l>
+                  <l>Two yardes there were vp ſet</l>
+                  <l>thereto can they gang,</l>
+                  <l>By fiftye pace our King ſaid</l>
+                  <l>the markes were too long:</l>
+                  <l>On euery ſide a roſe garland</l>
+                  <l>they ſhot vnder the line,</l>
+                  <l>who ſo faileth of the roſe garland ſaid Robin</l>
+                  <l>his tackle he ſhall tine,</l>
+                  <l>And yeeld it to his maiſter</l>
+                  <l>be it neuer ſo fine.</l>
+                  <l>For no man will I ſpare</l>
+                  <pb facs="tcp:17475:25"/>
+                  <l>ſo drink I ale or wine</l>
+                  <l>A good buffet on his head beare</l>
+                  <l>for this ſhall be his fine</l>
+                  <l>And thoſe that fell to Robins lot</l>
+                  <l>he ſmote them wonder ſare</l>
+                  <l>twice Robin ſhot about</l>
+                  <l>and euer he claue the wand,</l>
+                  <l>And ſo did good Gilbert</l>
+                  <l>with the lilly white hand.</l>
+                  <l>Little Iohn and good Scathlock</l>
+                  <l>for nothing would they ſpare,</l>
+                  <l>When they failed of the garland</l>
+                  <l>Robin ſmote them full ſare,</l>
+                  <l>At the laſt ſhoote that Robin ſhot</l>
+                  <l>fore all his freends faire.</l>
+                  <l>Yet he failed the garland</l>
+                  <l>three fingers and more,</l>
+                  <l>Then beſpake good Gilbert</l>
+                  <l>and then he gan ſay,</l>
+                  <l>Maſter he ſaid your tackle is loſt</l>
+                  <l>ſtand foorth and take your pay.</l>
+                  <l>If it be ſo ſaid Robin</l>
+                  <l>that may no better be,</l>
+                  <l>Sir Abbot I deliuer thee mine arrow</l>
+                  <l>I pray thee ſerue thou me.</l>
+                  <l>It falleth not for mine order ſaid y<hi rend="sup">e</hi> King</l>
+                  <l>Robin be thy leaue,</l>
+                  <l>For to ſmite no good yeoman</l>
+                  <l>for dout I ſhould him greue.</l>
+                  <l>Smite one boldely ſaid Robin</l>
+                  <l>I giue thee largely leaue,</l>
+                  <l>Anon our King with that word</l>
+                  <l>he folded vp his ſleue.</l>
+                  <l>And ſuch a buffet he gaue Robin</l>
+                  <pb facs="tcp:17475:26"/>
+                  <l>to ground he yede full neere,</l>
+                  <l>I make mine auow to God ſaid Robin</l>
+                  <l>thou art a tall Frier:</l>
+                  <l>There is pith in thine arme ſaid Robin</l>
+                  <l>I trow thou can well ſhoot</l>
+                  <l>Thus our King and Robin hood</l>
+                  <l>togither gan they meet:</l>
+                  <l>Robin beheld our comely King</l>
+                  <l>ſtedfaſt in the face,</l>
+                  <l>So did Sir Richard at the Lee</l>
+                  <l>and kneeled downe in that place.</l>
+                  <l>And ſo did all the ſaid outlawes</l>
+                  <l>when they ſawe them kneele,</l>
+                  <l>My Lord the King of England</l>
+                  <l>now I know you well.</l>
+                  <l>Mercy then ſaid Robin to our King</l>
+                  <l>vnder this truſly tree,</l>
+                  <l>Of thy goodnes and thy grace</l>
+                  <l>for my men and for mee.</l>
+                  <l>And yet ſaid good Robin</l>
+                  <l>as good God do me ſaue,</l>
+                  <l>I aske thee mercy my Lord the King</l>
+                  <l>and for my men I it craue.</l>
+                  <l>Yes for God ſaid our King</l>
+                  <l>thy petition I graunt thee,</l>
+                  <l>So that thou wilt leaue the greenwood</l>
+                  <l>and all thy company:</l>
+                  <l>And come home to my Court</l>
+                  <l>there to dwell with me.</l>
+                  <l>I make mine auow to God ſaid Robin</l>
+                  <l>and right ſo ſhall it be,</l>
+                  <l>I will come to your Court</l>
+                  <l>your ſeruice for to ſee,</l>
+                  <l>And bring with me of my men</l>
+                  <pb facs="tcp:17475:26"/>
+                  <l>ſeuenſcore and three</l>
+                  <l>But and I like not your ſeruice</l>
+                  <l>I will come again full ſoon</l>
+                  <l>And ſhoot at the dunne deere</l>
+                  <l>as I was wunt to doon.</l>
+               </lg>
+            </div>
+            <div n="8" type="fitte">
+               <lg>
+                  <head>¶ The viii. fit.</head>
+                  <l>HAſt thou any green cloth ſaid our king</l>
+                  <l>that thou wilt ſell to me</l>
+                  <l>Yea for God ſaid Robin</l>
+                  <l>thirtie yardes and three.</l>
+                  <l>Robin ſaid our king</l>
+                  <l>now pray I thee</l>
+                  <l>To ſell me ſome of that cloth</l>
+                  <l>to me and my meynye:</l>
+                  <l>Yes for God then ſaid Robin</l>
+                  <l>or els I were a foole</l>
+                  <l>An other day ye will me clothe</l>
+                  <l>Itrowe againſt the yule.</l>
+                  <l>The king caſt of his cote then</l>
+                  <l>a green garment he did on</l>
+                  <l>And euery knight had ſo ywis</l>
+                  <l>they clothed them full ſoon</l>
+                  <l>When they were clothed in Lincoln green</l>
+                  <l>they caſt a way the gray</l>
+                  <l>Now ſhall we to Notingham</l>
+                  <l>all this our king can ſay</l>
+                  <l>They bent their bowes and forth they went</l>
+                  <l>ſhooting all in fere</l>
+                  <l>toward the towne of Nottingham</l>
+                  <l>outlawes as thy were</l>
+                  <l>Our king and Robin rode togither</l>
+                  <l>forſooth as I you ſay</l>
+                  <l>And all they ſhot pluck buffet</l>
+                  <l>as thy went by the way</l>
+                  <pb facs="tcp:17475:27"/>
+                  <l>And many a buffet our King wan.</l>
+                  <l>of Robin hood that day,</l>
+                  <l>And nothing ſpared good Robin</l>
+                  <l>our King when he did pay.</l>
+                  <l>So God me helpe ſaid the King</l>
+                  <l>thy game is naught to lere,</l>
+                  <l>I ſhould not get a ſhot of thee</l>
+                  <l>though I ſhot all this yeere.</l>
+                  <l>All the people of Nottingham</l>
+                  <l>they ſtood and beheld,</l>
+                  <l>they ſaw nothing but mantles of greene</l>
+                  <l>that couered all the field.</l>
+                  <l>Then euery man togither can ſay</l>
+                  <l>I drede our King be ſtone.</l>
+                  <l>Come Robin hood to the towne ywis</l>
+                  <l>on liue he leaueth not one.</l>
+                  <l>Full haſtely they began to flee</l>
+                  <l>both yeomen and knaues,</l>
+                  <l>And olde wiues that might euill goe</l>
+                  <l>they hipped on their ſtaues.</l>
+                  <l>The King lough full faſt</l>
+                  <l>and commaunded them to come againe</l>
+                  <l>when they ſaw our comely King</l>
+                  <l>ywis they were full faine:</l>
+                  <l>They eat and drank &amp; made them glad</l>
+                  <l>and ſung with notes hye,</l>
+                  <l>Then beſpake our comely King</l>
+                  <l>to ſir Richard of the Lee,</l>
+                  <l>He gaue him there his land again</l>
+                  <l>a good man he had him be.</l>
+                  <l>Robin hood thanked our comely King</l>
+                  <l>and ſet him on his knee.</l>
+                  <l>Robin hood dwelled in the Kings court</l>
+                  <l>but twelue moneths and three,</l>
+                  <pb facs="tcp:17475:27"/>
+                  <l>that he had ſpent an hundreth pound</l>
+                  <l>and all his mens fee.</l>
+                  <l>In euery place where Robin came</l>
+                  <l>euermore he laid downe,</l>
+                  <l>Both for Knights and Squires</l>
+                  <l>to get him a great renowne.</l>
+                  <l>By than the yere was all gone</l>
+                  <l>he had no man but twaine,</l>
+                  <l>Little Iohn and good Scathelock</l>
+                  <l>with all for to gone:</l>
+                  <l>Robin ſaw young men ſhoot</l>
+                  <l>full faire vpon a day,</l>
+                  <l>Alas then ſaid good Robin</l>
+                  <l>my wealth is wend away.</l>
+                  <l>Sometime I was an archer good</l>
+                  <l>a ſtiffe and eke a ſtrong,</l>
+                  <l>I was commended for the beſt archer</l>
+                  <l>that was in merry England:</l>
+                  <l>Alas then ſaid good Robin</l>
+                  <l>alas what ſhall I doe,</l>
+                  <l>If I dwell lenger with the King</l>
+                  <l>ſorrow will me ſlo.</l>
+                  <l>Foorth then went Robin hood</l>
+                  <l>till he came to our King,</l>
+                  <l>My Lord the King of England</l>
+                  <l>graunt me my asking.</l>
+                  <l>I made a Chappell in berniſdale</l>
+                  <l>that ſeemely is to ſee.</l>
+                  <l>It is of Mary Magdalen</l>
+                  <l>and there would I faine be.</l>
+                  <l>I might no time this ſeauen nights</l>
+                  <l>no time to ſleepe one winke,</l>
+                  <l>Neither all this ſeauen dayes</l>
+                  <l>nother eat nor drinke.</l>
+                  <pb facs="tcp:17475:28"/>
+                  <l>Me longeth ſore to Bernisdale</l>
+                  <l>I may not be there fro</l>
+                  <l>Bare foot and wolward haue I hight</l>
+                  <l>thither for to goe</l>
+                  <l>If it be ſo then ſaid our king</l>
+                  <l>it may no better be</l>
+                  <l>Seuen nights I giue thee leue</l>
+                  <l>no lenger to dwell from me.</l>
+                  <l>Gramarcy Lord then ſaid Robin</l>
+                  <l>and ſet him on his knee,</l>
+                  <l>He tooke his leaue full curteouſly</l>
+                  <l>to greenwood then went he.</l>
+                  <l>When he came to greenwood</l>
+                  <l>in a mery morning,</l>
+                  <l>There he heard the notes ſmall</l>
+                  <l>of birds mery ſinging.</l>
+                  <l>It is farre gon ſaid Robin</l>
+                  <l>that I was laſt heere,</l>
+                  <l>I haue a little luſt for to ſhoot</l>
+                  <l>at the dunne deere.</l>
+                  <l>Robin ſlew a full great hart</l>
+                  <l>his horne then can he blowe.</l>
+                  <l>That all the outlawes of that Forreſt</l>
+                  <l>that horne could they knowe:</l>
+                  <l>and gathered them togither</l>
+                  <l>in a little throwe,</l>
+                  <l>Seauenſcore of wight yeomen</l>
+                  <l>came running on a rowe.</l>
+                  <l>And faire did of their hoods</l>
+                  <l>and ſet them on their knee,</l>
+                  <l>Welcome they ſaid our maiſter</l>
+                  <l>vnder the greenwood tree,</l>
+                  <l>Robin dwelled in greenwood</l>
+                  <l>twenty yeeres and two,</l>
+                  <pb facs="tcp:17475:28"/>
+                  <l>Then for dred of Edward our King</l>
+                  <l>againe would he not goe:</l>
+                  <l>Yet he was beguiled ywis</l>
+                  <l>through a wicked woman.</l>
+                  <l>the prioreſſe of Kirkeſley</l>
+                  <l>that nye was of his kinne,</l>
+                  <l>For the loue of a knight</l>
+                  <l>ſir Roger of Dankaſtre.</l>
+                  <l>For euill mote they thee,</l>
+                  <l>they tooke togither their counſaile</l>
+                  <l>Robin hood for to ſley:</l>
+                  <l>And how they might beſt doe that deed</l>
+                  <l>his banes for to be</l>
+                  <l>Then beſpake good Robin</l>
+                  <l>in place whereas he ſtood,</l>
+                  <l>to morrow I muſt to Kirkeſley</l>
+                  <l>craftely to be letten blood.</l>
+                  <l>Sir Roger of Dancaſtre</l>
+                  <l>by the prioreſſe he lay,</l>
+                  <l>And there they betrayed Robin hood</l>
+                  <l>through their falſe play:</l>
+                  <l>Chriſt haue mercy on his ſoule</l>
+                  <l>that died on the rood,</l>
+                  <l>For he was a good outlaw</l>
+                  <l>and did poore men much good.</l>
+               </lg>
+            </div>
+            <trailer>* Thus endeth the life of Robin hood.</trailer>
+         </div>
+         <div type="play">
+            <pb facs="tcp:17475:29"/>
+            <head>Heere beginneth the play of Robin Hood, very proper to be played in May games.</head>
+            <sp>
+               <speaker>Robin hood.</speaker>
+               <lg>
+                  <l>NOw ſtand ye forth my merry men all</l>
+                  <l>and hark what I ſhall ſay,</l>
+                  <l>Of an aduenture I ſhall you tell</l>
+                  <l>the which befell this other day.</l>
+                  <l>As I went by the high way</l>
+                  <l>with a ſtout Frier I met.</l>
+                  <l>And a quarter ſtaffe in his hand,</l>
+                  <l>lightly to me he leapt</l>
+                  <l>And ſtill he bad me ſtand.</l>
+                  <l>there were ſtripes two or three,</l>
+                  <l>But I cannot tell who had the worſe</l>
+                  <l>but well I wot the whorſon</l>
+                  <l>Leapt within me</l>
+                  <l>and fro me tooke my purſſe.</l>
+                  <l>Is there any of my merry men all</l>
+                  <l>that to the Frier will goe,</l>
+                  <l>And bring him to me foorth withall</l>
+                  <l>whether he will or no.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Little Iohn.</speaker>
+               <lg>
+                  <l>Yes Maiſter I make God auow</l>
+                  <l>to that Frier will I goe,</l>
+                  <l>And bring him to you</l>
+                  <l>whither he will or no,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Frier Tuck.</speaker>
+               <lg>
+                  <l>Deus hic, Deus hic, God be heere</l>
+                  <l>is not this a holy word of a Frier,</l>
+                  <l>God ſaue all this company,</l>
+                  <l>But am not I a iolly Frier</l>
+                  <l>For I can ſhoote both farre and neere.</l>
+                  <pb facs="tcp:17475:29"/>
+                  <l>and handly the ſword and buckler</l>
+                  <l>and this quarter ſtaffe alſo</l>
+                  <l>If I meet with a gentle man or yeman,</l>
+                  <l>I am not afraid to looke him vpon</l>
+                  <l>nor boldly with him to carp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>If he ſpeake any words to me,</l>
+                  <l>He ſhall haue ſtripes two or three</l>
+                  <l>that ſhall make his body ſmart.</l>
+                  <l>But maiſters to ſhew you the matter</l>
+                  <l>wherefore and why I am come hither</l>
+                  <l>in faith I will not ſpare,</l>
+                  <l>I am come to ſeeke a good yeoman</l>
+                  <l>in Bernisdale men ſay is his habitation</l>
+                  <l>His name is Robin hood</l>
+                  <l>And if he be better man then I</l>
+                  <l>his ſeruant will I be and ſerue him truly</l>
+                  <l>But if that I be a better man then he</l>
+                  <l>by my truth my knaue ſhall he be</l>
+                  <l>and lead theſe dogges all three.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood.</speaker>
+               <p>Yeeld thee Frier in thy long cote my throte,</p>
+            </sp>
+            <sp>
+               <speaker>Frier tuck</speaker>
+               <p>I beſhrew thy hart Knaue thou hurteſt</p>
+            </sp>
+            <sp>
+               <speaker>Robin hood.</speaker>
+               <lg>
+                  <l>I trowe Frier thou beginneſt to dote</l>
+                  <l>who made thee ſo malapert and ſo bold,</l>
+                  <l>To come into this Forreſt heere,</l>
+                  <l>among my fallow deere.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Frier.</speaker>
+               <lg>
+                  <l>Goe louſe thee ragged knaue</l>
+                  <l>if thou make many words I wil giue thee on y<hi rend="sup">e</hi> eare</l>
+                  <l>though I be but a poore Frier</l>
+                  <l>to ſeeke Robin hood I am come heere</l>
+                  <l>and to him my hart to break.</l>
+                  <pb facs="tcp:17475:30"/>
+                  <l>thou louſie Frier what wouldſt thou with him</l>
+                  <l>he neuer loued Frier nor none of Friers kin.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <lg>
+                  <l>Auaunt ragged knaue</l>
+                  <l>or ye ſhall haue on the skin.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <lg>
+                  <l>Of all the men in a morning thou art y<hi rend="sup">e</hi> worſt</l>
+                  <l>to meet with thee I haue no luſt,</l>
+                  <l>For he y<hi rend="sup">t</hi> meeteth a frier or a fox in the morning</l>
+                  <l>to ſpeede ill that day he ſtandeth in ieopardie</l>
+                  <l>therefore I had rather meet with the deuill</l>
+                  <l>Frier I tell thee as I think,</l>
+                  <l>then meete with a frier or a fox</l>
+                  <l>in a morning or I drinke.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <lg>
+                  <l>Auaunt thou ragged knaue this is but a mock</l>
+                  <l>if y<hi rend="sup">u</hi> make many words y<hi rend="sup">u</hi> ſhalt haue a knock,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <lg>
+                  <l>Hark frier what I ſay heere,</l>
+                  <l>ouer this water thou ſhalt me beare</l>
+                  <l>the bridge is borne away.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <lg>
+                  <l>To ſay thee nay I will not</l>
+                  <l>to let thee of thine oth it were great pitty &amp; ſin</l>
+                  <l>but vpon a Friers back and haue euen in.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <p>Nay haue ouer.</p>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <lg>
+                  <l>now am I frier within &amp; thou Robin without,</l>
+                  <l>to lay thee heere I haue no great doubt:</l>
+                  <l>Now art thou Robin without &amp; I frier within</l>
+                  <l>Lye there knaue. chooſe either ſinke or ſwim.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <pb facs="tcp:17475:30"/>
+               <p>Why thou louſie frier what haſt thou doon</p>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <p>Marry ſet a knaue ouer the ſhoon,</p>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <p>Therefor thou ſhalt abye</p>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <p>Why wilt thou fight a pluck</p>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <p>And God ſend me good luck,</p>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <p>Then haue a ſtroke for Frier tuck.</p>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <p>Holde thy hand Frier and heare me ſpeak</p>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <lg>
+                  <l>Say on ragged knaue</l>
+                  <l>me ſeemeth ye begin to ſweat.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <lg>
+                  <l>In this Forreſt I haue a hound</l>
+                  <l>I will not giue him for an hundreth pound:</l>
+                  <l>Giue me leaue my horne to blowe,</l>
+                  <l>that my hound may know.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <lg>
+                  <l>Blowe on ragged knaue without any doubt,</l>
+                  <l>vntill both thine eyes ſtart out:</l>
+                  <l>Heere is a ſorte of ragged knaues come in</l>
+                  <l>Clothed all in kendall greene</l>
+                  <l>and to thee they take their way now.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <p>Peraduenture they doe ſo</p>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <lg>
+                  <l>I gaue thee leaue to blow at thy will,</l>
+                  <l>now giue me leaue to whiſtle my ſill.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <lg>
+                  <l>Whiſtle Frier euill might thou fare,</l>
+                  <pb facs="tcp:17475:31"/>
+                  <l>vntill both thine eyes ſtare.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <lg>
+                  <l>Now cut and Bauſe,</l>
+                  <l>Bring foorth the clubbes and ſtaues</l>
+                  <l>And downe with thoſe ragged knaues.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <lg>
+                  <l>How ſaiſt thou Frier wilt thou be my man</l>
+                  <l>to doo me the beſt ſeruice thou can,</l>
+                  <l>Thou ſhalt haue both gold and fee,</l>
+                  <l>And alſo heer is a lady free I will giue hir vn<g ref="char:EOLhyphen"/>to thee</l>
+                  <l>And her chaplain I thee make</l>
+                  <l>to ſerue her for my ſake.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Frier</speaker>
+               <lg>
+                  <l>Heere is a huckle duckle an inch aboue the buckle</l>
+                  <l>She is a trul of truſt to ſerue a frier at his luſt</l>
+                  <l>A pricker, a prauncer, a tearer of ſheetes,</l>
+                  <l>a wagger of buttocks when other men ſleeps,</l>
+                  <l>Goe home ye knaues and lay crabs in the fier</l>
+                  <l>for my lady &amp; I will dance in the mire for very pure ioy.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood.</speaker>
+               <lg>
+                  <l>Liſten my merry men all</l>
+                  <l>and harken what I ſhall ſay,</l>
+                  <l>Of an aduenture I ſhall you tell</l>
+                  <l>that befell this other day:</l>
+                  <l>With a proud potter I met</l>
+                  <l>and a roſe garland on his head,</l>
+                  <l>the flowers of it ſhone meruailous freſh</l>
+                  <l>this ſeuen yeere &amp; more he hath vſed this way</l>
+                  <l>Yet was he neuer ſo curteous a potter</l>
+                  <l>as one peny paſſage to pay.</l>
+                  <l>Is there any of my merry men all</l>
+                  <l>that dare be ſo bolde,</l>
+                  <l>to make the Potter pay paſſage</l>
+                  <l>either ſtluer or golde.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb facs="tcp:17475:31"/>
+               <speaker>Little Iohn</speaker>
+               <lg>
+                  <l>Not I maiſter for twenty pound ready tolde</l>
+                  <l>For there is not amongſt vs all one that</l>
+                  <l>dare meddle with that potter man for man</l>
+                  <l>I felt his hands not long agon</l>
+                  <l>but I had leuer be heere by thee,</l>
+                  <l>therefore I know what he is</l>
+                  <l>Meete him when ye will</l>
+                  <l>or meete him when you ſhall,</l>
+                  <l>He is as proper a man as euer you medled withall</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <lg>
+                  <l>I will lay with thee little Iohn xx. pound ſo red</l>
+                  <l>if I with the potter meet</l>
+                  <l>I will make him pay paſſage mauger his hed.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Little Iohn</speaker>
+               <lg>
+                  <l>I conſent thereto ſo I eat bread,</l>
+                  <l>If he pay paſſage mauger his head</l>
+                  <l>twenty pound ſhall ye haue for your meed.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>The potters boy Iack.</speaker>
+               <lg>
+                  <l>Out alas that euer I ſaw this day.</l>
+                  <l>For I am cleane out of my way:</l>
+                  <l>From Nottingham towne,</l>
+                  <l>If I me hie not the faſter</l>
+                  <l>Or I come there the market will be doon.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin</speaker>
+               <p>Let me ſee are thy pots whole and ſound.</p>
+            </sp>
+            <sp>
+               <speaker>Iack</speaker>
+               <p>Yea maiſter but they will not breake y<hi rend="sup">e</hi> ground ſake</p>
+            </sp>
+            <sp>
+               <speaker>Robin</speaker>
+               <lg>
+                  <l>I will them break-for the cuckold thy maſters</l>
+                  <l>And if they will break the ground</l>
+                  <l>thou ſhalt haue three pence for a pound.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Iack</speaker>
+               <lg>
+                  <l>Out alas what haue you doon</l>
+                  <pb facs="tcp:17475:32"/>
+                  <l>if my maiſter come he will breake your crowne</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>the Potter</speaker>
+               <lg>
+                  <l>Why thou whorſon art thou heere yet</l>
+                  <l>thou ſhouldeſt haue been at market.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Iack</speaker>
+               <lg>
+                  <l>I met with Robin hood a good yeman</l>
+                  <l>He hath broken my pottes</l>
+                  <l>and cald you Cuckold by your name.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Potter</speaker>
+               <lg>
+                  <l>Thou maiſt be a gentleman ſo God me ſaue,</l>
+                  <l>but thou ſeemeſt a naughty knaue:</l>
+                  <l>Thou calleſt me a cuckold by my name.</l>
+                  <l>And I ſwere by God and ſaint Iohn.</l>
+                  <l>Wife had I neuer none</l>
+                  <l>this cannot I deny</l>
+                  <l>But if thou be a good fellow</l>
+                  <l>I will ſell my horſe harnes, pots &amp; paniers too</l>
+                  <l>thou ſhalt haue the one halfe and I the other</l>
+                  <l>if thou be not ſo content thou ſhalt haue</l>
+                  <l>ſtripes if thou were my brother.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin</speaker>
+               <lg>
+                  <l>Hark potter what I ſhall ſay.</l>
+                  <l>this 7. yeer and more thou haſt vſed this way</l>
+                  <l>Yet were thou neuer ſo curteous to me</l>
+                  <l>as one peny paſſage to pay.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Potter</speaker>
+               <p>Why ſhould I pay paſſage to thee,</p>
+            </sp>
+            <sp>
+               <speaker>Robin</speaker>
+               <lg>
+                  <l>For I am Robin hood cheefe gouernour</l>
+                  <l>vnder the greene-wood tree.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Potter</speaker>
+               <lg>
+                  <l>This ſeuen yere I vſed this way vp and down</l>
+                  <l>yet payed I paſſage to no man,</l>
+                  <l>Nor now I will not begin do the worſt y<hi rend="sup">u</hi> can.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb facs="tcp:17475:32"/>
+               <speaker>Robin</speaker>
+               <lg>
+                  <l>Paſſage ſhalt thou pay heere vnder the green<g ref="char:EOLhyphen"/>woodtree</l>
+                  <l>or els thou ſhalt leaue a wed with me:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Potter</speaker>
+               <lg>
+                  <l>Yf thou be a good fellow as men doo thee call,</l>
+                  <l>laye away thy bowe</l>
+                  <l>And take thy ſword and buckler in thy hand</l>
+                  <l>and ſee what ſhall befall.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Robin hood</speaker>
+               <lg>
+                  <l>Little Iohn where art thou,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Little Iohn</speaker>
+               <lg>
+                  <l>Here maiſter I make auow</l>
+                  <l>I toulde you maiſter ſo God me ſaue,</l>
+                  <l>that you ſhould finde the potter a knaue:</l>
+                  <l>Holde your buckler faſt in your hand,</l>
+                  <l>and I will ſtiffely by you ſtand,</l>
+                  <l>Ready for to fight,</l>
+                  <l>Be the knaue neuer ſo ſtout</l>
+                  <l>I ſhall rap him on the ſnout,</l>
+                  <l>and put him to flight.</l>
+               </lg>
+            </sp>
+            <trailer>¶ Thus endeth the play of Robin hood.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Corona Minervæ. Or A masque presented before Prince Charles His Highnesse, the Duke of Yorke his brother, and the Lady Mary his sister, the 27th of February, at the Colledge of the Museum Minervæ.</title>
+            <author>Kinnaston, Francis, Sir, 1587-1642.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04959</idno>
+            <idno type="STC">STC 15100</idno>
+            <idno type="STC">ESTC S108158</idno>
+            <idno type="EEBO-CITATION">99843843</idno>
+            <idno type="PROQUEST">99843843</idno>
+            <idno type="VID">8602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A04959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 766:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Corona Minervæ. Or A masque presented before Prince Charles His Highnesse, the Duke of Yorke his brother, and the Lady Mary his sister, the 27th of February, at the Colledge of the Museum Minervæ.</title>
+                  <author>Kinnaston, Francis, Sir, 1587-1642.</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Sheares,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1635.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Sir Francis Kinnaston.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-C⁴ D² .</note>
+                  <note>Variant: with an added leaf, "To the reader", inserted after title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Masques.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8602:1" rendition="simple:additions"/>
+            <pb facs="tcp:8602:1" rendition="simple:additions"/>
+            <p>
+               <hi>CORONA MINERVAE.</hi> OR A MASQVE Preſented before Prince CHARLES HIS HIGHNESSE, The Duke of <hi>Yorke</hi> his Brother, and the Lady <hi>Mary</hi> his Siſter, the 27<hi rend="sup">th</hi> of February, at the Colledge of the MVSEUM MINERVAE.</p>
+            <p>LONDON, Printed for WILLIAM SHEARES. 1635.</p>
+         </div>
+      </front>
+      <body>
+         <div type="masque">
+            <pb facs="tcp:8602:2"/>
+            <pb facs="tcp:8602:2"/>
+            <head>
+               <hi>Corona Minervae.</hi> A Maſque PRESENTED BEFORE Prince CHARLES his Highneſſe, The <hi>Duke of</hi> YORKE his Brother, And the Lady MARY his Siſter, the 27<hi rend="sup">th</hi>. of February, at the Colledge of the <hi>Muſeum Minervae.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg> Curtaine being dravvne, there is diſcovered a Fron<g ref="char:EOLhyphen"/>tiſpice, wheron the Image of <hi>Minerva</hi> is ſeene ſitting upon a ſtone, placed be<g ref="char:EOLhyphen"/>tvveene tvvo Returnes of a broken Arch, ſupported by tvvo Braſſe ſta<g ref="char:EOLhyphen"/>tues of <hi>Mars,</hi> and <hi>Mercury,</hi> ſtanding in nee<g ref="char:EOLhyphen"/>ches of Corinthian Worke: Vnder, vvithin
+<pb facs="tcp:8602:3"/>a Proſpective is ſeene, a pav'd Gallery invi<g ref="char:EOLhyphen"/>roned on either ſide and terminated vvith Dorike Columnes, vvhich flying avvay, <hi>Minerva</hi> preſents her ſelfe attired in her pro<g ref="char:EOLhyphen"/>per Habit.</p>
+            <p>Over the Entrance in a Square <hi>was Written</hi>
+            </p>
+            <p>
+               <q>Corona Minervae.</q>
+            </p>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <l>
+                  <seg rend="decorInit">W</seg>Hat rare unvaliew'd Iewels are here ſent,</l>
+               <l>As if the Gods themſelves ſtriv'd to preſent</l>
+               <l>
+                  <hi>Minerva</hi> with their choiceſt Gems, &amp; Grace</l>
+               <l>Her cabinet, as yet too meane a place</l>
+               <l>To hold ſuch Deities, who more adorne</l>
+               <l>This preſence, than the roſie finger'd Morne</l>
+               <l>(Guiding the Eaſt for the upriſing Sun)</l>
+               <l>Doth beautifie his Carre, ready to run</l>
+               <l>His daily Circle round. It hath been ſayd,</l>
+               <l>The Friends and Servants of the <hi>Iove</hi>-borne Mayd</l>
+               <l>Are poore, except thoſe, whom <hi>Bellonas</hi> hand</l>
+               <l>Enrols for Souldiers of <hi>Mars</hi> warlike band,</l>
+               <l>Who ſometimes want their pay too: But now ſee</l>
+               <l>A treaſure here depoſited with mee,</l>
+               <pb facs="tcp:8602:3"/>
+               <l>Out-valuing all the Riches of the Earth;</l>
+               <l>Three Pledges of ſweet Peace, whoſe happy Birth</l>
+               <l>Bleſſeth this preſent Age, and Crown's it ſo,</l>
+               <l>That former Ages paſt, could they but know</l>
+               <l>How fortunate this is, they all would mourne</l>
+               <l>They paſt ſo ſoone, or elſe would backe returne,</l>
+               <l>To ſee an Age, wherein both Armes and Arts</l>
+               <l>Flouriſh at height, and both ſhare equall parts.</l>
+            </sp>
+            <stage>Time <hi>enters here to</hi> Minerva <hi>in a Party coloured Robe halfe White, halfe Blacke, fringed with Silver, with one wing of a Swan, another of a Batt.</hi>
+            </stage>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>Great Miſtriſſe of both Armes and Arts, 'tis true,</l>
+               <l>Your exploration of their praiſes due,</l>
+               <l>They are the Bleſſings, which the Ages paſt</l>
+               <l>Fell ignorant, and unworthy-of to taſte.</l>
+               <l>And I old <hi>Time,</hi> that of thoſe Ages ſaw</l>
+               <l>The firſt, and laſt, till now could never draw</l>
+               <l>Ayre, that ſo pleas'd mee, as in this bleſt Clime,</l>
+               <l>That Crown's with Youth the old-old head of <hi>Time.</hi>
+               </l>
+               <l>All breath's Panchaian here: nay onely this</l>
+               <l>Is the cleare Weſterne that Favonian is,</l>
+               <l>Perpetuall Spring creating. Gods heere</l>
+               <l>Your two-fold Diſcipline, in which you were</l>
+               <l>So late diſtracted by the world's neglect,</l>
+               <l>Shall re-aſſume it's ancient faire reſpect.</l>
+            </sp>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <p>
+                  <hi>Time,</hi> you ſpeake comfort to mee.</p>
+            </sp>
+            <pb facs="tcp:8602:4"/>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>And no more</l>
+               <l>Than my glad Daughter <hi>Truth</hi> is ſpreading o're</l>
+               <l>This happy Monarchy, whoſe ſupreame head</l>
+               <l>(In higheſt Heaven his name is regiſtred)</l>
+               <l>By Pow'r and Wiſdome, will the uſe advance</l>
+               <l>Of Armes and Arts, above diſpight and chance.</l>
+            </sp>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <p>
+                  <hi>Time,</hi> thou haſt made mee happy.</p>
+            </sp>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>No, 'tis hee</l>
+               <l>That hath felicitated you and mee,</l>
+               <l>Who hath already by defenſive Armes,</l>
+               <l>Beate backe the boaſts, that were intended harmes,</l>
+               <l>Which Induſtry is crowned with a peace,</l>
+               <l>That daily will bring forth the Arts increaſe;</l>
+               <l>You may obſerve th' aſſurance of it here</l>
+               <l>In theſe, who he is pleaſ'd (to grace your Spheare)</l>
+               <l>Should leave their owne; each an illuſtrious gem,</l>
+               <l>Proper to his Imperiall Diadem;</l>
+               <l>I could with Ioy and wonder dwell an age</l>
+               <l>Vnder their ſmiles; from an old man, turne Page</l>
+               <l>To waite upon their perſons: breake my Glaſſe,</l>
+               <l>And pick up ſand by ſand, ere I would paſſe</l>
+               <l>From their divine aſpects; uſe all delay</l>
+               <l>Had not the Fates decreed <hi>Time</hi> muſt away.</l>
+            </sp>
+            <pb facs="tcp:8602:4"/>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <l>But not ſo faſt, good <hi>Time,</hi> your haſte may make</l>
+               <l>Their Graces leave me too.</l>
+            </sp>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>Ile undertake,</l>
+               <l>Sacred <hi>Minerva,</hi> they will not, but grace</l>
+               <l>You and your Arts, whilſt there is time and place,</l>
+               <l>Yet ere I goe, for I muſt ſtay a while</l>
+               <l>In this faire preſence, and my haſte beguile</l>
+               <l>With a report of an unlook't for crew,</l>
+               <l>Comming to ſee your Princely gueſts and you.</l>
+            </sp>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <p>
+                  <hi>Time,</hi> what are they?</p>
+            </sp>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>The ſeaſons of the yeare</l>
+               <l>Having diſcover'd the convention here,</l>
+               <l>All equally poſſeſt with an ambition,</l>
+               <l>To ſee and to be ſeene without commiſſion</l>
+               <l>From me, or from the Moneths, or powerfull <hi>Sol,</hi>
+               </l>
+               <l>That wont is to infranchiſe, or controle</l>
+               <l>Them at his pleaſure, now are altogether</l>
+               <l>Broke looſe, and fill'd with gladneſſe, poſting hither.</l>
+               <l>Cold <hi>Winter</hi> ſtretching out his cramp'd up nerves,</l>
+               <l>Strives to out-ſtrip the Iolly <hi>Spring,</hi> who ſerves</l>
+               <l>
+                  <hi>Sommer</hi> the like, and with her nimble feet</l>
+               <l>Runs through her heat, till they with <hi>Autumne</hi> meet;</l>
+               <l>At laſt, they all conjoyn'd come on their way,</l>
+               <pb facs="tcp:8602:5"/>
+               <l>Like the whole yeere contracted in this day,</l>
+               <l>Each ſeaſon hath a ſeverall preſent too,</l>
+               <l>In which they ſtrive each other to out-do,</l>
+               <l>As if by generall warrant from their Fate,</l>
+               <l>They all were alwayes to attend this State.</l>
+            </sp>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <p>'Tis welcome newes.</p>
+            </sp>
+            <stage>A Confuſion is here heard of ſeverall voyces of Birds, and Beaſts, ſuch as are peculiar to every ſeaſon.</stage>
+            <stage>Againe here ſeverall noyſes and voyces are heard confuſedly of Birds and Beaſts, as exactly performed to the life, that no man could diſtinguiſh them.</stage>
+            <stage>Vpon which,</stage>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>Harke, they are all at hand,</l>
+               <l>And all their Heraulds, both by ayre and land,</l>
+               <l>The Birds and Beaſts of every ſeaſon met,</l>
+               <l>In a moſt ſingular diſcord; harke how they ſet</l>
+               <l>Throat againſt throat; the Wren and Red-breſt ſwel</l>
+               <l>To be above the Larke and Philomell.</l>
+               <l>The Cuckow with the Howlet ſtrives, and now</l>
+               <l>The bleating Lamb joyes 'gainſt the lowing Cow,</l>
+               <l>All in confuſion, and ſo ſhall you ſee,</l>
+               <l>Will the contention of the Seaſons be,</l>
+               <l>Till I be ſtickler. See they come, ſtandby.</l>
+            </sp>
+            <stage>
+               <hi>Here enter the foure Seaſons ruſhing in,</hi> Winter, Spring <hi>pulling him backe,</hi> Spring, Sommer, Autume, <hi>and</hi> Winter <hi>ſtriving for precedence.</hi>
+            </stage>
+            <pb facs="tcp:8602:5"/>
+            <stage>Springs <hi>habit was of greene Taffata, fringed with ſilver; and figured with flowers, a Chaplet of ſeverall flowers upon her head.</hi>
+            </stage>
+            <sp>
+               <speaker>Spring.</speaker>
+               <p>
+                  <hi>VVinter,</hi> keepe backe, I claime priority.</p>
+            </sp>
+            <stage>Winter <hi>in a long Gowne of freeze, his haire and beard all made of Icicles, a Garland of Hollies and Ivie intwin'd upon his head.</hi>
+            </stage>
+            <sp>
+               <speaker>Winter.</speaker>
+               <l>No wanton Girle, I muſt have firſt acceſſe,</l>
+               <l>My age and honour can require no leſſe.</l>
+            </sp>
+            <stage>Sommer <hi>in a ſtraw coloured Robe of Taffata, with a Garland of Corne-flowers, and blew Bottles upon his head.</hi>
+            </stage>
+            <sp>
+               <speaker>Sommer.</speaker>
+               <p>I claime it from you both.</p>
+            </sp>
+            <stage>Autumne <hi>his garment of Peuke-colour, a pruning knife in his hand, as a Vintiger, a Chaplet of Grapes and Damo<g ref="char:EOLhyphen"/>ſens upon his head.</hi>
+            </stage>
+            <sp>
+               <speaker>Autumne.</speaker>
+               <l>Why, <hi>Summer</hi> you?</l>
+               <l>The place to <hi>Autumne</hi> properly is due.</l>
+            </sp>
+            <sp>
+               <speaker>Spring.</speaker>
+               <l>How can that be? Looke into every race,</l>
+               <l>Doe you not find, that Youth takes the firſt place.</l>
+               <l>Was not the whole world young before 'twas old?</l>
+            </sp>
+            <sp>
+               <speaker>Winter.</speaker>
+               <l>And what of that, proud girle? thy reaſon's cold,</l>
+               <l>Colder than is my Froſt. Did not the <hi>Spring</hi>
+               </l>
+               <pb facs="tcp:8602:6"/>
+               <l>Of the old world riſe from an elder thing,</l>
+               <l>What elſe was <hi>Chaos?</hi> hah?</l>
+            </sp>
+            <sp>
+               <speaker>Spring.</speaker>
+               <p>I mind not that.</p>
+            </sp>
+            <sp>
+               <speaker>Winter.</speaker>
+               <p>Fond Laſs, thou mind'ſt, ſay'ſt, do'ſt, thou know'ſt not what.</p>
+            </sp>
+            <sp>
+               <speaker>Sommer.</speaker>
+               <l>I doe: for <hi>Sommers</hi> ſtrength is at full growth,</l>
+               <l>Like middle age in man.</l>
+            </sp>
+            <sp>
+               <speaker>Antumne.</speaker>
+               <l>I would be loath</l>
+               <l>To give the knowledge of declining Age</l>
+               <l>Which <hi>Autumne</hi> ſhadowes, for the <hi>Sommers</hi> rage.</l>
+            </sp>
+            <sp>
+               <speaker>Winter.</speaker>
+               <l>Y'are all againſt mee, and yet it doth appeare,</l>
+               <l>None is anothers Friend.</l>
+            </sp>
+            <sp>
+               <speaker>Spring.</speaker>
+               <l>Yet to the yeare</l>
+               <l>Wee all doe gratefull Service, thou do'ſt none.</l>
+            </sp>
+            <sp>
+               <speaker>Winter.</speaker>
+               <p>I would heare that.</p>
+            </sp>
+            <sp>
+               <speaker>Spring.</speaker>
+               <l>In mee the <hi>Spring,</hi> 'tis knowne,</l>
+               <l>The Graſs, the Grain, the Leafe, the Flow'r, the Fruit,</l>
+               <l>The Birds that ſing, the Beaſts, the Fiſhes mute</l>
+               <l>Take their beginnings.</l>
+            </sp>
+            <sp>
+               <speaker>Sommer.</speaker>
+               <l>Make no tedious tale,</l>
+               <l>You begin well, I ripe and perfect all.</l>
+            </sp>
+            <sp>
+               <speaker>Spring.</speaker>
+               <l>In that you wrong mee <hi>Sommer:</hi> For you doe</l>
+               <l>Out of my hands take Worke and Credit too.</l>
+            </sp>
+            <pb facs="tcp:8602:6"/>
+            <sp>
+               <speaker>Sommer.</speaker>
+               <l>I wrong not you ſo much as <hi>Autumne</hi> mee;</l>
+               <l>For hee gets all the Crop from me and thee.</l>
+            </sp>
+            <sp>
+               <speaker>Autumne.</speaker>
+               <l>But all the ſtore I gather for the yeare,</l>
+               <l>
+                  <hi>Winter</hi> devours, or ſpoyles.</l>
+            </sp>
+            <sp>
+               <speaker>Winter.</speaker>
+               <l>Pray Sirs forbeare,</l>
+               <l>You increaſe all, you ripen all you ſay,</l>
+               <l>You gather all, I ſpend all, and beſt may.</l>
+               <l>I am the carefull Husband of the Earth,</l>
+               <l>That gives her comforts after every Birth,</l>
+               <l>In which you weare her out, or bring her low</l>
+               <l>Paſt hope, that from her teeming womb ſhould grow</l>
+               <l>Ever more timely Fruits: I kindly then</l>
+               <l>(That ſhee may live and propagate agen)</l>
+               <l>Quench her feint thirſt with plenteous ſhowrs of rain</l>
+               <l>Wherewith I fill her veines, and drowne her paine.</l>
+               <l>Then having made her bed as ſoft below,</l>
+               <l>I cover her with Swan downe, you call Snow,</l>
+               <l>Which keepes her warme, ſo lay I her to reſt:</l>
+               <l>And for her lying-in make many a Feaſt</l>
+               <l>Of her late ſtore, for mortals that doe pray</l>
+               <l>To ſee her blithe againe another day.</l>
+            </sp>
+            <sp>
+               <speaker>Spring.</speaker>
+               <p>Which day would never come, wer't not with mee.</p>
+            </sp>
+            <sp>
+               <speaker>VVinter.</speaker>
+               <p>Nor thou with it, did not I ſet her free.</p>
+            </sp>
+            <sp>
+               <speaker>Sommer.</speaker>
+               <p>This ſtrife will grow unto an endleſſe fit.</p>
+            </sp>
+            <sp>
+               <speaker>Autumne.</speaker>
+               <p>Would wee had <hi>Time</hi> here to determine it.</p>
+            </sp>
+            <pb facs="tcp:8602:7"/>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>
+                  <hi>Time</hi> is at hand, who gives an inſtant charge</l>
+               <l>Diſtinctly, that each one of you enlarge</l>
+               <l>Himſelfe by practiſe, ſhew what you can doe,</l>
+               <l>Before the Preſence you aſpire unto.</l>
+               <l>What Preſents, or what Paſtimes you have brought</l>
+               <l>To pleaſe theſe Glories, whom all you have ſought</l>
+               <l>T'endeere your ſervice to.</l>
+            </sp>
+            <sp>
+               <speaker>All Foure.</speaker>
+               <p>I have the beſt.</p>
+               <stage>Here e<g ref="char:EOLhyphen"/>very one of<g ref="char:EOLhyphen"/>fered Baſ<g ref="char:EOLhyphen"/>kets of freſh Fruits and Flowres.</stage>
+            </sp>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>Nay one at once, for whilſt you all conteſt</l>
+               <l>Each to be firſt, you but confuſion make;</l>
+               <l>Let <hi>Time</hi> then governe you, for order ſake:</l>
+               <l>
+                  <hi>Seaſons,</hi> I promiſe you both firſt and laſt,</l>
+               <l>And all ſhall equally their favours taſte.</l>
+            </sp>
+            <sp>
+               <speaker>All foure.</speaker>
+               <p>Wee all obey.</p>
+            </sp>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>Then thus I order yee,</l>
+               <l>Out of your diſcord to raiſe harmonie,</l>
+               <l>Preſents y'have brought I ſee of fruits, and flowers,</l>
+               <l>Leave them with me; whilſt from their Caves and Bowers,</l>
+               <l>Each ſeaſon ſummon forth &amp; here advance</l>
+               <l>A paire of his attendance in a dance,</l>
+               <l>To move delight.</l>
+            </sp>
+            <sp>
+               <speaker>All foure.</speaker>
+               <p>Immediately 'tis done.</p>
+            </sp>
+            <stage>
+               <hi>Here as</hi> Time <hi>ſpeaketh, the</hi> Seaſons <hi>go off. Firſt,</hi> Spring, <hi>then</hi> Sommer, Autumne <hi>next, and laſt</hi> Winter, <hi>and immediately, as they depart, the ſeverall voyces are heard diſtinctly, and in order according to the words of</hi> Time.</stage>
+            <pb facs="tcp:8602:7"/>
+            <sp>
+               <speaker>Time.</speaker>
+               <lg>
+                  <l>Firſt <hi>Spring</hi> lead you the way, then ev'ry one</l>
+                  <l>In order follow, let your Heraulds ſound</l>
+                  <l>Each to his ſeaſon, as the yeare goes round:</l>
+                  <l>The <hi>Spring</hi> begins her part already, harke!</l>
+                  <l>The evening Lambe, and morning early Larke</l>
+                  <l>Lead her her way, the merry Cuckow too</l>
+                  <l>Buſie in's office; <hi>Sommer,</hi> now goe you,</l>
+               </lg>
+               <lg>
+                  <l>Now marke the Ioy the Fawne &amp; Swallow takes,</l>
+                  <l>Of which there's more then one a Sommer makes,</l>
+                  <l>To welcome her; now <hi>Autumne</hi> take your turne,</l>
+                  <l>Leſt <hi>Sommers</hi> too long raigne your Harveſt burne:</l>
+                  <l>The Thruſh now chaunts her notes at his approach,</l>
+                  <l>And the glad Bore-pig having ſcap'd the broach</l>
+                  <l>At the laſt Faire, runs wild about to taſte</l>
+                  <l>The ſcatter'd graine, and the ſweet fatting maſte.</l>
+                  <l>Now follow <hi>Winter</hi> whilſt your <hi>Robin</hi> ſings,</l>
+                  <l>Over the halfe dead earth, to wake the Springs,</l>
+                  <l>In her cold veines, hearke how the hoarſe growne Cow</l>
+                  <l>Low's for her fodder, and to whit to whow</l>
+                  <l>
+                     <hi>Madge Howlet</hi> cryes, for cold ſhe'as in her feet,</l>
+                  <l>But other muſicke now for Dauncers meet.</l>
+               </lg>
+            </sp>
+            <stage>
+               <hi>Here enter to dance,</hi>
+               <note n="1" place="margin">Emblem of the <hi>Spring.</hi>
+               </note> 
+               <hi>a</hi> Frog <hi>followed by a</hi> Fiſher-man. <hi>To them,</hi>
+               <note n="2" place="margin">Of the <hi>Som<g ref="char:EOLhyphen"/>mer.</hi>
+               </note> 
+               <hi>a</hi> Sheepſherer <hi>leading a</hi> Ram. <hi>To them,</hi>
+               <note n="3" place="margin">Of the <hi>Au<g ref="char:EOLhyphen"/>tumne.</hi>
+               </note> 
+               <hi>a</hi> Drunken Butcher <hi>holding a</hi> Pig <hi>by the taile.</hi>
+               <note n="4" place="margin">Of <hi>Winter.</hi>
+               </note> 
+               <hi>To them a</hi> Chimney-ſweeper and a Cat. <hi>All to ſeverall ſtraines of agreeing muſicke. At length all being entred, they joyne in a Dance. The Dance ended.</hi>
+            </stage>
+            <pb facs="tcp:8602:8"/>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>Creatures be gone, and let your Muſes meet</l>
+               <l>With fluent numbers, and harmonious ſweet</l>
+               <l>Voyces, to ſing, of all their preſents here</l>
+               <l>The worth and rarity, and let the neere</l>
+               <l>Adjoyning Woods, Rocks, Vallies, Caues, and Hils</l>
+               <l>Reſound their ecchoing helpes to grace their skils,</l>
+               <l>While I their ſeverall preſents over-view,</l>
+               <l>The <hi>Spring</hi> brings here all that is rare, and new,</l>
+               <l>Of early flowers and fruits, ſuch as to name</l>
+               <l>In other ſeaſons might beget a blame,</l>
+               <l>For longing Ladies ſakes. The <hi>Sommer</hi> brings</l>
+               <l>Gifts no leſſe dainty, for her offrings;</l>
+               <l>So <hi>Autumne,</hi> and ſo <hi>Winter,</hi> ſo all beare</l>
+               <l>At once, the rarities of all the yeare.</l>
+               <l>Yet let not my dull talke attempt to wrong,</l>
+               <l>T'anticipate the Subject of their Song,</l>
+               <l>But let the woods, rocks, &amp;c.</l>
+            </sp>
+            <stage>
+               <hi>Here are ſung the ſeverall Songs by ſeverall voices, with Symphanies betwixt, and a Chorus: during which,</hi> Time <hi>peruſeth the ſeverall preſents, as he diſcovers them orderly: All which are exprest in the Song.</hi>
+            </stage>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <head>The Seaſons Song.</head>
+                        <sp>
+                           <speaker>Spring.</speaker>
+                           <l>
+                              <hi>Thoſe Flow'rs your Infancie did crowne,</hi>
+                           </l>
+                           <l>Spring <hi>doth againe to you reſigne,</hi>
+                           </l>
+                           <l>
+                              <hi>Which now are yours, no more her owne,</hi>
+                           </l>
+                           <l>
+                              <hi>The Prim-roſe, and ſweet Eglantine,</hi>
+                           </l>
+                           <pb facs="tcp:8602:8"/>
+                           <l>
+                              <hi>The Daiſie, Pinck, and Violet blew,</hi>
+                           </l>
+                           <l>
+                              <hi>All which receiv'd their ſents from you.</hi>
+                           </l>
+                           <l>May <hi>Bloſſomes now ſhall never fade,</hi>
+                           </l>
+                           <l>
+                              <hi>You have</hi> May <hi>everlaſting made.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Chorus.</speaker>
+                           <lg>
+                              <l>
+                                 <hi>All hearts rejoyce, which now behold</hi>
+                              </l>
+                              <l>
+                                 <hi>Againe the happy Age of Gold.</hi>
+                              </l>
+                              <l>
+                                 <hi>For</hi> Time <hi>to us hath brought far more</hi>
+                              </l>
+                              <l>
+                                 <hi>True joyes, then fain'd were heretofore.</hi>
+                              </l>
+                              <l>
+                                 <hi>Three Royall Bloſſomes to us hee doth bring,</hi>
+                              </l>
+                              <l>
+                                 <hi>Whoſe lookes and ſweetneſſe, make eternall</hi> Spring.</l>
+                           </lg>
+                           <lg>
+                              <l>May <hi>Cherries plaſht up to the wall,</hi>
+                              </l>
+                              <l>
+                                 <hi>The Dew-berries, that in valleyes growes,</hi>
+                              </l>
+                              <l>
+                                 <hi>Kept in your lips, ſhall never fall,</hi>
+                              </l>
+                              <l>
+                                 <hi>The Lady Graſſe, and the Muske Roſe,</hi>
+                              </l>
+                              <l>
+                                 <hi>Which were your Mantle ſwathing band</hi>
+                              </l>
+                              <l>
+                                 <hi>You make yet floriſh freſhly, and</hi>
+                              </l>
+                              <l>
+                                 <hi>Sweet Fennell, for Court flatterers fit</hi>
+                              </l>
+                              <l>
+                                 <hi>Lives under you, you above it.</hi>
+                              </l>
+                           </lg>
+                        </sp>
+                        <sp>
+                           <speaker>Chorus.</speaker>
+                           <l>
+                              <hi>All hearts rejoyce, &amp;c.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Sommer.</speaker>
+                           <l>
+                              <hi>To keepe the</hi> Sommers <hi>heat away,</hi>
+                           </l>
+                           <l>
+                              <hi>Which Earth from the young Sun receives.</hi>
+                           </l>
+                           <l>
+                              <hi>The Elme, the Siccamore, and Bay</hi>
+                           </l>
+                           <l>
+                              <hi>Still ſhade you with their laſting Leaves.</hi>
+                           </l>
+                           <l>
+                              <hi>The Lillies, and the Damaske Roſe,</hi>
+                           </l>
+                           <l>
+                              <hi>The ſheets and bed, when you repoſe,</hi>
+                           </l>
+                           <l>
+                              <hi>More white, more ſweet, more ſoft have bin</hi>
+                           </l>
+                           <l>
+                              <hi>Since they did touch your whiter skin.</hi>
+                           </l>
+                           <pb facs="tcp:8602:9"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb facs="tcp:8602:9"/>
+                           <gap reason="duplicate" extent="1 page">
+                              <desc>〈1 page duplicate〉</desc>
+                           </gap>
+                           <pb facs="tcp:8602:10"/>
+                           <l>
+                              <hi>To ſleepe when your faire eyes incline,</hi>
+                           </l>
+                           <l>
+                              <hi>Hiding from Men their deareſt light,</hi>
+                           </l>
+                           <l>
+                              <hi>Let hearts eaſe, Flow'rs of Ieſſamine,</hi>
+                           </l>
+                           <l>
+                              <hi>And Roſe-marie your couches dight.</hi>
+                           </l>
+                           <l>
+                              <hi>The holy Thiſtle downe ſhall fill</hi>
+                           </l>
+                           <l>
+                              <hi>Your Pillowes, Boulſters, and untill</hi>
+                           </l>
+                           <l>
+                              <hi>You riſe like</hi> Gemini, <hi>arme in arme,</hi>
+                           </l>
+                           <l>Levander <hi>cotten keepe you warme.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Chorus.</speaker>
+                           <l>
+                              <hi>All hearts rejoyce, &amp;c.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Autumne.</speaker>
+                           <l>
+                              <hi>Riſing from Beds of</hi> Iuly <hi>flow'rs</hi>
+                           </l>
+                           <l>
+                              <hi>With</hi> Hyacinthus, <hi>and</hi> Narciſſus <hi>ſpred</hi>
+                           </l>
+                           <l>
+                              <hi>Into your lap</hi> Autumnus <hi>pow'rs,</hi>
+                           </l>
+                           <l>
+                              <hi>The Mul-berries, and Raſpis red,</hi>
+                           </l>
+                           <l>Pomona <hi>in her Basket beares</hi>
+                           </l>
+                           <l>
+                              <hi>Apricocks, and Bon Chriſtian Peares.</hi>
+                           </l>
+                           <l>
+                              <hi>And</hi> Bacchus <hi>forth his hand will reach</hi>
+                           </l>
+                           <l>
+                              <hi>To pluck the Damſon, Fig, and Peach.</hi>
+                           </l>
+                           <l>
+                              <hi>And for digeſtion, Candian wines</hi>
+                           </l>
+                           <l>
+                              <hi>Will skinke out of his Indian gourd</hi>
+                           </l>
+                           <l>
+                              <hi>Mellecottones, and Nectarines</hi>
+                           </l>
+                           <l>
+                              <hi>Hee brings you from his mellow hoord,</hi>
+                           </l>
+                           <l>
+                              <hi>That you ſhall wiſh, while you them taſte,</hi>
+                           </l>
+                           <l>Autumne <hi>and</hi> Spring <hi>may ever laſt:</hi>
+                           </l>
+                           <l>
+                              <hi>Or, that, except them two, there were</hi>
+                           </l>
+                           <l>
+                              <hi>No other Seaſons of the yeare.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Chorus.</speaker>
+                           <l>
+                              <hi>All hearts rejoyce, &amp;c.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Winter.</speaker>
+                           <l>
+                              <hi>Cold</hi> Winter <hi>brings to crowne your Age</hi>
+                           </l>
+                           <l>
+                              <hi>Many happy yeares are told.</hi>
+                           </l>
+                           <pb facs="tcp:8602:10"/>
+                           <l>
+                              <hi>The Mirtle, Savory, and Sage,</hi>
+                           </l>
+                           <l>
+                              <hi>The ſemper viva, never old,</hi>
+                           </l>
+                           <l>
+                              <hi>To Crowne your high victorious browes</hi>
+                           </l>
+                           <l>
+                              <hi>Greene lawrell Garlands, Arbute boughes</hi>
+                           </l>
+                           <l>
+                              <hi>With Palmes, and Olives, whoſe increaſe</hi>
+                           </l>
+                           <l>
+                              <hi>Are emblems of your laſting peace.</hi>
+                           </l>
+                           <l>
+                              <hi>Nor is cold winter yet at all</hi>
+                           </l>
+                           <l>
+                              <hi>Leſſe frolicke, then the wanton Spring:</hi>
+                           </l>
+                           <l>
+                              <hi>The Robin red Breſt in the Hall</hi>
+                           </l>
+                           <l>
+                              <hi>Picking up crummes at Chriſtmas ſing</hi>
+                           </l>
+                           <l>
+                              <hi>When winds blow cold, and wayes be fowle</hi>
+                           </l>
+                           <l>
+                              <hi>In Barnes, and ſheepe coats ſits the</hi> Owle,</l>
+                           <l>
+                              <hi>Whoſe note the husbandman delights</hi>
+                           </l>
+                           <l>
+                              <hi>When as ſhee h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ots in froſty nights.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Chorus.</speaker>
+                           <l>
+                              <hi>All harts, &amp;c.</hi>
+                           </l>
+                           <stage>The Songs being ended.</stage>
+                        </sp>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <stage>Here is diſ<g ref="char:EOLhyphen"/>covered the Temple of <hi>Mi<g ref="char:EOLhyphen"/>nerva</hi> ſuppor<g ref="char:EOLhyphen"/>ted upon Do<g ref="char:EOLhyphen"/>ricke columnes ſtanding in a grove, before the Temple gate an anticke <hi>Greeke</hi> Altar whereon was a Crowne placed.</stage>
+               <l>SEaſons I thanke you, that have all ſo well</l>
+               <l>Striv'd by your loves each others to excell</l>
+               <l>In honour of theſe Princes. Now by you,</l>
+               <l>
+                  <hi>Time,</hi> let my ſervice be preſented too.</l>
+            </sp>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>
+                  <hi>TIme</hi> takes <hi>your charge,</hi> and ſwiftly will declare</l>
+               <l>What the devotions of <hi>Minerva</hi> are.</l>
+               <l>To you great Prince, and to each bleſſed <hi>Bud</hi>
+               </l>
+               <l>Of the ſame Royall Stocke, and link'd in bloud</l>
+               <l>With you, <hi>Minerva</hi> gratefully imparts</l>
+               <l>Full knowledge, and true uſe of Armes, Arts,</l>
+               <pb facs="tcp:8602:11"/>
+               <l>And that ſhee, bound unto this gratitude</l>
+               <l>I by fames Trumpet will make underſtood</l>
+               <l>Her reaſon through the VVorld, for thus ſhee ſayes,</l>
+               <l>Whereas of old ſhee was ſole patroneſſe</l>
+               <l>Of Armes, and Arts, and former ages through</l>
+               <l>Had reverence, and adoration due</l>
+               <l>To her divinitie; ſhee by blind chance</l>
+               <l>Hath beene of late, and blinder ignorance</l>
+               <l>Rudely oppoſ'd, oppreſt, and laſtly throwne</l>
+               <l>By violence from her proper manſion</l>
+               <l>Altars, and Temples, that were dedicate</l>
+               <l>To her of old, are now laied ruinate,</l>
+               <l>And ſhee forlorne to give the World a view</l>
+               <l>Was all to ſeeke of houſe, and patron too,</l>
+               <l>Labouring with that diſtreſſe, unto this Ile</l>
+               <l>More gratious made by the moſt gratious ſmile</l>
+               <l>Of its moſt royall Soveraigne, then the day</l>
+               <l>In other Lands, by <hi>Phoebus</hi> brighteſt ray,</l>
+               <l>She bent her courſe, and here ſhee was receiv'd</l>
+               <l>By the moſt gratious, bounteous King releiv'd,</l>
+               <l>Planted, and raiſd to a magnificke State,</l>
+               <l>Above the reach of her malignant Fate:</l>
+               <l>For which unequall grace, ſhee can no leſſe</l>
+               <stage>
+                  <hi>Here a</hi> cupid <hi>deſcending with a light in his hand ſhevves unto the Prince a Crowne, which is placed on</hi> Minerva's <hi>Al<g ref="char:EOLhyphen"/>tar, and reſer<g ref="char:EOLhyphen"/>ved by her for his highnes.</hi>
+               </stage>
+               <l>Then yeeld her ſelfe to be his votareſſe,</l>
+               <l>Of all her gifts devoting the renowne</l>
+               <l>A due addition to his fourefold Crowne.</l>
+               <l>In pledge whereof, firſt branch of that faire ſtem,</l>
+               <l>High Prince, here is <hi>a Royall diadem</hi>
+               </l>
+               <l>Brought from her old, here to her Athens new</l>
+               <l>By your propitious Fate reſerv'd for you</l>
+               <l>Vpon <hi>Minerva's</hi> Altar, 'tis noe ſlight</l>
+               <l>Or fabulous thing that <hi>Time</hi> ſhall now recite;</l>
+               <pb facs="tcp:8602:11"/>
+               <l>
+                  <note place="margin">Hippocrates di<g ref="char:EOLhyphen"/>vinanatura pre<g ref="char:EOLhyphen"/>ditus nonus a Chriſamide Re<g ref="char:EOLhyphen"/>ge, decimus et octavus ab AEſ<g ref="char:EOLhyphen"/>culapio. Vige<g ref="char:EOLhyphen"/>ſimus a looe ex Patre Hera<g ref="char:EOLhyphen"/>clida, ex matre Paxithea Phae<g ref="char:EOLhyphen"/>naretes ſilia ex familia He a<g ref="char:EOLhyphen"/>clidarum, quare ex utroque ſe. mine a Diis or<g ref="char:EOLhyphen"/>tum habet di<g ref="char:EOLhyphen"/>vinus Hippocra<g ref="char:EOLhyphen"/>tes, ut qui a patre quidem Aſclepiades eſt, a matre Hera<g ref="char:EOLhyphen"/>clides. didicit arta<g ref="char:cmbAbbrStroke">̄</g>tuma Patre Heraclidatu<g ref="char:cmbAbbrStroke">̄</g> ab avo Hippocrate &amp; proinde iu<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſime, in mul<g ref="char:EOLhyphen"/>tis terrae locis divinos honores etiam ipſe c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<g ref="char:EOLhyphen"/>ſequutus eſt, et tisdem do<g ref="char:EOLhyphen"/>nariis cum Her<g ref="char:EOLhyphen"/>cule et AEscula pioab Athenienſi bus dignu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> fact<g ref="char:EOLhyphen"/>us eſt. paetus in epiſtola ad Re<g ref="char:EOLhyphen"/>gem Regum Magnum Artaxerxem. Heraclidae erant Gigantes, in oratione Theſſaliad A<g ref="char:EOLhyphen"/>thenienſes. Hippocrates ge<g ref="char:EOLunhyphen"/>nere et arte con<g ref="char:EOLunhyphen"/>junctus eſt Aeſ<g ref="char:EOLhyphen"/>culapio, hic vero Herculis eſt ex fratre nepos. in Epiſtola ſenatus Populique Abde<g ref="char:EOLhyphen"/>ritarum.</note>
+Tis found in my records' mongſt ancient rules</l>
+               <l>That were obſerved in <hi>Minervas</hi> Schooles</l>
+               <l>That thoſe of Phyſicke were not held the leaſt</l>
+               <l>But rather moſt Divine of all the reſt,</l>
+               <l>And that of old Phyſitians had relation</l>
+               <l>Mongſt Princes, and the gods, and adoration</l>
+               <l>Given to their perſon, and their memories.</l>
+               <l>Then ſhin'd <hi>Minerva's</hi> Altar, when her wiſe</l>
+               <l>
+                  <hi>Athenians</hi> there, to adde his renowne,</l>
+               <l>Gave <hi>Hercules</hi> an Aeſculapian Crowne:</l>
+               <l>And after him, when by the ſame decree</l>
+               <l>Great skil'd <hi>Hippocrates</hi> upon his knee</l>
+               <l>Receiv'd the like, and was ſent crowned thence</l>
+               <l>Phyſitians, and Philoſophers, high Prince,</l>
+               <l>This Crowne ſtill reſerves in ſtore</l>
+               <l>Great Sir, to adde unto your future fowre.</l>
+               <l>To this, as to the reſt, y'are Princely heire</l>
+               <l>Prince of Phyſitians borne your titles faire</l>
+               <l>And I finde it (<hi>Time</hi> ſhall doe noe wrong)</l>
+               <l>In rendring truth, though his diſcourſe be long.</l>
+               <l>In <hi>Florence</hi> the firſt Dukes to crowne the name</l>
+               <l>Of <hi>Coſmus,</hi> who moſt piouſly became</l>
+               <l>Patron of chriſtian cures ſucceſſively,</l>
+               <l>Were (the Phyſitians art to dignifie)</l>
+               <l>Through many raignes calld <hi>Coſmus,</hi> latter daies</l>
+               <l>Have crow'nd the <hi>Medici</hi> with flouriſhing Baies,</l>
+               <l>All of them ſtill imploying, that they are</l>
+               <l>Patrons of all Phyſitians regulare:</l>
+               <l>And from the illuſtrious <hi>Florence Medici</hi>
+               </l>
+               <l>You draw a line from <hi>France</hi> to <hi>Britanie</hi>
+               </l>
+               <l>Twas firſt the honour of the <hi>Florence</hi> Crowne</l>
+               <l>To take its faire denomination</l>
+               <pb facs="tcp:8602:12"/>
+               <l>From phyſicks Art, and that but rationall</l>
+               <l>In <hi>France</hi> to phyſicke ſupernaturall.</l>
+               <l>That titles linckt, and both in one brought ore</l>
+               <l>Met the miraculous cure was here before</l>
+               <l>In the thrice happy <hi>England,</hi> ſoe you are</l>
+               <l>By vertue of deſcent apparant heire</l>
+               <l>To the Phyſitians crowne, who both inherit</l>
+               <l>Of rationall, and miraculous cures the ſpirit.</l>
+               <l>
+                  <note place="margin">
+                     <hi>That thoſe of phyſicke. Hip<g ref="char:EOLhyphen"/>pocrates divina natura praeditus eſt, nonus quidem a Criſamide Rege: &amp;c, Hippocrates</hi> is indowed with a Divine Nature the ninth truly by de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cent from King Criſamides, the eightteenth from <hi>Eſculapius,</hi> the twentith from <hi>Iupiter:</hi> by his mother <hi>Praxithea</hi> the daughter of <hi>Phaenaretes.</hi> he is of the family of <hi>the Heraclides,</hi> by his father an <hi>Aſclepiad,</hi> ſo that by both his parents divine <hi>Hippocrates</hi> hath his off-ſpring from the gods, &amp; for his Art moſt iuſtly hath in many places of the earth obtayned divine honors &amp; with <hi>Hercules &amp; Eſculapius,</hi> hee hath by the <hi>Athenians</hi> bin made worthy of the ſame gifts &amp;c: <hi>Petus Proconſull</hi> in his <hi>Epiſtle</hi> to the great King of Kings <hi>Artaxerxes.</hi>
+                  </note>For which, and for the favours done to her</l>
+               <l>
+                  <hi>Minerva</hi> muſt on you this Crowne conferre.</l>
+            </sp>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <stage>Here the mu<g ref="char:EOLhyphen"/>ſicke ſounds for the dance of the 4. Nations of <hi>England Scotland, France</hi> and <hi>Ireland.</hi>
+               </stage>
+               <l>
+                  <hi>TIme</hi> while you ſtrive to ſhew my gratitude</l>
+               <l>I feare you are thought tedious if not rude</l>
+               <l>To preſſe ſoe farre. But harke this Muſicke ſaies</l>
+               <l>Each Nation, that ſubjectingly obeyes</l>
+               <l>Their Majeſties, and you are come to ſhow</l>
+               <l>With nimble feete the duty, that they owe</l>
+               <l>
+                  <note place="margin">Viſum est, ac decretum ſena<g ref="char:EOLhyphen"/>tui &amp; populo Athenienſium ut gratiam con<g ref="char:EOLhyphen"/>dignam Hippo<g ref="char:EOLhyphen"/>crati pro bene<g ref="char:EOLhyphen"/>factis referat, ipſum publicè magnis myſteriis initiare quemad<g ref="char:EOLhyphen"/>modum Hercu<g ref="char:EOLhyphen"/>lem f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ium lovis, &amp; Coronare ipſum Corona aurea mille anreorum, et ipſam Coronam quatriis magnis Minerva feſtis, in Gertamine gymnico per praeconem pro<g ref="char:EOLhyphen"/>clamare. in Decreto Atheni, enſium. Ab initio Dei unde genus no<g ref="char:EOLhyphen"/>ſtrum eſſe glori<g ref="char:EOLhyphen"/>amur Aeſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ula<g ref="char:EOLhyphen"/>pius et Hercules in hominum u<g ref="char:EOLhyphen"/>tilitatem prog<g ref="char:EOLhyphen"/>natiſunt. Et ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> proptervirtutem quam exercue<g ref="char:EOLhyphen"/>runt, omnes de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>rumloco habent Oratio Thèſſali ad Athenienſes.</note>All in their kinde t'expreſſe their skill in dance.</l>
+               <l>Glad <hi>England</hi> firſt, blith <hi>Scotland,</hi> ſprightly <hi>France</hi>
+               </l>
+               <l>And civiliz'd <hi>Ireland</hi> ſhall in order trace</l>
+               <l>And doe their beſt to gaine a greater grace.</l>
+            </sp>
+            <stage>
+               <hi>Enter the Dancers who having ended their dance</hi> Minerva <hi>ſpeakes to the Princes.</hi>
+            </stage>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <l>NOw Princely ones may't pleaſe you to advance</l>
+               <l>And your aſpects on freſher objects glance</l>
+               <l>Of Armes, and Arts.</l>
+            </sp>
+            <pb facs="tcp:8602:12"/>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>
+                  <hi>Pray you be pleas'd to walke</hi>
+               </l>
+               <l>
+                  <hi>and pardon</hi> Time, <hi>old folks are full of talke.</hi>
+               </l>
+               <stage>The Prince, and the reſt are here conducted by <hi>Minerva,</hi> and <hi>Time</hi> towards the Chamber of <hi>Arts,</hi> and <hi>Armes,</hi> by the way <hi>Minerva</hi> turning to the Prince ſpeakes.</stage>
+            </sp>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <l>GReat <hi>Britaines</hi> Prince, ſince that your innate love</l>
+               <l>To learning doth ſoe ſoone your highnes move</l>
+               <l>To view <hi>Minerva's</hi> manſion, and to be</l>
+               <l>Admitted one of hers. Behold, and ſee</l>
+               <l>How I begin (out of a tender care</l>
+               <l>Complying with your yeeres) bookes to prepare</l>
+               <l>Fit for your ſtudies, now from which by ſenſe</l>
+               <l>You may extract the ſweeteſt quinteſſence</l>
+               <l>
+                  <note place="margin">Ego nunc cum mea ſobole, ole<g ref="char:EOLhyphen"/>aeramulis coro<g ref="char:EOLhyphen"/>notus ad Mi<g ref="char:EOLhyphen"/>neruae aram ſupplex conſiſto. Oratio Hippo<g ref="char:EOLhyphen"/>cratis ad aram conſiſtentis Coro. illa aurea inveſtrotheatro i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> poſita ad ſum. a<g ref="char:cmbAbbrStroke">̄</g>m aemulatione<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ac felicitatem patrem meum evexit: ſed et hoc beneficium ſuperaſtis, dum et patrem et me publicè Cereris et Proſerpinae myſteriis ac ſa<g ref="char:EOLhyphen"/>cris initiaſtis. Theſſalus in ora<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. ad Athenienſes. Theſſalus filius Hippocratis au<g ref="char:EOLhyphen"/>rea corona coro<g ref="char:EOLhyphen"/>natus ab Athe<g ref="char:EOLhyphen"/>nienſibus Theodoret.</note> Had by alluſion to each Authours name</l>
+               <l>To ſweeten learnings roote ſoe as the ſame</l>
+               <l>To others bitter might prove ſweete to you</l>
+               <l>Then freely taſte, and taſting caſt your view</l>
+               <l>Vpon each Authours name, whereby you may</l>
+               <l>Be more acquainted with them day by day.</l>
+               <l>And, as your better part ſhall ſhine more cleare</l>
+               <l>I'le from themſelves ſtill make you better cheare.</l>
+            </sp>
+            <stage>The Princes, and the reſt being entred.</stage>
+            <pb facs="tcp:8602:13"/>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>HOw now, what myſtery is this?</l>
+               <l>How dare you uſe the Prince thus, ſchoole-miſtris?</l>
+               <l>Are th'armes, and arts you promis'd to his view</l>
+               <l>To be pick't out of bookes? This is a new</l>
+               <l>And a courſe way of entertainment too.</l>
+               <l>A banquet had ben fitter.</l>
+            </sp>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <l>
+                  <hi>Such is this</hi>
+               </l>
+               <l>
+                  <hi>TIme,</hi> if you knew but what ſweete learning is</l>
+               <l>Compos'd in theſe plaine bookes, your ſelfe would ſay</l>
+               <l>Both for delight, and health his Highnes may</l>
+               <l>Not onely taſte, but as his meat devoure them,</l>
+               <l>And ſoe become a <hi>Helluo librorum.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>YEt by your learned leave, <hi>Minerva,</hi> let</l>
+               <l>Before his taſter here the bookes be ſet</l>
+               <l>What <hi>Authour's</hi> this? pray let us here begin</l>
+               <l>
+                  <hi>Suetonius</hi> ſaies his out ſide: but within</l>
+               <l>All ſweet meats. Oh ſweete <hi>Suetonius!</hi>
+               </l>
+               <l>What's his next neighbour? <hi>Aulus Gellius,</hi>
+               </l>
+               <l>All gellies, as I am true <hi>Time.</hi> What lurkes</l>
+               <l>Here in this volume? Tis Frier <hi>Bacons</hi> workes</l>
+               <l>Moſt ſweetely interlarded. And here's <hi>Cato</hi>
+               </l>
+               <l>In bisket cakes, and ſugar plates in <hi>Plato.</hi>
+               </l>
+               <l>
+                  <hi>Eraſmus</hi> full of preſerv'd Raſpices,</l>
+               <l>Delicate Authors all. Now what are theſe</l>
+               <l>
+                  <hi>Dameſins</hi> in <hi>Damaſcenus,</hi> and preſerv'd</l>
+               <pb facs="tcp:8602:13"/>
+               <l>Lemons here in <hi>Levinus Lemnius</hi> ſerv'd.</l>
+               <l>Aples in <hi>Apuleius.</hi> All's good cheere.</l>
+               <l>But ſtay <hi>Minerva,</hi> what good drinke ha'ye here</l>
+               <l>To waſh it downe? oh here I ſee are brought</l>
+               <l>Nine Amphora's of glaſſe; in each a draught</l>
+               <l>Of ſeverall waters, ſent from ſeverall wells</l>
+               <l>And fountaines, where the ſacred Muſes dwelles,</l>
+               <l>As their nine names, which are inſcrib'd thereon</l>
+               <l>Doe plainely ſhow. See firſt from <hi>Helicon</hi>
+               </l>
+               <l>
+                  <hi>Clio</hi> a cleare immortall liquour ſends,</l>
+               <l>
+                  <hi>Vrania Eridanus</hi> commends,</l>
+               <l>
+                  <hi>Thalia</hi> of <hi>Ionian</hi> pleaſant ſtreames</l>
+               <l>A drinke hath ſent. The auncient Poets Theames</l>
+               <l>
+                  <hi>Bacchus Minervas</hi> botle-man did bring</l>
+               <l>This ſweeteſt Nectar from the <hi>Theſpian</hi> ſpring,</l>
+               <l>A preſent from <hi>Erato:</hi> this pure cleane</l>
+               <l>Freſh water ſeemes to come from <hi>Hippocrene</hi>
+               </l>
+               <l>
+                  <hi>Euterpe's</hi> gift: and here, and pleaſe you, ſip ye</l>
+               <l>Of the cleare brooke, that runnes from <hi>Aganippe,</hi>
+               </l>
+               <l>Sent by <hi>Melpomene,</hi> ſo of the reſt,</l>
+               <l>Whoſe liquours come to dignifie the feaſt,</l>
+               <l>So may you eate, and drinke, and carry more</l>
+               <l>Of learning hence then <hi>Pallas</hi> keepes in ſtore.</l>
+               <stage>The banquet being ended <hi>Minerva</hi> turning to the Prince ſpeakes for a concluſion thus.</stage>
+            </sp>
+            <sp>
+               <speaker>Minerva.</speaker>
+               <l>NOw (royall Prince) with thankes let <hi>Pallas</hi> ſay;</l>
+               <l>Sh'has by your brightneſſe had a glorious day:</l>
+               <pb facs="tcp:8602:14"/>
+               <l>But you declining your <hi>Phoebean</hi> light</l>
+               <l>Will leave her ſhrouded in perpetuall night,</l>
+               <l>Vnleſſe to ſhow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> y'are pleas'd you leave for grace</l>
+               <l>A ſmile, which may illuminate the place.</l>
+               <l>So ſhall <hi>Minerva</hi> give a glad adieu</l>
+               <l>Withall her Atmes, and Arts to wait on you.</l>
+            </sp>
+            <stage>For the Banquet were provided litle Angels holding Candles to give light unto the Princes: which hung in the aire could no way be diſcerned.</stage>
+            <stage>
+               <hi>The Banquet which</hi> Minerva <hi>gave was incloſed in Ar<g ref="char:EOLhyphen"/>tificiall bookes, ſo handſomely made that no man could know but that they were very bookes indeed, diſpoſed and placed according to their ſeverall volumnes: betweene which by theſe nine ſeverall amphoras of Glaſſe were placed, full of</hi> 9 <hi>ſeve<g ref="char:EOLhyphen"/>rall ſorts of Wines as ſent from the</hi> 9 <hi>Muſes.</hi>
+            </stage>
+            <stage>
+               <hi>The Authors that</hi> Minerva <hi>ſhewed the Princes were many, but the firſt that fell into the Princes hands were theſe, which follow named: and in the frontiſpeece of them were found theſe Verſes following.</hi>
+            </stage>
+            <lg>
+               <head>In <hi>Suetonius</hi> theſe</head>
+               <l>MY title is <hi>Suetonius,</hi> but within</l>
+               <l>A hiſtory of ſweete meates doth begin,</l>
+               <l>Which ſo may pleaſe (Illuſtrious Prince) your taſte</l>
+               <l>As your life may all <hi>Caeſars</hi> Acts out laſt.</l>
+            </lg>
+            <lg>
+               <head>Aulus Gellius.</head>
+               <l>LEt the lampe waſting ſtudent, who delights</l>
+               <l>In reading <hi>Aulus Gellius</hi> Attike nights,</l>
+               <l>Make himſelfe pale: here for a Courtiers wit</l>
+               <l>Is nouriſhing ſtrong gelly much more fit.</l>
+            </lg>
+            <pb facs="tcp:8602:14"/>
+            <lg>
+               <head>Frier <hi>Bacons</hi> workes.</head>
+               <l>Frier <hi>Bacons</hi> workes my inſide well may be</l>
+               <l>Now Conjur'd into Collops: and yet ſee</l>
+               <l>There is no Puritane but would deſire</l>
+               <l>Like to the devill to devoure this Frier.</l>
+            </lg>
+            <lg>
+               <head>Lucius Florus.</head>
+               <l>See <hi>Lucius Florus</hi> from his hiſtory</l>
+               <l>Renders you nothing but a Prophecy</l>
+               <l>Vpon your flower deluces, which he ſayes</l>
+               <l>Shall grace your crowne bove all his Emperours bayes.</l>
+            </lg>
+            <lg>
+               <head>Levinus Lemnius de occultis naturae miraculis.</head>
+               <l>IF for <hi>Levinus Lemnius</hi> you doe finde</l>
+               <l>Dried canded Lemons, or a Citron rinde,</l>
+               <l>Heere ſoone read over: for at once you looke</l>
+               <l>On all the hidden ſecrets of his booke.</l>
+            </lg>
+            <lg>
+               <head>Apuleius.</head>
+               <l>NOt <hi>Apuleius</hi> golden Aſſes ſtory</l>
+               <l>(Glory of Princes) here is ſet before ye:</l>
+               <l>But golden apples of the <hi>Heſperides</hi>
+               </l>
+               <l>Are brought your taſte, as well as ſight to pleaſe.</l>
+            </lg>
+            <lg>
+               <head>Quintus Curtius.</head>
+               <l>MY outſide's <hi>Quinius Curtius</hi> (gratious Princes)</l>
+               <l>But ſee within my leaves are curious Quinces</l>
+               <l>This tranſpoſition well excuſed may be:</l>
+               <l>Bookes and their titles doe not ſtill agree.</l>
+            </lg>
+            <lg>
+               <head>Origen.</head>
+               <l>IF (curious reader) you deſire to know,</l>
+               <l>Why the inſide and the title differ ſo:</l>
+               <l>As <hi>Origen</hi> and <hi>Orang,</hi> make no doubt,</l>
+               <l>The Anagram's within of what's without.</l>
+            </lg>
+            <pb facs="tcp:8602:15"/>
+            <lg>
+               <head>Damaſcenus.</head>
+               <l>OLd <hi>Damaſcenus</hi> ſayes you are to young,</l>
+               <l>Sweet Prince, to reade or taſte of Phyſicke ſtrong:</l>
+               <l>Therefore which better may your palate ſuite,</l>
+               <l>Praeſcribes you damſens your liege Country fruite.</l>
+            </lg>
+            <lg>
+               <head>Eraſmus Roterodamus.</head>
+               <l>VVHen with <hi>Eraſmus</hi> you hereafter meete,</l>
+               <l>Youle find him like this Raſpis ſharpe &amp; ſweet</l>
+               <l>Sweete like Almond butter, which ne're came</l>
+               <l>From any butter box of <hi>Roterdame.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Cato.</head>
+               <l>
+                  <hi>CAto</hi> from Sugar Cakes not differs farre,</l>
+               <l>Since into diſtickes both divided are.</l>
+            </lg>
+            <lg>
+               <head>Plato.</head>
+               <l>VOuch ſafe of <hi>Platoes</hi> workes to taſte a piece,</l>
+               <l>Though not of Greeke, yet full of Ambergreece.</l>
+            </lg>
+            <lg>
+               <head>Manuſcripti.</head>
+               <l>AMongſt ſo many bookes tis not ore ſlip't,</l>
+               <l>That you have here a <hi>Manuſcript.</hi>
+               </l>
+               <l>You may well ſee by what you doe finde in't,</l>
+               <l>'Twas done by hand and never yet in Print.</l>
+            </lg>
+            <lg>
+               <head>Hermolaus Barbarus.</head>
+               <l>OF <hi>Hermolaus Barbarus</hi> the ſence</l>
+               <l>Is harmeles; barberies, like Eloquence:</l>
+               <l>Which though 'tis ſweet, hath tartnes mix't among</l>
+               <pb facs="tcp:8602:15"/>
+               <l>Witneſſe each wanton witty womans tongue.</l>
+            </lg>
+            <lg>
+               <head>Cardanus.</head>
+               <l>
+                  <hi>Cardanus</hi> workes theſe are, as ſome doe ſay,</l>
+               <l>But it ſeemes rather that they were his play.</l>
+            </lg>
+            <lg>
+               <head>Littleton.</head>
+               <l>HEre <hi>Littleton</hi> is ſet before your eyes,</l>
+               <l>Becauſe law's common, little ſhall ſuffice:</l>
+               <l>Yet is that little much to be regarded,</l>
+               <l>Becauſe an old Coke hath it interlarded.</l>
+            </lg>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

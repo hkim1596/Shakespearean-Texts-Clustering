@@ -1,0 +1,1214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The joviall crevv, or, The devill turn'd Ranter: being a character of the roaring Ranters of these times. /  Represented in a comedie, containing a true discovery of the cursed conversations, prodigious pranks, monstrous meetings, private performances, rude revellings, garrulous greetings, impious and incorrigible deporements of a sect (lately sprung up amongst us) called Ranters. Their names sorted to their severall natures, and both lively presented in action.</title>
+            <author>Sheppard, S. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93098</idno>
+            <idno type="STC">Wing S3166</idno>
+            <idno type="STC">Thomason E621_7</idno>
+            <idno type="STC">ESTC R206410</idno>
+            <idno type="EEBO-CITATION">99865572</idno>
+            <idno type="PROQUEST">99865572</idno>
+            <idno type="VID">117817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117817)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E621[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The joviall crevv, or, The devill turn'd Ranter: being a character of the roaring Ranters of these times. /  Represented in a comedie, containing a true discovery of the cursed conversations, prodigious pranks, monstrous meetings, private performances, rude revellings, garrulous greetings, impious and incorrigible deporements of a sect (lately sprung up amongst us) called Ranters. Their names sorted to their severall natures, and both lively presented in action.</title>
+                  <author>Sheppard, S. (Samuel)</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Ley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Samuel Sheppard.</note>
+                  <note>Annotation on Thomason copy: "Jan: 6 1650", the 51 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ranters --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117817:1" rendition="simple:additions"/>
+            <p> THE JOVIALL CREVV, OR, The Devill turn'd <hi>RANTER:</hi> Being a Character of <hi>The roaring</hi> Ranters <hi>of theſe Times.</hi>
+            </p>
+            <p>Repreſented in a COMEDIE, <hi>CONTAINING</hi> A true Diſcovery of the curſed Con<g ref="char:EOLhyphen"/>verſations, prodigious Pranks, monſtrous Meetings, private Performances, rude Revellings, garrulous Greetings, impious and incorrigible Deporements of a Sect (lately ſprung up a<g ref="char:EOLhyphen"/>mongſt us) called <hi>Ranters.</hi>
+            </p>
+            <p>Their Names ſorted to their ſeverall Natures, and both lively preſented in Action.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>W. Ley.</hi> 1651.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:117817:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of the devil's chariot rolling over Britain</figDesc>
+                  <lg>
+                     <head>The Prologue.</head>
+                     <l>
+                        <hi>Bedlam</hi> broke looſe? yes, <hi>Hell</hi> is open'd too:</l>
+                     <l>
+                        <hi>Mad-men,</hi> &amp; <hi>Fiends,</hi> &amp; <hi>Harpies</hi> to your view </l>
+                     <l>We do preſent: but who ſhall cure the <hi>Tumor?</hi>
+                     </l>
+                     <l>All the world now is in the <hi>Ranting Humor.</hi>
+                     </l>
+                  </lg>
+               </figure>
+            </p>
+            <pb facs="tcp:117817:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:117817:3"/>
+            <head>THE PERSONS.</head>
+            <list>
+               <item>
+                  <hi>Apoſtatus,</hi> ſomtime an Epiſco<g ref="char:EOLhyphen"/>parian, a Scholar.</item>
+               <item>
+                  <hi>Violentus</hi> a Painter.</item>
+               <item>
+                  <hi>Doſe</hi> an Apothecary.</item>
+               <item>
+                  <hi>Pigwidgin</hi> a Taylor.</item>
+               <item>
+                  <hi>Robustio</hi> a Souldier.</item>
+               <item>
+                  <hi>Aſinego</hi> a Gentleman.</item>
+               <item>
+                  <hi>Pandorſus</hi> Agent for the De<g ref="char:EOLhyphen"/>vill.</item>
+               <item>
+                  <hi>Lucifer.</hi>
+               </item>
+               <item>Mrs. <hi>Minks</hi> wife to <hi>Apoſtatus.</hi>
+               </item>
+               <item>Mrs. <hi>VVriggle</hi> wife to <hi>Pig<g ref="char:EOLhyphen"/>widgin.</hi>
+               </item>
+               <item>Mrs. <hi>Fulſome a</hi> Widow.</item>
+               <item>Mrs. <hi>Incorrigible</hi> wife to <hi>Vio<g ref="char:EOLhyphen"/>lentus.</hi>
+               </item>
+               <item>Mrs. <hi>Crave-drink</hi> wife to <hi>Doſe</hi>
+               </item>
+               <item>Mrs. <hi>Diſſimulatio</hi> wife to <hi>A<g ref="char:EOLhyphen"/>ſinego.</hi>
+               </item>
+               <item>Mrs. <hi>All-prate</hi> a Seamans wife, her husband abſent.</item>
+               <item>Mrs. <hi>Idlesby,</hi> Mrs. <hi>Doe-little,</hi> ci<g ref="char:EOLhyphen"/>tizens wives.</item>
+               <item>
+                  <hi>Horne, Byas,</hi> their husbands.</item>
+               <item>
+                  <hi>Sycophanti</hi> a Vintner.</item>
+               <item>
+                  <hi>Spolario</hi> a Drawer.</item>
+               <item>A Conſtable.</item>
+               <item>A Watch.</item>
+               <item>
+                  <hi>Clink</hi> Keeper of <hi>Finsbury.</hi>
+               </item>
+               <item>A Beadle and Officers.</item>
+            </list>
+            <p>The Scene, LONDON.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:117817:3"/>
+            <head>THE IOVIALL CREVV, OR The Devill turned <hi>RANTER.</hi>
+            </head>
+            <div n="1" type="act">
+               <head>ACT. I. SCENE I.</head>
+               <stage>Enter <hi>Apoſtatus, Doſe,</hi> his head bound about with a Napkin bloudy.</stage>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <p>Where in the name of <hi>Priſcian</hi> haſt thou been, thou ſanguine ſyring-man?</p>
+               </sp>
+               <sp>
+                  <speaker>Doſe.</speaker>
+                  <p>Oh this wicked world! I'le tell you Sir the ſto<g ref="char:EOLhyphen"/>ry: This cap you ſee <hi>(pointing to his head)</hi> covers a cruell wound. I yeſternight met with a crew of thoſe, who talk of heaven, and of a place of torment, to whom when I began to preach our Doctrine, one of the company with a pewter pot ſtruck me upon the head with all his might.</p>
+               </sp>
+               <sp>
+                  <speaker>Apost.</speaker>
+                  <p>Alas poor <hi>Doſe,</hi> there's no ſuch ſtrong neceſſity for to divulge our Doctrine in all companies.</p>
+               </sp>
+               <sp>
+                  <speaker>Doſe.</speaker>
+                  <p>That men ſhould be ſuch fools, to pinnion their own arms, tie their own legs, and propoſe ſuch ſtrange nothings to themſelves, on purpoſe for to keep themſelves in awe. When would they but perceive their happineſſe, both this world and the next is ſolely theirs; nor can they loſe their way although they would.</p>
+               </sp>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <p>No more of this at preſent (my dear <hi>Doſe)</hi> thou know'ſt,
+<pb n="2" facs="tcp:117817:4"/> though by our only ſacred Laws, <hi>every mans wife muſt be at his friends uſe,</hi> yet <hi>Pigwidgin</hi> the Tayler thwarts our cuſtome; he is content to rant with other women, but to expoſe his own Spouſe he denies; now have I plotted for to circumvent him: Thou knowſt we meet anon at <hi>Sychophantios,</hi> where while (as is our uſe) we drink and roar, ſtep thou home and bring thence ſome ſleepy potion, which I'le infuſe into his cup: ſo while he ſteeps, I'le uſe his wife before him, 'twill be rare ſport.</p>
+               </sp>
+               <sp>
+                  <speaker>Doſe;</speaker>
+                  <p>With all my heart, 'tis a work meritorious: we muſt ſometimes ſave ſouls againſt their wills! Oh here are all the Gang.—</p>
+                  <stage>Enter the <hi>Devill</hi> and <hi>Pandorſes.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Devill.</speaker>
+                  <p>How now <hi>Pan,</hi> where haſt thou been my dear <hi>Pan<g ref="char:EOLhyphen"/>dorſes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pandorſes.</speaker>
+                  <p>My much admired Maſter, I am but now come from my ſad imployment, I am ſo wearied and tyred vvith ran<g ref="char:EOLhyphen"/>ting it, that I am not my ſelf, ſo conſequently yours.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>Why, what haſt done for our infernall grace? prethee report, do they increaſe and multiply?</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>Moſt reverend <hi>Devill,</hi> I have obtained in your behalf the choice of all the Town, as Citizens wives, and others that will be led away, and there improved much.</p>
+               </sp>
+               <sp>
+                  <speaker>Devill.</speaker>
+                  <p>I muſt confeſſe my moſt obſequious Ningle, thou haſt behaved thy ſelf and our affairs with admirable diligence, and for thy pains, thou ſhalt obtain my favour for thy gains.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>Pray Sir your approbation.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>I have ſurvey'd the Univerſe, as <hi>France, Spain,</hi> and <hi>Italy,</hi> yet cannot parallel the Ranters of this our Engliſh Climate; I've blinded them with pleaſures of this world, by putting on a mask of Religion to make't no ſin, that makes my proſelites run headlong down to the infernall lake, where <hi>Cerberus</hi> tranſports them to their ſuppoſed joy, where yet at laſt, into infernall flames at length they're caſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>A good reward for ſuch ſervants.</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>But prethee <hi>Pan,</hi> let me ſee how they improve, let's have one merry Jig before we depart.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>Pleaſe you great Sir you ſhall.</p>
+                  <stage>
+                     <pb n="3" facs="tcp:117817:4"/> Enter <hi>Violentus, Pigwidgin, Aſinego, Robuſtio;</hi> Mrs. <hi>Minks,</hi> Mrs. <hi>Wriggle,</hi> Mrs. <hi>Fulſome,</hi> Mrs. <hi>Crave-drink,</hi> Mrs. <hi>Diſ<g ref="char:EOLhyphen"/>ſimulatio,</hi> Mrs. <hi>All-prate,</hi> Mrs. <hi>Incorrigible,</hi> ſinging in <hi>Chorus,</hi> and dancing</stage>
+               </sp>
+               <sp>
+                  <speaker>Violen.</speaker>
+                  <p>Come away, make no delay, of mirth we are no ſcanters,</p>
+               </sp>
+               <sp>
+                  <speaker>Pigwi.</speaker>
+                  <p>Dance and ſing all in a Ring, for we are Joviall Ranters.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſſine.</speaker>
+                  <l>Let fearfull ſouls refuſe their bowls,</l>
+                  <l>And tremble for to tipple:</l>
+               </sp>
+               <sp>
+                  <speaker>Robu.</speaker>
+                  <l>Let moon-men fear to <hi>domineere,</hi>
+                  </l>
+                  <l>And halt before a <hi>Cripple.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Come away, make no delay, of mirth we are no ſcanters,</l>
+                  <l>Dance and ſing all in a Ring, for we are Joviall Ranters.</l>
+               </sp>
+               <sp>
+                  <speaker>Apost.</speaker>
+                  <l>No hell we dread when we are dead,</l>
+                  <l>No Gorgon nor no Fury:</l>
+               </sp>
+               <sp>
+                  <speaker>Doſe;</speaker>
+                  <l>And while we live, wee'l drink and—</l>
+                  <l>In ſpight of Judge or Jury.</l>
+               </sp>
+               <sp>
+                  <speaker>Miu;</speaker>
+                  <l>Come on my Boys, receive your joys,</l>
+                  <l>And take your fill of pleaſure,</l>
+               </sp>
+               <sp>
+                  <speaker>Incori.</speaker>
+                  <l>Shoot for ſhoot, away let's doo'r,</l>
+                  <l>But we muſt have our meaſure.</l>
+               </sp>
+               <sp>
+                  <speaker>Fulſo.</speaker>
+                  <l>All lie down, as in a ſwovvn,</l>
+                  <l>to have a pleaſing Viſion.</l>
+               </sp>
+               <sp>
+                  <speaker>Crave.</speaker>
+                  <l>And then riſe with bared thighs,</l>
+                  <l>Who'd fear ſuch ſweet inciſion?</l>
+               </sp>
+               <sp>
+                  <speaker>All-pr.</speaker>
+                  <l>About, about, ye Joviall rout,</l>
+                  <l>Dance antick like Hob-gobblins;</l>
+               </sp>
+               <sp>
+                  <speaker>Chor.</speaker>
+                  <l>Drink and roar, and ſwear and whore,</l>
+                  <l>But yet no brawls or ſquoblings.</l>
+               </sp>
+               <sp>
+                  <speaker>Omnes.</speaker>
+                  <l>Come away, make no delay, of mirth we are no ſcanters,</l>
+                  <l>Dance and ſing all in a Ring, for we are Joviall Ranters.</l>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>Hovv like you theſe mad pranks of theſe our Joviall Crew?</p>
+               </sp>
+               <sp>
+                  <speaker>Div.</speaker>
+                  <p>Moſt exquiſitely well performed, I have not knovvn the
+<pb n="4" facs="tcp:117817:5"/> like, let them go on, and for their hire, I will revvard them vvith eternall fire.</p>
+                  <stage>Vaniſh in Thunder.</stage>
+               </sp>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <p>What means this horrid noiſe? ſure 'tis ſome dire pre<g ref="char:EOLhyphen"/>ſage of theſe our horrid actions, yet I hope my dear Aſſociates, this is but the <hi>praeludium</hi> to our mirth, let's novv to <hi>Sychophan<g ref="char:EOLhyphen"/>tios.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Aſſine.</speaker>
+                  <p>Where vve vvill drink ſvveet Wine and ſtrong To<g ref="char:EOLhyphen"/>bacco, till vve become immortall, there's Philoſophy for you.</p>
+               </sp>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <l>Avvay.</l>
+                  <l>Black night put on thy thickeſt miſts, and try</l>
+                  <l>For to abſcond us from <hi>Joves</hi> piercing eye.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="2" type="act">
+               <head>ACT. II. SCENE I.</head>
+               <stage>Enter Mrs. <hi>Idlesby,</hi> and <hi>Doe-little,</hi> tvvo Citizens vvives.</stage>
+               <sp>
+                  <speaker>Idlesby.</speaker>
+                  <p>Goſſip, if I am not on fire to be acquainted vvith ſome of this nevv Sect, may I vvant ſilver-lace for my next pet<g ref="char:EOLhyphen"/>ticoat, and be injoyned not to vvear ſo much as a <hi>Buckingham<g ref="char:EOLhyphen"/>ſhire</hi> edging upon my ſmocks.</p>
+               </sp>
+               <sp>
+                  <speaker>Doe-little.</speaker>
+                  <p>And ſo have I Mrs. <hi>Idlesby,</hi> vvithout doubt they are a rare Society, lead heavenly lives, nothing but acting good for one another, drinking love-healths, and amorous departments.</p>
+               </sp>
+               <sp>
+                  <speaker>Idlesby.</speaker>
+                  <p>They are the only people: O vvhat a put<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> our Di<g ref="char:EOLhyphen"/>vines do keep for honeſty, honour, and vertuous life! not to make <hi>Minotaurs</hi> of our gentle husbands; no mirth, no due re<g ref="char:EOLhyphen"/>freſhment muſt be had, ſave vvhat our impotent husbands vvill allovv: I am reſolv'd to be of their Religion, and go to heaven the neareſt vvay.</p>
+               </sp>
+               <sp>
+                  <speaker>Idlesby.</speaker>
+                  <p>A match, then vvee'l be Convertites together: this very day the prime of all the gang, the chief'ſt <hi>Theologiſts,</hi> and vvorthieſt fiſters of all that zealous Tribe are met together at <hi>Sychophantios</hi> houſe, the lime-hound Tavern, ſhall vve go to 'em?</p>
+               </sp>
+               <sp>
+                  <speaker>Doe-little.</speaker>
+                  <p>With all my heart, Iovve my life unto thee for the motion, let's avvay.</p>
+               </sp>
+               <sp>
+                  <speaker>Idlesby.</speaker>
+                  <p>The breeches are my ovvn, henceforth I'le rant.</p>
+               </sp>
+               <sp>
+                  <speaker>Doe-little.</speaker>
+                  <p>No vvay but this to be predominant.</p>
+                  <stage>Exeunt.</stage>
+                  <stage>
+                     <pb n="5" facs="tcp:117817:5"/> Enter (as in a Tavern) the whole crew of Ranters, viz. <hi>Apo<g ref="char:EOLhyphen"/>status, Violentus, Pigwidgin, Robuſtio, Aſinego, Minks, All-prate, Diſſimulatio, Fulſome, Incorrigible, Wriggle, Crave-drink.</hi>
+                  </stage>
+                  <stage>Enter <hi>Spolario.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Robust.</speaker>
+                  <p>Drawer <hi>(he knocks)</hi> where's your Maſter Sirrha?</p>
+               </sp>
+               <sp>
+                  <speaker>Spolar.</speaker>
+                  <p>At hand quoth pick-purſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Robuſt.</speaker>
+                  <p>Fill me all the empty veſſells in the houſe, I'le except none, with pure and ſparkling Racy.</p>
+               </sp>
+               <sp>
+                  <speaker>Spolar.</speaker>
+                  <p>Chamber-pots and all Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Robuſt.</speaker>
+                  <p>Out Rogue, jeer me! <note place="margin">ſtrikes him.</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spolar.</speaker>
+                  <p>Oh, oh, oh!</p>
+                  <stage>Enter <hi>Sychophantio.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Sychophant.</speaker>
+                  <p>What's the matter Noble Gentlemen?</p>
+               </sp>
+               <sp>
+                  <speaker>Robust.</speaker>
+                  <p>This Rogue your ſervant here—</p>
+               </sp>
+               <sp>
+                  <speaker>Sychophant.</speaker>
+                  <p>Sir, I am much obliged unto your love, that you would deign to caſtigate him; what wine wilt pleaſe this ho<g ref="char:EOLhyphen"/>nour'd company to have brought in, and eke what quantity?</p>
+               </sp>
+               <sp>
+                  <speaker>Apost.</speaker>
+                  <p>'Twould be too tedious and too troubleſome, to drag a But of right Canary hither, fill us ſome twenty Gallons of rich Sack, let lights adorn the room in every angle, a pound of right <hi>Varina,</hi> and a groſſe of ſhining pipes, fit for a females touth.</p>
+               </sp>
+               <sp>
+                  <speaker>Violen.</speaker>
+                  <p>Twenty Flaggons—'twill not amount to thimble fulls a piece, thirty wil ſerve to give the onſet with.</p>
+                  <l>
+                     <hi>A little wine, will make's a little rant,</hi>
+                  </l>
+                  <l>
+                     <hi>But ſeas of Sack will not ſuffice us ſcant,</hi>
+                  </l>
+                  <l>when we would reach the higheſt pitch of mirth.</l>
+               </sp>
+               <sp>
+                  <speaker>Sychophant.</speaker>
+                  <p>Your humble ſervant, the wine propos'd ſhall wait you preſently.</p>
+               </sp>
+               <sp>
+                  <speaker>Apost.</speaker>
+                  <p>Kiſſe cloſe, kiſſe cloſe my hearts, each ſuck <hi>Nepenthe</hi> from his females lips, until our <hi>Nectar</hi> do approach.</p>
+                  <stage>Enter <hi>Sychophantio,</hi> and two Drawers with Wine.</stage>
+               </sp>
+               <sp>
+                  <speaker>Sycho.</speaker>
+                  <p>Alll joys wait on this joviall company, this in obedi<g ref="char:EOLhyphen"/>ence to your juſt commands.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſinego.</speaker>
+                  <p>Rare <hi>Sychophantio,</hi> th'art the beſt Steward to <hi>Venus</hi> that ever fill'd quart pot.</p>
+               </sp>
+               <sp>
+                  <speaker>Apost,</speaker>
+                  <p>Ha! ha! ha! Steward to <hi>Bacchus</hi> you mean <hi>Aſinego,</hi> but
+<pb n="6" facs="tcp:117817:6"/> Wine and Venery are ſo near allied, 'twas but a ſlight miſtake: now drink like Dutchmen (while we ſing <hi>Paeans</hi> to the plump cheek'd god) let's tipple till we have ſwallow'd down their Charter, that for the future, when men quaffe profoundly, they may be ſaid to drink like us: Here Mrs. <hi>Pigwidgin,</hi> to our next procreation.</p>
+               </sp>
+               <sp>
+                  <speaker>Pigw.</speaker>
+                  <p>Hum, hum, hum!</p>
+               </sp>
+               <sp>
+                  <speaker>Doſe.</speaker>
+                  <p>A health to Mrs. <hi>Wriggle,</hi> as ſecond to our Maſter; I pro<g ref="char:EOLhyphen"/>poſe it.</p>
+               </sp>
+               <sp>
+                  <speaker>Wriggle.</speaker>
+                  <p>I thank you fellow-creatures, I'le ſerve either of you ſoul and body. <note place="margin">
+                        <hi>They all drink luſtily, while</hi> Apoſtatus <hi>whiſpers</hi> Doſe, <hi>and he goes off.</hi>
+                     </note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Robuſtio.</speaker>
+                  <p>Lovely Mrs. <hi>All-prate,</hi> in this I <hi>cele<g ref="char:EOLhyphen"/>brate the creatures health,</hi> who now is plowing on the angry main, whoſe ſaddle I ſupply, hee'l thank me for't.—</p>
+                  <p>Mrs. <hi>All-prate.</hi> He were a divel elſe: Here's to thee dear <hi>Violentus,</hi> this will inable thee 'gainſt next perfor<g ref="char:EOLhyphen"/>mance, you were faultringly feeble in the laſt.</p>
+                  <stage>ſhe drinks.</stage>
+                  <p>Mrs. <hi>Crave drink.</hi> Here's old drinking to me, have I a dogs face that I'me ſo neglected?</p>
+               </sp>
+               <sp>
+                  <speaker>Pigwidgin.</speaker>
+                  <p>Better this Town were buried in the Sea: here dear Mrs. <hi>Crave-dri.</hi> my beſt indeavors ever wait upon you.</p>
+                  <stage>(he drinks)</stage>
+                  <p>Mrs. <hi>All-prate.</hi> Here ſweet Mr. <hi>Doſe:</hi> Ha! where's Mr. <hi>Doſe.</hi>
+                  </p>
+                  <p>
+                     <hi>Apoſtatus</hi> Perhaps gone to evacuate: ſee hee's come.</p>
+                  <stage>Enter <hi>Doſe</hi> with a noiſe of Fidlers, dancing be<g ref="char:EOLhyphen"/>fore them and ſinging.</stage>
+               </sp>
+               <sp>
+                  <speaker>Doſe.</speaker>
+                  <l>I am the rar'ſt Ranter</l>
+                  <l>Of all the whole crew Boys,</l>
+                  <l>And he that denies it,</l>
+                  <l>I'le prove him a Jew Boys,</l>
+                  <l>For roaring; and whoring,</l>
+                  <l>You know I ſpeak true Boys.</l>
+               </sp>
+               <sp>
+                  <speaker>Violent.</speaker>
+                  <p>Fit to be Tutor to a Tribe: here fellow-creature, here's a whole ſlaſh to thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Doſe.</speaker>
+                  <p>I'le pledge thee, wer't to him they call old <hi>Rug:</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Aſſinego.</speaker>
+                  <p>Put off your hats Gentlemen.</p>
+               </sp>
+               <sp>
+                  <speaker>Apost:</speaker>
+                  <p>The Devill's an Aſſe like thee, and not worth drinking to: ſtrike high ye ſonnes of <hi>Orpheus</hi> and <hi>Arion.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pigwidgin.</speaker>
+                  <p>A Hall, a Hall:</p>
+               </sp>
+               <sp>
+                  <pb n="7" facs="tcp:117817:6"/>
+                  <speaker>Apoſtat.</speaker>
+                  <l>What power may us daunt,</l>
+                  <l>While we ſing roar and rant, <note place="margin">They dance confuſedly, and ſing this ſong in parts</note>
+                  </l>
+                  <l>A fig for the talkative rabble.</l>
+               </sp>
+               <sp>
+                  <speaker>Robuſti.</speaker>
+                  <l>We know what we do,</l>
+                  <l>And to heaven wee'l go</l>
+                  <l>Spight of the Watch, and the Conſtable.</l>
+               </sp>
+               <sp>
+                  <speaker>Pigwidg.</speaker>
+                  <l>There's but one Religion,</l>
+                  <l>The Turk with his Pidgeon,</l>
+                  <l>No man ſhall be puniſht for's Vices;</l>
+               </sp>
+               <sp>
+                  <speaker>Aſinego.</speaker>
+                  <l>All thoſe that deny</l>
+                  <l>With us to comply</l>
+                  <l>Are Caterpillars and Cockatrices.</l>
+               </sp>
+               <sp>
+                  <speaker>Violent.</speaker>
+                  <l>What more can be crav'd,</l>
+                  <l>We all ſhall be ſav'd</l>
+                  <l>Though our lives are never ſo vicious.</l>
+               </sp>
+               <sp>
+                  <speaker>All-pra.</speaker>
+                  <l>What ever we act</l>
+                  <l>'Tis an heavenly fact,</l>
+                  <l>And for our ſalvation auſpicious.</l>
+               </sp>
+               <sp>
+                  <speaker>Minks.</speaker>
+                  <l>Come ſome man or other,</l>
+                  <l>And make me a mother,</l>
+               </sp>
+               <sp>
+                  <speaker>Wriggle.</speaker>
+                  <p>Let no man fear for to board me:</p>
+               </sp>
+               <sp>
+                  <speaker>Fulſome.</speaker>
+                  <l>Come as many as will,</l>
+                  <l>I give 'em their fill,</l>
+                  <l>And thank 'em for that they afford me.</l>
+               </sp>
+               <sp>
+                  <speaker>Incorri.</speaker>
+                  <l>Come any ſtrong Rogue</l>
+                  <l>That would fain diſimbogue,</l>
+                  <l>Let's mingle, and try who's the ſtrongeſt,</l>
+               </sp>
+               <sp>
+                  <speaker>Diſſimu.</speaker>
+                  <l>I fain would comply</l>
+                  <l>With him that dare vye</l>
+                  <l>To ſtand to his tackling the longeſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Robuſt.</speaker>
+                  <p>Come my brethren of the Baſe Violl, ſome whim, ſome ayre, ſome catch. <hi>Fidler</hi> The beſt and neweſt Sir in Town.</p>
+                  <stage>He ſings.</stage>
+                  <l>Now let us ſtay, and ne're knock off till the envious day</l>
+                  <l>Shall diſturb us.</l>
+                  <l>No Conſtables ſtaffe, muſt hinder our quaffe,</l>
+                  <l>'Tis the reckoning alone that can curb us.</l>
+                  <pb n="8" facs="tcp:117817:7"/>
+                  <l> Let's mingle in mirth, and drink till our Noſes</l>
+                  <l>Are brighter then Berry, and redder then Roſes,</l>
+                  <l>He only can rant whom Canary diſpoſes.</l>
+                  <p>This muſt go round, do off your hats till the pavement be crown'd With your Beavers:</p>
+                  <p>A red-coated-face frights the Serjeant and his Mace, And the Conſtable trembles to ſhivers.</p>
+                  <l>Then in ſtate march your faces like ſome of the <hi>Quorum,</hi>
+                  </l>
+                  <l>When the whores do fall down, and the Vulgar adore 'um,</l>
+                  <l>And their Noſes like link-boys run ſhining before 'um.</l>
+                  <p>Call, call aloud, and ne're ceaſe till the pots together crowd In <hi>Battalia;</hi>
+                  </p>
+                  <l>Let our tipling make known, we came from the Town,</l>
+                  <l>By the vulgar y<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leped <hi>Weſtphalia.</hi>
+                  </l>
+                  <l>Let the Bar-boy go ſleep, and the Drawers leave roaring,</l>
+                  <l>Our looks ſhall account for them and a moring,</l>
+                  <l>When ſuch pimples that riſes ſhall have a quart ſcoring.</l>
+               </sp>
+               <sp>
+                  <speaker>Robuſt.</speaker>
+                  <p>Excellent! did this <hi>Minerva</hi> take flight from <hi>John Taylors,</hi> or <hi>Martin Parkers</hi> brain.</p>
+               </sp>
+               <sp>
+                  <speaker>Fidler.</speaker>
+                  <p>From neitheir Sir, an utter Bareſter fathers 'em, which makes ſome laugh, that the fool ſhould be ſo ambitious to rock the Cradle.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſinego.</speaker>
+                  <p>Sweet Mrs. <hi>All prate,</hi> I grow proud beneath the Navell, and muſt needs crave your aid with an <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>All-prate:</speaker>
+                  <p>Sir, I am none of your Jigging girls, who will play with a<g ref="char:EOLhyphen"/>ny bable, I am ſufficiently acquainted with the flatulency of your Nerve.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſinego:</speaker>
+                  <p>Mum, mum.</p>
+               </sp>
+               <sp>
+                  <speaker>Apost.</speaker>
+                  <p>Here's a health to all our friends in Kent, let her pledge me that dares make the Beaſt with tvvo backs before the whole Society.</p>
+               </sp>
+               <sp>
+                  <speaker>Fulſome.</speaker>
+                  <p>By all the fl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh on my back, a cordiall motion, the work is pious we attempt, 'twill add to the audacity of our Brethren.</p>
+               </sp>
+               <sp>
+                  <speaker>Ro.</speaker>
+                  <p>Rare rare, here deareſt fellow-creatures, I mean you that walk in <hi>Adonis</hi> Gardens to gather flowers once a moneth, more Wine there.</p>
+               </sp>
+               <sp>
+                  <speaker>Spolar.</speaker>
+                  <p>I come Sir, the Devill choak ye, ye rude Rogues, I muſt think of ſome way to be revenged for my broken pate.</p>
+                  <stage>Exit.</stage>
+                  <stage>
+                     <hi>Spolario</hi> enters with Wine.</stage>
+               </sp>
+            </div>
+            <div n="3" type="act">
+               <pb n="9" facs="tcp:117817:7"/>
+               <head>ACT III. SCENE I.</head>
+               <p>Enter <hi>Sychophantio.</hi>
+               </p>
+               <sp>
+                  <speaker>Sycho.</speaker>
+                  <p>Honoured Gentlemen; here are two handſome Females with<g ref="char:EOLhyphen"/>out, that deſire admittance into your company.</p>
+               </sp>
+               <sp>
+                  <speaker>All-pra.</speaker>
+                  <p>Let 'em come in, let 'em come in, I know the parties very well.</p>
+               </sp>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <p>Conduct 'em to us; two handſome women ſaiſt thou?</p>
+               </sp>
+               <sp>
+                  <speaker>Doſe:</speaker>
+                  <p>Some of our ovvn Society ſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Pigwidgin.</speaker>
+                  <l>Or elſe deſire to be.</l>
+                  <l>The Wine dies upon our hands.</l>
+               </sp>
+               <sp>
+                  <speaker>Doſe.</speaker>
+                  <p>You ſhall find it lively enough anon Sir, to the lulling of all your ſickly ſenſes.</p>
+               </sp>
+               <sp>
+                  <speaker>Spolar.</speaker>
+                  <p>I ſhall obſerve it ſtrictly Sir: excellent oportunity; I'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e be reveng'd on all for one mans folly.</p>
+                  <p>Aſſiſt me <hi>Bachus</hi> in this queint Vagary,</p>
+                  <p>As thou expect'ſt the ſale of thy Canary.</p>
+                  <stage>Enter <hi>Spolario</hi> with Wine: <hi>Doſe</hi> whiſpers him, and gives him a paper.</stage>
+                  <stage>SCENE II. Enter <hi>Idlesby</hi> and <hi>Doe-little.</hi>
+                  </stage>
+                  <stage>
+                     <hi>All the</hi> Ranters <hi>riſe up and congratulate their ap<g ref="char:EOLhyphen"/>proach.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Apoſtat.</speaker>
+                  <p>Welcome ye lovely pair: your amiable aſpects do proclaim you come as friends for to aſſociate us; treachery cannot lurk under ſuch looks, vvhere <hi>Cupid</hi> and the <hi>Graces</hi> love to lodge.</p>
+               </sp>
+               <sp>
+                  <speaker>Pigwidgin:</speaker>
+                  <p>Excellent creatures! Oh my bodkin troubles me.</p>
+               </sp>
+               <sp>
+                  <speaker>Viol.</speaker>
+                  <p>They rivall <hi>Venus,</hi> mother <hi>Dione, Juno</hi> her ſelf, or fair <hi>Astioche.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>All prate:</speaker>
+                  <p>Theſe faces are unknovvn to me, yet welcome fellow-crea<g ref="char:EOLhyphen"/>tures.</p>
+                  <stage>
+                     <hi>They all kiſſe the two new</hi> Ranters.</stage>
+                  <p>
+                     <hi>Idlesby,</hi> Knovv holy crevv, the fame of your fair lives, having once reach'd my ears, ſet me a longing to be made one of your bleſt Society, more then vvhen I vvas big vvith my Son <hi>Toby,</hi> and needs muſt eat a piece of roſted Bacon: be pleas'd to name me one of your Aſſociates, and I dare challenge Superiority above an Eaſtern Queen.</p>
+               </sp>
+               <sp>
+                  <speaker>Doe-little.</speaker>
+                  <p>She ſpeaks my thoughts, and my deſires.</p>
+               </sp>
+               <sp>
+                  <speaker>Robuſt.</speaker>
+                  <p>They've certified enough, vvhat need prolixity?</p>
+               </sp>
+               <sp>
+                  <speaker>Violent.</speaker>
+                  <p>Drink to the tvvo beauties, and then imitate them vvith mem<g ref="char:EOLhyphen"/>bers of our bodies.</p>
+               </sp>
+               <sp>
+                  <speaker>Doſe.</speaker>
+                  <p>Drink deep my hearts for joy of this new Union.</p>
+               </sp>
+               <sp>
+                  <pb n="10" facs="tcp:117817:8"/>
+                  <speaker>Pigwidgin.</speaker>
+                  <p>And let the ſtream of the ſtrong Indian weed involve us as we ſit i'th clouds.</p>
+                  <stage>They drink healths round, ſmoaking unani<g ref="char:EOLhyphen"/>mouſly.</stage>
+               </sp>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <p>So this was punctually perform'd: this (my pair of Beauties) is the firſt graduall ſtep to your uni<g ref="char:EOLhyphen"/>ting; come fellow-creatures now unto our Ceremo<g ref="char:EOLhyphen"/>nies.</p>
+                  <stage>
+                     <hi>All the old</hi> Ranters <hi>hand in hand ſurround the two new ones (who are upon their knees) ſinging about them.</hi>
+                  </stage>
+                  <p>
+                     <hi>The Song.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <l>Round round all in a ring,</l>
+                  <l>Fellow-creatures let us ſing:</l>
+                  <l>Here are two that come to be</l>
+                  <l>Annext to our Society:</l>
+               </sp>
+               <sp>
+                  <speaker>Viole.</speaker>
+                  <p>By <hi>Pluto's</hi> Crown, <hi>Proſerpines</hi> hair,</p>
+               </sp>
+               <sp>
+                  <speaker>Robu.</speaker>
+                  <p>
+                     <hi>Cerberus</hi> yell, <hi>Alecto's</hi> chair,</p>
+               </sp>
+               <sp>
+                  <speaker>Pig.</speaker>
+                  <p>By <hi>Epicurus</hi> happy life,</p>
+               </sp>
+               <sp>
+                  <speaker>Doſe.</speaker>
+                  <p>And <hi>Meſſalina, Claudius</hi> wife;</p>
+               </sp>
+               <sp>
+                  <speaker>Aſine.</speaker>
+                  <p>By <hi>
+                        <g ref="char:V">Ʋ</g>enus</hi> Gloves, and <hi>Lais</hi> paint,</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>By <hi>Iezabel</hi> our chiefeſt Saint:</p>
+               </sp>
+               <sp>
+                  <speaker>All-p.</speaker>
+                  <p>By Goats deſires, and Monkies heat,</p>
+               </sp>
+               <sp>
+                  <speaker>Fulſo.</speaker>
+                  <p>Spaniſh flies and ſtirring meat,</p>
+               </sp>
+               <sp>
+                  <speaker>Crav.</speaker>
+                  <p>By the vigour of an horſe,</p>
+               </sp>
+               <sp>
+                  <speaker>Diſſi.</speaker>
+                  <p>By all things of ſtrength and force,</p>
+               </sp>
+               <sp>
+                  <speaker>Incor.</speaker>
+                  <p>By <hi>Alcides</hi> back of ſteel,</p>
+               </sp>
+               <sp>
+                  <speaker>Wrig.</speaker>
+                  <p>By <hi>Ioves</hi> eſcapes, <hi>Omphales</hi> wheel,</p>
+               </sp>
+               <sp>
+                  <speaker>Apo.</speaker>
+                  <l>We adopt theſe happy pair,</l>
+                  <l>Of our Liberties to ſhare:</l>
+                  <stage>They diſſolve their hands.</stage>
+               </sp>
+               <sp>
+                  <speaker>All-p.</speaker>
+                  <l>Ariſe, ariſe, bleſt ſouls, and know,</l>
+                  <l>Now you may rant, <hi>cum privelegio.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <p>Now having finiſhed this pious work, let's drink deep healths unto the happy ſolace, we of the ſhirt may find with theſe two Siſters.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>iolentus:</speaker>
+                  <p>What ho! ſome Wine and more Tobacco there.</p>
+                  <stage>Enter <hi>Spolario</hi> with Wine.</stage>
+               </sp>
+               <sp>
+                  <speaker>Spolario:</speaker>
+                  <p>Here Gentlemen, novv <hi>Rhamnuſia</hi> aid me in my revenge, vovvd for my broken ſcull, that which <hi>Doſe</hi> gave me for to ſpice <hi>Pig<g ref="char:EOLhyphen"/>widgins</hi> cup, I've mix 'mongſt all this vvine—ha—thoſe tvvo faces I have
+<pb n="11" facs="tcp:117817:8"/> ſeen e're novv in milder company: <hi>he ſpies</hi> Idlesby <hi>and</hi> Doe-little! Oſtrange, they tvvo turn'd Ranters! I'le preſently acquaint their huſ<g ref="char:EOLhyphen"/>bands vvith't:</p>
+                  <p>Drink deep my Rogues untill you fall aſleep,</p>
+                  <p>A guard I'le fetch, your perſons ſafe to keep.</p>
+               </sp>
+               <sp>
+                  <speaker>Robuſt.</speaker>
+                  <p>Me thinks vv'are dul, quite loſt unto our liquor: this quart I'le ſvuallovv: novv fair Mrs. <hi>Idlesby</hi> and <hi>Doe-little,</hi> to thoſe dulced joys we ſhall make ours the time we mingle limbs.</p>
+                  <stage>They drink a<g ref="char:EOLhyphen"/>pace one to a<g ref="char:EOLhyphen"/>nother.</stage>
+               </sp>
+               <sp>
+                  <speaker>Violent.</speaker>
+                  <p>'Tis almoſt midnight—come, vve loſe time.</p>
+               </sp>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <p>I wonder <hi>Pigwidgin</hi> holds up ſo long, art ſure <hi>Spolario</hi> gave it him?</p>
+                  <stage>
+                     <hi>He whiſpers</hi> Doſe.</stage>
+               </sp>
+               <sp>
+                  <speaker>Doſe.</speaker>
+                  <p>O doubt it not, there's plummets hangs upon my eye-lids, I hardly can keep open the caſements.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſine.</speaker>
+                  <p>Goodnight Brethren of the ranting humour, I muſt needs ſnore a while:</p>
+                  <stage>They all fal aſleep.</stage>
+                  <p>Enter <hi>Spolario</hi> with the Conſtable, and the Watch.</p>
+               </sp>
+               <sp>
+                  <speaker>Spolar.</speaker>
+                  <p>Not a word to my Maſter—</p>
+               </sp>
+               <sp>
+                  <speaker>Conſt.</speaker>
+                  <p>Never fear it, the State ſhall give thee thanks for this diſcovery: I charge you my friends in the Kings Name, <hi>cry mercy in the Name of the Keepers of the Liberties of England,</hi> to indeavour to awake theſe perſons as well by kicking as pinching, and other laudable means, according to the Statute.</p>
+                  <p>1. <hi>Watchman:</hi> Sir 'tis in vain, they have drunk themſelves dead, or elſe (as the wiſe man ſaith) are dead drunk.</p>
+                  <stage>Enter <hi>Sycophantio.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Sycho.</speaker>
+                  <p>Noble Mr. Conſtable, What's the matter here?</p>
+               </sp>
+               <sp>
+                  <speaker>Conſt.</speaker>
+                  <p>Matter quoth you? Sir you keep a diſordered houſe; the State ſhall know it: for ought I know theſe men and women here have drunk their lives away.</p>
+               </sp>
+               <sp>
+                  <speaker>Sycho.</speaker>
+                  <p>Ile aſſure you Sir they had not above a pottle of Sack amongſt 'em, I wonder at the accident.</p>
+               </sp>
+               <sp>
+                  <speaker>Conſt.</speaker>
+                  <p>Call me a hackney veſſell hither, Ile have them (drunk or dead as they are) to Finsbury, 'twill be a peece of extraordinary juſtice: every man take one of theſe on his back (pay your ſelves for your portage with what you find in their pockets) lay them in ſeemly ranks within the coach, and guard them hence to Finsbury.</p>
+                  <p>2. <hi>VVatchman.</hi> It ſhall be done Sir.</p>
+                  <stage>[They beare off the bodies.]</stage>
+               </sp>
+            </div>
+            <div n="4" type="act">
+               <pb n="9" facs="tcp:117817:9"/>
+               <head>ACT IV. SCENE I.</head>
+               <stage>
+                  <hi>Apostatus, Aſinego, Robustio, Violentus, Doſe, Pigwidgin, Minks, Crave-drink, Fulſome, All-prate, Incorrigible, Diſſimulatio, Idlesby, Doe-little,</hi> as in Finsbury Goal aſleep. <hi>Robuſt.</hi> firſt awakes.</stage>
+               <sp>
+                  <speaker>Robust.</speaker>
+                  <p>Tother quort my hearts; this health deſerves, the higheſt celebration. What all aſleep! drunk as I live. <note place="margin">He looks a<g ref="char:EOLhyphen"/>bout him. He knocks.</note> Ha! this room is ſtrangely alter'd ſince laſt night. The Rogue <hi>Sycophantio</hi> has put a trick upon us.</p>
+               </sp>
+               <sp>
+                  <speaker>Clink.</speaker>
+                  <p>What want you Sir?</p>
+                  <stage>Enter <hi>Clink.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Rob.</speaker>
+                  <p>Want ſay'ſt thou? prethee what place is this? where's <hi>Sycophantio?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Clink.</speaker>
+                  <p>This, my friend, is Finsbury, a receptacle of theeves, debters, and drunkards: I am the Keeper of the place.</p>
+               </sp>
+               <sp>
+                  <speaker>Robuſt.</speaker>
+                  <p>Here's a miracle: prethee how came we here?</p>
+               </sp>
+               <sp>
+                  <speaker>Clink.</speaker>
+                  <p>A coach Sir brought you hither, and a Conſtable.</p>
+               </sp>
+               <sp>
+                  <speaker>Robust.</speaker>
+                  <p>So ho, ſo ho, ſo ho! <hi>He wakes the reſt</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apost.</speaker>
+                  <p>Sweet ſiſter, I am not now diſpos'd for dalliance; another time Ile doubly do my duty.</p>
+               </sp>
+               <sp>
+                  <speaker>Robust.</speaker>
+                  <p>What ho! They have drank <hi>Laethe</hi> ſure, ſome Poppey or Mandragora: W'are all undone: A Conſtable and his Watch (like ſaw<g ref="char:EOLhyphen"/>cy Devills) have given us tranſportation to this Goal, we know not when nor how.</p>
+                  <stage>They all awake.</stage>
+               </sp>
+               <sp>
+                  <speaker>Idle.</speaker>
+                  <p>Mercy on me; where are are we now?</p>
+               </sp>
+               <sp>
+                  <speaker>Aſine.</speaker>
+                  <l>Then fill more wine, it makes us divine;</l>
+                  <l>Here's a health to <hi>Thomas</hi> the Tinker.</l>
+                  <l>Ha! What ſtable's this?</l>
+                  <stage>Looks about him as in a maze.</stage>
+               </sp>
+               <sp>
+                  <speaker>Idle.</speaker>
+                  <p>O Mrs. <hi>Doe-little!</hi> w'are all undone.</p>
+               </sp>
+               <sp>
+                  <speaker>Doe-little.</speaker>
+                  <p>Peace fool; are we not all Ranters? That <note place="margin">
+                        <hi>Doſe whiſper<g ref="char:EOLhyphen"/>ing</hi> Apoſta<g ref="char:EOLhyphen"/>tus.</note> very epithete is of force enough to protect us againſt our husbands violence. This Rogue <hi>Spolario</hi> has ſpoil'd us all.</p>
+               </sp>
+               <sp>
+                  <speaker>Apoſt.</speaker>
+                  <p>You ſhould have followed my advice, and done the task I did preſcribe your ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>VVriggle.</speaker>
+                  <p>O <hi>Pigwidgin,</hi> what will become of us!</p>
+               </sp>
+               <div n="2" type="scene">
+                  <head>SCENE II.</head>
+                  <stage>Enter Mr. <hi>Horn</hi> and Mr. <hi>Byas,</hi> husbands to <hi>Idlesby</hi> and <hi>Doe-little</hi> (in diſguize) truncheons in their hands.</stage>
+                  <sp>
+                     <speaker>Apoſtatus.</speaker>
+                     <p>What are you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Horn.</speaker>
+                     <p>As you are, Ranters.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Robuſtio.</speaker>
+                     <p>Ranters? <hi>Byas,</hi> yes Ranters, our women are all in com<g ref="char:EOLhyphen"/>mon.</p>
+                     <pb n="13" facs="tcp:117817:9"/>
+                     <l> We drink quite drunk together, ſhare our Oaths,</l>
+                     <l>If one mans cloak be rent, all tear their Cloaths.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Apoſt.</speaker>
+                     <p>If you are one with us, you will ſubſcribe unto theſe ſeverall Articles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Horn.</speaker>
+                     <p>Good Sir let's hear 'em, we are pliant boys.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Apo.</speaker>
+                     <p>Imprimis, <hi>That you believe you are the beſt ſervants to heaven, when you roar lowdeſt, drink deepeſt, ſwear profoundeſt, whore the oftneſt, ſwear the execrablest, and rant the higheſt. Byas.</hi> very good.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Apoſt.</speaker>
+                     <p>Item, <hi>That you acknowledge your ſelves obliged to prostrate each man his wife to the uſe of his fellow-creature, and are ſo far from loathing the form of the act, that you would renounce and diſclaim her, in caſe ſhe deny a complyance.</hi> Item, <hi>That you have taken an Oath to</hi> Bacchus <hi>(having ſolemnly ſworn over a quart of Canary) to be drunk at leaſt five times a week, and to uſe your utmoſt indeavours to convert all out of the faith, to our manner of life and worſhip.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Horn.</speaker>
+                     <p>All this we were long ſince ſworn to, and to give you full ſa<g ref="char:EOLhyphen"/>tisfaction in that point, the females here of your Society muſt go along with us for ſatisfaction.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pigwidgin.</speaker>
+                     <p>I hope <hi>Wriggle</hi> thou wilt not go along with theſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Wriggle.</speaker>
+                     <p>Oh husband 'twere a ſin for to deny 'em, wee'l be a while in private with our new Brethren.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Robuſt.</speaker>
+                     <p>Sirs, though our Laws allovv an equall ſhare to all of our So<g ref="char:EOLhyphen"/>ciety with their women, we firſt muſt be aſſur'd you are of us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Horn.</speaker>
+                     <p>No more diſpute, they muſt along.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Robuſt.</speaker>
+                     <p>Muſt, they ſhall not Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Byas.</speaker>
+                     <l>We Citizens are expos'd to lead ſtrange lives,</l>
+                     <l>When we are forc'd to fight for our own wives.</l>
+                     <p>
+                        <hi>They fall together by the ears, the Ranters are ſoundly beaten; and their women carried off.</hi>
+                     </p>
+                  </sp>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <stage>Enter <hi>Clink, Horn, Byas, Idlesby, Doe-little,</hi> and the reſt of the ſhe-Ranters.</stage>
+               <sp>
+                  <speaker>Byas.</speaker>
+                  <p>Dear Mr. <hi>Clink,</hi> you have extremely obliged our gratitudes: good Sir, what have you done with the other gang?</p>
+               </sp>
+               <sp>
+                  <speaker>Clink.</speaker>
+                  <p>Ene clapt 'um altogether in one room; they are ſtrange fel<g ref="char:EOLhyphen"/>lows, and may be well call'd Ranters; they have uncloath'd themſelves unto their ſhirts, and their apparell they have laid to gage for ſtrong
+<pb n="14" facs="tcp:117817:10"/> drink and Tobacco: they drink healths, and ſwear and roar, as if they felt no cold, each with a pair of irons on his heels.</p>
+               </sp>
+               <sp>
+                  <speaker>Horn.</speaker>
+                  <p>You uſe our fellow-creatures too ſeverely, but 'tis not in our powers to help the matter: let us intreat you deareſt Siſters all, to fol<g ref="char:EOLhyphen"/>low Mr. <hi>Clink</hi> to the next room; we will begin with theſe two Ladies firſt, and ſo with all of you by turns.</p>
+               </sp>
+               <sp>
+                  <speaker>Clink.</speaker>
+                  <p>Come Ladies</p>
+                  <stage>
+                     <hi>All ſave</hi> Idlesby <hi>and</hi> Doe-little <hi>go off with</hi> Clink.</stage>
+                  <p>To'ther go naked for their pleaſures, you</p>
+                  <p>Shall for my profit be as naked too.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <sp>
+                  <speaker>Horn.</speaker>
+                  <p>Now thou vile ſtrumpet, doſt thou know this face?</p>
+               </sp>
+               <sp>
+                  <speaker>Idlesby.</speaker>
+                  <p>My husband! Oh I am undone.</p>
+               </sp>
+               <sp>
+                  <speaker>Byas.</speaker>
+                  <p>Impudent whore, is this your zeal to goodneſſe, to journey eve<g ref="char:EOLhyphen"/>ry morn e're ſix a clock unto S. <hi>Antholins</hi> to hear a Lecture, with a great Bible of Geneva print; your Table-book too, to take Sermon notes?</p>
+               </sp>
+               <sp>
+                  <speaker>Doe-little.</speaker>
+                  <p>Take heed Sir what you do, I am a Ranter.</p>
+               </sp>
+               <sp>
+                  <speaker>Byas.</speaker>
+                  <l>Yes whore, I find thou art.</l>
+                  <l>I can rant too for a need,</l>
+                  <l>Theſe are but fillips, I ſhould make thee bleed.</l>
+                  <stage>Beats her.</stage>
+               </sp>
+               <sp>
+                  <speaker>Doe-little:</speaker>
+                  <p>Oh, oh! dear husband.</p>
+               </sp>
+               <sp>
+                  <speaker>Horn:</speaker>
+                  <p>This puniſhment is too poor for their deſerts: you huſwife I'le not beat, or ſpurn, I will do more then that: theſe cloaths I gave you, come uncaſe, uncaſe.</p>
+                  <stage>Pulls off her cloaths.</stage>
+               </sp>
+               <sp>
+                  <speaker>Byas.</speaker>
+                  <p>You minion muſt participate her fate.</p>
+                  <stage>Tears off her cloaths.</stage>
+               </sp>
+               <sp>
+                  <speaker>Idlesby.</speaker>
+                  <p>For heavens ſake husband pardon me.</p>
+               </sp>
+               <sp>
+                  <speaker>Horn.</speaker>
+                  <p>Thou art beyond the bounds of abſolution.</p>
+               </sp>
+               <sp>
+                  <speaker>Byas:</speaker>
+                  <p>Ene go together, theſe would comber you: now you are fitter to dance <hi>Lavaltoes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Doe-little:</speaker>
+                  <p>Can you be ſo hard hearted?</p>
+                  <stage>Idlesby <hi>and</hi> Doe-little <hi>in their ſmocks.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Byas.</speaker>
+                  <p>Yes I'le aſſure you, no th'art a right Ranter.</p>
+               </sp>
+               <sp>
+                  <speaker>Horn.</speaker>
+                  <p>Here I for ever take my leave of thee: nay, no whining now: ſee here are all your <hi>fellow-Caco-Oxmons—</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Byas:</speaker>
+                  <p>Go, go, mingle your ſelves amongſt 'em, 'tis but in vain to tire me with Petitions.</p>
+                  <stage>Doe-little <hi>upon her knees begging.</hi>
+                  </stage>
+                  <p>I'le get me a new Mate, but I'le beware whom I wed for thy ſake, whom I durſt once have ſworn to be moſt vertuous.</p>
+                  <pb n="15" facs="tcp:117817:10"/>
+                  <p> Enter <hi>Apoſtatus, Violentus, Aſinego, Doſe, Robuſtio, Minks, Fulſome,</hi> and all the She-Ranters in their ſhirts and ſmocks, a Bea<g ref="char:EOLhyphen"/>dle with a whip, and other Officers.</p>
+               </sp>
+               <sp>
+                  <speaker>Beadle.</speaker>
+                  <p>March faſter Gentlemen Ranters, march faſter; I have others that wait to be diſpatch'd as well as you.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſinego.</speaker>
+                  <p>O <hi>Apoſtatus,</hi> what ſhall we do!</p>
+               </sp>
+               <sp>
+                  <speaker>Apoſtatus.</speaker>
+                  <p>Doe? be as thou art in ſhew, a man, and bear affliction pa<g ref="char:EOLhyphen"/>tiently.</p>
+               </sp>
+               <sp>
+                  <speaker>Aſinego.</speaker>
+                  <p>Oh Sir, but when affliction comes like a fury, with a Whip in her hand! Oh 'tis a ſore triall; would I had never learn't the Art of Ran<g ref="char:EOLhyphen"/>ting.</p>
+               </sp>
+               <sp>
+                  <speaker>Horn.</speaker>
+                  <p>Here Sir, take this She-Ranter in amongſt the reſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Byas:</speaker>
+                  <p>And this too, ſhe is one of the Society, though of a younger date.</p>
+               </sp>
+               <sp>
+                  <speaker>Robust.</speaker>
+                  <p>The more the merrier, I am reſolv'd to Rant it to the laſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Horn.</speaker>
+                  <p>Farewell ſweet <hi>Idlesby;</hi> now we muſt part,</p>
+               </sp>
+               <sp>
+                  <speaker>Byas.</speaker>
+                  <p>Laſh my wife well prethee, I'le pay thee for't.</p>
+                  <stage>Exeunt omnes.</stage>
+               </sp>
+               <p>VVritten by <hi>S. S.</hi> Gent.</p>
+               <p>
+                  <hi>Licenſed and Publiſhed according to Order:</hi>
+               </p>
+            </div>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

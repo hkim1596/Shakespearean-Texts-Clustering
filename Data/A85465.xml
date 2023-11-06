@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Gossips braule, or the women weare the breeches. A mock comedy. The actors names, Nick Pot, a tapster. Jone Ruggles, a dungel-raker. Doll Crabb, a fish-woman. Megg Lant-Ale, a tub-woman. Bess Bung-hole, an hostice, who all to try the mastery of their tongues, new wet their whistles, barley-oyl their lungs, then rais'd with choller, spleen and gaule, their tongues advance, and then begins the braule.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85465</idno>
+            <idno type="STC">Wing G1315</idno>
+            <idno type="STC">Thomason E826_10</idno>
+            <idno type="STC">ESTC R207705</idno>
+            <idno type="EEBO-CITATION">99866741</idno>
+            <idno type="PROQUEST">99866741</idno>
+            <idno type="VID">119026</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119026)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E826[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Gossips braule, or the women weare the breeches. A mock comedy. The actors names, Nick Pot, a tapster. Jone Ruggles, a dungel-raker. Doll Crabb, a fish-woman. Megg Lant-Ale, a tub-woman. Bess Bung-hole, an hostice, who all to try the mastery of their tongues, new wet their whistles, barley-oyl their lungs, then rais'd with choller, spleen and gaule, their tongues advance, and then begins the braule.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Year of Womens honesty, 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 30. 1654"; the final '5' in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th century.</term>
+               <term>Women --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119026:1" rendition="simple:additions"/>
+            <p>The GOSSIPS BRAULE, OR, The WOMEN weare the <hi>BREECHES.</hi>
+            </p>
+            <p>A Mock COMEDY.</p>
+            <p>
+               <hi>The Actors Names,</hi>
+               <list>
+                  <item>
+                     <hi>Nick Pot,</hi> a Tapſter.</item>
+                  <item>
+                     <hi>Jone Ruggles,</hi> a Dungel-raker.</item>
+                  <item>
+                     <hi>Doll Crabb,</hi> a Fiſh-woman.</item>
+                  <item>
+                     <hi>Megg Lant-Ale,</hi> a Tub-woman.</item>
+                  <item>
+                     <hi>Beſs Bung-hole,</hi> an Hostice,</item>
+               </list>
+            </p>
+            <p>WHO
+<q>
+                  <l>All to try the Mastery of their Tongues,</l>
+                  <l>New wet their Whiſtles, Barley-Oyl their Lungs,</l>
+                  <l>Then rais'd with Choller, Spleen and Gaule,</l>
+                  <l>Their <hi>Tongues</hi> advance, and then begins the <hi>Braule.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> 
+               <add>Jan. 30. 1654.</add> Printed in the Year of Womens honeſty, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:119026:2"/>
+            <pb n="3" facs="tcp:119026:2"/>
+            <head>The GOSSIPS BRAULE, OR, The WOMEN weare the <hi>BREECHES.</hi>
+            </head>
+            <stage>Enter Nick-pot, and his Gueſts <hi>Jone Ruggles, Doll Crab,</hi> and <hi>Megg Lant-Ale.</hi>
+            </stage>
+            <sp>
+               <speaker>Nick-pot.</speaker>
+               <p>WHat is't ye drink Ladies?</p>
+               <p>A merry Pott of Ale, or a quartern of the beſt in the Houſe?</p>
+            </sp>
+            <sp>
+               <speaker>Jone Ruggles.</speaker>
+               <p>Let us have both <hi>Nick;</hi>
+               </p>
+               <p>I am ſo troubl'd with the Winde at my ſtomack,</p>
+               <p>That if it were not for the comfort of a little <hi>Sniffe,</hi>
+               </p>
+               <p>I ſhould be at Death's door,</p>
+               <p>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing us ſome Spanniſh <hi>Tobacco</hi> too <hi>Nick,</hi>
+               </p>
+               <p>As I take it, it is a great expeller of Rheume.</p>
+            </sp>
+            <stage>Exit Nick Pot.</stage>
+            <pb n="4" facs="tcp:119026:3"/>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>I can take a Pipe too as well as another Woman;</p>
+               <p>Yet my Husband grumbles at me;</p>
+               <p>Grutches me a little Strong Water before I go to the gate in the morning for my <hi>Ware,</hi>
+               </p>
+               <p>But yfaith, yfaith, Ile meet with him for a baſe trick Ile warant him; the more he grutches, the more Ile have it, if Gold or ſilver will buy't.</p>
+            </sp>
+            <stage>Enter <hi>Nick-Pot</hi> with Strong-Water, Ale and Tobacco.</stage>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>Here's that will make a Cat ſpeake, a Coward valiant, a Cripple caper, a poor man a King, and waſh a<g ref="char:EOLhyphen"/>way all Diſeaſes,</p>
+            </sp>
+            <sp>
+               <speaker>Megg.</speaker>
+               <p>This is a Cup of as good Ale as ever was tip'd over a Tongue, I have ſerv'd ſix <hi>turns</hi> in a morning, and given my Cuſtomers as <hi>good cuntent</hi> as men need to deſire from a Woman.</p>
+            </sp>
+            <stage>Turns it off.</stage>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>Here's to ye good <hi>Doll,</hi> remembring <hi>Ned,</hi> he is a kinde ladd Ile warrant him, and a good friend to a Wo<g ref="char:EOLhyphen"/>man.</p>
+            </sp>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>You ſay right by my trot Neighbour <hi>Jone,</hi> he is as ſweet a man as ever lay by a womans ſide, and one is as tender of a Miſtriſſes credit; Well, well, were but my Husband ſuch a man, I ſhould love him too well? but to tell you true, He is a very <hi>Boare</hi> to me, and lies in the bed by me like a <hi>logge</hi> rather then a man, turns his breech, and ſurreverence farts like a <hi>Stone-horſe:</hi> Come, come, the World little knows what we poor Women indure.</p>
+            </sp>
+            <stage>She turns off her Cup.</stage>
+            <sp>
+               <speaker>Megg.</speaker>
+               <p>Nay neighbour, 'tis not your caſe alone; I have one more like a <hi>Divell</hi> then a man, alaſſe my head's but <hi>weake</hi> woman, coſidering the kicks and blows I have had, that ſometimes a double-Pott <hi>turns</hi> my Head: and then, if but <hi>Will</hi> the Souldier leads me home; you know a
+<pb n="5" facs="tcp:119026:3"/>Woman can't be <hi>backward</hi> in requiting a mans Courte<g ref="char:EOLhyphen"/>ſy, and ſend for a <hi>Cup</hi> at home; but if he comes in before he be gone, oh 'tis death to him Woman! and though he will ſit you as dumbe as an <hi>unbrib'd Lawyer,</hi> till he be gon, yet hee's no ſooner out of doors, but he calls me at his pleaſure, ſaies I am the Souldiers VVhore, the Coblers Whore, the Broom mans Whore, the Tinkers Whore, nay <hi>Nick</hi> the Chimney-ſweepers Whore, when (by this good drink Neighbour) I know no more diſhoneſty by them then I do by my own <hi>Bawdy.</hi>
+               </p>
+               <stage>Cryes.</stage>
+               <p>If ye talk of Husbands! come, come, I ſwallow twenty of theſe in a day.</p>
+               <stage>She drinks off her Cup and ſighes.</stage>
+            </sp>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>VVell, I have a <hi>contented man</hi> to my husband, I may goe when I will, and come when I will, and bring home a hundred <hi>Freinds</hi> one after another, hee's never the man that will ſay, <hi>Jugg, why doſt thou ſo?</hi> ſhall be ſo attentive Ile warrant ye, to fetch beer, go of an arrant; nay rather then a freind ſhould be lated home, will lie out of his Bed for him; and he looſes nothing by't at the yeers end.</p>
+            </sp>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>Hee's a right Genteman borne Ile warrant him;</p>
+               <p>Well I had a Husband would do ſo,</p>
+               <stage>Cryes.</stage>
+               <p>But he was too good for this life.</p>
+               <stage>Drinks.</stage>
+            </sp>
+            <stage>Enter Tapſter<g ref="char:punc">▪</g> ſitts down, and his Wife comes in after him, and finds him kiſſing <hi>Jone</hi> Tub-woman.</stage>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>Are ye got amongſt your Whores ye Rogue? Ye lick-ſpicket Roague; 'tis ſomthing that makes ye ſo drowſy a Nights; Ile broach your <hi>Noddle</hi> for ye, but Ile wake ye; Are ye ſo ramphant with a Pox t'yee?</p>
+            </sp>
+            <stage>Kicks him out.</stage>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>Doe ye hear, Miſtris <hi>Bung-breech,</hi>
+               </p>
+               <p>Who do you call VVhore, pray?</p>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>Not you goody draggle-tayl with the doggs-Skin muff at your breech.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:119026:4"/>
+               <speaker>Doll.</speaker>
+               <p>VVe ſhall have ye at <hi>Bum-barrell</hi> againe ſhortly in the Cellar with the <hi>Brewers Clarke;</hi> crack me that nut, crack me that nut, good Miſtris <hi>Nick-pot.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>Out ye <hi>Baſtard-bearing Whore;</hi> who lay inn in the Cage you VVhore? who lay inn in the Cage:</p>
+            </sp>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>No marvell your VVhoreſhip ſhould tell me of a Baſtard in the <hi>Cage,</hi> when you have lain in with no leſſe then 3 in the ſame place your ſelf; did not I bring you <hi>clouts</hi> ye VVhore, lend ye money to pay for the waſhing of your <hi>lowſy Smock,</hi> and bring you a Poſſet with a pox to ye, and <hi>Bread</hi> for your VVhores hide.</p>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>Bread for my VVhores hide, you broad-fac'd Jade you; you have forgot ſince you were <hi>knock'd</hi> by two Roagues under <hi>Mount-Mill</hi> and after came home as drunk as a <hi>Bitch;</hi> 'twas when ye fell down in the dirt, and ſaid you had the <hi>Falling-ſickneſs</hi> with a pox to yee.</p>
+            </sp>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>So, ſo, Miſtris <hi>Nick</hi> and <hi>Froath,</hi> with the <hi>Hawkes Noſe,</hi> cut out of <hi>Marlbrough Chalke,</hi> Is this the thanks I have for lending you money to redeem your Husbands Cloake, when you had pawnd it to be drunk withall; is it; is it.</p>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>Yes, yes, Miſtris <hi>Flownder-mouth,</hi> you ſhall have thanks with a Pox to ye, ye old Lecherous Jade you; I was never <hi>down-diddl'd</hi> by a Barbers Boy, on a <hi>Coblers ſtall</hi> ye VVhore, when his boy run his <hi>Aule</hi> in your but<g ref="char:EOLhyphen"/>tocks, to teach ye to <hi>pace</hi> ye VVhore; Marry goyp, come up with a <hi>foul ſmell,</hi> can you trot or gallop, Minion?</p>
+            </sp>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>Go, go, to <hi>Tower-Hill,</hi> and get your <hi>Gun ſcowr'd</hi> ye Jade; I never was the <hi>Hang-mans.</hi> VVhore yet, nor had the <hi>Brewer</hi> come home with me to <hi>tip my Gigg</hi> five times in a day; I was never <hi>Flux'd</hi> in the <hi>Spittle</hi> yet of the P—ſo I was not.</p>
+            </sp>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>Marry foh, come up my durty <hi>Coſin;</hi> your Husband
+<pb n="7" facs="tcp:119026:4"/>ſaies you are a Jade; I never tyred going to <hi>Hackney</hi> for <hi>Turn-ups</hi> yet; mark ye that Puſs.</p>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>Indeed Miſtrs <hi>Tickle-— T—</hi> with the bas<g ref="char:EOLhyphen"/>ket of <hi>Crabs</hi> in your breech; go home and get your poor Husband a Meſs of Porridge ye Jade, hie ye home, hie ye home ye Jade, there's a Hogg in the <hi>Cubbord.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>To <hi>Hy-bury-Barn,</hi> to <hi>Hybury Barn</hi> you drum-ars'd Jade, go to your Fidler there; come I could ſay ſome<g ref="char:EOLhyphen"/>thing.</p>
+            </sp>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>Say your heart out if you will, thou Whore, thy Neighbour knows what thou art well enough; I faith <hi>Puttock,</hi> He blaze your <hi>coat</hi> ile warrant you.</p>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>Thou fetch a Warrant for mee <hi>Piſs-pot;</hi> do, do, Ide have thee begin once; go Pawn thy <hi>Petticoate</hi> &amp; <hi>waste<g ref="char:EOLhyphen"/>coat</hi> again to fee <hi>Lawyers,</hi> then come to me for money to withdrawing thy <hi>Recogniſiones,</hi> about your ugly tongue, and am I thus rewarded. I faith <hi>Spunge,</hi> Ile handle ye for <hi>Buttock</hi> I warrant yee: you'l <hi>lye in</hi> again ſhortly, then pray Neighbour lend me a <hi>Kerchief</hi> for my head, lend me a <hi>ſheet,</hi> lend me a <hi>Candle,</hi> a little <hi>butter,</hi> &amp;c. No, thou Ditch of damnation, thou ſhalt have a <hi>Rope</hi> and <hi>Butter,</hi> before thou ſhalt borrow a Pin of me.</p>
+            </sp>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>Bear witneſſe Neighbour, <hi>ſhee call'd mee Witch;</hi> Ile ſcratch ye <hi>Ale-houſe Polecatt</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>Murder, Murder, Murder, fetch the Conſtable.</p>
+            </sp>
+            <stage>Enter <hi>Nick-Pot</hi> the Tapſier.</stage>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>Doe ye knock here?</p>
+            </sp>
+            <sp>
+               <speaker>Beſs.</speaker>
+               <p>Out ye ſneaking Roague, will ye ſuffer me to be murder'd amongſt your Whores? the beſt in the Parriſh ſhall underſtand whether I muſt be murder'd in my own Houſe or no? they ſhall Sirrah: they ſhall underſtand whether you be a man fitting for a <hi>Licence,</hi> or to govern a Houſe?</p>
+            </sp>
+            <stage>Exit Beſs Bung-hole.</stage>
+            <sp>
+               <pb n="8" facs="tcp:119026:5"/>
+               <speaker>Megg.</speaker>
+               <p>Tapſter, what have wee to <hi>Pay?</hi> Sure the Deviill is got into this Ale-houſe my Ears are dumbe with the <hi>very Noiſe</hi> of <hi>your Tongues.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nick-Pot.</speaker>
+               <p>Here is three ſhillings <hi>Strong-Waters,</hi> two ſhillings in <hi>Ale,</hi> and twelve Pence <hi>Tobacco,</hi> that is ſix ſhil<g ref="char:EOLhyphen"/>lings juſt; and <hi>ye are all welcome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Doll.</speaker>
+               <p>The <hi>Devill pay the ſhott,</hi> ile pay not: <hi>Penny: Shall wee pay our Money to be abus'd? No, Ile be righted Ile war<g ref="char:EOLhyphen"/>rant you, if the beſt Law in</hi> England <hi>will right me; Though the Roague my Husband will not take my part, I ſhall finde freinds that ſhall tickle ye for</hi> Law i' faith.</p>
+            </sp>
+            <sp>
+               <speaker>Nick-pot.</speaker>
+               <p>Ile have my <hi>Money before you go hence, elſe Ile make th Room too hot for yee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>You ſhall be glad to <hi>look up,</hi> what ſhall honeſt Women be raviſh'd in their <hi>Reputations;</hi> No, no w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtand upon our <hi>reputations,</hi> and our <hi>integrities,</hi> and ſcorn to have our credits and <hi>good Names</hi> drownded in an <hi>Ale-tub,</hi> Ile make you know Sirrah, that ſome of us that ſit here have had Husbands that have born <hi>all Offices in the Parriſh from the Scabbender to the Headborrow;</hi> come Neighbours, let us goe, why doe we ſpend our <hi>Tongues</hi> and <hi>Braines</hi> upon this <hi>Nick-pot,</hi> this ſimple cuckoldly Tapſter.</p>
+            </sp>
+            <sp>
+               <speaker>Nick-Pot,</speaker>
+               <p>Give me my <hi>ſhott give me my Money, Ile not truſt a penny;</hi> my Brewer muſt be pay'd.</p>
+            </sp>
+            <sp>
+               <speaker>Jone.</speaker>
+               <p>Pay'd you <hi>Tap-laſh Roague, you Lant-liquor Rogue</hi> come Neighbors wee'l <hi>pay him,</hi> let's piſs out his <hi>Eyes.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <head>EPILOGVE.</head>
+                     <l>Who from bad Women, thus as evill flies,</l>
+                     <l>May looſe a Reckoning, to preſerve his eyes.</l>
+                  </lg>
+               </q>
+               <stage>Exeunt omnes.</stage>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

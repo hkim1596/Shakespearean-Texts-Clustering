@@ -1,0 +1,3432 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hogge hath lost his pearle A comedy. Diuers times publikely acted, by certaine London prentices. By Robert Tailor.</title>
+            <author>Tailor, Robert, fl. 1614.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A13345</idno>
+            <idno type="STC">STC 23658</idno>
+            <idno type="STC">ESTC S118056</idno>
+            <idno type="EEBO-CITATION">99853265</idno>
+            <idno type="PROQUEST">99853265</idno>
+            <idno type="VID">18635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A13345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 861:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hogge hath lost his pearle A comedy. Diuers times publikely acted, by certaine London prentices. By Robert Tailor.</title>
+                  <author>Tailor, Robert, fl. 1614.</author>
+               </titleStmt>
+               <extent>[64] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by John Beale] for Richard Redmer, and are to be solde at the west-dore of Paules at the signe of the Starre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-H⁴.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>With a final epilogue leaf.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:18635:1"/>
+            <pb facs="tcp:18635:1"/>
+            <p>THE HOGGE HATH LOST HIS <hi>PEARLE.</hi>
+            </p>
+            <p>A Comedy.</p>
+            <p>DIVERS TIMES Publikely acted, by certaine LONDON <hi>Prentices.</hi>
+            </p>
+            <p>
+               <hi>By</hi> ROBERT TAILOR.</p>
+            <p>LONDON, Printed for <hi>Richard Redmer,</hi> and are to be ſolde at the Weſt-dore of <hi>Paules</hi> at the ſigne of the Starre. 1614.</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:18635:2"/>
+            <pb facs="tcp:18635:2"/>
+            <head>THE PROLOGVE.</head>
+            <l>OVR long time rumor'd Hogge, ſo often croſt</l>
+            <l>By vnexpected accidents, and toſt</l>
+            <l>From one houſe to another, ſtill deceiuing</l>
+            <l>Many mens expectations, and bequeathing</l>
+            <l>To ſome loſt labour, is at length got looſe,</l>
+            <l>Leauing his ſeruile yoake-ſticke to the gooſe,</l>
+            <l>Hath a Knights licence, and may rauage at pleaſure,</l>
+            <l>Spight of all thoſe that envy our Hogges treaſure:</l>
+            <l>And thus much let me tell you, that our Swyne</l>
+            <l>Is not as diuers Crittickes did define,</l>
+            <l>Grunting at State affaires, or inuecting</l>
+            <l>Much, at our Citty vices; no, nor detecting</l>
+            <l>The pride, or fraude, in it, but were it now</l>
+            <l>He had his firſt birth, wit ſhould teach him how</l>
+            <l>To taxe theſe times abuſes, and tell ſome</l>
+            <l>How ill they did in running oft from home,</l>
+            <l>For to preuent (O men more hard then flint)</l>
+            <l>A matter that ſhall laugh at them in print:</l>
+            <l>Once to proceede in this play we were mindleſse,</l>
+            <l>Thinking we liu'd mongſt Iewes that lou'd no ſwines fleſh:</l>
+            <l>But now that troubles paſt, if it deſerue a hiſſe,</l>
+            <l>(As queſtionleſſe i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wil through our amiſſe,)</l>
+            <pb facs="tcp:18635:3"/>
+            <l>Let it be fauoured by your gentle ſufferance,</l>
+            <l>Wiſe-men are ſtill indu'd with patience,</l>
+            <l>Wee are not halfe ſo skild as ſtrowling Players,</l>
+            <l>Who could not pleaſe heere as at Country faiers,</l>
+            <l>We may be pelted off for ought we know,</l>
+            <l>With apples, egges, or ſtones from thence belowe;</l>
+            <l>In which weele craue your friendſhip if we may,</l>
+            <l>And you ſhall haue a daunce worth all the play,</l>
+            <l>And if it proue ſo happy as to pleaſe,</l>
+            <l>Weele ſay tis fortunate like <hi>Pericles.</hi>
+            </l>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:18635:3"/>
+            <head>THE ACTORS NAMES.</head>
+            <list>
+               <item>Old lord <hi>VVealthy.</hi>
+               </item>
+               <item>Young lord his ſonne.</item>
+               <item>
+                  <hi>Maria</hi> his daughter.</item>
+               <item>
+                  <hi>Carracus</hi> and <hi>Albert,</hi>
+               </item>
+               <item>two Gentlemen, nere friends.</item>
+               <item>
+                  <hi>Lightfoote</hi> a country Gentlem.</item>
+               <item>
+                  <hi>Haddit</hi> a youthfull Gallant.</item>
+               <item>
+                  <hi>Hogge</hi> a Vſurer.</item>
+               <item>
+                  <hi>Rebecka</hi> his daughter.</item>
+               <item>
+                  <hi>Peter</hi> Seruitude his man.</item>
+            </list>
+            <list>
+               <pb facs="tcp:18635:4"/>
+               <head>The Actors names.</head>
+               <item>Atlas <hi>a Porter.</hi>
+               </item>
+               <item>A Prieſt.</item>
+               <item>A Player.</item>
+               <item>A Seruingman.</item>
+               <item>A Nurſe.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:18635:4"/>
+            <head>THE HOGGE HATH loſt his Pearle.</head>
+            <div n="1" type="act">
+               <head>Actus primi Scena prima.</head>
+               <stage>
+                  <hi>Enter</hi> Lightfoote <hi>a country gentleman paſsing ouer the ſtage and knocks at the other dore.</hi>
+               </stage>
+               <stage>Lightfoote.</stage>
+               <p>
+                  <seg rend="decorInit">H</seg>Oe, Whoſe within here?</p>
+               <stage>Enter Atlas a Porter</stage>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>Ha ye any mony to pay you knock with ſuch authority ſir?</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>What if I haue not, may not a man knock without money ſir?</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>Seldome, women and Seriaunts they will not put it vp ſo ſir.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>How ſay you by that ſir, but I prethee is not this one <hi>At<g ref="char:EOLhyphen"/>las</hi> his houſe a Porter?</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>I am the rent payer thereof.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>In good time ſir.</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>Not in good time, neither ſir, for I am behinde with my Land-lord a yeere and three quarters at leaſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Now if a man would giue but obſeruance to this fel<g ref="char:EOLhyphen"/>lowes prating, a would weary his eares ſooner then a Barber, dee heare ſir, lies there not one Haddit a gentleman at this houſe?</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>Here lies ſuch a gentleman ſir whoſe cloathes (were they not greaſie) would be ſpeake him ſo.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:5"/>
+                  <speaker>Li.</speaker>
+                  <p>Then I pray ſir when your leaſure ſhall permit, that you would vouchſafe to helpe me to the ſpeech of him.</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>We muſt firſt craue your oath, ſir that you come not with intent to moleſt, perturbe, or indaunger him, for he is a gent. whom it hath pleaſed fortune to make her tennis ball of, and therefore ſubiect to be ſtrucke by euery foole inro haſſard.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>In that I commend thy care of him, for which friendſhip heres a ſlight reward, tell him a Country man of his, one <hi>Light<g ref="char:EOLhyphen"/>foote</hi> is here, and will not any way diſpaire of his ſafetie.</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>With all reſpect Sir, pray commaund my houſe.</p>
+               </sp>
+               <stage>Exit Atlas.</stage>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>So, now I ſhall haue a ſight of my Coſen gallant, he that hath conſumed 800. pound a yeare, in as few yeares, as he hath cares on his head: He that was wont neuer to be found without 3, or 4, paire of red breeches, running before his horſe, or coach. He that at a meale, hath had more ſeuerall kindes, then I thinke the Arke conteyn'd: He that was admir'd by niters, for his robes of gallantry, and was indeed all that an elder brother might be, prodigall, yet he, whoſe vnthriftineſſe kept many a houſe, is now glad to keepe houſe in a houſe, that keepes him the poore tente of a porter, and ſee his appearance, Ile ſeeme ſtrange to him.</p>
+               </sp>
+               <stage>Enter Haddit in poore Array.</stage>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Coſen <hi>Lightfoote</hi> how doſt, welcome to the City,</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Who cals me Coſen, wheres my Coſen Haddit, hees ſurely putting on ſome rich apparell, for me to ſee him in. I ha bin thinking al the way I came vp, how much his company will Credit me.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>My name is Haddit Sir, and your kineſman, if parents may be truſted, and therefore you may pleaſe to know me bet<g ref="char:EOLhyphen"/>ter, when you ſee me next.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>I prethee fellow ſtay, is it poſſible thou ſhouldſt be he, why he was the generous ſparke of mens admiration.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <l>I am that ſparke Sir, though now rak't vp in aſhes,</l>
+                  <l>Yet when it pleaſeth fortunes chops to blow</l>
+                  <pb facs="tcp:18635:5"/>
+                  <l>Some gentler gale vpon me, I may then,</l>
+                  <l>From forth of embers riſe and ſhine agen,</l>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>O by your verſifying I know you now ſir, how doſt, I knew thee not at firſt, thart very much altered.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Faith and ſo I am, exceeding much ſince you ſawe me laſt, about eight hundred pound a yeere; but let it paſſe, for paſ<g ref="char:EOLhyphen"/>ſage carried away the moſt part of it, a plague of fortune</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>That'ſt more neede to pray to fortune then curſe her, ſhe may be kind to thee when thou art penitent, but that I feare will be neuer.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>O no, if ſhe be a woman, ſheele euer loue thoſe that hate her, but cozen thou art thy fathers firſt-borne, helpe me but to ſome meanes, and Ile redeeme my mortgag'd lands with a wench to boote.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>As how I pray thee?</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Marry thus, <hi>Hogge</hi> the Vſurer hath one only daughter.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Is his name <hi>Hogge,</hi> it fits him exceeding well, for as a hogge in his life time is alwayes denouring, and neuer commo<g ref="char:EOLhyphen"/>dious in aught till his death, euen ſo is he whoſe goods at that time may be put to many good vſes.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>And ſo I hope they ſhall before his death, this daugh<g ref="char:EOLhyphen"/>ter of his, did, and I thinke doth loueme, but I then thinking my ſelfe worthy of an Empreſſe, gaue but ſlight reſpect vnto her fauour, for that her parentage ſem'd not to equall my high thoughts, puft vp,</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>With Tobacco ſurely,</p>
+               </sp>
+               <sp>
+                  <speaker>Had</speaker>
+                  <p>No but with as bad a weede, vaine glory.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>And you could now be content, to put your lofty ſpirits into the loweſt pit of her fauour: VVhy what meanes will ſerue man, Sfoote if all I haue will repaire thy fortunes, it ſhall fly at thy commaund,</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Thankes good Coze, the meanes ſhall not be great, on<g ref="char:EOLhyphen"/>ly that I may firſt be clad in a generous outſide, for that is the chiefe attraction, that drawes female affection; good parts without any abilements of gallantry, are no more ſet by in theſe times, then a good legge in a wollen ſtocken: No, tis a gliſtering preſence and audacity brings women into fooles felicity.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:6"/>
+                  <speaker>Li.</speaker>
+                  <p>Yaue a good confidence Coze, but what deendien your braue outſide ſhall effect.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>That being had wele to the Vſurer where you ſhal of<g ref="char:EOLhyphen"/>fer ſome ſlight peece of land to mortgage, and if you doe it to bring our ſelues into caſh, it ſhall be nere the farther from you, for heres a proiect will not be fruſtrate of this purpoſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>That ſhal be ſhortly tryed, He inſtantly go ſeeke for a habit for thee and that of the richeſt too, that which ſhall not be ſubiect to the ſcoffe of any gallant, though to the accompli<g ref="char:EOLhyphen"/>ſhing thereof all my meanes goes: Alas whats a man vnleſſe he weare good cloathes.</p>
+                  <stage>Exit Lightfoote</stage>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Good ſpeed attend my ſuite, heres a neuer ſeene Ne<g ref="char:EOLhyphen"/>phewe kind in diſtreſſe, this giues me more cauſe of admiration then the loſſe of xxxv. ſettings together at Paſſage. I when tis performed, but words and deeds are now more different then Puritans and Players.</p>
+                  <stage>Enter Altas</stage>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>Heres the Player would ſpeake with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>About the Iigge, I promis'd him, my penne and inke, I prethee let him in, there may be ſome Caſh rim'd out of him.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Player.</stage>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>The Muſes aſsiſt you ſir, what at your ſtudy ſo early.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha</speaker>
+                  <p>O chiefely now ſir for) <hi>aurora muſis amicat</hi>)</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>Indeed I vnderſtand not latine ſir.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>You muſt then pardon me, good M. Chaunge-coate, for I proteſt vntee it is ſo much my often conuerſe, that if there be none but women in my company, yet cannot I forbeare it.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>That ſhewes your more learning ſir, but I pray you is that ſmall matter done I intreated for.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>A ſmall matter, youle finde it worth <hi>Megge</hi> of Weſt<g ref="char:EOLhyphen"/>minſter, althouh it be but a bare Iigge.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>O lord ſir, I would it had but halfe the taſte of garlicke.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Garlicke ſtinkes to this, proue that you haue not more whores to ſee this, then ere Garlicke had. ſay I am a boaſter of mine owne workes, diſgrace me on the open ſtage, and bob me off with nere a penny.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>O lord ſir, farre be it from vs, to debarre any worthy writer of his merit; but I pray you ſir, what is the title you be<g ref="char:EOLhyphen"/>ſtow vpon it?</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:6"/>
+                  <speaker>Ha.</speaker>
+                  <p>Marry that which is full as forceable as Garlicke, the name of it is who buyes my fowre ropes of hard Onions, by which fowre ropes is meant fowre ſeueral kind of liuers, by the onions hangers on, as at ſome conuenient time I wil more par<g ref="char:EOLhyphen"/>ticularly informe you in ſo rare a hidden and obſcure a miſtery.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>I pray let me ſee the beginning of it, I hope you haue made no darke ſentence in't, for Ile aſſure our audience com<g ref="char:EOLhyphen"/>monly very ſimple idle-headed people, and if they ſhould heare what they vnderſtand not, they would quite forſake our houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>O nere feare it, for what I haue writ is both witty to the wiſe, and pleaſing to the ignorant; for you ſhall haue theſe laugh at it farre more heartily that vnderſtand it not, then thoſe that doe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>Me thinke the end of this ſtaffe is a foote too long.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>O no, ſing it but in tune, and I dare warrant you.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>Why heare ye,</p>
+                  <stage>He ſings</stage>
+                  <p>And you that delight in truls and minions,</p>
+                  <p>Come buy my fowre ropes of hard S. Thomas onions: Looke you there S. Thomas might very wel haue been left out, beſides, hard ſhould haue come next the onions,</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Fie no, the diſmembring of a rime to bring in reaſon ſhewes the more efficacy in the writer.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>Well as you pleaſe, I pray you ſir what wil the gratuity be, I would content you as neere hand as I could.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>So I beleeue,</p>
+                  <stage>aſide;</stage>
+                  <p>Why M. Change-coate, I do not ſuppoſe we ſhall differ many pounds, pray make your offer, if you giue me too much, I will moſt Doctor of Phicke like reſtoare.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>You ſay well, looke you ſir, theres a brace of angels, beſides much drinke of free coſt if it be lik't.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>How M. Change-coate a brace of angels beſides much drinke of free coſt if it be lik't, I feare you haue learned it by heart, if you haue powdred vp my plot in your ſconce, you may home ſir and inſtruct your Poet ouer a pot of ale, the whole me<g ref="char:EOLhyphen"/>thode on't, but if you do ſo iuggle, looke too't Shrouetuſeday is at hand, and I haue ſome acquaintance with Bricklayers and Playſterers.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>Nay, I pray ſir be not angry, for as I am a true ſtage<g ref="char:EOLhyphen"/>trotter,
+<pb facs="tcp:18635:7"/>I meane honeſtly and looke ye, more for your loue then otherwiſe, I giue you a brace more.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Well, good words doe much, I cannot now be angry with you, but ſee henceforward, you doe like him that would pleaſe a new married wife, ſhew your moſt at firſt, leaſt ſome o<g ref="char:EOLhyphen"/>ther come betweene you and your deſires, for I proteſt had you not ſuddenly ſhowne your good nature, another ſhould haue had it though t'ad bin for nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>Troth I am ſory I gaue you ſuch cauſe of impatiency, but you ſhall ſee hereafter if your inuention take, I will not ſtand off for a brace more or leſſe, deſiring I may ſee your works before another.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Nay before al others, and ſhotly expect a notable peece of matter ſuch a Iigge whoſe tune with the naturall whiſtle of a carman, ſhall be more rauiſhing to the eares of ſhopkeepers then a whole conſort of barbors at midnight.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>I am your man for't, I pray you commaund al the kind<g ref="char:EOLhyphen"/>neſſe belongs to my function, as a box for your friend at a new play although I procure the hare of all my company.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>No Ile pay for it rather, that may breede a muteny in your whole houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>I care not, I ha plaid a Kings part anie time theſe ten yeeres, if I cannot commaund ſuch a matter twere poore ifaith.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Well Maiſter chaunge coate you ſhal now leaue me, for Ile to my ſtudie, the morning houres are precious and my muſe meditates moſt vpon an empty ſtomacke.</p>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>I pray ſir when this new inuention is produc't let not me be forgotten.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Ile ſooner forget to be a Iigge maker.</p>
+               </sp>
+               <stage>Exit plaier.</stage>
+               <p>So heres foure angels I little dreampt of Nay and there bee mony to be gotten by foolery, I hope fortune will not ſee me want.</p>
+               <stage>Atlas, Atlas.</stage>
+               <stage>(Enter Atlas.</stage>
+               <p>What was my country coſe here ſince.</p>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>Why did he promiſe to come againe ſeeing how the caſe ſtoode wye.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Ye and to aduaunce my downe falne fortunes Atlas.</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>But ye are not ſure a meant it yee when he ſpake it.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:7"/>
+                  <speaker>Ha.</speaker>
+                  <p>No nor is it in man to coniecture rightly the thought by the tongue.</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>Why then ile beleeue it when I ſee it, if you had beene in proſperitie when a had promiſt you this kindeneſſe,</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>I had not needed it.</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>But being now you doe, I feare you muſt goe without it.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>If I doe <hi>Atlas</hi> be it ſo, Ile ene goe write this rime ouer my beds head.</p>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ndone by folly, fortune lend me more,</hi>
+                  </l>
+                  <l>
+                     <hi>Canſt thou, and wilt not, pox on ſuch a where,</hi>
+                  </l>
+                  <p>And ſo ile ſet vp my reſt, but ſee <hi>Atlas</hi> heres a little of that that dambs Lawyers, take it in part of a further recompence.</p>
+               </sp>
+               <sp>
+                  <speaker>Atlas</speaker>
+                  <p>No pray keepe it, I am conceited of your better fortunes, and therefore will ſtay out that expectation.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Why if you will you may, but the ſurmounting of my fortunes is as much to be doubted, as he whoſe eſtate lies in the lotterie, deſperate.</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>But nere deſpaire ſfoote why ſhould not you liue aſwel as a thouſand others, that were change of taffety, whoſe meanes were neuer anything.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Yes cheating, theft, and pandariſing, or may be flattery, <hi>I</hi> haue maintained ſome of them my ſelfe, but come haſt aught to breakefaſt.</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>Yes theres the fagg end of a leg of mutton,</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>There ca<g ref="char:cmbAbbrStroke">̄</g>not be a ſweeter diſh, it has Coſt mony the dreſ<g ref="char:EOLhyphen"/>ſing.</p>
+               </sp>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>At the barbours you meane.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>Enter Albert ſolus.</stage>
+               <sp>
+                  <speaker>At.</speaker>
+                  <p>This is the greene, and this the chamberwindow, and ſee appointed light ſtands in the caſement, the ladder of ropes ſet orderly, yet he that ſhould aſcend, ſlow in his haſt, is not at yet come hether.</p>
+                  <l>Wert any friend that liues but <hi>Carracus</hi>
+                  </l>
+                  <l>I'de trie the bliſſe which this fine time preſents.</l>
+                  <l>Appoint to carry hence ſo rare an heire,</l>
+                  <l>And be ſo ſlacke ſfoote a doth moue my patience,</l>
+                  <l>Would any man that is not voide of ſence</l>
+                  <l>Not haue watcht night by night for ſuch a priſe,</l>
+                  <l>Her beauties ſo at tractiue, that by heauen,</l>
+                  <pb facs="tcp:18635:8"/>
+                  <l>My heart halfe graunts to doe my friend a wrong,</l>
+                  <l>Forgoe theſe thoughts for <hi>Albert</hi> be not ſlaue</l>
+                  <l>To thy effection doe not falſifie</l>
+                  <l>Thy faith to him, whoſe onely friendſhips worth</l>
+                  <l>A world of women, hee is ſuch a one,</l>
+                  <l>Thou canſt not liue without his good.</l>
+                  <l>A is and was euer, as thine owne harts blood,</l>
+                  <l>Sfoot ſee ſhee beckens me for <hi>Carracus,</hi>
+                  </l>
+                  <stage>Maria beckens him in the window.</stage>
+                  <l>Shall my baſe purity, cauſe me neglect,</l>
+                  <l>This preſent happineſſe, I will obteyne it,</l>
+                  <l>Spight of my tymerous Conſcience, I am in perſon,</l>
+                  <l>Habit and all ſo like to <hi>Carracus,</hi>
+                  </l>
+                  <l>It may be acted, and neere called in queſtion.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <stage>cals</stage>
+                  <l>Hiſt <hi>Carracus</hi> aſcend.</l>
+                  <l>All is as cleere as in our hearts we wiſht.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Nay, if I goe not now, I might be gelded ifaith.</l>
+                  <l>Albert <hi>aſcends, and being on the top of the ladder, puts outs the candle.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>O loue why doe ſoe.</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>I heard the ſteps of ſome comming this way,</l>
+                  <l>Did you not heare <hi>Albert</hi> paſſe by as yet.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Nor any Creature paſſe this way this howre.</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Then hee intends iuſt at the breake of day,</l>
+                  <l>To lend his truſty helpe to our departure:</l>
+                  <l>Tis yet two howres time thether, till when lets reſt,</l>
+                  <l>For that our ſpeedy flight will not yeeld any.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>But I feare we poſſeſſing of each others preſence, ſhall ouerſlip the time, will your friend call.</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>Iuſt at the inſtant, feare not of his Care:</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>Come then deere <hi>Carracus,</hi> thou now ſhalt reſt,</l>
+                  <l>Vpon that bed, where fancy oft hath thought thee;</l>
+                  <l>Which kindneſſe vntill now, I nere did graunt thee,</l>
+                  <l>Nor would I now, but that thy loyall faith</l>
+                  <l>I haue ſo often tride, euen now,</l>
+                  <l>Seeing thee come to that moſt honored end,</l>
+                  <l>Through all the dangers, which blacke night preſents,</l>
+                  <l>For to conuey me hence and marry me.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>If I doe not doe ſo, then hate me euer,</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:8"/>
+                  <speaker>Ma.</speaker>
+                  <p>I doe beleeue thee, and will hate thee neuer.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Carracus.</stage>
+               <l>How pleaſing are the ſteps we louers make,</l>
+               <l>When in the paths of our content wee pace,</l>
+               <l>To meet our longings: what happineſſe it is</l>
+               <l>Man to loue. But oh, what greater bliſſe</l>
+               <l>To loue, and be beloued: O what one vertue,</l>
+               <l>Ere raignd in me, that I ſhould be inricht,</l>
+               <l>With all Earths good at once, I haue a friend,</l>
+               <l>Selected by the heauens, as a gift,</l>
+               <l>To make me happy, whilſt I liue one earth,</l>
+               <l>A man ſo rare of goodneſſe, firme of faith,</l>
+               <l>That Earths Content muſt vaniſh in his death.</l>
+               <l>Then for my loue, and miſtris of my ſoule,</l>
+               <l>A maid of rich endowments, beautified</l>
+               <l>With all the vertues nature could beſtow</l>
+               <l>Vpon mortality, who this happy night</l>
+               <l>Will make me gainer of her heauenly ſelfe,</l>
+               <l>And ſee how ſuddenly I haue attaind,</l>
+               <l>To the abode of my deſired wiſhes;</l>
+               <l>This is the greene, how darke the night appeares.</l>
+               <l>I cannot heare the tread of my true friend,</l>
+               <l>
+                  <hi>Albert,</hi> hiſt <hi>Albert,</hi> hees not come as yet,</l>
+               <l>Nor is thappointed light ſet in the window.</l>
+               <l>What if I call? <hi>Maria,</hi> it may be</l>
+               <l>Shee feard to ſet a light, and onely harkeneth</l>
+               <l>To heare my ſteps, and yet I dare not call,</l>
+               <l>Leaſt I betray my ſelfe, and that my voice,</l>
+               <l>Thinking to enter in the eares of her,</l>
+               <l>Be of ſome other heard: no I will ſtay</l>
+               <l>Vntill the comming of my deare friend <hi>Albert.</hi>
+               </l>
+               <l>But now thinke <hi>Carracus,</hi> what the end will be</l>
+               <l>Of this thou doſt determine, thou art come</l>
+               <l>Hether to Rob a father of that wealth,</l>
+               <l>That ſoly lengthens his now drooping yeares,</l>
+               <l>His vertuous daughter, and all of that ſex left,</l>
+               <l>To make him happy in his aged dayeas,</l>
+               <l>The loſſe of her, may cauſe him to diſpaire,</l>
+               <pb facs="tcp:18635:9"/>
+               <l>Tranſport his nere decaying ſence to frenzie,</l>
+               <l>Or to ſome ſuch abhorred inconuenience,</l>
+               <l>Whereto fraile age is ſubiect, I do too il in this,</l>
+               <l>And muſt not thinke but that a fathers plaint,</l>
+               <l>Wil moue the Heauens, to power forth miſery.</l>
+               <l>Vpon the head of diſobediency.</l>
+               <l>Yet reaſon tels vs, parents are oreſeene,</l>
+               <l>VVhen with two ſtrict a reine they do hold in,</l>
+               <l>Their childs affections, and controule that loue,</l>
+               <l>VVhich the high powers deuine inſpires them with,</l>
+               <l>VVhen in their ſhalloweſt iudgements they may know</l>
+               <l>Affection croſt, brings miſery and woe:</l>
+               <l>But whilſt I run contemplating on this,</l>
+               <l>I ſoftly pace to my deſired bliſſe,</l>
+               <l>Ile goe into the next field, where my friend,</l>
+               <l>Told me the horſes were in readineſſe.</l>
+               <stage>Exit.</stage>
+               <stage>Albert deſcending from Maria,</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>But do not ſtay, what if you finde not <hi>Albert,</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>Ile then retourne alone to fetch you hence,</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If you ſhould now deceaue me, hauing gain'd, what you men ſeeke for.</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>Sooner ile deceaue my ſoule, and ſo I feare <hi>I</hi> haue.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>At your firſt call <hi>I</hi> will deſcend.</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>Till when, this touch of lips be the true pleadge, of <hi>Carracus</hi> conſtant true deuoted loue,</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>Be ſure you ſtay not long, farewell,</l>
+                  <l>
+                     <hi>I</hi> cannot lend an eare to heare you part,</l>
+                  <stage>Exit Ma.</stage>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>But you did lend a hand vnto my entrance.</l>
+                  <stage>He deſcends</stage>
+                  <l>How haue <hi>I</hi> wrong'd my friend, my faith full friend,</l>
+                  <l>Robd him of whats more precious then his blood,</l>
+                  <l>His earthly heauen th'unſpotted honor,</l>
+                  <l>Of his ſoule-ioying Miſtres, the fruition of whoſe bed,</l>
+                  <l>I yet am warme of, whilſt deere <hi>Carracus,</hi>
+                  </l>
+                  <l>Wanders this cold night, through th'unſheltering field,</l>
+                  <l>Seeking me treacherous man, yet no man neither,</l>
+                  <l>Though in an outward ſhew of ſuch appearance,</l>
+                  <l>But am a Diuel indeed, for ſo this deed.</l>
+                  <l>Of wronged loue and friendſhip rightly makes me,</l>
+                  <pb facs="tcp:18635:9"/>
+                  <l>I may compare my friend, to one that's ſicke,</l>
+                  <l>Who lying on his death-bed, cals to him,</l>
+                  <l>His dear'ſt thought friend and bids him goe,</l>
+                  <l>To ſome rare gifted man that can reſtore,</l>
+                  <l>His former health, this his friend ſadly heares,</l>
+                  <l>And vowes with proteſtations to fulfill,</l>
+                  <l>His wiſht deſires, with his beſt performance,</l>
+                  <l>But then no ſooner ſeeing that the death,</l>
+                  <l>Of his ſicke friend, would ad to him ſome gaine.</l>
+                  <l>Goes not to ſeeke a remedy to ſaue,</l>
+                  <l>But like a wretch hides him to dig his graue,</l>
+                  <l>As I haue done for vertuous <hi>Carracus,</hi>
+                  </l>
+                  <l>Yet <hi>Albert</hi> be not reaſonleſſe, to indanger,</l>
+                  <l>VVhat thou maiſt yet ſecure, who can detect,</l>
+                  <l>The crime of thy licentious appetite,</l>
+                  <l>There ones pace tis ſurely <hi>Carracus.</hi>
+                  </l>
+                  <stage>Enter Carracus.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Not finde my friend, ſure ſome malignant plannet,</l>
+                  <l>Rules ore this night, and enuying the content,</l>
+                  <l>VVhich I in thought poſſeſſe, debarres me thus,</l>
+                  <l>From what is more then happy, the loued preſence of a deare friend and loue,</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Tis wronged <hi>Carracus</hi> by <hi>Alberts</hi> baſeneſſe,</l>
+                  <l>I haue no power now to reueale my ſelfe,</l>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>The horſes ſtand at the appointed place,</l>
+                  <l>And nights darke couerture, makes firme our ſafety,</l>
+                  <l>My friend is ſurely falne into a ſlumber,</l>
+                  <l>On ſome bancke hereabouts, I will call him,</l>
+                  <l>Friend, <hi>Albert, Albert.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Alb</speaker>
+                  <p>What ere you are that call, you know my name.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>I, and thy heart deare friend:</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>O <hi>Carracus,</hi> you are a ſlow pac't louer.</l>
+                  <l>Your credit had been toucht, had I not beene:</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>As how I preethee <hi>Albert:</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Why <hi>I</hi> excuſd you to the faire <hi>Maria;</hi>
+                  </l>
+                  <l>Who would haue thought you elſe, a ſlacke performer.</l>
+                  <l>For comming firſt vnder her chamber window,</l>
+                  <l>Shee heard me tread, and cald vpon your name,</l>
+                  <l>To which <hi>I</hi> anſwered with a tongue like yours:</l>
+                  <pb facs="tcp:18635:10"/>
+                  <l>And told her, <hi>I</hi> would goe to ſeeke for <hi>Albert,</hi>
+                  </l>
+                  <l>And ſtraight retourne.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Whom <hi>I</hi> haue found, thankes to thy faith, and heauen.</l>
+                  <l>But had not ſhee a light, when you came firſt?</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Yes but hearing of ſome Company,</l>
+                  <l>Shee at my warning, was fore't to put it out:</l>
+                  <l>And had <hi>I</hi> bin ſo too, you and <hi>I</hi> too had ſtill bin happy.</l>
+                  <stage>aſide</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>See we are now come to the chamber window.</p>
+               </sp>
+               <sp>
+                  <speaker>Al.</speaker>
+                  <p>Then you muſt call, for ſo <hi>I</hi> ſaid <hi>I</hi> would,</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>
+                     <hi>Maria.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>My <hi>Carracus,</hi> are you ſo ſoone retournd?</l>
+                  <l>
+                     <hi>I</hi> ſee, youle keepe your promiſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>VVho would not doe ſo, hauing paſt it thee,</l>
+                  <l>Cannot be framd of aught but trechery:</l>
+                  <l>Faireſt deſcend, that by our hence departing,</l>
+                  <l>VVe may make firme the bliſſe of our content.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Is your friend <hi>Albert</hi> with you?</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>Yes, and your ſeruant honored Lady.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Hold me from falling <hi>Carracus.</hi>
+                  </p>
+                  <stage>ſhee deſcends.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>I will do now ſo; but not at other times.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>You are merry ſir:</l>
+                  <l>But what d'ee intend with this your ſcaling ladder,</l>
+                  <l>To leaue it thus, or put it forth of ſight?</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Faithts no great matter which:</l>
+                  <l>Yet we will take it hence, that it may breed</l>
+                  <l>Many confuſd opinions in the houſe</l>
+                  <l>Of your eſcape here: <hi>Albert</hi> you ſhall beare it:</l>
+                  <l>It may bee you may chaunce to practiſe that way;</l>
+                  <l>VVhich when you do, may your attempts ſo proue</l>
+                  <l>As mine haue done, moſt fortunate in loue.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb</speaker>
+                  <l>May you continew euer ſo:</l>
+                  <l>But its time now to make ſome haſt to horſe:</l>
+                  <l>Night ſoone will vaniſh: O that it had power</l>
+                  <l>For euer to exclude day from oureies,</l>
+                  <l>For my lookes then will ſhew my villany:</l>
+                  <stage>aſide</stage>
+               </sp>
+               <sp>
+                  <speaker>Car.</speaker>
+                  <l>Come faire <hi>Maria</hi> the troubles of this night,</l>
+                  <l>Are as forerunners to enſuing pleaſures,</l>
+                  <l>And noble friend although now <hi>Carracus</hi>
+                  </l>
+                  <pb facs="tcp:18635:10"/>
+                  <l>Seemes in the gaining of this beautious priſe,</l>
+                  <l>To keepe from you ſo much of his lou'd treaſure,</l>
+                  <l>Which ought not be mixted, yet his heart</l>
+                  <l>Shall ſo farre ſtriue in your wiſh't happineſſe,</l>
+                  <l>That if the loſſe and ruine of it ſelfe can but auaile your good</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>O friend, no more, come, you are ſlow in haſte,</l>
+                  <l>Friendſhip ought neuer be diſtruſt in words,</l>
+                  <l>Till all her deeds be finiſh't, who looking in a booke,</l>
+                  <l>And reades but ſome part only, cannot iudge</l>
+                  <l>What pray ſo the whole deſerues, becauſe his knowledge</l>
+                  <l>Is grounded but on part, as thine friend is</l>
+                  <stage>aſide.</stage>
+                  <l>Ignorant of that black miſchiefe <hi>I</hi> haue done thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>
+                     <hi>Carracus I</hi> am weary, are the horſes farre?</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>No faireſt, we are now euen at them:</l>
+                  <l>Come, do you follow <hi>Albert?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Yes <hi>I</hi> do follow, would <hi>I</hi> had done ſo euer,</l>
+                  <l>And nere had gone before.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="2" type="act">
+               <head>Actus Secundus.</head>
+               <stage>
+                  <hi>Enter</hi> Hogge <hi>the <g ref="char:V">Ʋ</g>ſurer, with</hi> Peter <hi>ſeruitude truſsing his points.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>What hath not my young lord <hi>Wealthy</hi> been here this morning?</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>No in very deed ſir, is a towardly young gentleman, ſhall a haue my young Miſtris, your daughter, <hi>I</hi> pray you ſir?</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>
+                     <hi>I</hi> that a ſhall <hi>Peter,</hi> ſhe cannot be matched to greater honour and riches in all this Country; yet the peeuiſh girle makes coy of it, ſhe had rather affect a Prodigall, as there was <hi>Hadit,</hi> one that by this time cannot be otherwiſe then hang'd, or in ſome worſe eſtate, yet ſhee would haue had him, but <hi>I</hi> prayſe my ſtarres ſhee went without him though, <hi>I</hi> did not without 's lands 'twas a rare mortgage <hi>Peter?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>As ere came in parchment, but ſee, here comes my young lord.</p>
+                  <stage>Enter young L. Wealthy.</stage>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Morrow father <hi>Hogge, I</hi> come to tel you ſtrange newes, my ſiſter is ſtolne away to night, tis thought by Nigromancy, what Nigromancy is, <hi>I</hi> leaue to the readers of the ſeauen cham<g ref="char:EOLhyphen"/>pions of chiſtendome.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:11"/>
+                  <speaker>Ho.</speaker>
+                  <p>But is it poſsible your ſiſter ſhould be ſtolne, ſure ſome of the houſhold ſeruants were confederates in't.</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>Faith, I thinke they would haue confeſt then, for I am ſure my lord and father hath put them all to the baſtinado twice this morning already, not a wayting-woman but has been ſtowed ifaith.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Truſt me a ſayes wel for the moſt part.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Then my lord your father is farre impatient.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Impatient, I ha ſeene the picture of <hi>Hector</hi> in a Haber<g ref="char:EOLhyphen"/>daſhers ſhop, not looke halfe ſo furious, he apprares more ter<g ref="char:EOLhyphen"/>rible then wilde fire at a play. But father <hi>Hogge,</hi> when is the time your daughter and I ſhall to this wedlock druggery.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Troth my lord when you pleaſe, ſhee's at your diſpo<g ref="char:EOLhyphen"/>ſure, and I reſt much thankfull that your Lordſhip will ſo high<g ref="char:EOLhyphen"/>ly honour me, ſhe ſhal haue a good portion my lord, though no<g ref="char:EOLhyphen"/>thing in reſpect of your large reuenues; call her in <hi>Peter,</hi> tel her my moſt reſpected lord <hi>Welthies</hi> here, to whoſe preſence I will now commit her, and I pray you my Lord, proſecute the gaine of her affectation with the beſt affecting words you may, and ſo I bid good morrow to your lordſhip</p>
+                  <stage>Exit Ho.</stage>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Moreouer, father <hi>Hogge,</hi> to proſecute the gaine of her affectation with the beſt affecting words, as I am a Lord, a moſt rare phraſe: well I perceiue age is not altogether ignorant, though many an old Iuſtice is ſo.</p>
+                  <stage>Enter Peter.</stage>
+                  <p>How now <hi>Peter</hi> is thy young miſtris vp yet?</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Yes indeed ſhee's an early ſtirrer, and I doubt not here<g ref="char:EOLhyphen"/>after, but that your lordſhip may ſay ſhee's abroad before you can riſe.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Faith and ſo ſhe may, for tis long ere I can get vp when I goe ſoxt to bed; but <hi>Peter</hi> has ſhe no other ſuters beſides my ſelfe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>No and it like your lordſhip, nor is fit ſhe ſhould.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Not fit ſhe ſhould, I tell thee <hi>Peter,</hi> I would giue away as much as ſome Knights are worth, and that's not much, only to wipe the noſes of ſome dozen or two of Gallants, and to ſee how pittifully thoſe percels of mans fleſh would looke when I had caught the bird, which they had beaten the buſh for.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Indeed your lordſhips conqueſt would haue ſeem'd the greater.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:11"/>
+                  <speaker>We.</speaker>
+                  <p>Foot, as I am a Lo. it angers me to the guts, that no bo<g ref="char:EOLhyphen"/>dy hath been about her.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>For any thing I know, your lordſhip may goe without her.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>An I could haue inioin'd her to ſome pale fac't louers diſtraction, or beene enuied for my happineſſe, it had beene ſomewhat.</p>
+               </sp>
+               <stage>Enter Rebeeka Hogs daughter.</stage>
+               <p>But ſee where ſhee comes, I knewe ſhe had not power enough to ſtay another ſending, for ô lords! what are we? our very names enforce beauty to fly, being ſent for aſide.</p>
+               <p>Morrow pretty Becke: how dooſt?</p>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>I rather ſhould enquire your lordſhips health, ſeeing you vp at ſuch an early hower: was it the tooth-ake, or elſe fleas diſturb'd you?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Dee ye think I am ſubiect to ſuch common infirmities? nay, were I diſeas'd I'de ſcorne but to be diſeas'd like a lord iſaith: but I can tell you newes, your fellow virgin-hole play<g ref="char:EOLhyphen"/>er, my ſiſter is ſtolne away to night.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>Intruth I am glad on't ſhee's now free from the iealous eye of a father; do not yee ſuſpect, my lord, who it ſhould be that hath carried her away?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>No, nor care nor, as ſhe brewes, ſo let her bake, ſo ſayd the auntient prouerbe, but lady mine that ſhalbe, your father hath wiſht me to appoint the day with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>What day my lord?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Why of mariage, as the learned Hiſtoriographer writes hymens hollidaies, or nuptial Ceremonious rites.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>Why, when would you appoint that my lord?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Why let me ſee, <hi>I</hi> thinke the Taylor may diſpatch all our veſtures in a weeke: therefore, it ſhall be directly this day ſennight.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>God giue you ioy.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>Of what <hi>I</hi> pray you impudence, this fellow wil go neere to take his oath that he hath ſeene vs plighted faiths together, my father keeps him for no other cauſe, then to outſweare the truth My lord not to hold you any longer in a ſooles paradice, nor to blind you with the hopes I neuer intend to accompliſh,
+<pb facs="tcp:18635:12"/>know I neither doe, can, or will loue you.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>How, not loue a lord; ô indiſcreete young woman! Indeed your father told me how vnripe I ſhould finde you: but al's, one vnripe fruit will aske more ſhaking before they fall, then thoſe that are, and my conqueſt will ſee me the greater ſtill.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Afore god is a moſt vnanſwerable lord, and holds her toot ifaith.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Nay ye could not a pleas'd me better, then ſeeing you ſo inuincible, and ſuch a difficult attaining to, I would not giue a pin for the ſociety of a female that ſhould ſeeme willing, but giue me a wench that hath diſdainefull lookes:</p>
+                  <l>For tis denial whets on appetite,</l>
+                  <l>When proferred ſeruice doth allay delight.</l>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>The fooles well read in vice, my lord, I hope you here<g ref="char:EOLhyphen"/>after will no further inſinuate in the courſe of your affections, and for the better withdrawing from them, you may pleaſe to know, I haue irreuocably decreed neuer to marry.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Neuer to marry, <hi>Peter</hi> I pray beare witnes of her words that when I haue attain'd her, it may adde to my fame and con<g ref="char:EOLhyphen"/>queſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Yes indeed an't like your lordſhip.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Nay, ye muſt think <hi>Becke</hi> I know how to woe, ye ſhall finde no baſhfull vniuerſity man of me.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>Indeed I thinke y'ad nere that bringing vp, did you e<g ref="char:EOLhyphen"/>uer ſtudy my lord?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Yes faith that I haue, and the laſt week too, three dayes and a night together.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>About what I pray?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Onely to finde out, why a woman going on the right ſide of her husband the day time, ſhould lie on his left ſide at night; and as <hi>I</hi> am a lord, I neuer knew the meaning on't till yeſterday, Mallapert my fathers Butler being a witty <hi>I</hi> acka<g ref="char:EOLhyphen"/>napes told me why it was.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>Berlady, my lord, twas a ſhrewd ſtuddy, and I feare hath altered the property of your good parts, for ile aſſure you <hi>I</hi> lou'd you a fortnight a goe farre better.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Nay, tis all one whether you doe or no, tis but a little
+<pb facs="tcp:18635:12"/>more trouble to bring ye about agen, &amp; no queſtion but a man may doot; <hi>I</hi> am he, tis true as your father ſayd, the blacke Oxe hath not trode vpon that foote of yours.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>No, but the white Calfe hath, and ſo I leaue your lord<g ref="char:EOLhyphen"/>ſhip.</p>
+                  <stage>Exit Re.</stage>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Wel go thy waies, th'art as witty a marmaled eater, as euer I conuerſt with; now, as I am a lord, I loue her better and better, ile home and Poetiſe vpon her good parts preſently, <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> heres apreparatiue to my further applications, and <hi>Peter</hi> be circumſpect in giuing me diligent notice, what ſutors ſeeme to be pee-ping.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Ile warrant you my lord, ſhee's your owne, for ile giue out to all that comes neere her, that ſhees betrothed to you, and if the worſt come to the worſt, Ile ſweare it.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Why god-a-mercy, and if euer I do gaine my requeſt, Thou ſhalt in brauer cloathes be ſhortly dreſt.</p>
+                  <stage>Exeunt.</stage>
+                  <stage>
+                     <hi>Enter old L.</hi> Wealthy <hi>ſolus.</hi>
+                  </stage>
+                  <l>Haue the fates then conſpir'd, and quite bereft</l>
+                  <l>My drooping yeeres, of all the bleſt content</l>
+                  <l>That age partakes of, by the ſweet aſpect</l>
+                  <l>Of their well nurtur'd iſſue; whoſe obedience,</l>
+                  <l>Diſcreete and duteous haueour, onely lengthens</l>
+                  <l>The thred of age; when on the contrary,</l>
+                  <l>By rude demeanour and their headſtrong wils,</l>
+                  <l>That thred's ſoone rauel'd out: O why <hi>Maria</hi>
+                  </l>
+                  <l>Couldſt thou abandon me now at this time,</l>
+                  <l>When my gray head's declining to the graue!</l>
+                  <l>Could any Maſculine flatterer on earth</l>
+                  <l>So far bewitch thee, to forget thy ſelfe,</l>
+                  <l>As now to leaue me? Did Nature ſoly giue thee me,</l>
+                  <l>As my chiefe ineſtimable treaſure,</l>
+                  <l>Whereby my age might paſſe in quiet to reſt:</l>
+                  <l>And art thou prov'd to be the only curſe,</l>
+                  <l>Which heauen could throw vpon mortality:</l>
+                  <l>Yet ile not curſe thee, though I feare the fates</l>
+                  <l>Will on thy head inflict ſome puniſhment,</l>
+                  <l>Which I will daily pray they may with-hold;</l>
+                  <pb facs="tcp:18635:13"/>
+                  <l>Although thy diſobediency deſerues</l>
+                  <l>Extreameſt rigor, yet <hi>I</hi> wiſh to thee</l>
+                  <l>Content in loue full of tranquility.</l>
+                  <stage>Enter young Welthy.</stage>
+                  <l>But ſee where ſtands my ſhame, whoſe indiſcretion</l>
+                  <l>Doth ſeeme to bury all the liuing honours,</l>
+                  <l>Of all our aunceſtours but tis the fates decree,</l>
+                  <l>That men might know their weake mortality.</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Sir, I cannot finde my ſiſter,</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <l>I know thou canſt not, t'were to rare to ſee</l>
+                  <l>VViſdome found out by ignorance.</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>How father, is it not poſſible that wiſdome ſhould be found out by ignorance; I pray then how do many Magnificoes come by it?</p>
+               </sp>
+               <sp>
+                  <speaker>Fa</speaker>
+                  <l>Not buy it ſonne, as you had need to doe,</l>
+                  <l>Yet wealth without that, may liue more content,</l>
+                  <l>Then wits enioyers, can debard of wealth,</l>
+                  <l>All pray for wealth, but I nere hard yet,</l>
+                  <l>Of anie but one, that ere praid for wit,</l>
+                  <l>Hees counted wife enough in theſe vaine times,</l>
+                  <l>That hath but meanes enough to we are gay clothes,</l>
+                  <l>And be an outſide of humanitie, what matters it a pin,</l>
+                  <l>How indiſcreet ſo ere a natur all be,</l>
+                  <l>So that his wealth be great, thats it doth cauſe</l>
+                  <l>VViſdome in theſe daies; so giue fooles applauſe,</l>
+                  <l>And when gay folly ſpeakes, how vaine ſo ere,</l>
+                  <l>VViſdome muſt ſilent ſit, and ſpeech forbear.</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Then wiſdome will ſit as mure as learning among many Courtiers, but father I partlie ſuſpect that <hi>Carracus</hi> hath got my ſiſter.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>With Childe, I feare ere this.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Berlady and that may be true, but whether a has or no, its al one, if you pleaſe, Ile take her from vnder his noſe in ſpight ons teeth, and aske him no leaue.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>That were to headſtrong, ſonne, weele rather leaue them to the will of heauen.</p>
+                  <l>To fall or proſper, and though young <hi>Carracus</hi>
+                  </l>
+                  <l>Be but a gentleman of ſmall reuennews;</l>
+                  <l>Yet lie deſerues my daughter for his vertues,</l>
+                  <pb facs="tcp:18635:13"/>
+                  <l>And had I though ſhee could not be withdrawne</l>
+                  <l>From th'affecting of him, I had ere this</l>
+                  <l>Made them both happy by my free conſent</l>
+                  <l>VVhich now I wiſh I had graunted, and ſtill pray</l>
+                  <l>If any haue her, it may be <hi>Carracus.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Troth and I wiſh ſo too, for in my minde hees a gent. of a good houſe, and ſpeakes true lattine,</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <l>To morrow ſonne, you ſhall ride to his houſe</l>
+                  <l>And there enquier of your ſiſters being,</l>
+                  <l>But as you tender me, and your owne good</l>
+                  <l>Vſe no rough language ſauouring of diſtaſt,</l>
+                  <l>Or any vnciuil tearmes.</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Why doe ye take me for a mid-wife,</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <l>But tell young <hi>Carracus</hi> theſe words from me,</l>
+                  <l>That if he hath with ſafegard of her honor,</l>
+                  <l>Eſpouſd my daughter, that I then forgiue</l>
+                  <l>His raſh offence, and will accept of him,</l>
+                  <l>In all the fatherly loue, I owe a childe.</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>I am ſure my ſiſter willbe glad to heare it, and <hi>I</hi> cannot blame her, for ſheele then inioy that with quietneſſe, which ma<g ref="char:EOLhyphen"/>ny a wench in theſe dayes does ſcratch for,</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>Come ſonne, ile wright to <hi>Carracus,</hi> that my owne hand may witneſſe, how much I ſtand affected to his worth.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>Enter Haddid in his gay apparel, making him ready, and with him Lightfoote.</stage>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>By this light Coze, this ſuite does rarely: the taylor that made it, may happe to be ſaued, ant be but for his good workes, I thinke <hi>I</hi> ſhall be proud of em, and ſo I was neuer yet of any clothes.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>How not of your Clothes, why then you were neuer proud of any thing, for therein chiefly conſiſteth pride: for you neuer ſaw pride pictured, but in gay attire.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>True, but in my opinion, pride might as well be por<g ref="char:EOLhyphen"/>traied in any other ſhape, as to ſeeme to be an affector of gal<g ref="char:EOLhyphen"/>lantry, being the cauſes thereof are ſo ſeuerall and diuers, as ſome are proud of their ſtrength, although that pride coſt them the loſſe of a limbe or two, by ouer-daring, likewiſe ſome are
+<pb facs="tcp:18635:14"/>proud of their humor, although in that humor, they be often knockt for being ſo, ſome are proud of their drinke, although that liquid operation, cauſe them to weare a night cap 3. weeks after, ſome are proud of their good parts, although they neuer put them to better vſes, then the enioying of a common ſtrum<g ref="char:EOLhyphen"/>pets company, and are only made proud by the fauor of a wai<g ref="char:EOLhyphen"/>ting woman, others are proud —</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Nay, I preethee Coze, enough of pride, but when do you entend to go yonder to Couetouſneſſe the Vſurer, that we may ſee how neere your plot wil take, for the releaſing of your mort<g ref="char:EOLhyphen"/>gag'd lands.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Why now preſently, and if I do not accompliſh my pro<g ref="char:EOLhyphen"/>iects to a wiſhed end, <hi>I</hi> wiſh my fortunes may be like ſome ſcra<g ref="char:EOLhyphen"/>ping tradeſman, that neuer embraceth true pleaſure, till he be threeſcore and ten.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>But ſay <hi>Hogs</hi> daughter, on whom all your hopes depend by this be betrothed to ſome other.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>VVhy ſay ſhee were, nay more, maried to another, <hi>I</hi> would be neare the further of them effecting of my intents, no Coze, I partly know her inward diſpoſition, and did <hi>I</hi> but only know her to be woman kind, I thinke it were ſufficient.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Sufficient, for what.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>VVhy to obtaine a graunt of the beſt thing ſhee had, Chaſtity, Man tis not here, as tis with you in the Countrey, not to be had without fathers and mothers good will, no, the City is a place of more traffique, where each one learnes by example of their elders, to make the moſt of their owne, either for profit or pleaſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Tis but your miſbeleeuing thoughts, makes you ſurmiſe ſo, if women were ſo kind, how haps you had not by their fa<g ref="char:EOLhyphen"/>ctors kept your ſelfe out of the clawes of pouerty.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>O but Coze, Can a ſhip ſaile without water, had I had but ſuch a ſuite as this, to ſet my ſelfe a floate, I would not haue <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ar'd ſincking but come, no more of need, now to the Vſurer, and though all hopes do faile, a man can want no liuing, So long as ſweet deſire reignes in women.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>But then your ſelfe muſt able be in giuing.</p>
+                  <stage>Exeunt.</stage>
+                  <stage>
+                     <pb facs="tcp:18635:14"/>
+                     <hi>Enter Albert ſolus.</hi>
+                  </stage>
+                  <l>Conſcience thou horror vnto wicked men,</l>
+                  <l>VVhen wilt thou ceaſe thy all afflicted wrath,</l>
+                  <l>And ſet my ſoule free from the laborinth</l>
+                  <l>Of thy tormenting terror; O but it fits not,</l>
+                  <l>Should I deſire redreſſe or wiſh for comfort,</l>
+                  <l>That haue committed an act ſo inhumane,</l>
+                  <l>Able to fill ſhames ſpatious Chronicle.</l>
+                  <l>Who but a damn'd one, could haue done like me,</l>
+                  <l>Robd my deere friend, in a ſhort moments time</l>
+                  <l>Of his loues high pri'zd Iem of Chaſtity:</l>
+                  <l>That which ſo many yeeres himſelfe hath ſtaid for;</l>
+                  <l>How often hath he as he lay in bed,</l>
+                  <l>Sweetly diſcourſt to me of his <hi>Maria?</hi>
+                  </l>
+                  <l>And with what pleaſing paſſions a did ſuffer</l>
+                  <l>Loues genle war-ſiege, then he would relate</l>
+                  <l>How he firſt came vnto her f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ire eyes view;</l>
+                  <l>How long it was ere ſhee could brooke affection,</l>
+                  <l>And then how conſtant ſhee did ſtill abide:</l>
+                  <l>I then at this would ioy, as if my breſt</l>
+                  <l>Had ſimpathi'zd in equall happineſſe;</l>
+                  <l>With my true friend: but now when ioy ſhould be,</l>
+                  <l>VVho but a damn'd one would haue done like me:</l>
+                  <l>He hath been married now at leaſt a moneth:</l>
+                  <l>In all which time I haue not once behold him; This is his houſe:</l>
+                  <l>Ile call to know his health, but will not ſee him,</l>
+                  <l>My lookes would then betray me for ſhould he aſke</l>
+                  <l>My cauſe of ſeeming ſadneſſe, or the like;</l>
+                  <l>I could not but reueale, and ſo pourd on</l>
+                  <l>VVorſe vnto id, which breeds confuſion.</l>
+               </sp>
+               <stage>He knocks, Enter Seruingman.</stage>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>To what intent dee knocke ſir.</p>
+               </sp>
+               <sp>
+                  <speaker>Al.</speaker>
+                  <p>Becauſe I wold be heard ſir, is the M<hi rend="sup">r</hi>. of this houſe within?</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Yes marry is a ſir, would you ſpeake with him?</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>My buſineſſe is not ſo troubleſome:</l>
+                  <l>Is a in health with his late eſpouſed wife</l>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Both are exceeding well ſir.</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>I me truly glad ont, farewel good friend.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:15"/>
+                  <speaker>Ser.</speaker>
+                  <p>I pray you lets craue your name ſir, I may els haue anger.</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>You may ſay, one <hi>Albert</hi> riding by this way, onely inquir'd their health.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>I will acquaint ſo much.</p>
+                  <stage>Exit Ser.</stage>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>How like a poiſonous Doctor haue I come,</l>
+                  <l>To enquire their wel-fare, knowing that my ſelfe</l>
+                  <l>Haue giuen the portion of their nere recouery;</l>
+                  <l>For which I will afflict my ſelfe with torture euer:</l>
+                  <l>And ſince the earth yeelds not a remedy,</l>
+                  <l>Able to ſalue the ſores my luſt hath made,</l>
+                  <l>Ile now take fare-wel of ſociety,</l>
+                  <l>And th'aboade of men to entertaine a life</l>
+                  <l>Fitting my fellowſhip, in deſart woods;</l>
+                  <l>Where beaſts like me conſort, there may I liue,</l>
+                  <l>Farre off from wronging vertuous <hi>Carracus;</hi>
+                  </l>
+                  <l>Theres no <hi>Maria</hi> that ſhall ſatisfie</l>
+                  <l>My hatefull luſt, the trees ſhall ſhelter</l>
+                  <l>This wretched trunke of mine, vpon whoſe backe.</l>
+                  <l>I will engraue the ſtory of my ſinne,</l>
+                  <l>And there this ſhort breath of mortality,</l>
+                  <l>Ile finiſh vp in that repentant ſtate;</l>
+                  <l>Where not th'allurements of earths vanities</l>
+                  <l>Can ere ore-take me, there's no baites for luſt,</l>
+                  <l>No friend to ruine, <hi>I</hi> ſhall then be free</l>
+                  <l>From practiſing the art of treachery;</l>
+                  <l>Thither then ſteps where ſuch content abides,</l>
+                  <l>Where penitency not diſturb'd may greeue,</l>
+                  <l>Where on each tree and ſpringing plant, Ile carue</l>
+                  <l>This heauy motto of my miſery.</l>
+                  <l>Who but a damb'd one could haue done like me?</l>
+                  <l>
+                     <hi>Carracus</hi> farewel, if ere thou ſeeſt me more,</l>
+                  <l>Shalt finde me curing of a ſole-ſicke ſore.</l>
+                  <stage>Exit.</stage>
+               </sp>
+            </div>
+            <div n="3" type="act">
+               <head>Actus Tertius.</head>
+               <stage>
+                  <hi>Enter</hi> Carracus <hi>driuing his man before him.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>Why thou baſe villaine, was my deareſt friend here, and couldſt not make him ſtay?</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:15"/>
+                  <speaker>Ser.</speaker>
+                  <p>Sfoote ſir, I could not force him againſt his wil, an a had been a woman.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>Hence thou vntuter'd ſlaue.</p>
+                  <stage>Exit Ser.</stage>
+                  <p>But couldſt thou <hi>Albert</hi> come ſo nere my dore, and not vouch<g ref="char:EOLhyphen"/>ſafe the comfort of thy preſence?</p>
+                  <l>Hath my good fortune caus'd thee to repine?</l>
+                  <l>And ſeeing my ſtate ſo full repleate with good,</l>
+                  <l>Canſt thou with-draw thy loue to leſſen it?</l>
+                  <l>What could ſo moue thee, was 't becauſe I married?</l>
+                  <l>Didſt thou imagine I infring'd my faith,</l>
+                  <l>For that a woman did participate</l>
+                  <l>In equall ſhare with thee? Cannot my friendſhip</l>
+                  <l>Be firme to thee, becauſe tis deare to her;</l>
+                  <l>Yet no more deere to her then firme to thee:</l>
+                  <l>Beleeue me <hi>Albert;</hi> thou doſt little thinke,</l>
+                  <l>How much thy abſence giues cauſe of diſcontent,</l>
+                  <l>But ile impute it onely to neglect,</l>
+                  <l>It is neglect indeed when friends neglect</l>
+                  <l>The ſight of friends, and ſay tis troubleſome;</l>
+                  <l>Onely aske how they do, and ſo fare well:</l>
+                  <l>Shewing an outward kinde of ſeeming duty,</l>
+                  <l>Which in the rules of manhood is obſern'd</l>
+                  <l>And thinke full well they haue perform<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d their taske,</l>
+                  <l>When of their friends health they do onely aske,</l>
+                  <l>Not caring how they are, or how diſtreſt,</l>
+                  <l>It is enough they haue their loues expreſt,</l>
+                  <l>In bare enquiry, and in theſe times too</l>
+                  <l>Friendſhips ſo cold that fewe ſo much will doe:</l>
+                  <l>And am not I beholding then to <hi>Albert,</hi>
+                  </l>
+                  <l>He after knowlede of our being well,</l>
+                  <l>Sayd he was truly glad on't: ô rare friend!</l>
+                  <l>If he be vnkind how many more may mend;</l>
+                  <l>But whether am I carried by vnkindneſſe?</l>
+                  <l>Why ſhould not I as wel ſet light by friendſhip,</l>
+                  <l>Since I haue ſeene a man whom I late thought,</l>
+                  <l>Had been compos'd of nothing but of faith,</l>
+                  <l>Proue ſo regardleſſe of his friends content.</l>
+                  <stage>Enter Maria</stage>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>Come <hi>Carracus</hi> I haue ſought you all about,</l>
+                  <l>Your ſeruant told me you were much diſquieted</l>
+                  <pb facs="tcp:18635:16"/>
+                  <l>Prethee loue be not ſo, come walke in,</l>
+                  <l>Ile charm thee with my lute from forth diſturbance.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>I am not angry ſweet, though if <hi>I</hi> were,</l>
+                  <l>Thy bright aſpect would ſoone alay my rage;</l>
+                  <l>But my <hi>Maria,</hi> it doth ſomething moue me,</l>
+                  <l>That our friend <hi>Albert</hi> ſo forgets himſelfe.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>It may be 'ts nothing els, &amp; theres no doubt</l>
+                  <l>Hele ſoone remember his accuſtom'd friendſhip</l>
+                  <l>He thinks, as yet, peraduenture that his preſence</l>
+                  <l>Will but offend, for that our marriage rites</l>
+                  <l>Are but ſo newly paſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>I will ſurmiſe ſo too, and onely thinke,</l>
+                  <l>Some ſerious buſineſſe hinders <hi>Alberts</hi> preſence:</l>
+                  <l>But what ring's that <hi>Maria</hi> on your finger?</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>Tis one you loſt loue, when I did beſtow</l>
+                  <l>A iewell of ſarre greater worth on you.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>At what time faireſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>As if you knew not, why dee mak't ſo ſtrang<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Yare diſpos'd to riddle, pray lets ſee't,</l>
+                  <l>I partly know it, where waſt you ſound it?</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>Why in my chamber that moſt gladſome night</l>
+                  <l>When you enricht your loue by my eſcape.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>How, in your Chamber?</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>Sure <hi>Carracus</hi> I will be angry with you</l>
+                  <l>If you ſeeme ſo forgetfull, I tooke it vp</l>
+                  <l>Then when you left my lodge and went away,</l>
+                  <l>Glad of your conqueſt for to ſeeke your friend:</l>
+                  <l>Why ſtand you ſo amaz'd, ſir I hope that kindneſſe</l>
+                  <l>Which then you reaped, doth not preuaile</l>
+                  <l>So in your thoughts, as that you thinke me light.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>O thinke thy ſelfe <hi>Maria</hi> what thou art:</l>
+                  <l>This is the ring of <hi>Albert</hi> treacherous man,</l>
+                  <l>Hee that enioy'd thy virgin chaſtity:</l>
+                  <l>I neuer did aſcend into thy chamber;</l>
+                  <l>But all that cold night through the frozen field,</l>
+                  <l>Went ſeeking of that wretch, who nere ſought me;</l>
+                  <l>But found what his luſt ſought, for deareſt thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma,</speaker>
+                  <p>I haue heard enough my <hi>Carracus</hi> to bereaue me of this little breath, <hi>ſhe ſounds.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:16"/>
+                  <speaker>Ca.</speaker>
+                  <p>All breath be firſt extinguiſhe, within there ho?</p>
+               </sp>
+               <stage>Enter Nurſe and Seruants.</stage>
+               <p>O Nurſe ſee heere, <hi>Maria</hi> ſaies ſheele die.</p>
+               <sp>
+                  <speaker>Nu.</speaker>
+                  <p>Marry, God forbid, oh M<hi rend="sup">riſ</hi>. Ms. Ms. ſhe has breath yet, ſhees but in a traunce, good ſir take comfort ſheele recouer by and by.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>No, no, ſheele die Nurſe, for ſhe ſayd ſhe would, an ſhe had not ſayd ſo, tad bene another matter, but you know Nurſe ſhe nere told a lie, <hi>I</hi> will beleeue her, for ſhe ſpeaks all truth.</p>
+               </sp>
+               <sp>
+                  <speaker>Nur.</speaker>
+                  <l>His memory begins to faile him, come lets beare</l>
+                  <l>This heauy ſpectacle from forth his preſence,</l>
+                  <l>The heaue<g ref="char:cmbAbbrStroke">̄</g>s wil lend a hand, <hi>I</hi> hope, of comfort, <hi>Exeu<g ref="char:cmbAbbrStroke">̄</g>t Ca. manet.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>See how they ſteale away my faire <hi>Maria,</hi>
+                  </l>
+                  <l>But I will follow after her as farre,</l>
+                  <l>As <hi>Orpheus</hi> did to gaine his ſoules delight,</l>
+                  <l>And <hi>Plutoes</hi> ſelfe ſhall know, although <hi>I</hi> am not</l>
+                  <l>Skilful in muſique, yet <hi>I</hi> can be mad,</l>
+                  <l>And force my loues enioyment in deſpight</l>
+                  <l>Of hels blacke fury; but ſtay, ſtay <hi>Carracus,</hi>
+                  </l>
+                  <l>Where is thy knowledge, and that rational ſence,</l>
+                  <l>Which heauen; great Architect indued thee with?</l>
+                  <l>All ſunke beneath the waight of lumpiſh nature?</l>
+                  <l>Are our diuiner parts no noblier free,</l>
+                  <l>Then to be tortur'd by the weake aſſailements</l>
+                  <l>Of earth-ſprung griefes? why is man then accompted</l>
+                  <l>The head commaunder of this vniuerſe,</l>
+                  <l>Next the Creator, when a little ſtorme</l>
+                  <l>Of natures fury ſtraight ore'whelmes his iudgement,</l>
+                  <l>But mines no little ſtorme, tis a tempeſt</l>
+                  <l>So full of raging ſelfe-conſuming woe,</l>
+                  <l>That nought but ruine followes expectation:</l>
+                  <l>Oh my <hi>Maria,</hi> what vnheard of ſinne</l>
+                  <l>Haue any of thine Aunceſtors enacted,</l>
+                  <l>That all their ſhame ſhould be powr'd thus on thee;</l>
+                  <l>Or what inceſtuous ſpirit, cruell <hi>Albert</hi>
+                  </l>
+                  <l>Left hels vaſt wombe for to enter thee,</l>
+                  <l>And do a miſchiefe of ſuch treachery.</l>
+                  <stage>Enter Nurſe weeping.</stage>
+                  <pb facs="tcp:18635:17"/>
+                  <l>Oh Nurſe, how iſt with <hi>Maria?</hi>
+                  </l>
+                  <l>If ere thy tongue did vtter pleaſing words,</l>
+                  <l>Let it now do ſo, or hereafter ere be dumbe in ſorrow.</l>
+               </sp>
+               <sp>
+                  <speaker>Nur.</speaker>
+                  <l>Good ſir take comfort, I am forc't to ſpeake</l>
+                  <l>What will not pleaſe, your chaſte wiſe ſir is dead.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>Tis dead indeed, how did you know twas ſo Nurſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Nur.</speaker>
+                  <p>What ſir?</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>That my heart was dead, ſure thou haſt ſerv'd</l>
+                  <l>Dame natures ſelfe, and knoweſt the inward ſecrets</l>
+                  <l>Of all our hidden powers, ile loue thee for't;</l>
+                  <l>And if thou wilt teach me that vnknowne skill,</l>
+                  <l>Shalt ſee what wonder <hi>Carracus</hi> will do;</l>
+                  <l>Ile diue into the breaſt of hatefull <hi>Albert,</hi>
+                  </l>
+                  <l>And ſee how his blacke ſoule is round incompaſt</l>
+                  <l>By fearefull fiends, oh I would do ſtrange things,</l>
+                  <l>And know to whoſe cauſe Lawyers wil incline,</l>
+                  <l>When they had fees on both ſides, viewe the thoughts</l>
+                  <l>Of for-lorne widdowes when their Knights haue left them;</l>
+                  <l>Search through the guts of grearnes, and behold</l>
+                  <l>What ſeueral ſin beſt pleas'd them, thence Ide deſcend</l>
+                  <l>Into the bowels of ſome pocky ſit:</l>
+                  <l>And tell to leachers all the paines he felt,</l>
+                  <l>That they thereby might warned be from luſt,</l>
+                  <l>Troth twill be rare, ile ſtudy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> preſently.</l>
+               </sp>
+               <sp>
+                  <speaker>Nur.</speaker>
+                  <l>Alas! hee's diſtracted, what a ſinne</l>
+                  <l>Am I partaker of by telling him,</l>
+                  <l>So curſt an vntruth? But 'twas my Miſtris will</l>
+                  <l>Who is recouer'd, though her griefes neuer</l>
+                  <l>Can be recouer'd, ſhee hath vow'd with teares</l>
+                  <l>Her owne perpetuall baniſhment, therefore to him</l>
+                  <l>Death was not more diſpleaſing, then if I</l>
+                  <l>Had told her laſting abſence.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>I finde my braines too ſhallow farre for ſtudy,</l>
+                  <l>What neede I care for being a Rethmetitian,</l>
+                  <l>Let Cittizens ſonnes ſtand and they will for Ciphers;</l>
+                  <l>Why ſhould I teach them and go beate my braines,</l>
+                  <l>To inſtruct vnapt, and vnconceauing dolts,</l>
+                  <l>And when all's done, my art that ſhould be ſam'd,</l>
+                  <pb facs="tcp:18635:17"/>
+                  <l>VVill by groſſe imitation be but ſham'd,</l>
+                  <l>Your iudgement Madam?</l>
+               </sp>
+               <sp>
+                  <speaker>Nur.</speaker>
+                  <p>Good ſir walke in, weele fend for learned men that may alay your frenzy.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>But can <hi>Maria</hi> ſo forget her ſelfe,</l>
+                  <l>As to debarre vs thus of her attendance?</l>
+               </sp>
+               <sp>
+                  <speaker>Nur.</speaker>
+                  <p>Shee is within ſir, pray you wil you walke to her.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Oh is ſhe ſo, come then lets ſoftly ſteale</l>
+                  <l>Into her chamber, if ſhe be a ſleepe</l>
+                  <l>Ile laugh ſhalt ſee enough, and thou ſhalt weepe,</l>
+                  <l>Softly good long coate, ſoftly.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Maria <hi>in Pages apparrell.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>Ceaſe now thy ſteps <hi>Maria,</hi> and looke backe</l>
+                  <l>Vpon that place, where diſtreſt <hi>Carracus</hi>
+                  </l>
+                  <l>Hath his ſad being, from whoſe vertuous hoſome,</l>
+                  <l>Shame hath conſtrain'd me fly nere to retourne:</l>
+                  <l>I will goe ſeeke ſome vnfrequented path,</l>
+                  <l>Either in deſert woods or wilderneſſe,</l>
+                  <l>There to bewaile my innocent miſhaps,</l>
+                  <l>VVhich heauen hath iuſtly powred downe on me.</l>
+                  <l>In puniſhing my diſobediency.</l>
+                  <stage>Enter young Lo. Wealthy.</stage>
+                  <l>Oh ſee my brother</l>
+                  <stage>Exit Maria.</stage>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>Ho you, three foote and a halfe, why Page <hi>I</hi> ſay, ſfoot is vaniſht as ſodainly as a dumbe ſhewe, if a lord had loſt his way now ſo a had been ſerued, but let me ſee; as I take it, this is the houſe of <hi>Carracus,</hi> a very faire building, but it lookes as if twere dead, I can ſee no breath come out of the chimnies; but <hi>I</hi> ſhall know the ſtate on't by and by, by the looks of ſome ſeruing-man: VVhat no within here?</p>
+                  <stage>Enter Ser.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Good ſir, you haue your armes at liberty, wilt pleaſe you to with-draw your action of battery.</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>Yes indeed, now you haue made your appearance, is the liuing-giuer within ſir?</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>You meane my Maſter ſir?</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>You haue hit it ſir, prays'd bee your vnderſtanding, I am to haue co<g ref="char:cmbAbbrStroke">̄</g>ference with him, would you admit my preſence.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Indeed ſir he is at this time not in health, and may not be diſturb'd.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:18"/>
+                  <speaker>We.</speaker>
+                  <p>Sir, an a were in the pangs of childe-bed, I'de ſpeake with him.</p>
+                  <stage>Enter Carracus.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>Vpon what cauſe gay-man?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Sfoote I thinke a be diſturb'd indeed, a ſpeakes more commaunding then a Conſtable at midnight.</p>
+                  <p>Sir, my lord and father, by me a lord, hath ſent theſe lines in<g ref="char:EOLhyphen"/>clos'd, which ſhew his whole intent.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Let me peruſe them, if they do portend</l>
+                  <l>To the States good, your anſwere ſhall be ſodaine,</l>
+                  <l>Your entertainement friendly; but if otherwiſe,</l>
+                  <l>Our meaneſt ſubiect ſhall diuide thy greatnes,</l>
+                  <l>You'd beſt looke too't Embaſſador.</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Is yous M<hi rend="sup">r</hi>. a Stateſman friend?</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Alas no ſir, a vnderſtands not what a ſpeakes.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>I but when my father dies, I am to be call'd in for one my ſelfe, and I hope to beare the place as grauely as my ſucceſ<g ref="char:EOLhyphen"/>ſors haue done before me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Embaſſador, I finde your Maſters will</l>
+                  <l>Treats to the good of ſomewhat, what it is</l>
+                  <l>You haue your anſwere, and may now depart.</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>I will relate as much ſir, fare ye well.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>But ſtay, I h<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> forgotten quite our chief'ſt affaires,</l>
+                  <l>Your Maſter further writes ſome three lines lower,</l>
+                  <l>Of one <hi>Maria</hi> that is wife to me,</l>
+                  <l>That ſhe and I ſhould trauel now with you</l>
+                  <l>Vnto his preſence.</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Why now I vnderſtand you ſir, that <hi>Maria</hi> is my ſiſter, by whoſe coniunction you are created brother, to me a lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>But brother lord we cannot goe this iourney.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Alas no ſir, we meane to ride it, my ſiſter ſhall ride vpon my nagge.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Come then weele in, and ſtriue to woe your ſiſter,</l>
+                  <l>I ha not ſeene her ſir, at leaſt theſe three dayes,</l>
+                  <l>They keepe her in a Chamber, and tell me</l>
+                  <l>Shee's faſt a ſleepe ſtill, you and ile go ſee,</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Content ſir.</p>
+               </sp>
+               <sp>
+                  <speaker>Ser.</speaker>
+                  <p>Mad-men and fooles agree.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>Enter Haddit and Rebecka.</stage>
+               <sp>
+                  <pb facs="tcp:18635:18"/>
+                  <speaker>Re.</speaker>
+                  <p>When you haue got this priſe, you meane to loſe me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Nay pree thee doe not thinke ſo, if I doe not marry thee this inſtant night, may I neuer enioy breath a minute after; by heauen I reſpect not his pelfe, thus much, but onely that I may haue wherewith to maintaine thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>O but to rob my father, though a be bad, the world will thinke ill of me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Thinke ill of thee, can the world pitty him, that nere pittied any, beſides ſince their is no end of his goods, nor begin<g ref="char:EOLhyphen"/>ning of his goodneſſe; had not we as good ſhare his droſſe in his life time, as let Controuerſie and Lawyers deuowre it ats death?</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>You haue preuail'd, at what houre iſt you entend to haue entrance into his chamber?</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Why iuſt at mid-night, for then our apparition will will ſeeme moſt fearefull, youle make away that we may aſcend vp like ſpirits?</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>I will, but how many haue you made inſtruments herein?</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Faith none, but my coſen Lightfoote and a plaier.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>But may you truſt the player?</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Oh exceeding well, wele giue him a ſpeech a vnder<g ref="char:EOLhyphen"/>ſtands not, but now I thinke out, whats to be done with your Fathers man <hi>Peter?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>Why the leaſt quantity of drinke, will lay him dead a<g ref="char:EOLhyphen"/>ſleepe; But harke, I heare my father comming, ſoone in the eue<g ref="char:EOLhyphen"/>ning ile conuay you in.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Till when, let this outward ceremony, be the true pledge of our inward affections.</p>
+                  <stage>Exit Reb.</stage>
+                  <p>So, this goes better forward then the <hi>Plantation in Virginia:</hi> but ſee here comes halfe the weſt Indies, whoſe rich mines this night I meane to be ranſacking</p>
+                  <stage>Enter Hog, Lightfoote, &amp; Peter.</stage>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Then youle ſeale for this ſmall Lordſhip you ſay, To morrow your mony ſhall be rightly told vp for you to a peny.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>I pray let it, and that your man may ſet contents vpon euerie bag.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Indeed by that wee may know what we ſteale without labour, for the telling ont ore; how now gent. are ye agreed v<g ref="char:EOLhyphen"/>pon the price of this earth and clay.</p>
+               </sp>
+               <sp>
+                  <speaker>Hog,</speaker>
+                  <p>Yes faith Mr. <hi>Haddit</hi> the gent, your friend here makes me paye ſweetlie for't but let it goe, I hope to inherite hea<g ref="char:EOLhyphen"/>uen
+<pb facs="tcp:18635:19"/>ant be but for doing gentlemen pleaſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>
+                     <hi>Peter.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Anon ſir.</p>
+               </sp>
+               <sp>
+                  <speaker>Hogge</speaker>
+                  <p>I wonder how <hi>Haddit</hi> came by that gay ſuite of clothes, all his meanes was conſumed long ſince.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Why ſir being vndone himſelfe; a liues by the vndoing or by-lady, it may be by the doing of others, or peraduenture both a decayed gallant may liue by any thing, if a keepe one thing ſafe.</p>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Gentlemen, Ile to the Scriueners to cauſe theſe writings to be drawne.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Pray doe ſir, weele now leaue you till the morning.</p>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Nay, you ſhall ſtay dinner, ile retourne preſently; <hi>Peter</hi> ſome beare here for theſe worſhipful gentlemen.</p>
+               </sp>
+               <stage>
+                  <hi>Exit Hagge,</hi> Come <hi>Peter.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>We ſhall be bold no doubt, and that olde penny-father youle confeſſe by to morrow morning.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Then his daughter is certainely thine, and condiſcends to all thy wiſhes.</p>
+               </sp>
+               <sp>
+                  <speaker>Had</speaker>
+                  <p>And yet you would not once beleeue it, as if a females fauour could not be obteyn'd by any, but he that weares the Cap of maintenance.</p>
+                  <l>When 'ts nothing but acquaintance and a bold ſpirit,</l>
+                  <l>That may the chiefeſt prize mongſt all of them inherit,</l>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Well thou haſt got one deſerues the bringing home with trumpets, and fals to thee as miraculouſly as the 1000. pound did to the Tailor, thanke your good fortune, but muſt Hogges man be made druncke,</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>By all meanes: and thus it ſhall be effected, when a comes in with beere, do you vpon ſome ſlight occaſion fall out with him, and if you doe giue him a cuffe or two, it will giue him cauſe to knowy'are the more angry, then will I ſlip in and take vp the matter, and ſtriuing to make you two friends, wele make him druncke.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Its done in conceipt already, ſee where a comes.</p>
+               </sp>
+               <stage>Enter Peter.</stage>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Wilt pleaſe you to taſt a cup of September beare gentiem.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Pray begin, wele pleadge you ſir.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:19"/>
+                  <speaker>Pet.</speaker>
+                  <p>Its out ſir. <hi>Li.</hi> then my hand in ſir.</p>
+                  <stage>(<hi>Li. cuffes him.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Why goodman hobby horſe, if we out of our gentility offered you to beginne, muſt you out of your raſcality needes take it.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Why how now ſirs, whats the matter.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>The gentleman here fals out with me, vpon nothing in the world but mere courteſie,</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>By this light but a ſhall not, why Cozen <hi>Lightfoote.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Is his name <hi>Lighfoote,</hi> a plague on him, a has a heauie hande.</p>
+                  <stage>Enter young Lord welthy.</stage>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Peace be here: for I came late enough from a madman.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>My young Lord, God ſaue you.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>And you alſo: I could ſpeake it in lattine, but the phraſe is common.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>True my Lords, and whats common, ought not much to be dealt with all: but I muſt deſire your helpe my Lord to end a Controuerſie here, betweene this gentleman my friend, and honeſt <hi>Peter,</hi> who I dare beſworne is as ignorant as your Lord<g ref="char:EOLhyphen"/>ſhippe.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>That I will, but my maſters thus much ile ſay vntee, if ſo be this quarrell may be taken vp peaceably, without the in<g ref="char:EOLhyphen"/>dangering of my owne perſon, well, and good, otherwiſe I will not meddle therewith, for I haue beene vext late enough al<g ref="char:EOLhyphen"/>readie.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Why then my Lord if it pleaſe you, let me, being your inferiour, decree the cauſe betweene them.</p>
+               </sp>
+               <sp>
+                  <speaker>We,</speaker>
+                  <p>I doe giue leaue, or permit.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Then thus I will propound a reaſonable motion; how many cuffes <hi>Peter</hi> did this gent. out of his fury make thee parta<g ref="char:EOLhyphen"/>ker of?</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Three at the leaſt ſir.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>All which were beſtowed vpon you for beginning firſt <hi>Peter.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Yes indeed ſir.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Why then here the ſentence of your ſuffering, you ſhal both downe into Maſter <hi>Hogs</hi> ſeller <hi>Peter,</hi> and whereas you began firſt to him, ſo ſhall he there to you, and as he gaue you three cuffes, ſo ſhall you retort of in defiance of him, three
+<pb facs="tcp:18635:20"/>blacke Iackes, which if he deny to pledge; then the glory is thine, and he accompted by the wiſe diſcretion of my Lord here a flincher.</p>
+               </sp>
+               <sp>
+                  <speaker>Omnes</speaker>
+                  <p>A very reaſonable motion.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Why ſo, this is better then being among mad-men yet.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Were you ſo lately with any my Lord?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Yes faith, Ile tell you all in the Seller, how I was taken for an Embaſſador, and being no ſooner in the houſe, but the mad man carries mee vp into the garret for a ſpie, and very roundly bad me vntruſſe, and had not a courteous ſeruing man conueied me away whilſt he went to feteh whips I thinke in my conſcience: not reſpecting my honour a would a breecht me.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>By Lady, and t'was to be fear'd; but come my Lord wele heare the reſt in the ſeller.</p>
+                  <l>And honeſt <hi>Peter</hi> thou that haſt beene greeued,</l>
+                  <l>My Lord and I, will ſee thee well relieued.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="4" type="act">
+               <head>Actus Quartus.</head>
+               <stage>Enter Albert in the woodes.</stage>
+               <l>How full of ſweet content had this life beene,</l>
+               <l>If it had beene embraced but before</l>
+               <l>My burthenous conſcience was ſo fraught with ſinne;</l>
+               <l>But now my griefes oreſway that happineſſe:</l>
+               <l>O that ſome lecher or accurſt betrayer:</l>
+               <l>Of ſacred friendſhip, might but here arriue,</l>
+               <l>And reade the lines repentant on each tree,</l>
+               <l>That I haue caru'd t'expreſſe my miſery:</l>
+               <l>My admonitions now, would ſure eonuert,</l>
+               <l>The ſinfulſt creature; I could tell them now,</l>
+               <l>How idely vaine thoſe humanes ſpend their liues,</l>
+               <l>That daily grieue not for offences paſt,</l>
+               <l>But to enioy ſome wantons company;</l>
+               <l>Which when obteyn'd, what is it, but a blot,</l>
+               <l>Which their whole liues repentance ſcarſe can cleere:</l>
+               <l>I could now tell to friend betraying man,</l>
+               <l>How blacke ſinne is hatefull trechery,</l>
+               <l>How heauy on their wretched ſoules t'will fit,</l>
+               <pb facs="tcp:18635:20"/>
+               <l>When fearefull death doth plant his ſiege but nere them,</l>
+               <l>How heauy and affrightfull will their end</l>
+               <l>Seeme to appeach them, as if then they knew,</l>
+               <l>The full beginning of their endleſſe woe</l>
+               <l>VVere then appointed; which aſtoniſhment</l>
+               <l>O bleſt repentance keepe me <hi>Albert</hi> from!</l>
+               <l>And ſuffer not diſpaire to ouer-whelme,</l>
+               <l>And make a ſhip-wracke of my heauy ſoule.</l>
+               <stage>Enter Marialike a page.</stage>
+               <l>Whoſe here, a Page: what blacke diſaſterous fate</l>
+               <l>Can be ſo cruell to his pleafing youth?</l>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>So now <hi>Maria,</hi> here thou muſt forgoe</l>
+                  <l>What nature lent thee to repaie to death;</l>
+                  <l>Famine I thanke thee, I haue found thee kindeſt,</l>
+                  <l>Thou ſet'ſt a period to my miſery.</l>
+               </sp>
+               <sp>
+                  <speaker>Al.</speaker>
+                  <l>It is <hi>Maria</hi> that faire innocent,</l>
+                  <l>Whom my abhorred luſt hath brought to this;</l>
+                  <l>Ile goe for ſuſtenance: and O you powers!</l>
+                  <l>If euer true repentance wan acceptance,</l>
+                  <l>O ſhew it <hi>Albert</hi> now, and let him ſaue</l>
+                  <l>His wronged beauty from vntimely graue.</l>
+                  <stage>Exit Albert.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>Sure ſome thing ſpake, or els my feebled ſence</l>
+                  <l>Hath loſt the vſe of its due property;</l>
+                  <l>VVhich is more likely, then that in this place,</l>
+                  <l>The voice of humane creature ſhould be heard;</l>
+                  <l>This is farre diſtant from the pathes of men,</l>
+                  <l>Nothing breaths here but wilde and rauening beaſts,</l>
+                  <l>VVith ayry monſters, whoſe ſhaddowing wings doe ſeeme</l>
+                  <l>To taſte a vale of death in wicked liuers;</l>
+                  <l>VVhich I liue dreadleſſe of, and euery hower</l>
+                  <l>Striue to meete death, who ſtill vnkinde auoids me:</l>
+                  <l>But that now gentle famine doth begin</l>
+                  <l>For to giue end to my calamities.</l>
+                  <l>See, here is caru'd vpon this trees ſmooth barke,</l>
+                  <l>Lines knit in verſe, a chaunce farre vnexpected;</l>
+                  <l>Aſſiſt me breath a little to vnfold, what they include.</l>
+                  <l>I that haue writ theſe lines, amone, whoſe ſinne</l>
+                  <stage>The Wri<g ref="char:EOLhyphen"/>ting</stage>
+                  <l>Is more then grieuous; for know, that I haue beene</l>
+                  <pb facs="tcp:18635:21"/>
+                  <l>A breaker of my faith, with one whoſe breſt</l>
+                  <l>Was all compos'd of truth: but I digreſt.</l>
+                  <l>And fled, them brats of his deare friendſhips loue,</l>
+                  <l>Claſping to falſhood did a vilane proue,</l>
+                  <l>As thus ſhall be expreſt: my worthy friend</l>
+                  <l>Lou'd a faire beauty, who did condiſcend</l>
+                  <l>In deareſt affection to his vertuous will</l>
+                  <l>He then a night appointed to fulfill</l>
+                  <l>
+                     <hi>Hymens</hi> bleſt-rites, and to conuey away</l>
+                  <l>His loues faire perſon, to which peereleſſe pray</l>
+                  <l>I was acquainted made, and when the hower</l>
+                  <l>Of her eſcape drew on, then luſt did power</l>
+                  <l>Inraged appetite through all my veines.</l>
+                  <l>And baſe deſires in me let looſe the reines</l>
+                  <l>To my licentious will, and that blacke night</l>
+                  <l>When my friend ſhould haue had his chaſt delight,</l>
+                  <l>I fain'd his preſence, and by her, thought him</l>
+                  <l>Rob'd that faire virgin of her honors Iem:</l>
+                  <l>For which moſt heynous, crime vpon each tree</l>
+                  <l>I write this ſtory that mens eyes may ſee,</l>
+                  <l>None but a damn'd one would haue done like me.</l>
+                  <l>Is <hi>Albert</hi> then become ſo penitent,</l>
+                  <l>As in theſe deſarts to deplore his facts,</l>
+                  <l>Which his vnfain'd repentance ſeemes to cleere:</l>
+                  <l>How good man is, when he laments his ill?</l>
+                  <l>VVho would not pardon now that mans miſdeeds,</l>
+                  <l>Whoſe griefes bewaile them thus, could I now liue,</l>
+                  <l>I'de remit thy fault with <hi>Carracus:</hi>
+                  </l>
+                  <l>But death no longer will afford repreeue</l>
+                  <l>Of my aboundant woes: wrong'd <hi>Carracus</hi> farewell,</l>
+                  <l>Liue, and forgiue thy wrongs, for the repentance</l>
+                  <l>Of him that eauſ'd them, ſo deſerues from thee;</l>
+                  <l>And ſince my eyes do witneſſe <hi>Alberts</hi> griefe,</l>
+                  <l>I pardon <hi>Albert</hi> in my wrongs the chiefe.</l>
+               </sp>
+               <stage>Enter Albert like a Hermit.</stage>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>How pardon me, O ſound Angelicall,</l>
+                  <l>But ſee! ſhee faints, O heauens now ſhew your power,</l>
+                  <l>That theſe diſtilled waters made in griefe,</l>
+                  <pb facs="tcp:18635:21"/>
+                  <l>May ad ſome comfort to affliction:</l>
+                  <l>Looke vp faire youth, and ſee a remedy.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>O who diſturbs me, I was hand in hand,</l>
+                  <l>VValking with death vnto the houſe of reſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Al.</speaker>
+                  <l>Let death walke by himſelfe, if a want company,</l>
+                  <l>Theres many thouſands boy, whoſe aged yeeres</l>
+                  <l>Haue tane a ſurfet of earths vanities,</l>
+                  <l>They will goe with him, when he pleaſe to call,</l>
+                  <l>To drinke my boy thy pleaſing tender youth</l>
+                  <l>Cannot deſerue to dye, no, it is for vs,</l>
+                  <l>VVhoſe yeeres are laden by our often ſinnes,</l>
+                  <l>Singing the laſt part of our bleſt repentance,</l>
+                  <l>Are fit for death, and none but ſuch as we,</l>
+                  <l>Death ought to claime; for when a ſnatcheth youth,</l>
+                  <l>It ſhewes him but a tyrant; but when age,</l>
+                  <l>Then is a iuſt, and not compoſ'd of rage.</l>
+                  <l>How fares my lad?</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>Like one imbracing death withall his parts,</l>
+                  <l>Reaching at life but with one little finger;</l>
+                  <l>His minde ſo firmely knit vnto the firſt,</l>
+                  <l>That vnto him the latter ſeemes to be</l>
+                  <l>VVhat may be pointed at, but not poſſeſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Al.</speaker>
+                  <l>O but thou ſhalt poſſeſſe it.</l>
+                  <l>If thou didſt feare thy death but as I doe,</l>
+                  <l>Thou wouldſt take pitty, though not of thy ſelfe,</l>
+                  <l>Yet of my aged yeeres; truſt me my boy,</l>
+                  <l>Tha'ſt ſtrucke ſuch deepe compaſſion in my breaſt,</l>
+                  <l>That all the moiſture which prolongs my life,</l>
+                  <l>VVill from my eyes guſh forth, if now thou leau'ſt me.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>But can we liue here in this deſart wood,</l>
+                  <l>If not, ile die, for other places ſeeme,</l>
+                  <l>Like tortures to my griefes, may I liue here?</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>I, thou ſhalt liue with me, and I will I tell thee</l>
+                  <l>Such ſtrang occurrents of my fore-paſt life,</l>
+                  <l>That all thy young ſprung griefes ſhall ſeeme but ſparkes</l>
+                  <l>To the great fire of my calamities;</l>
+                  <l>Then ile liue onely with you for to heare,</l>
+                  <l>If any humane woes can be like mine;</l>
+                  <pb facs="tcp:18635:22"/>
+                  <l>Yet ſince my being in this darkeſome deſart,</l>
+                  <l>I haue read on tre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> moſt lamentable ſtories.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Tis true indeed, theres one within theſe woods</l>
+                  <l>VVhoſe name is <hi>Albert,</hi> a man ſo full of ſorrow,</l>
+                  <l>That one each tree he paſſeth by he earues,</l>
+                  <l>Such dolefull lines for his raſh follies paſt,</l>
+                  <l>That who ſo reades them, and not drown'd in teares;</l>
+                  <l>Muſt haue a heart fram'd forth of Addamant.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>And can you helpe to the ſight of him?</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>I when thou wilt, bele often come to me,</l>
+                  <l>And at my Caue ſit a whole winters night,</l>
+                  <l>Recounting of his ſtories, I tell thee boy</l>
+                  <l>Had he offended more then did that man,</l>
+                  <l>VVho ſtole the fire from heauen, his contrition</l>
+                  <l>VVould appeaſe all the gods, and quite reuert</l>
+                  <l>Their wrath to mercy; but come my pretty boy</l>
+                  <l>VVele to my Caue, and after ſome repoſe,</l>
+                  <l>Relate the ſequell of each others woes.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>Enter Carracus.</stage>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>What a way haue I come, yet I know not whither,</l>
+                  <l>The ayers ſo cold this winter ſeaſon,</l>
+                  <l>I'me ſure a foole, would any but an aſſe</l>
+                  <l>Leaue a warme matted chamber and a bed,</l>
+                  <l>To run thus in the cold, and which is more,</l>
+                  <l>To ſeeke a woman, a ſlight thing cald woman,</l>
+                  <l>Creatures, with curious nature fram'd as I ſuppoſe,</l>
+                  <l>For rent receauers to her treaſury;</l>
+                  <l>And why I thinke ſo now, Ile giue you inſtance;</l>
+                  <l>Moſt men doe know that natures ſelfe hath made them,</l>
+                  <l>Moſt profitable members, then if ſo.</l>
+                  <l>By often trading in the common wealth</l>
+                  <l>They needs muſt be inricht, why very good,</l>
+                  <l>To whom ought beauty then repaie this gaine</l>
+                  <l>VVhich ſhee by natures gift hath profited;</l>
+                  <l>But vnto nature? why all this I graunt,</l>
+                  <l>VVhy then they ſhall no more be called woman,</l>
+                  <l>For I will ſtile them thus, ſcorning their leaue,</l>
+                  <l>Thoſe that for nature doe much rent receaue.</l>
+                  <pb facs="tcp:18635:22"/>
+                  <l>This is a wood ſure, and as I haue read,</l>
+                  <l>In woods are Eccho's which will anſwere men,</l>
+                  <l>To euery queſtion which they do propound:</l>
+                  <stage>Echo, Echo, Echo.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>O are you there, haue at ye then ifaith,</l>
+                  <l>Echo canſt tell me whether men or women</l>
+                  <l>Are for the moſt part damb'd?</l>
+                  <stage>
+                     <hi>Echo</hi> moſt part damb'd.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Of both indeed, how true this Echo ſpeakes,</l>
+                  <l>Echo, now tel me if mongſt 1000. women,</l>
+                  <l>There be one chaſte, or none?</l>
+                  <stage>
+                     <hi>Echo,</hi> none.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Why ſo I thinke, better and better ſtill:</l>
+                  <l>Now further Echo, in a world of men,</l>
+                  <l>Is there one faithfull to his friend, or no?</l>
+                  <stage>
+                     <hi>Echo</hi> no.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Thou ſpeak'ſt moſt true, for I haue found it ſo;</l>
+                  <l>Who ſayd thou waſt a woman Echo lies,</l>
+                  <l>Thou couldſt not then anſwere ſo much of truth,</l>
+                  <l>Once more good Echo,</l>
+                  <l>Was my <hi>Maria</hi> falſe by her owne deſire,</l>
+                  <l>Or waſt againſt her will?</l>
+                  <stage>
+                     <hi>Echo</hi> againſt her wil.</stage>
+                  <l>Troth't may be ſo, but canſt thou tell,</l>
+                  <l>Whether ſhe be dead or not?</l>
+                  <stage>
+                     <hi>Echo</hi> not.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>Not dead.</p>
+                  <stage>
+                     <hi>Echo</hi> not dead.</stage>
+                  <p>Then without queſtion ſhe doth ſurely liue: But I do trouble thee too much, therfore good ſpeak truth, farewel.</p>
+                  <stage>
+                     <hi>Ec.</hi> farewel.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>How quick it anſwers, ô that Conncellors</l>
+                  <l>Would thus refolue mens doubts without a fee.</l>
+                  <l>How many country Clyents then might reſt</l>
+                  <l>Free from vndooing, no plodding pleader then</l>
+                  <l>Would purchaſe great poffeſſions with his tongue;</l>
+                  <l>Were I ſome demy-god, or had that power,</l>
+                  <l>I'de ſtraight make this Echo here a iudge;</l>
+                  <l>Hee'd ſpend his iudgement in the open court,</l>
+                  <l>As now to me, without being once ſolicited</l>
+                  <l>In's priuate chamber, tis not bribes could win</l>
+                  <l>Him to o're-ſway mens right, nor could he be</l>
+                  <l>Lead to damnation for a little pelfe;</l>
+                  <l>He would not harbour malice in his heart,</l>
+                  <l>Or enuious hatred, baſe diſpight or grudge,</l>
+                  <l>But be an vpright, iuſt, and equall Iudge;</l>
+                  <pb facs="tcp:18635:23"/>
+                  <l>But now imagine that I ſhould confront</l>
+                  <l>Treacherous <hi>Albert,</hi> who hath rais'd my front.</l>
+                  <l>But I feare this idle prate hath</l>
+                  <l>Made me quite forget my <hi>cinque pace. he daunceth.</hi>
+                  </l>
+               </sp>
+               <stage>Enter Albert.</stage>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>I heard the Eccho anſwere vnto one,</l>
+                  <l>That by his ſpeech cannot be far remote</l>
+                  <l>From of this ground, and ſee I haue diſcried him:</l>
+                  <l>Oh heauens! its <hi>Carracus,</hi> whoſe reaſons ſeate</l>
+                  <l>Is now vſurpt by madnes, and diſtraction;</l>
+                  <l>Which I the author of confuſion</l>
+                  <l>Haue planted here, by my accurſed deeds.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>O are you come ſir, I was ſending the Tauerne-boy for ye, I haue been practiſing here, and can do none of my loftie trickes.</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Good ſir, if any ſparke do yet remaine</l>
+                  <l>Of your conſumed reaſon, let me ſtriue.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>To blow it out, troth I moſt kindly thank you,</l>
+                  <l>Heres friendſhip to the life; but father whay-beard,</l>
+                  <l>Why ſhould you thinke me void of reaſons fire,</l>
+                  <l>My youthfull dayes being in the height of knowledge?</l>
+                  <l>I muſt confeſſe your old yeeres gaines experience;</l>
+                  <l>But that's ſo much orer-ul'd by dotage,</l>
+                  <l>That what you think experience ſhall effect,</l>
+                  <l>Short memory deſtroies, what ſay you now ſir?</l>
+                  <l>Am I mad now, that can anſwere thus</l>
+                  <l>To all intergatories?</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>But though your words do ſauor ſir of iudgement,</l>
+                  <l>Yet when they derogate from the due obſeruance</l>
+                  <l>Of fitting times, they ought not be reſpected,</l>
+                  <l>No more, then if a man ſhould tell a tale</l>
+                  <l>Of fained mirth in midſt of extreame ſorrowes.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>How did you know my ſorrowes ſir?</l>
+                  <l>What though I haue loſt a wife,</l>
+                  <l>Muſt I be therefore grieued; am I not happy</l>
+                  <l>To be ſo freed of a continuall trouble?</l>
+                  <l>Had many a man ſuch fortune as I,</l>
+                  <l>In what a heauen would they thinke themſelues?</l>
+                  <pb facs="tcp:18635:23"/>
+                  <l>Being releaſt of all thoſe threatning cloudes,</l>
+                  <l>Which in the angry skies, cal'd womens browes,</l>
+                  <l>Sit euer menacing tempeſtuous ſtormes:</l>
+                  <l>But yet I needs muſt tell you, old December,</l>
+                  <l>My wife was cleere of this; within her browe,</l>
+                  <l>Sh'ad not a wrinkle nor a ſtorming frowne;</l>
+                  <l>But like a ſmooth well poliſhe Inory.</l>
+                  <l>It ſeem'd ſo pleaſant to the looker on,</l>
+                  <l>She was ſo kinde, of nature ſo gentle,</l>
+                  <l>That if ſh'ad done a fault ſhee'd ſtraight go die for't:</l>
+                  <l>Was not ſhe then a rare one?</l>
+                  <l>What weep'ſt thou aged <hi>Neſtor?</hi>
+                  </l>
+                  <l>Take comfort man, <hi>Troy</hi> was ordain'd by fate</l>
+                  <l>To yeeld to vs, which we will ruinate.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Good ſir walke with me, but where you ſee</l>
+                  <l>The ſhaddowing Elmes, within whoſe circling round</l>
+                  <l>There is a holy ſpring about incompaſt,</l>
+                  <l>By dandling ſiccamores and viol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es,</l>
+                  <l>Whoſe waters cure all homane maladies:</l>
+                  <l>Few drops thereof being ſprinkled on your temples,</l>
+                  <l>Reuiues your fading memory, and reſtores</l>
+                  <l>Your ſences loſt vnto their perfect being.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Is it cleere water ſir, and very freſh?</l>
+                  <l>For I am thirſty; giues it a better relliſh</l>
+                  <l>Then a cup of dead wine with ſties in't?</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>Moſt pleaſant to the taſte, pray will you goe.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>Faſter then you I beleeue ſir.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>Enter Maria.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>I am walkt forth from my preferuers caue,</l>
+                  <l>To ſearch about theſe woods, only to ſee</l>
+                  <l>The penitent <hi>Albert,</hi> whoſe repentant minde</l>
+                  <l>Each tree expreſſeth: ô that ſome power diuine</l>
+                  <l>Would hither ſend my vertuous <hi>Carracus;</hi>
+                  </l>
+                  <l>Not for my owne content, but that be might</l>
+                  <l>See how his diſtreſt friend repents the wrong,</l>
+                  <l>Which his raſh folly, moſt vnfortunate</l>
+                  <l>Acted againſt him and me, which I forgiue</l>
+                  <l>A hundred times a day, for that more often</l>
+                  <pb facs="tcp:18635:24"/>
+                  <l>My eyes are witnes to his ſaid complaints,</l>
+                  <l>How the good Hermit ſeemes to ſhare his mones,</l>
+                  <l>Which in the day time he deplores'mongſt trees,</l>
+                  <l>And in the night his Caue is fild with ſighs;</l>
+                  <l>No other bed doth his weake limbs ſupport</l>
+                  <l>Then the cold earth, no other harmony</l>
+                  <l>To rocke his cares aſleepe, but bluſtering windes,</l>
+                  <l>Or ſome ſwift Current, headlong ruſhing downe</l>
+                  <l>From a high Mountaines top, powring his force</l>
+                  <l>Into the Oceans gulfe, where being ſwallowed,</l>
+                  <l>Seemes to be waile his fall with hideous words:</l>
+                  <l>No other ſuſtentation to ſuffice</l>
+                  <l>What Nature claimes, but rawe vnſauowry rootes,</l>
+                  <l>With troubled waters, where vntamed beaſts,</l>
+                  <l>Do bathe themſelues:</l>
+                  <stage>Enter Satyrs, dance &amp; Exeunt.</stage>
+                  <l>Ay me! what things are theſe?</l>
+                  <l>What pretty harmeleſſe things they ſeeme to be?</l>
+                  <l>As if delight had no where made abode,</l>
+                  <l>But in their nimble ſport.</l>
+                  <stage>Enter Albert.</stage>
+                  <l>Yonders the courteous Hermit, and with him</l>
+                  <l>
+                     <hi>Albert</hi> it ſeeemes, ô ſee tis <hi>Carracus,</hi>
+                  </l>
+                  <l>Ioy do not now confound me.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Thanks vnto heauens &amp; thee thou holy man,</l>
+                  <l>I haue attain'd what doth adorne mans being,</l>
+                  <l>That pretious Iemme of reaſon, by which ſoly,</l>
+                  <l>We are diſcern'd from rude and brutiſh beaſts,</l>
+                  <l>No other difference being twixt vs and them.</l>
+                  <l>How to repay this more then earthly kindneſſe,</l>
+                  <l>Lies not within my power, but in his</l>
+                  <l>That hath indu'd thee with celeſtiall gifts,</l>
+                  <l>To whom Ile pray, he may beſtow on thee</l>
+                  <l>What thou deſerv'ſt, bleſt immortality.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Which vnto you befall, thereof moſt worthy:</l>
+                  <l>But vertuous ſir, what I will now requeſt</l>
+                  <l>From your true generous nature, is, that you would</l>
+                  <l>Be pleas'd to pardon that repentant Wight</l>
+                  <l>Whoſe ſinfull ſtories vpon you trees barke,</l>
+                  <pb facs="tcp:18635:24"/>
+                  <l>Your ſelfe did reade, for that you ſay, to you</l>
+                  <l>Thoſe wrongs were done.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Indeed they were, and to, a deere wife loſt;</l>
+                  <l>Yet I forgiue him, as I wiſh the heauens</l>
+                  <l>May pardon me.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>So doth <hi>Maria</hi> to.</p>
+                  <stage>ſhe diſcouers her ſelfe.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Liues my <hi>Maria</hi> then? what gratious plannet</l>
+                  <l>Gaue thee ſafe conduct to theſe deſert woods?</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <l>My late miſhap (repented now by all,</l>
+                  <l>And therfore pardon'd) compelled me to fly,</l>
+                  <l>Where I had periſhed for want of foode,</l>
+                  <l>Had not this courteous man awak't my ſence,</l>
+                  <l>In which, deaths ſelfe had partly intereſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Alas <hi>Maria!</hi> I am ſo farre indebted</l>
+                  <l>To him already, for the late recouery of</l>
+                  <l>My owne weakneſſe, that tis impoſsible</l>
+                  <l>For vs to attribute ſufficient thankes,</l>
+                  <l>For ſuch aboundant good.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>I rather ought to thanke the heauens Creator,</l>
+                  <l>That he vouchſaf't me ſuch eſpeciall grace,</l>
+                  <l>In dooing ſo ſmall a good, which could I howerly</l>
+                  <l>Beſtowe on all, yet could I not aſſwage</l>
+                  <l>The ſwelling rancor of my fore-paſt crimes.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>O ſir, diſpaire not for your courſe of life</l>
+                  <l>(were your ſinnes farre more odious then they be)</l>
+                  <l>Doth moue compaſsion and pure clemency</l>
+                  <l>In the al-ruling Iudge, whoſe powerfull mercy</l>
+                  <l>Oreſwayes his iuſtice, and extends it ſelfe</l>
+                  <l>To all repentant mindes, hee's happier farre</l>
+                  <l>That ſinnes, and can repent him of his ſinne;</l>
+                  <l>Then the ſelfe iuſtifier, who doth ſurmiſe</l>
+                  <l>By his owne workes to gaine ſaluation,</l>
+                  <l>Seeming to reach at heauen and claſpe damnation:</l>
+                  <l>You then are happy, and our penitent friend,</l>
+                  <l>To whoſe wiſht preſence pleaſe you now to bring vs,</l>
+                  <l>That in our gladſome armes we infold</l>
+                  <l>His much eſteemed perſon, and forgiue</l>
+                  <l>The iniuries of his raſh follies paſt.</l>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:25"/>
+                  <speaker>Alb.</speaker>
+                  <l>Then ſee falſe <hi>Albert</hi> proſtrate at your feete,</l>
+                  <stage>he diſcouers himſelfe.</stage>
+                  <l>Deſiring Iuſtice for his haynous ill.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Is it you <hi>Alberts</hi> ſelfe that hath preſerv'd vs?</l>
+                  <l>O bleſt bewailer of thy miſery!</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>And woful'ſt liuer in calamity.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>From which, right worthy friend, its now high time</l>
+                  <l>You be releaſt, come then you ſhall with vs,</l>
+                  <l>Our firſt and chiefeſt welcome my <hi>Maria,</hi>
+                  </l>
+                  <l>We ſhall receaue at your good fathers houſe;</l>
+                  <l>Who, as I do remember, in my frenzy</l>
+                  <l>Sent a kinde letter which deſired our preſence.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>So pleaſe you, vertuous paire, <hi>Albert</hi> will ſtay,</l>
+                  <l>And ſpend the remnant of this weary ſome life</l>
+                  <l>In theſe darke woods.</l>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Then you neglect the comforts heauen doth ſend,</l>
+                  <l>To your abode on earth, if you ſtay here</l>
+                  <l>Your life may end in torture, by the cruelty</l>
+                  <l>Of ſome wilde rauenous beaſts, but if mongſt men</l>
+                  <l>When you depart, the faithfull prayers of many</l>
+                  <l>Will much auaile, to crowne your ſoule with bliſſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <l>Lou'd <hi>Carracus,</hi> I haue found in thy conuerſe</l>
+                  <l>Comfort ſo bleſt, that nothing now but death,</l>
+                  <l>Shall cauſe a ſeparation in our being.</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Which heauen confirme.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Thus by the breach of faith, our friendſhips knit</l>
+                  <l>In ſtronger bonds of loue.</l>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>Heauen ſo continue it.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="5" type="act">
+               <head>Actus Quintus.</head>
+               <stage>
+                  <hi>Enter</hi> Hogge <hi>in his chamber with</hi> Rebecka <hi>laying downe his bed, and ſeeming to put the keyes vnder his boulſter conuayeth them into her pocket.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ho</speaker>
+                  <p>So, haue you layd the keyes of the outward dores vnder my boulſter?</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>Yes forſooth.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <l>Go your way to bed then.</l>
+                  <stage>Exit Re.</stage>
+                  <pb facs="tcp:18635:25"/>
+                  <l>I wonder who did at the firſt inuent</l>
+                  <l>Theſe beds, the breeders of diſeaſe and ſloth,</l>
+                  <l>A was no ſouldier ſure, nor no ſcholler,</l>
+                  <l>And yet a might be vety well a Courtier;</l>
+                  <l>For no good husband would haue bin ſo idle,</l>
+                  <l>No Vſurer neither; yet here the bed affords</l>
+                  <stage>diſcouers his gold.</stage>
+                  <l>Store of ſweet golden ſlumbers vnto him;</l>
+                  <l>Here ſleepes commaund in warre, <hi>Caeſar</hi> by this</l>
+                  <l>Obtain'd his triumphs, this will fight mans cauſe,</l>
+                  <l>When fathers, brethren, and the neer'ſt of friends</l>
+                  <l>Leaues to aſsiſt him, all content to this</l>
+                  <l>Is meerely vaine, the louers whoſe affections</l>
+                  <l>Do ſimpathize together in full pleaſure,</l>
+                  <l>Debarr'd of this their ſummer ſodaine ends,</l>
+                  <l>And care the winter to their former ioyes,</l>
+                  <l>Breath's ſuch a cold blaſt on their Turtles bils;</l>
+                  <l>Hauing not this, to ſhrow'd him forth his ſtormes,</l>
+                  <l>They ſtraight are forc't to make a ſeparation,</l>
+                  <l>And ſo liue vnder thoſe that rule ore this.</l>
+                  <l>The Gallant, whoſe illuſtrious out-ſide drawes</l>
+                  <l>The eyes of wantons to behold with wonder</l>
+                  <l>Hir rare ſhap't parts, for ſo he thinks they be,</l>
+                  <l>Deck't in the roabes of gliſtering gallantry:</l>
+                  <l>Hauing not this, attendant on his perſon,</l>
+                  <l>Walkes with a clowdy brow, and ſeemes to all</l>
+                  <l>A great contemner of ſociety;</l>
+                  <l>Not for the hate he beares to company,</l>
+                  <l>But for the want of this ability:</l>
+                  <l>O ſiluer! thou that art the baſeſt captiue</l>
+                  <l>Kept in this priſon: how many pale offendors</l>
+                  <l>For thee haue ſuffered ruine; but ô my gold</l>
+                  <l>Thy ſight's more pleaſing, then the ſeemely locks</l>
+                  <l>Of yallow hair'd <hi>Apollo,</hi> and thy touch</l>
+                  <l>More ſmooth and dainty, then the downe-ſoft white</l>
+                  <l>Of Ladies tempting breaſt, thy bright aſpect</l>
+                  <l>Dimm's the great'ſt luſter of heauens Waggoner.</l>
+                  <l>But why goe I about to extoll thy worth,</l>
+                  <l>Knowing that Poets cannot compaſſe it;</l>
+                  <pb facs="tcp:18635:26"/>
+                  <l>But now giue place my gold for heres a power</l>
+                  <l>Of greater glory and ſupremacy</l>
+                  <l>Obſcures thy being, here ſits enthroniz'd</l>
+                  <l>The ſparkling diamond, whoſe bright reflection</l>
+                  <l>Caſts ſuch a ſplendor on theſe other Iemmes,</l>
+                  <l>Mongſt which he ſo maieſticall appeares,</l>
+                  <stage>A flaſh of fire and Lightfoote aſcends like a ſpirit.</stage>
+                  <l>As if— now my good angels guard me.</l>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <l>
+                     <hi>Melior vigilantia ſomno.</hi>
+                  </l>
+                  <l>Stand not amaz'd good man, for what appeares</l>
+                  <l>ſhall adde to thy content, be voide of feares,</l>
+                  <l>I am the ſhaddow of rich Kingly <hi>Creſſus,</hi>
+                  </l>
+                  <l>Sent by his greatnes from the lower world</l>
+                  <l>To make thee mighty, and to ſway on earth</l>
+                  <l>By thy aboundant ſtore, as he himſelfe doth</l>
+                  <l>In <hi>Elizium;</hi> how he raigneth there,</l>
+                  <l>His ſhaddow will vnfold, giue thou then eare.</l>
+                  <l>In Vnder-ayre where faire <hi>Elizum</hi> ſtands</l>
+                  <l>Beyond the riuer ſtiled <hi>Acharon,</hi>
+                  </l>
+                  <l>He hath a Caſtle built of Adamant;</l>
+                  <l>Not fram'd by vaine enchauntment, but there fixt,</l>
+                  <l>By the all burning hands of warlike ſpirits,</l>
+                  <l>Whoſe windowes are compos'd of pureſt chriſtall,</l>
+                  <l>And deckt within with orientall pearles:</l>
+                  <l>There the great ſpirit of <hi>Creſſus</hi> royall ſelfe,</l>
+                  <l>Keepes his abode in ioyous happineſſe;</l>
+                  <l>He is not tortur'd there as Poets feine</l>
+                  <l>With molten gold and ſulphrie flames of fire,</l>
+                  <l>Or any ſuch moleſting perturbation;</l>
+                  <l>But there reputed as a demy-god,</l>
+                  <l>Feaſting with <hi>Pluto</hi> and his <hi>Proſerpine,</hi>
+                  </l>
+                  <l>Night after night with all delicious cates,</l>
+                  <l>With greater glory then ſeauen kingdomes ſtates.</l>
+                  <l>Now further know the cauſe of my appearance,</l>
+                  <l>The kingly <hi>Creſſus</hi> hauing by fames trumpe,</l>
+                  <l>Heard that thy lov'd deſires ſtand affected</l>
+                  <l>To the obtaining of aboundant wealth,</l>
+                  <l>Sends me his ſhade, thus much to ſignifie,</l>
+                  <l>That if thou wilt become famous on earth,</l>
+                  <pb facs="tcp:18635:26"/>
+                  <l>Heele giue to thee euen more then infinite;</l>
+                  <l>And after death with him thou ſhalt pertake</l>
+                  <l>The rare delights beyond the ſtigian lake.</l>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Great <hi>Creſſus</hi> ſhaddow may diſpoſe of me to what hee pleaſeth.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <l>So ſpeakes obediency.</l>
+                  <l>For which ile raiſe thy lowly thoughts as high,</l>
+                  <l>As <hi>Creſſus</hi> were in his mortality;</l>
+                  <l>Stand then vndaunted whil'ſt I raiſe thoſe ſpirits,</l>
+                  <l>By whoſe laborious taske and induſtry,</l>
+                  <l>Thy treaſure ſhall abound and multiply.</l>
+               </sp>
+               <stage>Aſcend Aſcarion thou that art a powerfull ſpirit and doſt con<g ref="char:EOLhyphen"/>uert ſiluer to gold, I ſay aſcend and one me Creſus ſhade at<g ref="char:EOLhyphen"/>tend to worke the pleaſure of his will. the Player appeares.</stage>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <l>What would then <hi>Creſus</hi> liſt to fill</l>
+                  <l>Some mortals cofers vp with gold,</l>
+                  <l>Chaunging the ſiluer it doth hold:</l>
+                  <l>By that pure mettle ift be ſo,</l>
+                  <l>By the infernall gates I ſweare,</l>
+                  <l>Where Radamanth doth dominere:</l>
+                  <l>By <hi>Creſus</hi> name and by his caſtle,</l>
+                  <l>Where winter nights he keepeth waſſell;</l>
+                  <l>By Demogorgon and the fates,</l>
+                  <l>And by all theſe low country ſtates;</l>
+                  <l>That after knowledge of thy minde,</l>
+                  <l>
+                     <hi>Aſcarion</hi> like the ſwift pac't winde,</l>
+                  <l>Will flye to finiſh thy commaund.</l>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <l>Take then this ſiluer out of hand,</l>
+                  <l>And beare it to the Riuer <hi>Tagus,</hi>
+                  </l>
+                  <l>Beyond th'aboade of <hi>Archi Magus;</hi>
+                  </l>
+                  <l>Whoſe golden ſands vpon it caſt,</l>
+                  <l>Transforme it into gold at laſt:</l>
+                  <l>Which being effected ſtraight retourne,</l>
+                  <l>And ſuddaine too, or I will ſpurne</l>
+                  <l>This truncke of thine into the pit,</l>
+                  <l>Where all the helliſh furies ſit,</l>
+                  <pb facs="tcp:18635:27"/>
+                  <l>Scratching their eyes out quicke begon.</l>
+               </sp>
+               <sp>
+                  <speaker>Pla.</speaker>
+                  <p>Swifter in courſe then doth the Sunne.</p>
+                  <stage>Exit player.</stage>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <l>How fair'ſt thou mortall be? not terrified</l>
+                  <l>At theſe infernall motions, know that ſhortly</l>
+                  <l>Great <hi>Creſſus</hi> ghoſt ſhall in the loue he beares thee,</l>
+                  <l>Giue thee ſufficient power by thy owne worth,</l>
+                  <l>To raiſe ſuch ſpirits.</l>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <l>
+                     <hi>Creſſus</hi> is much too liberall in his fauour,</l>
+                  <l>To one ſo farre deſertleſſe as poore <hi>Hog.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Li</speaker>
+                  <l>Poore <hi>Hogge,</hi> O ſpeake not that word poore againe,</l>
+                  <l>Leaſt the whole apſetree of <hi>Creſſus</hi> bounty,</l>
+                  <l>Crackt into ſhiuers ouerthrow thy fortunes,</l>
+                  <l>For he abhorres the name of pouerty,</l>
+                  <l>And will grow ſicke to heare it ſpoke by thoſe.</l>
+                  <l>VVhom he intends to raiſe; but ſee the twi-light</l>
+                  <l>Poſteth before the Charriot of the Sunne,</l>
+                  <l>Brings word of his approch:</l>
+                  <l>VVe muſt be ſuddaine, and with ſpeed raiſe vp</l>
+                  <l>The ſpirit <hi>Bazan:</hi> that can ſtraight transforme</l>
+                  <l>Gold into pearle; be ſtill and circumſpect.</l>
+               </sp>
+               <stage>
+                  <hi>Bazon aſcend vp from the treaſure of <hi>Pluto,</hi> where thou did'ſt at pleaſure metamorphiſe all his gold into pearle, which boue a thouſand folde exceeds the valew, quickly riſe to <hi>Creſus</hi> ſhade, who hath a priſe to be performed by thy ſtrength.</hi>
+               </stage>
+               <stage>Bazon aſcends.</stage>
+               <sp>
+                  <speaker>Bazon</speaker>
+                  <l>I am no Fencer, yet at length</l>
+                  <l>From <hi>Plutoes</hi> preſence and the Hall,</l>
+                  <l>VVhere <hi>Proſerpine</hi> keepes feſtiuall,</l>
+                  <l>I'me hether come and now I ſee,</l>
+                  <l>To what intent 'Ime rai'sd by thee;</l>
+                  <l>It is to make that mortall rich,</l>
+                  <l>That at his fame mens eares may itch;</l>
+                  <l>VVhen they doe heare but of his ſtore.</l>
+                  <l>He hath one daughter and no more;</l>
+                  <l>VVhich all the lower powers decree,</l>
+                  <l>Shee to one <hi>Wealthy</hi> wedded be;</l>
+                  <l>By which coniunction there ſhall ſpring,</l>
+                  <l>Young heires to <hi>Hogge</hi> whereon to fling:</l>
+                  <l>His maſſe of treaſure when a dies,</l>
+                  <pb facs="tcp:18635:27"/>
+                  <l>Thus <hi>Bazon</hi> truely propheſies:</l>
+                  <l>But come my taske I long to reare,</l>
+                  <l>His fame aboue the Hemy-ſpheare.</l>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <l>Take then the gould which here doth lie.</l>
+                  <l>And quicke retourne it by and by;</l>
+                  <l>All in choiſe pearle whither to goe,</l>
+                  <l>I need not tell you, for you know.</l>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Indeed I doe, and <hi>Hogge</hi> ſhall finde it ſo.</p>
+                  <stage>Exit Had.</stage>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <l>Now mortall there is nothing doth remaine,</l>
+                  <l>Twixt thee and thine aboundance, onely this</l>
+                  <l>Turne thy eyes weſtward, for from thence appeareth</l>
+                  <l>
+                     <hi>Aſcarion</hi> with thy gould, which hauing brought</l>
+                  <l>And at thy foote ſurrendred, make obeyſance;</l>
+                  <l>Then turne about and fix thy tapers weſtward,</l>
+                  <l>From whence great <hi>Bazon</hi> brings thy orient pearle;</l>
+                  <l>VVho'le lay it at thy feet much like the former.</l>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Then I muſt make to him obeyſance thus.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <l>VVhy ſo, in meane time <hi>Creſſus</hi> ſhade will reſt</l>
+                  <l>Vpon thy bed, but aboue all take heed,</l>
+                  <l>You ſuffer not your eies to ſtray aſide,</l>
+                  <l>From the direct point I haue ſet thee at:</l>
+                  <l>For though the ſpirit do delay the time,</l>
+                  <l>And not retourne your treaſure ſpeedily.</l>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <l>Let the loſſe light on me, if I neglect</l>
+                  <l>I ouerſlip what <hi>Creſſus</hi> ſuit commaunde.</l>
+               </sp>
+               <sp>
+                  <speaker>Lo.</speaker>
+                  <p>So now practiſe ſtanding, though it be nothing agreea<g ref="char:EOLhyphen"/>ble to your hogs age, let me ſee among theſe writings is my ne<g ref="char:EOLhyphen"/>phew <hi>Haddits</hi> mortgage; but in taking that it may breed ſuſ<g ref="char:EOLhyphen"/>pect on vs, wherefore this boxe of Iewels will ſtand farre better and let that alone, it is now breake of day, and nere by this the marriage is confirm'd betwixt my Coſen &amp; great <hi>Creſſus</hi> friends daughter here, whom I would now leaue to his moſt weighty cogitation</p>
+                  <l>So gentle ſir adue, time not permits</l>
+                  <l>To heare thoſe paſſions and thoſe franticke fits;</l>
+                  <l>Your ſubiect to when you ſhall find how true,</l>
+                  <l>Great <hi>Creſſus</hi> ſhade hath made an aſſe of you.</l>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Let me now ruminate to my ſelfe why <hi>Creſſus</hi> ſhould be ſo great a fauorer to me, &amp; yet to what end ſhould I deſire to
+<pb facs="tcp:18635:28"/>know I thinke it is ſufficient, it is ſo, and I would a had beene ſo ſooner, for he and his ſpirits would haue ſaued me much la<g ref="char:EOLhyphen"/>bour in the purchaſing of wealth; but then indeed it would haue beene the confuſion of 2. or 3. Scriueners, which by my meanes haue beene properly rais'd: but now imagine this onely a tricke whereby I may be guld; but how can that be? are not my dores lockt, haue I not ſeene with my owne eyes the aſcending of the ſpirits? haue I not heard with my owne eares the inuocations wherewith they were rais'd? could any but ſpirits appeare through ſo firme a ſloore as this is? tis impoſſible: But harke, I heare the ſpirit <hi>Aſcarion</hi> comming with my gould, O bountiful <hi>Creſſus;</hi> Ile build a temple to thy mightineſſe.</p>
+               </sp>
+               <stage>Enter young Lo. Welthy and Peter.</stage>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>O <hi>Peter,</hi> how long haue we ſlept vpon the hogſhead?</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>I thinke a doſen howers my Lord, and tis nothing, Ile vndertake to ſleepe ſixteene, vpon the receipt of two cups of muskadine.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>I maruell what's become of <hi>Haddit</hi> and <hi>Lighfoote?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Hang'em flinchers they ſluncke away as ſoone as they had druncke as much as they were able to carry, which no ge<g ref="char:EOLhyphen"/>nerous ſpirit would a done in deed.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Yet I beleeue <hi>Had.</hi> had his part, for to my thinking the ſeller went round with him when a left vs, but are we come to a bed yet? I muſt needs ſleepe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Come ſoftly by any meanes, for we are now vpon the threſhold of my maſters chamber, through which ile bring you to Miſtris <hi>Rebeckaes</hi> lodging, giue me your hand and come very nicely.</p>
+                  <stage>Peter fals into the hole.</stage>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Where art <hi>Peter.</hi>
+                  </p>
+                  <stage>— <hi>Pe.</hi> — <hi>O oh o.</hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Wheres this noyſe <hi>Peter</hi> canſt tell?</p>
+               </sp>
+               <sp>
+                  <speaker>Hog,</speaker>
+                  <p>I heare the voice of my adopted ſonne in law.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Why <hi>Peter</hi> wilt not anſwere me?</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>O my Lord aboue, ſtand ſtill, I am falne downe at leaſt 30. fathome deepe, if you ſtand not ſtill till I recouer and haue lighten a candle, y'are but a dead man.</p>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>I am rob'd, I am vndone, I am deluded, whoſe in my chamber?</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:18635:28"/>
+                  <speaker>We.</speaker>
+                  <p>Tis I, the Lord your ſonne that ſhall be, vpon my honor I came not to rob you.</p>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>I ſhall run mad, I ſhall run mad.</p>
+               </sp>
+               <sp>
+                  <speaker>Wel.</speaker>
+                  <p>Why then tis my fortune to be terrifide with madmen.</p>
+               </sp>
+               <stage>Enter Peter with a candle.</stage>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Where are you my Lord?</p>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Here my Lady? where are you rogue when theeues breake into my houſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Breaking my necke in your ſeruice a plague ont.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>But are you rob'd indeed father <hi>Hogge,</hi> of how much I praye?</p>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Of all, of all; ſee here, they haue left me nothing but 2. or 3. roles of parchment, here they came vp like ſpirits, &amp; tooke my ſiluer, gold, and Iewels; wheres my daughter?</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Shees not in the houſe ſir? the ſtreete doores are wide open.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Nay tis no matter where ſhee is now? ſhele ſcarce be worth a 1000. pound and thats but a taylors priſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Then youle not haue her ſir?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>No as I hope to liue in peace.</p>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Why bee't ſo, bee't ſo, confuſion cannot come in a more fitter time on all of vs: O bountifull <hi>Creſſus,</hi> how fine thy ſhaddow hath deuoured my ſubſtance.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Good my Lord promiſe him to marry his daughter, or a will be mad preſently, though you neuer intend to haue her.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Well father <hi>Hogge,</hi> though you are vndone, your daughter ſhall not be, ſo long as a Lords can ſtand her in any ſtead: come you ſhall with me to my Lord and father, whoſe warrants wee will haue for the apprehending of all ſuſpitious liues, and though the labour be infinite, you muſt conſider your loſſe is ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Hog.</speaker>
+                  <p>Come, ile doe any thing to gaine my golde.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>Till which be had, my fare will be but cold.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>Enter Haddit, Rob. Lightfoote, and Prieſt.</stage>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Now Mr. Parſon we will no further trouble you, and for the tying of our true loue knot, heres a ſmall amends.</p>
+               </sp>
+               <sp>
+                  <speaker>Prie.</speaker>
+                  <l>Tis more then due ſir, yet ile take it all,</l>
+                  <l>Should kindneſſe be diſpis'd, good will would fall.</l>
+                  <pb facs="tcp:18635:29"/>
+                  <l>Vnto a lower ebbe, ſhould we deteſt</l>
+                  <l>The gratefull giuers gift,</l>
+                  <stage>Verisſimo eſt.</stage>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>It's true indeed, good morrow honeſt Parſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <l>Yet if you pleaſe, ſir <hi>Iohn</hi> will backe ſurrender</l>
+                  <l>The ouerplus of what you now did tender.</l>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>O by no meanes, I pree thee friend, good-morrow.</p>
+               </sp>
+               <sp>
+                  <speaker>Li</speaker>
+                  <l>Why if you pleaſe Sir <hi>Iohn</hi> to me reſtore,</l>
+                  <l>The ouerplus ile giue it to the poore.</l>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <l>O pardon ſir, for by our worſhips leaue,</l>
+                  <l>We ought to giue from whence we doe receaue.</l>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>VVhy then to me ſir <hi>Iohn.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pri.</speaker>
+                  <p>To all a kinde good morrow.</p>
+                  <stage>Exit Prieſt.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>A moſt fine Vicar, there was no other meanes to be rid of him: but why are you ſo ſad <hi>Rebecka?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <l>To thinke in what eſtate my father is?</l>
+                  <l>VVhen he beholds that he is meerely guld.</l>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Nay be not grieu'd, for that which ſhould rather giue you cauſe of content, for 'twill be a meanes to make him aban<g ref="char:EOLhyphen"/>don his auarice, and ſaue a ſoule almoſt incurable: but now to our owne affaires, this marriage of ours muſt not yet be known leaſt it breed ſuſpition, we will bring you <hi>Rebeck a</hi> vnto <hi>Atlas</hi> his houſe, whil'ſt we two goe vnto the old Lord <hi>Welthies,</hi> hauing ſome acquaintance with his ſonne in law <hi>Carracus,</hi> who I vn<g ref="char:EOLhyphen"/>derſtand is there, where no queſtion but we ſhall finde your fa<g ref="char:EOLhyphen"/>ther proclaiming his loſſe, thether you ſhall come ſome what after vs, as it were to ſeeke him, where I doubt not but ſo to or<g ref="char:EOLhyphen"/>der the matter, that I will receaue you as my wife, from his own hands.</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>May it ſo happy proue.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Amen ſay I, for ſhould our laſt tricke be knowne, great <hi>Creſſus</hi> ſhade would haue a coniured time ont.</p>
+               </sp>
+               <sp>
+                  <speaker>Had.</speaker>
+                  <p>Tis true, his Caſtle of Addamant would ſcarce holde him: but come this will be good cauſe for laughter hereafter.</p>
+                  <l>Then wele relate how this great bird was puld,</l>
+                  <l>Of his rich fethers, and moſt finely guld.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <stage>Enter old Lo. Welthy with Car. Ma. and Albert.</stage>
+               <sp>
+                  <speaker>Lo.</speaker>
+                  <l>More welcome <hi>Carrucus,</hi> then friendly truce</l>
+                  <pb facs="tcp:18635:29"/>
+                  <l>To a beſieged Citty all diſtreſt;</l>
+                  <l>How early this glad morning are you come</l>
+                  <l>To make me happy, for pardon of your offence</l>
+                  <l>I'ue giuen a bleſsing, which may heauen confirme,</l>
+                  <l>In trebble manner on your vertuous liues.</l>
+                  <l>And may our liues and duty daily ſtriue,</l>
+                  <l>To be found worthy of that louing fauour,</l>
+                  <l>Which from your reuerent age we now receaue,</l>
+                  <l>Without deſert, or merrit.</l>
+                  <stage>Enter young Wel. Hogge &amp; Peter.</stage>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <l>Roome for a deſirer of Iuſtice, what my ſiſter <hi>Maria;</hi>
+                  </l>
+                  <l>Who thought to haue met you here?</l>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>You may ſee brother, vnlook't for gueſts proofe of<g ref="char:EOLhyphen"/>ten troubleſome.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Well, but is your husband there any quieter then a was?</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>Sir, I muſt deſire you to forget all iniuries, if, in not be<g ref="char:EOLhyphen"/>ing my ſelfe, I offered you any.</p>
+               </sp>
+               <sp>
+                  <speaker>Alb.</speaker>
+                  <p>Ile ſee that peace concluded.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Which I agree to, for patience is a vertue father Hogge.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Was it you ſonne that cride ſo loud for iuſtice?</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>Yes marry was it, and this the party to whome it apper<g ref="char:EOLhyphen"/>taines.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>O my moſt honored lord I am vndone, rob'd this black night of all the wealth and treaſure, which theſe many yeeres I haue howerly labored for.</p>
+               </sp>
+               <sp>
+                  <speaker>Lo.</speaker>
+                  <p>And who are thoſe haue done this outrage to you?</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Oh knew I that, I then my lord were happy.</p>
+               </sp>
+               <sp>
+                  <speaker>Lo.</speaker>
+                  <p>Come you for Iuſtice then, not knowing 'gainſt whom the courſe of Iuſtice ſhould extend it ſelfe?</p>
+                  <l>Nor yet ſuſpect you none?</l>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>None but the diuell.</p>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <p>I thought a was a Cheater, ere ſince I heard two or three Templers ſweare at dice the laſt Chriſtmas, that the diuel had got all.</p>
+               </sp>
+               <stage>Enter Haddit and Lightfoote.</stage>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>My kinde acquaintance. Ioy to thy good ſucceſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <p>Noble, and free-borne <hi>Haddit,</hi> welcome.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>M<hi rend="sup">r</hi>. <hi>Hogge</hi> good-day.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>For I haue had a bad night on't</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Sickneſſe is incident to age, what be the writings ready
+<pb facs="tcp:18635:30"/>to be ſealed, wee intreated laſt day.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Yes I thinke they are, would the Scriuiner were paid for the making them.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>A ſhalbe ſo, though I doote my ſelfe, is the mony put vp as I appointed?</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Yes tis put vp, confuſion ceaſe the receiuers.</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Heauen bleſſe vs all, what meane you ſir?</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <l>O ſir, I was robb'd this night of all I had,</l>
+                  <l>My daughter to is loſt, and I vndone.</l>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>Marry, God forbid, after what manner I pray.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <l>O to recount ſir will breede more ruth,</l>
+                  <l>Then did the tale of that high Troian Duke,</l>
+                  <l>To the ſad fated Carthagenian Queene.</l>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>What exclamations that?</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <l>What you will grieue at Coze,</l>
+                  <l>Your worſhipfull friend M. Hogge is robb'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>Rob'd, by whom or how?</p>
+               </sp>
+               <sp>
+                  <speaker>Li.</speaker>
+                  <p>O theres the griefe, a knowes not whome to ſuſpect.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <p>The feare of hell oretake them whatſoere they be: but wheres your daughter, I hope ſhe is ſafe.</p>
+                  <stage>Enter Re.</stage>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Thankes heauen, I ſee ſhee's now ſo, where haſt thou been my girle?</p>
+               </sp>
+               <sp>
+                  <speaker>Re.</speaker>
+                  <p>Alas ſir, carried by amazeme<g ref="char:cmbAbbrStroke">̄</g>t, I know not where, purſu'd by the robbers forc't to fly as mad affright, through al the City ſtreets to ſeek redreſſe, but that lay faſt aſleepe in all mens hou<g ref="char:EOLhyphen"/>ſes, nor would lend an eare to the diſtreſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <l>O heauy accident, but ſee you grieue too much,</l>
+                  <l>Being your daughter's found, for th'other loſſe;</l>
+                  <l>Since tis the will of heauen to giue and take,</l>
+                  <l>Value it as nothing, you haue yet ſufficient</l>
+                  <l>To liue in bleſt content, had you no more</l>
+                  <l>But my ſmall mortgage for your daughter here;</l>
+                  <l>Whom I haue euer lov'd in deer'ſt affection,</l>
+                  <l>If ſo you pleaſe ſo much to fauour me,</l>
+                  <l>I will accept her ſpight of pouerty,</l>
+                  <l>And make her iointure of ſome ſtore of land,</l>
+                  <l>Which by the loſſe of a good aged friend</l>
+                  <l>Late fell to me, what iſt a match or no.</l>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <l>It is.</l>
+                  <pb facs="tcp:18635:30"/>
+                  <l>Then Ile haue witneſſe on't, my lord and gent.</l>
+                  <l>Pleaſe you draw neere, to be here witneſſes</l>
+                  <l>To a wiſht contract, twixt this maid and I.</l>
+               </sp>
+               <sp>
+                  <speaker>Omnes</speaker>
+                  <p>We all are willing.</p>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Then in the preſence of you all, I giue my daughter free<g ref="char:EOLhyphen"/>ly to this gent. as wife, and to ſhew how much I ſtand affected to him for dowry with her, I doe backe reſtore his mortgag'd lands, and for their loues I vowe, euer hereafter to deteſt, re<g ref="char:EOLhyphen"/>nounce, loath and abhorre all ſlauiſh auarice:</p>
+                  <l>Which doth aſcend from hell, ſent by the diuell,</l>
+                  <l>To be 'mongſt men the actor of all euill.</l>
+               </sp>
+               <sp>
+                  <speaker>Om.</speaker>
+                  <p>A bleſt conuerſion.</p>
+               </sp>
+               <sp>
+                  <speaker>Lo.</speaker>
+                  <l>A good far vnexpected, and now gentlemen,</l>
+                  <l>I do enuite you all to feaſt with me</l>
+                  <l>This happy day, that we may altogether</l>
+                  <l>Applaud his good ſucceſſe, and let this day be ſpent,</l>
+                  <l>In ſports and ſhewes with gladſome merriment:</l>
+                  <l>Come bleſt conuerted man wcele lead the way,</l>
+                  <l>As vnto heauen I hope we ſhall.</l>
+               </sp>
+               <sp>
+                  <speaker>Ho.</speaker>
+                  <p>Heauen graunt we may.</p>
+               </sp>
+               <sp>
+                  <speaker>Ca.</speaker>
+                  <l>Come my <hi>Maria</hi> and repent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt friend,</l>
+                  <l>Wee three haue taſted worſt of miſery,</l>
+                  <l>Which now adde ioy to our felicity.</l>
+               </sp>
+               <sp>
+                  <speaker>Ha.</speaker>
+                  <l>We three are happy wee haue gain'd much wealth,</l>
+                  <l>And though we haue done it by a tricke of ſtealth,</l>
+                  <l>Yet all I truſt are pleas'd, and will our ill acquite,</l>
+                  <l>Since it hath ſau'd a ſoule was hells by right.</l>
+               </sp>
+               <sp>
+                  <speaker>We.</speaker>
+                  <l>To follow after then, our lot doth fall,</l>
+                  <l>Now rime it <hi>Peter.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Pe.</speaker>
+                  <p>A good night to all.</p>
+                  <stage>Exeunt omnes.</stage>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <pb facs="tcp:18635:31"/>
+            <pb facs="tcp:18635:31"/>
+            <head>EPILOGVE.</head>
+            <l>NOW expectation hath at full receiued</l>
+            <l>What we late promiſed, if in ought we haue pleaſed,</l>
+            <l>Tis all vve ſought to accompliſh, and much more</l>
+            <l>Then our vveake merrit dares to attribute</l>
+            <l>Vnto it ſelfe, till you vouchſafe to dayne</l>
+            <l>In your kinde cenſure, ſo to gratifie</l>
+            <l>Our triuiall labours: —</l>
+            <l>If it hath pleaſed the iudiciall eare,</l>
+            <l>Wee haue our Authors wiſh, and void of feare</l>
+            <l>Dare ignorant men, to ſhew their worſt of hate.</l>
+            <l>It not detracts, but adds vnto that ſtate</l>
+            <l>Where deſert floriſheth.</l>
+            <l>Weele reſt applouded in their derogation,</l>
+            <l>Though with an hiſſe they crowne that confirmation:</l>
+            <l>For this our Author ſaith, ift proue diſtaſtfull,</l>
+            <l>He onely grieues you ſpent two houres ſo waſt-full:</l>
+            <l>But if it like, and you affect his pen,</l>
+            <l>You may commaund it when you pleaſe agen.</l>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,489 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons tempe, or, The feild of happines. In which feild are planted seuerall trees of magnificence, state and bewty, to celebrate the solemnity of the right honorable Iames Campebell, at his inauguration in to the honorable office of prætorship, or maioralty of London, on Thursday the the 29 of October, 1629. All the particular inuentions, for the pageants, showes of triumph, both by water and land being here fully set downe, at the sole cost, and liberall charges of the right worshipfull Society of Ironmongers. / Written by Thomas Dekker.</title>
+            <author>Dekker, Thomas, ca. 1572-1632.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01146</idno>
+            <idno type="STC">STC 6509</idno>
+            <idno type="STC">ESTC S1084</idno>
+            <idno type="EEBO-CITATION">52633142</idno>
+            <idno type="OCLC">ocm 52633142</idno>
+            <idno type="VID">173956</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173956)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2113:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons tempe, or, The feild of happines. In which feild are planted seuerall trees of magnificence, state and bewty, to celebrate the solemnity of the right honorable Iames Campebell, at his inauguration in to the honorable office of prætorship, or maioralty of London, on Thursday the the 29 of October, 1629. All the particular inuentions, for the pageants, showes of triumph, both by water and land being here fully set downe, at the sole cost, and liberall charges of the right worshipfull Society of Ironmongers. / Written by Thomas Dekker.</title>
+                  <author>Dekker, Thomas, ca. 1572-1632.</author>
+                  <author>Worshipful Company of Ironmongers (London, England).</author>
+               </titleStmt>
+               <extent>[20] p. : coat of arms.  </extent>
+               <publicationStmt>
+                  <publisher>Nicholas Okes,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1629]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC (2nd ed.).</note>
+                  <note>Includes untitled song without music.</note>
+                  <note>Title page contains coat of arms.</note>
+                  <note>Signatures: A-B⁴, C².</note>
+                  <note>Imperfect: stained and cropped, with loss of text.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cambell, James, 1570-1642.</term>
+               <term>Pageants --  England --  London --  17th century.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173956:1"/>
+            <p>Londons Tempe, OR, <hi>The Feild of Happines.</hi> In which <hi>Feild</hi> are planted ſeuerall Trees of Magnifi<g ref="char:EOLhyphen"/>cence, State and Bewty, to Celebrate the Solemnity of the Right Honorable <hi>Iames Campebell,</hi> At his Inauguration into the Honorable Office of Praetorſhip, or Maioralty of London, on Thurſday the 29 of October, 1629.</p>
+            <p>All the particular Inuentions, for the Pageants, Showes of Tri<g ref="char:EOLhyphen"/>umph, both by Water and land being here fully ſet downe, At the ſole Coſt, and liberall Charges of the Right worſhipfull Society of <hi>Ironmongers.</hi>
+            </p>
+            <p>Written by THOMAS DEKKER.</p>
+            <q>
+               <hi>Quando magis Dignos licuit Spectare Triumphos?</hi>
+            </q>
+            <figure>
+               <figDesc>coat of arms or blazon</figDesc>
+            </figure>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173956:2"/>
+            <pb facs="tcp:173956:2"/>
+            <head>To the Right honorable <hi>Iames Campe-bell,</hi> Lord Maior of the moſt renouned Citty of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Honorable Praetor:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Triumphes which theſe few leaues of paper, pre<g ref="char:EOLhyphen"/>ſent to your vew, (Albeit their glories are but ſhort-liued as glittering onely for a day) Boldly ſhow their faces vnto the eye of the world, as Seruants attending on your Lordſhip onely to doe you honor.</p>
+            <p>With much care, coſt and curioſity are they brought forth; And, with exceeding greatnes of <hi>Loue,</hi> a free han<g ref="char:EOLhyphen"/>ded bounty of their <hi>Purſe,</hi> a Noble and generous Alacrity of <hi>Spirit,</hi> haue your worthy Fraternity, and much to be honored Brother-hood of <hi>Ironmongers,</hi> beſtowed them vpon you.</p>
+            <p>It much winnes vpon them, to haue ſuch a Cheife; and you cannot but be glad to haue ſuch a <hi>Society:</hi> By a free Election are you <hi>Londons</hi> Praetor; The Suffrages of <hi>Commoners</hi> call you to your ſeate. A ſucceſſion to the place, Takes you by the hand, your Industry hath met with Bleſsings, thoſe bleſſings giuen you ability, and that ability makes you fit for a Maieſtrate.</p>
+            <p>Yet there is a muſicke in your owne boſome, whoſe ſtrings
+<pb facs="tcp:173956:3"/>being touchd yeilds as harmonius a ſound to you, as All theis: And that is, to ſee your ſelfe heire to that <hi>Patrician Dig<g ref="char:EOLhyphen"/>nity</hi> with which your Father was Inueſted. Jt was an ho<g ref="char:EOLhyphen"/>nor to him to weare that Robe of <hi>Scarlet,</hi> It it a double glory to you, in ſo ſhort an age to haue his ſword borne be<g ref="char:EOLhyphen"/>fore you.</p>
+            <p>You haue the voyce of <hi>Senators</hi> breathing out your wel<g ref="char:EOLhyphen"/>come, A confluence of <hi>Graue Citizens,</hi> Adding ſtate to your state, The acclamations of People, vſhering you along. Whilſt <hi>I</hi> (the leaſt part of this Triumphant day) ſpend ſuch ſand as <hi>I</hi> haue to helpe to fill vp the houre glaſſe, my Ser<g ref="char:EOLhyphen"/>uice ronning.</p>
+            <closer>
+               <signed>
+                  <hi>Attending on your Lordſhip</hi> Thomas Dekker.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173956:3"/>
+            <head>Londons Tempe.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ere it poſſible for a Man, in the Compaſſe of a Day, to behold (as the Sunne does) All the Citties in the World, as if he went with Wal<g ref="char:EOLhyphen"/>king Beames about him; That Man ſhould neuer ſee in any Part of the yeare, Any Citty, ſo Magni<g ref="char:EOLhyphen"/>ficently Adorned with All Sorts of Tryumphes, va<g ref="char:EOLhyphen"/>riety of Muſicke, of Brauery, of Bewty, of Feaſtings, of Ciuill (yet Rich) Ceremonies, with gallant Lords and Ladies, and Thronges of People as <hi>London</hi> is in<g ref="char:EOLhyphen"/>riched with, on the firſt Day, that Her Great Lord (or Lord Maior, for tis all one) Takes, That Office vpon him.</p>
+            <p>In former Ages, He was not Encompaſt with ſuch Glories, No ſuch Firmaments of Starres were to be ſeene in <hi>Cheape-ſide: Thames</hi> dranke no ſuch Coſtly Healthes to <hi>London,</hi> as hee does Now. But as <hi>Troyno<g ref="char:EOLhyphen"/>uant</hi> ſpred in Fame, ſo our <hi>Engliſh</hi> Kinges, ſhined vpon her with Fauours.</p>
+            <p>In Thoſe Home-ſpun Times, They had no Collars of SS, no Mace, Sword, nor Cap of Maintenance,
+<pb facs="tcp:173956:4"/>Theſe came by Degrees, as <hi>Additamenta Honoris,</hi> ad<g ref="char:EOLhyphen"/>ditions or Enſignes of more Honour, Conferd by ſe<g ref="char:EOLhyphen"/>uerall Princes on this Citty: For, in the time of <hi>Ed<g ref="char:EOLhyphen"/>ward Confeſſor,</hi> the chiefe Ruler of the Citty was called <hi>Reeue, Greeue,</hi> or <hi>Portreeue:</hi> The next to him in autho<g ref="char:EOLhyphen"/>rity, <hi>Prouoſt.</hi>
+            </p>
+            <p>Then in the firſt of <hi>Richard</hi> 1. two Bayliffes carried the ſway: This continued till the ninth of King <hi>Iohn,</hi> who by Letters Patents gaue the Citizens power, yearely to chooſe themſelues a Lord Maior, and two Sheriffes.</p>
+            <p>Then, King <hi>Henry</hi> 3. made the firſt <hi>Aldermen</hi> in <hi>London</hi> (yet the Name of <hi>Ealdorman</hi> was knowne in the <hi>Saxons</hi> time, for <hi>Alwin</hi> in the reigne of <hi>Edgar,</hi> was <hi>Alderman of All England,</hi> that is to ſay, <hi>Chiefe Iuſtice:</hi>) and thoſe <hi>Aldermen</hi> of <hi>London,</hi> had Rule then (as Now) ouer the Wardes of the Citty, but were euerie yeare changed, as the Shreiffes are in theſe dayes.</p>
+            <p>Then <hi>Edward</hi> 1. ordained that the Lord Maior, ſhould in the Kings abſence, ſit in all Places within <hi>London,</hi> as Chiefe Iuſtice; And that euery <hi>Alderman</hi> that had bin Lord Mayor, ſhould be a Iuſtice of Peace for <hi>London</hi> and <hi>Middleſex</hi> all his life after.</p>
+            <p>Then, in the reigne of <hi>Henry</hi> 7. <hi>S<hi rend="sup">r</hi>. John Shaw</hi> Gold<g ref="char:EOLhyphen"/>ſmith, being Lord Maior, cauſed the <hi>Aldermen</hi> to ride from the <hi>Guild-hall</hi> to the water ſide, when he went to take his Oath at <hi>Weſtminster,</hi> (where before they Rode
+<pb facs="tcp:173956:4"/>by land thither,) and at his returne to ride againe to the <hi>Guild-hall,</hi> there to dine, all the Kitchens, and o<g ref="char:EOLhyphen"/>ther Offices there, Being built by Him: ſince which time, the Feaſt has there bin kept: for before, it was ei<g ref="char:EOLhyphen"/>ther at Grocers Hall, or the Merchantaylors.</p>
+            <p>Thus ſmall Rootes grow in time to <hi>Caedars,</hi> ſhallow ſtreames, to riuers, and a Hand of Gouernment to be the ſtrongeſt Arme in a Kingdome. Thus you ſee <hi>London</hi> in her meane attyre, then in Robes Maieſtical; and ſitting in that Pompe, caſt your Eye, vpon thoſe alluring Obiects, which ſhe her ſelfe Beholds with Admiration.</p>
+            <div type="part">
+               <head>The firſt.</head>
+               <p>The firſt Scaene is a Water-worke, preſented by <hi>Oceanus,</hi> King of the Sea (from whoſe Name the Vni<g ref="char:EOLhyphen"/>uerſall Maine Sea is called the Ocean) He, to celebrate the Ceremonies and Honors, due to this great Feſti<g ref="char:EOLhyphen"/>uall, and to ſhew the world his Marine Chariot, ſits Triumphantly in the Vaſt (but Queint) ſhell of a ſil<g ref="char:EOLhyphen"/>uer Scollup, Reyning in the heads of two wild Sea<g ref="char:EOLhyphen"/>horſes, proportioned to the life, their maynes falling about their neckes, ſhining with curles of gold.</p>
+               <p>On his head, which (as his Beard) is knotted, long, careleſly ſpred, and white, is placd, a Diadem, whoſe Bottome, is a conceited Coronet of gold; The middle ouer that, is a Coronet of ſiluer Scollops, and on the
+<pb facs="tcp:173956:5"/>top a faire ſpreading branch of Corrall, interwouen thickly with Pearle. In his right hand, a golden Tri<g ref="char:EOLhyphen"/>dent, or three forked Scepter.</p>
+               <p>His habit is <hi>Antique,</hi> the ſtuffe watchet, and ſiluer: a mantle croſſing his body, with ſiluer waues, Baſes, and Buskins cut likewiſe at the top into ſiluer ſcol<g ref="char:EOLhyphen"/>lups. And in this language he congratulates his Lord<g ref="char:EOLhyphen"/>ſhip.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Oceanus</hi> his Specch.</head>
+               <lg>
+                  <l>THus Mounted, hither comes the King of waues,</l>
+                  <l>Whoſe voyce Charmes rougheſt Billows into ſlaues,</l>
+                  <l>Whoſe Foote, treades downe their necks with as much Eaſe</l>
+                  <l>As in my ſhelly Coach, I reyne vp Theſe.</l>
+                  <l>Lowd Ecchoes cald me from my glittering Throne</l>
+                  <l>To ſee the Noble <hi>Thameſis;</hi>— A Sonne</l>
+                  <l>To this my <hi>Queene</hi> and Me <hi>(<gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>)</hi> whoſe Eare</l>
+                  <l>Ne're Ieweld vp ſuch Muſick as ſounds Here.</l>
+                  <l>For, our vnfaddomd World, Roares out with None</l>
+                  <l>But Horrid Sea-fights, Nauies Ouerthrowne,</l>
+                  <l>Ilands halfe-drownd in Bloud, Pyrates <hi>pell mell,</hi>
+                  </l>
+                  <l>
+                     <hi>Turkes</hi> ſlauiſh tugging Oares, The <hi>Dunkerks</hi> Hell,</l>
+                  <l>The <hi>Dutchmans</hi> Thunder, And the <hi>Spaniards</hi> Lightning,</l>
+                  <l>To whom, the Sulphures Breath giues Heate &amp; Heightning,</l>
+                  <l>O! Theſe are the Dire Tunes my Conſort ſings,</l>
+                  <l>But here! old <hi>Thame</hi> out ſhines the Beames of Kings.</l>
+                  <l>This Citty Addes New Glories to <hi>Ioues</hi> Court.</l>
+                  <pb facs="tcp:173956:5"/>
+                  <l>And to All you, who to this Hall reſort,</l>
+                  <l>This <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> via</hi> (as a Path) is giuen,</l>
+                  <l>Being P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d with Pearle, as that with Starres in heauen</l>
+                  <l>I could (to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll my trayne) Becon the Rhine.</l>
+                  <l>(But the wylde Boare ha tusked vp his vine.)</l>
+                  <l>I could Swif<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Volga Call, whoſe curld head lies</l>
+                  <l>On ſeauen <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pillowes, (But, in merchandizs</l>
+                  <l>The Ruſſian, him imployes)-I could to theis</l>
+                  <l>Call Ganges, Nilus, long haird Euphrates,</l>
+                  <l>Tagus whoſe golden Hands claſpe Lisbone walles,</l>
+                  <l>Him could J call too, But what neede theis calles?</l>
+                  <l>Were they all here, they would weepe out there eyes,</l>
+                  <l>Madde that new <hi>Troys</hi> high towers on tiptoe rize</l>
+                  <l>To hit Heauens Roofe: Madde, to ſee Thames this day</l>
+                  <l>(For all his age) in wanton windinges Play,</l>
+                  <l>Before his, new Graue Praetor, and before</l>
+                  <l>Theis ſenators, Best fathers of the poore.</l>
+                  <l>That Grand Canale, where (ſtately) once a yeare</l>
+                  <l>A Fleete of bridall Gondoletts appeare,</l>
+                  <l>To marry with a golden Ring, (Thats Hurld,</l>
+                  <l>Into the ſea) That minion of the world</l>
+                  <l>Venice to Neptune,-A poore Lantſcip is,</l>
+                  <l>To theſe full Brauereis of Thameſis.</l>
+                  <l>Goe therefore vp to Caeaſars Court,-And clayme</l>
+                  <l>What honors there are left to <hi>Campe-bels</hi> name</l>
+                  <l>As by diſent, whilſt we tow vp a tyde</l>
+                  <l>Which ſhall ronne ſweating vp by you barges ſide:</l>
+                  <pb facs="tcp:173956:6"/>
+                  <l>That done, <hi>Time</hi> ſhall <hi>Oceanus</hi> Name Inroll,</l>
+                  <l>For guarding You to <hi>Londons</hi> Capitoll.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The ſecond Preſentation.</head>
+               <p>The Inuention is a Proud ſwelling Sea, on whoſe Waues is borne vp, a ſea Lyon, as a proper and emi<g ref="char:EOLhyphen"/>nent Body, to Marſhall in the following Triumphes; In reguard it is one of the ſupporters of the Eaſt In<g ref="char:EOLhyphen"/>dian Company, of which his Lordſhip is free, and a great aduenturer. And theſe Marine creatures, are the more fitly imployed, In regard alſo, that his Lord<g ref="char:EOLhyphen"/>ſhip is Maior of the Staple, Gouernour of the <hi>French</hi> Company, and free of the Eaſt-land Company.</p>
+               <p>On this Lyon (which is cut out of w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d to the life) rides <hi>Tethys</hi> wife to <hi>Oceanus,</hi> and Queene of the Sea; for why ſhould the King of waues be in ſuch a glorious progreſſe without his Queene, or ſhe with<g ref="char:EOLhyphen"/>out him? They both therefore twin themſelues toge<g ref="char:EOLhyphen"/>ther to heighten theſe ſolemnities.</p>
+               <p>Her haire is long, and Diſheuelled, on her head, an antique ſea-tyre, encompaſt with a Coronall of gold and pearle, her garments rich, and proper to her quality, with a Taffaty mantle fringed with ſiluer croſſing her body. Her right hand, ſupporting a large ſtreamer, in which are the Lord Maiors armes.</p>
+               <p>On each ſide of this Lyon, attend a Mermaid, and
+<pb facs="tcp:173956:6"/>Merman, holding two Banners, with the Armes of the two New Shrieues, ſeuerall fiſhes ſwimming as it were about the border. And theſe two hauing diſpat<g ref="char:EOLhyphen"/>ched on the water, haſten to aduance themſelues on Land.</p>
+            </div>
+            <div type="part">
+               <head>The third.</head>
+               <p>The third ſhow is an Eſtridge, cut out of timber to the life, biting a horſe-ſhoe. On this Bird rides an In<g ref="char:EOLhyphen"/>dian boy, holding in one hand a long <hi>Tobacco pipe,</hi> in the other a dart. His attire is proper to the Country.</p>
+               <p>At the foure angels of the ſquare where the Eſtridg ſtands, are plac'd a <hi>Turke,</hi> and a <hi>Perſian.</hi> A pikeman &amp; a Muſketeere.</p>
+            </div>
+            <div type="part">
+               <head>The fourth.</head>
+               <p>The fourth preſentation is called <hi>the Lemnian Forge.</hi> In it are <hi>Vulcan,</hi> the <hi>Smith</hi> of <hi>Lemnos,</hi> with his ſeruants (the <hi>Cyclopes</hi>) whoſe names are <hi>Pyracmon, Brontes</hi> &amp; <hi>Sceropes,</hi> working at the <hi>Anuile</hi> Their habite are waſt coates, and lether approns: their haire blacke and ſhaggy, in knotted curles.</p>
+               <p>A fire is ſeene in the Forge, Bellowes blowing, ſome filing, ſome at other workes; Thunder and Lightning on occaſion. As the Smiths are at worke, they ſing in praiſe of Iron, the <hi>Anuile</hi> and <hi>Hammer:</hi> by the concor<g ref="char:EOLhyphen"/>dant ſtroakes and ſoundes of which, <hi>Tuballcayne</hi> be<g ref="char:EOLhyphen"/>came the firſt inuentor of Muſicke.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:173956:7"/>
+               <head>The Song.</head>
+               <lg>
+                  <l>BRaue Jron! Braue Hammer! from your ſound,</l>
+                  <l>The Art of Muſicke has her Ground,</l>
+                  <l>On the Anuile, Thou keep'st Time,</l>
+                  <l>Thy Knick-a-knock is a ſmithes Beſt Chyme,</l>
+                  <l>Yet Thwick a-Thwack,</l>
+                  <l>Thwick, Thwac-a-Thwac-Thwac,</l>
+                  <l>Make our Brawny ſinewes Crack,</l>
+                  <l>Then Pit a-pat-pat, pit-a-pat-pat,</l>
+                  <l>Till thickeſt barres be beaten flat.</l>
+                  <l>We ſhooe the Horſes of the Sunne,</l>
+                  <l>Harneſſe the Dragons of the Moone,</l>
+                  <l>Forge <hi>Cupids</hi> Quiuer, Bow, and Arrowes,</l>
+                  <l>And our Dames Coach, thats drawne with Sparrowes.</l>
+                  <l>Till thwick-a-thwack, &amp;c.</l>
+                  <l>
+                     <hi>Ioues</hi> Roaring Cannons, and his Rammers,</l>
+                  <l>We beate out with our <hi>Lemnian</hi> Hammers,</l>
+                  <l>
+                     <hi>Mars</hi> his Gauntlet, Helme and Speare,</l>
+                  <l>And <hi>Gorgon</hi> Shield are all made here.</l>
+                  <l>Till thwick-a-thwack, &amp;c.</l>
+                  <l>The Grate which (ſhut) the Day out-barres,</l>
+                  <l>Thoſe golden ſtuddes which naile the ſtarres,</l>
+                  <l>The Globes-caſe, and the Axletree,</l>
+                  <l>Who can Hammer theſe but Wee.</l>
+                  <l>Till thwick-a-thwack, &amp;c.</l>
+                  <pb facs="tcp:173956:7"/>
+                  <l>A Warming-panne to heate Earth's bedde,</l>
+                  <l>Lying ith frozen Zone halfe-dead,</l>
+                  <l>Hob-nailes to ſerue the Man ith Moone,</l>
+                  <l>And Sparrow-bils to cloute <hi>Pan's</hi> ſhoone.</l>
+                  <l>Whoſe worke but ours? Till thwic-a-thwack, &amp;c,</l>
+                  <l>
+                     <hi>Venus</hi> Kettles, Pots and Pennes,</l>
+                  <l>We make, or elſe ſhe Brawles and Bannes,</l>
+                  <l>Tonges, Shouels, Andirons haue their places,</l>
+                  <l>Elſe ſhee ſcratches all our faces.</l>
+                  <l>Till thick a-thwack, &amp;c.</l>
+               </lg>
+               <p>Cupid <hi>ſits in one place of this Forge; on his head a curld yellow haire, his eyes hid in Lawne, a Bow and Quiuer, his armour. Wings at his backe; his body in light colours, a changeable ſilke mantle croſſing it: Golden and ſiluer arrowes, are euer and anon reached vp to him, which hee ſhootes vpward into the aire, and is ſtill ſupplied with more from the Forge.</hi>
+               </p>
+               <p>
+                  <hi>On the top ſits</hi> Ioue, <hi>in a rich</hi> Antique <hi>habite, a long white reuerend hayre on his head, a beard long and curld: A Mace of Triple fire in his hand burning who calling to</hi> Vulcan, <hi>This language paſſes betweene them. Ioue.</hi> Ho <hi>Vulcan.</hi>
+               </p>
+               <sp>
+                  <speaker>Vul.</speaker>
+                  <l>Stop your Hammers: what ayles <hi>Ioue?</hi>
+                  </l>
+                  <l>We are making arrowes for my ſlip-string ſonne,</l>
+                  <l>Here, —reach him thoſe two dozen; I muſt now</l>
+                  <l>A golden handle make for my wifes fann:</l>
+                  <l>Worke my ſine Smugges.</l>
+               </sp>
+               <pb facs="tcp:173956:8"/>
+               <sp>
+                  <speaker>Ioue</speaker>
+                  <l>Firſt heare; you ſhall not play,</l>
+                  <l>The Fates would ſcold ſhould you keepe Holiday.</l>
+               </sp>
+               <sp>
+                  <speaker>Vul.</speaker>
+                  <l>What then?</l>
+               </sp>
+               <sp>
+                  <speaker>Iov.</speaker>
+                  <l>Command thy Brawny fiſted ſlaues to ſweate</l>
+                  <l>At th' Anuile, and to duſt their Hammers beate,</l>
+                  <l>To ſtuffe with Thunderbolts <hi>Ioues</hi> Armoryes,</l>
+                  <l>For Vices (mountaine-like) in black heapes rize,</l>
+                  <l>My ſinewes crack to fell them:— Ideot <hi>pride</hi>
+                  </l>
+                  <l>Stalkes vpon ſtilts, — <hi>Ambition,</hi> by her ſide,</l>
+                  <l>Climbing to catch Starres, breakes her necke it'h fall,</l>
+                  <l>The Gallant Roares, — Roarers drinke oathes and gall,</l>
+                  <l>The Beggar curſes, — Auarice eates gold</l>
+                  <l>Yet ne're is fild, — Learning's awrangling ſcold,</l>
+                  <l>Warre has a Fatall hand, — Peace, whoriſh Eyes,</l>
+                  <l>Shall not <hi>Iove,</hi> beate downe ſuch Impieties?</l>
+                  <l>Ist not high time, Iſt not true Iustice then</l>
+                  <l>
+                     <hi>(Vulcan)</hi> for thee, and thy tough Hammer-men</l>
+                  <l>To heate thy Anuile,—and blow fires to flames</l>
+                  <l>To burnetheſe Broodes, who kill euen with their Names?</l>
+               </sp>
+               <sp>
+                  <speaker>Vul.</speaker>
+                  <l>Yes <hi>Ioue,</hi> tis more then Time.</l>
+               </sp>
+               <sp>
+                  <speaker>Iove.</speaker>
+                  <l>And what helpes this, but Iron! O then, how high</l>
+                  <l>Shall this Great <hi>Troy,</hi> Text vp the Memory</l>
+                  <l>Of you her Noble Praetor, and tall Thoſe</l>
+                  <l>(Your worthy Brotherhood) through whoſe Care goes</l>
+                  <l>That rare, rich prize of Iron, to the whole Land,</l>
+                  <l>Iron! farre more worth then <hi>Tagus</hi> golden Sand.</l>
+                  <l>Iron! beſt of Mettals! Pride of Minerals!</l>
+                  <pb facs="tcp:173956:8"/>
+                  <l>Hart of the Earth! Hand of the World, which fals</l>
+                  <l>Heauy when it ſtrikes home: — By Irons ſtrong Charmes</l>
+                  <l>Ryots lye bound: —Warre ſtops her rough Allarmes</l>
+                  <l>Iron; Earthquakes strikes in Foes: — Knits friends in loue,</l>
+                  <l>Iron's that maine Hinge, on which the World doth moue:</l>
+                  <l>No Kingdomes Globe can turne, Euen, Smooth and Round,</l>
+                  <l>But that his Axletree in Iron is found:</l>
+                  <l>For, Armies wanting Iron, are puffes of wind,</l>
+                  <l>And, but for Iron, who thrones of peace would mind?</l>
+                  <l>Were there no gold nor ſiluer in the land:</l>
+                  <l>Yet Nauigation (which on Jron does ſtand)</l>
+                  <l>Could fetch it in —Gold's Darling to the Sunne,</l>
+                  <l>But Iron, his hardy Boy, by whom is done</l>
+                  <l>More than the Tother dare: The Merchants Gates</l>
+                  <l>By Iron, barre out theeuiſh aſſaſsinates:</l>
+                  <l>Iron is the Shop-keepers both Locke and Kay,</l>
+                  <l>What are your Cours of Guard, when Iron's away?</l>
+                  <l>How would the Cornepricke vp her golden Eares:</l>
+                  <l>But that Iron Plough ſhares, all the labour beares</l>
+                  <l>In Earth's ſtrange Midwiffry? Braue Jron! what praiſe</l>
+                  <l>Deſerues it? More tis beate, more it obayes;</l>
+                  <l>The more it ſuffers: More it ſmoothes offence:</l>
+                  <l>In Drudgery, it ſhines with Patience.</l>
+                  <l>This Fellowſhip, was then with Iudging Eyes</l>
+                  <l>Vnited to the twelue great Companies:</l>
+                  <l>It being farre more Worthy, than to Fill</l>
+                  <l>A File inferiour; — You's the Sunne's guilt Hill:</l>
+                  <pb facs="tcp:173956:9"/>
+                  <l>On toot: <hi>Ioue</hi> guardes you on: <hi>Cyclopes</hi> a Ring</l>
+                  <l>Make with your Hammers, to whoſe Muſicke Sing.</l>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The Fift.</head>
+               <p>The fift Preſentation is called <hi>Londons Tempe,</hi> or <hi>The Field of Happineſſe;</hi> thereby redecting vpon the name of <hi>Campe-bell,</hi> or <hi>Le Beu Champe, A faire and glo<g ref="char:EOLhyphen"/>rious field.</hi> It is an arbor, ſupported by 4 Great Termes: On the 4 Angles, or corners ouer the Termes, are pla<g ref="char:EOLhyphen"/>ced 4 Pendants with armes in them.</p>
+               <p>It is round about furniſhed with trees and flowers: the vpper part with ſeuerall fruites: Intimating that as <hi>London</hi> is the beſt-ſtored Garden in the Kingdome for Plants, Herbes, Flowers, Rootes, and ſuch like; So, on this day it is the moſt glorious Citty in the Chriſtian world.</p>
+               <p>And therefore <hi>Tytan</hi> (one of the names of the Sun) in all his ſplendor, with <hi>Flora, Ceres, Pomona, Ver</hi> and <hi>Eſtas,</hi> are ſeated in this <hi>Tempe;</hi> on the top of all ſtands a Lyons head, being the Lord Maiors Creſt.</p>
+               <p>
+                  <hi>Tytan</hi> being the Speaker, does in this language court his Lordſhip to attention.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Tytan</hi> his Specch.</head>
+               <lg>
+                  <l>WElcome (great Praetor) Now heare <hi>Tytan</hi> ſpeake,</l>
+                  <l>Whoſe beames to Crowne this Day, through Clouds thus Breake</l>
+                  <l>My coach of beaten gold is ſet aſide,</l>
+                  <pb facs="tcp:173956:9"/>
+                  <l>My Horſes to Ambroſiall mangers tied,</l>
+                  <l>Why is this done? why leaue I mine owne Sphere?</l>
+                  <l>But here to circle You, for a whole Yeare:</l>
+                  <l>Embrace then <hi>Tytans</hi> Counſell: —Now ſo Guide</l>
+                  <l>The Chariot of your ſway in a Iust Pace,</l>
+                  <l>That All (to come hereafter) may with Pride,</l>
+                  <l>Say, None like you did Noblier quit the Place<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Lower than Now you are in Fame, Neuer fall,</l>
+                  <l>Note me (the Sunne) who in my Noone Careere,</l>
+                  <l>Renders a ſhaddow, ſhort or None at all,</l>
+                  <l>And ſo, ſince Honors Zodiac is your ſphaere,</l>
+                  <l>A ſhrub to you muſt be the talleſt Pine,</l>
+                  <l>On poore and rich you Equally muſt ſhine.</l>
+                  <l>This if you Doe, my Armes ſhall euer ſpread</l>
+                  <l>About thoſe Roomes you Feast in:—From her head</l>
+                  <l>
+                     <hi>Flora,</hi> her garlands plucke (beeing Queene of Flowers)</l>
+                  <l>To dreſſe your Parlors vp like ſummers Bowers:</l>
+                  <l>
+                     <hi>Ceres,</hi> lay golden ſheaffes on your full boord,</l>
+                  <l>With fruit you from <hi>Pomona</hi> ſhall be ſloard,</l>
+                  <l>Whilſt <hi>Ver</hi> and <hi>Eſtas</hi> (Spring and Sommer) Driue</l>
+                  <l>From this your <hi>Tempe,</hi> Winter, till he Diue</l>
+                  <l>I'th frozen Zone, and <hi>Tytans</hi> Radiant ſhield</l>
+                  <l>Guard <hi>Campe-bels</hi> Beuch ampe, <hi>Londons</hi> faireſt field.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The ſixth and laſt Preſentation.</head>
+               <p>This is called <hi>Apollo's</hi> pallace: becauſe 7. perſons repreſenting the 7 liberall Sciences are richly Inthro<g ref="char:EOLhyphen"/>ned
+<pb facs="tcp:173956:10"/>in this Citty. Thoſe 7 are in looſe roabes of ſeue<g ref="char:EOLhyphen"/>rall cullors, with mantles according, and holding in their hands Eſcutcheons, with Emblemes in them proper to euery one quality.</p>
+               <p>The body of this worke is ſupported by 12 ſiluer Columnes. At the foure angles of it, foure Pendants play with the Wind. On the top is erected a ſquare Tower, ſupported by foure golden Columes. In euery ſquare is preſented the Emboſd antique head of an Emperour, figuring the 4. Monarches of the world, and in them, pointing at foure Kingdomes.</p>
+               <p>
+                  <hi>Apollo</hi> is the chiefe perſon; on his head a garland of bayes; In his hand a Lute; Some Hypercriticall Cen<g ref="char:EOLhyphen"/>ſurer perhaps, will aske, why hauing <hi>Tytan,</hi> I ſhould bring in <hi>Apollo,</hi> ſithence they both are names proper to the Sunne. But the yongeſt Nouice in Poetry can anſwer for me, that the Sunne when he ſhines in hea<g ref="char:EOLhyphen"/>uen is called <hi>Tytan,</hi> but being on Earth (as he is here) we call him <hi>Apollo.</hi> Thus therefore <hi>Apollo</hi> tunes his voyce.</p>
+            </div>
+            <div type="part">
+               <head>Apoloes ſpeech.</head>
+               <p>
+                  <hi>APollo</hi> neuer ſtucke in Admiration till now: My <hi>Delphos</hi> is remouen hither; my Oracles are ſpo<g ref="char:EOLhyphen"/>ken here: Here the Sages vtter their wiſedome, Here the Sybels their diuine verſes.</p>
+               <p>I ſee Senators this day in Scarlet riding to the Ca<g ref="char:EOLhyphen"/>pitoll, and to morrow the ſame men riding vp and
+<pb facs="tcp:173956:10"/>downe the field in Armors Gowned Citizens, and Warlike Gowne-men. The Gunne here giues place, and the owne takes the vpper hand. The Gowne and the Gunne march in one File together.</p>
+               <p>Happy King that has ſuch people, happy Land in ſuch a King! Happy Pretor ſo grac'd with Honors! Happy Senators ſo obayed by Citizens. And happy Citizens that can command ſuch Triumphes.</p>
+               <p>Good in your full glories: whilſt <hi>Apollo,</hi> and theſe Miſtreſſes of the Learned Sciences, waft you to that Honourable ſhore; whither <hi>Time</hi> bids you haſten to arriue.</p>
+            </div>
+            <div type="part">
+               <head>A ſpeech at Night, at taken leaue of his Lordſhip at <hi>his Gate, by Oceans.</hi>
+               </head>
+               <lg>
+                  <l>AFter the glorious troubles of this day,</l>
+                  <l>Night bids you welcome home,—Night who does lay</l>
+                  <l>All pompe, all Triumphs, by,-ſtate, now deſends,</l>
+                  <l>Here or Officious Trayne their ſeruice ends,</l>
+                  <l>And yet not all, for ſee: the golden Sunne,</l>
+                  <l>Albeiu he had his dayes worke fully done,</l>
+                  <l>Sits vp aboue his houre, and does his beſt</l>
+                  <l>To keepe the ſtarres from lighting you to reſt,</l>
+                  <l>Him will I take along to lay his head</l>
+                  <l>In Tethys lape, Peace therefore Guard your bedds:</l>
+                  <l>In your yeares Zediacke may you fairely moue,</l>
+                  <l>Shin'd on by Angels, bleſt with goodnes loue.</l>
+               </lg>
+               <pb facs="tcp:173956:11"/>
+               <p>
+                  <hi>Thus much, his owne worth, cryes vp the Work<g ref="char:EOLhyphen"/>man (M.</hi> Gerard Chriſmas<hi>) for his Inuention, that all the peeces were exact, and ſet forth liuely, with much Coſt. And this yeere, giues one Remarkeable Note to after times, that all the Barges followed one ano<g ref="char:EOLhyphen"/>ther (euery Company in their degree) in a Stately and Maieſticall order. This being the Inuention of a Noble Citizen, one of the Captaines of the Citty.</hi>
+               </p>
+               <trailer>FJNJS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An enterlude for children to play named Iack Iugler bothe wittie and very plesant. Newly imprinted. The names of the players. Maister Boungrace Dame Coy Iack Iugler Ienkin Careaway Alice trip and go. A gallant a gentlewoman The vice A lackey A maid.</title>
+            <title>Jack Juggler.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04711</idno>
+            <idno type="STC">STC 14837A.5</idno>
+            <idno type="STC">ESTC S103191</idno>
+            <idno type="EEBO-CITATION">99838948</idno>
+            <idno type="PROQUEST">99838948</idno>
+            <idno type="VID">3340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A04711)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 379:12, 715:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An enterlude for children to play named Iack Iugler bothe wittie and very plesant. Newly imprinted. The names of the players. Maister Boungrace Dame Coy Iack Iugler Ienkin Careaway Alice trip and go. A gallant a gentlewoman The vice A lackey A maid.</title>
+                  <title>Jack Juggler.</title>
+                  <author>Plautus, Titus Maccius. Amphitruo.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Newly imprinted.</edition>
+               </editionStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>At the long shop adioyning vnto Saint Mildreds Churche in the Pultrie, by Iohn Allde,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[ca. 1570]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Based on: Plautus, Titus Maccius.  Amphitruo.</note>
+                  <note>The words "Maister .. go." and "A gallant ..  maid." are bracketed together on title page.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Publication date estimated by STC.</note>
+                  <note>Signatures: A-E⁴.</note>
+                  <note>Identified as STC 14837+ on UMI microfilm reel 379.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery and the Folger Shakespeare Library.</note>
+                  <note>Appears at reel 379 (Henry E. Huntington Library and Art Gallery copy, leaves D2.3 only) and at reel 715 (Folger Shakespeare Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Interludes, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:3340:1"/>
+            <!-- PDF PAGE 7 -->
+            <sp>
+               <speaker>
+                  <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+               </speaker>
+               <lg>
+                  <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+                  <l>For he tolde me when he foorth went:</l>
+                  <l>That thou ſhouldſt come back again incontinent.</l>
+                  <l>To bring me to ſupper where he now is:</l>
+                  <l>And thou haſt played by the way &amp; they haue doon by this</l>
+                  <l>But no force I ſhall thou maiſt truſt me:</l>
+                  <l>Teache all naughtie knaues to beware by thee.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <l>Forſooth miſtres if you knew as muche as I:</l>
+               <l>You would not be with me halfe ſo angry.</l>
+               <l>For the fault is neyther in my maiſter, nor in me, nor you</l>
+               <l>But in another knaue that was heer euen now.</l>
+               <l>And his name was Ienkin Careaway.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Dame Coy.</speaker>
+               <l>What? I ſee my man is diſpoſed to play.</l>
+               <l>I ween he be druncken or mad I make God a vow:</l>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <l>Nay I haue been made ſober and tame I now.</l>
+               <l>I was neuer ſo handled before in all my life:</l>
+               <l>I would euery man in England had ſo beaten his wife,</l>
+               <l>I haue forgotten with touſing by the hear:</l>
+               <l>What I deuiſed to ſay a little ere.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Dame Coy.</speaker>
+               <l>Haue I loſt my ſupper this night through thy negligece:</l>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <p>Nay then were I a knaue ſauing your reuerence.</p>
+            </sp>
+            <sp>
+               <speaker>¶ Dame Coy.</speaker>
+               <p>Why? I am ſure that by this time it is doon:</p>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <p>Yea that it was more then an houre agone.</p>
+            </sp>
+            <sp>
+               <speaker>¶ Dame Coy.</speaker>
+               <p>And waſt not thou ſent to fetche me thither:</p>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <pb facs="tcp:3340:2"/>
+               <!-- PDF PAGE 8 -->
+               <l>Yes and had come right quickly hither.</l>
+               <l>But that by the way I had a great fall:</l>
+               <l>And my name, body, ſhape, legges and all.</l>
+               <l>And met with one that from me did it ſteal:</l>
+               <l>By by God firſt be and I ſome blowes did deal.</l>
+               <l>I would he were preſent now before your gate:</l>
+               <l>For you could pummel him ioylyly about the pate.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Dame Coy.</speaker>
+               <p>Truly this wagpaſtie is eyther drunck or mad:</p>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <l>Neuer man ſuffced ſo mucke wrong as I had.</l>
+               <l>But miſtres I ſhould ſay a thing to you:</l>
+               <l>Tary it wil come to my remembrance euen now.</l>
+               <l>I muſt needs vſe a ſubſtantiall premeditation:</l>
+               <l>For the matter lyeth greatly me vpon.</l>
+               <l>I beſeeche your miſtreſhip of pardon and forgiuenes:</l>
+               <l>Deſyring you to impute it to my ſimple &amp; rude dulnes.</l>
+               <l>I haue forgotten what I haue thought to haue ſaid:</l>
+               <l>And ain therof ful iſ apaid.</l>
+               <l>But when I loſt my ſelf this miſchaunce alſo fel:</l>
+               <l>I loſt alſo that I ſhould you tel.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Dame Coy.</speaker>
+               <l>Why thou wretched villain doth thou me ſcorn &amp; mock:</l>
+               <l>To make me to theſe folke a laughing ſtock.</l>
+               <l>Ere thou go out of my hands thou ſhalt haneſome thing</l>
+               <l>I wil rechen better in the morning.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> beat me maiſtres <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> none of your ſeruants now.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er I is now your page:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> longer in your boudage.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Dame Coy.</speaker>
+               <pb facs="tcp:3340:2"/>
+               <!-- PDF PAGE 8 -->
+               <l>Now walke precious theef get thee out of my ſight:</l>
+               <l>And come no more in my preſence this night.</l>
+               <l>Get thee hence and wait on thy maiſter at once:</l>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <l>Mary ſir this is handling for the nonce.</l>
+               <l>I would I had been hanged before that I was loſt:</l>
+               <l>I was neuer this canuaſed and toſt.</l>
+               <l>That if my maiſter on his part alſo:</l>
+               <l>Handle me as my miſtres and the other I doo.</l>
+               <l>I ſhall ſurely be killed between them three:</l>
+               <l>And all the deuils in hel ſhall not ſaue me.</l>
+               <l>But yet if the other I might with me haue part:</l>
+               <l>All this would neuer greeue my hart.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Iugler.</speaker>
+               <l>How ſay you maiſters I pray you tel:</l>
+               <l>Haue not I required my marchant wel?</l>
+               <l>Haue not I handled him after a good ſorte:</l>
+               <l>Had it not been pittie to haue loſt this ſporte.</l>
+               <l>Anon his maiſter on his behalfe:</l>
+               <l>You ſhall ſee how he wil handle the Calfe,</l>
+               <l>For if he throughly an angred be:</l>
+               <l>He wil make him ſmart ſo mote I thee.</l>
+               <l>I would not for the price of a new pair of ſhoon:</l>
+               <l>That any parte of this had been vndoon.</l>
+               <l>Wel, ſith that now reuenged is my quarel:</l>
+               <l>I wil go doo of mine apparel.</l>
+               <l>And now let Careaway be Careaway again:</l>
+               <l>I haue doon with that name now certain.</l>
+               <l>Except peraduenture I ſhall take the ſelf ſame weed:</l>
+               <l>Some other time again for a like cauſe and need.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Boungrace.</speaker>
+               <l>Why then dareſt thou to preſume to tel me:</l>
+               <pb facs="tcp:3340:3"/>
+               <!-- PDF PAGE 9 -->
+               <l>That I knowe is no wiſe poſſible for to be?</l>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <l>Now by my truthe maiſter I haue tolde no lie.</l>
+               <l>And all theſe folke knowe as wel as I.</l>
+               <l>I had no ſooner knocked at the gate:</l>
+               <l>But ſtraight wayes he had me by the pate.</l>
+               <l>Therfore if you beat me til I fart and ſhite again:</l>
+               <l>You ſhall not cauſe me for any pain.</l>
+               <l>But I wil affirm as I ſaid before:</l>
+               <l>That when I came neer another ſtood at the door.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maiſter Boungrace.</speaker>
+               <l>Why thou naughtie villain dareſt thou affirm to me?</l>
+               <l>That whiche was neuer ſeen nor heer after ſhalbe?</l>
+               <l>That one man may haue two bodies and two faces?</l>
+               <l>And that one man at one time may be in two places?</l>
+               <l>Tel me, drankeſt thou any where by the way?</l>
+            </sp>
+            <sp>
+               <speaker>¶ Careaway.</speaker>
+               <l>Beſhrew me if I dranck any more then twiſe to day:</l>
+               <l>Til I met euen now with that other I:</l>
+               <l>And with him I ſupped and drank truly.</l>
+               <l>But as for you if you gaue m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drinck and meat:</l>
+               <l>As oftentimes as you doo me beat.</l>
+               <l>I were the beſt fed page in all this Citti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>But as touching that you haue o<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e no pittie.</l>
+               <l>And not onely I but all that doo you ſerue:</l>
+               <l>For meat and drinck may rather ſtarue.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maiſter Boungrace.</speaker>
+               <l>What you ſaucy malapart knaue:</l>
+               <l>Begin you with your maiſter to prate and raue?</l>
+               <l>Your tung is liberall and all out of frame:</l>
+               <l>I muſt needs cumure it and make it tame</l>
+               <l>Wher is that other Careaway that thou ſaydſt was heer</l>
+            </sp>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>

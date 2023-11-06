@@ -1,0 +1,1121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVine, beere, and ale, together by the eares A dialogue, vvritten first in Dutch by Gallobelgicus, and faithfully translated out of the originall copie, by Mercurius Britannicus, for the benefite of his nation.</title>
+            <title>Wine, beere, ale, and tobacco</title>
+            <author>Gallobelgicus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A01424</idno>
+            <idno type="STC">STC 11541</idno>
+            <idno type="STC">ESTC S102806</idno>
+            <idno type="EEBO-CITATION">99838568</idno>
+            <idno type="PROQUEST">99838568</idno>
+            <idno type="VID">2950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A01424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2950)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 957:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVine, beere, and ale, together by the eares A dialogue, vvritten first in Dutch by Gallobelgicus, and faithfully translated out of the originall copie, by Mercurius Britannicus, for the benefite of his nation.</title>
+                  <title>Wine, beere, ale, and tobacco</title>
+                  <author>Gallobelgicus.</author>
+                  <author>Britannicus, Mercurius.</author>
+               </titleStmt>
+               <extent>[22] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A[ugustine] M[athewes] for Iohn Groue, and are to bee sold at his shop, at Furniuals Inne Gate in Holborne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In fact an original work in English.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-C⁴ (-A1).</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wine --  Early works to 1800.</term>
+               <term>Beer --  Early works to 1800.</term>
+               <term>Ale --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:2950:1"/>
+            <pb facs="tcp:2950:1"/>
+            <p>VVINE, BEERE, AND ALE, TOGETHER BY THE EARES.</p>
+            <p>
+               <hi>A Dialogue,</hi> Written firſt in <hi>Dutch</hi> by <hi>Gallobel<g ref="char:EOLhyphen"/>gicus,</hi> and faithfully tranſlated out of the originall Copie, by <hi>Mercurius Brittan<g ref="char:EOLhyphen"/>nicus,</hi> for the benefite of his Nation.</p>
+            <q>
+               <bibl>HORAT.</bibl> 
+               <hi>Siccis omnia nam dura Deus propoſuis.</hi>
+            </q>
+            <p>LONDON, Printed by <hi>A. M.</hi> for <hi>Iohn Groue,</hi> and are to bee ſold at his Shop, at <hi>Furniuals</hi> Inne Gate in Holborne. 1629.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:2950:2"/>
+            <pb facs="tcp:2950:2"/>
+            <head>THE STATIONER TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">G</seg>ENTLEMEN; for in your Drinke, you will bee no leſſe, I preſent you with this ſmall Collation: If ei<g ref="char:EOLhyphen"/>ther <hi>Wine</hi> and <hi>Sugar, Beere</hi> and <hi>Nutmeg,</hi> a Cup of <hi>Ale</hi> and a <hi>Toste,</hi> or all together, may meete your Acceptation, I am glad I had it for you. There is difference betweene them; but your Palat may reconcile all. If any thing diſtaſte you, there is <hi>Water</hi> to waſh your hands of the whole Pamphlet. So hoping you will accept a Pledge of my Seruice, and haue a care of your owne health, I begin to you.</p>
+            <closer>
+               <signed>J. Gr.</signed>
+            </closer>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:2950:3"/>
+            <head>THE SPEAKERS.</head>
+            <list>
+               <item>
+                  <hi>VVINE,</hi> A Gentleman.</item>
+               <item>
+                  <hi>SVGAR,</hi> His Page.</item>
+               <item>
+                  <hi>BEERE,</hi> A Citizen.</item>
+               <item>
+                  <hi>NVTMEG,</hi> His Prentice.</item>
+               <item>
+                  <hi>ALE,</hi> A Countrey-man.</item>
+               <item>
+                  <hi>TOST,</hi> One of his rurall Seruants</item>
+               <item>
+                  <hi>VVATER,</hi> A Parſon.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:2950:3"/>
+            <head>WINE, BEERE, and ALE, TOGETHER BY THE EARES:</head>
+            <stage>Sugar and Nutmegge from ſeuerall doores meet.</stage>
+            <sp>
+               <speaker>Sugar.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">N</seg>
+                     <g ref="char:V">Ʋ</g>utmegge?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>
+                  <hi>Sugar?</hi> well met, how chance you waite not vpon your Maiſter, where's Wine now?</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Oh ſometimes without Su<g ref="char:EOLhyphen"/>gar, all the while he's well if I be in his company, tis but for faſhion ſake, I waite vpon him into a roome now and then, but am not regarded: marrie when he is ill, he makes much of me, who but Sugar? but to my remembrance I haue not beene in his preſence this fortnight, I hope ſhortly he will not know me, though he meete me in his drinke.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>Thou haſt a ſweete life in the meane time Sugar.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>But thou art tied to more attendance Nutmegge vp<g ref="char:EOLhyphen"/>on your Maiſter Beere.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>Faith no, I am free now and then, though I be his Prentice ſtill, Nutmegge hath more friends to truſt to then Beere: I can be welcome to Wine thy maſter ſometimes, and to the honeſt Countrey man Ale too. But now I talke of Ale, when didſt ſee his man prethee?</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Who Toſt.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>The ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>I meete him at Tauerne euery day.</p>
+            </sp>
+            <pb facs="tcp:2950:4"/>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>When ſhall thou, and he, and I, meet and be merry ouer a Cuppe?</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Ile tell thee Nutmegge, I doe not care much for his company, he's ſuch a chollericke peece, I know not what he's made of, but his quarrelling comes home to him, fot hee's euery day cut for it, I maruell how hee ſcapes, this morning he had a knife thruſt into him.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>Indeed he will be very hot ſometimes.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Hot? I, till he looke blacke ith' face agen, beſides, if he take an opinion ther's no turning him, hee'l be burnt firſt. I did but by chance let fall ſome words againſt Ale, and he had like to haue beaten me to powder for it.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>How, beaten Sugar? that would be very fine ifaith; but hee being bread, and thou a loafe, you ſhould not dif<g ref="char:EOLhyphen"/>fer ſo. Stand, looke where he is.</p>
+            </sp>
+            <stage>Enter Toſt drunke.</stage>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Then Ile be gone for we ſhall quarrell.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>Come, feare not, Ile part you, but he's drunke, rea<g ref="char:EOLhyphen"/>dy to fall; whence comes hee dropping in now. How now Toſt.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Nutmeg? round and ſound and all of a colour, art thou there?</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>Heere's all thats left of me.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Nutmeg, I loue thee Nutmeg. Whats that a Ghoſt?</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>No, tis your old acquaintance Sugar.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Sugar: Ile beat him to peeces.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Hold, hold. Nutmegge.</p>
+            </sp>
+            <stage>Nutmeg and Sugar hang vpon Toſt.</stage>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Cannot Toſt ſtand without holding?</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>Where haue you beene Toſt?</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Ile tell thee, I haue bin with my M. Ale. Sirra, I was very drie, and he has made me drunke: doe I not crumble? I ſhall fall a pieces; but Ile beate Sugar for all that: I doe not weigh him, hee is a poore Rogue, I haue knowne him ſolde for two pence, when hee was young, wrapt in ſwadling clouts of Paper. I know his breeding, a Drawer brought him vp, and now hee's growne ſo lumpiſh.</p>
+            </sp>
+            <pb facs="tcp:2950:4" rendition="simple:additions"/>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Y'are a rude Toſt.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Rude? Let me but cruſh him: Rude? Sirra, tis well known you came from Barbary your ſelfe, &amp; becauſe of ſome few Pounds in a Cheſt, you thinke to domineere ouer Toſt: y'are a little handſome, I confeſſe; and Wenches licke their lips after you; but for all that, would I might ſinke to the bot<g ref="char:EOLhyphen"/>tome, if I doe not —: I will giue Sugar but one box.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>Come, come, you ſhall not.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Prethee Nutmeg, take out Toſt a little, to morrow weele meet and be drunke together.</p>
+            </sp>
+            <stage>Exit Nutmeg with Toſt.</stage>
+            <p>So, ſo, I am glad hee's gone: I doe not loue this Toſts com<g ref="char:EOLhyphen"/>panie, yet ſome occaſion or other, puts me ſtill vpon him. Ha, who's this?</p>
+            <stage>Enter Wine, drinking Tobacco.</stage>
+            <p>Tis Wine my Maſter. What ſmoking? Wine and Tobacco, I thinke, are neuer aſunder: but tis no maruell they agree ſo well, they come both out of a Pipe.</p>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Sugar, you are a ſweet youth, you wayt well.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>A friend of mine call'd me forth, to cure a cut finger.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Youle turne Surgeon, or Phyſician ſhortly.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>But your diſeaſes need none: for inflamations, which are dangerous to others, makes you more acceptable, nor doe you bluſh to haue it reported ſir, how often you haue beene burnt.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>So ſir, now you put me in minde on't, I heare ſay you runne a wenching, and keepe womens company too much.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Alas ſir, like will to like, Sugar being of his owne nature ſweete, has reaſon to make much of women, which are the ſweeteſt creatures.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>But ſome of them are ſower enough.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>I ſir, Widdowes at fifteene, and Maides at twentie fiue; but I keepe them company, for no other thing, then to conuert them, ſome of them could eu'n eate me, but for feare of ſpoiling their teeth.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Indeed one of your ſweet-hearts complained t'other day you made her teeth rotten.</p>
+            </sp>
+            <pb facs="tcp:2950:5"/>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Alas ſir, twas none of my fault, ſhe bit me firſt, and I could doe no leſſe, then puniſh her ſweet tooth.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Well ſirra, I ſay, take heed of women.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Nay ſir, if I may credit my owne experience they are the beſt friends I haue, for I am alwaies in their mouthes. If I come to a banquet, as none are made without me, in what faſhion ſoeuer I appeare, euery woman beſtowes a handker<g ref="char:EOLhyphen"/>cher vpon mee, and ſtriue to carry me away in their cleaneſt linnen: nay, but for ſhame, to betray their affections to mee, they would bring whole ſheets for me to lie in.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Why ſure thou wert wrapt in thy mothers ſmocke.</p>
+            </sp>
+            <sp>
+               <speaker>Sug,</speaker>
+               <p>I thinke if the Midwife were put to her oath, I was wrapt in hers, oth Chriſtning day.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>
+                  <note place="margin">☞</note> Well ſirra, enough of this diſcourſe, you are for the woemen, but wee men haue a better companion, and indeed bitter, as thou art ſweet, that's this Tobacco.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>I ſir, but I could neuer arriue at the vnderſtanding, why euery man ſhould ſo affect it.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>There's thy ignorance, tis an excellent diſcourſer, and a helpe for the imperfections of nature.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>As how, pray ſir?</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Why, when a man hath not the wit to deliuer his meaning in good words, this being taken, dus preſently helpe him to ſpit it out Gentleman-like.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Indeed the beſt part of our common complement is but ſmoake, and now I know how Gentlemen come by it, but me thinkes for all that, it takes from the honour of a Gentleman, to bee a common Piper, and if the premiſes bee well conſidered, wee may conclude, they are no more men that vſe it.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>How? not men? why?</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Becauſe it makes em children againe, for I am ſure they that vſe it moſt, doe but ſucke all the day long, and they are little better then children then. But ſee ſir, here's Maſter Beere.</p>
+            </sp>
+            <stage>Enter Beere.</stage>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>How, Beere? we are not very good friends, no mat<g ref="char:EOLhyphen"/>ter, I ſcorne to auoid him.</p>
+            </sp>
+            <pb facs="tcp:2950:5"/>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Beere-leaue ſir.</p>
+            </sp>
+            <stage>Iuſtles Wine.</stage>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>So me thinkes? how now Beere, running atilt, doſt not know me?</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>I doe meane to haue the wall on you.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>The wall of me, you would haue your head and the wall knockt together, learne better manners, or I may chance to broach you.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Broach me, alas poore Wine, tis not your <hi>Fieri<g ref="char:EOLhyphen"/>facias</hi> can make Beere afraid, thy betters know the ſtrength of Beere. I doe not feare your high colour ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>So, ſo, here will be ſome ſcuffling.</p>
+            </sp>
+            <sp>
+               <speaker>VVine.</speaker>
+               <p>You'le leaue your impudence, and learne to know your ſuperiours Beere, or I may chance to haue you ſtopt vp, what neuer leaue working? I am none of your fel<g ref="char:EOLhyphen"/>lowes.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>I ſcorne thou ſhouldſt.</p>
+            </sp>
+            <sp>
+               <speaker>VVine.</speaker>
+               <p>I am a companion for Princes, the leaſt droppe of my blood, worth all thy body. I am ſent for by the Citizens, viſited by the Gallants, kiſt by the Gentlewomen: I am their life, their Genius, the Poeticall furie, the Helicon of the Mu<g ref="char:EOLhyphen"/>ſes, of better vaiue then Beere; I ſhould be ſorry elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Beer.</speaker>
+               <p>Thou art ſorie Wine indeed ſometimes: Value? you are come vp of late, men pay deere for your company, and re<g ref="char:EOLhyphen"/>pent it: that giues you not the precedencie; though Beere ſet not ſo great a price vpon himſelfe, hee meanes not to bate a graine of his worth, nor ſubſcribe to Wine for all his bra<g ref="char:EOLhyphen"/>ueries.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Not to mee?</p>
+            </sp>
+            <sp>
+               <speaker>Beer.</speaker>
+               <p>Not to you: why, whence come you pray?</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>From France, from Spaine, from Greece.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Thou art a mad Greeke indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Where thou muſt neuer hope to come: who dares denie that I haue been a trauailer?</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>A trauailer? in a tumbrell, a little Beere will go far<g ref="char:EOLhyphen"/>ther: why Wine, art not thou kept vnder locke and key, con<g ref="char:EOLhyphen"/>finde to ſome corner of a Cellar, and there indeed commonly cloſe priſoner, vnleſſe the Iaylor or Yeoman of the Bottles turne the Key for the chamber-maid now and then, for which
+<pb facs="tcp:2950:6"/>ſhee vowes not to leaue him, till the laſt gaſpe, where Beere goes abroad, and randeuous in euery place.</p>
+            </sp>
+            <sp>
+               <speaker>Win.</speaker>
+               <p>Thou in euery place? away hop of my thumbe: Beere, I am aſham'd of thee.</p>
+            </sp>
+            <sp>
+               <speaker>Beer.</speaker>
+               <p>Be aſham'd of thy ſelfe, and bluſh Wine thou art no better. Beere ſhall haue commendations for his mildneſſe and vertue, when thou art ſpit out of mens mouthes, &amp; diſtaſted: thou art an hypocrite, Wine, art all white ſometimes, but more changeable then <hi>Proteus:</hi> thou wouldſt take vpon thee to comfort the blood, but haſt beene the cauſe that too many noble veines haue beene emptied: thy vertue is to betray ſe<g ref="char:EOLhyphen"/>crets, the very preparatiue to a thouſand rapes and murders, and yet thou dareſt ſtand vpon thy credit, and preferre thy ſelfe to Beere, that is as cleare as day.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Well ſaid Beere, hee beares vp ſtiffe like a Conſtable. Now will I play my part with 'em both. Sir,</p>
+               <stage>To Wine.</stage>
+               <p>This is intollerable.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>The veſſell of your wit leakes, Beere: why thou art drunke.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>So art thou Wine, euery day i'th weeke, and art faine to be carried foorth of doores.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>How ſir?</p>
+               <stage>To Wine.</stage>
+            </sp>
+            <sp>
+               <speaker>Win.</speaker>
+               <p>I ſcorne thy words, thou art baſe Beere: Wine is well borne, has good breeding, and bringing vp; thou deſerueſt to be carted, Beere.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Suffer this, and ſuffer all, to him againe.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Carted? thou wouldſt be carted thy ſelfe, rackt and drawne for thy baſeneſſe, Wine. Welborne? Did not euery man call you Baſtard tother day? borne? there's no man able to beare thee much: and for breeding, I know none thou haſt, vnleſſe it bee Diſeaſes.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>How, diſeaſes? you haue beene held alwayes to bee wholeſome Wine, ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Sirra, if I take you in hand, I ſhall make you ſmall Beere.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Take heed I doe not make Vineger of you firſt.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Doe, doe, make him piſſe it, in my opinion ſir, it were not for your honor to run away: yet Beere being a common
+<pb facs="tcp:2950:6"/>quarreler, I feare may prooue too hard for you.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Too hard for me? away Boy, Ile be as hard as he for his heart: alas, hee's but weake Beere, if I giue him but a tap, it ſhall ſtay him from running out thus.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>So, ſo, they are high enough, fall too, and welcome.</p>
+               <stage>Enter Ale.</stage>
+               <p>Who's this? Ale? Oh for a three-mans-Song: this Ale is a ſtout fellow, it ſhall go hard, but Sugar which makes all ſweet ſometimes, ſhall ſet him in his part of Diſcord.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Come, come, Beere, you forget how low you were tother day: prouoke mee not too much, leſt I beſtow a firkin on you.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Strike and thou dar'ſt Wine, I ſhall make thee an<g ref="char:EOLhyphen"/>ſwer as quicke as the obiection, and giue you a daſh.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Vmh: what's this? it ſeemes theres great difference betweene Wine and Beere. Sugar, what's the matter?</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Oh goodman <hi>Ale,</hi> I am glad you'r come, heere's no<g ref="char:EOLhyphen"/>thing but contention: I haue gone betwixt 'em twice or thrice, but I feare, one or both will be ſpilt.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>What doe they contend about?</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>For that, which for ought I can apprehend, belongs as much to you, as to either of them.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Hah? to mee? what's that?</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Ale, by iudicious men hath been held no deſpicable drinke, for my owne part, tis nothing to me: you are all one to Sugar, whoſoeuer be King, Sugar can be a ſubiect, but yet, twere fit, Ale had his meaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Are they ſo proud?</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>They mind not you, as if you were too vnworthy a a Competitor. See, tis come to a challenge.</p>
+               <stage>Wine throwes downe his gloue, which Beere takes vp.</stage>
+               <p>Pray take no knowledge that I diſcouered any thing of their Ambition; Sugar ſhall euer bee found true to Ale, elſe would I might neuer be more drunke in your company.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>No matter for proteſtation.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>So, ſo, now I haue warmed Ale pretty well, Ile leaue 'em: if Wine, Beere, and Ale agree together, would Sugar might neuer bee drunke but with Water, nor neuer helpe to
+<pb facs="tcp:2950:7"/>preſerue any thing but old women, &amp; elder brothers.</p>
+               <stage>Exit.</stage>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Remember the place, and weapon.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Stay, ſtay, come together agen, why how now, what fight, and kill one another?</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Alas poore Beere, I account him dead already.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>No ſir, you may find Beere quick enough, to pierce your Hogſhead. I ſhall remember.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>But ith meane time you both forget your ſelues: dee heare? Ale is a friend to you both, let me know your differe<g ref="char:cmbAbbrStroke">̄</g>ce.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Hee has diſgrac'd mee.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Thou haſt diſgrac'd thy ſelfe in thy compariſons. Wine muſt be acknowledged the Nectar of all drinkes, the prince of Liquors.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>To waſh Bootes.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Harke you, are you both mad? who hath heat you, that you run ouer, doe you contend for that in iuſtice belongs to another. I tell you Wine and Beere, I do not relliſh you. Ile tell you a tale: Two ſpruce hot-ſpurre fiery gallants meeting ith ſtreets, iuſtled for the wall, drew, would ha been fighting: there ſteps me forth a corrector of ſoles, an vnderlaid cobler, and cries out, Hold, hold your hands Gentlemen, are you ſo ſimple to fight for the wall? why the wall's my Landlords. Haue you but ſo much wit as to apply this, you ſhall neuer need fence for the matter. Superioritie is mine, Ale is the prince of liquors, and you are both my ſubiects.</p>
+            </sp>
+            <sp>
+               <speaker>Both.</speaker>
+               <p>Wee thy Subiects.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>O baſe Ale!</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>O muddy Ale!</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Leaue your railing, and attend my reaſons, I claime your duties to mee, for many prerogatiues: my antiquitie, my riches, my learning, my ſtrength, my grauitie.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Antiquitie? your firſt reaſon's a very ſmall one.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Dare any of you deny my antiquitie? I ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>We muſt beare with him, tis in his Ale.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>It onely pleades for me: who hath not heard of the old Ale of England.</p>
+            </sp>
+            <sp>
+               <speaker>Beere,</speaker>
+               <p>Old Ale; ho there, tis growne to a Prouerbe. <hi>Ioanes</hi> Ale's new.</p>
+            </sp>
+            <pb facs="tcp:2950:7"/>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Theſe are trifles, and conuince me not.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>If wee ſhould grant your argument, you would gaine little by't, goe together, I doe allow you both a couple of ſtale companions.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Wine, you're very harſh.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Let him, my ſecond prerogatiue is my riches and poſſeſſions; for who knowes not how many houſes I haue: Wine and Beere are faine to take vp a corner, your ambition goes no further then a Seller, where the whole houſe where I am is mine, goes onely by my name, is cald an Alehouſe; but when is either heard, the Wine-houſe, or the Beere-houſe, you cannot paſſe a ſtreete: wherein I haue not hou<g ref="char:EOLhyphen"/>ſes of mine owne, beſides many that goe by other mens names.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>I confeſſe you haue here and there an Alehouſe, but whoſe are all the reſt? hath not Beere as much title to them?</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>And yet I haue not heard that either of you both haue fin'd for Alderman, though I confeſſe ſomething has bin attempted out of nicke and froth. Be rul'd by me, Beere and Ale, &amp; aſpire no higher then the Common-Councell-houſes? Oh impudence, that either of you ſhould talke of houſes, when ſometimes you are both glad of a tub: dee heare Ale? doe not you know the man that did the Bottle bring?</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Thou art glad of a Bottle thy ſelfe, Wine, ſometimes, and ſo is Beere too, for all he <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oths now.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>So, ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>My third Prerogatiue, is my Learning.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Learning? If you haue the Liberall Sciences, pray be free, and lets heare ſome.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>For that, though I could giue you demonſtration, for breuities ſake I remit you to my bookes.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Bookes? printed <hi>Cum priuilegio</hi> no doubt on't, and ſold for the Company of Stationers: what are the names?</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Admire me, but when I name learned, though not the great <hi>Alexander Ale,</hi> and <hi>Toſt-atus</hi> the Ieſuite.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>O learned Ale, you ſcorne to make Indentures any more, but you might as well haue concluded this without booke.</p>
+            </sp>
+            <pb facs="tcp:2950:8"/>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Why, you will ſhortly be Towne-Clerke, the Citie Chronicler is too meane a place for you.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Now for my ſtrength and invincibilitie.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>But heere let mee interrupt you, talke no more of ſtrength, none but Beere deſerues to bee call'd ſtrong, no pen is able to ſet downe my victories. I? why, I haue been the deſtruction.—</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Of Troy, haſt not? heere your owne mouthes con<g ref="char:EOLhyphen"/>demne you: if killing be your conqueſt, euery Quackſaluing knaue may haue the credit of a rare Phiſician, that ſends more to the Church and Churchyard, then diſeaſes doe: I Wine, comfort and preſerue, let that be my Character. I am coſen German to the blood, not ſo like in my appearance as I am in nature, I repaire the debilities of age, and reuiue the re<g ref="char:EOLhyphen"/>frigerated ſpirits, exhilarate the heart, and ſteele the brow with confidence. For you both the Poet hath drawne your memoriall in one.</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>—<hi>nil ſpiſſius illa</hi>
+                     </l>
+                     <l>
+                        <hi>Dum bibitur, nil clarius eſt dum mingitur, vnde</hi>
+                     </l>
+                     <l>
+                        <hi>Conſtat quod multas faeces in corpore linquat.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Nothing goes in ſo thicke,</l>
+                     <l>Nothing comes out ſo thinne:</l>
+                     <l>It muſt needs follow then,</l>
+                     <l>Your dregs are left within.</l>
+                  </lg>
+               </q>
+               <p>And ſo I leaue you <hi>Stygiae monſtrum conforme paludi,</hi> a mon<g ref="char:EOLhyphen"/>ſtrous drinke, like the riuer Styx.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Nay but hearke, tis not your Latine muſt carry it a<g ref="char:EOLhyphen"/>way, I will not looſe a drop of my reputation, and by your fa<g ref="char:EOLhyphen"/>uour, if you ſtand ſo much vpon your preſeruing, Ile put you to your Latine agen, and prooue my ſelfe ſuperiour, for Ale as if it were the life of mankind, hath a peculiar name and denomination, being cald Ale from <hi>Alo,</hi> which euery Schoole boy can tell, ſignifies to feed and nouriſh, which neither Wine nor Beere can ſhew for themſelues, and for my ſtrength and honour in the warres, know that Ale is a Knight of Malta, and dares fight with any man beares a head, tis more ſafe to be<g ref="char:EOLhyphen"/>leeue what a Souldier I am, then trie what I can doe.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>If you looke thus ilfauouredly Ale, you may fright
+<pb facs="tcp:2950:8"/>men well enough, and be held terrible by weake ſtomacks, but if you call to mind the puiſſance and valour of Beere, invinci<g ref="char:EOLhyphen"/>ble Beere, tumble downe Beere, you muſt ſing a Pallinode. I? why I haue ouerthrowne armies, how eaſie is it for mee to take a citie, when I can tame Conſtables, which in their pre<g ref="char:EOLhyphen"/>ſence are formidable at midnight, in the midſt of their rug<g ref="char:EOLhyphen"/>ged Bill-men, make 'em all reſigne their weapons, and ſend 'em away to ſleepe vpon their charge.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>How? vpon their owne charge? take the Conſtable committing that fault, and hee'l neuer bee good in his office after it.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Now for my vertue in preſeruing and nouriſhing the body wherein you both ſo glory, you are not to compare with mee, ſince thouſands euery day come to receiue their healths from me.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Kings and Princes from me, and like them I am ſer<g ref="char:EOLhyphen"/>ued in plate.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>But thou art come downe of late to a glaſſe, Wine, and that's the reaſon I thinke, ſo many Vintners haue broake: now obſerue my laſt Reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Yes, pray where lies your grauitie?</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Not in my Beard, I ſpeake without mentall reſerua<g ref="char:EOLhyphen"/>tion, Ile tell you, and you ſhall confeſſe it: the Wiſe men of an<g ref="char:EOLhyphen"/>cient time were called Sages, and to this day it ſignifies iudg<g ref="char:EOLhyphen"/>ment, diſcretion, grauitie; for by what other would you ex<g ref="char:EOLhyphen"/>cite to good manners more aptly, then to wiſh a young man to bee ſage, that is graue: and with what title can you better ſalute him that is, graue, or more honour him, then to call him one of the Sages. Now this appellation neither of you can challenge, yet euery man giueth mee the attribute; for who knowes not I am called Sage Ale.</p>
+            </sp>
+            <sp>
+               <speaker>Wi.</speaker>
+               <p>One may gueſſe what brains he caries by the Sage now.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>And thus hauing giuen you ſufficient reaſons for your acknowledgement of my principalitie, let your knees wit<g ref="char:EOLhyphen"/>neſſe your obedience to your King, and I will grace you both by making you Squires of my body, right honorable Ale-Squires.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>This is beyond ſuffering: was euer Wine ſo vnder<g ref="char:EOLhyphen"/>valued?
+<pb facs="tcp:2950:9"/>Barbarous detractors, whoſe beginning came from a dunghill, I defie you. <hi>Bacchus,</hi> looke downe, and ſee me vin<g ref="char:EOLhyphen"/>dicate thine honour, I ſcorne to procraſtinate in this, and this minute you ſhall giue account of your inſolencies: my ſpirits high, I am enemy to both.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Is Wine drawn? then haue at you, Ile make good Ale.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>I ſtand for the honor of Beere, were you an army.</p>
+            </sp>
+            <stage>As they offer to fight, Water comes running in.</stage>
+            <sp>
+               <speaker>Water.</speaker>
+               <p>Hold, hold, hold.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>How now? what comes Water running hither for?</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>Let my feare ebbe a little.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>What tide brought you hither, Water?</p>
+            </sp>
+            <sp>
+               <speaker>VVater.</speaker>
+               <p>The pure ſtreame of my affection: oh how I am troubled! I am not yet recouered.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>So me thinkes you looke very thine vpon't Water: but why doe we not fight?</p>
+            </sp>
+            <sp>
+               <speaker>VVater.</speaker>
+               <p>Doe not talke of fighting, is it not time that Wa<g ref="char:EOLhyphen"/>ter ſhould come to quench the fire of ſuch contention. I tell you, the care of your preſeruation made me breake my banks to come to you, that you might ſee the ouerflowing loue I beare you: your quarrell hath ecchoed vnto me; I know your ambition for ſuperioritie: you are all my kinſmen, neere al<g ref="char:EOLhyphen"/>lyed to Water, and though I ſay it, ſometimes not a little be<g ref="char:EOLhyphen"/>holding to Water, euen for your very makings. Will you referre your ſelues to mee, and wade no further in theſe diſ<g ref="char:EOLhyphen"/>contentments, I will vndertake your reconcilement and qua<g ref="char:EOLhyphen"/>lification.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>To thee, Water? wilt thou take vpon thee to cor<g ref="char:EOLhyphen"/>rect our irregularitie? Thou often goeſt beyond thy bounds thy ſelfe. But if they conſent, I ſhall.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>I am content.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>And I.</p>
+            </sp>
+            <sp>
+               <speaker>VVater.</speaker>
+               <p>Then without further circumlocution or inſinua<g ref="char:EOLhyphen"/>tion, Water runnes to the matter: you ſhall no more contend for excellencie, for Water ſhall allow each of you a ſingulari<g ref="char:EOLhyphen"/>tie. Firſt, you Wine, ſhall bee in moſt requeſt among Cour<g ref="char:EOLhyphen"/>tiers, Gallants, Gentlemen, and Poeticall wits, <hi>Qui melioris luti homines,</hi> being of a refined mould, ſhall chooſe as a more
+<pb facs="tcp:2950:9"/>nimble and actiue watering, to make their braines fruitfull, <hi>Fecundi calices quem non?</hi> but ſo as not confin'd to them, nor limitting them to you, more then to exhilerate their ſpirits, and acuate their inuentions.</p>
+               <p>You Beere, ſhall bee in moſt grace with the Citizens, as being a more ſtayed Liquor, fit for them that purpoſe retire<g ref="char:EOLhyphen"/>ment and grauitie, that with the Snaile carries the cares of a houſe and family with them, tyed to the attendance of an illi<g ref="char:EOLhyphen"/>berall profeſſion, that neither trot nor amble, but haue a ſure paſe of their owne, <hi>Bos laſſus fortius figit pedem,</hi> The black Oxe has trod vpon their foot: yet I bound you not with the Citie, though it bee the common entertainement, you may bee in credit with Gentlemens Sellars, and carry reputation before you from March to Chriſtmas—tide I ſhould ſay; that Water ſhould forget his Tide.</p>
+               <p>Yow Ale I remit to the Countrie, as more fit to liue where you were bred: your credit ſhall not be inferiour, for people of all ſorts ſhall deſire your acquaintance, ſpecially in the mor<g ref="char:EOLhyphen"/>ning, though you may be allowed all the day after: the Parſon ſhall account you one of his beſt Pariſhioners, &amp; the Church<g ref="char:EOLhyphen"/>wardens ſhall pay for your companie, and drawing their Bills all the yeere long, you ſhall bee loued and maintained at the Pariſh charge till you bee olde, bee allowed a <hi>Robin-hood,</hi> or Mother <hi>Red-cap,</hi> to hang at your doore, to beckon in Cuſto<g ref="char:EOLhyphen"/>mers: and if you come into the Citie, you may bee drunke with pleaſure, but neuer come into the faſhion. At all times you ſhall haue reſpect, but ith Winter Mornings without compariſon. How doe you like my cenſure now?</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Water has a deepe iudgement.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>And yet the world ſayes ſometimes Water is ſhallow: nay, Ile ſee you ſhake hands, and tie a new knot of friendſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>We are henceforth brothers.</p>
+            </sp>
+            <sp>
+               <speaker>VVine.</speaker>
+               <p>Stay, who's heere?</p>
+            </sp>
+            <stage>Enter Toſt, Sugar, and Nutmeg: Toſt whetting a knife on his ſhooe.</stage>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>I tell thee, Sugar, I am now friends with thee. But if it bee as you ſay—</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>What's the matter?</p>
+            </sp>
+            <pb facs="tcp:2950:10"/>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Let's obſerue him a little, Toſt is angry.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>What need you be ſo hote, Toſt?</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Hote? tis no matter, Sugar: you will iuſtifie that Wine and Beere offered this wrong vnto Ale.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>I know not whoſe pride began; but I was ſorry to ſee Wine, Beere, and Ale at ſuch odds.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Ods quotha? I do meane to be euen with ſome body.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>An euen Toſt ſhewes well.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>They ſhall find that Ale has thoſe about him that are not altogether dowe.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Thou haſt been baked, Ile ſweare.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>And new come out of the Ouen too, I thinke: for he is very fierie.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Ale muſt not bee put downe ſo long as Toſt has a crum of life left. Beere too?</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>What doe you meane to doe with your knife, Toſt? that will ſcarce cut Beere and 'twere buttered.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Come not neere me, Nutmeg, leſt I grate you, and ſliſe you. Nutmeg, doe you marke?</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Let's in, and make 'em friends. How now Toſt?</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Tis all one for that: Oh, are you there? pray tell me which of 'em iſt?</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Is what?</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>Why they are friends: what did you meane, Sugar, to make Toſt burne thus?</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>No ſuch matter.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>You will not tell mee then. Harke you Beere, March-Beere, this way a little.</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>What doſt meane to doe with thy knife.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>I muſt ſtirre you a little Beere: what colour had you to quarrell with my Maſter.</p>
+            </sp>
+            <sp>
+               <speaker>Beer.</speaker>
+               <p>
+                  <hi>Ale.</hi> VVe are ſworne brothers.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>We were at difference, and Wine too: but—</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Wine too But, but me no buts, I care not a ſtrawe for his buts; dee heare ſir, doe you long to be Graues Wine.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>VVe are all friends.</p>
+            </sp>
+            <sp>
+               <speaker>Water.</speaker>
+               <p>I, I, all friends on my word, Toſt.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Fire and water are not to bee truſted, away new
+<pb facs="tcp:2950:10"/>Riuer, away, I waſh my hands on thee.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Come hither againe, Toſt.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>Ouer head and eares in Ale.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>How comes this about, Sugar.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>The trueth is, ſir, I told him of ſome difference be<g ref="char:EOLhyphen"/>tweene you, for he and I had been fallen out, and I had no o<g ref="char:EOLhyphen"/>ther ſecuritie to put in for my ſelfe, then to put him vpon ſome body elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>Nutmeg durſt ſcarce ſpeake to him, hee was ready to put me in his pocket.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>I am coole agen: I may beleeue you are friends; then I am content to put vp.</p>
+               <stage>Puts vp his knife.</stage>
+               <p>Sugar and Nutmeg, come, we be three.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>Let's be all one rather: and from hencefoorth ſince they are ſo well accorded, let's make no difference of our Ma<g ref="char:EOLhyphen"/>ſters, but belong to 'em in common: for my part, though I wait vpon Wine, it ſhall not exempt my attendance on Beere, or Ale, if they pleaſe to command Sugar.</p>
+            </sp>
+            <sp>
+               <speaker>Toſt.</speaker>
+               <p>A match, I am for any thing but Water.</p>
+            </sp>
+            <sp>
+               <speaker>Nut.</speaker>
+               <p>And I.</p>
+            </sp>
+            <sp>
+               <speaker>Sug.</speaker>
+               <p>But my ſeruice ſhall be ready for him to, Water and Sugar I hope, may be drunke together now and then, and not bee brought within compaſſe of the Statute, to bee put ith ſtockes for't.</p>
+            </sp>
+            <sp>
+               <speaker>Wat.</speaker>
+               <p>Godamercy Sugar with all my heart, I ſhall loue thy company, for I am ſolitary, and thou wilt make mee plea<g ref="char:EOLhyphen"/>ſant. Stay.</p>
+               <stage>Muſicke.</stage>
+               <p>Harke Muſicke? Oh ſome friends of mine, I know 'em, they often come vpon the Water: let's entertaine the ayre a little, neuer a voice among you?</p>
+            </sp>
+            <floatingText xml:lang="eng" type="song">
+               <body>
+                  <stage>THE SONG.</stage>
+                  <sp>
+                     <speaker>Wine.</speaker>
+                     <l>
+                        <hi>I iouiall VVine exhilarate the heart.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Beere.</speaker>
+                     <l>
+                        <hi>March Beere is drinke for a King.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Ale.</speaker>
+                     <lg>
+                        <l>
+                           <hi>But Ale, bonny Ale, with Spice and a Toſt,</hi>
+                        </l>
+                        <l>
+                           <hi>In the morning's a daintie thing.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Chorus.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Then let vs be merry, waſh ſorrow away,</hi>
+                        </l>
+                        <l>
+                           <hi>Wine, Beere, and Ale ſhall be drunke to day.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <pb facs="tcp:2950:11"/>
+                  <sp>
+                     <speaker>Wine.</speaker>
+                     <l>
+                        <hi>I generous Wine, am for the Court.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Beere.</speaker>
+                     <l>
+                        <hi>The Citie calles for Beere.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Ale.</speaker>
+                     <lg>
+                        <l>
+                           <hi>But Ale, bonny, Ale, like a Lord of the Soyle,</hi>
+                        </l>
+                        <l>
+                           <hi>In the Countrey ſhall domineere.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Chorus.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Then let vs be merry, waſh ſorrow away,</hi>
+                        </l>
+                        <l>
+                           <hi>Wine, Beere, and Ale ſhall be drunke to day.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+               </body>
+            </floatingText>
+            <sp>
+               <speaker>Water.</speaker>
+               <p>Why, now could I daunce for ioy.</p>
+            </sp>
+            <sp>
+               <speaker>Ale.</speaker>
+               <p>Now you talke of dancing, Wine, tis one of your qualities, let's pay the Muſicians all together: wee haue of<g ref="char:EOLhyphen"/>ten made other men haue light heads and heeles, there's no hurt a little in tripping for our ſelues, what ſay you?</p>
+            </sp>
+            <sp>
+               <speaker>Beere.</speaker>
+               <p>Strike vp Piper.</p>
+            </sp>
+            <sp>
+               <speaker>Wine.</speaker>
+               <p>Luſtily, make a merry day on't; nay, leaue out none, at Dancing and Foot-ball, all fellowes.</p>
+            </sp>
+            <stage>A Daunce, wherein the ſeuerall Natures of them all is figured and repreſented.</stage>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:2950:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>

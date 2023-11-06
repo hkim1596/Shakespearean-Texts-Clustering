@@ -1,0 +1,568 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triumphs of fame and honour, or, The noble accomplish'd solemnity, full of cost, art and state, at the inauguration and establishment of the true worthy and right nobly minded Robert Parkhurst, into the right honourable office of Lord Maior of London the particularities of every invention in all the pageants, shewes and triumphs both by water and land, are here following fully set downe, being all performed by loves, liberall costs, and charges of the right worshipfull and worthy Brother-hood of the Cloth-workers the 29 of October 1634 / written by Iohn Taylor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73300</idno>
+            <idno type="STC">STC 23808</idno>
+            <idno type="STC">ESTC S5206</idno>
+            <idno type="EEBO-CITATION">39960664</idno>
+            <idno type="OCLC">ocm 39960664</idno>
+            <idno type="VID">150435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150435)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1951:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triumphs of fame and honour, or, The noble accomplish'd solemnity, full of cost, art and state, at the inauguration and establishment of the true worthy and right nobly minded Robert Parkhurst, into the right honourable office of Lord Maior of London the particularities of every invention in all the pageants, shewes and triumphs both by water and land, are here following fully set downe, being all performed by loves, liberall costs, and charges of the right worshipfull and worthy Brother-hood of the Cloth-workers the 29 of October 1634 / written by Iohn Taylor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1634.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁸, B⁶.</note>
+                  <note>Imperfect: stained, worn, cropped.</note>
+                  <note>Reproduction of original in: John Rylands University Library of Manchester.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parkhurst, Robert, --  Sir.</term>
+               <term>City of London (England). --  Lord Mayor --  Inaugurations.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150435:1" rendition="simple:additions"/>
+            <pb facs="tcp:150435:2" rendition="simple:additions"/>
+            <pb facs="tcp:150435:2" rendition="simple:additions"/>
+            <pb facs="tcp:150435:3"/>
+            <pb facs="tcp:150435:3" rendition="simple:additions"/>
+            <pb facs="tcp:150435:4"/>
+            <pb facs="tcp:150435:4"/>
+            <pb facs="tcp:150435:5"/>
+            <pb facs="tcp:150435:5"/>
+            <pb facs="tcp:150435:6"/>
+            <pb facs="tcp:150435:6"/>
+            <p>THE TRIVMPHS OF FAME and HONOVR: OR THE NOBLE AC<g ref="char:EOLhyphen"/>compliſh'd ſolemnity, full of Coſt, Art and ſtate, at the Inauguration and Eſtabliſh<g ref="char:EOLhyphen"/>ment of the true worthy and right nobly min<g ref="char:EOLhyphen"/>ded <hi>ROBERT PARKHVRST,</hi> into the Right Honourable office of Lord <hi>Maior</hi> of LONDON. The particularities of every Invention in all the Pageants, Shewes and Triumphs both by Water and Land, are here following fully ſet downe, being all performed by the Loves, Liberall Coſts, and charges of the Right Worſhipfull and worthy Bro<g ref="char:EOLhyphen"/>ther-hood of the Cloth-workers the 29 of October 1634.</p>
+            <p>Written by <hi>Iohn Taylor.</hi>
+            </p>
+            <p>¶ Imprinted at London 1634.</p>
+            <pb facs="tcp:150435:7"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:150435:7"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:150435:8"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:150435:8"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150435:9"/>
+            <pb facs="tcp:150435:9"/>
+            <head>TO THE MOST WELCOME AND expected Pattern and Patron of Vertue and Goodneſſe, the hopefull deſerver of all the Coſts and Honours which the Noble Fellowſhip and Brother-hood of <hi>Clothworkers</hi> and ample Love of the whole City, in full and generous Bounty be<g ref="char:EOLhyphen"/>ſtow upon him, the Right Honourable and Judicious <hi>ROBERT PARKHVRST,</hi> Lord <hi>Major</hi> of the famous Ci<g ref="char:EOLhyphen"/>ty of <hi>London.</hi>
+            </head>
+            <lg>
+               <l>RIght Honourable Patron, to your ſtate</l>
+               <l>In duty I theſe <hi>Triumphs</hi> dedicate,</l>
+               <l>Wherein your Worthy <hi>Brother-hood</hi> Approves</l>
+               <l>
+                  <hi>Greatneſſe</hi> and <hi>goodnes</hi> of their <hi>minds,</hi> and <hi>loves,</hi>
+               </l>
+               <l>Their true affections and their liberall charge,</l>
+               <pb facs="tcp:150435:10"/>
+               <l>They have moſt bountifull expreſt at large,</l>
+               <l>And London in theſe Triumphs is renownd</l>
+               <l>Above all cities in the worlds wide Round:</l>
+               <l>For no Kings Deputy, or Magiſtrate</l>
+               <l>Is with ſuch pompous ſtate inaugurate,</l>
+               <l>As Londons Mayor is, which moſt plainly ſhowes</l>
+               <l>The Kings illuſtrious greatneſſe whence it flowes;</l>
+               <l>To whom then ſhould my dedication run,</l>
+               <l>But unto you, for whom theſe things were done?</l>
+               <l>Your power is Londons watch-towre to eſpie,</l>
+               <l>Dangers far off, and perills that are nigh:</l>
+               <l>Your foreſight muſt ſee much, and it is plaine,</l>
+               <l>Millions of eyes will looke on you againe,</l>
+               <l>For envy and detraction pries and ſtares</l>
+               <l>T'aſſault true honour, and t'intrap in ſnares</l>
+               <l>All that is good, for it is manifeſt,</l>
+               <l>That envie alwaies feeds upon the beſt.</l>
+               <l>This citie (the Kings Chamber) muſt be kept</l>
+               <l>Cleane for his uſe, from foule pollution ſwept,</l>
+               <l>And ſure, that <hi>power</hi> that hath you thus advanc'd,</l>
+               <l>To be thus honour'd, lov'd and countenanc'd,</l>
+               <l>Will ever be your <hi>portion,</hi> and <hi>content,</hi>
+               </l>
+               <l>And governe you in this your government.</l>
+               <l>That you (at helme) a ſteddy courſe may ſteare</l>
+               <pb facs="tcp:150435:10" rendition="simple:additions"/>
+               <l>Twixt <hi>Juſtice,</hi> and bleſt <hi>Mercy,</hi> many a yeare</l>
+               <l>Eſpecially in this your greateſt ſtate,</l>
+               <l>Let <hi>Hoſpitality</hi> ſtill keepe your Gate;</l>
+               <l>And <hi>Liberality,</hi> with <hi>welcome</hi> ſtand,</l>
+               <l>To greet men with a free and open hand,</l>
+               <l>Then Muſes, Graces, Arts, the praiſe ſhall ſing</l>
+               <l>Of you (my Lord) Lieutenant to my King.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="triumph">
+            <pb facs="tcp:150435:11"/>
+            <pb facs="tcp:150435:11"/>
+            <head>THE TRIVMPHS OF FAME AND HONOUR.</head>
+            <div type="section">
+               <div type="part">
+                  <p>
+                     <seg rend="decorInit">T</seg> The firſt ſhew that is to be preſented on the water is a veſſell like a Boat or Barge, adorned with the armes and Impreſſes of the honoura<g ref="char:EOLhyphen"/>ble Citie and Company, with ſeeming pro<g ref="char:EOLhyphen"/>perties of being loaden, with Packs, dryfats, and divers other commodities, that marchants and others that are free of the Company of Cloth-workers, doe re<g ref="char:EOLhyphen"/>ceive from foreigne parts by ſea; this Barge attends the Lord Mayor and meets him about <hi>Pauls</hi> wharfe or attends further up the River. <hi>Thetis</hi> (the Goddeſſe of the ſea) and Thames, or Thamiſis (being one of her faireſt daughters) ſitting in the head of the Boate; <hi>Thetis</hi> being habitiment<g ref="char:EOLhyphen"/>ed in a mantle of ſea-Greene, with a corronet of ſhels of divers ſorts of ſea-fiſh on her head with a great whelk-fiſh in her hand with adornments of ſtrange fiſhes and other ſignificant repreſentations. Thamiſis being habited in
+<pb facs="tcp:150435:12"/> a white or ſilver coloured Robe, having on her head a Chaplet of green Reeds, Flowers and Ruſhes, and about her feet deck'd with Sedge, Bulruſhes and Flaggs, at which preſentment <hi>Thetis</hi> ſpeaks this following ſpeech;</p>
+                  <sp>
+                     <lg>
+                        <l>Know worthy Troop, that I great <hi>Thetis</hi> am,</l>
+                        <l>Who (hearing of theſe Triumphs) hither came</l>
+                        <l>From th'Azure court of my moſt deepe Abyſſe</l>
+                        <l>To grace my faireſt daughter Thamiſis,</l>
+                        <l>I every twelve houres, by this Child of mine,</l>
+                        <l>Do ſend you ſilks and velvets, oyle, and wine,</l>
+                        <l>Gold, ſilver, Jewels, fiſh, ſalt, ſundry ſpices,</l>
+                        <l>Fine and courſe linnen, druggs of divers prices:</l>
+                        <l>What every Realme or climate can produce,</l>
+                        <l>I ſee it ſafe tranſported for your uſe.</l>
+                        <l>Thus from the boſome of the Deepe my floods</l>
+                        <l>(By Thames) doe every Tyde ſend up your goods,</l>
+                        <l>For which this matchleſſe well deſerving River,</l>
+                        <l>Your Cloth doth backe againe to me deliver,</l>
+                        <l>With other riches, which I o're the Sea</l>
+                        <l>Unto my other daughters doe convay;</l>
+                        <l>For your commodities I'le ever flow</l>
+                        <l>Unto Danubius, Iſter, Rhine, and Poe,</l>
+                        <l>To Maze, Seine, Volga, Ems, Elve, and Tanales,</l>
+                        <l>To Tygris, Nilus, Ganges, Euphrates,</l>
+                        <l>To Tyber, Jordan, Xanthus, Jndus, Tagus,</l>
+                        <l>Paſt Aſphaltites, or Blacke <hi>Mortuus Lacus</hi>
+                        </l>
+                        <pb facs="tcp:150435:12"/>
+                        <l>As far as <hi>Sol</hi> or <hi>Cynthia</hi> ſpread their beames,</l>
+                        <l>As far as <hi>Oceanus</hi> ſends his ſtreames,</l>
+                        <l>So far will I your ſervant ever be,</l>
+                        <l>In any thing you'l deigne to put on me:</l>
+                        <l>And humble thanks faire Thames and I doe render</l>
+                        <l>To you, who of her well-fare are ſo tender,</l>
+                        <l>Who with great coſt and care doe lend your hands,</l>
+                        <l>To cleare your ſervant Thames from ſhelves and ſands:</l>
+                        <l>Go on and cleanſe her, as you have begun,</l>
+                        <l>And ſhe ſhall doe for you as ſhe hath done.</l>
+                        <l>We are aſſur'd that Heaven will ever bleſſe</l>
+                        <l>Your ſtores, who doe her injuries redreſſe,</l>
+                        <l>
+                           <hi>Thetis</hi> and Thames, their ſervices ſhall ſhow</l>
+                        <l>To you, as long as they doe ebb and flow.</l>
+                        <l>Thus with our humble dutious bending downe,</l>
+                        <l>Long may this Citie flouriſh with renowne.</l>
+                     </lg>
+                  </sp>
+                  <p>Then the Rowers (conſiſting of foure in number, being two Saylours, two watermen) being ouer-joyed, pike their oares, and every of them drinks his Kan as a health, toſſing them up, and preſently falling into a Rugged friskin daunce, returne to <hi>Pauls</hi> wharfe, and landing the ſaid Barge, ſhe is carried as the formoſt Pageant in the ſhew through the Citie.</p>
+               </div>
+               <div type="part">
+                  <p> The ſecond is a Pageant repreſenting the figures of <hi>Time</hi> and <hi>Mercury (Time</hi> being habited in a blew roabe with his Sithe in his hand) which do wait and attend the
+<pb facs="tcp:150435:13"/> Lord Mayor in <hi>Paules</hi> Chuch-yard, The ſpeakers being Mounted on two Griphons (the Supporters of the Cloth-workers Armes) which at the approach of my Lord, <hi>Mercury</hi> (upon one of the Griphons) with his Caducens or charming rod in his hand, with wings on his head to ſignifie quickneſſe of Invention, Acuteneſſe of wit, and Volubility of tongue with Eloquence of ſpeech. He hath alſo wings on his feet to ſignifie his ſwiftneſſe; as Meſſen<g ref="char:EOLhyphen"/>ger to the Gods. <hi>Time</hi> ſpeakes as followeth.</p>
+                  <sp>
+                     <lg>
+                        <head>The Speech of Time. </head>
+                        <l>Almoſt 500 daies, beheld have I</l>
+                        <l>The Triumphs of Great Londons Mayoralty,</l>
+                        <l>And ſure old <hi>Time,</hi> with Joy doth truely ſay,</l>
+                        <l>He n're was better pleaſ'd than at this day;</l>
+                        <l>Not that I thinke a temporizing Lord,</l>
+                        <l>Or Pleaſer of the <hi>Time</hi> ſhall weild the ſword,</l>
+                        <l>But as your Honourable Predeceſſors</l>
+                        <l>Have mended <hi>Time,</hi> by puniſhing Trangreſſors;</l>
+                        <l>So <hi>Time</hi> hopes that th'addition of your yeare,</l>
+                        <l>Will make him more Illuſtrate, pure and cleare.</l>
+                        <l>For of all fading things 'tis manifeſt,</l>
+                        <l>As <hi>Time</hi> is uſ'd, hee's either worſt or beſt.</l>
+                        <l>All thoſe that rightly have their Honours won:</l>
+                        <l>Have uſ'd <hi>Time</hi> well, (as you my Lord have done.)</l>
+                        <l>This Honour was ordaind you, from your youth</l>
+                        <l>You ever lov'd my lovelieſt daughter TRVTH,</l>
+                        <l>And ſhe hath rais'd you; and ſhe did prefer</l>
+                        <pb facs="tcp:150435:13"/>
+                        <l>You to this dignity to Maintaine her.</l>
+                        <l>I doe command her, ſtill with you t'abide,</l>
+                        <l>Doe you defend her, ſhe ſhall be your guide:</l>
+                        <l>For truth-ſake <hi>Time</hi> ſhall be your ſervant ſtill;</l>
+                        <l>And in your juſt commands, obey your will.</l>
+                        <l>
+                           <hi>Time</hi> ſhall tranſport your Marchandiſe and wares,</l>
+                        <l>
+                           <hi>Time</hi> ſhall aſſiſt you in your great'ſt affaires:</l>
+                        <l>
+                           <hi>Time</hi> ſhall be alwaies yours Auſpitiouſly,</l>
+                        <l>And <hi>Time</hi> will bring you to Eternity.</l>
+                        <l>Her's <hi>Hermes,</hi> from his Spheares circumferance</l>
+                        <l>Hath brought the Poet wit, and Eloquence;</l>
+                        <l>And quick Invention, likewiſe he Inflam'd</l>
+                        <l>Into the Artiſts that theſe pageants fram'd,</l>
+                        <l>That for your future Honour, this may be</l>
+                        <l>A day of well Compoſ'd Variety</l>
+                        <l>Of Speach and ſhew, theſe Triumphs we preſent,</l>
+                        <l>We hope (as they are meant ſhall give content)</l>
+                        <l>We humbly wiſh, that you this yeare may finde,</l>
+                        <l>Full of true worth as is your worthy mind.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div type="part">
+                  <p>Next and neere to this Pageant of <hi>Time</hi> and <hi>Mercury,</hi> is the forme of a Citie repreſenting London, with walls, Battlements, Gates, Churches, Towers, Steeples and lofty Buildings, and ſome Antique ſhapes here and there on the tops of the higheſt Edifices: Alſo with ſhops and men at worke upon cloth, as Cloth-workers, fullers, ſhermen, and others, the walls of the Citie being adorned round, with Armes and ſcoutcheons of the Cittie and company as
+<pb facs="tcp:150435:14"/> alſo divers figures, as 1 of Antiquitie, 2 Record, 3 Memo<g ref="char:EOLhyphen"/>ry, 4 Wiſedome, and others the like; alſo an ancient Matron in a civill grave robe with her haire long hanging downe in trammels diſhevelled behind her backe, ſitting in one of the Gates of the Citie, ſhee ſpeaks in the perſon of London to the Lord Mayor and company as follow<g ref="char:EOLhyphen"/>eth.</p>
+                  <sp>
+                     <lg>
+                        <l>By me faire London in obedience ſhewes</l>
+                        <l>The ſervice, love, and duty that ſhe owes</l>
+                        <l>To this daies Triumph, but my aime is higher,</l>
+                        <l>My thankfulneſſe doth up to heaven aſpire,</l>
+                        <l>Which unto me hath ſo propitious beene,</l>
+                        <l>That I doe ſee this day, and now am ſeene</l>
+                        <l>The Queene of Cities, Empreſſe of content,</l>
+                        <l>And Princeſſe of unmarched government;</l>
+                        <l>Weigh well my ſtate, and think on other ſtates,</l>
+                        <l>Thebes is ruin'd with her hundred Gates;</l>
+                        <l>Numantia, Carthage, great Jeruſalem,</l>
+                        <l>And Babylon, what are become of them?</l>
+                        <l>Conſtantinople doth in ſorrow lye,</l>
+                        <l>And groane beneath the Turkiſh tyranny:</l>
+                        <l>Rome, and all Cities that hold Rome ſupreme,</l>
+                        <l>Their glorie's are eclips'd or but a dreame;</l>
+                        <l>Whilſt fire and ſword doth Germany moleſt,</l>
+                        <l>London's ſecure, with peace and plenty bleſt,</l>
+                        <l>Turke, Pope, and war, beare here no rule or ſway,</l>
+                        <l>For I one God, one King, one Law obey;</l>
+                        <pb facs="tcp:150435:14"/>
+                        <l>Ther's my ſecurity, and my ſtate doth ſtand</l>
+                        <l>Supported by the unſupported hand,</l>
+                        <l>Theſe are the meanes and inſtruments whereby</l>
+                        <l>We riſe to Honour, painfull Induſtry.</l>
+                        <l>An Idle Citizen is like a Moth,</l>
+                        <l>One ſpoyles b'example t'oher ſpoyles the Cloth,</l>
+                        <l>True Citizens are the true Cities ſonnes,</l>
+                        <l>The others are but baſtards, mad that runnes,</l>
+                        <l>Like Runnagates, or curſed Imps of <hi>Caine,</hi>
+                        </l>
+                        <l>And never ſhall to Honours ſeat Attaine:</l>
+                        <l>Worke on my Lads, and you in time may be,</l>
+                        <l>Good members of this Honour'd Company,</l>
+                        <l>And though good <hi>Freeman</hi> (of this Corporation)</l>
+                        <l>Deceaſ'd before his halfe yeares expiration,</l>
+                        <l>Yet Heaven hath ſoone provided for our good</l>
+                        <l>Another worthy of this Brother-hood.</l>
+                        <l>And now my Lord, I give my ſelfe and mine,</l>
+                        <l>To your command and charge, and I divine</l>
+                        <l>That as great is the Honour of your ſeat,</l>
+                        <l>Your Government ſhall be more good than great.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div type="part">
+                  <p>The next is a Pageant in the forme of a Tower, which doth import a Tower of Honour, on the top of which Tower ſits one in royall robes, with a majeſtique Impale<g ref="char:EOLhyphen"/>ment on his head, a ſcepter in one hand, and a Ball in the other: under him (in the next deſcent) ſit in equall diſtances the figures of a Lord Mayor, a Biſhop, a Lawyer,
+<pb facs="tcp:150435:15"/> and a warlike Captaine or Generall. On the right hand of the Lord Mayor is placed the figure or emblem of Ho<g ref="char:EOLhyphen"/>nour: next the Biſhop is placed piety or the feare of God: on the right hand of the Judge, a figure repreſenting power is ſeated, and by the Generall or Captaine ſtands victory. In the deſcent below the Lord Mayor is an appren<g ref="char:EOLhyphen"/>tice, and by him ſtands obedience: beneath the Biſhop is a ſcholler, and by him is placed patience, under the Judge a clark, and by him diligence, &amp; under the Lord Generall is a Common Souldiour, and by him is placed vertue, which ſhewes that by vertuous actions and true induſtry meane men have aſcended and may be raiſed to Honourable places, which is an encouragement and paterne for others to purſue and follow thoſe moſt worthy wayes to Honour and Renowne. The Tower being round or circu<g ref="char:EOLhyphen"/>lar, and the Baſis or Ground-worke ſquare or Quadrangle, on each corner whereof ſits, the foure prime or Cardinall Vertues, namely Juſtice, Fortitude, Temperance and Pru<g ref="char:EOLhyphen"/>dence, every one of them habited in Robes, ſignificant and Emblematically ſhewing that thoſe vertues doe adorne and dignifie the above preſented noble perſonages. This Pageant attending my Lord Mayor, in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard or at the upper end of Cheapſide neere the little Con<g ref="char:EOLhyphen"/>duit; he that ſits higheſt in the place and perſon of Honour ſpeakes this following Speech.</p>
+                  <pb facs="tcp:150435:15"/>
+                  <sp>
+                     <lg>
+                        <head>The Speech of Honour.</head>
+                        <l>Low ſteps begin to mount the higheſt hills,</l>
+                        <l>Great Rivers have their heads from little Rills:</l>
+                        <l>From ſervitude growes freedome, and from thence</l>
+                        <l>(Through Induſtry) ſprings Worth and Eminence.</l>
+                        <l>All ſuch as will true Honours ſeat aſcend,</l>
+                        <l>Muſt doe (as theſe have) firſt obey and bend:</l>
+                        <l>For though Humility to man ſeemes low,</l>
+                        <l>The fruit of it as high as Heaven doth grow:</l>
+                        <l>Tis diligence doth the puny-clarke prefer,</l>
+                        <l>To be a Reverend Judge, or Counceller;</l>
+                        <l>Paines and much perill oft obtaines the grace,</l>
+                        <l>A common Souldiour gaines a Generals place:</l>
+                        <l>The pooreſt Schollers ſtudy (by degrees)</l>
+                        <l>Aſcends the height of ſpirituall dignities,</l>
+                        <l>And from th'apprentice ſeven yeares ſervitude</l>
+                        <l>Proceeds the grave gowne, and the Livery-Hood,</l>
+                        <l>Till (in the end) by merit, paines and care,</l>
+                        <l>They win the Grace to fit in Honours chaire;</l>
+                        <l>Thus Humble ſervice is advanc'd and rear'd</l>
+                        <l>To Honours ſeat, obey'd, belov'd and fear'd.</l>
+                        <l>Authoritie's the touch-ſtone of the minde,</l>
+                        <l>And ſhewes which way the bearer is inclin'd:</l>
+                        <l>For having power joyned to his will,</l>
+                        <l>It makes him much more good, or much more ill:</l>
+                        <l>It makes him to foreſee, with Judgements eye,</l>
+                        <pb facs="tcp:150435:16"/>
+                        <l>That Juſtice without Mercie's cruelty:</l>
+                        <l>That Mercy without Juſtice is much worſe,</l>
+                        <l>Breeds ſcorne, contempt, makes power to leeſe her force.</l>
+                        <l>When you in ſcales of Equity doe lay</l>
+                        <l>The ſword of Juſtice, who dares but obey.</l>
+                        <l>Your faith and Honour are in marriage joynd</l>
+                        <l>By oath this day, which no man can unbinde,</l>
+                        <l>Therefore my Lord (whoſe ſervice and true merit</l>
+                        <l>Hath made this Honour your's which you inherit)</l>
+                        <l>Tis treble Joy that you doe wiſely know</l>
+                        <l>To mix thoſe vertues well, and to beſtow</l>
+                        <l>Them juſtly, as occaſion ſhall incite:</l>
+                        <l>To gard the good, and make wrong render right,</l>
+                        <l>In which expectance all our hopes abounding,</l>
+                        <l>Joy crowne this day with Drums and Trumpets ſounding.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div type="part">
+                  <p> Then his Lordſhip being come to Saint Laurence lane end in Cheapſide, he is ſaluted by <hi>Endimion,</hi> or a ſhep<g ref="char:EOLhyphen"/>herd rideing on a Rams back, (the Ram being the creſt of the Cloth-workers armes) there being neere or next unto him an ancient monument of fame: at the approach of my Lord the ſhepherd entertaines him with this ſpeech.</p>
+                  <sp>
+                     <lg>
+                        <head>The Speech of Endimion.</head>
+                        <l>My Honour'd Lord, let me, (a rurall Swaine,</l>
+                        <l>And humble ſhepherd from the lowly plaine)</l>
+                        <l>As plainly bid thee welcome to this ſtate</l>
+                        <pb facs="tcp:150435:16"/>
+                        <l>Of Englands greateſt civill Magiſtrate.</l>
+                        <l>A ſhepherd joyes to ſee this day, and I</l>
+                        <l>Will fleece my flock's t'nrich thy company:</l>
+                        <l>I am <hi>Endimion,</hi> that of yore did keepe</l>
+                        <l>Upon th'Arcadian hils my harmeles ſheepe:</l>
+                        <l>Whereas by ſtudy, and by obſervations</l>
+                        <l>I found the Moones change and her variations,</l>
+                        <l>And for my ſake the Swaines doe ſtill prefer</l>
+                        <l>The booke ycleap'd the ſhepherds Kallender.</l>
+                        <l>
+                           <hi>Apollo</hi> kept <hi>Admetus</hi> ſheepe (tis ſaid)</l>
+                        <l>And <hi>Tamberlaine</hi> (whom Mighty Kings obey'd)</l>
+                        <l>Was once a ſhepherd, and the <hi>Time</hi> was when</l>
+                        <l>That ſhepherds were the nobleſt, ableſt men.</l>
+                        <l>This golden creſted Ram, on which I ride</l>
+                        <l>To welcome you, and ſee you dignifide,</l>
+                        <l>Is the Celeſtiall figne, (Aries by name)</l>
+                        <l>Come from the Zodiack to adorne your fame.</l>
+                        <l>And from the Ram, and his increaſing breed</l>
+                        <l>Neere halfe mankinde have meanes to Cloath and feed.</l>
+                        <l>By picking wooll, thouſands releife doe gaine,</l>
+                        <l>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s many carding, ſpinning doth maintaine:</l>
+                        <l>Wooll-men, a great and wealthy trade doe drive,</l>
+                        <l>Weavers, in great abundance worke and live,</l>
+                        <l>The Clothiers, Fullers, Tuckers, Shermen, Dyers,</l>
+                        <l>From the ſheepes fleece have feeding and attires,</l>
+                        <l>But all theſe Trades, which I doe here infer,</l>
+                        <l>Have all relation to the Cloth-worker,</l>
+                        <l>For were it not for him the reſt were nothing,</l>
+                        <pb facs="tcp:150435:17"/>
+                        <l>He onely makes it Cloth, and fit for Clothing,</l>
+                        <l>Without the Cloth-worker, the Drapers Trade</l>
+                        <l>And Merchants Traffick would decay and fade,</l>
+                        <l>Theſe from the fleece got Clothes and nutriment,</l>
+                        <l>For (under heaven) the Ram's the Inſtrument.</l>
+                        <l>And when bright <hi>Phoebus</hi> ſhall in March begin</l>
+                        <l>To take the Ram for his celeſtiall Inne</l>
+                        <l>Such golden tincture on his fleece hee<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>le ſet,</l>
+                        <l>Which many golden peeces ſhall beget,</l>
+                        <l>And whereas men (to make their worths appeare)</l>
+                        <l>Doe give their ſervants Liveries once a yeare,</l>
+                        <l>The Ram (in bounty) paſſeth man I note.</l>
+                        <l>And gives his Maſter every yeare a coate</l>
+                        <l>Thus poore <hi>Endimion,</hi> with the beaſt he tides,</l>
+                        <l>Doth wiſh you proſperous windes, and happy tides,</l>
+                        <l>That by commerce, and good Negotiation,</l>
+                        <l>Wooll turn'd to Cloth, and Cloth by transformation,</l>
+                        <l>Be turn'd to gold, that you may ſay with joy,</l>
+                        <l>That <hi>Iaſons</hi> fleece (to yours) was but a toy.</l>
+                     </lg>
+                  </sp>
+                  <stage>A dance of ſhephards with drinking in leather bottles in the <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</stage>
+               </div>
+               <div type="part">
+                  <p> Laſtly, at night, when his Lordſhip returnes from <hi>Pauls,</hi> the Pageants being ſix in number, going all before him in their order, attending him to his houſe, then the laſt
+<pb facs="tcp:150435:17"/> Pageant being an ancient Monument of Fame, ſhall pre<g ref="char:EOLhyphen"/>ſent it ſelfe to his Lordſhip, in the front of which peace is erected a figure repreſenting Fame, with a ſilver Trum<g ref="char:EOLhyphen"/>pet in her hand, the Monument being adorn'd with the Armes, Eſcucheons, Hatchments and Impreſſes of divers Lord Mayors that have bin of the worſhipfull company of the Cloth-workers, whom (though <hi>Time</hi> hath inter<g ref="char:EOLhyphen"/>red) Fame revives, ſounding their praiſes, and inforceth <hi>Time</hi> to revive their noble Memory, encouraging his Lordſhip to follow them in all their Honourable actions, that when <hi>Time</hi> ſhall determinate, his Lordſhips ſhield of Honour may be added to the reſt of his predeceſſors; and as this Pageant of the Monument of Fame is a repre<g ref="char:EOLhyphen"/>ſentation of the night, ſo the night, and this following ſpeech at his Lordſhips Gate is a concluſion and dutifull farewell to the daies Triumph and ſolemnity.</p>
+                  <sp>
+                     <lg>
+                        <head>Time ſpeaks.</head>
+                        <l>
+                           <hi>Time,</hi> that this day his ſervice hath expreſt,</l>
+                        <l>In duty brings your Lordſhip to your reſt:</l>
+                        <l>Yet er'e I take my leave, (for your content)</l>
+                        <l>I'le ſhew the meaning of this Monument.</l>
+                        <l>Then know, this ruind peece doth ſhew that ſtones</l>
+                        <l>And tombes conſume, as doe their owners bones,</l>
+                        <l>For <hi>Time</hi> is circular in his effects,</l>
+                        <pb facs="tcp:150435:18"/>
+                        <l>Builds and throwes downe, and ruins and erects:</l>
+                        <l>But fortune, death or fame, or <hi>Time</hi> cannot</l>
+                        <l>Make vertuous men, or vertue be forgot.</l>
+                        <l>For Immortallity is pleaſ'd to make</l>
+                        <l>Fame with his Trumpe the drowſie world to wake,</l>
+                        <l>Who from demolliſhed delapidations</l>
+                        <l>Proclaimes the memorable nominations</l>
+                        <l>Of worthies of this worthy company,</l>
+                        <l>Who Honourd liv'd, and did with Honour die.</l>
+                        <l>Sir <hi>William Hewet</hi> was, as you my Lord,</l>
+                        <l>To poyz the ballance and to weild the ſword:</l>
+                        <l>Sir <hi>Rowland Hayward</hi> next, next Sir <hi>Iames Hawes,</hi>
+                        </l>
+                        <l>Did rule this Citie juſtly by the lawes;</l>
+                        <l>Next was Sir <hi>Edward Oſboorne</hi> Londons Mayor;</l>
+                        <l>Then Sir <hi>Iohn Spencer</hi> gaind the honourd Chaire,</l>
+                        <l>Sir <hi>Thomas Schinner</hi> after had the place;</l>
+                        <l>Next did Sir <hi>Nicholas Moſley</hi> gaine the Grace;</l>
+                        <l>Then Sir <hi>Iohn Watts</hi> his yeare with Honour paſt,</l>
+                        <l>And Noble <hi>Freeman</hi> who deceaſed laſt.</l>
+                        <l>King <hi>Iames</hi> the wiſeſt, and the learnedſt King,</l>
+                        <l>Whoſe fame throughout the ſpacious world doth ring,</l>
+                        <l>He knew your merits, worth and dignity,</l>
+                        <l>And therefore choſe your worthy company</l>
+                        <l>To be his Brother-hood; he did underſtand,</l>
+                        <l>You were moſt fit for his fraternall band.</l>
+                        <l>And you my Lord, whom <hi>Time</hi> hath brought to be</l>
+                        <l>The nobleſt Branch of this fraternity,</l>
+                        <l>
+                           <hi>Time</hi> here ſalutes you, wiſhing you may move</l>
+                        <pb facs="tcp:150435:18"/>
+                        <l>More high in Honour, as you doe in love.</l>
+                        <l>Tis truly ſaid, that man that rules his paſſions,</l>
+                        <l>Doth conquer more, than he that conquers Nations.</l>
+                        <l>As you have rul'd your ſelfe, let it appeare</l>
+                        <l>In ruling London this enſuing yeare,</l>
+                        <l>So you, with <hi>Time</hi> ſhall be together bleſt,</l>
+                        <l>And <hi>Time</hi> ſhall bring you to Eternall Reſt.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div type="byline">
+                  <p>For a period to theſe Triumphs, (and to give deſert her due) It were ſhamefull impudence in mee to aſſume the invention of theſe Structures and Architectures to my ſelfe, they being buſines which I never was inured in, or acquainted with all, there being little of my directions in theſe ſhewes; onely the Speeches, and Illuſtrations which are here printed I doe juſtly challenge as mine owne, all the reſt of the Compoſures and Fabricks were form<g ref="char:EOLhyphen"/>ed and framed by the ingenious and induſtrious M'r <hi>Ro<g ref="char:EOLhyphen"/>bert Norman</hi> Citizen and Painter of London, who was indeed the prime inventor proſecuter and finiſher of theſe works, with the aſſiſtance of <hi>Zachary Taylor</hi> a quaint and well knowne curious Carvar, which being gracefully accepted &amp; approved of, after good CHRIST<g ref="char:EOLhyphen"/>MAS, the authors may be the more merry at the next.</p>
+               </div>
+            </div>
+            <div type="section">
+               <div type="argument">
+                  <pb facs="tcp:150435:19"/>
+                  <head>The explanation of the firſt Pageant of Thetis.</head>
+                  <p>
+                     <hi>THetis,</hi> daughter to the ſea-god <hi>Nereus,</hi> ſhe was wife to King <hi>Peleus,</hi> alſo <hi>Thetis</hi> was the mother of <hi>Achilles,</hi> who was ſeven cubits in height, and the moſt valiant Captaine amongſt the <hi>Greekes</hi> at the ſiege of <hi>Troy.</hi>
+                  </p>
+                  <p>
+                     <hi>Danubia</hi> is a great River that runs through <hi>Hungaria</hi> by the famous Cities of <hi>Buda, Brunduſium,</hi> and <hi>Belgrad,</hi> and ſo it paſſeth into <hi>Germany,</hi> by the Towne of <hi>Regenſ<g ref="char:EOLhyphen"/>berg,</hi> and through <hi>Swabe, Bavaria, and Auſtria;</hi> it is alſo called <hi>Donawe,</hi> but paſſing into <hi>Illyria</hi> it is at a part of <hi>Thracia</hi> cald <hi>Iſtria</hi> changed into the name of <hi>Iſter,</hi> it receives 60 rivers into it, the moſt part of which are na<g ref="char:EOLhyphen"/>vigable, it falls into the ſea called <hi>Pontus Euxinus,</hi> or the <hi>Euxine</hi> ſea.</p>
+                  <p>
+                     <hi>Po</hi> a famous river in <hi>Italy. Seine</hi> a river in <hi>France</hi> which runs through <hi>Paris<g ref="char:punc">▪</g> Volgu</hi> a river that runs through the large Empire of <hi>Ruſſia. Ems</hi> in eaſt <hi>Frizland,</hi> from whence the Citie of <hi>Eniden</hi> hath name <hi>Elve</hi> or <hi>Albe,</hi> is a river that paſſeth from <hi>Bohem,</hi> through <hi>Saxony, Miſnia,</hi> and ſo to the townes of <hi>Hamborough</hi> and <hi>Stoad,</hi> into the <hi>German</hi> Ocean. <hi>Tanais,</hi> a great river northward, which parts <hi>Aſia</hi> from <hi>Europe. Nilus</hi> a famous river that runs through <hi>Ethiopia</hi> and <hi>Egypt,</hi> and becauſe it never raines in <hi>Egypt,</hi> it is watered and made fruitfull once a yeare by
+<pb facs="tcp:150435:19"/> the overflowing of <hi>Nilus. Ganges</hi> is a mighty river that runs through and divides <hi>India,</hi> it is one of the foure rivers of <hi>Paradiſe,</hi> and is called by <hi>Moſes Phiſon. Tigris</hi> one of the foure named Hiddekell. <hi>Euphrates</hi> paſſeth by <hi>Babylon,</hi> and was alſo one of the rivers of <hi>Paradiſe</hi> named by Moſes <hi>Perah,</hi> and the <hi>Tyber</hi> a river that runs through <hi>Rome. Iordan</hi> a river that runs betwixt <hi>Gallile</hi> and <hi>Iudea,</hi> and fals into <hi>Mare mortuum</hi> or the dead ſea. <hi>Xanthus</hi> a river in <hi>Phrygia</hi> neere <hi>Troy,</hi> of which it is ſaid that if ſheepe dranke of the water, their fleeces became yellow. <hi>Indus</hi> a great and goodly navigable river, that hath its head from the mountaine <hi>Taurus</hi> or <hi>Caucaſus,</hi> it incompaſſeth <hi>India</hi> on the weſt, and falls by <hi>Aſia</hi> into the Lake called <hi>Pau<g ref="char:EOLhyphen"/>lus Meotis,</hi> and part into the <hi>Indian</hi> ſea. <hi>Aſphaltites</hi> is the dead ſea or <hi>Mare mortuum,</hi> it is in <hi>Siria,</hi> and it is held to be the place where <hi>Sodom, Gomorah,</hi> and the reſt of the five Cities ſtood which were conſumed with fire and brimſtone from heaven.</p>
+               </div>
+               <div type="argument">
+                  <pb facs="tcp:150435:20"/>
+                  <head>The meaning of the ſecond Pageant being Time and Mercury.</head>
+                  <p n="2">2 <hi>TIme</hi> hath ſeene 426 ſeverall daies of Mayoralty, which is ſo many yeares ſince the Cities govern<g ref="char:EOLhyphen"/>ment was changed (by King <hi>Richard</hi> the firſt) from Portgraves, Provoſts and Bayliffs, to the Honourable title and dignity of Lord Mayor. Men that come rightly to places of Honour &amp; dignity muſt make good uſe of <hi>Time.</hi> Truth is the daughter of <hi>Time,</hi> who though falſhood may obſcure her, yet <hi>Time</hi> will bring her forth at laſt, where her bright vertue ſhall outſhine the Sun: there is nothing goes beyond <hi>Time</hi> but Eternity.</p>
+               </div>
+               <div type="argument">
+                  <pb facs="tcp:150435:20"/>
+                  <head>
+                     <g ref="char:V">Ʋ</g>pon the third Pageant which repreſented a Citie.</head>
+                  <p>LOndon doth expreſſe her duty and thankfullneſſe, in acknowledging her happy preſervation and govern<g ref="char:EOLhyphen"/>ment, when many of the goodlieſt Cities in the world are either ruind, and confounded, or elſe far ſhort of her peacefull and plentifull felicity. As firſt, <hi>Thebes</hi> was a great Citie in <hi>Egypt,</hi> it was built by King <hi>Buſiris,</hi> it had 100 gates about the walls, it was 40 miles in compaſſe, the walles were 30 ſtads high, and ſix ſtads in breadth; it is written that 200 watchmen watched at euery gate: when it was deſtroy'd by <hi>Allexander</hi> the Great, there were found the Toombs of 77 Kings, (and good Kings they had bin) for the law was amongſt them that bad Kings ſhould have no buriall. Alſo there was another <hi>Thebes</hi> in <hi>Boetia</hi> built by <hi>Cadmus,</hi> and a third <hi>Thebes</hi> in <hi>Cillicia,</hi> where it is ſaid <hi>Andromche</hi> the wife to the worthy <hi>Hector</hi> was borne. <hi>Numantia</hi> was in <hi>Spaine,</hi> and being beſieged by the brave roman <hi>Scipio,</hi> rather than they would yeeld their Citie, they burned it with their wives, children, goods and families. <hi>Carthage</hi> was a good<g ref="char:EOLhyphen"/>ly Citie in <hi>Affrica,</hi> it was 40 Engliſh miles in circuit, it was held againſt the Romans 44 yeares when <hi>Rome</hi> was in her greateſt greatneſſe, it brought forth the valiant Cap<g ref="char:EOLhyphen"/>taine <hi>Haniball,</hi> and was at laſt deſtroy'd by <hi>Scipio Affri<g ref="char:EOLhyphen"/>canus</hi> 144 yeares before Chriſts birth; the place and coun<g ref="char:EOLhyphen"/>try where it ſtood is now called <hi>Tunis,</hi> which is a harbour
+<pb facs="tcp:150435:21"/> or Receptacle for Pirats, ſea-Rovers and misbeleeving <hi>Turkes. Ieruſalem</hi> the chiefe Citie of <hi>Iudea,</hi> where King <hi>Salomons</hi> Temple was, and where our Saviour ſuffered his paſſion, it is now a ruind peece under the ſubjection of the <hi>Turk.</hi> There are two <hi>Babylons,</hi> one in <hi>Caldea,</hi> where <hi>Nim<g ref="char:EOLhyphen"/>rods</hi> Tower was erected, and another <hi>Babylon</hi> there was in <hi>Egypt,</hi> they being (as their names doe ſignifie) both in confuſion under the <hi>Turk. Conſtantinople</hi> was the metro<g ref="char:EOLhyphen"/>polis and the head Citie of the Grecian or Eaſterne Em<g ref="char:EOLhyphen"/>pire, it was won from the Chriſtians the 29 of May 1453. by the <hi>Turkiſh</hi> Emperour <hi>Mahomet</hi> the ſecond, which <hi>Mahomet</hi> did alſo win the Empire of <hi>Trebizond,</hi> and tooke 12 Kingdomes and 200 Cities from the Chriſtians. <hi>Rome</hi> nor any Citie that holds <hi>Rome</hi> for chiefe, cannot declare any ſuch true Reality in their happineſſe and government, as London juſtly may doe.</p>
+                  <p>Theſe few expreſſions I thought fit to ſet downe here for the illuſtration of ſuch words and places as may ſeeme hard and obſcure to ſome meane Readers.</p>
+               </div>
+               <trailer>FINIS.</trailer>
+            </div>
+            <pb facs="tcp:150435:21"/>
+            <pb facs="tcp:150435:22"/>
+            <pb facs="tcp:150435:22"/>
+            <pb facs="tcp:150435:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>

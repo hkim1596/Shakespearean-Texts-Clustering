@@ -1,0 +1,1453 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Time vindicated to himselfe, and to his honors. In the presentation at Court on Twelfth Night. 1622..</title>
+            <author>Jonson, Ben, 1573?-1637.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00230</idno>
+            <idno type="STC">STC 14782.5</idno>
+            <idno type="STC">ESTC S125734</idno>
+            <idno type="EEBO-CITATION">57402303</idno>
+            <idno type="OCLC">ocm 57402303</idno>
+            <idno type="VID">181107</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181107)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2168:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Time vindicated to himselfe, and to his honors. In the presentation at Court on Twelfth Night. 1622..</title>
+                  <author>Jonson, Ben, 1573?-1637.</author>
+               </titleStmt>
+               <extent>[18] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1623].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴ C¹.</note>
+                  <note>Reproduction of original in: Carl H. Pforzheimer Library.</note>
+                  <note>Place and date of publication from STC (2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181107:1"/>
+            <pb facs="tcp:181107:1" rendition="simple:additions"/>
+            <p>TIME VINDICATED TO HIMSELFE, AND TO HIS HONORS.</p>
+            <p>In the preſentation at COVRT <hi>on Twelfth night.</hi> 1622.</p>
+            <q>
+               <l>—qui ſe mirantur, in illos</l>
+               <l>Virus habe: nos haec nouimus eſſe nihil.</l>
+            </q>
+            <pb facs="tcp:181107:2"/>
+            <pb facs="tcp:181107:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="masque">
+            <pb facs="tcp:181107:3"/>
+            <pb facs="tcp:181107:3"/>
+            <head>TIME <g ref="char:V">Ʋ</g>INDICATED.</head>
+            <stage>A Trumpet ſounded.</stage>
+            <stage>FAME <hi>entreth, follow'd by the</hi> Curious, <hi>the</hi> Ey'd, <hi>the</hi> Ear'd, <hi>and the</hi> Nos'd.</stage>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>GIue eare, the worthy, heare what <hi>Time</hi> proclaimes.</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>What? what? I'ſt worth our eares?</p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <l>Or eies?</l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>Or noſes?</p>
+               <l>For we are curious, <hi>Fame:</hi> indeed, the <hi>Curious.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>We come to ſpie.</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>And hearken.</p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>And ſmell out.</p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>More then you vnderſtand, my hot Inquiſitors.</l>
+               <l>Is it not ſo?</l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>We cannot tell.</p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>It may be.</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>Howeuer, goe you on, let vs alone.</p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>We may ſpie out, that, which you neuer mean't.</p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>And noſe the thing you ſent not. Firſt, whe<g ref="char:cmbAbbrStroke">̄</g>ce come you?</p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>I come from <hi>Saturne.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>ERRES.</speaker>
+               <p>
+                  <hi>Saturne,</hi> what is he?</p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>Some Proteſtant I warrant you, a Time-ſeruer,</l>
+               <l>As <hi>Fame</hi> her ſelfe is.</l>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>You are neere the right.</l>
+               <l>Indeed, he' is <hi>Time</hi> it ſelfe, and his name KRONOS.</l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>How! <hi>Saturne! Chronos,</hi> and the Time it ſelfe.</l>
+               <l>You' are found: inough. A notable old <hi>Pagan.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>One of their Gods, and eates vp his owne children.</p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>A Fencer, and do's trauaile with a ſith</l>
+               <l>in ſtead of a long-ſword.</l>
+            </sp>
+            <sp>
+               <speaker>EISE.</speaker>
+               <l>Hath bin oft call'd from it,</l>
+               <l>to be their Lord of miſrule.</l>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <l>As <hi>Cincinnatus</hi>
+               </l>
+               <pb facs="tcp:181107:4"/>
+               <l>Was, from the plough, to be <hi>Dictator.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <l>Yes.</l>
+               <l>Wee need no interpreter, on, what of <hi>Time?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>The <hi>Time</hi> hath ſent me with my trumpe to ſummon</l>
+               <l>All ſorts of perſons worthy, to the view</l>
+               <l>Of ſome great ſpectacle he meanes, to night,</l>
+               <l>To' exhibite, and with all ſolemnity.</l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>O, we ſhall haue his <hi>Saturnalia.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>His dayes of feaſt, and liberty agen.</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>Where men might do, and talke all that they liſt.</p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>Slaues of their lords.</p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>The ſeruants of their maſters.</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>And ſubiects of their Soucraigne.</p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>Not ſo lauiſh.</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>It was a braue time that.</p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <l>This will be better.</l>
+               <l>I ſpie it comming, peace, all the impoſtures,</l>
+               <l>The prodigies, diſeaſes, and diſtempers,</l>
+               <l>The knaueries of the <hi>Time,</hi> we ſhall ſee all now.</l>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <l>And heare the paſſages, and ſeuerall humors</l>
+               <l>Of men, as they are ſwayd by their affections:</l>
+               <l>Some grumbling, and ſome mutining, ſome ſcoffing,</l>
+               <l>Some pleas'd, ſome pyning, at all theſe we laughing.</l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>I haue it here, here, ſtrong, the ſweat of it,</l>
+               <l>And the confuſion (which I loue) I noſe it,</l>
+               <l>It tickles mee.</l>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>My foure eies itch for it.</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <l>And my eares tingle, would it would come forth:</l>
+               <l>This roome will not receaue it.</l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>That's the feare.</p>
+            </sp>
+            <stage>Enter <hi>CHRONO-MASTIX.</hi>
+            </stage>
+            <sp>
+               <speaker>CHRON.</speaker>
+               <p>What? what? my friends, will not this roome receaue?</p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>That which the <hi>Time</hi> is preſently to ſhew vs.</p>
+            </sp>
+            <sp>
+               <speaker>CHRO.</speaker>
+               <l>The <hi>Time?</hi> Lo I the man, that hate the time</l>
+               <pb facs="tcp:181107:4"/>
+               <l>That is, that loue it not; and (though in ryme,</l>
+               <l>I here doe ſpeake it) with this whipp you ſee,</l>
+               <l>Doe laſh the Time, and am my ſelfe laſh-free.</l>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>Who's this?</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>'Tis <hi>Chronomaſtix,</hi> the braue Satyre,</p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>The gentleman-like Satyre, cares for nobody,</l>
+               <l>His fore-head tip't with bayes, doe you not know him?</l>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <p>Yes <hi>Fame</hi> muſt know him, all the Towne admires him.</p>
+            </sp>
+            <sp>
+               <speaker>CHRO.</speaker>
+               <l>If you would ſee <hi>Time</hi> quake and ſhake, but name vs,</l>
+               <l>It is for that, we'are both belou'd, and famous.</l>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <p>We know, Sir: but the <hi>Time's</hi> now come about.</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>And promiſeth all liberty.</p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>Nay licence.</p>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <p>We ſhall doe what we liſt.</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>Talke what we liſt.</p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>And cenſure whom we liſt, and how we liſt.</p>
+            </sp>
+            <sp>
+               <speaker>CHRO.</speaker>
+               <l>Then I will looke on <hi>Time,</hi> and loue the ſame,</l>
+               <l>And drop my whip: who's this! my Miſtris! <hi>Fame!</hi>
+               </l>
+               <l>The Lady whom I honor, and adore!</l>
+               <l>What lucke had I not to ſee her before!</l>
+               <l>Pardon me, Madam, more then moſt accurſt,</l>
+               <l>That did not ſpie your Ladiſhip at firſt,</l>
+               <l>To' haue giu'n the ſtoop, and to ſalute the skirts</l>
+               <l>Of her, to whom all Ladies elſe are flirts!</l>
+               <l>It is for you, I reuell ſo in rime,</l>
+               <l>Deare Miſtris, not for hope I haue the <hi>Time</hi>
+               </l>
+               <l>Will growe the better by it. To ſerue <hi>Fame</hi>
+               </l>
+               <l>Is all my end, and get my ſelfe a name.</l>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>Away I know thee not, wretched Impoſtor,</l>
+               <l>Creature of glory, Mountebanke of witt,</l>
+               <l>Selfe-louing Braggart, <hi>Fame</hi> doth ſound no trumpett</l>
+               <l>To ſuch vaine, empty fooles: 'Tis infamy</l>
+               <l>Thou ſeru'ſt, and follow'ſt, ſcorne of all the <hi>Muſes,</hi>
+               </l>
+               <l>Goe reuell with thine ignorant admirers,</l>
+               <l>Let worthy names alone.</l>
+            </sp>
+            <sp>
+               <speaker>CHRO.</speaker>
+               <l>O, you the <hi>Curious,</hi>
+               </l>
+               <pb facs="tcp:181107:5"/>
+               <l>Breath you to ſee a paſſage ſo iniurious,</l>
+               <l>Done with deſpight, and carried with ſuch tumor</l>
+               <l>'Gainſt me, that am ſo much the freind of rumor?</l>
+               <l>(I would ſay <hi>Fame?</hi>) whoſe <hi>Muſe</hi> hath rid in rapture</l>
+               <l>On a ſoft ambling verſe to euery capture,</l>
+               <l>From the ſtrong guard, to the weake child that reads me,</l>
+               <l>And wonder both of him that loues, or dread's me!</l>
+               <l>Who with the laſh of my immortall pen</l>
+               <l>Haue ſcourg'd all ſorts of vices, and of men!</l>
+               <l>Am I rewarded, thus? haue I, I ſay,</l>
+               <l>From <hi>Enuies</hi> ſelfe torne praiſe, and bayes away,</l>
+               <l>With which my glorious front, and word at large,</l>
+               <l>Triumphs in print at my admirers charge.</l>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>Rare! how he talkes in verſe, iuſt as he writes!</p>
+            </sp>
+            <sp>
+               <speaker>CHRON.</speaker>
+               <l>When haue I walk't the ſtreetes, but happy he</l>
+               <l>That had the finger firſt to point at mee,</l>
+               <l>Prentice, or Iourneyman! The ſhop doth know it!</l>
+               <l>The vnletter'd Clarke! <hi>maior</hi> and <hi>minor</hi> Poet!</l>
+               <l>The Sempſter hath ſate ſtill as I paſs'd by,</l>
+               <l>And dropt her needle! Fiſhwiues ſtaid their cry!</l>
+               <l>The Boy with buttons, and the Basket wench</l>
+               <l>To vent their wares, into my workes do trench!</l>
+               <l>A pudding-wife, that would deſpiſe the Times,</l>
+               <l>Hath vtterd' frequent pen' worths, through my rimes,</l>
+               <l>And, with them, diu'd into the Chamber-maid,</l>
+               <l>And ſhee vnto her Lady hath convayd</l>
+               <l>The ſeaſond morſels, who hath ſent me penſions,</l>
+               <l>To cheriſh and to heighten my inuentions.</l>
+               <l>Well, <hi>Fame</hi> ſhall know it yet, I haue my faction,</l>
+               <l>And freinds about me, though it pleaſe detraction</l>
+               <l>To do me this affront. Come forth that loue me,</l>
+               <l>And now, or neuer, ſpite of <hi>Fame,</hi> approue me.</l>
+            </sp>
+            <pb facs="tcp:181107:5"/>
+            <stage>At this the Mutes come in, <hi>THE ANTIMASQVERS.</hi>
+            </stage>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>
+                  <hi>How now! what's here? Is hell broke looſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <l>
+                  <hi>You'l ſee.</hi>
+               </l>
+               <l>
+                  <hi>That he ha's fauourers,</hi> Fame, <hi>and great ones too,</hi>
+               </l>
+               <l>
+                  <hi>That vnctuous Bounty, is the Boffe of</hi> Belinſgate,</l>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>
+                  <hi>Who feaſts his</hi> Muſe <hi>with claret wine, and oyſters,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>Growes big with</hi> Satyr,</p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>
+                  <hi>Goes as long as an Elephant:</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <p>
+                  <hi>She labours, and lies in of his inuentions,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>
+                  <hi>Ha's a male</hi> poem <hi>in her belly now,</hi>
+               </l>
+               <l>
+                  <hi>Big as a colt,</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>
+                  <hi>That kicks at</hi> Time <hi>already,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <p>
+                  <hi>And is no ſooner foald, but will neigh ſulphure:</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>
+                  <hi>The next?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <l>
+                  <hi>A</hi> quondam <hi>Iuſtice, that of late</hi>
+               </l>
+               <l>
+                  <hi>Hath bin diſcarded out 'o the pack o'the peace,</hi>
+               </l>
+               <l>
+                  <hi>For ſome lewd leuitie he holds in</hi> capite,</l>
+               <l>
+                  <hi>But conſtantly loues him. In dayes of yore,</hi>
+               </l>
+               <l>
+                  <hi>He vs'd to giue the charge out of his</hi> poems,</l>
+               <l>
+                  <hi>He carries him about him, in his pocket,</hi>
+               </l>
+               <l>
+                  <hi>As</hi> Philip's <hi>Sonne did</hi> Homer, <hi>in a casket,</hi>
+               </l>
+               <l>
+                  <hi>And cries, O happy Man, to the wrong party,</hi>
+               </l>
+               <l>
+                  <hi>Meaning the</hi> Poet, <hi>where he meant the ſubiect:</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>
+                  <hi>What are this paire?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <p>
+                  <hi>The ragged raſcalls?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>
+                  <hi>Yes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <l>
+                  <hi>Meere rogues, you' world thinke'em rogues, but they are friends,</hi>
+               </l>
+               <l>
+                  <hi>One is his Printer in diſguiſe, and keepes</hi>
+               </l>
+               <l>
+                  <hi>His preſſe in a hollow tree, where to conceale him,</hi>
+               </l>
+               <l>
+                  <hi>He works by glow-worme light, the Moone's too open.</hi>
+               </l>
+               <l>
+                  <hi>The other zealous Ragg is the Compoſitor,</hi>
+               </l>
+               <l>
+                  <hi>Who in an angle, where the ants inhabite,</hi>
+               </l>
+               <pb facs="tcp:181107:6"/>
+               <l>
+                  <hi>(The Emblem's of his Labours) will ſit curl'd</hi>
+               </l>
+               <l>
+                  <hi>Whole dayes, and nights, and worke his eyes out for him.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>
+                  <hi>Strange arguments of loue! There is a Schoole maſter</hi>
+               </l>
+               <l>
+                  <hi>Is turning all his workes too, into</hi> Latine,</l>
+               <l>
+                  <hi>To pure Satyricke</hi> Latine; <hi>makes his Boyes</hi>
+               </l>
+               <l>
+                  <hi>To learne him; calls him the times</hi> Iuuenal;</l>
+               <l>
+                  <hi>Hangs all his Schoole with his ſharpe ſentences;</hi>
+               </l>
+               <l>
+                  <hi>And o're the Execution place hath painted</hi>
+               </l>
+               <l>Time <hi>whipt, for terror to the Infantery.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <l>
+                  <hi>This Man ofwarre i'the rere, He is both Trumpet</hi>
+               </l>
+               <l>
+                  <hi>And Champion to his</hi> Muſe.</l>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>
+                  <hi>For the whole City.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>
+                  <hi>Ha's him by roat, recites him at the tables,</hi>
+               </l>
+               <l>
+                  <hi>Where he doth gouern, ſweares him into name,</hi>
+               </l>
+               <l>
+                  <hi>Vpon his word, and ſword, for the ſole youth</hi>
+               </l>
+               <l>
+                  <hi>Dares make profeſsion of</hi> Poetick <hi>truth,</hi>
+               </l>
+               <l>
+                  <hi>Now militant amongſt vs. To th'incredulous,</hi>
+               </l>
+               <l>
+                  <hi>That dagger is an article he vſes,</hi>
+               </l>
+               <l>
+                  <hi>To riuet his reſpect into their pates,</hi>
+               </l>
+               <l>
+                  <hi>And make the<g ref="char:cmbAbbrStroke">̄</g> faithful,</hi> Fame, <hi>you'l find you' haue wro<g ref="char:cmbAbbrStroke">̄</g>gd him.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>
+                  <hi>What a confederacy of</hi> Folly <hi>is here.</hi>
+               </p>
+            </sp>
+            <stage>They all daunce but <hi>Fame,</hi> and make the first <hi>Antimaſque,</hi> In which they adore, and carry forth the <hi>Satyre,</hi> and the <hi>Curious</hi> come vp agen.</stage>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>
+                  <hi>Now</hi> Fame, <hi>how like you this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <l>
+                  <hi>This fals vpon you</hi>
+               </l>
+               <l>
+                  <hi>For your neglect.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>
+                  <hi>He ſcornes you, and defies you,</hi>
+               </l>
+               <l>
+                  <hi>H'as got a</hi> Fame <hi>on's owne, as well as a Faction.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>
+                  <hi>And this will deifie him, to deſpite you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>
+                  <hi>I enuy not the</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <hi>'Twill prooue but deifying of a pompion.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>Well, what is that the</hi> Time <hi>will now exhibite?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>
+                  <hi>What gambols? what deuiſes? what new ſports?</hi>
+               </p>
+            </sp>
+            <pb facs="tcp:181107:6"/>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>
+                  <hi>You promis'd vs, we ſhould haue any thing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>That Time would giue vs all we could imagine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>
+                  <hi>You might imagine ſo, I neuer promis'd it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <l>
+                  <hi>Pox, then 'tis nothing. I had now a fancy</hi>
+               </l>
+               <l>
+                  <hi>We might haue talk'd o' the King.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EARSE.</speaker>
+               <p>
+                  <hi>Or State.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>Or all the World.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>
+                  <hi>Cenſur'd the Counſell, e're they cenſure vs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>
+                  <hi>We do it in</hi> Paules.</p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>Yes, and in all the tauernes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>
+                  <hi>A comely licence. They that cenſure thoſe</hi>
+               </l>
+               <l>
+                  <hi>They ought to reuerence, meete they that old curſe,</hi>
+               </l>
+               <l>
+                  <hi>To beg their bread, and feele eternall winter.</hi>
+               </l>
+               <l>
+                  <hi>Ther's difference 'twixt liberty, and licence.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>
+                  <hi>Why if it be not that, let it be this then</hi>
+               </l>
+               <l>
+                  <hi>(For ſince you graunt vs freedome, we will hold it,)</hi>
+               </l>
+               <l>
+                  <hi>Let's haue the giddy world turn'd the heeles vpward,</hi>
+               </l>
+               <l>
+                  <hi>And ſing a rare black</hi> Sanctus, <hi>on his head,</hi>
+               </l>
+               <l>
+                  <hi>Of all things out of order.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <l>
+                  <hi>No, the Man</hi>
+               </l>
+               <l>
+                  <hi>I' the moone dance a</hi> Corranto, <hi>his buſh</hi>
+               </l>
+               <l>
+                  <hi>At's back, a fire; and his dog piping</hi> Lachrimae.</l>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <l>
+                  <hi>Or let's haue all the people in an vprore,</hi>
+               </l>
+               <l>
+                  <hi>None knowing, why, or to what end: and in</hi>
+               </l>
+               <l>
+                  <hi>The mid'ſt of all, ſtart vp an old mad woman</hi>
+               </l>
+               <l>
+                  <hi>Preaching of patience.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>No, no, I'ld ha' this-</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>
+                  <hi>What?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>
+                  <hi>Any thing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <l>
+                  <hi>That could be monſtrous:</hi>
+               </l>
+               <l>
+                  <hi>Inough, I meane. A</hi> Babel <hi>of wild humors.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>
+                  <hi>I, all diſputing of all things they know not,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>
+                  <hi>And talking of all men they neuer heard of,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>
+                  <hi>And all together by the eares o' the ſuddaine,</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <l>
+                  <hi>And, when the matter is at hotteſt, then</hi>
+               </l>
+               <l>
+                  <hi>All fall a ſleepe.</hi>
+               </l>
+            </sp>
+            <pb facs="tcp:181107:7"/>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>
+                  <hi>Agree among your ſelues,</hi>
+               </l>
+               <l>
+                  <hi>And what it is youl'd haue, I'le anſwer you.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EIES.</speaker>
+               <p>
+                  <hi>O, that wee ſhall neuer doe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EARES.</speaker>
+               <p>
+                  <hi>No, neuer agree.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>Not vpon what. Something that is vnlawfull.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EARES</speaker>
+               <p>
+                  <hi>I, or vnreaſonable.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EIES</speaker>
+               <p>
+                  <hi>Or impoſſible.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>Let 't be vnciuill inough, you hit vs right.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EARES</speaker>
+               <p>
+                  <hi>And a great noyſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <p>
+                  <hi>To little, or no purpoſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>And if there be ſome miſchief, 'twill become it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <p>
+                  <hi>But ſee, there be no cauſe, as you will anſwer it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>
+                  <hi>Theſe are meere Monſters.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>NOSE.</speaker>
+               <p>
+                  <hi>I, all the better.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>
+                  <hi>You doe abuſe the</hi> Time, <hi>theſe are fit freedomes</hi>
+               </l>
+               <l>
+                  <hi>For lawleſſe prentices, on a Shrouetueſday,</hi>
+               </l>
+               <l>
+                  <hi>When they compell the</hi> Time <hi>to ſerue their riot:</hi>
+               </l>
+               <l>
+                  <hi>For drunken Wakes, and ſtrutting Beare-baytings,</hi>
+               </l>
+               <l>
+                  <hi>That ſauor only of their owne abuſes.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>EYES.</speaker>
+               <p>
+                  <hi>Why, if not thoſe, then ſomething to make ſport.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>EARES</speaker>
+               <p>
+                  <hi>Wee only hunt for nouelty, not truth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>FAME.</speaker>
+               <p>
+                  <hi>I'le fit you, though the</hi> Time <hi>faintly permit it.</hi>
+               </p>
+            </sp>
+            <stage>The ſecond <hi>Antimaſque</hi> of Tumblers, and Iuglers, who a<g ref="char:EOLhyphen"/>buſe the Curious, and driue them away: led in by the Cat and fiddle.</stage>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>
+                  <hi>Why now they are kindly vs'd, like ſuch Spectators,</hi>
+               </l>
+               <l>
+                  <hi>That know not what they would haue. Commonly,</hi>
+               </l>
+               <l>
+                  <hi>The Curious are ill natur'd, and like flies,</hi>
+               </l>
+               <l>
+                  <hi>Seeke</hi> Times <hi>corrupted part to blow vpon:</hi>
+               </l>
+               <l>
+                  <hi>But may the ſound ones liue with fame, and honour,</hi>
+               </l>
+               <l>
+                  <hi>Free from the moleſtation of theſe Inſects,</hi>
+               </l>
+               <l>
+                  <hi>Who being fled,</hi> Fame <hi>now purſues her errand.</hi>
+               </l>
+            </sp>
+            <pb facs="tcp:181107:7"/>
+            <stage>
+               <hi>Loud MVSIQVE.</hi> To which the whole Scene opens, where <hi>Saturne</hi> ſitting with <hi>Venus</hi> is diſcouer'd aboue, and certaine <hi>Votaries</hi> com<g ref="char:EOLhyphen"/>ming forth below, which are the <hi>Chorus.</hi>
+            </stage>
+            <sp>
+               <speaker>FAME.</speaker>
+               <l>
+                  <hi>For you, great King, to whom the</hi> Time <hi>doth owe</hi>
+               </l>
+               <l>
+                  <hi>All his reſpects, and reuerence, behold</hi>
+               </l>
+               <l>
+                  <hi>How</hi> Saturne, <hi>vrged at requeſt of</hi> Loue,</l>
+               <l>
+                  <hi>Prepares the obiect to the place to night.</hi>
+               </l>
+               <l>
+                  <hi>Within yon'd darkeneſſe,</hi> Venus <hi>bath found out</hi>
+               </l>
+               <l>
+                  <hi>That</hi> Hecate <hi>(as ſhe is Queene of ſhades)</hi>
+               </l>
+               <l>
+                  <hi>Keepes certaine glories of the</hi> Time <hi>obſcur'd,</hi>
+               </l>
+               <l>
+                  <hi>There, for her ſelfe alone to gaze vpon,</hi>
+               </l>
+               <l>
+                  <hi>As ſhe did once the faire</hi> Endimion.</l>
+               <l>
+                  <hi>Theſe,</hi> Time <hi>hath promis'd at</hi> Loues <hi>ſuit to free,</hi>
+               </l>
+               <l>
+                  <hi>As being fitter to adorne the age,</hi>
+               </l>
+               <l>
+                  <hi>By you reſtor'd on earth, moſt like his owne:</hi>
+               </l>
+               <l>
+                  <hi>And fill this world of beautie here, your Court.</hi>
+               </l>
+               <l>
+                  <hi>To which his bounty, ſee, how men prepare</hi>
+               </l>
+               <l>
+                  <hi>To fit their votes below, and thronging come</hi>
+               </l>
+               <l>
+                  <hi>With longing paſſion to enioy th' effect!</hi>
+               </l>
+               <l>
+                  <hi>Harke, it is</hi> Loue <hi>begins to</hi> Time. <hi>Expect.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>VENVS.</speaker>
+               <l>Beſide, that it is done for Loue,</l>
+               <l>It is a worke, great Time, will proue</l>
+               <l>Thy honor, as mens hopes aboue.</l>
+            </sp>
+            <sp>
+               <speaker>SATVRNE.</speaker>
+               <l>If Loue be pleaſed, ſo am I:</l>
+               <l>For Time could neuer yet deny</l>
+               <l>What Loue did aske, if Loue knew why.</l>
+            </sp>
+            <pb facs="tcp:181107:8"/>
+            <sp>
+               <speaker>VOTARIES.</speaker>
+               <l>She knew, and hath exprest it now,</l>
+               <l>And ſo doth euery publike vow</l>
+               <l>That heard her why, and waites thy how.</l>
+            </sp>
+            <sp>
+               <speaker>SATVRNE.</speaker>
+               <l>You ſhall not long expect; with eaſe</l>
+               <l>The things come foorth, are borne to pleaſe:</l>
+               <l>Looke, haue you ſeene ſuch lights as theſe?</l>
+            </sp>
+            <stage>The <hi>Maſquers</hi> are diſcourered, and that, which obſcur'd them, vaniſheth.</stage>
+            <sp>
+               <speaker>VOTARIES.</speaker>
+               <p>Theſe, Theſe muſt ſure ſome wonders be!</p>
+            </sp>
+            <sp>
+               <speaker>CHORVS.</speaker>
+               <l>O, what a glory 'tis to ſee</l>
+               <l>Mens wiſhes, Time, and Loue agree!</l>
+            </sp>
+            <stage>A pauſe.</stage>
+            <stage>There <hi>SATVRNE</hi> and <hi>VENVS</hi> paſſe away, and the <hi>Maſquers deſcend.</hi>
+            </stage>
+            <sp>
+               <speaker>CHORVS.</speaker>
+               <l>What griefe, or enuy had it beene,</l>
+               <l>That theſe, and ſuch had not bin ſeene,</l>
+               <l>but ſtill obſcur'd in ſhade!</l>
+               <l>Who are the glories of the Time,</l>
+               <l>Of youth, and feature too, the prime,</l>
+               <l>And for the light were made?</l>
+            </sp>
+            <sp>
+               <speaker>VOTARIES.</speaker>
+               <l n="1">
+                  <hi>1</hi> Their very number, how it takes!</l>
+               <l n="2">
+                  <hi>2</hi> What harmony their preſence makes!</l>
+               <l n="3">
+                  <hi>3</hi> How they inflame the place!</l>
+            </sp>
+            <sp>
+               <speaker>CHORVS.</speaker>
+               <l>Now they are neerer ſeene, and view'd;</l>
+               <l>For whom could Loue haue better ſued?</l>
+               <l>or Time haue done the grace?</l>
+            </sp>
+            <pb facs="tcp:181107:8"/>
+            <stage>Here to a loud Muſique, they march into their figure, and daunce their <hi>ENTRY,</hi> or firſt <hi>DAVNCE. After which.</hi>
+            </stage>
+            <sp>
+               <speaker>VENVS.</speaker>
+               <l>The night could not theſe glories miſſe,</l>
+               <l>Good Time, I hope, is ta'ne with this.</l>
+            </sp>
+            <sp>
+               <speaker>SATVRNE.</speaker>
+               <l>If Time were not, I' am ſure Loue is.</l>
+               <l>Betweene vs it ſhall be no ſtrife:</l>
+               <l>For now 'tis Loue, giues Time his life.</l>
+            </sp>
+            <sp>
+               <speaker>VOTARIES.</speaker>
+               <l>Let Time then ſo with Loue conſpire,</l>
+               <l>as ſtrait be ſent into the court</l>
+               <l>A little <hi>Cupid,</hi> arm'd with fire,</l>
+               <l>Attended by a iocund Sport,</l>
+               <l>To breed delight, and a deſire</l>
+               <l>of being delighted in the nobler ſort.</l>
+            </sp>
+            <sp>
+               <speaker>SATVRNE.</speaker>
+               <p>The wiſh is crown'd, as ſoone as made.</p>
+            </sp>
+            <sp>
+               <speaker>VOTARIES.</speaker>
+               <l>And <hi>CVPID</hi> conquers, e're he doth inuade.</l>
+               <l>His Victories of lighteſt trouble proue.</l>
+               <l>For there is neuer labour, where is Loue.</l>
+            </sp>
+            <stage>Then, followes the maine <hi>DAVNCE,</hi> which done, <hi>CVPID,</hi> with the <hi>SPORT,</hi> goes out.</stage>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <l>Take breath a while, yong Bloods, to bring</l>
+               <l>Your forces vp, whilst we goe ſing</l>
+               <l>Freſh charges, to the Beauties here.</l>
+            </sp>
+            <stage>To the Maſquers.</stage>
+            <sp>
+               <speaker>SPORT.</speaker>
+               <l>Or, if they charge you, doe not feare,</l>
+               <pb facs="tcp:181107:9"/>
+               <l>Though they be better arm'd then you:</l>
+               <l>It is but ſtanding the first view,</l>
+               <l>And then they yeeld.</l>
+            </sp>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <p>Or quit the field.</p>
+            </sp>
+            <sp>
+               <speaker>SPORT.</speaker>
+               <l>Nay, that they'l neuer doe,</l>
+               <l>They'l rather fall vpon the place</l>
+               <l>Then ſuffer ſuch diſgrace.</l>
+               <l>You are but Men at beſt, they ſay,</l>
+               <l>And they from thoſe ne're ran away.</l>
+            </sp>
+            <stage>Pauſe.</stage>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <stage>To the King.</stage>
+               <l>You, Sir, that are the Lord of Time,</l>
+               <l>Receiue it not as any crime</l>
+               <l>'Gainſt Maieſty, that Loue and Sport</l>
+               <l>To night haue entred in your Court.</l>
+            </sp>
+            <sp>
+               <speaker>SPORT.</speaker>
+               <l>Sir, doubt him more of ſome ſurpriſe</l>
+               <l>Vpon your ſelfe. He hath his eyes.</l>
+               <l>You are the nobleſt obiect here,</l>
+               <l>And 'tis for you alone I feare:</l>
+               <l>For here are Ladyes, that would giue</l>
+               <l>A braue reward, to make Loue liue</l>
+               <l>Well, all his life, for ſuch a draught.</l>
+               <l>And therefore, looke to euery ſhaft,</l>
+               <l>The Wag's a Deacon in his Craft.</l>
+            </sp>
+            <stage>Pauſe.</stage>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <stage>To the Lords.</stage>
+               <l>My Lords, the Honors of the Crowne,</l>
+               <l>Put off your ſowreneſſe, do not frowne,</l>
+               <l>Bid cares depart, and buſineſſe hence:</l>
+               <l>A little, for the Time diſpence.</l>
+            </sp>
+            <sp>
+               <speaker>SPORT.</speaker>
+               <l>Truſt nothing that the Boy lets fall,</l>
+               <l>My Lords, he hath plots vpon you all.</l>
+               <l>A penſioner vnto your wiues,</l>
+               <l>To keepe you in vxorious giues,</l>
+               <pb facs="tcp:181107:9"/>
+               <l>And ſo your ſenſe to faſcinate,</l>
+               <l>To make you quit all thought of ſtate,</l>
+               <l>His amorous queſtious to debate.</l>
+               <l>But, heare his Logicke, he will proue</l>
+               <l>There is no buſines, but to be in loue.</l>
+            </sp>
+            <stage>Pauſe</stage>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <l>The words of <hi>Sport,</hi> my Lords, and courſe.</l>
+               <stage>Pauſe</stage>
+               <l>Your Ladies yet, will not thinke worſe</l>
+               <stage>To the Ladies.</stage>
+               <l>Of loue for this,, They ſhall command</l>
+               <l>My Bowe, my Quiuer, and my Hand.</l>
+            </sp>
+            <sp>
+               <speaker>SPORT.</speaker>
+               <l>What, here to ſtand</l>
+               <l>and kill the Flies?</l>
+               <l>Alas, thy ſeruice they deſpiſe.</l>
+               <l>One Beauty here, hath in her eyes,</l>
+               <l>More ſhafts then from thy bow ere flew,</l>
+               <l>Or that poore quiuer knew.</l>
+               <l>Theſe Dames</l>
+               <l>They need not Loue's, they 'haue Natures flames.</l>
+            </sp>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <p>I ſee that Beauty, that you ſo report.</p>
+            </sp>
+            <sp>
+               <speaker>SPORT.</speaker>
+               <l>
+                  <hi>Cupid,</hi> you muſt not point in Court,</l>
+               <l>Where liue ſo many of a ſort.</l>
+               <l>Of Harmony theſe learn'd their ſpeech,</l>
+               <l>The Graces did them footing teach,</l>
+               <l>And, at the old <hi>Idalian</hi> bralls,</l>
+               <l>They daunc'd your Mother downe, ſhee calls.</l>
+            </sp>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <p>Arme, arme then all.</p>
+            </sp>
+            <sp>
+               <speaker>SPORT.</speaker>
+               <l>Young Bloods come on,</l>
+               <l>And charge: Let euery Man take one.</l>
+            </sp>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <p>And try his fate.</p>
+            </sp>
+            <pb facs="tcp:181107:10"/>
+            <sp>
+               <speaker>SPORT.</speaker>
+               <l>Theſe are faire warres,</l>
+               <l>And will be carried without ſcarres.</l>
+            </sp>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <l>A ioyning, but of feet, and hands,</l>
+               <l>Is all the Time, and Loue commands.</l>
+            </sp>
+            <sp>
+               <speaker>SPORT.</speaker>
+               <l>Or if you doe their gloues off strip,</l>
+               <l>Or tast the nectar of the lip:</l>
+               <l>See, ſo you temper your deſires,</l>
+               <l>For kiſſes, that yee ſucke not fires.</l>
+            </sp>
+            <stage>The <hi>REVELS</hi> follow, which ended, the <hi>CHORVS</hi> appeare agen, and <hi>DIANA</hi> deſcends to <hi>HIPPOLITVS.</hi>
+            </stage>
+            <sp>
+               <speaker>CHORVS.</speaker>
+               <l>The Courtly ſtrife is done, it ſhould appeare,</l>
+               <l>Betweene the Youths, and Beauties of the yeare,</l>
+               <l>We hope that now theſe lights will know their ſphere,</l>
+               <l>And ſtriue hereafter to ſhine euer here:</l>
+               <l>Like brightest Planets, ſtill to mooue</l>
+               <l>In th'eye of Time, and orbes of Loue.</l>
+            </sp>
+            <sp>
+               <speaker>DIANA.</speaker>
+               <p>Hippolitus, Hippolitus.</p>
+            </sp>
+            <sp>
+               <speaker>HIPPOLITVS.</speaker>
+               <p>Diana?</p>
+            </sp>
+            <sp>
+               <speaker>DIANA.</speaker>
+               <l>Shee.</l>
+               <l>Be ready you, or <hi>CEPHALVS,</hi>
+               </l>
+               <l>To waite on me.</l>
+            </sp>
+            <sp>
+               <speaker>HIPPOLTVS.</speaker>
+               <p>Wee euer bee.</p>
+            </sp>
+            <sp>
+               <speaker>DIANA.</speaker>
+               <l>Your Goddeſſe hath bin wrong'd to night,</l>
+               <pb facs="tcp:181107:10"/>
+               <l>By Loues report vnto the Time.</l>
+            </sp>
+            <sp>
+               <speaker>HIPPOLITVS.</speaker>
+               <l>The iniury it ſelfe will right</l>
+               <l>Which only Fame hath made a crime.</l>
+               <l>For Time is wiſe,</l>
+               <l>And hath his eares as perfect as his eyes.</l>
+            </sp>
+            <sp>
+               <speaker>SATVRNE.</speaker>
+               <p>Who's that deſcends? <hi>Diana?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VOTARIES.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>VENVS.</speaker>
+               <p>By like her troope ſhe hath begun to miſſe.</p>
+            </sp>
+            <sp>
+               <speaker>SATVRNE.</speaker>
+               <p>Let's meet, and queſtion what her errand is.</p>
+            </sp>
+            <sp>
+               <speaker>HIPPOLITVS.</speaker>
+               <l>Shee will preuent thee, <hi>Saturne,</hi> not t' excuſe</l>
+               <l>Her-ſelfe vnto thee, rather to complaine</l>
+               <l>That thou and <hi>Venus</hi> both ſhould ſo abuſe</l>
+               <l>The name of <hi>Dian,</hi> as to entertayne</l>
+               <l>A thought, that ſhe had purpoſe to defraud</l>
+               <l>The Time, of any glories that were his:</l>
+               <l>To do Time honour rather, and applaud</l>
+               <l>His worth, hath bin her ſtudy,</l>
+            </sp>
+            <sp>
+               <speaker>DIANA.</speaker>
+               <l>And it is.</l>
+               <l>I call'd theſe youth's forth, in their blood, and prime,</l>
+               <l>Out of the honor, that I bore their parts;</l>
+               <l>To make them fitter ſo to ſerue the Time</l>
+               <l>By labour, riding, and thoſe ancient arts,</l>
+               <l>That firſt enabled men vnto the warres,</l>
+               <l>And furniſh'd Heauen with ſo many Starres:</l>
+            </sp>
+            <sp>
+               <speaker>HIPPOLITVS.</speaker>
+               <l>As <hi>Perſeus, Caſtor, Pollux,</hi> and the reſt,</l>
+               <l>Who were of Hunters firſt, of Men the beſt,</l>
+               <l>Whoſe ſhades do yet remayne within yond' groues,</l>
+               <l>Themſelues there ſporting with their nobler loues:</l>
+            </sp>
+            <pb facs="tcp:181107:11"/>
+            <sp>
+               <speaker>DIANA.</speaker>
+               <p>And ſo may theſe doe, if the Time giue leane.</p>
+            </sp>
+            <sp>
+               <speaker>SATVRNE.</speaker>
+               <l>Chaſt <hi>Dians</hi> purpoſe we do now conceaue,</l>
+               <l>And yeeld thereto.</l>
+            </sp>
+            <sp>
+               <speaker>VENVS.</speaker>
+               <p>And ſo doth Loue.</p>
+            </sp>
+            <sp>
+               <speaker>VOTARIES.</speaker>
+               <p>All votes do in one circle moue.</p>
+            </sp>
+            <sp>
+               <speaker>CHORVS.</speaker>
+               <l>Turne Hunters then,</l>
+               <l>agen.</l>
+               <l>Hunting, it is the nobleſt exerciſe,</l>
+               <l>Makes men laborious, actiue, wiſe,</l>
+               <l>Brings health, and doth the ſpirits delight,</l>
+               <l>It help's the hearing, and the ſight:</l>
+               <l>It teacheth Arts that neuer ſlip</l>
+               <l>The memory, good Horſmanſhip,</l>
+               <l>Search, ſharpnes, courage, and defence,</l>
+               <l>And chaſeth all ill habits thence.</l>
+               <l>Turne Hunters then,</l>
+               <l>agen,</l>
+               <l>But not of Men.</l>
+               <l>Follow his ample,</l>
+               <l>And iuſt example,</l>
+               <l>That hates all chace of malice, and of blood:</l>
+               <l>And ſtudies only wayes of good,</l>
+               <l>To keepe ſoft peace in breath.</l>
+               <l>Man ſhould not hunt Mankind to death,</l>
+               <l>But ſtrike the enemyes of Man;</l>
+               <l>Kill vices if you can:</l>
+               <l>They are your wildeſt beasts,</l>
+               <l>And when they thickest fall, you make the Gods true feasts:</l>
+            </sp>
+            <trailer>The end.</trailer>
+            <pb facs="tcp:181107:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>

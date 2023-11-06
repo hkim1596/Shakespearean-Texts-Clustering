@@ -1,0 +1,717 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cruelty of the Spaniards in Peru. Exprest by instrumentall and vocall musick, and by art of perspective in scenes, &amp;c. Represented daily at the Cockpit in Drury-Lane, at three after noone punctually.</title>
+            <author>D'Avenant, William, Sir, 1606-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81963</idno>
+            <idno type="STC">Wing D321</idno>
+            <idno type="STC">Thomason E756_22</idno>
+            <idno type="STC">ESTC R202044</idno>
+            <idno type="EEBO-CITATION">99862467</idno>
+            <idno type="PROQUEST">99862467</idno>
+            <idno type="VID">114627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114627)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 116:E756[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cruelty of the Spaniards in Peru. Exprest by instrumentall and vocall musick, and by art of perspective in scenes, &amp;c. Represented daily at the Cockpit in Drury-Lane, at three after noone punctually.</title>
+                  <author>D'Avenant, William, Sir, 1606-1668.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Herringman, and are to be sold at his shop at the Anchor in the Lower walk in the New Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The 'Frontispiece' described on Sig A2, sometimes noted as lacking by bibliographers, is not an engraved frontispiece but merely the painted back-drop used on the stage"--Pforzheimer Catalogue.</note>
+                  <note>Annotation on Thomason copy: "July 25:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Colonization --  Peru --  Early works to 1800.</term>
+               <term>Spain --  Colonies --  America --  Early works to 1800.</term>
+               <term>Peru --  History --  1548-1820.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114627:1" rendition="simple:additions"/>
+            <p>The Cruelty of the SPANIARDS IN PERU.</p>
+            <p>Expreſt by Inſtrumentall and Vocall Muſick, and by Art of Perſpective in Scenes, &amp;c.</p>
+            <p>Repreſented daily at the <hi>Cockpit</hi> in <hi>DRURY-LANE,</hi> At Three after noone punctually.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Herriagman,</hi> and are to be ſold at his Shop at the <hi>Anchor</hi> in the Lower walk in the <hi>New Exchange.</hi> 1658.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:114627:2"/>
+            <head>The deſcription of the FRONTISPIECE.</head>
+            <p>AN Arch is diſcern'd rais'd upon ſtone of Ruſtick work; upon the top of which is written, in an Antique Shield, <hi>PERU;</hi> and two Antique Shields are fix't a little lower on the ſides, the one bearing the Figure of the <hi>Sun,</hi> which was the Scutchion of the <hi>Incas,</hi> who were Emperors of <hi>Peru:</hi> The other did bear the Spread-Eagle, in ſignification of the Auſtrian Family. The deſigne of the Frontiſpiece, is, by way of preparation, to give ſome notice of that Argument which is purſu'd in the Scene.</p>
+         </div>
+         <div type="argument">
+            <head>The Argument of the whole Deſigne, conſiſting of ſix <hi>ENTRIES.</hi>
+            </head>
+            <p>THe Deſigne is firſt to repreſent the happy condition of the People of <hi>Peru</hi> antiently, when their inclinations were govern'd by Na<g ref="char:EOLhyphen"/>ture;
+<pb facs="tcp:114627:3"/>and then it makes ſome diſcov'ry of their eſtabliſhment under the Twelve <hi>Incas,</hi> and of the diſſentions of the two Sons of the laſt <hi>Inca.</hi> Then proceeds to the diſcov'ry of that new We<g ref="char:EOLhyphen"/>stern World by the Spaniard, which happen'd to be during the diſſention of the two Royall Brethren. It likewiſe proceeds to the Spaniards Conqueſt of that <hi>Incan</hi> Empire, and then diſco<g ref="char:EOLhyphen"/>vers the cruelty of the Spaniards over the Indi<g ref="char:EOLhyphen"/>ans, and over all Chriſtians (excepting thoſe of their own Nation) who landing in thoſe Parts, came unhappily into their power. And towards the concluſion, it infers the Voyages of the Engliſh thither, and the amity of the Na<g ref="char:EOLhyphen"/>tives towards them, under whoſe Enſignes (en<g ref="char:EOLhyphen"/>courag'd by a Prophecy of their chief Prieſt) they hope to be made Victorious, and to be freed from the Yoke of the Spaniard.</p>
+         </div>
+      </front>
+      <body>
+         <div type="masque__operatic_tableaux">
+            <pb facs="tcp:114627:3"/>
+            <head>The Cruelty of the SPANIARDS IN PERU.</head>
+            <div n="1" type="entry">
+               <head>
+                  <hi rend="stage">The Curtain is drawn up.</hi>
+                  <hi>The Firſt</hi> ENTRY.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Audience are entertain'd by Inſtrumentall Muſick and a Symphany (being a wild Ayre ſutable to the Region) which having prepar'd the Scene, a Lantdchap of the Weſt-<hi>Indies</hi> is diſcern'd; diſtinguiſht from other Regi<g ref="char:EOLhyphen"/>ons by the parcht and bare Tops of di<g ref="char:EOLhyphen"/>ſtant Hills, by Sands ſhining on the ſhores of Rivers, and the Natives, in fea<g ref="char:EOLhyphen"/>ther'd Habits and Bonnets, carrying, in In<g ref="char:EOLhyphen"/>dian Baskets, Ingots of Gold and Wedges of Silver. Some of the Natives being like<g ref="char:EOLhyphen"/>wiſe
+<pb n="2" facs="tcp:114627:4"/>diſcern'd in their natural ſports of Hun<g ref="char:EOLhyphen"/>ting and Fiſhing. This proſpect is made through a wood, differing from thoſe of <hi>Eu<g ref="char:EOLhyphen"/>ropean</hi> Climats by repreſenting of <hi>Coco-Trees, Pines</hi> and <hi>Palmitos;</hi> and on the boughs of other Trees are ſeen <hi>Munkies, Apes</hi> and <hi>Parrots;</hi> and at farther diſtance Vallies of <hi>Sugar-Canes.</hi>
+               </p>
+               <p>The Symphay being ended: The chief Prieſt of <hi>Peru</hi> enters with his Attendant after him. The Prieſt is cloth'd in a Gar<g ref="char:EOLhyphen"/>ment of Feathers longer then any of thoſe that are worne by other Natives, with a Bonnet whoſe ornament of Plumes does likewiſe give him a diſtinction from the reſt, and carryes in his hand a guilded Verge. He likewiſe, becauſe the Peruvians were worſhipers of the Sun, carryes the Figure of the Sun on his Bonnet and Breaſt.</p>
+            </div>
+            <div n="1" type="speech">
+               <pb n="3" facs="tcp:114627:4"/>
+               <head>
+                  <hi>The Firſt Speech, Spoken by the Prieſt of the Sun:</hi> 
+               </head>
+               <argument>
+                  <p>Taking a ſhort view of their condition, before the Royall Family of the <hi>Incas</hi> taught them to live together in Multitudes, under Lawes, and made them by Arms reduce many other Nations.</p>
+               </argument>
+               <lg>
+                  <l>THus freſh did Nature in our world appear,</l>
+                  <l>When firſt her Roſes did their leaves unfold:</l>
+                  <l>E're ſhe did uſe Art's Colours, and e're fear</l>
+                  <l>Had made her pale, or ſhe with cares lookt old.</l>
+                  <l>When various ſports did Man's lov'd freedom ſhow,</l>
+                  <l>And ſtill the free were willing to obey;</l>
+                  <l>Youth did to Age, and Sons to Parents bow.</l>
+                  <l>Parents and Age firſt taught the Lawes of ſway.</l>
+                  <l>When yet we no juſt motive had to fear</l>
+                  <l>Our bolder <hi>Incas</hi> would by Arms be rais'd;</l>
+                  <l>When, temp'rately, they ſtill contented were,</l>
+                  <l>As great Examples, to be onely prais'd.</l>
+                  <l>When none for being ſtrong did ſeek reward,</l>
+                  <l>Nor any for the ſpace of Empire ſtrove:</l>
+                  <l>When Valour courted Peace and never car'd</l>
+                  <l>For any recompence, but publique love.</l>
+                  <l>We fetter'd none, nor were by any bound;</l>
+                  <l>None follow'd Gold through Lab'rynths of the Mine:</l>
+                  <pb n="4" facs="tcp:114627:5"/>
+                  <l>And that which we on Strands of Rivers found,</l>
+                  <l>Did onely on our Prieſts in Temples ſhine.</l>
+                  <l>Then with his Verge, each Prieſt</l>
+                  <l>Could, like an Exorciſt,</l>
+                  <l>The coldeſt of his Students warm,</l>
+                  <l>And thus provoke them with a Charm.</l>
+               </lg>
+               <p>The Speech being ended, the Prieſt waves his Verge, and his Attendant, with extraordinary Acti<g ref="char:EOLhyphen"/>vity, performs the <hi>Somerſet:</hi> and afterwards, wa<g ref="char:EOLhyphen"/>ving his Verge towards the Room where the Mu<g ref="char:EOLhyphen"/>ſick are plac'd behind the Curtain, this Song is ſung.</p>
+            </div>
+            <div n="1" type="song">
+               <head>The Firſt Song.</head>
+               <argument>
+                  <p>In purſuance of the manner of their Life, before their <hi>Incas</hi> brought them to live in Cities, and to build Forts.</p>
+               </argument>
+               <lg>
+                  <head>1.</head>
+                  <l>VVHilſt yet our world was new,</l>
+                  <l>When not diſcover'd by the old;</l>
+                  <l>E're begger'd Slaves we grew,</l>
+                  <l>For having Silver Hills, and Strands of Gold.</l>
+               </lg>
+               <pb n="5" facs="tcp:114627:5"/>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <lg>
+                     <l>We danc'd and we ſung,</l>
+                     <l>And lookt ever young,</l>
+                     <l>And from reſtraints were free,</l>
+                     <l>As waves and winds at Sea.</l>
+                  </lg>
+               </sp>
+               <lg>
+                  <head>2.</head>
+                  <l>When wildly we did live,</l>
+                  <l>E're crafty Cities made us tame:</l>
+                  <l>When each his whole would give</l>
+                  <l>To all, and none peculiar right did claim.</l>
+               </lg>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <lg>
+                     <l>We danc'd and we ſung,</l>
+                     <l>&amp;c.</l>
+                  </lg>
+               </sp>
+               <lg>
+                  <head>3.</head>
+                  <l>When none did riches wiſh,</l>
+                  <l>And none were rich by bus'neſs made;</l>
+                  <l>When all did Hunt or Fiſh,</l>
+                  <l>And ſport was all our labour and our trade.</l>
+               </lg>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <lg>
+                     <l>We danc'd and we ſung,</l>
+                     <l>&amp;c.</l>
+                  </lg>
+               </sp>
+               <lg>
+                  <head>4.</head>
+                  <l>When Forts were not devis'd,</l>
+                  <l>Nor Cittadils did Townes devour:</l>
+                  <l>When lowly ſheds ſuffic'd,</l>
+                  <l>Becauſe we fear'd the Weather more than Pow'r.</l>
+               </lg>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <lg>
+                     <l>We danc'd and we ſung,</l>
+                     <l>&amp;c.</l>
+                  </lg>
+               </sp>
+               <lg>
+                  <head>5.</head>
+                  <l>When Garments were not worn,</l>
+                  <l>Nor ſhame did nakedneſſe reſent:</l>
+                  <pb n="6" facs="tcp:114627:6"/>
+                  <l>Nor Poverty bred ſcorn:</l>
+                  <l>When none could want, and all were innocent.</l>
+               </lg>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <lg>
+                     <l>We danc'd and we ſung,</l>
+                     <l>&amp;c.</l>
+                  </lg>
+               </sp>
+               <p>After this Song, a Rope deſcends out of the Clowds, and is ſtretcht to a ſtifneſs by an Engine, whilſt a Ruſtick Ayre is play'd, to which two Apes from oppoſite ſides of the Wood come out, liſten, return; and, comming out again, begin to dance, then, after a while, one of them leaps up to the Rope, and there dances to the ſame Ayre, whilſt the other moves to his meaſures below Then both retire into the Wood. The Rope aſcends.</p>
+            </div>
+            <div n="2" type="entry">
+               <head>The Second Entry.</head>
+               <p>AN Alman and Corante are plai'd: af<g ref="char:EOLhyphen"/>ter which a Trumpet-Ayre changes the Scene; where a Fleet is diſcern'd at di<g ref="char:EOLhyphen"/>ſtance, with a proſpect of the Sea and Indian Coaſt; the Ships bearing in their Flags the Spread-Eagle, to denote the Au<g ref="char:EOLhyphen"/>ſtrian Family; and on the right ſide are ſeen ſome Natives of <hi>Peru,</hi> pointing with amaz<g ref="char:EOLhyphen"/>ment to the Fleet, (as never having had the
+<pb n="7" facs="tcp:114627:6"/>view of Ships before) and in a mourning condition take their leaves of their wives and children; becauſe of an antient Prophe<g ref="char:EOLhyphen"/>cy amongſt them, which did ſignifie, That a Bearded People (thoſe of <hi>Peru</hi> having ever held it uncomely to wear Beards) ſhould ſpring out of the Sea, and conquer them. The object having remained a while, the Prieſt of the Sun enters with his Atten<g ref="char:EOLhyphen"/>dant.</p>
+            </div>
+            <div n="2" type="speech">
+               <head>The Second Speech.</head>
+               <argument>
+                  <p>Deſcribing briefly the pleaſant lives of the <hi>In<g ref="char:EOLhyphen"/>cas</hi> till this ſeaſon of fulfilling that Prophecy, when a Bearded People ſhould come from the Sea to destroy them; and two of the Incan Family ruine that Empire, which twelve of the Emperours had erecte<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+               </argument>
+               <lg>
+                  <l>IN all the ſoft delights of ſleep and eaſe,</l>
+                  <l>Secure from War, in peacefull Palaces,</l>
+                  <l>Our <hi>Incas</hi> liv'd: but now I ſee their doom:</l>
+                  <l>Guided by winds, the Bearded People come!</l>
+                  <pb n="8" facs="tcp:114627:7"/>
+                  <l>And that dire Prophecy muſt be fulfill'd,</l>
+                  <l>When Two ſhall ruine what our Twelve did build.</l>
+                  <l>'Tis long ſince firſt the Sun's chief Prieſt foretold,</l>
+                  <l>That cruell men, Idolaters of Gold,</l>
+                  <l>Should paſs vaſt Seas to ſeek their Harbour here.</l>
+                  <l>Behold, in floating Caſtles they appear!</l>
+                  <l>Mine eyes are ſtruck! Away, away</l>
+                  <l>VVith gentle Love's delicious ſway!</l>
+                  <l>The <hi>Incas</hi> from their wives muſt fly!</l>
+                  <l>And ours may ſoon believe</l>
+                  <l>VVe mourn to ſee them grieve,</l>
+                  <l>But ſhall rejoyce to ſee them die.</l>
+                  <l>For they by dying ſafety gain:</l>
+                  <l>And when they quit,</l>
+                  <l>In Death's cold fit,</l>
+                  <l>Love's pleaſure, they ſhall loſe Life's pain.</l>
+               </lg>
+               <p>The Prieſt having wav'd his Verge, his Atten<g ref="char:EOLhyphen"/>dant performs the Trick of Activity, call'd the <hi>Sea-Horſe.</hi>
+               </p>
+            </div>
+            <div n="2" type="song">
+               <pb n="9" facs="tcp:114627:7"/>
+               <head>The Second Song.</head>
+               <argument>
+                  <p>Intimating their ſorrow for their future conditi<g ref="char:EOLhyphen"/>on, (according to the Prophecy) under their new Maſters the Spaniards.</p>
+               </argument>
+               <lg>
+                  <head>1.</head>
+                  <l>NO more, no more,</l>
+                  <l>Shall we drag to the Shore</l>
+                  <l>Our Nets at the Ebb of the Flood;</l>
+                  <l>Nor after we lay</l>
+                  <l>The toyles for our Prey,</l>
+                  <l>Shall we meet to compaſs the VVood.</l>
+                  <l>Nor with our Arrowes e're delight,</l>
+                  <l>To get renown</l>
+                  <l>By taking down</l>
+                  <l>The ſoaring Eagle in his flight.</l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>Make haſte! make haſte!</l>
+                  <l>You delights that are paſt!</l>
+                  <l>And do not to our thoughts appear:</l>
+                  <l>Leſt vainly we boaſt</l>
+                  <l>Of joyes we have loſt,</l>
+                  <l>And grieve to reckon what we were.</l>
+                  <l>The <hi>Incas</hi> glory now is gone!</l>
+                  <pb n="10" facs="tcp:114627:8"/>
+                  <l>Dark growes that light,</l>
+                  <l>Which chear'd our ſight,</l>
+                  <l>Set is their deity, the Sun.</l>
+               </lg>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <lg>
+                     <l>All creatures when they breed</l>
+                     <l>May then with ſafety feed:</l>
+                     <l>All ſhall have times for liberty but we.</l>
+                     <l>We, who their Maſters were,</l>
+                     <l>Muſt now ſuch Maſters fear,</l>
+                     <l>As will no ſeaſon give us to be free.</l>
+                  </lg>
+               </sp>
+               <p>This Song being ended, a dolfull Ayre is heard, which prepares the entrance of two Indians, in their feather'd habits of <hi>Peru;</hi> they enter ſeverally from the oppoſite ſides of the Wood, and gazing on the face of the Scene, fall into a Mimick Dance, in which they expreſs the Argument of the Proſpect, by their admiration at the ſight of the Ships, (which was to thoſe of <hi>Peru</hi> a new and wonderfull object) and their lamentation, at beholding their Country<g ref="char:EOLhyphen"/>men in deep affliction, and taking their leaves of their wives and children.</p>
+            </div>
+            <div n="3" type="entry">
+               <head>The Third Entry.</head>
+               <p>A Symphany, conſiſting of four Tunes, prepares the change of the Scene; the
+<pb n="11" facs="tcp:114627:8"/>proſpect conſiſting of plain <hi>Indian</hi> Coun<g ref="char:EOLhyphen"/>try, in which are diſcern'd at diſtance two <hi>Peruvian</hi> Armies marching, and ready to give Battel, being led by the two Royall Brethren, ſons of the laſt <hi>Inca,</hi> Arm'd with Bowes, Glaves, and Spears, and wearing Quivers on their backs. The object having continu'd a while, the Prieſt of the Sun en<g ref="char:EOLhyphen"/>ters with his Attendant.</p>
+            </div>
+            <div n="3" type="speech">
+               <head>The Third Speech.</head>
+               <argument>
+                  <p>
+                     <hi>Intimating the unhappy event of the love of the laſt</hi> Inca; <hi>for be (contrary to the cuſtome of all his Royall Anceſtors, who alwaies marry'd their own Siſters) had choſen to his ſecond Wife the beautifull Daughter of an inferiour Prince: his Priests and People having alwaies believ'd no blood, leſſe diſtant then that of his Siſters, worthy to mingle with his own for propagation of the Emperiall Race. This forraign Beauty ſo far prevail'd on his paſſion, that ſhe made him in his
+<pb n="12" facs="tcp:114627:9"/>age aſſigne a conſiderable part of his Dominion to a younger Son, his Anceſtors never having, during eleven Generations, divided their Empire. This Youth, growing ambitious after his fathers death, invaded his elder Brother at that unfortunate time when the Spaniards, purſuing their ſecond diſcovery of the Peruvian Coaſt, landed, and made a prodigious uſe of the diviſion of the two Bre<g ref="char:EOLhyphen"/>thren, by proving ſucceſsfull in giving their aſ<g ref="char:EOLhyphen"/>ſiſtance to the unjuſt cauſe of the Younger.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <l>HOw fatall did our <hi>Inca</hi>'s paſſion prove,</l>
+                  <l>Whilſt long made ſubject to a forraign love?</l>
+                  <l>Poor Lovers, who from Empire's arts are free,</l>
+                  <l>By nature may entirely guided be,</l>
+                  <l>They may retire to ſhady Cottages,</l>
+                  <l>And ſtudy there onely themſelves to pleaſe:</l>
+                  <l>For few conſider what they mean or do;</l>
+                  <l>But Nations are concern'd when Monarchs woe.</l>
+                  <l>And though our <hi>Inca</hi> by no Law was ty'd</l>
+                  <l>To love but one, yer could he not divide</l>
+                  <l>His publick Empire as his private Bed.</l>
+                  <l>In Thrones each is to whole Dominion bred.</l>
+                  <l>He blindly priz'd his younger ſon's deſert,</l>
+                  <l>Dividing Empire as he did his heart.</l>
+                  <l>And ſince his death, this made the Younger dare</l>
+                  <l>T'affront the Elder's Sov'raignty with war.</l>
+                  <pb n="13" facs="tcp:114627:9"/>
+                  <l>Ambition's monſtrous ſtomach does encreaſe</l>
+                  <l>By eating, and it fears to ſtarve, unleſſe</l>
+                  <l>It ſtill may feed, and all it ſees devour.</l>
+                  <l>Ambition is not tir'd with toyle, nor cloy'd with pow'r.</l>
+               </lg>
+               <p>This Speech being ended, the Prieſt waves his Verge, and his Attendant very activly performs the <hi>Spring;</hi> and they departing, this Third Song is ſung.</p>
+            </div>
+            <div n="3" type="song">
+               <head>The Third Song.</head>
+               <argument>
+                  <p>Which purſues the Argument of the Speech, and farther illuſtrates the many miſeries, which the Civill War between the two Royall Brethren produc'd.</p>
+               </argument>
+               <lg>
+                  <head>1.</head>
+                  <l>TVVelve <hi>Incas</hi> have ſucceſſivly</l>
+                  <l>Our ſpatious Empire ſway'd;</l>
+                  <l>VVhoſe power whilſt we obey'd,</l>
+                  <l>VVe liv'd ſo happy and ſo free,</l>
+                  <l>As if we were not kept in awe</l>
+                  <l>By any Law,</l>
+                  <l>VVhich martiall Kings aloud proclaim.</l>
+                  <l>Soft conſcience, Nature's whiſp'ring Oratour,</l>
+                  <l>Did teach us what to love or to abhor;</l>
+                  <l>And all our puniſhment was ſhame.</l>
+               </lg>
+               <pb n="14" facs="tcp:114627:10"/>
+               <lg>
+                  <head>2.</head>
+                  <l>Our late great <hi>Inca</hi> fatally,</l>
+                  <l>Did by a ſecond wife</l>
+                  <l>Eclipſe his ſhining life,</l>
+                  <l>VVhilſt reaſon did on love rely.</l>
+                  <l>Thoſe Rayes ſhe often turn'd and check't,</l>
+                  <l>VVhich with direct</l>
+                  <l>Full beams ſhould have adorn'd his known</l>
+                  <l>And firſt authoris'd Race: But Kings who move</l>
+                  <l>VVithin a lowly ſphear of private love,</l>
+                  <l>Are too domeſtick for a Throne.</l>
+               </lg>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <lg>
+                     <l>Now rigid VVar is come, and Peace is gone,</l>
+                     <l>Fear governs us, and jealouſie the Throne.</l>
+                     <l>Ambition hath our Chiefs poſſeſt:</l>
+                     <l>All now are wak't, all are alarm'd:</l>
+                     <l>The weary know not where to reſt,</l>
+                     <l>Nor dare the harmleſſe be unarm'd.</l>
+                  </lg>
+               </sp>
+               <p>After this Song a warlike Ayre is play'd, to which ſucceeds a martiall Dance, perform'd by four <hi>Pe<g ref="char:EOLhyphen"/>ruvians,</hi> arm'd with <hi>Glaves,</hi> who enter ſeverally from oppoſite ſides of the VVood, and expreſſe by their motions and geſtures the fury of that Civill VVar, which, by the ambition of the younger Bro<g ref="char:EOLhyphen"/>ther, has engag'd their Country; and then depart in purſuit of each other.</p>
+            </div>
+            <div n="4" type="entry">
+               <pb n="15" facs="tcp:114627:10"/>
+               <head>The Fourth Entry.</head>
+               <p>A Symphany conſiſting of four Tunes, prepares the change of the Scene, which repreſents a great <hi>Peruvian</hi> Army, put to flight by a ſmall Body of Spaniards. This object is produc'd in purſuance of the main Argument; for the Spaniards having firſt bred an amazment in the Natives, by the noiſe and fire of their Guns, and having afterwards ſubverted the Elder <hi>Inca</hi> by aſ<g ref="char:EOLhyphen"/>ſiſting the Younger; did in a ſhort time at<g ref="char:EOLhyphen"/>tain the Dominion over both by Conqueſt, The object of this Scene having remain'd a while, the Prieſt of the Sun enters with his Attendant.</p>
+            </div>
+            <div n="4" type="speech">
+               <pb n="16" facs="tcp:114627:11"/>
+               <head>
+                  <hi>The Fourth Speech.</hi> 
+               </head>
+               <argument>
+                  <p>Intimating the amazment of the Peruvians at the ſight of the Spaniards in Arms; the conſide<g ref="char:EOLhyphen"/>ration of the great diſtance of the Region from whence they came; for the ill effects of Armour worn by a People whom they never had offended, and of the ſecurity of innocence.</p>
+               </argument>
+               <lg>
+                  <l>VVHat dark and diſtant Region bred</l>
+                  <l>For war that bearded Race,</l>
+                  <l>Whoſe ev'ry uncouth face</l>
+                  <l>We more then Death's cold viſſage dread?</l>
+                  <l>They could not ſtill be guided by the Sun.</l>
+                  <l>Nor had they ev'ry night</l>
+                  <l>The Moon t'inform their ſight,</l>
+                  <l>How durſt they ſeek thoſe dangers which we ſhun?</l>
+                  <l>Sure they muſt more then mortall be,</l>
+                  <l>That did ſo little care</l>
+                  <l>For life, or elſe they are</l>
+                  <l>Surer of future life than we.</l>
+                  <l>But how they reaſons Lawes in life fulfill</l>
+                  <l>We know not; yet we know,</l>
+                  <l>That ſcorn of life is low,</l>
+                  <l>Compar'd to the diſdain of living ill.</l>
+                  <pb n="17" facs="tcp:114627:11"/>
+                  <l>And we may judge that all they do</l>
+                  <l>In life's whole ſcene is bad,</l>
+                  <l>Since they with Arms are clad</l>
+                  <l>Defenſive and Offenſive too.</l>
+                  <l>In Nature it is fear that makes us arme;</l>
+                  <l>And fear by guilt is bred:</l>
+                  <l>The guiltleſſe nothing dread,</l>
+                  <l>Defence of ſeeking, nor deſigning harm.</l>
+               </lg>
+               <p>The Prieſt of the Sun waves his Verge, and his Attendant performs the <hi>ſelf-Spring.</hi>
+               </p>
+            </div>
+            <div n="4" type="song">
+               <head>The Fourth Song.</head>
+               <argument>
+                  <p>Purſuing the Argument of the amazment and fear of the Natives, occaſion'd by the con<g ref="char:EOLhyphen"/>ſideration of the long Voyage of the Spa<g ref="char:EOLhyphen"/>niards to invade them.</p>
+               </argument>
+               <lg>
+                  <head>1.</head>
+                  <l>THoſe forraigne ſhapes ſo ſtrange appear,</l>
+                  <l>That wonderfull they ſeem:</l>
+                  <l>And ſtrangeneſſe breeds eſteem;</l>
+                  <l>And wonder doth engender fear:</l>
+                  <l>And from our fear does adoration riſe:</l>
+                  <pb n="18" facs="tcp:114627:12"/>
+                  <l>Elſe why do we encline</l>
+                  <l>To think them Pow'rs divine,</l>
+                  <l>And that we are ordain'd their ſacrifice<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <lg>
+                     <l n="1">1. When we our Arrowes draw,</l>
+                     <l>It is with dreadfull awe:</l>
+                     <l n="2">2. Moving towards them whom we are loth to meet,</l>
+                     <l n="3">3. As if we marcht to face our deſtiny:</l>
+                     <l n="4">4. Not truſting to our Arrowes but our feet,</l>
+                     <l>As if our bus'neſs were to fly, to fly!</l>
+                  </lg>
+                  <lg>
+                     <head>2.</head>
+                     <l>
+                        <note place="margin">
+                           <hi>All in Chorus.</hi>
+                        </note>We thought them more then human kind,</l>
+                     <l>That durſt adventure life</l>
+                     <l>Through the tempeſtuous ſtrife</l>
+                     <l>Of ſeas, and ev'ry raging wind.</l>
+                     <l>Through ſeas ſo wide, and for their depth ſo fear'd,</l>
+                     <l>That we by leaps as ſoon</l>
+                     <l>May reach th'aſcended Moon,</l>
+                     <l>As gueſſe through what vaſt dangers they have ſteer'd.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <l>When we our Arrowes draw, &amp;c.</l>
+               </sp>
+               <p>This Song being ended, a Sarabrand is plai'd, whilſt two Spaniards enter from the oppoſite ſides of the Scene, exactly cloth'd and arm'd according to the cuſtom of their Nation: and, to expreſs their triumph after the victory over the Natives, they ſo<g ref="char:EOLhyphen"/>lemnly uncloak and unarm themſelves to the Tune, and afterwards dance with Caſtanietos.</p>
+            </div>
+            <div n="5" type="entry">
+               <pb n="19" facs="tcp:114627:12"/>
+               <head>The Fifth Entry.</head>
+               <p>A Dolefull Pavin is plai'd to prepare the change of the Scene, which repre<g ref="char:EOLhyphen"/>ſents a dark Priſon at great diſtance; and farther to the view are diſcern'd Racks, and other Engines of torment, with which the Spaniards are tormenting the Natives and Engliſh Marriners, which may be ſuppos'd to be lately landed there to diſcover the Coaſt. Two Spaniards are likewiſe diſco<g ref="char:EOLhyphen"/>ver'd, ſitting in their cloakes, and appearing more ſolemn in Ruffs, with Rapiers and Daggers by their ſides; the one turning a Spit, whilſt the other is baſting an <hi>Indian</hi> Prince, which is roſted at an artificiall fire. This object having remain'd a while, the Prieſt of the Sun enters with his Attendant.</p>
+            </div>
+            <div n="5" type="speech">
+               <pb n="20" facs="tcp:114627:13"/>
+               <head>The Fifth Speech.</head>
+               <argument>
+                  <p>The horrour of the Natives, bred by the object of the diverſity of new torments devis'd by the Spaniards.</p>
+               </argument>
+               <lg>
+                  <l>THeſe ſtudy arts of length'ning languiſhment,</l>
+                  <l>And ſtrength'ning thoſe for pains whom pain hath ſpent.</l>
+                  <l>They make the Cramp, by waters drill'd, to ceiſe</l>
+                  <l>Men ready to expire,</l>
+                  <l>Baſte them with drops of fire,</l>
+                  <l>And then, they lay them on the Rack for eaſe.</l>
+               </lg>
+               <lg>
+                  <l>VVhat Race is this, who for our puniſhment</l>
+                  <l>Pretend that they in haſte from Heav'n were ſent,</l>
+                  <l>As juſt deſtroyers of Idolatry?</l>
+                  <l>Yet will they not permit</l>
+                  <l>We ſhould our Idolls quit,</l>
+                  <l>Becauſe the Chriſtian Lawe makes Converts free.</l>
+               </lg>
+               <lg>
+                  <l>Or if, to pleaſe their Prieſts, ſome Chief permits</l>
+                  <l>A few of us to be their Proſelytes;</l>
+                  <l>Yet all our freedom then is but deceit.</l>
+                  <pb n="21" facs="tcp:114627:13"/>
+                  <l>They eaſe us from our Chains</l>
+                  <l>To make us take more pains,</l>
+                  <l>Light'ning our legs to give our ſhoulders weight.</l>
+               </lg>
+               <lg>
+                  <l>And other Chriſtian ſtrangers landing here,</l>
+                  <l>Strait, to their jealous ſight, as ſpies appear:</l>
+                  <l>And thoſe, they ſo much worſe then Heathens deem,</l>
+                  <l>That they muſt tortur'd die.</l>
+                  <l>The world ſtill waſte muſt lye,</l>
+                  <l>Or elſe a priſon be to all but them.</l>
+               </lg>
+               <p>His speech being ended, he waves his Verge, and his Attendant performs the <hi>Porpoiſe.</hi>
+               </p>
+            </div>
+            <div n="5" type="song">
+               <head>The Fifth Song.</head>
+               <argument>
+                  <p>Purſuing the Argument of the Speech, by a far<g ref="char:EOLhyphen"/>ther deteſtation of that cruelty, which the ambition of the Spaniards made them exerciſe in <hi>Peru.</hi>
+                  </p>
+               </argument>
+               <lg>
+                  <head>1.</head>
+                  <l>IF Man from ſov'raign reaſon does derive</l>
+                  <l>O're Beaſts a high prerogative,</l>
+                  <l>Why does he ſo himſelf behave,</l>
+                  <pb n="22" facs="tcp:114627:14"/>
+                  <l>That Beaſts appear to be</l>
+                  <l>More rationall then he?</l>
+                  <l>Who has deſerv'd to be their ſlave.</l>
+               </lg>
+               <lg>
+                  <head>2.</head>
+                  <l>How comes wild cruelty in human breaſts?</l>
+                  <l>Proud Man more cruell is than Beaſts;</l>
+                  <l>When beaſts by hunger are enrag'd,</l>
+                  <l>They no long pains deviſe</l>
+                  <l>For dying enemies,</l>
+                  <l>But kill, and eat, and are aſſwag'd.</l>
+               </lg>
+               <lg>
+                  <head>3.</head>
+                  <l>So much is Man refin'd in cruelty</l>
+                  <l>As not to make men quickly dye.</l>
+                  <l>He knowes by death all pains are paſt.</l>
+                  <l>But as he hath the skill</l>
+                  <l>A thouſand waies to kill,</l>
+                  <l>So hath he more to make pains laſt.</l>
+               </lg>
+               <sp>
+                  <speaker>Chorus.</speaker>
+                  <lg>
+                     <l>When Beaſts each other chale and then de<g ref="char:EOLhyphen"/>vour,</l>
+                     <l>'Tis Natures Law, neceſſity,</l>
+                     <l>Which makes them hunt for food, &amp; not for pow'r:</l>
+                     <l>Men for Dominion, Art's chief vanity,</l>
+                     <l>Contrive to make mend die;</l>
+                     <l>Whoſe blood through wantonneſs they ſpil,</l>
+                     <l>Not having uſe of what they kill.</l>
+                  </lg>
+               </sp>
+               <p>This Song being ended, a mournfull Ayre is play'd, preparing the entrance of three <hi>Peruvians,</hi> limping in ſilver-fetters. They are driven into the Wood by an inſulting <hi>Spaniard,</hi> with a Trun<g ref="char:EOLhyphen"/>cheon;
+<pb n="23" facs="tcp:114627:14"/>then enter again loaden with <hi>Indian</hi> baskets full of golden Ingors, and ſilver Wedges, and lying down with the weight of their burthens, are raiſed by the blowes of the <hi>Spaniard,</hi> and fall into a halting Dance, till the <hi>Spaniard,</hi> reviving their wearineſſe with his Truncheon, drives them again into the Wood.</p>
+            </div>
+            <div n="6" type="entry">
+               <head>The Sixt Entry.</head>
+               <p>A Symphony prepares the laſt change of the Scene, and an Army is diſcern'd at diſtance, conſiſting of <hi>Engliſh</hi> and <hi>Peru<g ref="char:EOLhyphen"/>vians;</hi> the Van is led by the <hi>Engliſh,</hi> who are diſtinguiſht by the Enſignes of <hi>England,</hi> and their <hi>Red-Coats.</hi> The Reer is brought up by the <hi>Peruvians,</hi> who are known by their <hi>feather'd Habits, Claves,</hi> and <hi>Spears.</hi> There is likewiſe diſcern'd a Body of arm'd <hi>Spaniards,</hi> their backs turn'd, and there Reer ſcatter'd as if put to flight. Theſe i<g ref="char:EOLhyphen"/>maginary <hi>Engliſh</hi> Forces may ſeem impro<g ref="char:EOLhyphen"/>per, becauſe the <hi>Engliſh</hi> had made no diſco<g ref="char:EOLhyphen"/>very
+<pb n="24" facs="tcp:114627:15"/>of <hi>Peru,</hi> in the time of the <hi>Spaniards</hi> firſt invaſion there; but yet in Poeticall Re<g ref="char:EOLhyphen"/>preſentations of this nature, it may paſs as a Viſion diſcern'd by the Prieſt of the Sun, be<g ref="char:EOLhyphen"/>fore the matter was extant, in order to his Prophecy.</p>
+               <p>This object having remain'd a while, the Prieſt of the Sun enters with his Attendant.</p>
+            </div>
+            <div n="6" type="speech">
+               <head>
+                  <hi>The Sixt Speech.</hi> 
+               </head>
+               <argument>
+                  <p>Intimating their firſt adoration of the Spaniards when they landed, the behaviour of the Spa<g ref="char:EOLhyphen"/>niards towards them, and a Prophecy that they ſhall be reliev'd by the Engliſh.</p>
+               </argument>
+               <lg>
+                  <l>VVE on our knees theſe <hi>Spaniards</hi> did re<g ref="char:EOLhyphen"/>ceive</l>
+                  <l>As gods, when firſt they taught us to believe.</l>
+                  <l>They came from Heaven, and us o're heights would lead,</l>
+                  <l>Higher then e're our ſinfull fathers fled.</l>
+                  <l>Experience now (by whoſe true eyes, though ſlow,</l>
+                  <l>We find at laſt, what oft too late we know)</l>
+                  <l>Has all their cous'ning miracles diſcern'd:</l>
+                  <l>'Tis ſhe that makes unletter'd mankind learn'd,</l>
+                  <pb n="25" facs="tcp:114627:15"/>
+                  <l>She has unmask't theſe <hi>Spaniſh</hi> dark Divines:</l>
+                  <l>Perhaps they upward go,</l>
+                  <l>But haſten us below,</l>
+                  <l>Where we, through diſmall depths, muſt dig in Mines.</l>
+               </lg>
+               <lg>
+                  <l>When firſt the valiant <hi>Engliſh</hi> landed here,</l>
+                  <l>Our reaſon then no more was rul'd by fear:</l>
+                  <l>They ſtreight the <hi>Spaniards</hi> Riddle did unfold,</l>
+                  <l>Whoſe Heav'n in caverns lies of others Gold.</l>
+                  <l>Our griefs are paſt, and we ſhall ceaſe to mourn,</l>
+                  <l>For thoſe whom the inſulting <hi>Spaniards</hi> ſcorn,</l>
+                  <l>And ſlaves eſteem,</l>
+                  <l>The <hi>Engliſh</hi> ſoon ſhall free;</l>
+                  <l>Whilſt we the <hi>Spaniards</hi> ſee</l>
+                  <l>Digging for them.</l>
+               </lg>
+               <p>The Prieſt having ended his Speech, waves his Verge, and his Attendant performs the <hi>double So<g ref="char:EOLhyphen"/>merſet.</hi>
+               </p>
+               <p>The Prieſt being gone, a wild Ayre is play'd, (differing from that in the Firſt Entry) which pre<g ref="char:EOLhyphen"/>pares the comming in of a <hi>Spaniard</hi> out of the Wood, loaden with Ingots of Gold, and Wedges of Silver. He makes his footing to the tune of the Inſtruments; and after a while he diſcovers a wea<g ref="char:EOLhyphen"/>rineſſe and inclination to ſleep, to which purpoſe he lies down, with his basket for his pillow. Two Apes come in from oppoſite ſides of the Wood, and dance to the Ayre. After a while, a great Baboom
+<pb n="26" facs="tcp:114627:16"/>enters, and joynes with them in the Dance. They wake the <hi>Spaniard,</hi> and end the Antique Mea<g ref="char:EOLhyphen"/>ſures with driving him into the Wood.</p>
+            </div>
+            <div n="6" type="song">
+               <head>
+                  <hi>The Six Song.</hi> 
+               </head>
+               <argument>
+                  <p>Purſuing the Argument of that Prophecy, which foretells the ſubverſion of the Spani<g ref="char:EOLhyphen"/>ards by the Engliſh.</p>
+               </argument>
+               <lg>
+                  <l>VVE ſhall no longer fear</l>
+                  <l>The <hi>Spaniſh</hi> Eagle darkly hov'ging here;</l>
+                  <l>For though from fartheſt Climes he hither fled,</l>
+                  <l>And ſpatiouſly his wings has ſpread:</l>
+                  <l>Yet th'<hi>Engliſh</hi> Lion now</l>
+                  <l>Does ſtill victorious grow,</l>
+                  <l>And does delight</l>
+                  <l>To make his walks as far</l>
+                  <l>As th'other e're did dare</l>
+                  <l>To make his flight.</l>
+               </lg>
+               <sp>
+                  <speaker>CHORUS</speaker>
+                  <lg>
+                     <l>1 High, 2 high, 3 and high</l>
+                     <l>4 Our Arrowes ſhall ſlie,</l>
+                     <l>And reach the winged for our prey.</l>
+                     <l>Our Nets we'l caſt; and Sprindges lay:</l>
+                     <l>The Ayre, the River, and the Wood,</l>
+                     <l>Shall yield us ſport and change of food.</l>
+                     <pb n="27" facs="tcp:114627:16"/>
+                     <l>
+                        <note place="margin">All in Chorus.</note>After all our dyſaſters</l>
+                     <l>The proud <hi>Spaniards</hi> our Maſters,</l>
+                     <l>When we extoll our liberty by feaſts,</l>
+                     <l>At Table ſhall ſerve,</l>
+                     <l>Or elſe they ſhall ſtarve;</l>
+                     <l>Whilſt th'<hi>Engliſh</hi> ſhall ſit and rule as our gueſts.</l>
+                  </lg>
+               </sp>
+               <p>This Song being ended, as Ayre, conſiſting of three Tunes, prepares the grand Dance, three <hi>In<g ref="char:EOLhyphen"/>dians</hi> entring firſt, afterwards to them three <hi>Engliſh</hi> Souldiers, diſtinguiſht by their <hi>Red-Coats,</hi> and to them a <hi>Spaniard,</hi> who mingling in the meaſures with the reſt, does in his geſtures expreſſe pride and ſullenneſſe towards the <hi>Indians,</hi> and payes a lowly homage to the <hi>Engliſh,</hi> who often ſalute him with their feet, which ſalutation he returns with a more lowly gravity; whilſt the <hi>Engliſh</hi> and the <hi>Indians,</hi> as they encounter, ſalute and ſhake hands, in ſigne of their future amity. This Dance being perform'd, the Entertainment ends, and</p>
+               <stage>The Curtain falls.</stage>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_theatre_tickets">
+            <p>Notwithſtanding the great expence neceſſary to Scenes, and other ornaments in this Entertainment, there is a good proviſion made of places for a ſhilling. And it ſhall begin certainly at <hi>3</hi> after noon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

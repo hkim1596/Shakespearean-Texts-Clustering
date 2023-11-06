@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mistris Parliament her gossipping. Full of mirth, merry tales, chat, and other pleasant discourse, between, Mrs. Statute. Iustice. Truth. and Mrs. Parliament. Ordinance. Synod. Mrs. England being moderator. Mistris Parliament, that late lay in, invites you now unto her gossipping; and as the order is unto this day, for what you eate, shee'l make you roundly pay; pray Commons eat; her's chat and laughter, and committee-fruit in dishes after: fall too and welcome; I have still in store to prove her bawd, murderer, witch, and whore. Her tryall's past; shee is condem'd to die, her execution day drawes nie; come help to guard her to the gallow-tree, England is freed of all her miserie. / By Mercurius Melancholicus:.</title>
+            <author>Mercurius Melancholicus, fl. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89186</idno>
+            <idno type="STC">Wing M2282</idno>
+            <idno type="STC">Thomason E443_28</idno>
+            <idno type="STC">ESTC R202895</idno>
+            <idno type="EEBO-CITATION">99863032</idno>
+            <idno type="PROQUEST">99863032</idno>
+            <idno type="VID">161717</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161717)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mistris Parliament her gossipping. Full of mirth, merry tales, chat, and other pleasant discourse, between, Mrs. Statute. Iustice. Truth. and Mrs. Parliament. Ordinance. Synod. Mrs. England being moderator. Mistris Parliament, that late lay in, invites you now unto her gossipping; and as the order is unto this day, for what you eate, shee'l make you roundly pay; pray Commons eat; her's chat and laughter, and committee-fruit in dishes after: fall too and welcome; I have still in store to prove her bawd, murderer, witch, and whore. Her tryall's past; shee is condem'd to die, her execution day drawes nie; come help to guard her to the gallow-tree, England is freed of all her miserie. / By Mercurius Melancholicus:.</title>
+                  <author>Mercurius Melancholicus, fl. 1648.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer of the downfall of the sectaries. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire in the form of a play.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161717:1" rendition="simple:additions"/>
+            <p>Miſtris PARLIAMENT <hi>Her Goſſipping.</hi> FULL OF MIRTH, MERRY TALES. chat, and other Pleaſant Diſcourſe, <hi>Between,</hi>
+               <list type="dramatis_personae">
+                  <item>Mrs.Statute.</item>
+                  <item>Mrs.Iuſtice.</item>
+                  <item>Mrs.Truth.</item>
+               </list>
+               <hi>And</hi>
+               <list type="dramatis_personae">
+                  <item>Mrs. Parliamnt.</item>
+                  <item>Mrs. Ordinance<g ref="char:punc">▪</g>
+                  </item>
+                  <item>Mrs. Synod.</item>
+                  <item>Mrs. ENGLAND being Moderator.</item>
+               </list>
+            </p>
+            <q>
+               <l>Miſtris PARLIAMENT, that late lay in,</l>
+               <l>Invites you now unto her <hi>Goſsipping;</hi>
+               </l>
+               <l>And as the Order is unto this day,</l>
+               <l>For what you eate; ſhee'l make you <hi>Roundly</hi> pay;</l>
+               <l>Pray Commons eat; Har's Chat and Laughter.</l>
+               <l>And <hi>Committee-Fruit</hi> in diſhes after:</l>
+               <l>Fail too and welcome; I have ſtill in ſtore</l>
+               <l>To prove Her <hi>Bawd, Murderer, Witch,</hi> and <hi>Whore.</hi>
+               </l>
+               <l>Her Tryall's paſt; ſhee is condem'd to die,</l>
+               <l>Her Execution Day drawes nie;</l>
+               <l>Come Help to guard her to the Gallow-tree.</l>
+               <l>ENGLAND is freed of all her <hi>Miſerie.</hi>
+               </l>
+            </q>
+            <p>BY Mercurius Melancholicus:</p>
+            <p>
+               <add>may 22</add> Printed in the yeer of the Downfall of the Sectaries, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161717:2"/>
+            <pb n="1" facs="tcp:161717:2"/>
+            <head>Mrs. <hi>Parliament</hi> her <hi>GOSSIPPING.</hi>
+            </head>
+            <stage>Enter Mrs. <hi>Parliament,</hi> Mrs. <hi>Statute,</hi> Mrs. <hi>Synod.</hi>
+            </stage>
+            <sp>
+               <p>
+                  <seg rend="decorInit">W</seg>ELL, well; Never make compariſons with me Goodee <hi>Statute,</hi> 'tis, known to my Neighbours what I am well enough, and to what Houſes ally'd; thou art but of a mean Parentage; nor that Trollup (thy ſiſter Juſtice neither;) marry come up mother <hi>
+                     <g ref="char:V">Ʋ</g>gly?</hi> ſhalt thou and thy Siſter <hi>Damnable</hi> take the upper hand of me? I de<g ref="char:EOLhyphen"/>fie ye both, and ſcorn to foul my mouth with two ſuch Bag<g ref="char:EOLhyphen"/>agges, that for neglect of doing your ſeverall Offices, are now turn'd out of ſervice by my Mother <hi>Parliament,</hi> and now doe ye think to take place? Yes, yes, when my mother hath no<g ref="char:EOLhyphen"/>thing elſe to doe, ſo ye ſhall. Get you gon to your King to the Ile of <hi>Wight,</hi> he perhaps may entertain you, (if Colonell <hi>Ham<g ref="char:EOLhyphen"/>mond</hi> pleaſes) for my Mother ſhall have nothing to doe with ſuch homely Goſſips as you are; Pray be packing: neither Sta<g ref="char:EOLhyphen"/>tute, Juſtice, Law, Reaſon, not Religion, either comes within her doors ſo long as <hi>Ordinancas</hi> eyes be open: And though I ſay't (that ſhould not ſay't,) I have been an obedient Daugh<g ref="char:EOLhyphen"/>ter to her, and have up riſing, and down-lying, with all dilli<g ref="char:EOLhyphen"/>gence executed her commands <hi>(right or rong)</hi> ſhe knows it well enough, and ſo doth my Father in law <hi>Cromwell</hi> too; and my Reveren'd Uncle, the new <hi>Chancellor</hi> of <hi>Oxford.</hi> High and Mighty <hi>Phillip Switch,</hi> Earl of <hi>Pembroke,</hi> will ſweare <hi>Dam</hi> him he loves me; and I muſt love him againe, in deſpight of what doe ye call it <hi>hu, hu, hu,</hi> I <hi>huming Learning,</hi> 'tis; my Mother and I have pepper'd <hi>huming learning,</hi> Biſhops! ha, ha, ha, I laugh to think of <hi>Canterbury;</hi> oh my ſides, how I made him ſhorter by the head, and quite ſpoil'd his <hi>huming learning:</hi> Doſtors cotha; I have caſt their waters for them, and made many of them to
+<pb n="4" facs="tcp:161717:3"/>
+drink water, and to leap at a cruſt too; I laugh to think on't, what doe they call them, Deanes, Prebends and Chapiters; all one with me, or my Unckle <hi>Phillip</hi> either: If we ſay they be all Popiſh, they be all Popiſh, and pray who dare ſay the contrary; then will my Unckle and I out them their profane Nurſeries of Learning becauſe there ſhould be none wiſer then our<g ref="char:EOLhyphen"/>ſelves; and put in their Places <hi>Innocents</hi> in Learning, pure <hi>J<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>norance,</hi> Devout <hi>Folly,</hi> and <hi>Zealous Madneſs;</hi> What though the Wicked terme them Fools, Mad-men or Knaves, ſo long as we are a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l accounted ſo at Weſtminſter; Is it any matter for Learning? Give me my Mother tongue in a pure Parliament Dialects the Alphabet where of begins with K. that is in plain Engliſh Knave, or Knaves: L. betokens Learning, and may be let out, Beſides it is a Numerall Letter, and ſignifies fifty, that is ſome of the Number of the Beaſt; and is uſed in <hi>CharLes</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> M. that may ſtand, becauſe we cannot ſpell money without it, which my Mother Parliament loves exceedingly: Money is the main Key of our Work; Take away money, alas <hi>Ordi<g ref="char:EOLhyphen"/>nance</hi> is not worth a ſtraw, nor <hi>Parliament</hi> neither: O begins my own Name; wee have taught the people that already, to cry out O, oh! when we kill them; Rob or Plunder them of all they have, and then the poor wretches being ready to ſtarve, will quickly learn O: P. begins my Mothers Name, P. Par<g ref="char:EOLhyphen"/>liament, P. Priviledge, Pay, Perjury; P. is the best Letter in our Alphabet. Q. is profane, being the firſt Letter of Queene, and is not to be used in my mother tongue, ſave in two places; Queſtion, and Quarter: R is abomination, and ſo is C too; who hath not read <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we cannot indure it, <hi>Rex,</hi> 'tis as hatefull to us as a Croſſe upon a Steeple; yet in Riches or Re<g ref="char:EOLhyphen"/>venue it is tolerable: S ſignifies Seſſments, <hi>Say</hi> and <hi>Seale,</hi> and is a Letter much uſed in Weſtminſter School, as S for Sed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti<g ref="char:EOLhyphen"/>on, S. Sacriledge, S ſlavery: T TOM, T— &amp;c. T Traytors, T Tyburne, T tyrants, and T task-maſters, Turn coats, &amp;c. V. Vote U for me, and ile Vote for U: V ſhall pay for all (U the Common People I mean:) V have undone us all; the Devil take U, and all the reſt of the Alphabet for me; Here be Let<g ref="char:EOLhyphen"/>ters enough for my mothers Children; your will with me Statute?</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:161717:3"/>
+               <speaker>Stat.</speaker>
+               <p>Had I my will, I would hang both thee and thy mo<g ref="char:EOLhyphen"/>ther too: had thy mother been an honeſt woman <hi>Statute</hi> had never forſaken her; when I and my ſiſter Juſtice gave her o<g ref="char:EOLhyphen"/>ver ſhe entertain'd thee into ſervice, to execute her unjuſt commands; then ſhe play'd the Strumpet to ſome purpoſe be<g ref="char:EOLhyphen"/>came a Murderer, a Witch, a Thief.</p>
+            </sp>
+            <sp>
+               <speaker>Ord.</speaker>
+               <p>Wilt thou prove my mother a Witch or a Whore?</p>
+            </sp>
+            <sp>
+               <speaker>Stat.</speaker>
+               <p>Yes, and a murdering bloody Whore too: Siſter Juſtice call hither my Cozen <hi>Trut<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> ſhe can witneſs it.</p>
+            </sp>
+            <sp>
+               <speaker>Just.</speaker>
+               <p>I will obey yee. Siſter <hi>Truth?</hi> why Siſter Truth, Come into the Court.</p>
+            </sp>
+            <stage>Enter TRUTH.</stage>
+            <sp>
+               <speaker>Stat.</speaker>
+               <p>Truth, here is a difference betwixt Mrs. <hi>Ordinance</hi> the Baſtard Iſſue of Mrs. <hi>Parliament</hi> and my ſelf; I know thou art her profeſt enemy; but yet thou art ſo honeſt, that thou canſt not hate her Perſon more then her Conditions; therefore I de<g ref="char:EOLhyphen"/>ſire thee to ſpeak of her as ſhe deſerves and no otherwiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Truth.</speaker>
+               <p>I will; ſhee deſerves to be hang'd drawn and Quar<g ref="char:EOLhyphen"/>tered; or burnt with her Houſes about her ears.</p>
+            </sp>
+            <sp>
+               <speaker>Just.</speaker>
+               <p>Make her Crimes known good Truth; I muſt not al<g ref="char:EOLhyphen"/>wayes deferre deſerved puniſhment.</p>
+            </sp>
+            <sp>
+               <speaker>Truth.</speaker>
+               <p>Dear Cozins, had either of you both been us'd by her as I have been; you would not <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uffer her to live a Day.</p>
+            </sp>
+            <sp>
+               <speaker>Stat.</speaker>
+               <p>I prithee tell us how?</p>
+            </sp>
+            <sp>
+               <speaker>Truth.</speaker>
+               <p>Why ſhee has Voted me a Malignant kick'd me out of the Church, the Parliament-Houſe and all the Courts of Ju<g ref="char:EOLhyphen"/>ſtice, and banniſh'd poor Truth into an <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land, where J have ſuffered all miſeries whatſoever, as cold, hunger, nakedneſs, whil'ſt ſhe like a Strumpet, hath <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eited with the Exceſs ſhe hath gain'd by Extortion, Theft and Rapine; Rob'd God, the King and Common-wealth, and hath bewitch'd the People in<g ref="char:EOLhyphen"/>to abhorred Rebellion, and led them blindfold by the Noſes to their own deſtruction; That her eldeſt Baſtard <hi>Ordinance</hi> is likewiſe a Traytor to the Kingdome, and a bloody mur<g ref="char:EOLhyphen"/>derer, of ſouls as well as bodies<g ref="char:punc">▪</g> and an arrant Pick-pocket, and a Pawde, and her Daughter the like; for what miſchief ſo<g ref="char:EOLhyphen"/>ever hath been Ordered by the one, hath been acted by the o<g ref="char:EOLhyphen"/>ther, both againſt Reaſon, Law and Conſcience.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:161717:4"/>
+               <speaker>Iust.</speaker>
+               <p>I can forbeare her no longer; apprehend the Scrumpet that ſhe may ſuffer deſerved puniſhment, according to he<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> crimes?</p>
+            </sp>
+            <sp>
+               <speaker>Stat.</speaker>
+               <p>Ile proſecute the Law on them, and Truth ſhall brin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Evidence againſt them both. But who comes here cla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all in ſables?<stage>
+                     <hi>Enter</hi> Mrs. <hi>England</hi> in mourning</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Was ever grief like mine? O my HEAD! my Eye are dimm'd with weeping; my bowells tremble, my hands are palſied or'e, my heart weeps blood, and all the faculties of my ſoul and body are out of frame; I am troubled with lunitick paſſions, and a dull lethargy ſeizes on all my vitalls; ſure I am bewitch'd, a <hi>Paniqe</hi> fear glides through all my veines; Help, help O ye Celeſtiall powers, and ſtave Confuſion off me, which threateneth my ſudden ruine.</p>
+            </sp>
+            <sp>
+               <speaker>Stat.</speaker>
+               <p>'Tis Mrs. <hi>England;</hi> ſhee's in a ſtrange fit, ile ſee if I can comfort her,
+<q>
+                     <l>And know the reaſon of her diſcontent,</l>
+                     <l>Sure ſhee's bewitch'd by Mrs. <hi>Parliament.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>All hayl to ſad dejected <hi>England;</hi> What is the reaſon of your heavineſs? if <hi>Iuſtice</hi> can adminiſter any comfort to thee; be ſure on't: Here is my cozen Statute too, and honeſt <hi>Truth</hi> will doe the lik.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Dear friends, welcome to poor deſpiſed <hi>England;</hi> this full ſeven years J have enquir'd after you, and never could finde you out till now, though J have ſought for you at <hi>West<g ref="char:EOLhyphen"/>minſtered,</hi> and all the Kingdom over.</p>
+            </sp>
+            <sp>
+               <speaker>Truth.</speaker>
+               <p>Alas Mrs. England, we have been, all three baniſh'd from thence this ſeven yeers, and beat out of the Church too, Robb'd, Plunder'd, and Sequeſtrated of all our Lands and goods, flung into Priſons, and expoſed to all the miſeries that Malice could invent againſt us.</p>
+            </sp>
+            <sp>
+               <speaker>Iust.</speaker>
+               <p>Mrs. Enland, our ſufferings are all alike: therefore it is but folly to complain of our wrongs; let us finde out the au<g ref="char:EOLhyphen"/>thoreſſe of all this miſchief, that by her Witchcraft and black Sorcery hath wrought all our ills; Know you who 'tis has wrought all this that J may whet my glittering ſword, and pierce the Strumpets heart.</p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:161717:4"/>
+               <speaker>Eng.</speaker>
+               <p>'Tis ſoon known who is the Authour of our miſerys 'tis that dam'd Hagge Mrs. <hi>Parliament,</hi> and her Daughter <hi>Or<g ref="char:EOLhyphen"/>dinance,</hi> that feeds fat with Theft and Rapine, and quaff whole mazor Bowls of Englands blood.</p>
+            </sp>
+            <sp>
+               <speaker>Stat.</speaker>
+               <p>Let's apprehend the Witch, and try her and her Daugh<g ref="char:EOLhyphen"/>ter by the known Lawes of the Land; but firſt let us degrade her, ſtrip her out of her Parliament-Roabes, and then ſearch the Impoſture, to ſee what marks ſhe has about her privities, to give ſuch damned Spirits ſuck, as <hi>Mancheſter</hi> and <hi>Lenthall</hi> her two Familiars, and thoſe Evill ſpirits <hi>Mildmay, Veine, Martyn,</hi> and Devill <hi>Challonor</hi> conjur'd as low as hell, and all the dam<g ref="char:EOLhyphen"/>ned <hi>Furyes</hi> in the Houſes to knaw tbeir wriſts, and bite their fingers ends off, tearing their Snaky locks whilſt they ſit mum<g ref="char:EOLhyphen"/>bling or'e their helliſh Charmes, and execrable Spells, till we have diſpers'd all hells balefull Powers, that now ſeeme to o<g ref="char:EOLhyphen"/>vertopp us.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>We are all agreed; let's make it known unto the Com<g ref="char:EOLhyphen"/>mon People, and they'l diſpatch her preſently; many hands will make light work with her: but firſt let Mrs. <hi>London</hi> guard her ſurely leſt ſhe run away before this be effected.</p>
+            </sp>
+            <sp>
+               <speaker>Iuſt.</speaker>
+               <p>No, 'tis pitty the <hi>Rude multicnde</hi> ſhould handle her; Let me firſt try this damn'd <hi>Geneva</hi> Witch; perhaps ſhe may con<g ref="char:EOLhyphen"/>feſs her guilt: If ſhe can rehearſe the <hi>Lords Prayer,</hi> or the <hi>Creed</hi> ſhe is no Witch.</p>
+            </sp>
+            <sp>
+               <speaker>Truth.</speaker>
+               <p>She hath deny'd that long ſince; Nurſe <hi>Synod</hi> can tell that well enough: Ile draw up her <hi>Indictment</hi> preſently.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Doe good <hi>Truth,</hi> and ile produce you witneſſes enough againſt her Ile warrant you.</p>
+            </sp>
+            <sp>
+               <speaker>Iuſt.</speaker>
+               <p>Summon them all three to the Barre.</p>
+            </sp>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Mrs. <hi>Parliament,</hi> Mrs. <hi>Ordinance,</hi> Mrs. <hi>Synod,</hi> anſwer to your Names, and appear in the Court to anſwer what ſhall be objected againſt you for my Lord the King.</p>
+            </sp>
+            <stage>Enter Mrs. <hi>Parliament</hi> in a Scarlet coloured Robe, Riding on a beaſt of many heads, and a Cup of Red Wine in in her hand, with <hi>Ordinance,</hi> and <hi>Synod.</hi>
+            </stage>
+            <sp>
+               <speaker>Eng.</speaker>
+               <p>Mrs. Parliament hold up thy hand to the Barren, Thou
+<pb n="8" facs="tcp:161717:5"/>
+art Arraigned by the Name of <hi>Parliament,</hi> That wheras thou haſt (not having the grace of God before thine eyes) ever ſince <hi>Novem.</hi> 3. 1641. againſt the Lawes of our Soveraigne Lord the King, by the inſtigation of the Devil, Trayterouſly endeavour<g ref="char:EOLhyphen"/>ed to change the Fundamentall Lawes of the Kingdom; and to root out the King and his Poſterity; to root out, and over<g ref="char:EOLhyphen"/>throw the very beings and foundations of Parliament; and to bring a ſcandall and reproach upon that High and Honourable Ceurt; That ſhe hath by her ſorceries and deluſions bewitched the People into Rebellion againſt their Gracious Soveraigne the Lords Anointed; That ſhe hath ſacrilegiouſly rob'd God of his Worſhip, he Church of its Patrimony, the King of his Re<g ref="char:EOLhyphen"/>venue; the Subject of his Libertie; and changed Religion into Faction; Preaching into prating Blaſphemy, Treaſons, Contra<g ref="char:EOLhyphen"/>dictions and Tautallogies; That ſhe hath by the Power of the Sword by the help of a Tyrannicall, Schiſmatticall and Over<g ref="char:EOLhyphen"/>awing Party) robbed and killed the Subjects, even at her very doors as they come to make know their a grievances; That ſhe ſtill keeps her King in Priſon, and inſults and Tyranizes over the Lives &amp; Fortuns of a Free-born people, charging them with inſupportable Impoſitions to maintain an <hi>Army</hi> to deſtroy themſelves who act nothing but Rapine, Murder and Cruelty, and hath brought all the Plagues of God upon this Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Stat.</speaker>
+               <p>What ſayſt thou Mrs. Parliament, art thou guilty, or not guilty of all theſe crimes objected againſt thee by <hi>Truth?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>Guilty of all this, and ten times more, and would doe it again, had I yet power.</p>
+            </sp>
+            <sp>
+               <speaker>Truth.</speaker>
+               <p>Graceleſs wretch! Let us proceed to ſentence.</p>
+            </sp>
+            <sp>
+               <speaker>Stat.</speaker>
+               <p>Miſtris Parliament, thy Conſcience is a thouſand wit<g ref="char:EOLhyphen"/>neſſes: I Wiſh thou couldſt repent; Thou art to return to the place from whence thou camſt and from thence to be drawn to the place of Execution, and there to be hanged and Quar<g ref="char:EOLhyphen"/>tered. So Lord have mercy on thy ſoul. <hi>Take her Jaylo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>I defie ye all; doe your worſt: Yet ſave my childe.</p>
+            </sp>
+            <sp>
+               <speaker>Stat.</speaker>
+               <p>Call a Jury of Women to ſearch her.</p>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Women and ſearch her, and finde Witches markes up<g ref="char:EOLhyphen"/>on her, and <hi>Exit.</hi>
+            </stage>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

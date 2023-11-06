@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of the right honourable, Robert, Earle of Essex, the noble branch of his thrice noble father.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94788</idno>
+            <idno type="STC">Wing T2018</idno>
+            <idno type="STC">Thomason 669.f.10[93])</idno>
+            <idno type="STC">ESTC R210637</idno>
+            <idno type="EEBO-CITATION">99869416</idno>
+            <idno type="PROQUEST">99869416</idno>
+            <idno type="VID">162626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162626)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of the right honourable, Robert, Earle of Essex, the noble branch of his thrice noble father.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Pots in the great Old-Baily, neer the Sessions-House,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse: "Who shall assist me, whilst I show" ...</note>
+                  <note>Annotation on Thomason copy: "Octob: 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:162626:1" rendition="simple:additions"/>
+            <head>The Life and Death of the right Honourable, ROBERT,
+Earle of ESSEX, the Noble Branch of his thrice Noble Father.</head>
+            <p>
+               <figure/>
+            </p>
+            <l>WHo ſhall aſſiſt me, whilſt I ſhow</l>
+            <l>That w<hi rend="sup">ch</hi> the world admires to know,</l>
+            <l>The worth of Him, whoſe valiant Sire</l>
+            <l>Mov'd great <hi>Eliza</hi> to deſire,</l>
+            <l>O thou Divineſt, ſhew to me;</l>
+            <l>Add to my skill in Poeſie;</l>
+            <l>And grant, like to<note n="*" place="margin">Linus, ſo termed by Virgil.</note> 
+               <hi>Apollos</hi> ſon,</l>
+            <l>My Verſe may ſmoothly, ſweetly run.</l>
+            <l>Before our <hi>Eſſex</hi> Father gat</l>
+            <l>Into that <hi>Cecil<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> unknown hate,</l>
+            <l>And ere his fatall hap it was</l>
+            <l>With fierce <hi>Tyrone</hi> ſome words to paſſe,</l>
+            <l>He was the wonder of his time,</l>
+            <l>For vertue, Martiall Diſcipline.</l>
+            <l>
+               <hi>Eliza</hi> great full oft did view,</l>
+            <l>How faſt her Knights he overthrew,</l>
+            <l>When he, like <hi>Mars,</hi> in armour bright,</l>
+            <l>Did ſhine, none durſt be oppoſite.</l>
+            <l>"But what on earth ſo firme may ſtand,</l>
+            <l>"That Change it cannot countermand?</l>
+            <l>"Or who is he can long ſubſiſt</l>
+            <l>"In joy, and never taſt of<note n="*" place="margin">ſorrovv</note> criſt?</l>
+            <l>"Even from the cottage to the Crowne</l>
+            <l>"The change of ſtate full oft is ſhowne;</l>
+            <l>"So that there's nothing permanent,</l>
+            <l>"Mans ſtate's with joy and ſorrow's<note n="*" place="margin">mingled</note> blent.</l>
+            <l>His gracious favour with the Queen</l>
+            <l>Incens'd the irefull Lords to Spleen;</l>
+            <l>So that they any vantage joy'd</l>
+            <l>To finde 'gainſt him, who now imploy'd</l>
+            <l>In taming of that rebell crew,</l>
+            <l>His unadviſed raſhneſſe drew</l>
+            <l>A harſh Fate on him, and his Foe</l>
+            <l>Rejoyc'd to ſee his overthrow.</l>
+            <l>He leaving earth, his valiant Son</l>
+            <l>To tread his Fathers ſteps begun.</l>
+            <l>And his rare vertues joyed more</l>
+            <l>The Commons, then his Sires before;</l>
+            <l>While all the earth his fame gan ring,</l>
+            <l>His worthy praiſes ecchoing.</l>
+            <l>What time alas our ſinnes were high,</l>
+            <l>When flouriſht all impiety,</l>
+            <l>And for our crimes, our angry God</l>
+            <l>'Gan ſcourge us with an iron rod,</l>
+            <l>When brother did 'gainſt brother arme.</l>
+            <l>And ſouldiers 'gan in Troops to ſwarme;</l>
+            <l>"When Englands Prince his charge forſook,</l>
+            <l>"Caſt out his friends, and Fautors took,</l>
+            <l>Then our great <hi>Eſſex</hi> choſen was</l>
+            <l>As fitteſt Leader, forth to paſſe</l>
+            <l>Before that Army, whoſe great zeale</l>
+            <l>Them tamed had, to ſerve the Weale</l>
+            <l>Publike, from being under brought</l>
+            <l>To thoſe its utter ruine ſought.</l>
+            <l>"As doth a Father, when his Sonne</l>
+            <l>"Some hainous Fact, or crime hath done,</l>
+            <l>"Doth ſcourge him, and if that not doe,</l>
+            <l>"Layes him in priſon to his woe,</l>
+            <l>"Yet hates him nere the worſe, but he</l>
+            <l>"From Hell would his preſerver be.</l>
+            <l>So God, when he the Plague (his ſcourge)</l>
+            <l>Had ſent, repentance for to urge</l>
+            <l>From us vile wretches, ſteept in ſin,</l>
+            <l>Yet could not our affections win;</l>
+            <l>Death on his pale horſe he gave charge</l>
+            <l>Thouſands of ſoules for to inlarge,</l>
+            <l>That thoſe that would not here repent</l>
+            <l>Their ſinnes, might them in hell lament.</l>
+            <l>And now each man his neighbour ſlayes,</l>
+            <l>The ſonne to death his Sire betrayes.</l>
+            <l>And now a<note n="*" place="margin">at Edge<g ref="char:EOLhyphen"/>hill</note> Battell's pitcht, and they</l>
+            <l>Deſire the Fortune of the day:</l>
+            <l>Great <hi>Eſſex,</hi> at his Armies head,</l>
+            <l>With Speeches brave incouraged</l>
+            <l>H<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s valiant ſouldiers, and in fight</l>
+            <l>He was the Foes firſt Oppoſite,</l>
+            <l>And by his valour, to his fame,</l>
+            <l>His<note n="*" place="margin">Truth is the Kings ſouldi<g ref="char:EOLhyphen"/>ers that day shewed them<g ref="char:EOLhyphen"/>ſelves very valiant.</note> valiant Foes he overcame.</l>
+            <l>So <hi>Scipio,</hi> when to free from thrall</l>
+            <l>The Romans, vext by <hi>Hanniball,</hi>
+            </l>
+            <l>Went forth, and that ſame ſcourge of Rome</l>
+            <l>By valiant proweſſe overcome.</l>
+            <l>But our brave <hi>Eſſex</hi> here gave ore</l>
+            <l>His warlike charge, and as before,</l>
+            <l>(His haughty helmet laying by)</l>
+            <l>His Robes of State he preſently</l>
+            <l>Put on, and now by counſell grave</l>
+            <l>"The States ſecond time doth ſave.</l>
+            <l>When he had liv'd ſo long, to ſee</l>
+            <l>The g<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ining of that liberty</l>
+            <l>Himſelfe had ſtrove for, and his Peeres,</l>
+            <l>When peace ſang gently in his eares,</l>
+            <l>O then, even then, Death reft away</l>
+            <l>This Lord, to Englands great diſmay.</l>
+            <l>"O Death! thou wert too much obdure</l>
+            <l>"Englands great loſſe ſo to procure,</l>
+            <l>"Th'aſt tane one Pillar cleane away,</l>
+            <l>"A prop moſt ſtrong for Englands ſtay.</l>
+            <l>But why in vain do I deplore</l>
+            <l>"His death, who by his loſſe hath ſtore</l>
+            <l>"Who now do ſing unto the Three</l>
+            <l>"Chanting celeſtiall Harmonie</l>
+            <l>Amidſt that glorious crew, who ſtill</l>
+            <l>Stand preſt, to act their Makers will.</l>
+            <l>"Sleep famous <hi>Eſſex</hi> in thine Vrne,</l>
+            <l>"While we wi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h teares thy loſſe do mourne.</l>
+            <l>And let this Epitaph be writ</l>
+            <l>Vpon thy Tombe, to garniſh it.</l>
+            <div type="epitaph">
+               <head>(THE EPITAPH.)</head>
+               <l>LEt no rude foot preſume to tread,</l>
+               <l>But with great awe, upon this Dead,</l>
+               <l>"Leſt that his Genius riſe from hence,</l>
+               <l>"And terrifie his inſolence.</l>
+               <l>But Reader know, who ere thou be,</l>
+               <l>Here <hi>Eſſex</hi> ſleeps, whoſe Anceſtrie</l>
+               <l>Were famous Worthies, all their worth</l>
+               <l>Were joyn'd in Him, and at his birth</l>
+               <l>The <hi>Heavenly Motions</hi> did agree,</l>
+               <l>Their beſt Infuſements all ſhould be</l>
+               <l>Injected in him, that his Fame</l>
+               <l>Might be his Heire, and keep his Name</l>
+               <l>Alive on earth, and equallize</l>
+               <l>
+                  <note n="*" place="margin">Achilles</note> His, whoſe reſoundeth to the skies.</l>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi>
+Printed for <hi>J. Pots</hi> in the great Old-Baily, neer
+the Seſſions-Houſe. 1646.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

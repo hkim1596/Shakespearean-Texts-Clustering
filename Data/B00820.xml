@@ -1,0 +1,527 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe replie of Thomas Udall, Gent. to a short memorandum, or shew of answere against his booke intituled: A briefe view of the weake grounds of poperie: by B.C. student in diuinitie.</title>
+            <author>Udall, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1609</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00820</idno>
+            <idno type="STC">STC 24508.3</idno>
+            <idno type="STC">ESTC S95630</idno>
+            <idno type="EEBO-CITATION">57402330</idno>
+            <idno type="OCLC">ocm 57402330</idno>
+            <idno type="VID">181129</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181129)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2170:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe replie of Thomas Udall, Gent. to a short memorandum, or shew of answere against his booke intituled: A briefe view of the weake grounds of poperie: by B.C. student in diuinitie.</title>
+                  <author>Udall, Thomas.</author>
+               </titleStmt>
+               <extent>[8], 47, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.S. for Samuel Macham and are to be sold in Pauls Church yard at the signe of the Bul-head.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>109 [i.e. 1609]..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title ornament, head-piece, and initial.</note>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Signatures: A-C⁸ D⁵.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181129:1"/>
+            <pb facs="tcp:181129:1" rendition="simple:additions"/>
+            <p>A BRIEFE RE<g ref="char:EOLhyphen"/>PLIE OF <hi>THO<g ref="char:EOLhyphen"/>MAS <g ref="char:V">Ʋ</g>DALL, GENT.</hi> To a ſhort MEMORANDVM, or ſhew of Anſwere againſt his Booke Intituled: <hi>A briefe View of the weake Grounds of Poperie:</hi> by B. C. ſtudent in Diuinitie.</p>
+            <q>
+               <bibl>Chryſoſt. in Math. Hom. 19.</bibl>
+               <p>
+                  <hi>Qui mendax eſt, neminem putat verum dicere.</hi>
+               </p>
+               <p>He that is a lyer, thinks no man ſpeakes truth.</p>
+            </q>
+            <q>
+               <bibl>Leo Epiſt. 83. ad Palaeſtinos.</bibl>
+               <p>
+                  <hi>Eccleſiae nomine armamini et contra Eccleſiam dimicatis.</hi>
+               </p>
+               <p>You arme your ſelues with the name of the Church, and yet ye fight againſt the Church.</p>
+            </q>
+            <p>LONDON Printed by <hi>W. S.</hi> for <hi>Samuel Macham</hi> and are to be ſold in Pauls Church yard at the ſigne of the Bul-head. 109.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:181129:2"/>
+            <pb facs="tcp:181129:2"/>
+            <head>To the Christian Reader.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Ood Reader, It is now more then two yeeres, ſince I publiſhed (for ſome ſpeciall reſpects) A little Booke intituled, <hi>A briefe view of the weake grounds of Poperie.</hi> Of late there came to my hands; <hi>A refutation of Maſter</hi> Bels <hi>Treatiſe, Intituled, the triall of the new Religion, and a ſhort view of</hi> Thomas Rogers <hi>vntrueths; with a ſhort Memo<g ref="char:EOLhyphen"/>randum for</hi> T. V. <hi>otherwiſe called</hi> Thomas Vdall, <hi>by one</hi> B.C. <hi>Student in Diuinitie,</hi> as he ſtileth himſelfe: wherein he preſents me with <hi>A ſhort ſample of ſuch fowle flawes as are in my Booke,</hi> as he ſuggeſteth: <hi>VVhich ſubiect hee minds heereafter to proſecute with a more full hand.</hi> If his mind chaunge not, <hi>Or that the happie newes of my Conuerſion, croſſe not his deſigne<g ref="char:EOLhyphen"/>ments.</hi> Whereof hee ſeemes ſo confident, that in two places of the three laſt leaues of his Preface (which is all that concernes me, in that Tract) hee boldly affirmes, that hee ſees no cauſe to diſpaire of; <hi>If true zeale of trueth, and ſauing my ſoule, haue ſet me a worke:</hi> Which two principall
+<pb facs="tcp:181129:3"/> motiues (with a feruent deſire I had, to with<g ref="char:EOLhyphen"/>draw ſome of my beſt friends from that Egyptian darkeneſſe of Popiſh ſuperſtion: which to Gods glory is ſince effected) I doe ingenuouſly confeſſe, to haue bene the ſole and only cauſe of that ſmall Tract.</p>
+            <p>But I cannot but maruell, vpon what ground, or hope, this confidence of my conuerſion ſhould be ſo preſumed; (vnleſſe it be to gull ſome of his Po<g ref="char:EOLhyphen"/>piſh dependantes with the hope thereof) ſince in this little, he hath deliuered, hee hath onely ex<g ref="char:EOLhyphen"/>cepted againſt fiue particulars, which he hath ſe<g ref="char:EOLhyphen"/>lected out of ſeuerall places in my booke: And yet, if they were all graunted, It nothing impea<g ref="char:EOLhyphen"/>cheth the ſumme and ſubſtance therof; but that it may be notwithſtanding ſound and good inough: vnleſſe in Maſter <hi>B. C.</hi> Logique, theſe be good in<g ref="char:EOLhyphen"/>ferences. <hi>T. V. hath miſtaken, or miſalleadged ſome fewe authorities, in his Booke: Ergo, he hath not ſhewed the weakeneſſe of the grounds of Popiſh Religion: Ergo, the Papiſts are wrongfully charged with blaſphemie: Ergo, the Scriptures defended by the Papiſts are not con<g ref="char:EOLhyphen"/>uinced to bee Apocripha, &amp;c.</hi> But it ſeemes by Ma<g ref="char:EOLhyphen"/>ſter <hi>B. C.</hi> proceeding, both with mee and others; That ſuch is the ſimplicitie of the Popiſh vulgar Catholiques, that he aſſures himſelfe, if he can but conuince a few places, among many, to be miſta<g ref="char:EOLhyphen"/>ken, or miſalleaged; it is ſufficient to perſwade them, that the whole booke is nothing but lies, and vntrueths: Albeit, they muſt be very ſimple, That ſeeing tenne or twelue witneſſes produced, eight or ten whereof, prooue the point directly (though two of them faile) will not iudge the truth
+<pb facs="tcp:181129:3"/> ſufficiently approoued: eſpecially, if the witneſſes be without exception. And ſurely he muſt needes be very well perſwaded, either of his owne wor<g ref="char:EOLhyphen"/>thineſſe, or of my inſufficiency, that doth thus pre<g ref="char:EOLhyphen"/>ſume of my conuerſion, without iuſtifying his own grounds, or laying open the weakeneſſe, of thoſe Engines of mine (as he phraſeth them) wherewith (he ſaith) I labour ſo much <hi>to vndermine, the im<g ref="char:EOLhyphen"/>pregnable grounds of the Catholique Church:</hi> which grounds are ſo ſufficiently battered and beaten downe, by the anſwere of that learned and Reue<g ref="char:EOLhyphen"/>rent Miniſter, Maſter <hi>VVootton,</hi> to <hi>A. D.</hi> Treatiſe of faith, That it reſts not in the power of any Po<g ref="char:EOLhyphen"/>piſh Procter, euer to repaire them. But that I may not hold thee too long in ſo ſhort a ſubiect, I will truely acquaint thee with ſuch ſubſtantiall ſtuffe, as Maſter <hi>B. C.</hi> hath gathered, (as he ſaith) <hi>Either for my ſpirituall profite, or the commoditie of other, or the common good of both:</hi> which ſhall be ſet downe <hi>verbatim</hi> with peculiar anſwere to euery Section; in hope that when <hi>hee proſecuteth the laying open of the maladies of my Treatiſe,</hi> (as he tearmeth them) I ſhall receiue the ſame equitie from him: that it may appeare what hee anſwereth, and what hee omits. And for the better vnmasking of that, which he hath excepted againſt in my Booke; I will en<g ref="char:EOLhyphen"/>deuour firſt to deduce my owne reaſons, and then his anſweres thereunto, into true forme of Sillo<g ref="char:EOLhyphen"/>giſme. That it may be euident to the iudicious, that if all, wherewith I am charged, were granted; yet is the ſumme and ſubſtance of my Booke, vn<g ref="char:EOLhyphen"/>touched, or vnanſwered. And may not I pray you, his ſeduced fellowes, glory to haue gotten ſo ſtout
+<pb facs="tcp:181129:4"/> a Champion, that can with ſuch dexteritie diſ<g ref="char:EOLhyphen"/>ſpatch three bookes at once. And is not this ſuf<g ref="char:EOLhyphen"/>ficient to diſcredite all <hi>T. V.</hi> Booke? No doubt it will ſtay the languiſhing deſire of many Papiſts; that there is now ſome hope, the grounds of their Religion, ſhall be particularly defended; and <hi>Tho. Vdals</hi> Booke wholly confuted: though Doctor <hi>Norris</hi> had it ſixe monethes, before it was printed, and ſaid nothing: and that it hath beene now two yeeres, ſince it was publiſhed, and onely fiue poore places of no conſequence at all, for the ſubſtance, pretended to be falſified. But I had well hoped, that Maſter <hi>B. C.</hi> profeſſing himſelfe a ſtudent in Diuinitie: And an accepter of Maſter <hi>Bels</hi> Chal<g ref="char:EOLhyphen"/>lenge, (with ſo many and ſeuerall coniurations; wherewith <hi>he vrgeth, preſſeth, and prouoketh him to diſputation;</hi>
+               <note place="margin">Sect. 18. of B.C. Preface.</note>) hauing ſeene in the Preface of my Booke, with what earneſtneſſe I had requeſted; and by ſo many ſeuerall reaſons vrged, to haue had my Booke anſwered: I had well hoped, I ſay, That Maſter <hi>B. C.</hi> would, euen for the merit of winning ſoules, And for the greater glory of that Catholique trueth, whereof he ſo much boaſteth; haue made a full, and perfite anſwere to the ſame: And not haue wronged the learning and reputati<g ref="char:EOLhyphen"/>on, we might haue conceiued him to haue had; with ſuch triuiall exceptions. But no doubt this is ſufficient to perſwade ſome of his credulous crew, that the booke is anſwered. And yet, if I ſhould charge him with the like exceptions, as Maſter <hi>Bell</hi> doth; and tell him, <hi>It ſtands not with the credite of the Catholique cauſe or Romiſh Diuines, to anſwere by pat<g ref="char:EOLhyphen"/>ches and peeces:</hi> I muſt looke to receiue the ſame
+<pb facs="tcp:181129:4"/> anſwer, he hath made to him, in this his Preface to vs all, <hi>That he hopes the good Reader will conſider, that as he was not bound to meddle with the Pamphlet at all: So was it at his choice to leaue what he liſted, and take what hee pleaſed; eſpecially making open profeſſion of that courſe:</hi> An anſwere no doubt worthy of ſuch a refuter, ſince children, where they cannot read, skip ouer. And therefore good Reader, thou maiſt ſee by this little, what thou muſt expect hereafter: That when hee hath ſhewed <hi>the flawes, and mala<g ref="char:EOLhyphen"/>dies of my Treatiſe,</hi> (as hee ſuppoſeth) and diſgor<g ref="char:EOLhyphen"/>ged himſelfe, of ſome carping exceptions, againſt ſome miſtaken queſtions (if any ſuch happen to occurre) The ſubſtance of the Booke will ſtand ſound and firme, againſt all the cauelling Cham<g ref="char:EOLhyphen"/>pions of the Romiſh Synagogue. And ſo wi<g ref="char:EOLhyphen"/>ſhing them all increaſe of knowledge to Gods glory, I bid them Farewell in Chriſt.</p>
+            <closer>
+               <signed>Tho. Vdall.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:181129:5"/>
+            <pb n="1" facs="tcp:181129:5"/>
+            <head>
+               <hi>A briefe Replie of</hi> Tho<g ref="char:EOLhyphen"/>mas <g ref="char:V">Ʋ</g>dall <hi>Gentle. to a ſhort Memorandum, or ſhew of anſwere,</hi> againſt his Booke, Intituled, A briefe view of the VVeake Grounds of Popery, By <hi>B. C.</hi> ſtudent in Diuinitie, according to the order propoſed in the Preface.</head>
+            <div n="1" type="section">
+               <head>B. C. Sect. <hi>1.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">B</seg>Eeing thus diſpatched of <hi>Maſter Rogers:</hi> it remaineth to ſpeake a word or two of another Booke, which was not long ſince ſent me, and is Intituled. <hi>A briefe viewe of the weake grounds of Popery,</hi> compiled to<g ref="char:EOLhyphen"/>gether by one <hi>Maſter <g ref="char:V">Ʋ</g>dall,</hi> a lay Gen<g ref="char:EOLhyphen"/>tleman of diuers Engliſh Controuertiſts, as himſelfe ſeemeth to inſinuate, and in
+<pb n="2" facs="tcp:181129:6"/> all probabilitie cannot otherwiſe bee thought, and ſo no maruaile, if the waters bee not ſound, when they were drawen from corrupt fountaines, and who can euer looke for a well ſhapen garment, made after a crooked meaſure. <hi>Grapes are not gathered of thornes,</hi>
+                  <note place="margin">Mat. 8.16.</note> 
+                  <hi>nor figges of thiſtles,</hi> as our Sauiour ſaith: yet doth it ſo much pleaſe <hi>Maſter <g ref="char:V">Ʋ</g>dall,</hi> that hee doth ſeeme to take great heart of grace, for that hee was not anſwered with that expedition he expected. The more haſte hee ma<g ref="char:EOLhyphen"/>keth, the more he vrgeth his owne diſ<g ref="char:EOLhyphen"/>grace, if malice haue ſet him a worke: but if it be true zeale of truth, and ſauing his ſoule as he pretendeth, I deſpaire not of his conuerſion: wherefore either for the ſpirituall profit of himſelfe, or the commoditie of other, or common good of both, I will now preſent him with a ſhort ſample of ſuch foule flawes as bee in his booke, minding afterward with more full hand to proſecute that ſubiect.</p>
+               <div type="answer">
+                  <head>T. V.</head>
+                  <p>IT ſéemes, at the firſt entrance of Maſter <hi>B. C. Memorandu<g ref="char:cmbAbbrStroke">̄</g>,</hi> That he would wil<g ref="char:EOLhyphen"/>lingly extenuate the matter of my Booke,
+<pb n="3" facs="tcp:181129:6"/> by tearming me <hi>A lay Gentleman:</hi> inſinu<g ref="char:EOLhyphen"/>ating to his Popiſh dependants, That they ſhould not ſo much weigh, what is ſpoken, as who ſpeakes: though all men of iudgement, weigh rather the ſpeech, then the ſpeaker. And ſo (I hope) will not inquire ſo much what I am, as what I ſay. The generall ſcope and drift of my whole booke may bee thus deduced.</p>
+                  <list type="syllogism">
+                     <item>That Religion which hath weake, and vncertaine grounds, cannot bee the true Religion:</item>
+                     <item>But Popiſh Religion hath weake and vncertaine grounds:</item>
+                     <item>
+                        <hi>Ergo,</hi> Popiſh Religion cannot bee the true Religion.</item>
+                  </list>
+                  <p>The Maior is euident, and the Minor is prooued throughout my whole booke, in the Refutation of euery particular grounde of Popery. Againſt my Booke Maſter <hi>B. C.</hi> reaſoneth thus.</p>
+                  <list type="syllogism">
+                     <item>That which is drawen from Engliſh Controuertiſts, cannot be ſound:</item>
+                     <item>But Maſter <hi>Vdalles</hi> Booke is drawen from Engliſh Controuertiſts:</item>
+                     <item>
+                        <hi>Ergo,</hi> Maſter <hi>Vdalles</hi> Booke cannot be ſound.</item>
+                  </list>
+                  <p>How Maſter. <hi>B. C.</hi> hath quit himſelfe
+<pb n="4" facs="tcp:181129:7"/> for the proofe either of his Maior, or Minor, I leaue to the cenſure of the learned. But I pray you let me aſke you this queſtion: May not truth bee drawen from Engliſh Controuertiſts? What will then become of <hi>Hardings</hi> workes, the <hi>Rhemes Teſta<g ref="char:EOLhyphen"/>ment, Cardinall Allens, Parſons, Ray<g ref="char:EOLhyphen"/>nolds, Briſtowes, and your owne,</hi> with many others: Surely if the feathers, you haue borrowed from <hi>Harding, Stapleton,</hi> and others, were pluckt from you; your whole booke would be as naked, as <hi>Eſopes</hi> Crow. <hi>If I haue take<g ref="char:cmbAbbrStroke">̄</g> great heart of grace, for that I was not anſwered with that ex<g ref="char:EOLhyphen"/>pedition I expected:</hi> I may doe ſo ſtill, for any anſwere I haue yet made you: neither doe I ſee any cauſe now to diſcou<g ref="char:EOLhyphen"/>rage me, ſince that after almoſt two yéeres (méeting with one ſo ſharpe ſighted, as your ſelfe) I find nothing anſwered to any pur<g ref="char:EOLhyphen"/>poſe. For I truely proteſt, I ſée not, (nei<g ref="char:EOLhyphen"/>ther I thinke doe you) <hi>What ſpirituall profite to my ſelfe, or what commoditie to other; or what common good to both; the ſhort ſample of ſuch foule flawes, as you preſent me with,</hi> ſhould procure either to other, or to me. <hi>But you mind hereafter</hi> (you ſay) <hi>to proſecute that
+<pb n="5" facs="tcp:181129:7"/> ſubiect, with a more full hand:</hi> you had neede; for this is very barren, and emptie. And if your promiſes hereafter, prooue no better, then theſe ſuppoſed flawes, now pre<g ref="char:EOLhyphen"/>ſented; you may well chaunge your opini<g ref="char:EOLhyphen"/>on: And ſay, <hi>you diſpaire altogether of my conuerſion.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="section">
+               <head>B. C. Sect. 2.</head>
+               <p>IN his Preface to his deereſt Couſins, (whom with poyſon lurking vnder ſu<g ref="char:EOLhyphen"/>gred words he laboureth to inuenome) hee accuſeth vs of open blaſphemie a<g ref="char:EOLhyphen"/>gainſt the ſacred Scriptures: which I thinke will rather proue a groſſe vntruth on his part, and where is this blaſphemie contained? in a booke as he telleth vs of Cardinall <hi>Cuſanus,</hi> which is intituled, <hi>De authoritate, &amp;c, Of the authoritie of the Church, and Councels, aboue and againſt the Scriptures.</hi> But I beſeech him, did he euer ſee this booke, which ſo confidently hee alleageth? if he hath, then ſhould he haue done well to haue noted where, that the Reader alſo might haue found it, ſeeing it is not amongſt the three Tomes of his workes, ſet out at <hi>Baſill,</hi>
+                  <note place="margin">In the yeere 1565.</note> neither mentio<g ref="char:EOLhyphen"/>ned by <hi>Trithemius,</hi> who hath diligently
+<pb n="6" facs="tcp:181129:8"/> gathered together, the workes of learned writers: nor yet by <hi>Poſſeuinus</hi> who hath lately entreated of the ſame matter.<note place="margin">In the yeere 1565.</note> If he hath not: what indiſcretion is it, in ſo weightie a point, to relie vpon the credit of others. Verily, wold ſuch as read Pro<g ref="char:EOLhyphen"/>teſtants bookes, but vouchſafe ſometime to examine the quotations, it were not poſsible that they could bee ſo pitti<g ref="char:EOLhyphen"/>fully deceiued, as they daily be: <hi>Cuſanus</hi> is abuſed, he neuer wrot any ſuch booke. This vntruth it may bee borrowed from Maſter <hi>Iewell,</hi>
+                  <note place="margin">Detection. lib. 5. pag. 410.</note> who doth not onely cite that booke, but alſo (as though hee had knowen it very well) quote very many places out of the ſame, as hee is charged by Doctor <hi>Harding:</hi> which ar<g ref="char:EOLhyphen"/>gueth that out of true bookes hee could haue proued any thing for himſelfe, that out of one, which was neuer written, found ſo many teſtimonies to ſerue his turne. I would not wiſh Maſter <hi>Vdall,</hi> to imploy his time ſo badly, as with the touch of his credite, and perill of his owne ſoule, to retale the vntruths of ſuch groſſe Merchants.</p>
+               <div type="answer">
+                  <pb n="7" facs="tcp:181129:8"/>
+                  <head>T. V.</head>
+                  <p>THat, which you call <hi>Poyſon,</hi> is rather an <hi>Antidote</hi> againſt the infection of ſuch poyſoned ſpirits, as yours: But to the matter, it is true, that in the Preface of my booke I haue charged the Papiſts iuſt<g ref="char:EOLhyphen"/>ly with blaſphemie. The force of my rea<g ref="char:EOLhyphen"/>ſon there may be thus deduced.</p>
+                  <list type="syllogism">
+                     <item>Thoſe, which haue publiſhed blaſphe<g ref="char:EOLhyphen"/>mies in print againſt the ſacred Scriptures, haue vttered open blaſphemie:</item>
+                     <item>But the Papiſts haue publiſhed blaſphe<g ref="char:EOLhyphen"/>mies in print againſt the ſacred Scriptures:</item>
+                     <item>
+                        <hi>Ergo,</hi> the Papiſts haue vttered open blaſphemie.</item>
+                  </list>
+                  <p>The Maior is euident, and the Minor is prooued by <hi>Cardinall Cuſanus, Sylueſter Prierias, Boniface, the Arch-biſhop of Mentz, Hoſius, Eckius, and others.</hi> A<g ref="char:EOLhyphen"/>gainſt which Maſter <hi>B. C.</hi> reaſoneth thus.</p>
+                  <list type="syllogism">
+                     <item>If Cardinall <hi>Cuſanus</hi> neuer writ any ſuch booke, then there is no ſuch blaſphe<g ref="char:EOLhyphen"/>mie:</item>
+                     <item>But Cardinall <hi>Cuſanus</hi> neuer writ any ſuch booke:</item>
+                     <item>
+                        <hi>Ergo,</hi> there is no ſuch blaſphemie.</item>
+                  </list>
+                  <p>I denie the conſequence of the propoſiti<g ref="char:EOLhyphen"/>on,
+<pb n="8" facs="tcp:181129:9"/> though Maſter <hi>B. C.</hi> would inſinuate, by the queſtion, and anſwere, That there had béene no other proofe, to iuſtifie my ac<g ref="char:EOLhyphen"/>cuſation, but that of the Cardinals, ſaying: <hi>But where is this blaſphemie conteined? In a Booke (as he telleth vs) of Cardinall Cuſanus, which is intituled, <hi>De Authori<g ref="char:EOLhyphen"/>tate, &amp;c.</hi> Of the Authoritie, &amp;c.</hi> What? In that booke onely? And not alſo in diuers other places, and authors? Why are all thoſe omitted? Why is this one ſingled out of the heard? Surely, becauſe this ſeemed likely to admit ſome cauill; they were out of daunger. But is it a iuſt difference; whe<g ref="char:EOLhyphen"/>ther the blaſphemie be in the Title of the Booke, or in the booke it ſelfe? For albeit, it were not in the title of the booke (as both Biſhop <hi>Iewell,</hi> and Doctor <hi>Downam</hi> af<g ref="char:EOLhyphen"/>firme it is) yet it is in the booke of his Epi<g ref="char:EOLhyphen"/>ſtles, as I haue ſhewed in the Preface: And to conuince euidently this blaſphemie of the Cardinals I will ſhew once againe. The Blaſphemie mainteined is, that they were to receiue the Communion in both kindes, according to the Scriptures: a<g ref="char:EOLhyphen"/>gainſt which the Cardinall, oppoſeth him<g ref="char:EOLhyphen"/>ſelfe, in diuers places of his Epiſtles, and for the iuſtifying of his aſſertion, he vrgeth
+<pb n="9" facs="tcp:181129:9"/> theſe words, as I haue ſet them downe in the Preface. <hi>It is no maruaile (ſaith he) though the practiſe of the Church,</hi>
+                     <note place="margin">Nicola. Cu<g ref="char:EOLhyphen"/>ſa. ad Bo<g ref="char:EOLhyphen"/>hem. Epiſt. 7</note> 
+                     <hi>ex<g ref="char:EOLhyphen"/>pound the Scriptures, at one time one way, and at another time another way; For the vnderſtanding or ſenſe of the Scriptures runneth with the practiſe, and that ſenſe agreeing with the practiſe is the quickning ſpirit;</hi> And a litle after he concludes, <hi>And therefore the Scriptures follow the Church, but contrariwiſe the Church followeth not the Scriptures.</hi> Now that, which precedes in authoritie, is aboue that which followes: and ſo the Church, by their diuinity, is auouched to bee aboue the Scriptures. And if the Church follow not the Scriptures, it is euident (if God, and his word be both one) <hi>That he, that is not with the Scripture is againſt it.</hi> And ſo the matter of the Epiſtle is all one with that title <hi>of the authoritie of the Church and Councel, aboue and againſt the Scriptures,</hi> though the Epiſtle it ſelfe be not ſo intituled.</p>
+                  <p>And that you may know this opinion or blaſphemie, is not peculiar to the Cardi<g ref="char:EOLhyphen"/>nall, or to one Papiſt onely: <hi>Eckius</hi> in his <hi>Enchiridion of the authoritie of the
+<pb n="10" facs="tcp:181129:10"/> Church, Anſw.</hi> the third, hath ſet down, that this poſition: The Scripture is greater then the authoritie of the Church is to bee reputed amongſt hereticall aſſertions, and that the contrary propoſition is Catholique. And this blaſphemie of theirs is ſo generall, that you ſhall find this ſentence often inſer<g ref="char:EOLhyphen"/>ted in the Common Law. The Church is aboue the Scriptures.</p>
+                  <p>The other place of the Cardinals there noted, is this: <hi>This is the iudgement, (ſaith he) of all them that thinke rightly; that they found the authoritie,</hi>
+                     <note place="margin">Ad Bohem. Epiſt. 2.</note> 
+                     <hi>and vnder<g ref="char:EOLhyphen"/>ſtanding of the Scriptures in the allow<g ref="char:EOLhyphen"/>ance of the Church; and not contrariwiſe lay the foundation of the Church in the authoritie of the Scriptures.</hi> Now if this bee ſound diuinitie; then may your proud Clergie, aſſume vnto themſelues to bee Lords of the Scriptures. For how directly ſo euer the Scriptures be againſt them (as in this inſtance of the communion to be had in both kinds, it is moſt directly) they may giue it what ſenſe they liſt: yea expound it to day, after one faſhion; and to morrow af<g ref="char:EOLhyphen"/>ter another, as ſhall pleaſe the Pope, and his Clergie: which can no way agree with the ſpirit of God; who is alwayes one and
+<pb n="11" facs="tcp:181129:10"/> the ſame. And if this conuince not the Car<g ref="char:EOLhyphen"/>dinals blaſphemie: See the <hi>3.</hi> Epiſtle of the ſame booke pag. <hi>838.</hi> where hee ſaith, When the Church chaungeth her iudge<g ref="char:EOLhyphen"/>ment, God alſo chaungeth his.</p>
+                  <p>But admit I had failed in this proofe: yet had the other teſtimonies bene ſufficient, to approoue the truth of my accuſation: if theſe and ſuch like may iuſtly be tearmed blaſphemies<note n="a" place="margin">Sylueſt. Prier, cont. Lutheri con<g ref="char:EOLhyphen"/>cluſiones de poteſt. Pap.</note> 
+                     <hi>That indulgences are war<g ref="char:EOLhyphen"/>ranted vnto vs, not by the authoritie of the Scriptures, but by the authoritie of the Church, and Pope of Rome; which is greater.</hi>
+                     <note n="b" place="margin">Diſt. 40. C. Si Papa.</note> 
+                     <hi>That they rather deſire the ancient inſtitution of Chriſtian Religion from the Pope, then from the holy Scrip<g ref="char:EOLhyphen"/>ture.</hi>
+                     <note n="c" place="margin">Eckius de Eccleſ.</note> 
+                     <hi>That the Scripture is not au<g ref="char:EOLhyphen"/>thenticall, but by the authoritie of the Church:</hi>
+                     <note n="d" place="margin">Henric. Ma<g ref="char:EOLhyphen"/>giſt. Sacr Pa<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>atii Romae ad legat Bo<g ref="char:EOLhyphen"/>hem. ſub Feli<g ref="char:EOLhyphen"/>ce pap. 1447.</note> 
+                     <hi>That the Pope may change the holy Goſpell, &amp;c.</hi>
+                     <note n="e" place="margin">Vid. Kemp<g ref="char:EOLhyphen"/>nit. exam. part. 1. pag. 47.</note> 
+                     <hi>That the Scrip<g ref="char:EOLhyphen"/>ture, without the authority of the church, is of no better worth then Eſopes Fables.</hi> And becauſe I will bee as charitable to Maſter <hi>B. C.</hi> and as full of good wiſhes though I haue no hope of his conuerſion) as he is to me: I could wiſh, that he would not imploy his time ſo badly, as to colour or iuſtifie ſuch open, and palpable blaſphemie.
+<pb n="12" facs="tcp:181129:11"/> And ſurely, would ſuch as read both Popiſh, and Proteſtants bookes, <hi>Trie the ſpirits, whether they be of God or no;</hi> would not the Popiſh Prieſts prohibite the reading of our bookes: would the Papiſts therin hold any indifferencie; it were not poſſible, that they could be ſo ſeduſed with Popery.</p>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <head>B. C. Sect. 3.</head>
+               <p>
+                  <hi>IN his fourth page, thus he writeth.</hi> Yea Arias Montanus a chiefe Papiſt, in his Hebrew Bible, writeth in the forefront and principall leafe of the booke. There are addded (ſaith he) in this edition, the bookes written in Greeke, which the Ca<g ref="char:EOLhyphen"/>tholike Church following the Canon of the Hebrews reckneth amongſt the Apo<g ref="char:EOLhyphen"/>crypha. <hi>The true ſenſe of</hi> Arias Montanus <hi>words is corrupted, either by Maſter</hi> Vdall, <hi>or ſome other, from whom he had them, by foy<g ref="char:EOLhyphen"/>ſting in diuers of their owne. That learned man in the edition of the Hebrew Bible,</hi>
+                  <note place="margin">Arituerplae ex officin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chri<g ref="char:EOLhyphen"/>ſtoph. Plaut. 1584.</note> 
+                  <hi>with the Latin interlineall interpretation, in the Title page, ſaith.</hi> There are adioyned to this e<g ref="char:EOLhyphen"/>dition, the bookes written in Greeke, which are called Apocrypha. <hi>Hee ſaith not, they bee Apocrypha: but that they are ſo
+<pb n="13" facs="tcp:181129:11"/> called by ſome, that is the Iewes, who exclude them from their Hebrew Canon, which he had there ſet foorth. That other addition,</hi> viz. which the Catholike Church following the Canon of the Hebrewes reckoneth amongſt the (Apocrypha) <hi>vpon which the force of his charge dependeth, are not in</hi> Arias Montanus: <hi>where Maſter</hi> Vdall <hi>had them, himſelfe beſt knoweth.</hi>
+               </p>
+               <div type="answer">
+                  <head>T. V.</head>
+                  <p>IT is true, that in the fourth page I haue ſhewed, how the Papiſts diſſent from the Fathers both auncient and moderne. The reaſon there may thus be deduced.</p>
+                  <list type="syllogism">
+                     <item>That Church, which diſſents from the Fathers, both antient, and moderne; tou<g ref="char:EOLhyphen"/>ching the Canonicall, and Apocryphall Scriptures, cannot truely boaſt of their a<g ref="char:EOLhyphen"/>greement with them in all points:</item>
+                     <item>But the Popiſh Church diſſents from the Fathers, both ancient, and moderne, touching the Canonicall, and Apocryphall Scriptures:</item>
+                     <item>
+                        <hi>Ergo,</hi> the Popiſh Church cannot truely boaſt of their agreement with them in all points.</item>
+                  </list>
+                  <p>The Maior is plaine in it ſelfe; and the
+<pb n="14" facs="tcp:181129:12"/> Minor is proued by theſe teſtimonies,<note n="(a)" place="margin">Hier. in prol. galea. &amp; epiſt. ad Pau<g ref="char:EOLhyphen"/>li. et in praefa. lib. Reg. et in praefa. prolo. Salom.</note> S. <hi>Hierom</hi>
+                     <note n="(b)" place="margin">Ruf. in his expo. vpon the Creede.</note> 
+                     <hi>Rufinus,</hi>
+                     <note n="(c)" place="margin">Cyril. of Hieru. in the <hi>4.</hi> of his Catachiſ.</note> 
+                     <hi>Cyrill of Hieruſa<g ref="char:EOLhyphen"/>lem,</hi>
+                     <note n="(d)" place="margin">Athan. in Synop. Salu. Sempit.</note> 
+                     <hi>Athanaſius,</hi>
+                     <note n="(e)" place="margin">Nazianz. in carminib.</note> 
+                     <hi>Nazianzen,</hi>
+                     <note n="(f)" place="margin">Epipha. de menſu. et pond.</note> 
+                     <hi>E<g ref="char:EOLhyphen"/>piphanius,</hi>
+                     <note n="(g)" place="margin">Cypr. vpon the Creede.</note> 
+                     <hi>Cyprian,</hi>
+                     <note n="(h)" place="margin">
+                        <hi>Damaſ.</hi> 49.</note> 
+                     <hi>Damaſcenus,</hi>
+                     <note n="(i)" place="margin">Hugo. de Sanct. vict. de Sac. in prolog. lib. <hi>1.</hi> cap. <hi>7.</hi>
+                     </note> 
+                     <hi>Hugo de Sanct. victor.</hi>
+                     <note n="(k)" place="margin">Radul. in Leuit. lib. <hi>14.</hi> cap. <hi>1.</hi>
+                     </note> 
+                     <hi>Radulphus</hi>
+                     <note n="(l)" place="margin">Lyr. in pro. in lib. Apoc.</note> 
+                     <hi>Lyra,</hi>
+                     <note n="(m)" place="margin">Hugo Car. in pr. Ioſua.</note> 
+                     <hi>Hugo Cardinalis. And</hi>
+                     <note n="(n)" place="margin">Arias in his Hebrewe Bible.</note> 
+                     <hi>Arias Montanus,</hi> Againſt which Ma<g ref="char:EOLhyphen"/>ſter <hi>B. C.</hi> reaſoneth thus.</p>
+                  <list type="syllogism">
+                     <item>If <hi>Arius Montanus</hi> be corrupted by M. <hi>Vdall,</hi> or ſome other, from whom hee had them, by foyſting in words of their owne, vpon which the force of the charge depen<g ref="char:EOLhyphen"/>deth, then is Maſter <hi>Vdall,</hi> or ſome other, from whence he had them, proued to be cor<g ref="char:EOLhyphen"/>rupters, and thoſe Scriptures, which wee defend to be Canonicall, are not conuinced to be Apocryphall.</item>
+                     <item>But the Antecedent is true.</item>
+                     <item>
+                        <hi>Ergo,</hi> the Conſequent.</item>
+                  </list>
+                  <p>I denie the conſequence of the propoſiti<g ref="char:EOLhyphen"/>on, becauſe if this place had bene miſalleaged; yet had that, which I intended, bene ſuffici<g ref="char:EOLhyphen"/>ently
+<pb n="15" facs="tcp:181129:12"/> conuinced by the teſtimonies of the o<g ref="char:EOLhyphen"/>ther fathers and writers, which I alleaged. And is not this a ſubſtantiall argument, for ſuch a diſputant as Maſter <hi>B. C.</hi> would bee preſumed to bee, by his many, and ſeuerall <hi>Coniurings, Adiurings,</hi>
+                     <note place="margin">Prefat. Sect. 18. of his booke.</note> 
+                     <hi>and exorciſmes</hi> of M. <hi>Bell</hi> to diſputation? But, if heerein the vntruth, and corruption be iuſtly retur<g ref="char:EOLhyphen"/>ned vpon himſelfe; with what countenance will hee looke vpon his followers, when it may happily come to their knowledge, That he, that is the Counter challenger, &amp; common taxer of others, ſhall be found guil<g ref="char:EOLhyphen"/>tie of that crime, which he obiects to others. Would God that lay Papiſts would make tryall of their teachers ſinceritie, whereof they brag ſo much, by accuſing others. But to cleare my ſelfe from this corruption; let the Reader ſee the ſame Hebrewe Bible which is noted by Maſter <hi>B. C. 1584.</hi> and he ſhall find the words as I haue alleaged them, truely deliuered; which for his better ſatiſfaction, I will ſet downe in Latin, leaſt hee except againſt the tranſlation. The words be theſe, <hi>Acceſſerunt, &amp; huic aeditioni, libri Graecè Scripti, quos Eccleſia orthodoxa, Hebraeorum Canonem ſecuta, inter Apocry<g ref="char:EOLhyphen"/>phos recenſet. <hi>There are added (ſaith hee)
+<pb n="16" facs="tcp:181129:13"/> to this edition the bookes written in Greeke, which the Catholike Church, following the Canon of the Hebrewes, receiueth amongſt the Apocrypha.</hi>
+                     </hi> Thus you ſee I haue proued that, whereon you confeſſe the force of my charge depen<g ref="char:EOLhyphen"/>deth; and therefore, by your owne confeſſi<g ref="char:EOLhyphen"/>on thoſe Scriptures, which the Proteſtants reiect, are approued to be Apocrypha. But for that I am a lay Gentleman, and Maſter <hi>B. C.</hi> A ſtudent in Diuinitie, I may not v<g ref="char:EOLhyphen"/>ſurpe that ſpeech of his, and tell him; <hi>That if he looked into the originals, hee could not retaile the vntrueth of ſuch groſſe Merchants.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="section">
+               <head>B. C. Sect. <hi>4.</hi>
+               </head>
+               <p>IN the fift page, he writeth thus. <hi>The Coun<g ref="char:EOLhyphen"/>cell of Laodicea, aſſured by a generall Councell of Trullo, did ſet downe the ſame Canon of the Scriptures, which both the old Church had,</hi>
+                  <note place="margin">
+                     <hi>Can.</hi> 59.</note> 
+                  <hi>&amp; our Church holdeth: and commaundeth.</hi> Ne a<g ref="char:EOLhyphen"/>liqui, &amp;c. <hi>That none beſides bee read, and receiued into authoritie.</hi> How many things of note, are compriſed in theſe fewe lines againſt Maſter <hi>Vdall.</hi> Firſt he ſeemeth great<g ref="char:EOLhyphen"/>ly to reuerence theſe two Councels, which yet
+<pb n="17" facs="tcp:181129:13"/> is but a coppy of his countenance, to delude the ignorant Reader, for I doe not thinke that hee will stand either to the one or other, though con<g ref="char:EOLhyphen"/>tent he is, to preſſe vs with their authoritie. For example, the Councell of <hi>Laodicea,</hi>
+                  <note place="margin">Can. 48. Can. 50.</note> comman<g ref="char:EOLhyphen"/>deth Criſme to bee receiued after Baptiſme: and that the faſt of lent be obſerued: neither of which, I am ſure, pleaſeth Maſter <hi>Vdall.</hi> Likewiſe the Councell of <hi>Conſtantinople</hi> holden in <hi>Trullo</hi> alloweth of images, and their veneration, when it calleth them, <hi>imagines venerabiles,</hi> venerable images, which I make no doubt, nothing pleaſeth his taſt.<note place="margin">Can. 82. Can 6. Can. 58.</note> The ſame Councell forbiddeth Biſhops, Prieſts, Deacons, and Subdeacons, to marry wiues after taking of Orders: and commaundeth Biſhops not to dwell with their wiues, which they married be<g ref="char:EOLhyphen"/>fore they entred into the higher Orders of the Clergy: which ſeueritie of theirs muſt vtterly diſlike him, as being in his opinion, contrary to the word of God.</p>
+               <div type="answer">
+                  <head>T. V.</head>
+                  <p>IT is true that in the fift page, I haue al<g ref="char:EOLhyphen"/>leaged the Councell of <hi>Laodicea</hi> allow<g ref="char:EOLhyphen"/>ed by a generall Councell of <hi>Conſtantino<g ref="char:EOLhyphen"/>ple in Trullo,</hi> for the proofe of that Canon of the Scriptures, which is in queſtion
+<pb n="18" facs="tcp:181129:14"/> betweene the Papiſts and vs; The force of my reaſon there, may be thus deduced.</p>
+                  <list type="syllogism">
+                     <item>The Canon of the Scriptures, which is ſet downe by a particular Councell, allowed by a generall Councell, is to be held as good and ſufficient:</item>
+                     <item>But the Canon of the Scriptures ap<g ref="char:EOLhyphen"/>prooued by the Church of England, is ſet downe by a particular Councell, allowed by a generall Councell:</item>
+                     <item>
+                        <hi>Ergo,</hi> the Canon of the Scriptures ap<g ref="char:EOLhyphen"/>proued by the Church of England, is to bee held as good and ſufficient.</item>
+                  </list>
+                  <p>The Maior is prooued by all thoſe Pa<g ref="char:EOLhyphen"/>piſts, that preferre the Councell before the Pope; for till late dayes there was no con<g ref="char:EOLhyphen"/>trouerſie hereof.</p>
+                  <p>The Minor is proued by the words of the Councell ſet downe by me, as M. <hi>B.C.</hi> re<g ref="char:EOLhyphen"/>lates them: <hi>Wherin many things of note</hi> (as he ſaith) <hi>are compriſed againſt mee, which notes of his I will handle particu<g ref="char:EOLhyphen"/>larly.</hi>
+                  </p>
+                  <p>The force of his reaſon in this Section, lies thus.</p>
+                  <list type="syllogism">
+                     <item>If the Councell of <hi>Laodicea,</hi> and the ge<g ref="char:EOLhyphen"/>nerall Councell of <hi>Conſtantinople in Trullo</hi> doe hold diuers thinges as Chryſme,
+<pb n="19" facs="tcp:181129:14"/> and that Prieſtes ſhould not marry after ordination, &amp;c. which Maſter <hi>Vdal</hi> diſlikes: then is it but a coppie of Maſter <hi>Vdals</hi> countenance to delude the ignorant, to ſéeme to reuerence thoſe Councels by preſſing vs with their authoritie.</item>
+                     <item>But the antecedent is true.</item>
+                     <item>
+                        <hi>Ergo,</hi> the conſequent.</item>
+                  </list>
+                  <p>If I would trifle as Maſter <hi>B. C.</hi> doth, I could tell him, that it followeth in the ſame 6. Canon, that if thoſe, which will he of the Clergie, will marry before ordinati<g ref="char:EOLhyphen"/>on they may. And in the 13. Canon, that they may not bee ſeparated from their wiues, nor depriued of the vſe of them: and that thoſe, which vnder pretext of pietie, expell their wiues, are to be excommunica<g ref="char:EOLhyphen"/>ted: all which I am ſure pleaſeth not Ma<g ref="char:EOLhyphen"/>ſter <hi>B. C.</hi> chaſte eares. But could any man, that profeſſeth himſelfe a ſtudent in Diuinitie, reaſon thus impertinently; if hee were not perſwaded, that any thing would paſſe for currant amongſt the ſeduced Papiſts: and can any man be ignorant, that hath read my booke; that the whole ſcope, and drift thereof, tends to ſhew the weake<g ref="char:EOLhyphen"/>neſſe of the Grounds of Poperie: of which, that of Councels, is helde a chiefe one
+<pb n="20" facs="tcp:181129:15"/> with them. For howſoeuer the controuerſie amongſt themſelues; <hi>Whether the Pope be aboue the Councell, or the Councell aboue the Pope:</hi> Or <hi>whether Councels ſhould be confirmed by the Pope, or not confirmed;</hi> be not yet determined: yet we profeſſe to reuerence Councels no farther, then their doctrine is conſonant, and agrée<g ref="char:EOLhyphen"/>able to the Scriptures: according to the opinion of that famous clarke Saint <hi>Auſtin;</hi> who writing againſt <hi>Maximinus</hi> long be<g ref="char:EOLhyphen"/>fore this new Popery was hatched, ſaith thus:<note place="margin">Cont. Max. lib. 3. ca. 14.</note> 
+                     <hi>But neither ought I to produce the Councell of Nice, nor you the Councell of Ariminum for a preiudice; for neither am I tyed to the authoritie of this, nor you to the authoritie of that; but let matter with matter, cauſe with cauſe, rea<g ref="char:EOLhyphen"/>ſon with reaſon; contend by the autho<g ref="char:EOLhyphen"/>ritie of the Scriptures, not proper to any, but indifferent witneſſes to both partes.</hi> You ſée heare, and may in diuers other pla<g ref="char:EOLhyphen"/>ces of my booke, what opinion S. <hi>Auſtin</hi> had of Councels, that would not haue his aduerſary tied, to the authoritie of the great Councell of Nice; comparable to which no Councell was euer yet, ſince the Apoſtles. But if I had failed in this proofe, yet was
+<pb n="21" facs="tcp:181129:15"/> the matter there intended ſufficiently proued by other teſtimonies; which you acknow<g ref="char:EOLhyphen"/>ledge to bee your owne grounds.<note place="margin">Greg. Tom. 3. pag. 291.</note> Neither was it vrged to delude the ignorant, as you either ignorantly or maliciouſly affirme but rather to ſhew, how you varie both from Fathers and Councels, when they make againſt you.</p>
+               </div>
+            </div>
+            <div n="5" type="section">
+               <head>B. C. Sect. <hi>5.</hi>
+               </head>
+               <p>SEcondly this Councell of <hi>Constantino<g ref="char:EOLhyphen"/>ple</hi> in <hi>Trullo</hi> is of no authoritie, as in which the Pope neither by himſelfe, nor by his Legates, was preſent,<note place="margin">Lib. de ſex aet atibus In Iuſtiniano.</note> and Pope <hi>Sergius,</hi> who then liued, did diſanull that erraticall Synode, as venerable <hi>Bede</hi> wri<g ref="char:EOLhyphen"/>teth: with what conſcience then can Ma<g ref="char:EOLhyphen"/>ſter <hi>Vdall</hi> call that a generall Councell, and vrge the authoritie therof as authen<g ref="char:EOLhyphen"/>ticall: when as not onely we, but alſo the Proteſtants vtterly reiect it, albeit in this point, we for our parts ſee no cauſe to re<g ref="char:EOLhyphen"/>fuſe it. Thirdly true it is not, that the Councell of <hi>Laodicea</hi> ſetteth downe the ſame Canon of the Scriptures, which the Church of England alloweth: for the <hi>Apo<g ref="char:EOLhyphen"/>calypſe</hi> or Reuelation of Saint <hi>Iohn</hi> is o<g ref="char:EOLhyphen"/>mitted. Fourthly, this Councell forbid<g ref="char:EOLhyphen"/>deth
+<pb n="22" facs="tcp:181129:16"/> the reading of others, not there ex<g ref="char:EOLhyphen"/>preſſed: yet the Church of <hi>England</hi> rea<g ref="char:EOLhyphen"/>deth the hiſtories of <hi>Iudith,</hi> and <hi>Tobie</hi> in their publike aſſemblies: which Maſter <hi>Vdall</hi> I ſuppoſe will hardly ſhew, how it agreeth with the decree of that Councel. Fiftly he hath corrupted be Councell by adding ſomewhat of his owne: for theſe words: <hi>and receiued into authoritie</hi> bee not there found. Would any euer haue thought, that ſo many things, could haue bene noted againſt him, in ſo ſmall a ſen<g ref="char:EOLhyphen"/>tence? If Maſter <hi>
+                     <g ref="char:V">Ʋ</g>dall</hi> hath viewed the o<g ref="char:EOLhyphen"/>riginall; hardly can he bee excuſed from malice: if hee hath not, let him beſhrew their fingers, vpon whoſe credite, hee committed them to writing.</p>
+               <div type="answer">
+                  <head>T. V.</head>
+                  <p>IN this fift Section, Maſter <hi>B. C.</hi> hath ſhewed great ſtore of ſmal knowledge; by telling how many things of note, <hi>Are com<g ref="char:EOLhyphen"/>priſed in theſe few lines againſt me:</hi> For if theſe notes, conuince him of much weak<g ref="char:EOLhyphen"/>neſſe to handle controuerſies; then may his Popiſh dependants wiſh: that he had anſwe<g ref="char:EOLhyphen"/>red with ſilence, as Doctor <hi>Norris</hi> did before him: <hi>leaſt his too much haſte further his
+<pb n="23" facs="tcp:181129:16"/> owne diſgrace:</hi> if I may returne his owne words. But let vs examine the particulars.</p>
+                  <p>In the firſt note, the reaſon lies thus.</p>
+                  <list type="syllogism">
+                     <item>All Councels, that are of authoritie, muſt haue the Pope, or his Legates pre<g ref="char:EOLhyphen"/>ſent:</item>
+                     <item>But this Councell had neither the Pope nor his Legates preſent:</item>
+                     <item>
+                        <hi>Ergo,</hi> this Councell is of no authoritie.</item>
+                  </list>
+                  <p>I denie the Maior, for I hope Maſter <hi>B. C.</hi> being ſo great a diſputant, will not ſtill begge the queſtion. And we may well hold this poſition, <hi>A noueltie of Poperie:</hi> vnleſſe Maſter <hi>B. C.</hi> can ſhew vs (which neuer any yet did) ſome teſtimonies of the ancient Fathers, that are not counterfeit; that euer wrote or taught this doctrine. Beſides maſter <hi>B. C.</hi> cannot be ignorant:<note n="*" place="margin">Sciendu<g ref="char:cmbAbbrStroke">̄</g> eſt quod in vniuerſali<g ref="char:EOLhyphen"/>bus octo concilijs, vbi imperatores interfuerunt, &amp; non Papa, ſemper inuenio imperatores &amp; iudices ſuos, cum ſenatu, primatum habuiſſe, &amp; officium praeſidentiae per interlocutiones, &amp; ex conſenſu Synodi, concluſiones &amp; iudicium feciſſe, &amp; non inuenitur inſtantia in octo concilijs, preterquam in tertia actione concilij Chalcedonenſis. Cuſan. lib. 3. cap. 16. de concord. Ca<g ref="char:EOLhyphen"/>thol. Cap. 19.</note> That the auncient and firſt Councels, were neither called by the Pope: nor hee, either by himſelfe, or his Legates, Preſident therein. And in the ſecond generall Coun<g ref="char:EOLhyphen"/>cell
+<pb n="24" facs="tcp:181129:17"/> holden at <hi>Conſtantinople, Bellarmine</hi> confeſſeth, that the Pope was neither there in perſon, nor by his Legates; and alſo hee ſaith,<note place="margin">De cont. li. 2. ca. 14.</note> that <hi>Petrus de Aliaco,</hi> and <hi>Cuſanus,</hi> both Cardinals, <hi>Gerſon, Almain, Antoni<g ref="char:EOLhyphen"/>nus, Toſtatus,</hi> and many others held, <hi>That the Councell is aboue the Pope.</hi> And the ſame hath aſo beene decreed in the thrée ge<g ref="char:EOLhyphen"/>nerall Councels of <hi>Piſa, Conſtance, and Baſill;</hi> and as yet the contrary was neuer decreed: as Doctor <hi>Whittaker</hi> ſheweth in the fift queſtion of his Tract of Councels, and as <hi>Bellarmine</hi> confeſſeth, the queſtion remaineth amongſt the Catholiques to this day. With what <hi>Schollerſhip or conſci<g ref="char:EOLhyphen"/>ence</hi> then can Maſter <hi>B. C.</hi> conclude the Councell to be of no authoritie, becauſe nei<g ref="char:EOLhyphen"/>ther the Pope, nor his Legates were pre<g ref="char:EOLhyphen"/>ſent. And if Maſter <hi>B. C.</hi> be ſo well read in controuerſies, as it ſhould ſeeme: then can he not chuſe but ſpeake againſt his owne knowledge: for he cannot be ignorant, that many Popes haue cited theſe Canons, ſince it appeares euen by our aduerſaries; that theſe Canons were in times paſt held for the Canons of the ſixt <hi>Synode:</hi> And <hi>Grati<g ref="char:EOLhyphen"/>ane</hi> often cites the<g ref="char:cmbAbbrStroke">̄</g> in his decrees, &amp; alwayes cals them Canons of the ſixt <hi>Synode.</hi> And
+<pb n="25" facs="tcp:181129:17"/> in <hi>Gratian diſt. 16. cap. 6. Adrian</hi> the Pope ſaith, <hi>Sextam Synodum ſanctam cum omnibus ſuis Canonibus recipio, <hi>I receiue the ſixt holy Synode with all the Ca<g ref="char:EOLhyphen"/>nons thereof.</hi>
+                     </hi> And though <hi>Canus</hi> ſay, <hi>That this Councell made no Canons,</hi> yet the ſame is openly refuted in <hi>Gratian.</hi> And <hi>Innocent</hi> in his Tract of the age, and qua<g ref="char:EOLhyphen"/>litie of thoſe to be ordered, citeth one of theſe Canons, &amp; cals it a Canon of the <hi>6.</hi> Synode. And the ſame alſo <hi>Gratian</hi> citeth <hi>diſt. 3 2. cap. Si quis.</hi> And Pope <hi>Adrian</hi> the firſt in the Epiſtle to <hi>Taraſius,</hi> which is extant in the ſecond action of the ſeuenth Synode o<g ref="char:EOLhyphen"/>penly confirmes it. And though <hi>Bellar<g ref="char:EOLhyphen"/>mine</hi> anſwere, that <hi>Adrian</hi> onely reciteth the ſentence of <hi>Taraſius,</hi> and refels it not, becauſe it was profitable to the queſtion then handled; yet doth Pope <hi>Adrian</hi> vſe theſe words, <hi>In ſextae Sinodi Diuine, &amp; le<g ref="char:EOLhyphen"/>galiter praedicatis Canonibus. <hi>In the Ca<g ref="char:EOLhyphen"/>nons of the ſixt Synode, holily and lawfully pub<g ref="char:EOLhyphen"/>liſhed.</hi>
+                     </hi> And the Popes <hi>Legates demanded of the ſacred Synode, whether they re<g ref="char:EOLhyphen"/>ceiued the letters of the moſt holy Pope or no? The ſacred Synode anſwered, we folow, receiue &amp; approue them.</hi> And what other thing is this but to confirme the Ca<g ref="char:EOLhyphen"/>nons
+<pb n="26" facs="tcp:181129:18"/> of the ſixt Synode? Neither is it any ſtrange matter <hi>for one Pope and a Coun<g ref="char:EOLhyphen"/>cell to condemne the decrees of another Pope and Councell;</hi> As I haue ſhewed in my booke, pag. <hi>58. 59. Of Pope <hi>Stephan</hi> and Pope <hi>Iohn.</hi>
+                     </hi>
+                  </p>
+                  <p>And thus much for the firſt note.</p>
+                  <p>The reaſon of his ſecond note lies thus.</p>
+                  <list type="syllogism">
+                     <item>If Venerable <hi>Bede</hi> ſaith, that the Pope did diſanull that erraticall Synode: then cannot Maſter <hi>Vdall</hi> with conſcience call it a generall Councell, and vrge the autho<g ref="char:EOLhyphen"/>ritie thereof as authenticall:</item>
+                     <item>But the antecedent is true:</item>
+                     <item>
+                        <hi>Ergo,</hi> the conſequent.</item>
+                  </list>
+                  <p>I denie the conſequence, and demaund of Maſter <hi>B. C.</hi> why I may not with as good a conſcience as <hi>Bellarmine,</hi> and diuers Popes and Papiſts before alleaged, call it a generall Councell: for <hi>Bellarmine</hi> recko<g ref="char:EOLhyphen"/>neth this Councell amongſt thoſe generall Councels, which are partly approued, part<g ref="char:EOLhyphen"/>ly reproued.</p>
+                  <p>And <hi>Caranza</hi> that gathered the ſumme of the Councels, ſheweth immediatly before the Canons, that nine Canons, of the ſame Synode were reiected as baſtards, and that theſe <hi>102.</hi> Canons were not as yet for<g ref="char:EOLhyphen"/>ſaken
+<pb n="27" facs="tcp:181129:18"/> and caſt off. And though many hold that this Councell made no Canons, yet a Councell made them with credit of a gene<g ref="char:EOLhyphen"/>rall Councell.<note place="margin">Prefat. Sy<g ref="char:EOLhyphen"/>nod. Trul. ad Iuſtini.</note> And the next generall Councell did confirme them. <hi>Conc. Nic. 2. cap. 1.</hi> And <hi>Caranza</hi> ſheweth that the Ca<g ref="char:EOLhyphen"/>nons were made in ſupplie of the other two Councels that wanted, and therefore it was not numbred as the ſixt, but called <hi>Quini Sexta;</hi> becauſe it ſupplied that which was wanting to the fift and ſixt. And yet hee cals it <hi>a generall Councell.</hi> Now could a<g ref="char:EOLhyphen"/>ny man of M. <hi>B. C.</hi> learning vpon <hi>Bedes</hi> authoritie, vrge ſuch conſequents againſt all theſe proofes before alleaged.</p>
+                  <p>And for my vrging it as Authent'call, I haue ſhewed before how farre we receiue the authority of generall Councels; and the reaſon why I vrged it. But I pray you maſter <hi>B.C.</hi> is this <hi>a Maxime</hi> in your Di<g ref="char:EOLhyphen"/>uinitie: <hi>That whatſoeuer any ancient Fa<g ref="char:EOLhyphen"/>ther hath ſaid, is to be beleeued?</hi> Surely, Saint <hi>Auſtin</hi> was of another mind. For he challengeth to himſelfe a libertie to iudge, <hi>In quorumlibet hominum ſcriptis,</hi>
+                     <note place="margin">De natur. &amp; gra. contr. pelag. ca. 61. Ibidem.</note> 
+                     <hi>In the writings of all men whatſoeuer,</hi> And addeth this reaſon, <hi>becauſe I doe conſent with<g ref="char:EOLhyphen"/>out any ſtay to the Canonicall Scrip<g ref="char:EOLhyphen"/>tures
+<pb n="28" facs="tcp:181129:19"/>onely,</hi>
+                     <note place="margin">Cont. Fauſt lib. 11. ca. 5.</note> The reſt muſt be read as hee teacheth, <hi>Non cum credendi neceſsitate, ſed cum iudicandi libertate, <hi>Not with a ne<g ref="char:EOLhyphen"/>ceſſitie to beleeue them, but with a libertie to iudge them.</hi>
+                     </hi>
+                     <note place="margin">Epiſt. 48. de Peccat. Merit. &amp; Re<g ref="char:EOLhyphen"/>miſſ. l. 1. c. 22</note> 
+                     <hi>And muſt bee diſtinguiſhed from the authoritie of the Canon,</hi> For that <hi>the authoritie of the ſacred Scrip<g ref="char:EOLhyphen"/>tures can neither deceiue nor be decei<g ref="char:EOLhyphen"/>ued.</hi>
+                     <note place="margin">Cont. Creſ<g ref="char:EOLhyphen"/>con. lib. 2. cap. 3.</note> And <hi>by thoſe bookes we may freely iudge of other writings, both of Chriſti<g ref="char:EOLhyphen"/>ans and Infidels.</hi> And thus much for the ſecond note.</p>
+                  <p>The reaſon of the third note lies thus.</p>
+                  <list type="syllogism">
+                     <item>If the Reuelation of Saint <hi>Iohn</hi> be o<g ref="char:EOLhyphen"/>mitted by the Councell of <hi>Laodicea,</hi> then doth not the Councell ſet downe the ſame Canon of the Scriptures, which the Church of England alloweth:</item>
+                     <item>But the antecedent is true:</item>
+                     <item>
+                        <hi>Ergo,</hi> the conſequent.</item>
+                  </list>
+                  <p>Maſter <hi>B. C.</hi> would faine finde a knot in a ruſh, ſo much doth it pleaſe his cauelling, &amp; carping ſpirit. For if he had obſerued in the third page of my Booke, that the aunſwere which I there ſet downe, in the name of the <hi>Proteſtant</hi> toucheth onely the bookes, which are in queſtion beeweene vs, hee might haue found, that the proofe I there
+<pb n="29" facs="tcp:181129:19"/> brought, was touching <hi>the Hebrew Ca<g ref="char:EOLhyphen"/>non of the old Teſtament.</hi> Whereof I might truely ſay, that this Councell ſetteth downe the ſame Canon of the Scriptures, which both the old Church had, and our Church doth hold: for reproofe whereof, the omitting of the Reuelation by the Councell of <hi>Laodicea</hi> (which was not in queſtion) was impertinently alleaged by you. And thus much for the third note.</p>
+                  <p>The reaſon of his fourth note lies thus.</p>
+                  <list type="syllogism">
+                     <item>If the Councell forbid the reading of o<g ref="char:EOLhyphen"/>ther bookes not there expreſſed: then Ma<g ref="char:EOLhyphen"/>ſter <hi>Vdall</hi> can hardly ſhow, how the Church of England, reading the hiſtory of <hi>Iudith</hi> and <hi>Tobie</hi> in their publique aſſemblies, a<g ref="char:EOLhyphen"/>greeth with the decree of that Councell:</item>
+                     <item>But the antecedent is true:</item>
+                     <item>
+                        <hi>Ergo,</hi> the conſequent.</item>
+                  </list>
+                  <p>Is not this ſubſtantiall ſtuffe, and wor<g ref="char:EOLhyphen"/>thy of Maſter <hi>B. C.</hi> learning? What if I could not ſhew this? What inconuenience were it to the Church of England; or what aduantageth it my aduerſary? Doth any of vs acknowledge, that the Church of Eng<g ref="char:EOLhyphen"/>land, is bound to follow the decrees of coun<g ref="char:EOLhyphen"/>cels in all things? Bluſh then for ſhame is reaſon thus idely: yet wee ſay with S. <hi>Hie<g ref="char:EOLhyphen"/>rom.
+<pb n="30" facs="tcp:181129:20"/> That the Church readeth thoſe bookes,</hi>
+                     <note place="margin">
+                        <hi>See the 4. page of my booke.</hi> Hierom. prae<g ref="char:EOLhyphen"/>fa. in lib. So<g ref="char:EOLhyphen"/>lom. Rufin. in expoſ. Symb. apud Cyprian</note> 
+                     <hi>but receiueth them not amongſt the Canonicall Scriptures:</hi> And that they <hi>are read for inſtruction of manners, but not alleaged for confirmation of do<g ref="char:EOLhyphen"/>ctrine.</hi> But it ſeemes Maſter <hi>B. C.</hi> was much preſſed by ſome of his followers to an<g ref="char:EOLhyphen"/>ſwere my booke: And therfore to giue them ſome ſatiſfaction, he would ſay ſomewhat, though it were to little purpoſe.</p>
+                  <p>And thus much for the fourth note.</p>
+                  <p>The reaſon of his fift note lieth thus.</p>
+                  <list type="syllogism">
+                     <item>If theſe words <hi>(And receiued into au<g ref="char:EOLhyphen"/>thoritie)</hi> be not to be found in that Councel: then M. <hi>Vdall</hi> hath corrupted the Councell by adding ſome thing of his owne:</item>
+                     <item>But the Antecedent is true:</item>
+                     <item>
+                        <hi>Ergo,</hi> the conſequent.</item>
+                  </list>
+                  <list type="syllogism">
+                     <item>To this I anſwere, that thoſe words are found in the Councell; and therefore Maſter <hi>Vdall</hi> is ſlaunderouſly charged by Maſter <hi>B. C.</hi> The words are theſe, <hi>Quae autem oporteat legi, &amp; in authoritate<g ref="char:cmbAbbrStroke">̄</g> recipi, hec ſunt.</hi> Thoſe Bookes which muſt be read and receiued into authoritie, are theſe. From which thus I diſpute, thoſe bookes, which are to bee receiued into authoritie, are thoſe ſet downe by the Councell:</item>
+                     <pb n="31" facs="tcp:181129:20"/>
+                     <item>But the bookes we call Apocrypha, are not there ſet downe by the Councell:</item>
+                     <item>
+                        <hi>Ergo,</hi> thoſe bookes, which we call Apo<g ref="char:EOLhyphen"/>crypha, are not to be receiued into authori<g ref="char:EOLhyphen"/>tie.</item>
+                  </list>
+                  <p>Now, that I may pay M <hi>B. C.</hi> in his owne coine, how many of theſe his wor<g ref="char:EOLhyphen"/>thie notes, may be returned him; for hauing neither truth, nor Schollerſhip; as the v<g ref="char:EOLhyphen"/>ſing that ſilly ſhift of wrangling Sophiſters; to take that for graunted, which hee ſhould haue proued: The weakeneſſe of his con<g ref="char:EOLhyphen"/>ſequence: the charging me to vſe the teſti<g ref="char:EOLhyphen"/>monie of the Councell, for the Canon of the New Teſtament, which he knew I applied to the old Teſtament: the vrging of imperti<g ref="char:EOLhyphen"/>nent reaſons without end, or purpoſe: and the charging me with corrupting the Coun<g ref="char:EOLhyphen"/>cell, when the ſame wordes are there found? would any man haue thought, that he, that takes vpon him to be a Cenſurer of others, ſhould haue bene iuſtly conuinced, of ſo ma<g ref="char:EOLhyphen"/>ny groſſe ouerſights before alleaged?</p>
+               </div>
+            </div>
+            <div n="6" type="section">
+               <head>B. C. Sect. <hi>6.</hi>
+               </head>
+               <p>IN the ſame fift page, he maketh vs to allow the fourth booke of <hi>Eſdras</hi> moſt vntruely, and that contrary to his owne
+<pb n="32" facs="tcp:181129:21"/> knowledge, when as in the ſecond page he confeſſeth, that we account both the third and fourth of <hi>Eſdras</hi> for Apo<g ref="char:EOLhyphen"/>crypha.</p>
+               <div type="answer">
+                  <head>T. V.</head>
+                  <p>IN the ſame page, (from whence you take this exception) <hi>my wordes are theſe, I omitte many ſeuerall con<g ref="char:EOLhyphen"/>tradictions, in all or moſte of the bookes, which we reiect, and they allow, wherby they may be conuinced, not to be written by the ſpirit of God, which is alwayes one, and the ſame. See the 4. of <hi>Eſdras</hi> 10.20. and 2. <hi>Maccab.</hi> 2.4. and 1. <hi>Mac.</hi> 1.6. and 8. touching <hi>Antiochus.</hi>
+                     </hi> My reaſon here may be thus deduced.</p>
+                  <list type="syllogism">
+                     <item>Thoſe bookes, which imply contradi<g ref="char:EOLhyphen"/>ction in themſelues, cannot come from the ſpirit of God, who is alwayes one and the ſame:</item>
+                     <item>But all, or moſt of the bookes, which we reiect, and they allow, implie contradiction in themſelues:</item>
+                     <item>
+                        <hi>Ergo,</hi> all or moſt of the bookes, which we reiect, and they allow, cannot come from the ſpirit of God, who is alwayes one and the ſame.</item>
+                  </list>
+                  <p>The Maior is euident, and the Minor is,
+<pb n="33" facs="tcp:181129:21"/> in part thus proued: and may more largely hereafter, if occaſion be offered. <hi>Antiochus</hi> is ſaid, in the firſt booke of <hi>Maccabees ca. 6.</hi> to die in <hi>Babylon</hi> for griefe of the good ſucceſſe of the Iewes: and in the <hi>2.</hi> booke <hi>cap. 1. Antiochus</hi> was, with the reſt of the Souldiers, ſlaine in the Temple of <hi>Nanea,</hi> and his head cut off, and throwne foorth. And in the ninth chapter, That hee died a miſerable death in a ſtrange Country amongſt the mountaines, againſt which Maſter <hi>B. C.</hi> reaſoneth thus.</p>
+                  <list type="syllogism">
+                     <item>He that makes vs to allow and diſallow one and the ſame booke, ſpeakes vntruly con<g ref="char:EOLhyphen"/>trary to his knowledge:</item>
+                     <item>But <hi>T. V.</hi> in his fift page, makes vs al<g ref="char:EOLhyphen"/>low the fourth booke of <hi>Eſdras,</hi> which in the ſecond page, hee confeſſeth, wee diſal<g ref="char:EOLhyphen"/>low:</item>
+                     <item>
+                        <hi>Ergo, T.V.</hi> ſpeakes vntruly, contrarie to his owne knowledge.</item>
+                  </list>
+                  <p>You here charge me with the right na<g ref="char:EOLhyphen"/>ture of a lie, though you pretend, you would not haue the quarrell of God proſecuted like the quarrels of the world: but you haue in<g ref="char:EOLhyphen"/>vred your tongue to ſuch immodeſt tearmes; that you cannot much taxe me, if I haue beene more ſharpe, then I purpoſed.</p>
+                  <pb n="34" facs="tcp:181129:22"/>
+                  <p>But I denie your Minor, and if you can, withall your Schollerſhippe (out of my wordes, which I haue ſet downe of purpoſe) conuince me either of vntruth, or contradi<g ref="char:EOLhyphen"/>ction: I will acknowledge you to haue more learning, then you haue yet ſhewed in your booke. All, that I might haue bene char<g ref="char:EOLhyphen"/>ged with, was the miſquoting of the Chap<g ref="char:EOLhyphen"/>ters, and the bidding you ſee the fourth of <hi>Eſdras:</hi> which being receiued by both, can<g ref="char:EOLhyphen"/>not fit your cauelling ſpirit to imply any contradiction or vntruth in my words: but you are fitter to cauell, then to anſwere the reaſon there brought: and yet this place muſt make vp the number; but I pittie your neceſſitie.</p>
+               </div>
+            </div>
+            <div n="7" type="section">
+               <head>B. C. Sect. <hi>7.</hi>
+               </head>
+               <p>
+                  <note place="margin">Lib. <hi>1.</hi> de Con. cil. cap. <hi>6.</hi> and not lib. <hi>10.</hi> cap. <hi>60. as M.</hi> Vdall <hi>quoteth it.</hi>
+                  </note>PAge, 51. To eneruat the force of gene<g ref="char:EOLhyphen"/>rall cou<g ref="char:cmbAbbrStroke">̄</g>cels thus he writeth. <hi>Bellar. re<g ref="char:EOLhyphen"/>iecteth wholy ſeauen generall Councels.</hi> That learned Prelate is iniuriouſly intreated, for who would not thinke, that <hi>Maſter Vdall</hi> ſpake of lawfull and true generall Councells, as though ſuch were reiected by <hi>Bellarmine,</hi> which is nothing ſo: for he ſpeaketh of certaine deteſtable conuen<g ref="char:EOLhyphen"/>ticles, aſſembled by the Arrians and other like perfidious heretikes, which they
+<pb n="35" facs="tcp:181129:22"/> called generall, <hi>Primum generale, &amp;c. The firſt Generall Councell (ſaith Bellarmine) in the opinion of the Arrians, which is reiected, is the Councell of Antioch, &amp;c.</hi> If theſe bee de<g ref="char:EOLhyphen"/>teſted by Proteſtants alſo for vnlawfull and wicked, why is Cardinall <hi>Bellarmine</hi> ſingled out as though hee alone refuſed them? or the matter ſo cunningly deliue<g ref="char:EOLhyphen"/>red, as though they were reuerenced by <hi>Master <g ref="char:V">Ʋ</g>dall</hi> and Proteſtants for law<g ref="char:EOLhyphen"/>full generall Councels? This is not to deale ſincerely, and to ſeeke truth with a pure and vpright heart, vnleſſe he bee ſo careleſſe, as to receiue all vpon the report of others, which yet cannot wholy bee excuſed.</p>
+               <div type="answer">
+                  <head>T. V.</head>
+                  <p>IN the <hi>51.</hi> page, my reaſon lies thus.</p>
+                  <list type="syllogism">
+                     <item>If Papiſts reiect generall Councels, we may reiect them:</item>
+                     <item>But Papiſts reiect generall Councels:</item>
+                     <item>
+                        <hi>Ergo,</hi> we may reiect them.</item>
+                  </list>
+                  <p>The Minor is prooued in the <hi>50. 51.</hi> page, &amp;c. by <hi>Andradius, Bellarmine, Pig<g ref="char:EOLhyphen"/>hius, and Pope Leo.</hi> Againſt which Ma<g ref="char:EOLhyphen"/>ſter <hi>B. C.</hi> reaſoneth thus.</p>
+                  <list type="syllogism">
+                     <item>If thoſe Councels reiected by <hi>Bellar<g ref="char:EOLhyphen"/>mine,</hi>
+                        <pb n="36" facs="tcp:181129:23"/> were the vnlawfull conuenticles of the <hi>Arians,</hi> and no other: and ſuch as the Proteſtants hold for vnlawfull and wicked Councels; Then is that learned Prelate iniuriouſly delt with by Maſter <hi>Vdall,</hi> to eneruate the force of generall Councels: which is not to ſeeke the trueth with an vp<g ref="char:EOLhyphen"/>right heart:</item>
+                     <item>But the Antecedent is true:</item>
+                     <item>
+                        <hi>Ergo,</hi> the Conſequent.</item>
+                  </list>
+                  <p>I denie the Minor, for <hi>Bellarmine</hi> in the ſame Section reiectes the Councell of <hi>Con<g ref="char:EOLhyphen"/>ſtantinople</hi> and <hi>Chalcedon,</hi> as (no doubt) be doth diuers other Councels, that haue reſiſted the Biſhop of Rome. But doe not I charge <hi>Bellarmine</hi> truly with the reiecti<g ref="char:EOLhyphen"/>on of ſeuen generall Councels? But you will ſay theſe were no lawfull Councels: Why ſo? you muſt now runne to your old ſhift, and ſay, becauſe <hi>they were not confirmed by the Pope.</hi>
+                     <note place="margin">Damaſus in pontificuli. vide Fulk. Rhem. Teſt. Act. 15. Sect 7.</note> And yet <hi>Liberius the Pope ſubſcribing to the hereſie of the Arians</hi> (as S. <hi>Hierom</hi> ſaith) no doubt confirmed ſome of them. But you wil ſay, <hi>Theſe were wic<g ref="char:EOLhyphen"/>ked, and deteſtable Conuenticles:</hi> ſo ſay the Proteſtants. But what makes them deteſtable? not the want of confirmation (for then this doctrine was not dreampt of)
+<pb n="37" facs="tcp:181129:23"/> but their corruption in doctrine. For many Councels lawfully called, and lawfull and generall Councels, and ſuch as Popes haue confirmed; haue broached many vnſound doctrines, as I haue giuen ſome particular inſtances in my booke and ſhall giue more, as occaſion ſhall be offered. Which yet I will confirme by a learned Papiſt, (equall with Maſter <hi>B. C.</hi> in learning, and iudge<g ref="char:EOLhyphen"/>ment) as I haue cited him in my booke. <hi>Pighius</hi> ſaith, <hi>It is certaine, that not one<g ref="char:EOLhyphen"/>ly theſe Councels of <hi>Conſtance</hi> and <hi>Baſill,</hi>
+                     </hi>
+                     <note place="margin">Pighius Hierar. Ec<g ref="char:EOLhyphen"/>cle. lib. 6. ca. 4. &amp; 5. &amp;. 13.</note> 
+                     <hi>which we now diſprooue, haue ſhame<g ref="char:EOLhyphen"/>fully and abſurdly erred, but alſo many others.</hi> And againe, <hi>we find, that gene<g ref="char:EOLhyphen"/>rall Councels, euen of holy Fathers, haue erred in decrees of faith: for example of generall Councels, The Councell of Ari<g ref="char:EOLhyphen"/>minum, vniuerſall no doubt; and alſo the Councell of Epheſus, and that like<g ref="char:EOLhyphen"/>wiſe vniuerſall: theſe I ſay are witneſſes, that euen generall Councels and thoſe lawfully gathered, may erre.</hi> You ſee Ma<g ref="char:EOLhyphen"/>ſter <hi>B. C.</hi> That <hi>Pighius,</hi> no partiall wit<g ref="char:EOLhyphen"/>neſſe for vs, calles ſome of thoſe Councels lawfull, and generall, which <hi>Bellarmine</hi> re<g ref="char:EOLhyphen"/>iects: and likewiſe he reiects the Councels of <hi>Conſtance</hi> and <hi>Baſill:</hi> wherein (no
+<pb n="38" facs="tcp:181129:24"/> doubt) <hi>Bellarmine</hi> agrées with him, in that point, where thoſe Councels preferre the Councell before the Pope.</p>
+                  <p>And yet Pope <hi>Martin</hi> the fift, in the laſt Seſſio<g ref="char:cmbAbbrStroke">̄</g> of the Councell of <hi>Conſtance</hi> appro<g ref="char:EOLhyphen"/>ueth in his Bul all thoſe decrees, which were made by this Councell in matters of faith, &amp; prayſeth and confirmeth them. And for the Councell of <hi>Baſill,</hi> The Diuines of <hi>Paris</hi> prayſe and defend the authoritie thereof a<g ref="char:EOLhyphen"/>gainſt <hi>Leo</hi> the tenth, and their commenda<g ref="char:EOLhyphen"/>tion and defence thereof is extant in print.</p>
+                  <p>And if Maſter <hi>B. C.</hi> ſinceritie were ſuch, as he pretends, he could not be ignorant, that Papiſts haue reiected thoſe Councels, which cannot be denied to be both lawfull, and generall. And if the vntruths, you haue obiected againſt Maſter <hi>Bell,</hi> and Maſter <hi>Rogers,</hi> be no better proued, you haue blot<g ref="char:EOLhyphen"/>ted much paper, to little purpoſe. For what are theſe exceptions againſt my booke, but a ridiculous biting at the héele, when you are wounded at the heart?</p>
+               </div>
+            </div>
+            <div n="8" type="section">
+               <head>B. C. Sect. <hi>8.</hi>
+               </head>
+               <p>THus much ſhall ſerue at this time, for by Gods aſsiſtance, I intend heere<g ref="char:EOLhyphen"/>after more to lay open the manifold ma<g ref="char:EOLhyphen"/>ladies
+<pb n="39" facs="tcp:181129:24"/> of his treatiſe, and to ſhew with what weake engines he laboureth to vn<g ref="char:EOLhyphen"/>dermine the impregnable grounds of the Catholike Church. God graunt that the happie newes of his conuerſion, may croſſe theſe my deſignements, whereof I ſee no cauſe to diſpaire, if truly zeale of religion, and deſire of ſaluation, which ſo much he would ſeeme to thirſt after, hath embouldened him being a lay man, to launch into the depth of theſe myſticall matters. Let him not relie too much vnto thoſe, from whom he receiueth the ſub<g ref="char:EOLhyphen"/>ſtance of that he writeth, leaſt together with the loſſe of his reputation, hee in<g ref="char:EOLhyphen"/>curre alſo the daunger of eternall damna<g ref="char:EOLhyphen"/>tion: and if vpon this ſmall warning, he findeth himſelfe to haue bene deceiued, wiſedome would, he ſhould more care<g ref="char:EOLhyphen"/>fully looke how he truſteth, where hee hath bene abuſed: and with greater dili<g ref="char:EOLhyphen"/>gence both to examine his owne wri<g ref="char:EOLhyphen"/>ters, and alſo to reade ours, namely Cardinall <hi>Bellarmine,</hi> where hee ſhall finde the moſt of his obiections an<g ref="char:EOLhyphen"/>ſwered, as the Catholique author of that letter, which hee hath put downe in his booke, truely enformeth him. To which,
+<pb n="40" facs="tcp:181129:25"/> that giueth no ſatisfaction, alleaged by M. <hi>Vdall</hi> for anſwere, to wit, that <hi>Bellar<g ref="char:EOLhyphen"/>mines</hi> reaſons, are by the learned of his ſide ſufficiently handled and replied vn<g ref="char:EOLhyphen"/>to: when as the moſt of the arguments in his booke be anſwered by <hi>Bellarmine,</hi> and nothing doe I find brought by M. <hi>Vdall</hi> to infringe his ſolutions: which giueth me iuſt cauſe to ſuſpect, that hee is with the preconceyted ſinceritie of his owne doctors, carried away into error, and ſo looketh litle into the Originals: which if he did, he culd not but find that which he pretendeth to ſeeke for, if he ſhut not his eyes againſt the truth, as he profeſſeth he will not. Which that he may doe, I ſhall not forget to commend him to his mer<g ref="char:EOLhyphen"/>cy, who deſireth not the death of a ſinner, but that all ſhould come to the know<g ref="char:EOLhyphen"/>ledge of his name. But if it ſhall fall out, that he will ſtill proceede forward in his former courſe, yet I would wiſh him in writing, to abſtaine from all biting and bitter words, which ſometime he brea<g ref="char:EOLhyphen"/>keth into, that the quarrell of God may not be proſecuted like the quarrels of this world, but with that modeſty, which becommeth the profeſſors of diuinity and religion.</p>
+               <div type="answer">
+                  <pb n="41" facs="tcp:181129:25"/>
+                  <head>T. V.</head>
+                  <p>YOu ſee M. <hi>B. C.</hi> that I haue iuſtified and freed my ſelfe, from all thoſe vniuſt imputations, wherewith you charged me. And therefore ſince you ingage your ſelfe, by this your promiſe; <hi>To lay open the mani<g ref="char:EOLhyphen"/>fold maladies of my former Treatiſe: and to ſhew with what weake engines</hi> (as you phraſe them) <hi>I labour to vnder<g ref="char:EOLhyphen"/>mine the impregnable grounds of the Ca<g ref="char:EOLhyphen"/>tholique Church:</hi> I hope you will take warning by this little, that hath bene ſhew<g ref="char:EOLhyphen"/>ed you; to deale more ſincerely in that which is to come: wherein it ſhall be much for your owne credit, and the reputation of the <hi>Catholique cauſe,</hi> whereof you ſo much boaſt, to be ſo impregnable: that you anſwer not by patches and peeces, picked heere and there for your moſt aduantage (as your Co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>mon cuſtome is) but that you ſet downe my words <hi>verbatim:</hi> with the ſame equity that I haue ſhewed in this, for if you deale other<g ref="char:EOLhyphen"/>wiſe, I ſhall ſcarce iudge you worthy of any further anſwer. And in the meane time I dare promiſe, <hi>That your deſigneme<g ref="char:cmbAbbrStroke">̄</g>ts ſhal no way bee croſt with the newes of my conuerſion:</hi> though I proteſt, I will weigh the reaſons, that ſhall be deliuered by
+<pb n="42" facs="tcp:181129:26"/> you hereafter, with all indifferencie and good conſcience. Albeit, I thinke it no ſuch bold<g ref="char:EOLhyphen"/>neſſe, as you cenſure it, <hi>To launch into the depth of theſe myſticall matters:</hi> ſince I hold it the dutie of euery Chriſtian, to know the grounds of his Religion to be infallible; before he build his faith theron. And for the relying vpon any man. I neither haue, nor wil, further then truth ſhal warrant, as nere as God ſhall mable me to iudge; ſo y<hi rend="sup">t</hi> if I be deceiued (which I ſee no cauſe yet to diſtruſt) it is error in my iudgment, not euil affection in my will. And whereas <hi>you wiſh me to read your Authors:</hi> I may truly ſay, I ne<g ref="char:EOLhyphen"/>uer refuſed to read any of the<g ref="char:cmbAbbrStroke">̄</g>: nor conference with any, how learned ſo euer: Or how much ſo euer I might thereby haue diſad<g ref="char:EOLhyphen"/>uantaged my ſelfe: and yet I was ſtill more and more confirmed in the opinion I now hold; and wherein I hope to die: vnleſſe Maſter <hi>B.C.</hi> will, for the merite of winning ſoules, make knowne ſome more certainty in the grounds of Poperie, then I euer yet read, or heard of. You tell me, <hi>That <hi>Bellar<g ref="char:EOLhyphen"/>mine</hi> hath anſwered moſt of my obiecti<g ref="char:EOLhyphen"/>ons, as the Catholique Author of that letter</hi> (inſerted by me) <hi>hath truely infor<g ref="char:EOLhyphen"/>med me, to which (you ſay) my anſwere
+<pb n="43" facs="tcp:181129:26"/> giueth no ſatifaction.</hi> And which yet is ſtraunge, you confeſſe my aunſwere to bee this: <hi>That <hi>Bellarmines</hi> reaſons are by the learned of our ſide, ſufficiently handled and replied too.</hi> Againſt which (very ab<g ref="char:EOLhyphen"/>ſurdly in my poore opinion (you reiterate the ſame ſpeech againe; and ſay, <hi>That the moſt of the arguments in my booke, be anſwered by <hi>Bellarmine;</hi> and that you find nothing brought by mee to infringe his ſolutions:</hi> Inſinuating, with more ſkill, then ſinceritie, That you had vrged ſome particular inſtances therof; whereto I had ſaid nothing. But if you had truely layd downe my anſwere in my letter; it would much haue blemiſhed the reputation, both of your ſelfe, and that Catholique Author; That being ſo much vrged by me, neither of you both could, or would bring any ſuch inſtance. And how ſhould I giue a ſolution to that, which neitherof you both euer in<g ref="char:EOLhyphen"/>ſtanced, though I much vrged it in my let<g ref="char:EOLhyphen"/>ter, as theſe words there teſtifie, viz. <hi>And whereas you referre me in the concluſi<g ref="char:EOLhyphen"/>on of your letter, to <hi>Bellarmine de Pont. &amp; de Conſiliis,</hi> where you ſay, I ſhall finde moſt of my obiections of the errors of Popes, and Councels refuted: ſo can I,
+<pb n="44" facs="tcp:181129:27"/> when ſoeuer you ſhall inſtance any ſuch particular refutation (which may eaſe you of ſome paines if it be ſo ſufficiently performed) referre you to ſome of the Authors, of our ſide; where the ſame rea<g ref="char:EOLhyphen"/>ſons, haue beene with no leſſe ſufficiency handled, and replied too: aſſuring my ſelfe, that neither any of you haue or can, make any obiection againſt the doctrine we profeſſe, that hath not bene alreadie obiected, and likewiſe by vs aunſwered. And if any can ſhew me the contrary, I will be beholding to him; neither will I ſhut mine eyes againſt the truth.</hi> May you not now bluſh M. <hi>B. C.</hi> to affirme, that this my anſwere giues no ſatiſfaction? And hauing read this, to auouch, That <hi>you finde nothing brought by M. <hi>Vdall</hi> to infringe his ſolutions:</hi> When neither the Author of that Catholike letter then, (as I haue ſaid) nor your ſelf now, durſt, as it may be preſumed, inſtance an anſwere out of <hi>Bellarmine,</hi> to any one particular obiection of mine? And yet, if you had done this; it had bene but expence, and loſſe both of la<g ref="char:EOLhyphen"/>bour and time. For as oft as you produce a<g ref="char:EOLhyphen"/>ny aunſwere, of the writers of your ſide a<g ref="char:EOLhyphen"/>gainſt vs: ſo oft muſt I bring the replie of
+<pb n="45" facs="tcp:181129:27"/> the learned of our ſide, in diſcharge thereof: and ſo according to the faſhion of this age, fill the world full of bookes, touching theſe controuerſies, which haue bene alreadie handled, with much more ſufficiency, then either of vs can: for I am very confident, that neither you, nor I, can bring any thing touching this ſubiect; that hath not bene al<g ref="char:EOLhyphen"/>ready ſayd: howſoeuer we may giue it a new gloſſe, thereby to make it ſeeme to bee our owne. And ſince <hi>you wiſh me, if I be willing to proceede;</hi> (whereto I am both ready and willing) <hi>to abſteine from all by<g ref="char:EOLhyphen"/>ting, and bitter words; that the quarrell of God may not be proſecuted, like the quarrels of this world:</hi> I muſt likewiſe wiſh, for my own Apology, that you had ob<g ref="char:EOLhyphen"/>ſerued this your owne rule to me &amp; others: for then had I not failed in ſatiſfying this ſo good a deſire. And for the better effecting thereof hereafter, and for the ſounder tryall of thoſe impregnable grounds, whereof you are ſo confident: I earneſtly requeſt, and coniure you by the loue of truth; that wee may both appeare, at the iudiciall ſeat of a true Syllogiſme (which we may doe with<g ref="char:EOLhyphen"/>out any ſafe conduct) where the ſubſtance of
+<pb n="46" facs="tcp:181129:28"/> the plea, betweene vs ſhall be: <hi>whether there be any certaintie in the grounds of Poperie.</hi> And for that it ſeemeth by your facilitie in aunſwering three bookes at once (for ſo no doubt your Popiſh followers will conceiue of it) That you are ſo conuerſant in controuerſies, That a man cannot faile to receiue ſatiſfaction at your hands: I be<g ref="char:EOLhyphen"/>ſeech you, that this my requeſt may be per<g ref="char:EOLhyphen"/>formed Logically by Syllogiſmes, &amp; Theo<g ref="char:EOLhyphen"/>logically, by Scripture proofe. So ſhall we auoide all impertinent diſcourſing and trifling; all gibing, and reproching, and ſo charitably without bitterneſſe, or indeuor to diſgrace each other; finiſh this combate to Gods glorie, and to the ſatiſfaction of many: for if your grounds can be iuſtified; all controuerſies, will quickely bee ended. But I haue no great hope to draw you to this courſe; for you know too wel, That the grounds of your Religion cannot abide the touchſtone of this triall: though it would hee great glorie to you, but to vndertake that, which none of the learned of your ſide, could euer yet be drawen too: though I am perſwaded, your Popiſh dependants will aſſure themſelues, you will not refuſe ſo
+<pb n="47" facs="tcp:181129:28"/> ſure, and learned a triall. But to conclude with the ſame charitie to you, which you ſeeme to ſhew to me; I will pray vnto my God, that he will enlighten your heart and vnderſtanding, with the ſpirit of his wiſe<g ref="char:EOLhyphen"/>dome and grace: that you may diſ<g ref="char:EOLhyphen"/>cerne the truth of Chriſtian Re<g ref="char:EOLhyphen"/>ligion, to the glory of God and your owne Sal<g ref="char:EOLhyphen"/>uation.</p>
+                  <closer>
+                     <signed>Tho. Vdall.</signed>
+                  </closer>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:181129:29"/>
+            <pb facs="tcp:181129:29"/>
+            <p>Good Reader, let me requeſt thy fauourable cenſure touching the faults committed by the Printer, which eſcaped by reaſon of my abſence at the time of the printing, and partly by the difficulty of the hand in the Coppie: all which I pray thee firſt take notice of, as they are ſet downe here following and then read in their due places, as they are heere a<g ref="char:EOLhyphen"/>mended and corrected.</p>
+            <div type="part">
+               <head>Faults eſcaped.</head>
+               <p>IN the Preface pag. <hi>3.</hi> line laſt, for fellowes read followers. p. <hi>5.</hi> l. <hi>13.</hi> there for Questions, r. quotations. l. <hi>17.</hi> for them r. then. l. <hi>18.</hi> for them. r. thee.</p>
+               <p>Pag. <hi>4.</hi> l. <hi>16.</hi> for I haue yet made you r. you haue yet made, p. <hi>6</hi> l. <hi>12.</hi> for may be borrowed. r. may be he borrowed, p. <hi>8.</hi> l. <hi>14.</hi> for But is it a iuſt difference. r. But it is a nice difference, li. <hi>23.</hi> for blaſphemie maintained is, r. Bohemians maintained, p. <hi>14.</hi> l. <hi>19.</hi> for whence r. whom, p. <hi>16.</hi> l. <hi>4.</hi> for receiueth r. recke<g ref="char:EOLhyphen"/>neth. p. <hi>18.</hi> l. <hi>16.</hi> after the word Pope adde theſe wordes, who are very many, p. <hi>27.</hi> l. <hi>27.</hi> for I do r. I owe. p. <hi>31.</hi> l. <hi>12.</hi> for conſe<g ref="char:EOLhyphen"/>quence r. conſequentes p. <hi>34.</hi> l. <hi>10.</hi> for receiued r. reiected.</p>
+            </div>
+            <div type="part">
+               <head>In the Margent</head>
+               <p>Pag. <hi>8.</hi> l. <hi>18.</hi> Doct. Downam againſt Antich. l. <hi>5.</hi> Sect. <hi>10.</hi> omit<g ref="char:EOLhyphen"/>ted. p. <hi>11.</hi> for Heric. Magiſt. r. Heric. doctor Magiſt. p. <hi>14.</hi> for Salu. ſempit. r. ſacr. ſcript. for de ſar. de ſacram. p. <hi>21.</hi> Greg. Tom. <hi>3.</hi> p. <hi>291.</hi> placed in the margent to no purpoſe. p. <hi>27.</hi> this quotation Prefac. ſynod Trul. ad Iuſtin. ſhould be placed <hi>2.</hi> lines higher. Many of which the carefull reader I hope will eaſily obſerue and pardon.</p>
+            </div>
+            <pb facs="tcp:181129:30"/>
+         </div>
+      </back>
+   </text>
+</TEI>

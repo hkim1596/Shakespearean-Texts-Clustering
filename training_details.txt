@@ -1,0 +1,90 @@
+Processing file: A11954.xml
+Extracted titles: ['THE TEMPEST.', 'THE Two Gentlemen of Verona.', 'THE Merry Wiues of Windſor.', 'MEASVRE, For Meaſure.', 'The Comedie of Errors.', 'Much adoe about Nothing.', "Loues Labour's loſt.", 'A MIDSOMMER Nights Dreame.', 'The Merchant of Venice.', 'As you Like it.', 'THE Taming of the Shrew.', "ALL'S Well, that Ends Well.", 'Twelfe Night, Or what you will.', 'The Winters Tale.', 'The life and death of King Iohn.', 'The life and death of King Richard the Second.', 'The Firſt Part of Henry the Fourth, with the Life and Death of HENRY Sirnamed HOT-SPVRRE.', 'The Second Part of Henry the Fourth, Containing his Death: and the Coronation of King Henry the Fift.', 'The Life of Henry the Fift.', 'The firſt Part of Henry the Sixt.', 'The ſecond Part of Henry the Sixt, with the death of the Good Duke HVMFREY.', 'The third Part of Henry the Sixt, with the death of the Duke of YORKE.', 'The Tragedy of Richard the Third: with the Landing of Earle Richmond, and the Battell at Boſworth Field.', 'The Famous Hiſtory of the Life of King HENRY the Eight.', 'The Prologue.', 'The Tragedy of Coriolanus.', 'The Lamentable Tragedy of Titus Andronicus.', 'THE TRAGEDIE OF ROMEO and IVLIET.', 'THE LIFE OF TYMON OF ATHENS.', 'THE TRAGEDIE OF IVLIVS CAESAR.', 'THE TRAGEDIE OF MACBETH.', 'THE TRAGEDIE OF HAMLET, Prince of Denmarke.', 'THE TRAGEDIE OF KING LEAR.', 'THE TRAGEDIE OF Othello, the Moore of Venice.', 'THE TRAGEDIE OF Anthonie, and Cleopatra.', 'THE TRAGEDIE OF CYMBELINE.']
+Processing file: A68931.xml
+Extracted titles: ['The firſt part of the Contention ofthe two famous Houſes of Yorke andLancaſter, with the death of the good Duke Humphrey.']
+Processing file: A12010.xml
+Extracted titles: ['The most excellent Tragedie of Romeo and Iuliet.']
+Processing file: A11975.xml
+Extracted titles: ['The Chronicle Historie ofHenrythe fift: with his battel fought atAgin CourtinFrance.Togither with AuncientPistoll.']
+Processing file: A11983.xml
+Extracted titles: ['A pleasant conceited Comedie, of SyrIohn Falstaffe,and the merry Wiues ofVVindsor.']
+Processing file: A11959.xml
+Extracted titles: ['The Tragicall Historie of HAMLET Prince of Denmarke.']
+Processing file: A12024.xml
+Extracted titles: ['The Play of Pericles Prince o•Tyre. &c.']
+File Parsing and Text Extraction completed in 3.12 seconds.
+Splitting Plays into Chunks completed in 27.16 seconds.
+Total chunks to process: 2852
+Splitting data into train and test sets completed in 0.00 seconds.
+eval_loss: 0.000409784319344908
+eval_runtime: 16.3731
+eval_samples_per_second: 35.485
+eval_steps_per_second: 4.459
+epoch: 2.0
+Trainning completed in 421.39 seconds.
+Accuracy: 1.0
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        51
+           1       1.00      1.00      1.00       530
+
+    accuracy                           1.00       581
+   macro avg       1.00      1.00      1.00       581
+weighted avg       1.00      1.00      1.00       581
+
+Evaluating completed in 19.76 seconds.
+Accuracy: 1.0
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        51
+           1       1.00      1.00      1.00       530
+
+    accuracy                           1.00       581
+   macro avg       1.00      1.00      1.00       581
+weighted avg       1.00      1.00      1.00       581
+
+Processing file: A11954.xml
+Extracted titles: ['THE TEMPEST.', 'THE Two Gentlemen of Verona.', 'THE Merry Wiues of Windſor.', 'MEASVRE, For Meaſure.', 'The Comedie of Errors.', 'Much adoe about Nothing.', "Loues Labour's loſt.", 'A MIDSOMMER Nights Dreame.', 'The Merchant of Venice.', 'As you Like it.', 'THE Taming of the Shrew.', "ALL'S Well, that Ends Well.", 'Twelfe Night, Or what you will.', 'The Winters Tale.', 'The life and death of King Iohn.', 'The life and death of King Richard the Second.', 'The Firſt Part of Henry the Fourth, with the Life and Death of HENRY Sirnamed HOT-SPVRRE.', 'The Second Part of Henry the Fourth, Containing his Death: and the Coronation of King Henry the Fift.', 'The Life of Henry the Fift.', 'The firſt Part of Henry the Sixt.', 'The ſecond Part of Henry the Sixt, with the death of the Good Duke HVMFREY.', 'The third Part of Henry the Sixt, with the death of the Duke of YORKE.', 'The Tragedy of Richard the Third: with the Landing of Earle Richmond, and the Battell at Boſworth Field.', 'The Famous Hiſtory of the Life of King HENRY the Eight.', 'The Prologue.', 'The Tragedy of Coriolanus.', 'The Lamentable Tragedy of Titus Andronicus.', 'THE TRAGEDIE OF ROMEO and IVLIET.', 'THE LIFE OF TYMON OF ATHENS.', 'THE TRAGEDIE OF IVLIVS CAESAR.', 'THE TRAGEDIE OF MACBETH.', 'THE TRAGEDIE OF HAMLET, Prince of Denmarke.', 'THE TRAGEDIE OF KING LEAR.', 'THE TRAGEDIE OF Othello, the Moore of Venice.', 'THE TRAGEDIE OF Anthonie, and Cleopatra.', 'THE TRAGEDIE OF CYMBELINE.']
+Processing file: A68931.xml
+Extracted titles: ['The firſt part of the Contention ofthe two famous Houſes of Yorke andLancaſter, with the death of the good Duke Humphrey.']
+Processing file: A12010.xml
+Extracted titles: ['The most excellent Tragedie of Romeo and Iuliet.']
+Processing file: A11975.xml
+Extracted titles: ['The Chronicle Historie ofHenrythe fift: with his battel fought atAgin CourtinFrance.Togither with AuncientPistoll.']
+Processing file: A11983.xml
+Extracted titles: ['A pleasant conceited Comedie, of SyrIohn Falstaffe,and the merry Wiues ofVVindsor.']
+Processing file: A11959.xml
+Extracted titles: ['The Tragicall Historie of HAMLET Prince of Denmarke.']
+Processing file: A12024.xml
+Extracted titles: ['The Play of Pericles Prince o•Tyre. &c.']
+File Parsing and Text Extraction completed in 3.10 seconds.
+Splitting Plays into Chunks completed in 27.18 seconds.
+Total chunks to process: 2852
+Splitting data into train and test sets completed in 0.00 seconds.
+eval_loss: 0.0002023069973802194
+eval_runtime: 14.7062
+eval_samples_per_second: 39.507
+eval_steps_per_second: 4.964
+epoch: 2.0
+Training completed in 482.33 seconds.
+Accuracy: 1.0
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        51
+           1       1.00      1.00      1.00       530
+
+    accuracy                           1.00       581
+   macro avg       1.00      1.00      1.00       581
+weighted avg       1.00      1.00      1.00       581
+
+Evaluating completed in 18.64 seconds.
+Accuracy: 1.0
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        51
+           1       1.00      1.00      1.00       530
+
+    accuracy                           1.00       581
+   macro avg       1.00      1.00      1.00       581
+weighted avg       1.00      1.00      1.00       581
+

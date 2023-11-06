@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devill, and the Parliament: or, The Parliament and the devill. A contestation between them for the precedencie. Hold, hold, good Parliament, Pluto thy freind [sic], deserts thee now, 'tis vaine for to contend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81378</idno>
+            <idno type="STC">Wing D1216</idno>
+            <idno type="STC">Thomason E443_18</idno>
+            <idno type="STC">ESTC R204730</idno>
+            <idno type="EEBO-CITATION">99864194</idno>
+            <idno type="PROQUEST">99864194</idno>
+            <idno type="VID">161710</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161710)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devill, and the Parliament: or, The Parliament and the devill. A contestation between them for the precedencie. Hold, hold, good Parliament, Pluto thy freind [sic], deserts thee now, 'tis vaine for to contend.</title>
+               </titleStmt>
+               <extent>[2], 4 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 misnumbered 4.</note>
+                  <note>Annotation on Thomason copy: "May. 18 London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161710:1" rendition="simple:additions"/>
+            <p>THE DEVILL, AND the Parliament: OR, THE PARLIAMENT and the Devill.</p>
+            <p>A Conteſtation between them for the precedencie.</p>
+            <q>
+               <l>Hold, hold, good Parliament, <hi>Pluto</hi> thy freind,</l>
+               <l>Deſerts thee now, 'tis Vaine for to contend.</l>
+            </q>
+            <p>
+               <add>May. 18 London</add> Printed in the Yeere, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161710:2"/>
+            <pb n="1" facs="tcp:161710:2"/>
+            <head>THE DEVILL and the PARLIAMENT, <hi>OR,</hi> The Parliament and the Devill.</head>
+            <sp>
+               <stage>the Devill ſinging.</stage>
+               <lg>
+                  <l>Ile aide no more, for I have done,</l>
+                  <l>The worſt that Hell could thinke upon.</l>
+                  <l>Therefore good parliament now begone,</l>
+                  <l>Or you'l come to perdition.</l>
+               </lg>
+               <lg>
+                  <l>For all your legends and your lies;</l>
+                  <l>Your plots, and your conſpiracies,</l>
+                  <l>Your murthers and your cruelties,</l>
+                  <l>Your errors, and impieties.</l>
+               </lg>
+               <lg>
+                  <l>Now topſey turvey, ring the knell,</l>
+                  <l>Come Parliament with me to hell.</l>
+                  <l>There thee and I will ever dwell;</l>
+                  <l>Thus Rebells, muſt I pay you well.</l>
+               </lg>
+               <p>
+                  <seg rend="decorInit">H</seg>O, ho, ho, are you angry Mr. Parliament, becauſe I will no longer aſſiſt you, I that created you am forbidden by him that created me to act in you any longer, you know what an helper I have been unto you this ſeven yeares, by me you firſt tooke up Armes againſt your gracious King, by me deluded the people with a vaine hope of Reformation, when your in<g ref="char:EOLhyphen"/>tentions even from the beginning, were for the ruine of the King, Church and Kingdome, by me you entred into Cove<g ref="char:EOLhyphen"/>nant with Death, &amp; hell by; me you have practiſed al manner of cruelties and oppreſſion, and by me it was that you were pre<g ref="char:EOLhyphen"/>valent againſt your Soveraigne; he that threw me downe
+<pb n="2" facs="tcp:161710:3"/>from Heaven for conſpiring againſt him, permitted me to be the Patron, and Protector, of your Rebellion, and by my means it was that you had the impious boldneſſe, to impriſon your Soveraigne Lord King CHARLES, in the Iſle of <hi>Wight,</hi> by me it was, that you Caſhierd your Covenant and ſo became at en<g ref="char:EOLhyphen"/>mity with the <hi>Scots,</hi> but not by me, but the Almighty 'tis, that you are now falling from all your greatneſſe, why ſhould you blame me then, as I deſerted you; the world can witneſſe I have ſerved faithfully, and been as true a Devill to your truſt as <hi>Harry Martin,</hi> or the Traytor <hi>Say.</hi> What ho <hi>Belphegor,</hi> thou haſt ever been a willing friend to flie abroad with any, Meſſenger, ſent by the Parliament to ceaſe upon the perſons of all thoſe Wrot for the King, whoſe Pens did ſtab Rebellion to the heart, who ſtill are conſtant to their Principles, and dare call Rebells, Rebells, thou often haſt accompanied the State ſpies, thoſe hounds that hunt the Souls of Royaliſts ſuch as my faithfull, and my deareſt ſonnes the Sanguine <hi>Lewis,</hi> and the pale face <hi>Leechman,</hi> two Rogues, whoſe like Slavonia ne er bred; flie thou my prettie Devill, and call hither, my fellow Vilaine Mr. Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Belphegor.</speaker>
+               <p>I goe Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Devill.</speaker>
+               <p>I meane to call a Parliament in Hell, but I ſhall not need to hunt about my teritories to ſummon Members, from each corporation, the upper Houſe and lower Houſe at <hi>Weſtminſter</hi> ſhall be law-makers for me, I have found that they in poli<g ref="char:EOLhyphen"/>cie, exceed me farre, yea <hi>Aeacus Minos</hi> and <hi>Rhad</hi> a man thus, and all his powers of Hell, that are beſide.</p>
+            </sp>
+            <sp>
+               <speaker>Belphegor.</speaker>
+               <p>Great Sir, I have perform'd my Embaſie, but Mr. Parlia<g ref="char:EOLhyphen"/>ment is ſo imploid, he ſaith, he cannot ſee your Divellſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Devill.</speaker>
+               <p>His cannot is his will not; am I growne fearefull to him, are we not ſtill all of one houſe, one counſell, he cannot ſtand two daies if I forſake him, I hope hee I not turne honeſt now at
+<pb n="3" facs="tcp:161710:3"/>laſt, and ſo deceive my expectation, no Devill, no Parliament, is a ſure <hi>maxime,</hi> or is it ſo, that he himſelfe deludes and hopes to rule without my ſuffrage, poore foole thou haſt experience that without me, thou canſt not frame a Declaration, for to amuze the peoples minds, that ſo while they are all aſtoniſhed, thou mayſt with more facility be wicked; thou canſt not plunder any man of his goods becauſe he's faithfull to his God, and King, and turne his Wife and Children out a begg<g ref="char:EOLhyphen"/>ing, except I goe before thee, and prepare thy way, nor canſt thou murther a <hi>Burleigh, Tomkins</hi> or a <hi>Challenour,</hi> a reverend <hi>Biſhop,</hi> or a glorious Stateſman, except I enter and poſſeſſe thy breſt, egging thee on to purchaſe thine owne ruine; thy King had nere been made a priſoner, or the ſlave <hi>Hammond</hi> been his dogged lailer, but that I ſate in counſell with the Agitators, who rul'd the roaſt at <hi>Windſor;</hi> tell me <hi>Belphegor</hi> what was his excuſe?</p>
+            </sp>
+            <sp>
+               <speaker>Belphegor.</speaker>
+               <p>He told me Sir, that he was very buſie in plotting how to keep his head on's ſholuders how ſtill to keep his name up with the people which he was almoſt in diſpaire to doe, for that the vulgar, now did he deadly hate him and diſcovered all his plots, and Stratagems, and ready were each day for to devour him alleadging he had forfeited his being. and broke all Lawes, both Morrall and Devine; he alſo was raging moſt furiouſly, for that by letters he hadgiven to know that all <hi>Welſhmen</hi> were in armes againſt him conducted by one <hi>Butler, Poyer</hi> and <hi>Powell,</hi> that <hi>Barwick</hi> and <hi>Corlila,</hi> were ceaſed one, by Sir <hi>Marmaduke Lang<g ref="char:EOLhyphen"/>dale,</hi> and Sir <hi>Thomas Glemham</hi> and that his brother <hi>Iocker</hi> had deſerted him, and is on his March with thirty thouſand men, with an intention for to whip him ſoundly becauſe he hath not kept his Covenant; that all the Kingdomes of the earth were banding, and vowed to worke his ruine but he commanded me, for to remember his deare love unto you, which I perceive was onely ſeemingly, for to himſelfe he mutterd that his diſtruſt of God and truſting you had been his ruine.</p>
+            </sp>
+            <sp>
+               <speaker>Devill.</speaker>
+               <p>Is he ſo ſoone reclaimd, Ile ſoone alter his temper; What ho <hi>Attophilax,</hi> thou art the ſtrongeſt Devill hell affords, haſt thou to <hi>Weſtminſter,</hi> there ſhall thou finde my brother Parliament, with his Committees and his Clerkes about him, <hi>Hunſcot,</hi> and <hi>Lewis,
+<pb n="4" facs="tcp:161710:4"/>Leechman,</hi> and all the Rogues, together in one knot, tell him I needs muſt ſpeake with him, and conſult about thoſe affaires neerly concern us both, if he refuſe to come force him along, thou knoweſt.</p>
+            </sp>
+            <sp>
+               <speaker>Arotphilaz.</speaker>
+               <p>I flie Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Devill.</speaker>
+               <p>Prithee <hi>Belphegor,</hi> tell me, thou flyeſt about the earth on all occaſions, what is the newes amongſt mortals.</p>
+            </sp>
+            <sp>
+               <speaker>Belphegor.</speaker>
+               <p>With ſwift Vellocity, proper to ſpirits, and aeriall formes, I doe intrude into all companies, ſometimes I am amongſt Iudges when they ſit upon the bench, I heare from them, that are male content, ſorry but dare not ſhew it (being over<g ref="char:EOLhyphen"/>aw'd by your brother Parliament) while they muſt ſit and paſſe their doome on man, and hang up thoſe for Traytors love the King, onely becauſe Traytors, will have it ſo, J am ſometimes amongſt Churchmen, or if you will the Synod, who doe confeſſe themſelves dam'nd Hypocrites, a Convoca<g ref="char:EOLhyphen"/>tion call'd by Rebells, to back their moſt uſurped temporall ſwords, with that is ſpirituall, who ſell Religion for foure ſhil<g ref="char:EOLhyphen"/>lings a day; frame Directories, Articles, and Catechiſmes, to foole the people into new opinions, who have reform'd no error, but have broacht; more then the <hi>Epheſian</hi> Counſell, who pull'd the Biſhops out othe' Saddle, that they might mount on horſe-back, and have cried downe Plurality of Livings, that they might get by the hand; I am ſometimes amongſt the rurall ſwaines, who mutter as they thraſh, that all is nought and that the ſlaves at Weſtminſter have undone them, have ſheared them nearer then their ſheep, yet will not beſtow ſo much tarre upon them, as will preſerve their buttocks from the flies, J have been—</p>
+               <stage>Artophilax, with Mr. Parliament on his backe.</stage>
+            </sp>
+            <sp>
+               <speaker>Devill.</speaker>
+               <p>O my deate friend, what is the reaſon now that thee and I
+<pb n="5" facs="tcp:161710:4"/>are thus eſtranged, we that have been ſo mightily familiar and have done no hing without joynt conſent, who mutually ought to affect each other, and both tryumph, as ruiners of Nations, without our amity no miſchiefs currant, why art thou now averſe.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Parliament.</speaker>
+               <p>I tell thee brother, I am now aspotent, and can without thee be as devilliſh, as when thy ſelfe wert moſt my friend, I now am my Crafts-maſter, and know how, to be as envious bloody, and barbarous, as thou thy ſelfe-canſt poſſibly invent, I can out-doe thee Lucifer my maſter, and had not the ſtrong arme of Fate, Cruſht me too hard now at my height of fortunes, I had been called <hi>Apollyon,</hi> and not thee.</p>
+            </sp>
+            <sp>
+               <speaker>Devill.</speaker>
+               <p>How fooliſhly thou argueſt, God or the Devill muſt have power o're al men, have I raiſed thee unto this height of glory, while for the ſinnes of <hi>England,</hi> God hath ſuffered me to call thee, as a Parliament, and to thee have I given all my power, taught thee to lie, diſſemble, &amp; to cheat a Nation of their Birth<g ref="char:EOLhyphen"/>right; the knowne Law, have I perſwaded the deluded vul<g ref="char:EOLhyphen"/>gar, to hearken to thy poiſonous Rhetorick and to believe thou meaneſt for to Reforme, and building on that weake founda<g ref="char:EOLhyphen"/>tion, to bring their Plate, Covne, and all their treaſure, and throw it at thy feet; have I infus'd contentious ſpirits into them, which ſtird them up to Faction, and Rebellion, that ſo the father hath deſtroyed his child, and children hand to hand have ſlaine their fathers, ſo that the ground hath been water<g ref="char:EOLhyphen"/>ed with Blood, as with raine while thou haſt laine at home and tane thine eaſe, fed high to ſtrengthen luſt, and fill'd thy baggs brim full with gold, extorted from the wretched blinded people, have I conſtrained the Blew Capt ſwads of <hi>Scotland,</hi> to joyne with thee in a moſt bloody League, a Covenant which I my ſelfe compil'd, and put to it my beſt invention, who ayd<g ref="char:EOLhyphen"/>ed thee in all thy baſe attempts, and have I no more thanks for all my paine, yet doe thy worſt, I needs muſt have thy ſoule
+<pb n="4" facs="tcp:161710:5"/>that is my owne, by contract, and 'twas for that that all this while I ayded thee.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Parliament.</speaker>
+               <p>I doe acknowledge thee my only Patron all my Thankeſgi<g ref="char:EOLhyphen"/>ving dayes, for ſeverall Victeries, were wholly ſet apart to ſing thy Praiſes, no <hi>Indian</hi> ever worſhipt thy black <hi>Diety,</hi> with ſuch obſequious hearty adoration as I have done this ſeaven yeares; all thoſe dayes I ordained for <hi>humiliation,</hi> were kept at ſuch times when thy power forſooke me, and that I found thou didſt not fight in Perſon, joyning with my part-takers againſt the King, and to conclude all Honours, Victories, all the vaſt Treaſure and the numerous miſchiefes, that I got, or have per<g ref="char:EOLhyphen"/>formed this 7 yeares have been wholly by thee, but now I find thy power is limitted, and that the Almighty hath tane away thy ſtrength, ſo that my enemies increaſe upon me, and all men ſeeke to worke my fall from Eaſt, from Weſt, the gellid No, and South, inevitable miſchiefs come againſt me, wherefore I would faine deveſt my ſelfe, and would eſteeme it a chief hap<g ref="char:EOLhyphen"/>pineſſe, if I could to reſigne my uſurped power, as to ſcape with my life, and with my money, this I have hope to doe; and therefore I have Voted for a King, and that the Govern<g ref="char:EOLhyphen"/>ment of the <hi>Engliſh</hi> Nation, by King, Lords, and Commons as of old, and could I alſo but eſcape thy clurches.</p>
+            </sp>
+            <sp>
+               <speaker>Devill.</speaker>
+               <p>O thou moſt wretched fool, 'tis as impoſſible for thee toſcape the everliving force of <hi>Stygian</hi> fire, as it is for me once more to viſit heaven and thy body is for dogs, thy ſoule for hell, <hi>God</hi> will no longer let the <hi>Engliſh</hi> Nation bee ſlave to thy Com<g ref="char:EOLhyphen"/>mand, their ancient <hi>Diſcipline</hi> muſt bee reſtor'd, and they yet once more happie, each of you take a limbe my maſters <hi>De<g ref="char:EOLhyphen"/>vils,</hi> I'le beare the reſt my ſelf ho, ho, ho, anſwer me <hi>Belphe<g ref="char:EOLhyphen"/>gor<g ref="char:punc">▪</g> Artophilax</hi> anſwer him.</p>
+            </sp>
+            <sp>
+               <speaker>Artop;</speaker>
+               <lg>
+                  <l>Sing aloud <hi>Engliſh</hi> Nation,</l>
+                  <l> your bleſt Ref<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmation;</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Bel:</speaker>
+               <lg>
+                  <l>let all bee content:</l>
+                  <l>
+                     <hi>Devill,</hi> to the Devill is ſent:</l>
+               </lg>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>

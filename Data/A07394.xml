@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here is co[n]teyned a godely interlude of Fulgens Cenatoure of Rome. Lucres his doughter. Gayus flaminius. [and] Publi[us]. Corneli[us]. of the disputacyon of noblenes [And] is deuyded in two p[er]tyes, to be played at ii. tymes. Co[m]pyled by mayster Henry medwall. late chapelayne to ye ryght reuerent fader in god Iohan Morton cardynall [and] Archebysshop of Cau[n]terbury.</title>
+            <title>Fulgens and Lucres</title>
+            <author>Medwall, Henry, fl. 1486.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1512</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07394</idno>
+            <idno type="STC">STC 17778</idno>
+            <idno type="STC">ESTC S111265</idno>
+            <idno type="EEBO-CITATION">99846640</idno>
+            <idno type="PROQUEST">99846640</idno>
+            <idno type="VID">11624</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A07394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11624)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 124:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here is co[n]teyned a godely interlude of Fulgens Cenatoure of Rome. Lucres his doughter. Gayus flaminius. [and] Publi[us]. Corneli[us]. of the disputacyon of noblenes [And] is deuyded in two p[er]tyes, to be played at ii. tymes. Co[m]pyled by mayster Henry medwall. late chapelayne to ye ryght reuerent fader in god Iohan Morton cardynall [and] Archebysshop of Cau[n]terbury.</title>
+                  <title>Fulgens and Lucres</title>
+                  <author>Medwall, Henry, fl. 1486.</author>
+                  <author>Buonaccorso, da Montemagno, ca. 1391-1429, De vera nobilitate.</author>
+               </titleStmt>
+               <extent>[78] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohan rastell dwellynge on the south syde of paulys chyrche by syde paulys cheyne,</publisher>
+                  <pubPlace>[Enprynted at london :</pubPlace>
+                  <date>[between 1512 and 1516]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Based on: Buonaccorso, da Montemagno.  De vera nobilitate.</note>
+                  <note>In verse.</note>
+                  <note>Printer's name and address from colophon; publication date estimated by STC.</note>
+                  <note>Signatures: a-f⁶ g⁴ (-g4).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Leaves e3-4 only, in an earlier uncorrected state.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:11624:1"/>
+            <!-- PDF PAGE 4 -->
+            <pb facs="tcp:11624:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <l>Nor ſlacke at this bargyn</l>
+            <l>Mary here he co<g ref="char:cmbAbbrStroke">̄</g>myth I haue hym aſpyde</l>
+            <l>No more wordis ſtonde thou a ſyde</l>
+            <l>For it is he playne</l>
+            <l>¶ My frynde where abowt goiſt thou all day<note place="margin">cor. B</note>
+            </l>
+            <l>¶ Mary ſyr I came heder to a ſay</l>
+            <l>whedyr theſe folke had ben here</l>
+            <l>And yet thay be not come</l>
+            <l>So helpe me god and holy dome</l>
+            <l>Of that I haue moche maruaile / that thay tar</l>
+            <l>¶ Mary go thi way / &amp; wit where thay wyll or<note place="margin">cor. B</note>
+            </l>
+            <l>¶ ye god a vow ſhall I ſo</l>
+            <l>¶ ye mary ſo I ſay<note place="margin">cor. B</note>
+            </l>
+            <l>¶ yet in that poynt as ſemyth me</l>
+            <l>ye do not accordynge to your degre</l>
+            <l>¶ I pray the tell me why<note place="margin">cor. B</note>
+            </l>
+            <l>¶ Mary it wolde be com them well I now</l>
+            <l>To be here a fore and to wayte vpon you</l>
+            <l>And not you to tary</l>
+            <l>For theyr layſyr and abyde them here</l>
+            <l>As it were one that were ledde by the eare</l>
+            <l>For that I defy</l>
+            <l>By this mene you ſholde be theyr druge</l>
+            <l>I tell you trought I</l>
+            <l>And yet the worſt that greueth me</l>
+            <l>Is that your aduerſary ſholde in you ſe</l>
+            <l>So notable A foly</l>
+            <l>Therfore witdraw you for a ſeaſone</l>
+            <l>¶ By ſeynt Iohan thou ſayſt but reaſone<note place="margin">cor. B</note>
+            </l>
+            <l>¶ ye do ſo hardely</l>
+            <l>And whan the tyme drawith vpon</l>
+            <l>That thay be com euerychone</l>
+            <l>And all thinge redy</l>
+            <l>
+               <pb facs="tcp:11624:2"/>
+               <!-- PDF PAGE 5 -->
+¶ Than ſhall I come ſtreyght a way</l>
+            <l>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or to feche you withoute delay</l>
+            <l>¶ Be it ſo hardely</l>
+            <l>But one thinge whyle I thinke ther one</l>
+            <l>Reme<g ref="char:cmbAbbrStroke">̄</g>ber this when I am gone</l>
+            <l>yef hit happon ſo</l>
+            <l>That lucres come in fyrſt alone</l>
+            <l>Go in hand with her anone</l>
+            <l>How ſo euer thou do</l>
+            <l>For to fele her mynde toward me</l>
+            <l>And by all meanis poſſyble to be</l>
+            <l>In duce her ther vnto</l>
+            <l>¶ Than ſome to<gap reason="illegible: damage" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> you muſt gyue me</l>
+            <l>For ellis ſhe wyll not beleue me</l>
+            <l>That I cam from you</l>
+            <l>¶ Mary that is euyn wyſely ſpoken</l>
+            <l>Co<g ref="char:cmbAbbrStroke">̄</g>maunde me to her by the ſame token</l>
+            <l>She knowyth it well I now</l>
+            <l>That as ſhe and I walkyde onis to gedyr</l>
+            <l>In her garden hedyr and thedyr</l>
+            <l>There happonde a ſtraunge caſe</l>
+            <l>For at the laſt we dyd ſe</l>
+            <l>Abyrd ſittynge on a holow tre</l>
+            <l>An aſhe I trow it was</l>
+            <l>Anone ſhe prayde me for to aſſay</l>
+            <l>yf I coude ſtart the byrde a way</l>
+            <l>¶ And dyde ye ſo / alas alas</l>
+            <l>¶ why the deuyll ſayſt thou ſo</l>
+            <l>¶ By collis bonis for it was a kocko</l>
+            <l>And men ſay amonge</l>
+            <l>He that throwyth ſtone ar ſtycke</l>
+            <l>At ſuche abyrde he is lycke</l>
+            <l>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that byrdes ſonge</l>
+            <l>
+               <pb facs="tcp:11624:2"/>
+               <!-- PDF PAGE 5 -->
+¶ what the deuyll recke I therfore<note place="margin">cor.</note>
+            </l>
+            <l>Here what I ſay to the euer more</l>
+            <l>And marke thine erand well</l>
+            <l>Syr I had no ſtone to throw with all</l>
+            <l>And therfore ſhe toke me her muſt ball</l>
+            <l>And thus it befell</l>
+            <l>I kyſt it as ſtrayght as ony pole</l>
+            <l>So that it lyghtyde euyn in the hole</l>
+            <l>Of the holow aſhe</l>
+            <l>Now canſt thou reme<g ref="char:cmbAbbrStroke">̄</g>ber all this</l>
+            <l>¶ By god I wolde be loth to do amys<note place="margin">B</note>
+            </l>
+            <l>For ſome tyme I am full raſhe</l>
+            <l>ye ſay that ye kyſt it euyn in the hole</l>
+            <l>Of the holow aſhe as ſtrayte as apole</l>
+            <l>Sayde ye not ſo</l>
+            <l>¶ yes.<note place="margin">cor. B</note>
+            </l>
+            <l>¶ well then let me a lone</l>
+            <l>As for this erande it ſhall be done</l>
+            <l>As ſone as ye be go</l>
+            <l>¶ Fare well then I leue the here<note place="margin">cor.</note>
+            </l>
+            <l>And reme<g ref="char:cmbAbbrStroke">̄</g>byr well all this gere</l>
+            <l>How ſo euer thou do ¶ Et exeat corn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>¶ yes hardely this erande ſhall be ſpoken<note place="margin">B</note>
+            </l>
+            <l>But how ſay you ſyrs by this tokene</l>
+            <l>Is it not a quaynt thinge</l>
+            <l>I went he hade bene a ſayd man</l>
+            <l>But I ſe well he is amade man</l>
+            <l>In this meſſage doynge</l>
+            <l>But what. choſe he for me</l>
+            <l>I am but as a meſſanger perde</l>
+            <l>The blame ſhall not be myne but his</l>
+            <l>For I wyll his token reporte</l>
+            <l>whether ſhe take it in herneſt or ſporte</l>
+            <l>
+               <pb facs="tcp:11624:3"/>
+               <!-- PDF PAGE 6 -->
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wyll not therof mys</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſhe wroth or well a payde</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wyll tell her euyn as he ſayde ¶ Intrat lucres.</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God a vow here ſhe is</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is tyme for me to be wyſe</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow welcome lady. floure of priſe</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> haue ſought you twyſe or thryſe</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ythin this houre I wys</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Me ſyr haue ye ſought me</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ye that I haue by god that bowght me</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> To what intent</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mary for I haue thing is a few</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he which I muſt to you ſhew</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y my mayſters co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>dement</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ublius Cornelius is hys name</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur veray louer in payne of ſhame</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd yf ye loue hym not ye be to blame</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r this dare I ſay</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd on a boke make it gode</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> louyd you better than his one hart blode</l>
+            <l>Hys harde bloode nay nay</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alf that loue wolde ſerue for me</l>
+            <l>yet ſithe he dyde you fyrſt ſe</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the place where he dwellis</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had louyd you ſo in hys hart</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he ſettyth not by hym ſelf a fart</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r by noo man ellis</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd by cauſe ye ſhulde gyue credence</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto my ſayng in hys abſence</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d truſt to that I ſay</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tolde me tokyns ii. or .iii.</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>iche I know well as he tolde me</l>
+            <l>
+               <gap reason="illegible: page cropped" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>yns what be thay</l>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <pb facs="tcp:11624:3"/>
+            <!-- PDF PAGE 6  -->
+         </div>
+      </body>
+   </text>
+</TEI>

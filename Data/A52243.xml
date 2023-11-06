@@ -1,0 +1,1729 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes out of the west, or, The character of a mountebank being a discourse betweene Hodge Leather-Pelch, and Tym Hob-Nayle, Sir Harry-Hart-Hole their land-lord, and his friend Sir Clement Councell  : also of their travels from Taunton to London, their arrivall at their physitians pallace, the description of it, his sick and brain-sick followers, person and family, with a full relation of the medicines hee commonly administers, their operation and danger represented by them : also a relation of their abuses now suffered and fomented by authority, with a remedy set down, to the encouragement of physitians, illustration of the honour'd art and generall good of the Re-publicque / by a well willer to physick and chirurgerie and deplorer of the now too common neglect of them.</title>
+            <author>Well willer to physick and chirurgerie and deplorer of the now too common neglect of them.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52243</idno>
+            <idno type="STC">Wing N1036A</idno>
+            <idno type="STC">ESTC R12979</idno>
+            <idno type="EEBO-CITATION">12254741</idno>
+            <idno type="OCLC">ocm 12254741</idno>
+            <idno type="VID">57335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52243)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes out of the west, or, The character of a mountebank being a discourse betweene Hodge Leather-Pelch, and Tym Hob-Nayle, Sir Harry-Hart-Hole their land-lord, and his friend Sir Clement Councell  : also of their travels from Taunton to London, their arrivall at their physitians pallace, the description of it, his sick and brain-sick followers, person and family, with a full relation of the medicines hee commonly administers, their operation and danger represented by them : also a relation of their abuses now suffered and fomented by authority, with a remedy set down, to the encouragement of physitians, illustration of the honour'd art and generall good of the Re-publicque / by a well willer to physick and chirurgerie and deplorer of the now too common neglect of them.</title>
+                  <author>Well willer to physick and chirurgerie and deplorer of the now too common neglect of them.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>cf. Astor library: Dixon collection, 303. Hazlitt, I. 305.</note>
+                  <note>T.p. partially illegible.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quacks and quackery --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57335:1"/>
+            <pb facs="tcp:57335:1" rendition="simple:additions"/>
+            <p>
+               <hi>Newes out of the West:</hi> OR, THE Character of a Mountebank.</p>
+            <p>BEING A DISCOURSE <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Hodge Lether-Pelch,</hi> and <hi>Tym</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Sir <hi>Harry-Hart-hole</hi> their Land-lord, and his Friend Sir <hi>Clement Councell: Alſo of their Travels from</hi> Taunton <hi>to</hi> LONDON, Their Arrivall at their Phyſitians Pallace.</p>
+            <p>
+               <hi>The Deſcription of it,</hi> His Sick and Brain-ſick followers, Perſon and Family, WITH A full Relation of the Medicines hee commonly adminiſters. Their Operation and Danger Repreſented by them.</p>
+            <p>ALSO, A Relation of their Abuſes now ſuffered and <hi>fomented by Authority: With a Remedy ſet downe,</hi> to the Encouragement of <hi>Phyſitians,</hi> illuſtra<g ref="char:EOLhyphen"/>tion of the Honour'd Art, and generall Good of the Re-publique.</p>
+            <p>BY <hi>A well willer to</hi> PHYSICK <hi>and</hi> CHIRVRGERIE, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Deplorer of the now too Common <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of them.</hi>
+            </p>
+            <p>Printed in the yeare of Grace. M.D.C.XLVII.</p>
+         </div>
+         <div type="argument">
+            <pb facs="tcp:57335:2"/>
+            <pb facs="tcp:57335:2"/>
+            <head>The Argument.</head>
+            <l>
+               <hi>HOdge-Lether-pelch,</hi> for ſome ſmall paine in's thighes</l>
+            <l>Seekes, help, <hi>Tym Hob-nayle</hi> do's the ſame for's eyes.</l>
+            <l>They trudge to <hi>London,</hi> where they heare of one</l>
+            <l>Famous for both to make them good; or none</l>
+            <l>
+               <hi>Hodge</hi> gets two Crutches, a helpe which before</l>
+            <l>He had not: <hi>Tym</hi> one Eye out, t'other ſore.</l>
+            <l>In this ſad plight Returning to their home,</l>
+            <l>Their hearty Land-lord, bids them both welcome.</l>
+            <l>Merry Sir <hi>Henry Heart-whole,</hi> ſtayes his Friend</l>
+            <l>Sir <hi>Clement Councell,</hi> do's his tale Commend</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nto his hearing: though loth (his affaires</l>
+            <l>Calling him thence) attentively hee heares</l>
+            <l>The ſtory of their Travels, which ſets forth</l>
+            <l>Deſperate Dangers, in ſome Scaenes of mirth.</l>
+            <l>Sir <hi>Henry Heart-whole</hi> and his friend Sir <hi>Clement,</hi>
+            </l>
+            <l>The ſtrange Abuſes of theſe Times lament.</l>
+            <l>Diſcourſe a remedy, and it commend</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nto Authority, and if that lend</l>
+            <l>A hand; ther's thouſands would be ſav'd; now goe:</l>
+            <l>Thrust out o'th World, <hi>cum Privilegio.</hi>
+            </l>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="2" facs="tcp:57335:3"/>
+            <head>THE CHARACTER OF A Montebanck.</head>
+            <stage>
+               <hi>Sir</hi> Harry-Heart-hole <hi>the Land-lord, and Sir</hi> Clement Councell <hi>his Friend,</hi> Hodge-Lether-pelch, <hi>and</hi> Tym-Hob-nayle.</stage>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>
+                  <seg rend="decorInit">Y</seg>Our occaſions Sir I know<g ref="char:punc">▪</g> are not ſo regent</l>
+               <l>But you may loyter one day more with me.</l>
+               <l>The mirth perhaps you'le heare, may preſent ſomething</l>
+               <l>To excuſe your truant ſtay from your affaires</l>
+               <l>And ſomwhat benefit. From ſuch courſe Hiſtory</l>
+               <l>Is often Gather'd ſweet, and queint concluſions;</l>
+               <l>Which figure forth our Follies in a fayrer</l>
+               <l>Text, then the ſubtiller ſort will give their Errors</l>
+               <l>And thereby prove Examples, to weane from us</l>
+               <l>The will's wee have to ſtayne our pregnant Fancies</l>
+               <l>With ſome abſurd eſcapes, which cannot paſſe</l>
+               <l>The Generall Cenſure with-out blemiſh<g ref="char:punc">▪</g>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Sir!</l>
+               <l>I cannot expect ſuch peeces from that Couple</l>
+               <l>You mentioned lately.</l>
+            </sp>
+            <sp>
+               <speaker>Harry.</speaker>
+               <l>Come they're Miracles</l>
+               <l>Which in them have not ended.</l>
+            </sp>
+            <sp>
+               <speaker>Servant.</speaker>
+               <l>Sir, your Tennants</l>
+               <l>Wayt your Commands.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Harry.</speaker>
+               <l>Oh that's well you cannot</l>
+               <l>Now thinke of any ſpeed; goe bid 'um enter<g ref="char:punc">▪</g>
+               </l>
+               <pb n="3" facs="tcp:57335:3"/>
+               <p>Welcome tennants, what <hi>Hodge</hi> ar't Lame? And you <hi>Tym</hi> Blind too, How comes theſe evils to you.</p>
+            </sp>
+            <sp>
+               <speaker>Hodge-Lether-pelch.</speaker>
+               <p>— By hab, nab Sir, as the Doctor Cures 'um all, <hi>Tym</hi> tell how thou camſt blind a' one Eye, like my Land-lords old Dungill Cock.</p>
+            </sp>
+            <sp>
+               <speaker>Tym Hob-nayle.</speaker>
+               <p>— Marry, I tooke a long journey to put it out, e'ne up to <hi>London,</hi> where che heard of one was par<g ref="char:EOLhyphen"/>lous good at the buſineſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <p>And I Land lord, to change for theſe Crutches, good wholſome limbes, and I ga' money to boote<g ref="char:punc">▪</g> but I hope Land-lord, you will be ſtill mercileſſe to us, and though wee are not able to you any Knight-ſervice in the Wars, <hi>Tym</hi> holding his blindneſſe in Capite, and my lameneſſe is Copie hold-faſt betweene two Aſhen ſtilts, and Beggery copied (in them) out to mee which I muſt learn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> having alienated my bones into Crutches; yet we can do you Yeomans ſervice at the Powdring-tub, and ſhall never want ſtout Stomacks to main<g ref="char:EOLhyphen"/>taine by tooth and nayle your hoſpitality, with all Commers<g ref="char:punc">▪</g> Therefore good Land-lord be mercileſſe to us —</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Mercy-foole, you Logger-head — You ſpokeſ-man.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I ſay mercileſſe yee Jobber-noll; for if his Purſe be full o' money and hee gon's none, e'ut it full ſtill ye Dolt? if hee gon's all in't, eu't his Purſe penny-leſſe? And is it not ſo we mercy in his heart yee Dunce? and therefore mercy<g ref="char:EOLhyphen"/>leſſe Land-lord.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Well diſputed <hi>Hodge:</hi> I muſt bee Sir, a ſuiter to you for them, goe on good <hi>Hodge Lether-pelch.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>But Land-lord you will before this honeſt Gen<g ref="char:EOLhyphen"/>tleman, be mercileſſe to us?</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Doubt not <hi>Hodge,</hi> that I'le be harſh or cruell, and before this my friend I'le take but half the Rent, and <hi>Tym</hi> ſhall pay no more.</p>
+            </sp>
+            <sp>
+               <speaker>Both.</speaker>
+               <p>Now Land-lord wee ſhall pray for your limbes and Eyes, that Age may neither put you into Crutches nor Spec<g ref="char:EOLhyphen"/>tacles but that you may ſee to go many a mile to ſuch charity.</p>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <p>I muſt be ſpokeſ-man muſt I?</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:57335:4"/>
+               <speaker>Sir Har.</speaker>
+               <p>But <hi>Hodge,</hi> goe on, you remember your Travels?</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Ch'ave cauſe I thinke, being Croſt with a paine in one thigh and to croſſe my wife; c'he went croſſe the water, o're the Bridge, and croſſe the Country, the nyer way, and then c'he went croſſe another water, where there were many wooden houſes wit' Guns ah midſt on't, lay croſſe one ano<g ref="char:EOLhyphen"/>ther, with great wooden croſſes one above another, upon beacons; and Flags a top o' all, as bigge as our Wake ſtrea<g ref="char:EOLhyphen"/>mers, wi'red Croſſes in um.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>What meanes he Sir by theſe?</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>The Ships in <hi>Thames,</hi> I thinke.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>I<g ref="char:punc">▪</g> che call'd um Sheepe, but che had another Faith, to goe to heaven by; I'me ſure che look't like Oaken Caſtles ith' water.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Did any of them give fire to the Guns?</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Give Fire co' ye who the d'ile w'ud ha't but them<g ref="char:EOLhyphen"/>ſelves, and che ſed they ſp ke well<g ref="char:punc">▪</g> marry 'twas in thunder: Then che askt him what language 'twas che ſpoke, I'me ſure 'twas we' breath, as if 't had bin out of a Furnace; — Then che landed at <hi>Black-wall,</hi> — Well Land-lord, that's a nooke i'th world, tels nothing but lyes; for che ſed 'twas <hi>Black-wall,</hi> and as I'me a Curſend Cripple che ſaw neither <hi>Black-wall,</hi> nor any thing 'r was black, but durt, and black-Men, eating a' black Puddings, and ſome a fleaing one o' thoſe Great black-ſheepe, (as they told us) for che puld off the wooll, skin and all.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Cle.</speaker>
+               <p>The Carpenters were unſheathing ſome ſhips ſure?</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>I, I, Shearing che ſed, if wee w'ud a beleev'd um in a dry Ditch 'twas, I think they were clad in Budget-lether with the hayre ſide inward.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Then, che met with a Sea-Country-man, and che ſed a w'ud lead's to a Doctor ſh'ud mends all, Then che went many a Croſſe way, till che thought che had bin on's way as <hi>Tyms</hi> Eye is, quite out; Then che ſed wee muſt take a little whirly gig, was not <hi>Tym,</hi> at a Curſned ſhore, call <hi>Dieks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>'Twas a Wherry at <hi>Dick</hi>-ſhore <hi>Hodge?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:57335:4"/>
+               <speaker>Hodg.</speaker>
+               <p>But what heathen people are theſe to Curſon ſuch durty places? And the Whirly-gig-man ſed, a muſt ha' a Groat to carry us to <hi>Trig</hi>-ſtayres.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Then <hi>Hodge</hi> told him hee was a Lazy harlot, to ask a Dayes toyle at Plough and Cart, for a little Pad-ling in the water with two Ovens-Peeles.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>And the curriſh raſcall go mee croſſe words, and ſed a'wud lay me croſſe the pate, if I did not the ſooner get out o'ns wooden trough. Then my Sea-Country man ſed wee'le goe by Land.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>And <hi>Hodge</hi> ſed farewell, c'hem glad to h'ear't and that che came not to that purpoſe, to buy Land! C'he was not ſo rich or ſo thrifty.</p>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <p>And the giglets laught at me ſo much, as c'he had byn clad in motley with a muckender, that che began to ſuſpect my ſelfe for a foole, but my Sea-Country-man ſed there was a Spurge-maker w'ud dou's good, then che paſt by many a young trifle, every one with white flaggs, o truce before 'um, and ſitting at doore, buying o blacke wither'd Plums and apples on a fellow, with a three legg'd flasket on's head, that ſed 'a had the Pip-in's mouth, I think then che came to <hi>Rattle-croſſe,</hi> and a little further, my Sea-Country-man, poynted to 'a painted Shop: full o white pots, and ſed there was the Pot-carryer wu'd dou's good.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>and <hi>Hodge</hi> went and make leggs and Curſies to an ill-favoured out-landiſh Gentleman, in 'a Clay-coloured hayre-gowne, and a black long Vizard ſcrubing o'ns arſe, and my Sea-Country-man tolds'a was a <hi>Jew,</hi> and that 'a chatter'd <hi>Ebrew:</hi> but 'a made mouths at <hi>Hodge,</hi> as if 'a had bin a <hi>May</hi>-game, then 'a go <hi>Hodge</hi> his hand to kiſſe, and we'tother ſnatch't away the Pome-water <hi>Hodge</hi> was craunching to quench his thirſt.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Che cal'd him Mr. <hi>Baboone,</hi> o'th Doctors Complexi<g ref="char:EOLhyphen"/>on, but that he e'ut ſo like a dry-fat. Then out came a fellow with a culour in's noſe, as if a' had byn ſmugg'd ore we red Oker, and che askt which o thoſe two was the Spurge-maker<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:57335:5"/>
+               <speaker>Tym.</speaker>
+               <p>And the fellow with the Brick-ſtain'd face, go' <hi>Hodge</hi> with a Colt-ſtaffe, ſuch a knock croſſe the Coxecombe, made him ree'le two or three Croſſe legs to him, but had it not bin for our Sea-Country-man, wee had bin ſwadled e'ſaith.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Then che went many a Croſſe way call'd — as you may ſee by <hi>Tym's</hi> Chalke-booke, go' my Land-Lord your membrance booke <hi>Tym</hi> — and che came to another Spurge-maker a depper fellow and a Saminer of Gudgeons that makes lob-lolly, and ſpleces broken leggs at Sea —.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Che ſed 'a had a Pulpit on's houſe, made of an old Hogs-head and a what waſt <hi>Hodge</hi> a baudy filthy name t'had?</p>
+            </sp>
+            <sp>
+               <speaker>Sir. Cle.</speaker>
+               <p>A Conventicle.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>And his name was the name of a weed c'have had it oft e'my porridge: what waſt <hi>Tym.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>They were Elenanders, and his t'other name was —.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Eat-um ye lob-cocke, and I had a mighty ſtomach to be dealing with him, — well Land-Lord, I paſs't ſo many Croſſes that I left nere a Croſſe 'e my pocket, and now I am come to bee a croſſe to all my friends.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Well Tenants, your Sea-Country-man, as you terme him, hath done you the honour, as to bring you ſafe through the trouble and dangerous paſſages (as I read in your wooden journall) of <hi>Black-Wall, Lyme-houſe, Red-cliffe, Shad<g ref="char:EOLhyphen"/>well,</hi> over the Rocks of <hi>Execution-Docke,</hi> by the Land-markes of <hi>Wapping<g ref="char:punc">▪</g>
+                  </hi> the Cloudy <hi>Armitage,</hi> whereas you ſay you ſmel't nothing but Sulpher and Burley vapour, and paſt, that Curſ<g ref="char:EOLhyphen"/>ned place St. <hi>Katherines.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>I, I, my <hi>Kates</hi> own name — I thinke they were Curſned both at a Font, for that en't ſo crooked but ſhee's as Croſſe ſo God mend's all one, yet that's a Saint, and my <hi>Kate's</hi> a Divel.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Well <hi>Tym,</hi> you are alwayes buſie with your ſentences, to put houres to the ſtory; but <hi>Hodge</hi> proceed, be<g ref="char:EOLhyphen"/>ing at the Doctors doore do us the favour as to enter.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Nay 'troth ſurs, ſoft and faire, che muſt looke abou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her firſt, But looking up, O'my Conſcience <hi>Tym,</hi> tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:57335:5"/> knowſt what a wonderment, it was, that the Doctors houſe ſhould be covered with a Biſhops flat cornerd Cap.</p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>And Land-lord, the meaſel <hi>Hodge</hi> ſaid, twas a dan<g ref="char:EOLhyphen"/>gerous thing, for a Doctors houſe-top, to weare a Biſhops Cap, becauſe Biſhops are put down, and if the City Matrums ſhould take it as in contempt, and petition that his houſe might be pul'd down too, what a caſe w'ud the great meaſled Porke be in.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Marry in none but his out-ſide, for his Stye pul'd down, 'a muſt ene grunt in his naturall place, in rubbiſh and among the dunghils, but go on, good <hi>Ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Why then che lookt upon the out-ſide, and <hi>Tymm</hi> what ſaid I too't?</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Marry knaviſhly enough; <hi>Hodge</hi> ſaid it lookt as if it had bynn plaſtered ore we Poſſet-Curd, which his Patients ſav'd for him; with the Over-plus, and a little Pepper; hee dyeted his Mad Wife, and his Man to ſave charges.</p>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <p>I <hi>Tym,</hi> but thou haſt not told all; when I askt the mans boy over the way that makes great Courſe browne ſheets, hemm'd about with black ropes; I thinke for the huge Doctor to ſnort and ſcrub his skales off in, at midnight, the Crack-rope, ſed a had feed all the — what did a call um <hi>Tym.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Old Beldames o'th Hoſpitals, to ſave their Curds on Phyſicke dayes to wether-boord his Pallace.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I<g ref="char:punc">▪</g> I, wether-boord ſo t'was, and that he had cauſed three thouſand Poſſets to bee made in 5 dayes, for the advan<g ref="char:EOLhyphen"/>tage of the Curds.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>There was an old woman look't on't 'we Spectacles and ſaid a' was a prophene but cherly fellow to wether-boord his houſe wee white Lamb-skinns, and wiſht the French Rot might thaw his fat ſides, and ſaid, t'was no marle her husband could buy none to make gloves, when hee muſt have the out<g ref="char:EOLhyphen"/>ſide on's kennell clad in'um.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>What ſay you to this newes my friend? Has it not reliſh? Dos it not ſmacke in your fancy?</p>
+            </sp>
+            <sp>
+               <speaker>Sir Cle.</speaker>
+               <l>Good <hi>Hodge Lether-Pelch</hi> go on.</l>
+               <pb n="8" facs="tcp:57335:6"/>
+               <l>I would not want one tittle of thy ſtory</l>
+               <l>For Volumes of <hi>Tu quoques.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>You Coakſes; why ſo Gentlemen?</p>
+            </sp>
+            <sp>
+               <speaker>Sir Cle.</speaker>
+               <p>Prethee <hi>Hodge</hi> don't miſtake me, <hi>Tu quoques</hi> I ſaid.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>And we ſay we are not ſuch beaſts or Coaks'es, to be bought and ſold in <hi>Latin,</hi> or to be Coaks'es in any other lan<g ref="char:EOLhyphen"/>guage then our own naturall ſpeech.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Nay <hi>Hodge,</hi> what captious, go on I ſay, you had al<g ref="char:EOLhyphen"/>moſt ſpoil'd all.</p>
+            </sp>
+            <sp>
+               <speaker>Hod.</speaker>
+               <p>Well Land-lord in hope you'le ever be an honeſt man, and be mercileſſe to us — But looking a little lower, what ſaid I <hi>Tym?</hi> Prethee turne o're my membrances in thy Chalk-booke.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Firſt <hi>Hodge</hi> tel's what the old begger ſed<g ref="char:punc">▪</g> that with his tow wooden leggs wayted like a Groome-porter at his doore.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>The begger laughing at the Poſſet Curd, ſaid his houſe look't more like a — what waſt <hi>Tym?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Faith, c'has forgot, c'ham ſuch a loblivious meaſell, the can under-com-ſang<g ref="char:punc">▪</g> nothing but my bum — what ſay you Gentlemen, when a hor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e hath to do with a Mare.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Why 'a do's leap her <hi>Tym.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Udds niggs, <hi>Tym</hi> right, che ſed his houſe lookt like a Leaper, and che ſed t'was all his Grannam le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t his Father as a Pattent to beg by, which inheritance was left him in his tow wooden leggs.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Now <hi>Hodge,</hi> thou mayſt pull down the pride of thy eyes, and look a little lower<g ref="char:punc">▪</g> what ſpye'ſt thou there <hi>Hodge-Lether-Pelch?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Marry <hi>Tym Hob-nayle</hi> Gulleries and ball'd Cunies as they call'um.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>How <hi>Hodge</hi> what waſt? Galleries and bell Conyes?</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>A path way in the ayre round about his Charnell-houſe; its like an old churles Ruffe in crinckle cranckles, daub'd ore' we blew Starch, and ſtifned, to purpoſe, but what ſaid I to the begger, <hi>Tym?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:57335:6"/>
+               <speaker>Tym.</speaker>
+               <p>Like any arrant Curſned Carter living; Land-lord, a told the beggar that there were ſpokes for his knees in that Gullery and ready turn'd to his hand, if his ſtumps flood in need of any freſh legs.</p>
+            </sp>
+            <sp>
+               <speaker>Hod.</speaker>
+               <p>The Neighbours ſay, the great lump o tallow, whoſe out<g ref="char:EOLhyphen"/>ſide lookes like the inſide of a Cavalere-but, waſt not ſo <hi>Tym?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir Cle.</speaker>
+               <p>A Cavyare but, <hi>Hodge</hi> it was.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>That he is rowling up and down in that Gullery in a hot day to ſwelter himſelfe in the ſhade and the coole ayre, but Land-lord, mercileſſe Land-lord as you have faithfully pro<g ref="char:EOLhyphen"/>miſed me, I am now with my eyes betwixt the two Logger-headed poſts at his dore, clad in blew-Jackets, like your good Grand-fathers old pow-der-beefe men, and they ſtand too't as ſtifly as ift he divell were within u'm.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Precious <hi>Pelch</hi> proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>The Porch was ſtrongly guarded with the blind and lame.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Cle.</speaker>
+               <p>How ſtrongly guarded <hi>Hodge</hi> with ſuch Watch-men?</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>And Watch-woemen too Sir, or I'me a very ſhoo<g ref="char:EOLhyphen"/>buckle, there was ſuch a ſtrong ſent among 'um, none durſt approach u'm, they ſmelt like our old perſons 6 holes in his armes, leggs, and ankles; that hee dayly feeds we' dry Peas, and Cole-wort leaves inſtead o Sallads, to keepe low the French Gugawes in his bones or the great blue blotches our Sextons wife hath in both her ſhin-bones, which ſhe dawbes ore, we' Candles greaſe and white Chalke, and gives it a nick-name as ſhee does her husband Nickles, and cals it an Attonement.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Puppy, tis an odd-ſent ſhe cals it.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>An Oyntment, eu't it <hi>Hodge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I, I, an Appointment, but Land-lord ne're a cup <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ale, I grow hoarſe a little.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>You ſhall have much adoe to waſh your b<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> downe, ſome drinke there.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Hold <hi>Hodge,</hi> thou drinkſt like a horſe.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I may thanke my mercileſſe Land-lord <hi>Tym,</hi> for che can taſt no Mault in the water, wn't carouſe <hi>Tym.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:57335:7"/>
+               <speaker>Sir Cle.</speaker>
+               <l>The Southerne Ayre?</l>
+               <l>Hath breath'd a nimble fineneſſe <hi>Hodge</hi> into</l>
+               <l>Your home-ſpunn noddle, but good <hi>Pelch</hi> go on,</l>
+               <l>I thirſt to heare the ſequell.</l>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Doe you thirſt to drinke o my Land lords Wel too? Hee is very free of his B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cket — but having knockt, there ap<g ref="char:EOLhyphen"/>pear'd an old thing of whit-lether and bads come in, where <hi>Tym,</hi> thou knowſt what a rabble there was too?</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>I and a ſtench too <hi>Hodge,</hi> w'ud 'a poyſned a Pole-cat, Land-lord there was complexions of all ſorts, The old ſtory i'th <hi>Arras</hi> hangings hath not halfe ſo many, far worſe then <hi>Ia<g ref="char:EOLhyphen"/>cobs</hi> and his twelve ſonnes faces cro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded together in old pain<g ref="char:EOLhyphen"/>ted cloth. But <hi>Hodge</hi> looke back a little and tel's what thou ſaydſt to the two old Gentlewomen in ancient looſe gownes and french-hoods that the Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rman on a throne, brought ſoftly thither in a black Calve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-ski<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtudy we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lether windowes, on wheeles, with a payre 'a jades yoakt together, and a Pole, ſet between 'um, that che askt whether they meant to run a Til't.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>And a begger woman ſaid we' her whole brood o ſons and daughters, at her backe and in her armes, that they were a payre of old Court-whoores, waſt not <hi>Tym?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Courtiers <hi>Hodge</hi> Courtiers, ſure.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I Court whoores Gentleman, that had the Cricke in their thumbes, or their bums, or gums, look <hi>Tym</hi> in thy ſcroule.</p>
+            </sp>
+            <sp>
+               <speaker>Tym,</speaker>
+               <p>Crinck-ums ye dolt, and then the begger ſaid t'was a French Commodity, and that they payd deere for their Com<g ref="char:EOLhyphen"/>modities, and now they hurryed to the Doctors to be rid out, and wiſh't the Doctor wud ſtew um in a tub like harlots, that had nothing for her generation at her back, that ſtuncke o piſſe and ſcraps — what was the name o'th tub <hi>Hodge.</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Why a tubb — a tubb, faith c'have forgot, but twas Curſned in <hi>Holland</hi> i'me ſure, A tub — a cur-helliſh tub — is there ere ſuch a tub in Chriſtendome Gentleman?</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>A <hi>Cornelius</hi> tub there is.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I, I, a <hi>Cadwallader</hi> tub t'was, then che askt the old fel<g ref="char:EOLhyphen"/>low<g ref="char:punc">▪</g>
+                  <pb n="11" facs="tcp:57335:7"/> with the whip, whether his jades did not underſtand their own naturall ſpeech of hoy, G woe, ree but that a muſt carry ſuch a tormentor in'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hands for their thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pummel'd buttocks.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>And che ſwore, che w'ud <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ell <hi>Hodge</hi> to purpoſe if 'a talkt ſo but what waſt the <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> trap whoo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed at <hi>Hodge?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Why they ſed the fellow in the tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nke-<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe that drove um had brought's horſes to the Doctor, to be Cur'd of their leane Conſumption, and ſed, their <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had the <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and that they were hide-bound, that their ribbs were like hoopes, to keepe in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> guts, they had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rotten Cough<g ref="char:punc">▪</g> the ſnekup, clubb-feere, blind eyes and the ſnevill.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>But, O my Conſci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce Land-lord c'he thought at firſt, all the red Petty-coates in <hi>Taun on</hi> had bin tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n'd into red waſt-coates; every one had an egg-ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ket in her hand, with a long ill favoured glaſſe in't full o todge, looke'd like grounds of Ale, and ſtu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cke like a Brewers ſinke, what waſt they cal'd them <hi>Hodge?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Curr-can alls waſt not <hi>Tym?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Vrinals you meane,</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I Sir you are a good 'Spoſitor, wee block-head; ſhu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpoyle all elſe — there was an old fellow lookt as if he had bin ſtew'd in Kitchin-ſtuffe, and 'a had a belly like a Gran<g ref="char:EOLhyphen"/>num we child, che ſed a was hy-topſy-turvy, the deale mend um, they ha, ſuch names for 'um.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>You meane Hydroppicke.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I, I, Hy trap-ſtick Land-lord, and another, puft and blowd, as if 'a had bin broken-winded, or newly run up a hill, a' hawkt ſuch butter-milke ſpawle up, lookt like the ſnout-ro<g ref="char:EOLhyphen"/>pings of my old yexing jade that has the Glaunders: — there were a great many ſlung in Crutches, and ſome that had the very ſame cough our Prieſt is troubled with when hee's out in's Sermon. — There were many pretty ſhe parcels of the City in black Maskes, and ruffling in ſilkes, to know if they were we' child, or how they might bee, the Doctor has one med'cine for um all, or hee's belyed.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>And others that made me weake ſtomack't, they had
+<pb n="12" facs="tcp:57335:8"/> Scales on their fore-heads, lookt like the halfe dryed durt o my Cart wheeles, or Cow-dung cruſted i'th Sunne, and co<g ref="char:EOLhyphen"/>ver'd ore we'yellow Waſpes and blew fleſh-flies.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>And if ever there were need o painting, thoſe Faces lookt ſo pittifully as if they begg'd for't.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>But Land-lord, paſſing that Golgotha, we were uſher'd by a thin fellow, whoſe bare buttocks peept through his trunke breeches, into the preſence of the Gog and Magog, well furs 'a ſat ſtradling foure ells wide, and lookt like a Gyant that had bin knockt into crumples, with a great club.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Now we may expect</l>
+               <l>The Monſters learned diſcourſe; Sir, I have heard</l>
+               <l>A murmur of him 'mongſt the common Rabble,</l>
+               <l>As if that Curſes and more Charitable breath,</l>
+               <l>Had mixt to ſpeak his name, indeed, a ſound</l>
+               <l>Vncharitable enough, if an inbred goodneſſe</l>
+               <l>Dwelt ſomewhat darkly in him, which the eye</l>
+               <l>That viewes at randome could not gueſſe, it there,</l>
+               <l>Yet in it ſelfe it would breake into'th ayre,</l>
+               <l>And rayſe a harmony would pleaſe the eare,</l>
+               <l>Of the more knowing tribe; but when all mouths</l>
+               <l>That have diſcreet and modeſt owners muſt</l>
+               <l>Swell with a Language ſutable to's actions,</l>
+               <l>Of peſtilent reliſh, it muſt carry in't</l>
+               <l>A jealouſie the ſtench that lives in's breſt</l>
+               <l>Muſt be as murdering in the wiſer thought</l>
+               <l>As are his mixtures to that wretched crew,</l>
+               <l>That dar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aſſault his dore to purchaſe them,</l>
+               <l>But on good <hi>Hodge</hi> and <hi>Tym.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I marry <hi>Tym,</hi> heer's a Gentleman w'ud tell a tale to purpoſe, as God mends, 'a has ſpoke very wiſely, doſt under<g ref="char:EOLhyphen"/>ſtand him <hi>Tym?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>As much as thou doſt <hi>Hodge,</hi> but o my Conſcience I know not what to make on't.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Well Tenants you ſpeake the truth, and that will ſhame the Divell.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:57335:8"/>
+               <speaker>Hodg.</speaker>
+               <p>The Doctor you meane Land<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord, but the firſt word a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpoke to us, a did grunt out and we were faine to ſpeake a whole bottle a hay, to ſcoure his throat cleerer.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>'A then ſed we we're full o groſſe humors, and that we muſt take a Sturgeon: but che told him c'had no skill in Fiſherman-ſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Thou lyeſt Owle, t'was a St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgation</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>A Purgation ſure, waſt not?</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I, I, and the Pickrell, go my p<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe one firſt and emp<g ref="char:EOLhyphen"/>tyed it of eight Groates, and a ſpick and ſpan new tow<g ref="char:EOLhyphen"/>pence, the deale throttle his weaſand with't.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>But what waſt 'a go thee <hi>Hodge?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>The d'eale in a Powder, 'che ſed it was the d'eales Grid-Iron and a Scummer.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>How? Stay good <hi>Hodge.</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I tell you 'che could not ſtay one minute when 'che had it in my paunch, the very thought o'nt makes mee clow<g ref="char:EOLhyphen"/>niſh, 'che muſt go and untruſſe a point, and —</p>
+            </sp>
+            <sp>
+               <speaker>Sir Cle.</speaker>
+               <l>Sir! I have read with ſome delight the hyſtory of ſimples,</l>
+               <l>But what this ſhould bee tis too difficult,</l>
+               <l>For mee to gueſſe at.</l>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Faith Sir, the Simple was e'ne <hi>Lether-Pelch</hi> himſelfe ten't worth your anger to ſtudy for't.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Waſt not <hi>Tym, Dy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gredium</hi> and <hi>Scamonye.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>O my Conſcience Gentleman, y'have bin a Doctor too, but y'are nothing like him.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Prethee <hi>Tym</hi> deſcribe him.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Deſcribe him what's that?</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Paint him forth.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Oh is that all, then on a ſmoakt wall, with a little ſmall-cole, I will ſcratch out a great fat Divell though it looke like a Beare, it's but your worſhips ſcrowling under, <hi>This is a Divell,</hi> and there's nere a May-pole blade i'th Town but will underſtand it, without go'ng to our old Curate.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Come <hi>Hodge,</hi> wee muſt deſire</l>
+               <l>Your wit in Figuring this peece, I know</l>
+               <pb n="14" facs="tcp:57335:9"/>
+               <l>That there is ſomewhat carries worth within thee,</l>
+               <l>And thy invention, come then lets ſurvay</l>
+               <l>The Doctor and each Limbe in its due colour</l>
+               <l>Lay out, that when we have numbred all, we may</l>
+               <l>Wonder at's true Dimenſions.</l>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Well though I could (when I had my limbes) bet<g ref="char:EOLhyphen"/>ter hold the Plough then a Penſill, yet I will ſcrawle him out we my tongue and tell you what a bundle of mortality he is — did you ever ſee a <hi>Romane</hi> Noſe in a Ballado Country love, ene ſuch a ſnout has he, dappled with pock-holes, and colour'd like Wainſcot in Ioyners varniſh, with a payre of Sachell-cheekes o'th ſame complexion and hony-comb'd like a courſe ſive, a has a Chin that's mask't in ſweat and pox-ſcarres with heere and there a Briſle ſtuck in ſpite on's Noſe.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>His Ioule is curl'd and tufted like a Negroes, and ith' ſhape of a Mole-hill, nitted we' Vermine as that's we' Piſſe<g ref="char:EOLhyphen"/>myres — They ſay he is as brazen-fac't as <hi>Pitts</hi> Cannons on Tower-wharfe, but I don't beleeve't the Mungrell lookes more like in countenance one of the old Iron Guns on Tower<g ref="char:EOLhyphen"/>hill, that lye in Ambuſh to cheate ſome Sea novice or other, as the Doctor does, with the appearance of their greatneſſe more then their ſervice, and roare (as he does in his own behalfe) till they ſplit and murder all about 'um.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>And Land-lord, hee's larded with Porkes-greaſe i'th Brisket, and 'a has a flanke like an Oxe hee's buttockt like an Elephant, and Udder'd like a Cow, 'a has a payre of Pump<g ref="char:EOLhyphen"/>kinns inſtead of leggs, and a foot as large as a Bucking-beetle, with a paunch like a brewing-fat; A ſhud be no Gentleman by his armes, for they are almoſt buryed in their own pits, and from thence there reakes a boriſh ſtreame, as ranke as an old Gally-ſlaves, or the ſlymy Groynes of a wither'd witch, 'a makes a noyſe when he walkes as if 'a were threſhing or beat<g ref="char:EOLhyphen"/>ing Hempe.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Didſt ſee his Wife <hi>Hodge?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Che did ſee a bundle 'a carrion 'che call'd one, ſhee lookes like a Beares whelpe, and hee muſt licke her into ſhape
+<pb n="15" facs="tcp:57335:9"/>
+'ere ſhe have any, the D'eale ſend him a Stomack too't.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>'Che dances a Morice e'ry Mid-ſommer-Moone, we' the Queene a' Fayries, and loves the Dog-ſtarre abominably, and hopes to have whelps by him, 'che ſayes that <hi>Charles-wayn</hi> has eight wheeles, and feares nothing more then that ſhe ſhall bee hurryed in that Cart, to <hi>Bed-lame.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>And talkes of a Pedigree, longer then ever was ham<g ref="char:EOLhyphen"/>mer'd out a' South-Wales, che ſweares <hi>Venus</hi> is her granchild, if ſhe bee, and like her, God <hi>Scarce</hi> might as well a bin enam<g ref="char:EOLhyphen"/>mell'd of a Witch, and the Cuckold <hi>Pul-can</hi> might a found ſomewhat elſe to a done, then to a bin angry.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Gramercy <hi>Hodge,</hi> thou haſt honeſt ſmooth browes, the Feminine evils are not enoculated 'on 'um.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>'Che had ſome pimpling there 'o late.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Then che ſed. <hi>V-bi-ther,</hi> was an arrant Whore-Maſter, and the man in the Moone was his Baude, and that a had woed her, and ſent <hi>Mercury,</hi> with a bottle ons water, to ſweep the Scales and dand-riffe from her Phyſiognomy, and Pouch-mouth: and that's <hi>Aturne</hi> ſhould be the next good thing a' w'ud preſent her, that ſhe might bee Plannet ſtruck, and bring forth another Sunne, which with <hi>A pottle</hi> Waterings might make the Stubble on her ſweet Pugs chaps, grow a lit<g ref="char:EOLhyphen"/>tle faſter.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Well ſet out <hi>Tym:</hi> ſhe is mad it ſeemes?</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Mad co ye, che was wedded to the Doctor for the ſame purpoſe, and he tooke her for better for worſe, to the ſame end; well Landlord, <hi>ſhee's</hi> a notable <hi>Straw-lug-ger,</hi> and Vowes the 12 Sines are her owne proper goods, and that ſhe was deliver'd of <hi>Gemini</hi> at a Goſſips feaſt; when the old mid<g ref="char:EOLhyphen"/>wife, had it in <hi>Aries,</hi> which was a Sine then perboyl'd mum<g ref="char:EOLhyphen"/>ble-cruſt had a mighty mind to 'a bin <hi>Leo,</hi> and 'a roar'd like one, when <hi>Aquarius,</hi> had bin fitter for her then the toſſ-pot.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Che ſed her husbands Armes was <hi>Taurus,</hi> and that ſhe was well skil'd in Harlotry, and that ſhe had added gulls to 'um?</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Geules Geules.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>We 3 ſinges more Gudgeons for <hi>Piſſ-us,</hi> and <hi>Capring-horne,</hi> which <hi>Fur-goe</hi> to in-belly-<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>it</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:57335:10"/>
+               <speaker>Sir Clem.</speaker>
+               <p>Embelleſh it good <hi>Tym.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>A mad drab tis, and then ſuddenly cryed out, and ſed, che had a <hi>Scorpion</hi> betwixt her leggs, a Canker in her breſt, and Rovers in her Thighs, that put her to many flights, — And ſo ran away from's.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Then came his Servingman, a fellow in motley that look't as if hee had not ſlept ſince the Conqueſt; hee's a wal<g ref="char:EOLhyphen"/>king ſhadow that grumbles out yes, and no, to all commers, ſucks his pawes and the wet nurſes, come we' Piſ-pots very eagerly, 'a has a begging countenance, and a breath that ſtinks like a ſtone Chamber-pot, ſurr'd white with age, and ſtale, or a Jurden that has ſcap't many a ſcowring both wayes, in an Inne.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>But how did your Phyſicke worke <hi>Hodge?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Worke co ye, it plaid at Tennis e'my guts, I thought the Varlet, had conjur'd a couple a Sawyers into my guts to Saw my puddings e peeces, or a Smiths Vice and pincers, they did ſo gripe me.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>'A Roar'd out, and ſed there was a Shambles in's arſe a ſhit red gobbits, and blood, as if it had powred through the ſinke-hole of a ſlaughter-houſe.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Then 'a go me a Cord-an-all enough to a throtled a mangy-dog a blacke drench of ſoote and bul's gall, w'ud a caus'd a leane ſpur-galld jade to 'a had the Chyn-cough: well Land-lord, I have heard of a cold ſweat (at Plough and Cart c'have had many a hot one) and che could a whiſtled it a<g ref="char:EOLhyphen"/>way with a little Sully-bub; but a cold-ſweat do you call it? Tis a medicine for a dead horſe, it made my head and my heart ake: it renc't my Maw e'faith: c'had Cricks and Crampes, from my back to my toes: c'he thought a cold-ſweat, w'ud a thruſt me out o'th world by neck and ſhoulders: if ever ſhep<g ref="char:EOLhyphen"/>ards wud ſcare a Nation o Foxes from their Lambes, let them catch one and put him into a cold-ſweat, and ſend him a<g ref="char:EOLhyphen"/>mong his tribe agen, and if ever any come neere'um, i'le be cut into trypes and broyld o'th Coales: Why, che was wrung and twiſted with it like a courſe hempen-ſheet out o'th cold water</p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:57335:10"/>
+               <speaker>Tym.</speaker>
+               <p>And the malmſey nos'd chap-fal'n jade, my Landlady ſed 'a was a beaſt to piſſe abed and bath in't, when poore <hi>Hodge</hi> he was in a cold ſweat, and did grinne at it, like the deaths head, ſet in a Iewell o mortality, ore the Church-yard portall, c'he was faigne to wring his mothers milke out on's noſe to fetch him againe.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>A cold ſweat do ye call i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</p>
+            </sp>
+            <sp>
+               <speaker>Sir Cle<g ref="char:punc">▪</g>
+               </speaker>
+               <l>You are miſtaken <hi>Hodge,</hi>
+               </l>
+               <l>T 'was not by order but by accident.</l>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>How Sir, miſtaken! Pray do you go and intreat him we' 8 ſhillings to put you into a cold-ſweat, you'd part with all you have to be out on't; you may lay your life on't, for tis as much as tis worth if you be once in't. — Why? Man, my bum ſtood where my belly was, and my noſe was plac't like a Hawkes at Rooſt, i'th nape o'my neck: my golls were writh'd like Hoby-de-boodies, or the arrantſt Fayry innocent ever ſlaver'd.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>By'th Maſſe, che thought c'had loſt <hi>Hodge,</hi> and the D'eale had left a changeling, in's roome, as God mends a did ſo ſquint and make mouths: and his Oagles did ſo witter, c'he thought, that c'had, had a Morice-dancer in's noddle, his joynts did ſo twitch, and his chaps did ſo taber, c'he was ene wiſhing for a noſegay, bels, and a blue handkercher.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Thou hadſt Convulſion fits <hi>Hodge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Fits co ye? Che was fitted e'faith; but how fit ſo ere t'was c'ham ſure they were Compulſions, — But pray Sir! Goe and buy a cold-ſweat on him, make your Will firſt; beſpeake the Cakes and Ale, and take leave of all your friends; forgive your Enemies, and eſpecially your Butcher, the Doc<g ref="char:EOLhyphen"/>tor, and if ever you bee at Peace (when you are once in't,) till you are at Peace we' God, Ile make a trough o my hide and ſerve the Hoggs in't, miſtaken co ye?</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Yes goe, ſuch a cold ſweat as poore <hi>Hodge Lether-pelch</hi> had, i'le warrant you ſpeed, you'le make ſuch ſpeede, to be out on't, you may chance to breake your neck by't.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Necke co ye, c'he thought the Doctors Hob-goblins
+<pb n="18" facs="tcp:57335:11"/> bin wringing my necke a peeces, che ſaw no body and yet che was pull'd and hall'd, like a Traytour o'th wracke, che talkes of the night-mare, but che thought a thouſand on 'um had bin tearing my limbes aſunder<g ref="char:punc">▪</g> Then che thought ſtrangely that c'had bin in a Cloud for c'had miſts and Fegaries before my eyes, and capring little divels, as if c'had bin at a Puppit-play.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Che wonders, ſo many will run the hazard to hang or drownd themſelves, when they may have ſome hope o' hea<g ref="char:EOLhyphen"/>ven by a cold-ſweat, more haſte, and better ſpeed: if the Lord Major w'ud but ſend one Cart full of execution fleſh to him, and let him but kill 'um with a cold-ſweat, it would ſo ſcare the cut-purſes, the markets w'ud bee ſwept cleere o'um for 7 yeeres after.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>I beleeve thee <hi>Hodge,</hi> and New-gate want much of its revenue, to the making leane of the under Copper-nos'd Iaylors; the Hang-man w'ud fall into a deepe Conſumption by it, Long-lane want many a Tiburne bargaine, and the Bro<g ref="char:EOLhyphen"/>kers in <hi>Houndſ-Ditch</hi> tranſlate themſelves into abſolute Wolves, the more ravenouſly to feed upon the innocent poor.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>O my Conſcience Land-lord, you a bin in a cold<g ref="char:EOLhyphen"/>ſweat too.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>No <hi>Pelch,</hi> but thy tale has made me have a deepe apprehenſion of it.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>A deep what do you call't co ye, c'ham ſure it had almoſt thruſt me as deepe into the ground as c'ham long, c'he thinkes if a Witch were put out o'th World by a cold-ſweat inſtead o burning: all the helliſh brood w'ud be ſo frighted, they w'ud deny their Covenant, bid defiance to the divel, fall to Prayers and bee converted again; but <hi>Tym</hi> take thy memer<g ref="char:EOLhyphen"/>drandums out o thy pouch, and tel's what the man ſed that bor'd the Elme-trees right-ore agon him.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Why che ſed they were Pumpes you puppy: for the <hi>Abygale Lucy, Elizabeth, Mary,</hi> plaine <hi>Joane, Robert, Harry William</hi> and <hi>Ralph.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I, I, Pumpes, and che ſed they wore 'um out faſter, then c'he c'ud make 'um and thou askt him <hi>Tym:</hi> what waſt <hi>Tym?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:57335:11"/>
+               <speaker>Tym.</speaker>
+               <p>Why, che askt him whether they were all rogues and whores he nam'd that came to the great fat Doctor or no?</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I, I, che ſed, and laught, and ſed they were to pumpe 'um, and then wee ſneakt away, and <hi>Tym</hi> ſaid what a payre o rogues are we to endanger a Pumping.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Twas a merry Piper 'ſaith, and ſed if there had bin a Pumpe ready we muſt a gon too't too.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Some Pumpes for ſhips they meane.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>A ſed che had a Brother, w'ud ſet up a ſhed next dore to the Doctor and ſell nothing but Crutches, Wooden leggs, glaſſe-eyes, and trotter-bone Teeth, and hop't to bee as groſſe as an Alderman in Purſe, and the Doctor in Carcaſe in two Moones: but Land-lord, nere a ſcrap o' pudding, or meſſe o Bacon porridge.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>Yes, go in, <hi>Hodge</hi> and <hi>Tym:</hi> ther's the carcaſe of a Gooſe and a ſtale Wood-cock.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I'le ha the carcaſe <hi>Tym</hi> 'cauſe it has no leggs, but che hopes, it has other gets Pynions then mine are.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>What thy Crutches <hi>Hodge?</hi> And c'heele make an aſſe o the Woodcock.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>C'heele ſwing my ſelfe betwixt Heaven and Earth o my Crutches again to <hi>London,</hi> and be Pumpe, if thou can'ſt make an Aſſe of a Wood-cock <hi>Tym:</hi> Though it fall to your ſhare, youle ſooner make nothing on't <hi>Tym,</hi> if you have a good ſtomack too't, but bones good <hi>Tym.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>At my laſt being at <hi>London</hi> where J lodg'd</l>
+               <l>In a friends houſe, we had diſcourſe about</l>
+               <l>This ranke of people we call Mountebanks</l>
+               <l>Of whom that vaſt place do's receive ſuch ſwarmes,</l>
+               <l>And of all Sexes, nay of Nations too,</l>
+               <l>Made out of all trades, (when miſ-fortunes, either</l>
+               <l>Of Vice or Ignorance has beat them out</l>
+               <l>Of their own Countries, or their Manuall Arts,</l>
+               <l>That tis a pitty ther's no Law nor power</l>
+               <l>Ordayn'd to bridle them.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Oh Sir, did you know,</l>
+               <pb n="20" facs="tcp:57335:12"/>
+               <l>How th'venime of the times hath bloch't the face</l>
+               <l>Of Iuſtice, and made Vertue hang the head,</l>
+               <l>You w'ud deplore the miſeries of this Country,</l>
+               <l>That more grone under theſe baſe burthens, then</l>
+               <l>The Sword or Peſtilence, with all the Ruines</l>
+               <l>That waite on Heavens wrath or the brow of Warre,</l>
+               <l>If there be any looſe peece that has loſt</l>
+               <l>Himſelfe in Cobling Shooes or botching Stockings</l>
+               <l>Straight he retires to Phiſicke or Divinity,</l>
+               <l>And ſo dos mend, and patch himſelfe agen,</l>
+               <l>To underlay his fortunes with his Coſenage,</l>
+               <l>And botch himſelfe up by hypocriſie,</l>
+               <l>Into a Pulpit Caſſock.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>Moſt ridiculous.</l>
+               <l>What hath the breath of Engliſh-men infected,</l>
+               <l>The Ayre it can give life and being too</l>
+               <l>Such Mungrill Serpents?</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Tis moſt true, but wort</l>
+               <l>Not! An heroyick act to cleuſe the Common</l>
+               <l>Wealth, of ſuch dunghills, and i'th hurly burly,</l>
+               <l>Never abuſe the knowing pining Braine,</l>
+               <l>That ſits halfe ſtarv'd with riches in his Pate,</l>
+               <l>W'ud weigh the wealth of <hi>India</hi> down if valew'd</l>
+               <l>To their juſt worth, nay, polliſh them, and ſet</l>
+               <l>Them as rich Iewels to the publick eye,</l>
+               <l>And purchaſe to our Nation, the reverence</l>
+               <l>All forraigne clymates owe too't in due debt,</l>
+               <l>W'ud it not leave unto Poſterity?</l>
+               <l>A Chronicle, but of the date and yeere,</l>
+               <l>The fulneſſe of all yeeres would not wipe out,</l>
+               <l>Oh I could wake in ſuch a noble paſſion</l>
+               <l>And give it breath but to diſpute this cauſe,</l>
+               <l>Vntill the coldneſſe of the grave had caſt</l>
+               <l>The night and ſleepe it holds in its poſſeſſion</l>
+               <l>Over my fleſh and Spirit.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>Twere a worke</l>
+               <pb n="21" facs="tcp:57335:12"/>
+               <l>W'ud be eternall and as everlaſting</l>
+               <l>In the great benefits it carries with it,</l>
+               <l>But how perform'd? That queſtion daſhes out</l>
+               <l>All Policies and not unworthily,</l>
+               <l>Since th'Law hath ſhar'd a liberty to all</l>
+               <l>To live.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>So it be honeſtly, but what</l>
+               <l>Faith or credit can a baſe Impoſture</l>
+               <l>Challenge unto himſelfe, or by what Law,</l>
+               <l>Can he determine Phyſicke, or Divinity</l>
+               <l>His own Inheritance? When in neither hee</l>
+               <l>Is ſo farre letter'd, as to read the title</l>
+               <l>And branch the Etymologie: all the right</l>
+               <l>Hee hath unto thoſe Sacred myſteries,</l>
+               <l>Is the contemn'd applauſes of dry Nurs'es</l>
+               <l>Porters, and Carre-men; with a heape of Rubbiſh,</l>
+               <l>(Tumbled into a multitude) of that making</l>
+               <l>And ſome odd ſcriblings of a learned Iew,</l>
+               <l>On purpoſe call'd ſo, and reduc't into</l>
+               <l>A darke diſpenſatory of Receipts,</l>
+               <l>Treaſur'd i'th harlot Library of their Noddles,</l>
+               <l>And what can this ſtuffe, by a dangerous hand</l>
+               <l>(Raſhly adminiſter'd) promiſe but deſtruction,</l>
+               <l>To thoſe that dare attempt their uſe?</l>
+            </sp>
+            <sp>
+               <speaker>Sir Harry.</speaker>
+               <l>I ſee,</l>
+               <l>You have a ſmart ſence of th'abuſe.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>And muſt,</l>
+               <l>Out of a Pious duty to my Country</l>
+               <l>Their common way of publiſhing their trumperies,</l>
+               <l>Under the Pye-ball'd title of elixers,</l>
+               <l>Makes Vertue ſuch a baſtar'd unto thoſe</l>
+               <l>Barely conceive that truth they read on poſts,</l>
+               <l>To bring them Cheeſe and Garlicke; when they cloſe</l>
+               <l>Their wiſe opinions (in the curſed tryall)</l>
+               <l>That all the bleſſings of that noble miſtery</l>
+               <l>Muſt be o'th ſame mould and mortall.</l>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:57335:13"/>
+               <speaker>Sir Har.</speaker>
+               <l>I confeſſe, in theſe Relations goe integrity:</l>
+               <l>And muſt lament the cauſe; yet I have knowne</l>
+               <l>Some eminent in Office an in Garbe</l>
+               <l>(It ſeemes more then in judgement) has proclaym'd</l>
+               <l>Great miracles of theſe Monſters. —</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>And enforc't</l>
+               <l>Their viſits to their beſt friends, who have ſoone</l>
+               <l>Curſt them and their beleefe, i'th ſad concluſion,</l>
+               <l>But for a remedy?</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>It would wipe off the teares</l>
+               <l>The common Cheeke is every day bedew'd with,</l>
+               <l>And quit the ſcore, before Heaven which they raſhly</l>
+               <l>Swell to an accompt of murder of themſelves</l>
+               <l>And neereſt Allyes, turn'e the grey Beard in Pluſh</l>
+               <l>(That's Coacht and hurryed to ſome queint deſtruction.)</l>
+               <l>Into a wiſer habit, that at leaſt</l>
+               <l>Hee may in's wit ſeeme ſutable to's Clothes</l>
+               <l>And titles; though thoſe gay Materials</l>
+               <l>Were left him by his Grandſire in his Will</l>
+               <l>Such ſilken guls there are, but for a remedy.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Wert not a peece of Piety next too</l>
+               <l>The quenching of infectious Hereſie,</l>
+               <l>Might have a place and call'd the worke of Heaven,</l>
+               <l>Thus to Reforme theſe evils.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>Pray diſcourſe it.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>That none ſhould dare.</l>
+               <l>To practiſe Phyſicke but ſuch as can give</l>
+               <l>A faire deſcription of their knowledge in't</l>
+               <l>In ſome ſound worke of theirs; which would put many</l>
+               <l>True labourers into the Vineyard.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>An excellent way, and thoſe workes. —</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Publiſht by th'common purſe.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>I conceive you.</l>
+               <l>And thereby Phyſick would here only grow,</l>
+               <l>With its ſweet odour and moſt glorious Tincture,</l>
+               <l>And ſet all Nations ſuch freſh Copies of</l>
+               <pb n="23" facs="tcp:57335:13"/>
+               <l>The yet but dreamt of miſtery, — that they</l>
+               <l>Would next to their Devotions thinke upon</l>
+               <l>The honourable thankes they owe and muſt</l>
+               <l>Pay to this Northerne Nurſery.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Then what</l>
+               <l>By the ſtrick't hand of ſuch Authority</l>
+               <l>(In th'execution) durty heepes of Maggots,</l>
+               <l>Would be ſwept up together all the Dung-Carts</l>
+               <l>Muſt for a Moneth fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſake the ſtifled kennels</l>
+               <l>And ſtinking duſt tubs, to convey thoſe Mountaines,</l>
+               <l>Of more infectious carrion out o'th City,</l>
+               <l>The Gold-finders much change their houres and trade</l>
+               <l>And hurry out i'th day thoſe loathſome lakes,</l>
+               <l>And purchaſe by th'employment fields to lay</l>
+               <l>Their filth in; and not need, the common giſt</l>
+               <l>To'th neceſſary worke.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Harry.</speaker>
+               <l>What Troopes of Pluſh</l>
+               <l>Muſt trudge; and old chins fether'd white with Age,</l>
+               <l>With daggled Petty-coates that were lately ſpew'd</l>
+               <l>Out of ſome Hoſpitall; Taylors drabs, and whores,</l>
+               <l>Of a moſt impudent making: with ſome blaſted</l>
+               <l>Copper-nos'd Crack-brain'd Med'cine makers: what</l>
+               <l>A killing ſunke, the allyes w'ud bee clens'd of</l>
+               <l>And the ſtreetes emptyed.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Nay Sir! Some fine Pageants</l>
+               <l>That ſit i'th chayre of Iuſtice muſt then pack too,</l>
+               <l>And if the Engliſh want a murdering Army,</l>
+               <l>To ſhed among the Iriſh, that like famine</l>
+               <l>Would eate them up and make large Valleyes but</l>
+               <l>One grave untill they ſwell'd up to the Mountaynes,</l>
+               <l>Let them but Muſter theſe, and if they don't</l>
+               <l>Depopulate their Country in five Months,</l>
+               <l>Mauger their Boggs and Nutio; I'le be ſtew'd</l>
+               <l>In Barrowes greaſe, &amp; ſerv'd to the Divels Table,</l>
+               <l>When he to'th Pope Communicates a Morſell</l>
+               <l>At the Renewing of their league.</l>
+            </sp>
+            <sp>
+               <pb n="22" facs="tcp:57335:14"/>
+               <speaker>Sir Harry.</speaker>
+               <l>Where would</l>
+               <l>
+                  <hi>Hodge,</hi> his Phyſitian bee then?</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>In a Dung-Cart,</l>
+               <l>A Chariot that becomes him.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Harry.</speaker>
+               <l>Well <hi>Hodge</hi> what newes now?</l>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>A whole belly full. <hi>Tym</hi> ſed c'had a weake ſtomack and if c'had not a cantle o Cheeſe a two pounds, a Rye Loafe o ſixe pence, and a blacke Iacke, o Sir a ſhad not beleeve a had a Woodcock in's belly.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>But what's worſe</l>
+               <l>The Varlets with confronting impudence</l>
+               <l>Leaues on the boſome of Authority</l>
+               <l>Murder as t'were by Patent, and makes poore,</l>
+               <l>The Hoſpitall Charity, when it ſhares to numbers;</l>
+               <l>For what by'th Benefactors, was judg'd ſufficient.</l>
+               <l>To eaſe a Cities maymed: now'es too little</l>
+               <l>But for one Precinct.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Harry.</speaker>
+               <l>I pitty the abuſe.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>I'ſt not ſtrange</l>
+               <l>The looſeneſſe of ſome Gentlewomans belly,</l>
+               <l>Waites on ſome ancient Lady, heal'd by accident,</l>
+               <l>Or bawdry, not by Art, or honeſt actions,</l>
+               <l>Should be ſufficient warrant for theſe — Mungrils</l>
+               <l>Halfe men, halfe Monſters to ſtand in defyance</l>
+               <l>Of a whole Colledge, all Sage honeſt men,</l>
+               <l>As Reverent in their Art, as thei'r in yeeres,</l>
+               <l>As white in all their undertakings, as</l>
+               <l>The curled Snow ſits on their heads, and browes,</l>
+               <l>The true ſomenters of their noble myſtery,</l>
+               <l>And rare examples to all Poſterity.</l>
+               <l>In whoſe chaſte boſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, our Progenitours</l>
+               <l>Planted a full power, to examine, and</l>
+               <l>Puniſh theſe Vultures, now by bribes and filth,</l>
+               <l>Corrupting the Re-publicke breſt ſo much</l>
+               <l>That they <hi>Cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Privilegis</hi> act their b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeneſſe</l>
+               <l>In dangerous mixtures, and ſo<g ref="char:punc">▪</g> either fully</l>
+               <pb n="23" facs="tcp:57335:14"/>
+               <l>Eclipſe their rights, or weaken thoſe brave men,</l>
+               <l>They are of no uſe to the common Good,</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>What do's the Law ſet down, gainſt theſe abuſes</l>
+               <l>In their reſtraint.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem</speaker>
+               <l>As they now interpret</l>
+               <l>The Law; it do's ſupport 'um and break downe,</l>
+               <l>The ancient priviledges we are planted in,</l>
+               <l>The Society of Phyſitians; and</l>
+               <l>Vnder pretence of Freedome to all people</l>
+               <l>In honeſt wayes to make proviſion</l>
+               <l>For their owne Families, and to keepe out</l>
+               <l>Want: and other irkſome Gueſts attending on't</l>
+               <l>They let in all, for Ruine.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>Iudge of the Law</l>
+               <l>And Miniſters of it charitably.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Sir,</l>
+               <l>They may as well admit a dabbled Barato<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Made out of a hobling Botcher by neceſſity</l>
+               <l>And Common quarrels, and dubd Solicitor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>By Fiſh-wives, and ſuch tag-rag-ſquabling pieces</l>
+               <l>Into the Throne of Iuſtice, and have borne</l>
+               <l>The Mace before him to their Courts, As bee</l>
+               <l>The Champions of theſe Piſſe-pot prodigies,</l>
+               <l>In conſideration of their Golden ſees:</l>
+               <l>And by a Power deriv'd, I know n't from whence</l>
+               <l>Deveſt the Colledge of thoſe limits which</l>
+               <l>Our Predeceſſours gave them, and made Law</l>
+               <l>As high and equall, in ſuch Caſes, As</l>
+               <l>Their owne profeſſings?</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>Bee not paſſionate,</l>
+               <l>Indeed, I cannot diſcerne, how they can by</l>
+               <l>True ſympathie, determine it, but as</l>
+               <l>The Colledge may uſurpe unto themſelves</l>
+               <l>A number, and, for their owne private ends</l>
+               <l>Never admit beyond ſuch ſcopes, which would</l>
+               <l>Make Phyſick barren, if from thence they onely</l>
+               <pb n="26" facs="tcp:57335:15"/>
+               <l>Muſt iſſue, when, from other Countries, wee</l>
+               <l>Are furniſht with rich Iewels for the Common Good.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>And from thence flock many varniſht ore,</l>
+               <l>With title more then knowledge: being the purchaſe</l>
+               <l>Of their f<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll purſes, not their Braines; Theyr empty,</l>
+               <l>And ſicke of Inanition; neither doe I</l>
+               <l>So fortifie my ſelfe againſt all reaſon,</l>
+               <l>But if theſe fellowes that profeſſe ſo much</l>
+               <l>Are but endew'd with what is publiſht of 'um</l>
+               <l>Why don't they publiſh ſome brave worke of theirs</l>
+               <l>To be a Teſtament unto theſe minutes,</l>
+               <l>And after ages of their admir'd, and known</l>
+               <l>Worth in their Arts? W'ud it not clinch the mouth</l>
+               <l>Of all, and ſet them off full, and ſupported</l>
+               <l>By'th generall voice and hand? from all oppreſſion?</l>
+               <l>W'ud it not put a Palſey into'th chaps,</l>
+               <l>(A dead one) of the common brute, and ſcandall?</l>
+               <l>That it ſhould fall and trembl but to mention</l>
+               <l>One ſyllable of diſhonour, if ſuch worth</l>
+               <l>Could but appeare out of'um.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Harry.</speaker>
+               <l>You ſpeake reaſon.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>And if not, to force 'um</l>
+               <l>Into their proper channels for a lively-hood,</l>
+               <l>Tinker to Tinkering, botcher to his botching.</l>
+               <l>Their Truls to ſcowring and their ſeaventh hee Baſtard</l>
+               <l>To Weaving, Ditching, Delving and ſuch Workes</l>
+               <l>Nature did fit them Lymbes for, as big and monſtrous</l>
+               <l>As <hi>Corineus,</hi> or his huge foe <hi>Colbrous,</hi>
+               </l>
+               <l>That guard the Shreeves Courts, from fleſh flyes that ſwarme</l>
+               <l>Out of the Compters Ordnary, where theres</l>
+               <l>Dyet and place more fit for ſuch thrum'd Yeomen</l>
+               <l>Then that theſe times allow'um.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Harry.</speaker>
+               <l>Indeed Carts and Cages better ſuites.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>With their foule coſenage,</l>
+               <l>Then private Chambers and Coaches.</l>
+            </sp>
+            <sp>
+               <pb n="27" facs="tcp:57335:15"/>
+               <speaker>Hodg.</speaker>
+               <l>
+                  <hi>Tym,</hi> I hope a' don't meane us.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>No honeſt <hi>Hodge</hi> thou ſufferd'd</l>
+               <l>Vnder theſe blazing Commets that portend.</l>
+               <l>Nothing but death and ſlaughter when they ſhine</l>
+               <l>Brighteſt. — But i'le collect my ſelfe.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Harry.</speaker>
+               <l>Nobly utter'd Sir,</l>
+               <l>There is no fraud or flattery in your words.</l>
+               <l>Well <hi>Tym,</hi> what was your Phyſicke?</l>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <l>Why c'had firſt a Stir-up.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>A Sirrope <hi>Tym,</hi> a Sirrope.</l>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>I ſay, t'was a ſtirrup, it ſo ſtirr'd up my Maw, che ſpew'd up all c'had eaten in five dayes, beſides great gobbets of very worſhipfull fleame.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>How Worſhipfull?</l>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>I, Right Worſhipfull and't pleaſe you, ſuch as the Major a' <hi>Taunton</hi> pleaſed to give his dog out on's owne belly after ſupper, inſtead of a Poſſet.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>What waſt call'd <hi>Tym.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Why, che call'd it an Ox-in meale and a Skillet on we ſimples.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>
+                  <hi>Oximel ſciliticum ſimplex<g ref="char:punc">▪</g>
+                  </hi> twas <hi>Tym.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tim.</speaker>
+               <p>I, I, ſir you muſt pardon my loblivion, ſuch hard words they are.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Then che gon him a Trough a trough, <hi>a Pellet</hi> beaten into powder.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>A <hi>Troſicke,</hi> honeſt <hi>Hodge,</hi> I muſt help your memo<g ref="char:EOLhyphen"/>ry ſtill.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>I, I, ſicke, che remembers che made me as ſick as a dog wee't, I wiſh't it in's tripes and a tenter hook i'th middle ont.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Che call'd it a Trough-ſicke, of All-hands.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>
+                  <hi>All-Handul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, Tym.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Dandle us co ye, che dandled my bum ſo, che c'ud ſcarce ſquat in ſixe dayes after.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>Then che go him a powder che ſed it was a Trollop.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Ye poſe me to unfold this Riddle, a Trollop<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>T'was the powder of his old wifes-ſhin-bone, for o my Conſcience ſhee's a Trollop.</p>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:57335:16"/>
+               <speaker>Sir Clem.</speaker>
+               <p>'Twas called Iallop.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>I, I, Gallop, che had it no ſooner e'my maw, but it ſet ſpurres to my ſides, it did ſwinge me under the ſhort Ribs, and did Gallop through my Guts as if a troope o Horſe had been Routed e' my crop; a nooſe choke him, che had a Troo<g ref="char:EOLhyphen"/>per out o'my pocket for't.</p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>A ſed che muſt have a racke o' Mutton, to make broth, but a ſet <hi>Tym</hi> on ſuch a wracke, that che was faine to eate the Porridge, they w'ud a bin cold elſe; but Land-lord, mercileſſe Land-lord, as you have promiſed mee before ſuffi<g ref="char:EOLhyphen"/>cient witneſſe; <hi>Tym</hi> had no more colour in's face then J had, when you told me you w'ud Rack my rent, mercileſſe Land-lord —.</p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>Then che ſed I muſt ha a Coller for mine eyes.</p>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <p>A horſe Coller 'twas, conjur'd into a little Glaſſe: but <hi>Tym</hi> a ſed your Trollop-powder, w'ud ſpurge thy head but I thinke it powdered your Muggets, and your Coller put you into choller I thinke, it made him ſtampe and ſtare like one o your Roring boyes, my Landlady brought up a dozen o' Cans and askt if the Meaſell were mad to knock for ſo much Beere, when poore <hi>Tym</hi> had a Coller in's eyes wrought as dangerou<g ref="char:EOLhyphen"/>ſly as a Halter almoſt.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>'Twas call'd a <hi>Collerium?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tym.</speaker>
+               <p>I good Gentleman, a Colliers. Thumbe che call'd it, as ſoone as che had thruſt it into my eyes, it made me blub<g ref="char:EOLhyphen"/>ber like a great-Cow-baby, and put one quite out, che was e'ne bethinking my ſelfe of a Dog and a Bell, with a begging piece o' Scripture to a howling tone, That 'tis a long Night that never his day, or blind <hi>Beſſes</hi> trade, of Repeating a chap<g ref="char:EOLhyphen"/>ter o' <hi>John</hi> with her hands in her placket, and churning o' Pleas with her buttocks, and miſcalling the waggiſh ſtrip<g ref="char:EOLhyphen"/>lings, that mockt and ſlockt about her.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <p>Enough good <hi>Tym,</hi> it growes late Sir <hi>Harry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodg.</speaker>
+               <p>The Song, the ſong, Land-lord pray ſlay and heart.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <p>By all meanes <hi>Hodge?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <p>'Tis to a new tune Land-lord, of old <hi>Thomas</hi> you cannot.</p>
+               <q>
+                  <pb n="29" facs="tcp:57335:16"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <head>THE SONG.</head>
+                           <lg n="1">
+                              <head>1.</head>
+                              <l>COme come away</l>
+                              <l>Why make you any ſtay:</l>
+                              <l>Me thinkes you doe not flock</l>
+                              <l>To purchaſe theſe Elixers:</l>
+                              <l>E'n faith I doe not mock</l>
+                              <l>But is your ſweet-hearts quick Sirs?</l>
+                              <l>Her's Sirrope will devour</l>
+                              <l>What ever's Threatned your.</l>
+                           </lg>
+                           <lg n="2">
+                              <head>2.</head>
+                              <l>Doe not ſmother</l>
+                              <l>The truth, though ſick o'th Mother,</l>
+                              <l>Here's in this little Pill</l>
+                              <l>A Bawd will ſurely doo't</l>
+                              <l>Without the Midwife's skill</l>
+                              <l>Let it but once come too't</l>
+                              <l>And if that you are willing<g ref="char:punc">▪</g>
+                              </l>
+                              <l>It will not blench at killing.</l>
+                           </lg>
+                           <lg n="3">
+                              <head>3.</head>
+                              <l>Or hath a touch</l>
+                              <l>Of the French-man too much</l>
+                              <l>Ceas'd on your scoling bones,</l>
+                              <l>Or does your Griefe nor ſpare</l>
+                              <l>With midnights Gripes and Grones,</l>
+                              <l>To Tanne the ſcalpe from haire:</l>
+                              <l>Here's in this Dulcie potion</l>
+                              <l>A Surgeon's boy with Lotion.</l>
+                           </lg>
+                           <lg n="4">
+                              <head>4.</head>
+                              <l>Come make tryall,</l>
+                              <l>Here's in this little Vyoll</l>
+                              <l>An Hoſpitall of Cures,</l>
+                              <l>There's none that ever took't,</l>
+                              <l>Now any paine endures,</l>
+                              <l>Or after e' to forſook't:</l>
+                              <l>'Tis Phyſick for the Gout,</l>
+                              <l>The Stone, and thoſe look out.</l>
+                           </lg>
+                           <lg n="5">
+                              <head>5.</head>
+                              <l>Here's a Gelly</l>
+                              <l>For the Hydropicke belly,</l>
+                              <l>The Wind and water it</l>
+                              <l>With power Conjures forth,</l>
+                              <l>And Cures the Phrenzie ſit,</l>
+                              <l>It quickens the Dead birth:</l>
+                              <l>It Cooles a babling tongue,</l>
+                              <l>And makes a Mid-wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>e young.</l>
+                           </lg>
+                           <lg n="6">
+                              <head>6.</head>
+                              <l>Heere is no fraud</l>
+                              <l>In Doctor or in Bawd,</l>
+                              <l>The troubles of this world</l>
+                              <l>From perſons of each Gender,</l>
+                              <l>They ſundenly have hurl'd</l>
+                              <l>Till Doomeſday, Peace they Render:</l>
+                              <l>Fame no Accompt will have</l>
+                              <l>Of them, but from the Grave.</l>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>Come 'tis Dinner time:</l>
+               <l>And Sir, I hope, this day I ſhall enjoy</l>
+               <l>Your company, to morrow morning chooſe</l>
+               <l>What early houre you pleaſe to take your journey</l>
+               <l>We will put downe theſe merry Scaenes, with a</l>
+               <l>Freſh bowle of Sucke, ſhall warme our appetites</l>
+               <l>Unto a competent meale of homely fare</l>
+               <l>I will not bee denyed.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Clem.</speaker>
+               <l>Sir you are</l>
+               <l>Too poorefull o're mee, and your Goodneſſe doth</l>
+               <l>Extend in bounty, beyond my deſervings,</l>
+               <pb n="30" facs="tcp:57335:17" rendition="simple:additions"/>
+               <l>Your liberall table is not furniſht more</l>
+               <l>With excellent Vyands, then your free, and noble</l>
+               <l>Heart is with honeſt wiſhes to your Friends;</l>
+               <l>Which end in faire performances, and Sir</l>
+               <l>That is the Crowne of all, without which all</l>
+               <l>Hoſpitality were but vilde and Counterfeit.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Har.</speaker>
+               <l>No more — nay <hi>Hodge</hi> and <hi>Tym</hi> you are my loving Gueſts too</l>
+               <l>The Doctor has dealt favourably with you</l>
+               <l>For though your journey, do's returne you ſhame,</l>
+               <l>A has left you ſo, <hi>The Blind may lead the Lame.</hi>
+               </l>
+            </sp>
+         </div>
+         <div type="epigrams">
+            <head>Epigrams.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>THus <hi>Hodge</hi> and <hi>Tym</hi> how courſe ſo e're they ſeeme</l>
+               <l>In language, may, for truth bee in eſteeme.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>In tatters, they, their Dialogue have ſent</l>
+               <l>Abroad, but why? 'Cauſe truth ſtill naked went.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>And though ſome may Conclude their tale but froth,</l>
+               <l>Beleev't they are a kinne to <hi>Tom-tell-troth.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>But if they brand them, with Impoſturie,</l>
+               <l>Tell'um from mee they give themſelves the lye.</l>
+               <l>Though courſe, in Tatters, and but froth, they may</l>
+               <l>Winne, (without Lawyers, or fat bribes) the Day.</l>
+            </lg>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>

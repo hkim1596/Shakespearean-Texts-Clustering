@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons triumph: or, The solemn and magnificent reception of that honourable gentleman, Robert Tichborn, Lord Major: after his return from taking his oath at Westminster, the morrow after Simon and Jude day, being October 29. 1656. With the speeches spoken at Fosterlane-end and Soperlane-end.</title>
+            <author>Bulteel, John, fl. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77794</idno>
+            <idno type="STC">Wing B5455</idno>
+            <idno type="STC">Thomason E892_7</idno>
+            <idno type="STC">ESTC R206557</idno>
+            <idno type="EEBO-CITATION">99865683</idno>
+            <idno type="PROQUEST">99865683</idno>
+            <idno type="VID">117932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117932)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E892[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons triumph: or, The solemn and magnificent reception of that honourable gentleman, Robert Tichborn, Lord Major: after his return from taking his oath at Westminster, the morrow after Simon and Jude day, being October 29. 1656. With the speeches spoken at Fosterlane-end and Soperlane-end.</title>
+                  <author>Bulteel, John, fl. 1683.</author>
+                  <author>T. B. (Thomas Brewer),</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Brook at the Angel in Cornhill.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: I.B., i.e. John Bulteel.</note>
+                  <note>Sometimes attributed to Thomas Brewer, poet.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Variant: title has "Tichburn".</note>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November] 10th".</note>
+                  <note>Identified as Wing B4430A on UMI microfilm set "Early English books, 1641-1700".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tichborne, Robert, --  Sir, d. 1682 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117932:1" rendition="simple:additions"/>
+            <p>LONDONS TRJUMPH: OR, The Solemn and Magnificent reception of of that Honourable Gentleman, ROBERT TICHBORN, <hi>Lord Major:</hi> After his return from taking his Oath at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> the morrow after <hi>Simon</hi> and <hi>Jude</hi> day, being <hi>October</hi> 29. 1656.</p>
+            <p>With the Speeches ſpoken at <hi>Foſterlane-end</hi> and <hi>Soperlane-end.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>N. Brook</hi> at the <hi>Angel</hi> in <hi>Cornhill.</hi> 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117932:2"/>
+            <pb facs="tcp:117932:2"/>
+            <head>TO THE RIGHT HONOURABLE THE <hi>LORD MAYOR</hi> OF THE City of LONDON: And the Right Worſhipfull, the MASTER, WARDENS, and ASSISTANTS of the Company of <hi>SKINNERS.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable, and Right Worſhipfull,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Preſent you with theſe labours of my Pen as the firſt and new<g ref="char:EOLhyphen"/>eſt Offering tendered into your hands to welcome You to your new Office of <hi>Majoralty:</hi> and to congratulate the
+<pb facs="tcp:117932:3"/>
+               <hi>Right Worſhipfull Company,</hi> which hath produc'd a perſon ſo well worthy to receive a dignitie ſo well worth the Cities beſtowing. May both you and they find as much joy at the laſt day of your wearing it as at the firſt day of your putting it on. J confeſs I cannot deſerve to have theſe lines accepted, yet I hope you will give them a courteous entertainment through the no<g ref="char:EOLhyphen"/>bleneſſe of your good Natures: for to your laſting Memory I ſet this down, and dedi<g ref="char:EOLhyphen"/>cate it to your generous diſpoſitions, deſi<g ref="char:EOLhyphen"/>ring nothing more then the proſperity and glory of this renewned City.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117932:3"/>
+            <head>Londons Triumph.</head>
+            <p>WEre it now the intention of our diſcourſe to dwell upon ſo Noble a Theame, I might quickly run beyond the limits of thoſe few ſheets to which I am tied, in relating the glory and antiquity of this famous City. For as the <hi>Romans,</hi> to dignifie their great and potent City of <hi>Rome,</hi> de<g ref="char:EOLhyphen"/>duc'd the originall thereof from the Gods them<g ref="char:EOLhyphen"/>ſelves; ſo doe alſo our own Hiſtorians draw the foundation of this mighty City from as high a be<g ref="char:EOLhyphen"/>ginning. It being by them affirmed that <hi>Brute</hi> de<g ref="char:EOLhyphen"/>ſcended from the loyns of <hi>Aeneas,</hi> the ſon of <hi>Venus,</hi> the daughter of <hi>Jupiter,</hi> above a thouſand years before the Nativity of Chriſt, built this City upon the banks of the River Thames. It was afterward re<g ref="char:EOLhyphen"/>pair'd and beautifi'd by King <hi>Lud,</hi> and call'd after his name <hi>Lud</hi>'s Town, and in proceſſe of time, with a ſmall depravation of the pronunciation, <hi>London.</hi> But letting paſs the firſt foundation of it, the un<g ref="char:EOLhyphen"/>controul'd and fortunate eſtate thereof even to this day, hath given evident proof that it was built in a lucky hour, and mark'd out for life and a long con<g ref="char:EOLhyphen"/>tinuance. There being no City that hath more flouriſh'd, nor any City that hath been leſſe afflicted with calamities. And indeed whether we conſider the Politique government thereof, or the wealth of the Inhabitants, or the priviledges which it enjoyes, there are few Cities in the world may compare with
+<pb facs="tcp:117932:4"/>it. Mark the publike government thereof, and ſay, where is leſſe diſturbance among ſuch a multitude of men throng'd together. Conſider the order and <hi>decorum</hi> of the military force, being furniſhed with a body of well trained and expert Souldiers for the defence thereof, as no where is to be found the like. Conſider the fair proviſions made for poor and ſick, and ſay where are to be found Alms-houſes and Hoſpitals of larger extent and greater maintenance.</p>
+            <p>And though the learning of the Nation have its proper ſeat and aboad, yet hath it for the admiration and recreation of ſtrangers, Schools, Li<g ref="char:EOLhyphen"/>braries and Colledges of no ſmall note and fame. And whereas Common-wealths and Cities cannot have next under God any ſurer foundation then the love and good will of one man towards another, as alſo of the people obeying to the Magiſtrate Ruling, that alſo is cloſely kept and maintained in this City. And now I have made mention of the Magiſtrates of this City, I ſhal likewiſe ſpeak ſomething of the Anti<g ref="char:EOLhyphen"/>quity of the government now in being. It is true, that in old time the government of this City with the Law and cuſtoms us'd therein, were regiſter'd in a book call'd <hi>Domus Dei</hi> or Doomſday book, which was written in the Saxon language; but of latter times when thoſe Laws and cuſtoms were chang'd, that book was defac'd, and the things therein im<g ref="char:EOLhyphen"/>bazl'd and loſt. Notwithſtanding we do find in other Records, that in the time of <hi>Edward</hi> the Confeſſor, this City had two Governours, which were then called <hi>Portgraves,</hi> which were no other then thoſe who at this time are called Sheriffs. For theſe <hi>Port<g ref="char:EOLhyphen"/>graves</hi> are in divers Records called <hi>Viſcounts</hi> or She<g ref="char:EOLhyphen"/>riffs,
+<pb facs="tcp:117932:4"/>becauſe that they then us'd the ſame authority as now the Sheriffs do. Others there be that call them <hi>Aldermen</hi> or Judges of the Kings Court. In the time of <hi>Edward</hi> the Confeſſor, there were two officers of this nature that governd this City, by name <hi>William Biſhop,</hi> and one other called <hi>Leofſtane.</hi> In the time of <hi>Will.</hi> the Conquerour, the aforeſaid <hi>Will. Biſhop</hi> and one <hi>Godfrey</hi> were <hi>Portgraves</hi> or Sheriffs. In the reign of <hi>Will. Rufus,</hi> one <hi>Godfrey de Magnavile</hi> was <hi>Portgrave</hi> or Sheriff; and <hi>Richard de Par, Provoſt</hi> or Major. In the reign of <hi>Richard</hi> the firſt, <hi>Hugh Buche</hi> was <hi>Portgrave</hi> and <hi>Leofſtane Provoſt.</hi> After them <hi>Aubery de vere</hi> was <hi>Portgrave,</hi> and <hi>Robert Querel Provoſt.</hi> In this poſture of government ſtood the City till the beginning of the reign of <hi>Richard</hi> the firſt. Which gave occaſion to ſome Authors to liken and compare this City even to <hi>Rome</hi> it ſelf, It being in the firſt place divided into Wards: and ſecondly, having Sheriffs inſtead of Conſuls, and an aſſembly of Sena<g ref="char:EOLhyphen"/>tors or Aldermen, together with ſeveral Courts, or general meetings upon certain dayes. Now that we may come to the Office of Major in particular, we muſt take notice that in the time of King <hi>Richard</hi> the firſt, the Citizens of <hi>London</hi> obtained to have a Major for their principal Governour, who was to enter into his Office at the feaſt of St. <hi>Michael</hi> the Arch-Angel. Of the grandure of this dignity I ſhall ſpeak more at large by and by; It ſhall ſuffice at preſent to ſay thus much in reference to the preſent occaſion, that above fifteen of thoſe who have ſate in this ſeat of honour and dignity, have been members of the worſhipful company of <hi>Skinners;</hi> ſo fruitful hath that ſociety been of worthy Patriots and Magiſtrates to uphold
+<pb facs="tcp:117932:5"/>the government of this City. The wealth of this City is apparent by the ſumptuouſneſſe of the buildings both private and publike, and indeed I may affirm that there have not been greater actions either of charity or munificence done by any perſons more then by the Citizens of this place. Great Almſhouſes and Churches having been built by particular men. What good lier ſight can there be, then to behold ſuch numbers of tall Ships riding as it were under the walls of the City, ſo well fraught with the merchan<g ref="char:EOLhyphen"/>diſe of the whole earth; bringing in yearly ſuch a maſs of wealth as if all the world pay'd tribute to this one City. So that the rich live ſplendidly, and the pooreſt are free from want. To ſpeak of the ſtrength hereof, it is a City glorious for manhood, potent in Arms, and furniſh'd with ſuch ſtore of munition and inhabi<g ref="char:EOLhyphen"/>tants, inſomuch that it hath ſhew'd in a muſter-roll above 20000 Horſemen, and threeſcore 1000 foot<g ref="char:EOLhyphen"/>men fit for war. For its priviledges it hath many; but among the reſt there is none more notable then the many marks of favor beſtowed upon thoſe who have been Lord Majors, by ſeveral the Kings of <hi>England,</hi> who ſeldom leave their Office without the honour of Knighthood confer'd upon them. Neither do they make this dignity leſſe pleaſing and ſplendid to the people, by the pomp and gayety which is ſolemnly us'd when they are ſworn at <hi>Weſtminſter.</hi> Which are perform'd upon this ſcore, knowing that Triumphs are that moſt choice and pleaſant fruit that only ſprings from peace and plenty. They are begot by love, all people being willing to contribute toward the outward dignity of their Magiſtrates.</p>
+            <pb n="9" facs="tcp:117932:5"/>
+            <p>They are but the glorious beams and ornaments of State and Magnificence, which adde a light and luſtre to the Manſions and the titles of Governours. And when they are but ſeldom done, they carry ſo alluring a ſhape, that Princes themſelves delight to behold them, there being this diſtinction between them and the vulgar, that they behold them with delight; thoſe, with admiration. They are many times a debt due to Cuſtome; which being done with a ſumptuous thrif<g ref="char:EOLhyphen"/>tineſſe is laudable in a City ſo rarely govern'd as this. For the Chairs of Magiſtrates ought to be adorn'd, and to ſhine like the Chariot of the Sun, to dazle and amaze the common Eye, and to make them know, there is ſomething more excellent in Magiſtracy then they underſtand, whereby they may be drawn to a ſtricter and greater obedience. In a happy hour did his Lordſhip that now governs this renowned City, being born a Citizen thereof, take upon him that noble and ancient honour, who being a Perſon of ſuch a generous mind, had the happineſſe to meet with a Company equal to himſelf in ſpirit. Neither have they ſhed the ſeed of their bounty upon an unfruitful and barren ground, which with a ſoon ripe and libe<g ref="char:EOLhyphen"/>ral gratitude anſwers their expectation ſo fully. It was a comely ſight to ſee all the Companies ſtriving to ſet forth and brighten the glory of the day. For what Infamy could there have been greater, then now to be moroſe, ſullen, and niggardly, when all eares are liſtening for no news but thoſe of Feaſts and Triumphs, and when all eyes are open to behold them? when all the Nation ſeems to be drawn together, and to be Epitomiz'd within the Walls of her Metropolis. If you think what we have here ſaid hath been any thing of flattery, let us but lead you to the River,
+<pb n="10" facs="tcp:117932:6"/>and the <hi>Thames</hi> ſhall ſhew you all the Honours of this Day's Triumph; That being done, ſtep again upon the Land; and there again, the Land it ſelf, throng'd with multitudes of Witneſſes, will be an eaſie confirmation of what we ſhall declare.</p>
+            <p>In the firſt place, the loving members of the honou<g ref="char:EOLhyphen"/>rable Societie exerciſing Arms in <hi>Cripplegate</hi> Ground being drawn up together, march'd in a military or<g ref="char:EOLhyphen"/>der to the houſe of my Lord Maior, where they at<g ref="char:EOLhyphen"/>tended on him, and from thence march'd before him to the three Crane Wharfe, where part of them under the Red Colours embarqued them<g ref="char:EOLhyphen"/>ſelves in three ſeverall Barges; and another part took water at Stone Staires being under green colours as enemies to the other: and thence wafting to the o<g ref="char:EOLhyphen"/>ther ſide of the water, there began an encounter be<g ref="char:EOLhyphen"/>tween each party, which continued all the way to Weſtminſter; a third body conſiſting of Pikes and Musquets march'd to <hi>Bainards Caſtle,</hi> and there from the Battlements of the Caſtle gave Thundring Ecchoes to the vollies of thoſe that paſſ'd along the ſtreame. Part before and part behind, went the ſeverall Com<g ref="char:EOLhyphen"/>panies waiting on the Lord Maior in ſeverall Barges, with Drums beating, and Trumpets ſounding, and varietie of other Muſick to take the eare, while the Flaggs and Silver Pendents made a pleaſant ſight de<g ref="char:EOLhyphen"/>lectable to the beholders.</p>
+            <p>When the Barges wherein the Souldiers were, came right againſt <hi>White-Hall,</hi> they ſaluted the Lord Protector and his Councell, with ſeverall peales of ſhott, which the Lord Protecter anſwered with ſig<g ref="char:EOLhyphen"/>nal teſtimonies of grace and courteſie: and thence pro<g ref="char:EOLhyphen"/>ceeding forward to Weſtminſter-Staires, they gave another volley at the landing of the Lord Maior.
+<pb n="11" facs="tcp:117932:6"/>While the Lord Maior was taking his Oath before the Barons of the Exchequer, both parties began a ſharp incounter one againſt the other, which continuing for a ſhort ſpace, the green colours ſounded a parley; which being accepted, both parties ſuddenly became friends. Thus, being united, they attended the Lord Maiors taking Barge againe, and as ſoon as he was on the Water, they all together gave him another volly, as acknowledging him their preſent Governour, and the great Guns alſo gave him a Thundring fare<g ref="char:EOLhyphen"/>well as he paſs'd by. Thence, returning to <hi>White-Hall</hi> againe, the Souldiers ſaluted the Lord Protector with another volly, which being done, they wafted down to <hi>Bainards Caſtle,</hi> the ſmall ſhort Thundring all the way, and being ſtill anſwered by thoſe upon the Bat<g ref="char:EOLhyphen"/>tlements of the Caſtle, who ſtood ready to receive them at their landing, in Triumph. Thus the Lord Maior and Companies, together with the military Souldiers being landed, put an end to the Water ſo<g ref="char:EOLhyphen"/>lemnitie; than which there hath not been a more gracefull ſight upon the Thames ever ſince the City ſtood. The Lord Maior being landed, the ſeverall Companies went to their ſeverall ſtations appointed for them in the ſtreets, and the Lord Maior being now readie to proceed on his way, the Military Band march'd before with Drums beating and Colours fly<g ref="char:EOLhyphen"/>ing, all in a noble and War-like equipage: after them the aged Penſioners of the City, doing a kind of ſmall homage for their maintenance, went bearing the Eſcucheons of the City, and ſeverall of the Members of that company out of which the Lord Maior was choſen.</p>
+            <p>After theſe came ſeverall Gentlemen-Uſhers
+<pb n="12" facs="tcp:117932:7"/>adorn'd with Gold Chaines; behind them certaine rich Batchelours, wearing gownes furr'd with Foynes and upon them Sattin Hoods; And laſtly after them, followed the Worſhipfull Company of SKINNERS it ſelf, whereof the Lord Maior is a member. Next theſe, the City Officers paſſing on before, rode the Lord Maior with the Sword, Mace, and Cap of Main<g ref="char:EOLhyphen"/>enance before him, being attended by the Recorder, &amp; all the Aldermen in Scarlet Gowns on Horſeback. Thus attended, he rode from <hi>Bainards</hi> Caſtle into <hi>Cheapſide,</hi> the Companies ſtanding on both ſides of the way as farr as the upper end of the Old Jury, ready to receive him. When he was come right againſt the Old Change, a Pageant ſeem'd to meet him. On the Pageant ſtood two Leopards beſtrid by two Moors, attird in the habit of their Country; at the foure Cor<g ref="char:EOLhyphen"/>ners ſate four Virgins arraid in Cloth of Silver, with their haire diſheveld, and Coronets on their Heads. This ſeem'd to be the embleme of a City penſive and forlorn, for want of a Zealous governor: the Moors and Leopards, like evill cuſtoms tyrannizing over the weak Virginitie of undefended Virtue; which made an aged man, who ſate at the fore part of the Pageant, mantled in a black garment, with a dejected counte<g ref="char:EOLhyphen"/>nance ſeem to bewaile the condition of his Native City; but thus he remaind not long: for at the ap<g ref="char:EOLhyphen"/>proach of the Lord Maior, as if now he had eſpy'd the ſafety of his Country, he threw off his mourning weeds, and with the following Speech made known the joy he had for the Election of ſo happy and juſt a Magiſtrate.</p>
+            <pb n="13" facs="tcp:117932:7"/>
+            <lg>
+               <head>The <hi>Speech</hi> ſpoken over againſt the <hi>Old Change:</hi>
+               </head>
+               <l>AMazement vaniſh! Joy, inſtruct my Tongue,</l>
+               <l>T'expreſſe our wiſhes, ſuch as the <hi>Romans</hi> ſung</l>
+               <l>To their <hi>Patroni,</hi> when that Glorious State</l>
+               <l>By free Elections, became fortunate.</l>
+               <l>Though Honours, Marks of Envy are, we ſee</l>
+               <l>That your Election (Sir) was Envy free:</l>
+               <l>The Peoples Love; not ſiniſter regard,</l>
+               <l>Gave to your Virtue, Sir, its juſt reward:</l>
+               <l>They knew your Worth, found you a Man moſt fit</l>
+               <l>For ſuch a <hi>Truſt,</hi> ſo ſeated you in it:</l>
+               <l>Son of a Freeman of this Company</l>
+               <l>Whoſe Virtues you inherit; Oh may we</l>
+               <l>Ne're want like <hi>Branches</hi> from ſo good a <hi>Tree.</hi>
+               </l>
+               <l>Your Prudence, Sir, we Praiſe, your Active care</l>
+               <l>Both of the City's, and of our welfare.</l>
+               <l>Our hearts go with our wiſhes, none can be</l>
+               <l>Fill'd with more Joy then is your Company,</l>
+               <l>To ſee this Day; vouchſafe then to approve</l>
+               <l>The early tender of their Zealous Love.</l>
+            </lg>
+            <p>THe Speech being ſpoken, the firſt Pageant paſt on before the Lord Maior as far as <hi>Mercers Chap<g ref="char:EOLhyphen"/>pel;</hi> a Gyant being twelve foot in height going before the Pageant for the delight of the people. Over againſt <hi>Soper-Lane</hi> End, ſtood another Pageant alſo; upon this were plac'd ſeveral ſorts of Beaſts, as Lyons, Ty<g ref="char:EOLhyphen"/>gers, Bears, Leopards, Foxes, Apes, Monkeys, in a great Wilderneſſe; at the forepart whereof ſate <hi>Pan</hi> with a Pipe in his hand; in the middle was a Ca<g ref="char:EOLhyphen"/>nopie, at the Portal whereof ſate <hi>Orpheus</hi> in an antique
+<pb n="14" facs="tcp:117932:8"/>Attire, playing on his Harp, while all the Beaſts ſeem'd to dance at the ſound of his melody. Under the Canopie ſate four Satyrs playing on Pipes. The Embleme of this Pageant ſeem'd proper to the Com<g ref="char:EOLhyphen"/>pany out of which the Lord Maior was elected; put<g ref="char:EOLhyphen"/>ting the Spectators in mind how much they ought to eſteem of ſuch a Calling, as clad the Judges in their Garments of honour, and Princes in their Robes of Majeſtie, and makes the wealthy Ladies covet Win<g ref="char:EOLhyphen"/>ter, to appear clad in their ſable Furrs. A ſecond ſignification of this Emblem may be this; That as <hi>Orpheus</hi> tam'd the wild Beaſts by the alluring ſound of his melody; ſo doth a juſt and an upright Gover<g ref="char:EOLhyphen"/>nour tame and govern the wild affections of men, by good and wholeſome Lawes, cauſing a general Joy and Peace in the place where he commands. Which made <hi>Orpheus</hi> being well experienced in this truth, to addreſſe himſelf to the Lord Maior in theſe follow<g ref="char:EOLhyphen"/>ing Lines:</p>
+            <lg>
+               <head>The Speech from off the <hi>Wil<g ref="char:EOLhyphen"/>derneſſe</hi> at <hi>Soper-Lane</hi>-End.</head>
+               <l>
+                  <hi>ORder,</hi> ſaith <hi>Plato,</hi> is the Soul of things,</l>
+               <l>And from that Fountain every good Art ſprings:</l>
+               <l>Beaſts become tame and uſefull, Man would be,</l>
+               <l>More fierce then they, did not Authority</l>
+               <l>Awe his unruly Actions, and looſe will,</l>
+               <l>Making diſtinctions 'twixt the <hi>Good</hi> and <hi>Ill.</hi>
+               </l>
+               <l>Good Governours like skilfull Surgeons give,</l>
+               <l>Where uſeful, Corroſives, and alſo Lenitive</l>
+               <pb n="15" facs="tcp:117932:8"/>
+               <l>In its due place applies: without which,</l>
+               <l>Man would grow up into a lep'rous Itch.</l>
+               <l>And ſurround the whole Body: ſuch a cure</l>
+               <l>Is propereſt for you, my Lord, whoſe Pure</l>
+               <l>Untainted Life and Reputation will</l>
+               <l>Make <hi>Virtue</hi> more Eſteem'd and cheriſht ſtill,</l>
+               <l>The Vicious ſee their want of <hi>Good,</hi> and be</l>
+               <l>Reclaim'd to <hi>Virtue</hi> and to <hi>Piety.</hi>
+               </l>
+               <l>So, Honoured Sir, may Plenitude of daies,</l>
+               <l>Crown all your <hi>Actions</hi> with deſerved Praiſe;</l>
+               <l>And ſo rewarded in our City be</l>
+               <l>Found to Your Fame and honour'd Memory.</l>
+            </lg>
+            <p>THe Speech being ended, the Lord Maior rode forward to his Houſe in <hi>Silver-Street,</hi> the Mili<g ref="char:EOLhyphen"/>tary Bands ſtill going before him. When he was in his Houſe, they ſaluted him with two Volleys of ſhot, and ſo marching again to their Ground in <hi>Cripple-ga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> Church-yard, they lodg'd their Colours; and as they began, ſo concluded this dayes Triumph.</p>
+            <p>How noble the Love of theſe Gentlemen was to his Lordſhip, was teſtify'd in this their publick ex<g ref="char:EOLhyphen"/>preſſion of their Duty toward him. As for my ſelf, I ſhould do ill to take upon me, the going about to give any luſtre either to the exactneſſe of their mar<g ref="char:EOLhyphen"/>ſhalling themſelves, or to ſet down the bravery of their Souldier-like Habits; that being a buſineſſe not within the compaſſe of my performance. And be<g ref="char:EOLhyphen"/>ſides this, there were ſo many more judicious Eye<g ref="char:EOLhyphen"/>witneſſes of their Gallantry, that it would be in me altogether ſuperfluous.</p>
+            <pb n="16" facs="tcp:117932:9"/>
+            <p>Now for a concluſion to the Triumphs of this Day let me not deprive that worthy Architect Mr. <hi>Jerman,</hi> of a debt ſo juſtly due to his ingenuitie, as is the praiſe which he hath merited by the handſome contrivance, neat curioſities, and rare inventions wherewith he did adorn this Day's Triumph. Though I confeſſe, that the Courteſie done him is very ſmall, where his own Works would have ſpoken his praiſe, ſhould I have been ſilent in my applauſe. I may adde this alſo as a farther Congratulation to that Honourable Perſon ſo lately inveſted in the Di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nity of Maioralty, That he muſt needs be the moſt welcome Governour that hath for many years rul'd this City; who comes bringing in his hand the Olive Branch of <hi>Peace,</hi> reſtoring to the City thoſe Ancient Cuſtoms of <hi>Joy</hi> and <hi>Triumph,</hi> which formerly gave it the Title of the moſt Fortunate, Plentiful, and Flouriſhing Citie in the World.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

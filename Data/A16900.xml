@@ -1,0 +1,3075 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faire maide of Bristovv As it was plaide at Hampton, before the King and Queenes most excellent Maiesties.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1605</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 2368 KB of XML-encoded text transcribed from 279 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A16900</idno>
+            <idno type="STC">STC 3794</idno>
+            <idno type="STC">ESTC S104660</idno>
+            <idno type="EEBO-CITATION">99840393</idno>
+            <idno type="PROQUEST">99840393</idno>
+            <idno type="VID">4894</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A16900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4894)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 983:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faire maide of Bristovv As it was plaide at Hampton, before the King and Queenes most excellent Maiesties.</title>
+                  <author>Day, John, 1574-1640?, attributed name.</author>
+               </titleStmt>
+               <extent>[44] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By William Jaggard] for Thomas Pauyer, and are to be solde at his shop, at the entrance into the Exchange,</publisher>
+                  <pubPlace>Printed at Loudon [sic] :</pubPlace>
+                  <date>1605.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to John Day.</note>
+                  <note>In verse.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-E⁴ F² .</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4894:1"/>
+            <pb facs="tcp:4894:1"/>
+            <p>THE FAIRE MAIDE of Briſtovv.</p>
+            <p>As it was plaide at Hampton, before the King and Queenes moſt excellent Maieſties.</p>
+            <figure>
+               <figDesc>Thomas Pauyer's device</figDesc>
+               <p>T P</p>
+               <q>THOV SHALT LABOR TILL THOV RETVRNE TO DVSTE</q>
+            </figure>
+            <p>Printed at London for Thomas Pauyer, and are to be ſolde at his ſhop, at the entrance into the Exchange 1605.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:4894:2"/>
+            <pb facs="tcp:4894:2"/>
+            <head>The Faire maid of Briſtovv.</head>
+            <stage>Enter Challener, and Vallenger.</stage>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>COme <hi>Vallen.</hi> lets to Sir <hi>God-fries</hi> houſe,</l>
+               <l>I know there will be reueling to night</l>
+               <l>This is his birth day: and he welcoms all,</l>
+               <l>Fair <hi>Anabell</hi> his daughter is my loue,</l>
+               <l>There ſhalt thou ſée the Idoll of my thought,</l>
+               <l>Faire Briſtows miror and my harts delight.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Frend <hi>Challener,</hi> I wonder at thy humor,</l>
+               <l>To dote ſo much ouer this female kind,</l>
+               <l>That charms thy ſences makes thy eie ſight blind.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Thou art an enemy to women ſtill,</l>
+               <l>I prethée what doth beſt agrée with thee.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>To ſee my hounds, to chaſe the fallow deere,</l>
+               <l>to ſee my fathon ſtrike the partridge dead.</l>
+               <l>to heare my horſe Caréere, to drink full healths,</l>
+               <l>and not liue puling for an nounce of Beauty,</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>I loue to ſée my hounda as well as thée,</l>
+               <l>My horſe, my fa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on, and healthes when time ſerues,</l>
+               <l>But aboue all my miſtris I prefer,</l>
+               <l>She is the Fewel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that doth heate my bloud,</l>
+               <l>And therefore <hi>Vallenger,</hi> for my ſake goe</l>
+               <l>and ſee, the gallants will be here to night,</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Y ſaith you bind me to a mighty taſk</l>
+               <l>Ile ſee your Lady, and your Ladies maſke,</l>
+               <l>then prethee peace here will we keepe our ſtand.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <p>For by the Drum the Maſkers are at hand.</p>
+            </sp>
+            <stage>Enter Sir Godfrey, Vmphrevil, his wife, his daughter, and the Maskers to daunce.</stage>
+            <sp>
+               <pb facs="tcp:4894:3"/>
+               <speaker>God.</speaker>
+               <l>Now gentlemen, your welcome to my houſe,</l>
+               <l>Good maiſter <hi>Challener</hi> and your honeſt frend,</l>
+               <l>So are you all yong gallants euery one,</l>
+               <l>But we forget our ſelues, boddy of me,</l>
+               <l>Where be theſe Ladds, what ſhall we haue</l>
+               <l>No dauncing after dinner? Ho, vp with the tables,</l>
+               <l>If they haue dined within, and come</l>
+               <l>yong Ladds now to your dance againe.</l>
+            </sp>
+            <stage>Here they dance and Vallenger ſpeaks.</stage>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Falſe tong that ſpoke ſuch blaſphemy before,</l>
+               <l>That I diſpraiſed, now doth my ſoule adore.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>How doſt thou like my loue now <hi>Vallenger.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>O ſhées deuine and I become her thrall.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Doth Briſtow yéeld her fellow, prethée ſpeake,</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>A thouſand, I muſt hence or elſe my hart will break.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>What meanes my frend in ſuch a humor goe,</l>
+               <l>Ile know the cauſe before I leaue him ſo,</l>
+            </sp>
+            <stage>Exit Challener, and Vallenger. Here the dannce ends.</stage>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Gentlemen I thank you all,</l>
+               <l>Lets in to ſupper the the cheare be ſmall, <stage>Exit the Maſkers.</stage>
+               </l>
+            </sp>
+            <stage>Enter vallenger and Challener.</stage>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Vallinger thou art a traitor to thy frend.</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>Not to my frend but alwaies to my foe.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Why doſt thou loue the faint I do adore.</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>To anger thee I ſweare to loue her more.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:3" rendition="simple:additions"/>
+               <speaker>Chal.</speaker>
+               <l>I loued her firſt, when thou didſt loue di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>daine.</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>I loue her now, there<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore thy loue is vaine.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>For ſweare to name her el<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thou art my foe.</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>For weare my Anabell, hence dotard go,</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Prepare thée Vallener it is decréed.</l>
+               <l>For Anabell, or thou or I muſt bléed?</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>On Sir tis welcome pare not but thruſt home.</l>
+            </sp>
+            <stage> 
+               <hi>Here they fight, vallenger falls downe. And Challener flies away, vallenger cals For helpe, Sir God frey, his wife, and his Daughters, comes forth with lights.</hi>
+            </stage>
+            <sp>
+               <speaker>val.</speaker>
+               <l>Some Gracious Body helpe me I am ſlaine.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that which cals for help, gods pitty wife,</l>
+               <l>The Gentleman, lies bléeding héere that came</l>
+               <l>with maiſter Challen.</l>
+               <l>I pray Sir peake who hath hurt ye thus.</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>The villen Chalener hath almoſt ſlaine me.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Challener, why I thought you had bin friends.</l>
+               <l>What was the matter Sir may I know it?</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>About your daughter, and while ſhe was dancing</l>
+               <l>I prayſed her geſture and her comely grace,</l>
+               <l>But Vallenger moſt like a liberall villaine,</l>
+               <l>Did giue her ſcandelus Ignoble termes,</l>
+               <l>Which I rebuked him for whereupon,</l>
+               <l>We drew our weapons, I by chaunce being downe,</l>
+               <l>The coward villaine thus hath wounded me.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>How ſay you wife, did not I ſay ſo much,</l>
+               <l>He was a Cutter and a ſwaggerer,</l>
+               <l>He haue my child, no, no, he aymes amiſſe,</l>
+               <l>Go preſently make ſearch thrughout the Citty,</l>
+               <l>Where ere you find him carrie him ſtraight to priſon,</l>
+               <l>Looke to him, come Sir, ſince your hurt</l>
+               <l>Was about my girle, you ſhall not from</l>
+               <l>my houſe till you are thorow whole.</l>
+               <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:4894:4"/>
+               <gap reason="intruder" extent="1 page">
+                  <desc>〈1 page inserted from a different book〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:4894:4"/>
+               <gap reason="intruder" extent="1 page">
+                  <desc>〈1 page inserted from a different book〉</desc>
+               </gap>
+               <pb facs="tcp:4894:5" rendition="simple:additions"/>
+               <l>And for the motion which you made to me,</l>
+               <l>Touching my child, I promiſe you truly Sir,</l>
+               <l>I do not know the man in Briſto,</l>
+               <l>That I affect more then I do your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elfe,</l>
+            </sp>
+            <sp>
+               <speaker>Chal</speaker>
+               <l>Sir I haue <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound it, and I wiſh I may</l>
+               <l>Make <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ati<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>action <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or your good regard,</l>
+               <l>And louing care that you haue had o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me,</l>
+               <l>So plea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e you Sir to know your daughters mind,</l>
+               <l>Which way her maiden thoughts are moſt inclind,</l>
+            </sp>
+            <stage>Enter a meſſenger with a letter.</stage>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>From whom the Letter.</l>
+            </sp>
+            <sp>
+               <speaker>Meſ.</speaker>
+               <l>From your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather Sir,</l>
+            </sp>
+            <stage>He reads the Letter.</stage>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Come hether wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, daughter a word with you,</l>
+               <l>I know that once thou dideſt loue Challener,</l>
+               <l>But he is fled, thou <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>éeſt a wagering <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ellow,</l>
+               <l>Tell me my girle wilt thou be ruled by me,</l>
+               <l>And ile prouide a man fit <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or thy turne.</l>
+            </sp>
+            <sp>
+               <speaker>Ana</speaker>
+               <l>Faith who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oeuer you ſhall thinke méet.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Why thats wel ſed my wench, ther ſpok an angel</l>
+               <l>Looke yonder what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aiſt thou to yong <hi>Vallenger,</hi>
+               </l>
+               <l>He is a man as twere compleat o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> waxe,</l>
+               <l>His ather is an honorable knight,</l>
+               <l>A Challener, a very ſtock to this,</l>
+               <l>Loue him my girle, ſay as I ſay, do.</l>
+            </sp>
+            <sp>
+               <speaker>Ana</speaker>
+               <l>I neuer heard a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather labour more,</l>
+               <l>To win his daughter that was woon be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore.</l>
+            </sp>
+            <sp>
+               <speaker>Wom.</speaker>
+               <l>Daughter what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay you to your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ather.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Why wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e I know what ſhe would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay already,</l>
+               <l>She hath loued Challener. And would thinke,</l>
+               <l>Her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ond in leauing him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſoone to chuſe another,</l>
+               <l>And thinks we would be angry,</l>
+               <l>If ſhe loued Vallenger, tut v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thy mind</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>Father, I know the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e words are all but ieſts,</l>
+               <pb facs="tcp:4894:5" rendition="simple:additions"/>
+               <l>Diſpoſe euen as it likes you beſt.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Well <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed my girle then Vallenger is he,</l>
+               <l>What <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay you Ellen do you not agrée.</l>
+            </sp>
+            <sp>
+               <speaker>Wem.</speaker>
+               <l>What liks you two, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> neuer Croſſe,</l>
+               <l>Mine is the care, but yours is the loſſe.</l>
+            </sp>
+            <sp>
+               <speaker>God</speaker>
+               <l>Now maiſter Vallenger, good news a gods name</l>
+               <l>From whence is that letter Sir may I know,</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>You may Sir God-Frey, this letter is from my</l>
+               <l>Father Sir, who to morrow comes to Briſtoe,</l>
+               <l>And meanes to ſoiorne héere all the winter time.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>He ſhall be welcome, I would my hou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>Were thought fit for his entertainment,</l>
+               <l>But on, ſo may I call you now,</l>
+               <l>And if that you agrée how ſay you Sir.</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>Sir I wiſh it were to night be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore to morrow,</l>
+               <l>And by your daughters leaue, ſeale it with this kiſſe.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Wel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed harts youle neuer be yonger,</l>
+               <l>Lets in to get all things in readines.</l>
+            </sp>
+            <stage>Exit Omnes.</stage>
+            <stage>Enter Challener, his man and a Gentleman of Briſtow.</stage>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Good maiſter Chambers, your welcome Sir to</l>
+               <l>London, how farr our frends at Briſto Mal. chambers,</l>
+            </sp>
+            <sp>
+               <speaker>Cham.</speaker>
+               <l>M. Challener, all well, your frends at Briſto,</l>
+               <l>Would be glad to ſée you.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Indéed I dare <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>weare that I haue ſome friendes</l>
+               <l>There, but among all, how doth yong Vallenger?</l>
+            </sp>
+            <sp>
+               <speaker>Cham.</speaker>
+               <l>O the man you hurt.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Euen hee.</l>
+            </sp>
+            <sp>
+               <speaker>Cham</speaker>
+               <l>Excéeding well, he is at Sir God-freys houſe,</l>
+               <l>And is on thur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>day next to be eſpou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed,</l>
+               <l>To beutious <hi>Anabell</hi> the old knights daughter.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:6" rendition="simple:additions"/>
+               <speaker>Cha.</speaker>
+               <l>Iſt poſible?</l>
+            </sp>
+            <sp>
+               <speaker>Cham.</speaker>
+               <l>Tis as I tell you Sir,</l>
+               <l>But maiſter Challener I am in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome haſt,</l>
+               <l>And pleaſeth you ſoone to come and ſup with me,</l>
+               <l>Ile tell you then the matter more at larg.</l>
+            </sp>
+            <stage>Exit gentleman.</stage>
+            <sp>
+               <speaker>cha.</speaker>
+               <l>Faire Anabell married to Vallenger,</l>
+               <l>The newes doth run like yſe through all my vaines,</l>
+               <l>Is Anabell married to Vallenger?</l>
+               <l>A <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aithles woman, trothles, and vnkind,</l>
+               <l>Won with a word o labour, loſt like wind.</l>
+               <l>O I could rend my fleſh, and teace my haire,</l>
+               <l>Married to Vallenger, what to my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oe?</l>
+               <l>By heauen if all my wealth were in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea,</l>
+               <l>And I le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>prate, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uckerles, and bare,</l>
+               <l>It would not halfe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o much haue gauld my hart,</l>
+               <l>As this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame newes, this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atall deadlines.</l>
+            </sp>
+            <sp>
+               <speaker>Ia.</speaker>
+               <l>What chéere you maiſter neuer be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſad,</l>
+               <l>Tut let her go more wenches may be had.</l>
+            </sp>
+            <sp>
+               <speaker>cha.</speaker>
+               <l>No none like her, but I will ſtraight from hence,</l>
+               <l>With my owne per<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onage I will di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pence?</l>
+               <l>I prethée <hi>Iaques</hi> get me a Docters wéed,</l>
+               <l>For vnto Briſtow will we with all ſpéed,</l>
+               <l>There will we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ée the Bride-groome and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bride,</l>
+               <l>Get ſtraight poſt horſes, for this night ile ride,</l>
+               <l>And preſently get me a Docters tire,</l>
+               <l>Till I am at Briſtow, each part is one fire.</l>
+            </sp>
+            <stage>Exit Omnes,</stage>
+            <stage>Enter Sentlo, and Harbert, diſguiſed like a Seruingman.</stage>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Did Maiſter Herbert then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end you to me.</l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>How think you, he told me he ſet it in the letter.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:6" rendition="simple:additions"/>
+               <speaker>Sent.</speaker>
+               <l>Doſt thou know what he hath written here.</l>
+            </sp>
+            <sp>
+               <speaker>Blunt.</speaker>
+               <l>Not I, nor I greatly do not care.</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Heere he deſires me as ere I tendred him</l>
+               <l>That I would entertaine thée as my man.</l>
+            </sp>
+            <sp>
+               <speaker>Blunt.</speaker>
+               <l>You may i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you wil, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you wil not you may chuſe,</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>I prethée what is thy name?</l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>
+                  <hi>Blunt.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Blunt name? Blunt nature?</l>
+               <l>Héere my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rend doth write,</l>
+               <l>Tho he be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omwhat ſtoburne in his wordes,</l>
+               <l>Yet he is of confirmed honeſty,</l>
+               <l>Well <hi>Blunt</hi> I entertaine you Sir,</l>
+               <l>How now, ſwéet loue, whoſe that.</l>
+            </sp>
+            <stage>Enter Florence and Frog.</stage>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Mary <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wéet hart tis Sir <hi>godfreys</hi> man,</l>
+               <l>That comes to bid vs to his daughters marriage.</l>
+            </sp>
+            <sp>
+               <speaker>Frog.</speaker>
+               <l>I Sir my name is <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rog:</hi> good man <hi>Frogs</hi> ſon</l>
+               <l>O <hi>Frog</hi> Hall, that am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom my maiſter,</l>
+               <l>To deſire you and the Gentlewoman,</l>
+               <l>To make a ſtep to walke, or as it were to</l>
+               <l>Come, or approach, to dinner? This is all Sir.</l>
+            </sp>
+            <sp>
+               <speaker>Blunt.</speaker>
+               <l>Do you heare Sir, is this my miſtres.</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>I Blunt.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Blu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi>
+               </speaker>
+               <l>Is ſhe not a Whore? ſhe lookes like one?</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Peace Sirrha on your li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>What <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſte merchant haue you got there,</l>
+               <l>
+                  <hi>Frog</hi> breake his pate?</l>
+            </sp>
+            <sp>
+               <speaker>frog.</speaker>
+               <l>No by my ſaith, hées like one would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooner break mine.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>sen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </speaker>
+               <l>Well Frog tell thy Maiſter I will not faile.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Sweet hart ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> go in this gowne?</l>
+            </sp>
+            <sp>
+               <speaker>sent.</speaker>
+               <l>The time is to ſhort to make another.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>B u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </speaker>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s not that gowne good inough <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or a whore?</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </speaker>
+               <l>By heauen if you maintaine this Ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>call ſlaue,</l>
+               <l>To abuſe me, kéep him and let me go.</l>
+               <pb facs="tcp:4894:7"/>
+               <l>Before an honeſt ſeruant, let him.</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Go to, peace ſirha, no more.</l>
+            </sp>
+            <sp>
+               <speaker>Blunt.</speaker>
+               <l>I haue done ſir: <hi>Harbeit,</hi> whether wilt thou?</l>
+               <l>Thy loue vnto thy friend makes thée forget</l>
+               <l>thy ſelfe, therefore no more.</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>I prethy ſwéet lam content thy ſelfe,</l>
+               <l>This fellow was ſent me from a ſpeciall friend</l>
+               <l>Tho he be blunt yet is very honeſt.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>I could be content to loue him well enough,</l>
+               <l>So he could afford me better words.</l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>Well I wil ſpeake no more what ſhall offend you</l>
+               <l>Lets goe ſwéet hart, therefore blunt come goe you along,</l>
+               <l>Sir godfrey ſtaies, therefore we do him wrong,</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Thou wrongeſt thy ſelfe, god ſend thée to amend</l>
+               <l>And wouldeſt do further wert not for thy friend.</l>
+            </sp>
+            <stage>Exit Omnes.</stage>
+            <stage>Enter Sir godfrey, Sir Euſtace, Mother, and anaball.</stage>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>Sir <hi>Godfrey vmphreuile,</hi> &amp; my honord Siſter.</l>
+               <l>My bony bryde, and this fayre company,</l>
+               <l>How it glades old <hi>Euſtace</hi> vallenger</l>
+               <l>To<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee this good ocaſion of our mirth.</l>
+               <l>Had my ould true harted <hi>Sara</hi> lyued,</l>
+               <l>To haue ſeene the maraige o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> her déere ſon</l>
+               <l>And in ſoe good and worſhip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull a ſtock,</l>
+               <l>As ould <hi>vmphrevilles:</hi> well twas a woman</l>
+               <l>Few ſuch liue now: you ould fooliſh eies</l>
+               <l>Will you be watring ſtill.</l>
+            </sp>
+            <sp>
+               <speaker>Wom.</speaker>
+               <l>ſhe was a wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and vertuous gentle woman</l>
+               <l>The poore will ſay ſo.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>I hope my child will imitate her ſteps,</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>Come <hi>anaball</hi> thou now muſt be my wife,</l>
+               <pb facs="tcp:4894:7"/>
+               <l>My huſwife, and my houſe keper, and all,</l>
+               <l>I know thou haſt bin brod vp for a hu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wife,</l>
+               <l>Thy huſbands a wild boy I confes.</l>
+               <l>But let him ſtay and keep thée companye</l>
+               <l>Or by the holy roode he rooſtes not heer.</l>
+               <l>But brother, heres an Itallian docter thats com<g ref="char:EOLhyphen"/>mended to vs by eſpeciall friends,</l>
+               <l>Whom we muſt intertaine with good regard.</l>
+               <l>Ho, who e with in there?</l>
+            </sp>
+            <stage>Enter vallenger, Challiner like a Docter, Sentlo, Anabell, Florence.</stage>
+            <sp>
+               <speaker>val.</speaker>
+               <l>Doo you call Sir?</l>
+            </sp>
+            <sp>
+               <speaker>Eu.</speaker>
+               <l>Fy, Fie, <hi>Ned</hi> you trifle out the time.</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>Sir I was welcoming this gentleman,</l>
+               <l>This Gentelwoman, and this docter,</l>
+               <l>Being ſtrangers here in Briſtow.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>Signeor Iulio I vnderſtand your called ſir.</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>That is my name Sir.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Right reuerent Docter your moſt welcom hether,</l>
+               <l>My hou e, or what el e, is at your command.</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>The like ſay I ſir, be bould thereof</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>Moſt honored knights whatſoeuer lies in mee,</l>
+               <l>Commaund my beſt indeuer.</l>
+            </sp>
+            <sp>
+               <speaker>Euſt</speaker>
+               <l>Commiſtreſſe Florance you muſt knowe</l>
+               <l>That your come to Briſtow.</l>
+               <l>And muſt now help to grace our Bride,</l>
+            </sp>
+            <sp>
+               <speaker>Flo</speaker>
+               <l>With all my hart Sir <hi>Euſtace</hi> at her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruice</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Sir, maiſter Sentloe is the man I chu e,</l>
+               <l>To intertaine the bryde, he giues me leaue</l>
+               <l>To welcome Miſtres Florance.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>Come brother you and Ile confer w<hi rend="sup">t</hi> M. Docter.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>What on your wedding day and change,</l>
+               <pb facs="tcp:4894:8"/>
+               <l>Is your brides beauty les eſtéemd then mine,</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </speaker>
+               <l>The Bee that Sucks the bitter Hemlock flouers,</l>
+               <l>When that he comes to taſt the Violet</l>
+               <l>Doth count his former food as traſh and wéedes</l>
+               <l>Thou art the Violet the bitter Hemlock ſhée,</l>
+               <l>I blind be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore, but now mine eyes doth ſée.</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>I ouerhard thée, thou baſe Vallenger.</l>
+               <l>That ſuch an angell ſhould indure the euell,</l>
+               <l>To linke her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to that in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atiat deuill</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>Come we diſcourſe to long, wée ſhall haue</l>
+               <l>Time enough for conference.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>What will you bee ſo Coy,</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Y <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith you men are ſo deceytfull,</l>
+               <l>That ſhées a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oole will credit what you ſay,</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>Why Ned what meaneſt thou</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Sir but one word with Maſter Docter, I com,</l>
+               <l>Well I will Compa<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e thee whatſoeuer befal.</l>
+            </sp>
+            <stage>Exit all but vallenger, and The Docter.</stage>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Well ſince the bride doth giue me leaue.</l>
+               <l>Ile bee ſo bould as to haue a Dance.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Docter, a word.</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>With me Sir, I with thée.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Men o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy ſort are ſworne to ſecreſie,</l>
+               <l>But further me and kéepe my counſell.</l>
+               <l>In that which I ſhall here impart to thée,</l>
+               <l>And Ile giue thée a Hundred pounds in gould.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>Sir heres my hand, whatſoeuer lies in me,</l>
+               <l>You ſhall comand my hart and ſecreſie,</l>
+               <l>It is enough then Docter thus much know,</l>
+               <l>Tho happely it may ſéeme ſtranng to thée.</l>
+               <pb facs="tcp:4894:8"/>
+               <l>That on my marriage day I ſhould tranſgreſſe</l>
+               <l>So far as now I muſt reueale to thée,</l>
+               <l>But think tis loue, blind loue that leads me on,</l>
+               <l>That conquers Gods, and much more mortall men.</l>
+            </sp>
+            <sp>
+               <speaker>doct.</speaker>
+               <l>Delay not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but ſpeake your mind at full.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Then thus in Briefe Anabel is my wife,</l>
+               <l>But <hi>florence</hi> is the Miſtris of my hart,</l>
+               <l>I loue her Docter, Doſt thou conſeaue me now,</l>
+            </sp>
+            <sp>
+               <speaker>doct.</speaker>
+               <l>How would you I ſhould help you in her loue,</l>
+               <l>Why now thou commeſt vnto the very maine.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Thou knoweſt her ſwéet hart Sentlo, hées the let.</l>
+            </sp>
+            <sp>
+               <speaker>doct.</speaker>
+               <l>And what way would you haue him remoued.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Why poyſoned man, a little dram will doote.</l>
+            </sp>
+            <sp>
+               <speaker>doct.</speaker>
+               <l>Poyſoned Sir, alas you know tis death.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>I if it be knowne but that ſhall neuer be,</l>
+               <l>Speake honeſt Doctor wilt thou doote for me,</l>
+            </sp>
+            <sp>
+               <speaker>doct.</speaker>
+               <l>Sir for your ſake although it touch me néere,</l>
+               <l>Héers my handile doote.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Cut Docter neuer feare.</l>
+               <l>Gold will ſalue all, and that thou ſhalt not want.</l>
+            </sp>
+            <sp>
+               <speaker>doct.</speaker>
+               <l>Sir Ile ſtrech mine art to do you good,</l>
+               <l>Tho ventring ſo it coſt my deareſt bloud,</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>thankes gentle Docter goe to <hi>florence</hi> ſtraife,</l>
+               <l>With in this houre Ile in the garden waite,</l>
+               <l>there bring her alone, Sentloe is ſure,</l>
+               <l>And as for <hi>Anabal</hi> her thoughtes be pure,</l>
+               <l>Sentloe once dead, Docter thou knoweſt my mind,</l>
+               <l>Faith anabell ſhe ſtaies not long be hinde,</l>
+               <l>Good Docter faile not, I muſt now to dinner,</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>doct.</speaker>
+               <l>Now heauen forgiue thée thy pernitious ſinnes</l>
+               <l>I poiſon Sen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loe, now the lord forſend.</l>
+               <l>that ſuch a thought ſhould enter in my breſt,</l>
+               <l>Bleſſed be the time I tooke a Docters ſhape,</l>
+               <l>For by this meanes Sentloe his death ſhall ſcape,</l>
+               <pb facs="tcp:4894:9" rendition="simple:additions"/>
+               <l>And louely Anabell her life ſet frée,</l>
+               <l>Falſe Vallenger ſhall be deceiu'd by me,</l>
+               <l>And that deceit is lawfull kind and iuſt,</l>
+               <l>That doth preuent his murder and his luſt,</l>
+               <l>And tho I haue faire Anabels loue loſt,</l>
+               <l>Yet Vallenger ſhall in this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ute be croſt.</l>
+            </sp>
+            <stage>Enter Frog and douse.</stage>
+            <sp>
+               <speaker>Frog.</speaker>
+               <l>Come douſe. Now we haue time and place as</l>
+               <l>They ſay, I prethée v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e me with no delay,</l>
+               <l>But ſtill ſay, do not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay you will not haue me,</l>
+               <l>Now becauſe I am none of your burgers,</l>
+               <l>But Douce as I am haſtie yet I am not the haſtieſt,</l>
+               <l>And though I am reſty, Yet I am not lowſie,</l>
+               <l>And of one that cannot talke much,</l>
+               <l>So I loue to ſpeake little, for as that</l>
+               <l>Worthy Philoſopher <hi>Hector</hi> ſes, the words</l>
+               <l>Of the wiſe do offend the fooliſh, ſo</l>
+               <l>Douce in few words and in tedious talke,</l>
+               <l>Tell me when is this day.</l>
+            </sp>
+            <sp>
+               <speaker>Douce.</speaker>
+               <l>What day Frog.</l>
+            </sp>
+            <sp>
+               <speaker>Frog.</speaker>
+               <l>What day Frog? doſt thou aſke what day,</l>
+               <l>why Douce this day of wedlock Douce,</l>
+               <l>This day of going together Douce,</l>
+               <l>This day of wearing out ſhéetes and</l>
+               <l>Throwing downe blanckets Douce.</l>
+            </sp>
+            <sp>
+               <speaker>Douce.</speaker>
+               <l>I ſaith Frog you know I haue little,</l>
+               <l>And for your owne part your as poore as <hi>Iob,</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Frog.</speaker>
+               <l>But not ſo ſcabed I thank God Douſe,</l>
+               <l>Well, I ſée you regard not the wiſdome</l>
+               <l>But the wealth, not the man: but the mony,</l>
+               <l>O Dowſe, Dowſe, much haſt thou to anſwere for.</l>
+            </sp>
+            <sp>
+               <speaker>Dous.</speaker>
+               <l>Beſids I think you do not loue me.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:9"/>
+               <speaker>frog.</speaker>
+               <l>Not loue thee, why I cannot dreſſe my maiſters</l>
+               <l>Horſes for thinking o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee: I cannot dream <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or</l>
+               <l>Sleeping o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee: but for a certainty,</l>
+               <l>I loue thee indeed, when <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> goe to bed</l>
+               <l>And pluck o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my ſhooes, there you may ſmell</l>
+               <l>Loue out of me: and then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſigh and then I pauſe,</l>
+               <l>And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay that <hi>Dowce</hi> is the onely cau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </speaker>
+               <l>Well Frog, I haue but ieſted all this while</l>
+               <l>Y ſaith Frog hadeſt thou bin ruled by me,</l>
+               <l>Thou hadeſt not bin Froging out of the well</l>
+               <l>So long: but Frog twas thy fault.</l>
+            </sp>
+            <sp>
+               <speaker>frog.</speaker>
+               <l>The more is to come <hi>Dowce,</hi> then you will</l>
+               <l>Haue me, we ſhall to this geere?</l>
+            </sp>
+            <sp>
+               <speaker>Dowce.</speaker>
+               <l>I ſweet hart, name you the time,</l>
+               <l>The <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooner the better.</l>
+            </sp>
+            <sp>
+               <speaker>frog.</speaker>
+               <l>So ſay I <hi>dowſe,</hi> for as the old <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aying is,</l>
+               <l>He that hath a good dinner, knowes better the way</l>
+               <l>To <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>upper: but <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> we will be married a ſunday,</l>
+               <l>And that we will be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poken to be liberall,</l>
+               <l>Weele giue ten grotes to the poore: with this</l>
+               <l>Prouiſſo, that if we neede it, weele haue our ten groats agin.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>dou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </speaker>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but afterwards will you not proue vnkind?</l>
+            </sp>
+            <sp>
+               <speaker>frog.</speaker>
+               <l>How <hi>dowſe</hi> vnkind?</l>
+               <l>When tinkers leaue to drinke good ale,</l>
+               <l>And Souldiers of their weapons faile,</l>
+               <l>When pedlers go without there pack,</l>
+               <l>And water is more deare then ſack,</l>
+               <l>When Shomakers drinks that is ſmall,</l>
+               <l>And Lawiers haue no tongues at all,</l>
+               <l>When Fencers leaue of giuing knocks,</l>
+               <l>And youngmen hate faire Maidens ſmocks,</l>
+               <l>When drunkerds ſcorne a copar noſe,</l>
+               <l>And Botchers nere mende lowſie hoſe,</l>
+               <pb facs="tcp:4894:10"/>
+               <l>Or when the cat ſhall hate a mouſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>then Frog ſhall proue vnkind to Dowſe,</l>
+               <l>and ſo ſweet hart lets goe and wed,</l>
+               <l>and after to dinner and then to bed.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>Enter the docter and his man.</stage>
+            <sp>
+               <speaker>doct.</speaker>
+               <l>Go Sirrha at the back doore,</l>
+               <l>Bring miſtris <hi>Anabel,</hi> make haſt away.</l>
+            </sp>
+            <sp>
+               <speaker>Ia.</speaker>
+               <l>I warrant you Sir. <stage>Exit.</stage>
+               </l>
+               <l>Well <hi>Vallenger</hi> if all things fall out right:</l>
+               <l>You ſhall haue little cauſe to thanke</l>
+               <l>The Docter, but héere he comes.</l>
+            </sp>
+            <sp>
+               <speaker>val,</speaker>
+               <l>How now Docter, what will <hi>Florence</hi> come,</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>She will be héere Sir, preſently, and ſée</l>
+               <l>You can no ſooner ſpeake but ſhe is come.</l>
+            </sp>
+            <stage>Enter Florence and Blunt.</stage>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Go Sirrha, do you tend at doore,</l>
+               <l>Let none come in vnles I call to you.</l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>I will, ſtraight fetch <hi>Sentloe,</hi> to this match,</l>
+               <l>Are you there Docter, y ſaith ile be euen with you.</l>
+            </sp>
+            <stage>Exit Blunt.</stage>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Swéet miſtris welcome.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>
+                  <hi>vallenger</hi> now by this light</l>
+               <l>Thou art the welcomeſt man in Chriſtendome.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Thanks gentle miſtris, but how if <hi>Sentlo</hi> come.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Hang him I neuer lou'd him in my life,</l>
+               <l>Only I gull the Raſcall for his money.</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>The more villaine <hi>vallenger</hi>
+               </l>
+               <l>To leaue his true wife for a common ſtall.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Now by this hand, I wonder <hi>vallenger,</hi>
+               </l>
+               <l>What delight thou takeſt in ſuch a wife,</l>
+               <l>But that ſhe is ſomwhat wiſe, and modeſt,</l>
+               <pb facs="tcp:4894:10"/>
+               <l>But to content a gallant ſpirit indéed,</l>
+               <l>By this light ſhe is a very block to me.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>hang her, I care not for her, our fathers made the match</l>
+               <stage>Enter anabell.</stage>
+               <l>Now with a diuill what whirle wind blew you hether?</l>
+               <l>How now minks, what make you heere.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>I hard my Vallenger was all alone,</l>
+               <l>If I offend thee loue, ile ſtraight begone,</l>
+               <l>yet I had rather ſtay and if you pleaſe.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Vallenger, what makes your minion héere,</l>
+               <l>What are you ieallious huſwife with a pox?</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>I pray you gentlwoman be not offended,</l>
+               <l>Pleaſe you my huſband and all ſhall be mended.</l>
+            </sp>
+            <sp>
+               <speaker>Va.</speaker>
+               <l>Goſip get home, or I ſhall ſet you packing.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>I haue a trick and if it fall out right,</l>
+               <l>Shall moue her patience ere ſhe part from hence.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>thou art to me, as bodie to the ſoule,</l>
+               <l>My life is death without thy companie.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>By my troth heere is an excellent rebato.</l>
+               <l>Would I had ſuch a one.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Likes it thee miſtris?</l>
+               <l>Heere take it, a worſe will ſerue your furne.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>Withall my hart, héere miſtris take <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</l>
+               <l>at home I haue a better, pleaſe you to goe</l>
+               <l>With me ile giue it you.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Heeres a wonderfull good faſhiond gown,</l>
+               <l>Ide ride my horſe twenty milles for ſuch another.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Huſwife, vncaſe, a worſe will ſerue your turne.</l>
+            </sp>
+            <sp>
+               <speaker>ana.</speaker>
+               <l>All that I haue ſweet Vallenger is thine,</l>
+               <l>and what is thine, thou boldly maiſt beſtow,</l>
+               <l>Giue all I haue, onely reſerue thy ſelfe.</l>
+               <l>and gentlewoman pitty my eſtate,</l>
+               <l>think that I am a woman as your ſelfe,</l>
+               <l>Had you a huſband that you loued ſo deere,</l>
+               <pb facs="tcp:4894:11"/>
+               <l>And ſee another rob you of his hart,</l>
+               <l>Would it not grieue you? Yes I know it will,</l>
+               <l>But yet I pray, for My ſake vſe him kind,</l>
+               <l>I am ſure heele deſerue it at your hands,</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Goe, get you hence, or elſe ile ſend you packing.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>I will ſweet loue, and where ſo e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thou art,</l>
+               <l>God ſend thee neuer a leſſe louing hart.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>Enter Sentloe and Blunt.</stage>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>
+                  <hi>vallenger,</hi> your a villaine to vſe me thus.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>
+                  <hi>Sentlo,</hi> the villaine I throw back againe,</l>
+               <l>And will maintaine mine honor with my ſword,</l>
+               <l>Draw <hi>vallenger,</hi> one of our deaths is nigh.</l>
+            </sp>
+            <stage>Here they drawe, Blunt and the Docter comes betweene them.</stage>
+            <sp>
+               <speaker>Blunt.</speaker>
+               <l>Go too, put vp <hi>vallenger,</hi> or ile make you.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Well <hi>sentlo</hi> another time ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erue for vs.</l>
+            </sp>
+            <stage>
+               <hi>Exit va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lenger and the Docter.</hi>
+            </stage>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>I prethée gentle loue be patient.</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Out ye Whore come not in my ſight,</l>
+               <l>For if thou doſt by heauen ile martir thée.</l>
+            </sp>
+            <stage>Exit Sentlo.</stage>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Cauleſt thou me whore, now by this light</l>
+               <l>Ile haue thée murdred, and if gold can do it.</l>
+            </sp>
+            <sp>
+               <speaker>Blunt.</speaker>
+               <l>Gold can do much, but deuill can do more,</l>
+               <l>Héere is a true paterne, of a common whore.</l>
+               <l>Miſtris what meanes my maiſter to part in ſuch a rage.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>For<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooth the Gentleman is Iellious,</l>
+               <l>But I would quickly rid him of that Feuer,</l>
+               <l>And if thou wouldeſt Blunt but con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent with me.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:11"/>
+               <speaker>Blunt.</speaker>
+               <l>What is if Miſtris, it ſhall goe hard</l>
+               <l>Shall make me ſtack in what ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> profit you,</l>
+               <l>Although you ſtill thought that I loued you not.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Now Blunt I ſée it, and will report thy loue,</l>
+               <l>And for aſigne héere take this purſe of gold,</l>
+               <l>And now but marke the iſſue of my purpoſe.</l>
+               <l>Thou Séeſt that Sentloes coine: begins to wear,</l>
+               <l>And Vallenger is euen now on the ſpur,</l>
+               <l>And for my ſake will empty all his treaſure,</l>
+               <l>And what I haue I will impart to thée,</l>
+               <l>But murder Sentlo, then is Florence frée.</l>
+            </sp>
+            <sp>
+               <speaker>Blunt.</speaker>
+               <l>Miſtris if this ſhould be done,</l>
+               <l>a craſh of your office were not caſt away.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Feare not Blunt we w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll not ſtick for that.</l>
+            </sp>
+            <sp>
+               <speaker>Blunt.</speaker>
+               <l>Then héeres my hand, before the ſun go downe,</l>
+               <l>Ile do the déede Sentlo ſhall ſhortly die.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>The déed being done come preſently to me,</l>
+               <l>And we will frollick in his tragedy.</l>
+            </sp>
+            <stage>Exit florence.</stage>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>O Sentlo, wert not for thy friend,</l>
+               <l>How many dangers hadeſt thou fallen into,</l>
+               <l>The miſchi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> now abroach I did foretell,</l>
+               <l>For by my meanes thy life in ſafety dwelles.</l>
+            </sp>
+            <stage>Exit sentloe.</stage>
+            <stage>The drunken mirth.</stage>
+            <stage>Enter sir Godfrey, Euſtice, and the docter, Anabel in her waſtcote.</stage>
+            <sp>
+               <speaker>God.</speaker>
+               <l>O my déere daughter how could he vſe thée thus?</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>My ſon rob thée of thy faire O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naments.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>And for a ſtrumpets loue, O God, O God.</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>Split ſoule a ſunder, that thy ſons ſo vild.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Giue me my child (Sir Euſtice) as ſhe is,</l>
+               <pb facs="tcp:4894:12" rendition="simple:additions"/>
+               <l>A vertuous maid diſhonored by thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on.</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>Giue me my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, that I may puniſh him,</l>
+               <l>For wronging this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aire ſlower thy worthy child.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Alack good knight, I make my mone to thée,</l>
+               <l>And thou in true loue canſt but pitty me.</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>Alas good knight, my griefs ſo iumps with thine,</l>
+               <l>That as I wéepe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or thée, ſo pitty mine.</l>
+            </sp>
+            <stage>Enter the Mother.</stage>
+            <sp>
+               <speaker>Mo.</speaker>
+               <l>Where is my child, where is my Anabell?</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Héer wife, let vs hold hands, and in thrée parts,</l>
+               <l>Lets ſing around, and ſo wéep out our harts.</l>
+            </sp>
+            <sp>
+               <speaker>Mo.</speaker>
+               <l>How could the wretch (deare <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oule) abu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thée ſo.</l>
+            </sp>
+            <sp>
+               <speaker>ana.</speaker>
+               <l>Call him not wretch, he is wretched but by me.</l>
+               <l>In mee conſiſts the cau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of all this wo,</l>
+               <l>Faire <hi>Florence</hi> is the miſtris of his hart,</l>
+               <l>To her I am but as a Counterfit,</l>
+               <l>Rather I am an ethyop, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oule, deform'd</l>
+               <l>And therefore hated of my Vallenger.</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>O Beautious maid, blemiſh not thy name,</l>
+               <l>Thou art Heauenly bright, and ſhe as black as hell.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Should any but my Anabell ſay ſo,</l>
+               <l>Tho age hath ſet his foote vpon my back,</l>
+               <l>I would maintaine thy Beauty,</l>
+               <l>Sweare thou wert faire,</l>
+               <l>Nay more then that, defend it with my ſword.</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>Sir God-frey, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o would I, by heauen I would,</l>
+               <l>I, wert againſt that fugetiue my ſon,</l>
+               <l>Fugetiue in forſaking of his wife</l>
+               <l>To lead the race of an intemprat life.</l>
+            </sp>
+            <sp>
+               <speaker>Mo.</speaker>
+               <l>Héere me but one word, gentle maiſter Docter,</l>
+               <l>The Lord be with the vertuous Challener where ere he</l>
+               <l>Be, Sir he ſhould haue had my child,</l>
+               <pb facs="tcp:4894:12" rendition="simple:additions"/>
+               <l>Good honeſt Gentleman he ſhould,</l>
+               <l>And I repent me twenty hundred times,</l>
+               <l>So my goodman forſooth would néeds</l>
+               <l>Make vp the match with this ſame vnthrift,</l>
+               <l>And now you ſée how he doth vſe my child, alas.</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>This is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome com<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ort in this depth of wo,</l>
+               <l>Thy vertue is preferd be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore thy foe,</l>
+               <l>Why then tell them boldly who thou art,</l>
+               <l>No be ſtill the Docter, hold thy courſe begun,</l>
+               <l>There is more a foote, then will in haſt be done.</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>Brother, it ſhall be ſo, he ſhall not haue</l>
+               <l>A graue roome of my Land.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>He ſpends no goods of mine vpon his trull.</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>Cut off all maintenance, that is the way</l>
+               <l>To make him ſée his ſin.</l>
+            </sp>
+            <sp>
+               <speaker>ana.</speaker>
+               <l>O ſay not ſo, déere father héele repent,</l>
+               <l>And I ſhall haue a huſband o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> new birth.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>Girle, thou art to fooliſh, ſo are we to long,</l>
+               <l>Sufferance in this may grow to further wrong.</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>To further wrong indéed, for <hi>Vallenger</hi>
+               </l>
+               <l>Hath hired me to poyſon Anabell.</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>What his true harted wife?</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>Delay is worſe to danger, credit me,</l>
+               <l>And by that plot Sentlo muſt likewiſe die.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>Bleſſed be the houre that euer y<hi rend="sup">u</hi> camſt to briſto.</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>A Docter of more honeſty there liues not.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>Were he our ſon a thouſand times,</l>
+               <l>We muſt not let him be a murderer.</l>
+            </sp>
+            <sp>
+               <speaker>ana.</speaker>
+               <l>Good Father let it ſuffice you know it,</l>
+               <l>And may preuent it follow it then no further.</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>O thou that rules the lotery of life,</l>
+               <l>Why ſhould a bad man haue a vertuous wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>Or a bad wife, haue a huſband that is good,</l>
+               <l>Doſt thou delight in contraryeties,</l>
+               <pb facs="tcp:4894:13"/>
+               <l>Then Wherfore do we ſtriue for vertue ſtill,</l>
+               <l>When we are maiſtred by a greater will,</l>
+               <l>Come good old man, come myrror of true wiues,</l>
+               <l>O let my hart with your harts ſimpathiſe,</l>
+               <l>although I am no kinſman to lament,</l>
+               <l>In your diſtres i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gruf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as deeply ſpent.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Docter, brother, whats to be done.</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>Gods me we muſt go apprehend him ſtrait.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>There is no dallying in a matter of ſuch wait,</l>
+               <l>And therefore let vs not be ſlack in this,</l>
+            </sp>
+            <sp>
+               <speaker>euſt,</speaker>
+               <l>No, no, brother with your men,</l>
+               <l>Beſet you Sentloes houſe he may be there,</l>
+               <l>I and my men, will poſt another way,</l>
+               <l>No place ſhall be vnſought,</l>
+               <l>But we will haue him.</l>
+            </sp>
+            <stage>Exit the two old men.</stage>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>Good mother ſtay them</l>
+               <l>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is their iourney forth,</l>
+               <l>May breed ſome miſchiefe,</l>
+               <l>Therefore call them back againe.</l>
+            </sp>
+            <sp>
+               <speaker>Mo.</speaker>
+               <l>Thou art to fooliſh girle, let them go,</l>
+               <l>thou ſéeks his loue, that is thy mortall foe.</l>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <l>O thou art framd of conſtancie thy ſelfe,</l>
+               <l>Challener what a iewell dideſt thou loſſe,</l>
+               <l>By ſhoing it vnto thy faithles friend,</l>
+               <l>and how like droſſe doth he account of it,</l>
+               <l>Come vertuous maiden wipe thoſe cryſtiall eies,</l>
+               <l>thou weepes for loue of him which loue defies,</l>
+               <l>Lets in to counſell what may beſt relieue,</l>
+               <l>Where teares and ſorrow giues men cauſe to grieue.</l>
+            </sp>
+            <stage>Exit Omnes.</stage>
+            <stage>Enter vallenger.</stage>
+            <sp>
+               <speaker>va</speaker>
+               <l>What ſpightfull fortune Vallenger is this,</l>
+               <pb facs="tcp:4894:13"/>
+               <l>this villaine Docter hath betraide my truſt,</l>
+               <l>and to my father all my plots reuealed,</l>
+               <l>Who flat denies me ſuccor or reliefe,</l>
+               <l>I dare not I be ſeene within the citty,</l>
+               <l>For then there is no way but ſtraight to priſon,</l>
+               <l>Ile call to miſtris Florence I know that ſhe is kind,</l>
+               <l>to her ile ſhow my griefe and my ſick mind,</l>
+               <l>Ho, miſtris Florence.</l>
+            </sp>
+            <stage>Enter Florence.</stage>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Whoſe there, ſwéet Vallenger iſt thée,</l>
+               <l>Why doſt thou looke ſo ſad, how faires my deare?</l>
+            </sp>
+            <sp>
+               <speaker>Va.</speaker>
+               <l>Y ſaith neuer worſe, but all my hopes in thée,</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>What is it ſwéet I will not do for thée?</l>
+            </sp>
+            <sp>
+               <speaker>Va.</speaker>
+               <l>My Father and my wife knowes all my drift,</l>
+               <l>And all inraged, threatens to be reuengd,</l>
+               <l>And will not let me haue no maintenance,</l>
+               <l>But ſweares to plague me for my wickednes.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Is the wind in that doore,</l>
+               <l>What would you haue me do?</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>To let me liue with thée a little ſpace,</l>
+               <l>Vntill I haue obtained my Fathers grace,</l>
+               <l>Then what I haue ſwéet miſtris ſhall be thine.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>And what ſhall I do, beg the while,</l>
+               <l>No Vallenger your deceaued in me,</l>
+               <l>think you that ile be priuy to your plotes,</l>
+               <l>to bring my ſelfe in danger of the Law,</l>
+               <l>Go to your wife and cheriſh her at home,</l>
+               <l>I do not like theſe wanton humors I.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>I hope ſweet Florence that you do but ieſt.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Be ſhrow my hart then, do not take it ſo,</l>
+               <l>Pray leaue my houſe, leaſt your father come.</l>
+            </sp>
+            <sp>
+               <speaker>va,</speaker>
+               <l>Giue me houſe-roome Florence but to night,</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:14"/>
+               <speaker>Flo.</speaker>
+               <l>Not an houre, ſhall I haue my reputation</l>
+               <l>Touched for thée, if you linger héere,</l>
+               <l>Ile ſend for the Officers to diſcharg my ſelfe.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>It is euen thus, well what remedy:</l>
+               <l>Lie in the fields wretch, there diſpaire and die.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Pray God that <hi>Sentloe</hi> be not murdred now,</l>
+               <l>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en all my hopes are loſt.</l>
+            </sp>
+            <stage>Enter Blunt.</stage>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>How now <hi>Blunt</hi> what newes?</l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>
+                  <hi>Sentlo</hi> hath drunk his laſt, the déed is done.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Then are we vndone <hi>Blunt?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>Why, wherefore.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>The poore deiected <hi>Vallenger</hi> was héere,</l>
+               <l>As dry as duſt not left a ſingle doyt,</l>
+               <l>His father vowes to follow law of him,</l>
+               <l>Well, would that <hi>Sentlo</hi> were aliue againe.</l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>Tis done, and therefore now there is no help.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Yes <hi>Blunt,</hi> thers help, but marke a womans wit,</l>
+               <l>
+                  <hi>Vallenger</hi> is but new gone out of doores,</l>
+               <l>Go follow him, and mark where he lies downe,</l>
+               <l>And if thou ſéeſt he is inclinde to ſléepe,</l>
+               <l>Lay Sentloes murdred body hard by him,</l>
+               <l>Pluck out his ſword, and all be bloudy it,</l>
+               <l>And then cry murder as if he dyd the déed,</l>
+               <l>About it <hi>Blunt,</hi> do not the ſame neglect,</l>
+               <l>And then we two are frée from all ſuſpect.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Feare not this ſhalbe done effectually.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Then farewell, come to me when tis done,</l>
+               <l>Meane while ile home, and ſtur not out of doore. <stage>Exit.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>The diuell take thée for a filthy whore,</l>
+               <l>Thou art apt enough in murder, and in luſt,</l>
+               <l>But like a ſtone in any thing is honeſt,</l>
+               <pb facs="tcp:4894:14"/>
+               <l>Well, ere to morrow many thinges will chang,</l>
+               <l>That dead men ſhould reuiue, it would ſéeme ſtrang,</l>
+               <l>Now after <hi>Vallenger</hi> I mean to goe,</l>
+               <l>To ſée in what place he doth himſelfe beſtow.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>Enter Sentlo very drouſie.</stage>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>I wonder that I am ſo dull and heauy,</l>
+               <l>My féete doth ſtumble, as I go along,</l>
+               <l>Mine eies hangs downe, as if I had not ſlept</l>
+               <l>This twenty daies, pray god it be for good.</l>
+               <l>Still more and more: well, I muſt néeds lie downe,</l>
+               <l>And make my pillow of the graſſe and ground.</l>
+            </sp>
+            <stage>He lies downe and falles a ſleepe, Enter Vallenger.</stage>
+            <sp>
+               <speaker>va.</speaker>
+               <l>How yrkeſome is the day vnto my eies,</l>
+               <l>My cheeks do bluſh for to behold the ſkies,</l>
+               <l>Methinks the heauens doth frowne vpon my ſin,</l>
+               <l>And to repentance bids my hart begin,</l>
+               <l>the earth do burne my feete with ſcorching fire,</l>
+               <l>Becauſe that all as hot was my deſire,</l>
+               <l>So heauen and earth, my practiſe doth confound,</l>
+               <l>Yet muſt I be beholding to the ground,</l>
+               <l>My griefe is héer, ſléep doth follow ſorrow,</l>
+               <l>heere reſt thy wretched carkas till to morrow.</l>
+            </sp>
+            <stage>Here he lies downe to ſleepe. Enter Blunt.</stage>
+            <sp>
+               <speaker>Blu</speaker>
+               <l>This way he went, and here he is laid to ſleepe,</l>
+               <l>And <hi>Sentlo</hi> by him, this is excellent:</l>
+               <pb facs="tcp:4894:15"/>
+               <l>Now <hi>Harbart</hi> ſince thou haſt don him all this good,</l>
+               <l>For once be a littell lauiſh of thy blood.</l>
+            </sp>
+            <stage>Heere he ſtabs his arme, and blodies Sentloes face, and pluckes out vallingers ſword and blodies it, and laies it by him.</stage>
+            <sp>
+               <speaker>Blo.</speaker>
+               <l>The Potion I gaue <hi>sentloe</hi> to drink,</l>
+               <l>Doth make him ſéeme to all as he were dead,</l>
+               <l>And yet his time is not come to wake:</l>
+               <l>Now will I raiſe the wach. Murder, murder.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>Vallinger ſtartes vp.</stage>
+            <sp>
+               <speaker>val.</speaker>
+               <l>What noiſe is that affrites mine eares</l>
+               <l>With murder, I laid me downe to ſléepe,</l>
+               <l>Whats here: My ſword drawne out and blody</l>
+               <l>And heres a gentleman new murdred,</l>
+               <l>Some villaine ſurely that hath don this déed,</l>
+               <l>Hath laid this murdred body here by me,</l>
+               <l>So by that meanes himſelfe might be thought frée.</l>
+               <l>If it be ſo, why then moſt hapie I,</l>
+               <l>that hates to liue, and hath ſuch meanes to dy.</l>
+            </sp>
+            <stage>Enter the Conſtable and officers.</stage>
+            <sp>
+               <speaker>Con.</speaker>
+               <l>Se heres the murdred body, and here the murdrer,</l>
+               <l>I chardge you in the kings name</l>
+               <l>Deliuer vp your weapons: And goe along with vs</l>
+               <l>With all my hart, ſée ther my weapons are,</l>
+               <l>And cary me whereſoere you pleaſe</l>
+            </sp>
+            <stage>Exit with vallinger.</stage>
+            <sp>
+               <speaker>Con.</speaker>
+               <l>Goe to priſon with him preſently,</l>
+               <l>the reſt bring in this murdred body.</l>
+            </sp>
+            <stage>
+               <pb facs="tcp:4894:15"/>
+               <hi>Enter Blunt in his owne ſhape.</hi>
+            </stage>
+            <sp>
+               <speaker>Blo.</speaker>
+               <l>God ſaue you ſir, I here it rumored,</l>
+               <l>a gentleman is ſlaine.</l>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <l>I ſir a proper man, and here he lies.</l>
+            </sp>
+            <sp>
+               <speaker>Blo.</speaker>
+               <l>O noble ſentloe doſtly ſoe lowe,</l>
+               <l>Breake hart aſſonder that thy frend is ſlaine.</l>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <l>Sir, do you knowe the gentleman.</l>
+            </sp>
+            <sp>
+               <speaker>Blo.</speaker>
+               <l>Yes ſir, he was my louing friend,</l>
+               <l>And we at oxford fellow Pupels were,</l>
+               <l>Then good ſir let me in kindneſſe craue,</l>
+               <l>That as I allwaies lou'd him in his life,</l>
+               <l>ſo I may haue his body at his death.</l>
+               <l>That I may giue him Criſtian burial,</l>
+            </sp>
+            <sp>
+               <speaker>Con.</speaker>
+               <l>With all my hart, weel leaue him with you ſir,</l>
+               <l>and I am ſory fer for your heauines.</l>
+            </sp>
+            <sp>
+               <speaker>Blo.</speaker>
+               <l>So this goes well, once</l>
+               <l>Ile be blont again.</l>
+               <stage>Exit conſtable.</stage>
+               <l>For now the times drawes on of his awake.</l>
+            </sp>
+            <stage>Sentloe riſes.</stage>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>I neuer ſlept more ſoundly in my life,</l>
+               <l>But ſtay, how comes my hands ſoe blody,</l>
+               <l>So is my face, me thinkes, ſtay heres my man.</l>
+               <stage>Enter blunt amaſed.</stage>
+               <l>Why how now blont why ſtares thou ſo vpon me,</l>
+            </sp>
+            <sp>
+               <speaker>Blo.</speaker>
+               <l>are you aliue ſir,</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Didſt thou ſet any body to kill me.</l>
+            </sp>
+            <sp>
+               <speaker>Blo.</speaker>
+               <l>Not I ſir but wicked Florance did,</l>
+               <pb facs="tcp:4894:16"/>
+               <l>And hadeſt bin ſlaine, had it not bin for me,</l>
+               <l>Sentloe behould thou <hi>Harbert</hi> and thy friend,</l>
+               <l>That thus hath wayted on thée like thy man,</l>
+               <l>To ſaue thée from a thouſand miſeries,</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>I am a maſd, and knowe not what to ſay</l>
+               <l>O my deare <hi>Harbart:</hi> O my louing frend.</l>
+            </sp>
+            <sp>
+               <speaker>Harb.</speaker>
+               <l>Leaue of imbracments till ſome other time,</l>
+               <l>The king is com to Briſtow, newly landed,</l>
+               <l>Come as we goe along Ile tell thée all,</l>
+               <l>Things wonderfull that yet thou dreamſt not off.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>Enter king Richard, Leiceſter, and Richmond.</stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>All haile thou bleſſed boſome of my peace,</l>
+               <l>Richard findes inſtance of his home returne,</l>
+               <l>Briſtow, thou hapie rode where firſt Iland,</l>
+               <l>Doth welcome me now from the holy land.</l>
+               <l>Send word to London of our ſafe ariuall,</l>
+               <l>While we awhile in Briſtow heere repoſe vs.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>Fame with her braſen trump hath born this tidings hether.</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>And Briſtow with their Cittizens expreſſe,</l>
+               <l>Their gladnes by their tryumphe, at your ſafetie.</l>
+            </sp>
+            <sp>
+               <speaker>Kin.</speaker>
+               <l>And we with you will put theſe triumphs on,</l>
+               <l>But for this vnlucky accident,</l>
+               <l>Which makes old <hi>Euſtice</hi> and <hi>Vmphreuil</hi> ſad</l>
+               <l>Which grieues me for the noble gentlemen.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>By bleſſed Saint Paule my liedg I cannot brook it</l>
+               <l>to ſée my child, my aire, my <hi>Anabell,</hi>
+               </l>
+               <l>this heere: what a wretch was this?</l>
+               <l>Now by ſaint Charity if I were iudge,</l>
+               <l>a halter were the leaſt ſhould hamper him.</l>
+            </sp>
+            <sp>
+               <speaker>euſt.</speaker>
+               <l>Tho nature wraſſels with my ſtaied reaſon,</l>
+               <pb facs="tcp:4894:16"/>
+               <l>and willes me plead for mercie for my ſon,</l>
+               <l>yet iuſtice with impartiall wings directs,</l>
+               <l>My thoughts from pitty, and my words for right,</l>
+               <l>My liedg to make an entrance to your fame,</l>
+               <l>Regard <hi>Vmphreviles</hi> wrong, puniſh my ſon,</l>
+               <l>I cannot loſe him better then by law,</l>
+               <l>Nor is he loſt that doth example giue,</l>
+               <l>Of ſweet amends to ſuch as leudly liue.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Vertue commends thy courſe, and patience his,</l>
+               <l>In both I pitty, what you both deſire,</l>
+               <l>If iuſtice could be glaſed with pitties wings,</l>
+               <l>Call for the priſoner, let vs crowne the time,</l>
+               <l>With iuſtice, for theſe honorable men.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>Haue mercy Richard, mercy in a king,</l>
+               <l>Is like the péereles Diamond ſet in gold,</l>
+               <l>he out of enuy and of fury ſpeaks,</l>
+               <l>I out of loue and paſſion plead for him.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>What pleaſing aduocate hath pitty raiſ'd,</l>
+               <l>To plead the priſoners cauſe, himſelfe not there.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>One that doth beare the greateſt griefe of all,</l>
+               <l>The haples wife of wofull <hi>Vallenger.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Why thou art wrong'd, therfore ſhouldeſt claime,</l>
+               <l>Reueng for thée, and iuſtice for thy huſband.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>Reuedg for me my Lord, nay that cannot be,</l>
+               <l>vnles a ſtrang deuiſſion may be had,</l>
+               <l>For I that am as néerely knit to <hi>Vallenger</hi>
+               </l>
+               <l>as bodie to the ſoule, cannot ſuppoſe</l>
+               <l>an iniury, But think his loſſe,</l>
+               <l>To be my miſerie and chiefeſt croſſe.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Hath he not ſought thy bloud thou fooliſh girle?</l>
+            </sp>
+            <sp>
+               <speaker>Ana</speaker>
+               <l>He ſought no more then I can fréely giue,</l>
+               <l>and ſacrefiſe to death ſo he may liue.</l>
+            </sp>
+            <sp>
+               <speaker>Mo.</speaker>
+               <l>Did he not keepe a harlot to deſpight thée.</l>
+            </sp>
+            <sp>
+               <speaker>ana.</speaker>
+               <l>And if he mend that fault he ſoone may right me.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:17"/>
+               <speaker>God.</speaker>
+               <l>He gaue thy ornaments to deck his trull.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>And my conſent did ratefie his guift.</l>
+            </sp>
+            <sp>
+               <speaker>Mo.</speaker>
+               <l>Well he hates thée.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>To try my patience, all that he did or gaue,</l>
+               <l>Or did contriue conſerneth me,</l>
+               <l>his act was my allowance.</l>
+               <l>Now ſince my ſelfe, accuſe not, but excuſe.</l>
+               <l>Since ſhe that was ſuppoſed to be wronged,</l>
+               <l>Doth right that wrong, be iuſt and ſet him frée,</l>
+               <l>For I proteſt I know no iniury.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>She knowes no iniurie, my Lord ſhe lies,</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Sir God-frey ſince your daughter doth</l>
+               <l>Remit his fault, methinks you ſhould forgiue him,</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>Forgiue him, no not I the wretch ſhall neuer boſt,</l>
+               <l>That he hath braued old <hi>God-frey</hi> in a iuſt</l>
+               <l>And honeſt cauſe. Ile touch him I,</l>
+               <l>I and tuch him to the quick,</l>
+               <l>No leſſe then for his neck verſe will I touch him,</l>
+               <l>Docter ſtand foorth and to my prince and péeres,</l>
+               <l>Say what thou know'ſt of Sentloes bloudy death</l>
+            </sp>
+            <sp>
+               <speaker>Cha.</speaker>
+               <l>Then this I bow before your Maieſty,</l>
+               <l>That Vallenger corrupted me by gold,</l>
+               <l>to poiſon <hi>Anabel,</hi> and Sentloe to.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>Intents are nothing till they come to acts.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>and miſtris is not Sentloe dead in act.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>Sentloe is dead, my maiſters bloudy death,</l>
+               <l>ſhould quicken iuſtice in your maieſty.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>thou ſhalt haue iuſtice to thy owne content.</l>
+            </sp>
+            <sp>
+               <speaker>Cha.</speaker>
+               <l>O how I grieue to ſee her briniſh tears,</l>
+               <l>Water the Crimſon roſes of her cheeks.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>Had not my wit preuented this before,</l>
+               <l>Nor you nor ſhe, had neuer ſorrowed more.</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>You come my ſon: what ſaid I? No my ſhame:</l>
+               <l>O let his bloud my liedge redéeme the ſame.</l>
+            </sp>
+            <stage>
+               <pb facs="tcp:4894:17"/>
+               <hi>Enter vallènger and officers.</hi>
+            </stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Yong Vallenger thou art héere,</l>
+               <l>Accu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed for Anabell,</l>
+               <l>And murdering Sentloe that is dead,</l>
+               <l>Speak, art thou guilty. I or noe.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Guilty in both my Lord, and héere for both</l>
+               <l>Ready to pay the penallty of my life,</l>
+               <l>Tho in my ſoule and conſcience I am cléere,</l>
+               <l>Of Sentloes death, yet welcome happie lot,</l>
+               <l>That ſo ſhall rid my life of that foule ſpot.</l>
+            </sp>
+            <sp>
+               <speaker>ana.</speaker>
+               <l>Alas poore ſoule, how griefe and his diſgrace,</l>
+               <l>Doth make him deſprate, behold his face.</l>
+               <l>From thence ſpeaks truth, as from an Orackle,</l>
+               <l>That he is innocent, tho his words accu e him.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Well Vallenger atend thy ſentence.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>Pronounce not ſentence yet, right royall king.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>What lawfull ſtay canſt thou impart to vs.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>A ſtay to ſtraighten iuſtice and the truth,</l>
+               <l>My conſcience charged with this hainous crime,</l>
+               <l>Makes me con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe tho to my harts true griefe,</l>
+               <l>That by thinticements of lewd Florence and her guiſts,</l>
+               <l>I ſhould haue murdred Sentlo, my déere maiſter,</l>
+               <l>I therefore think that through her wickednes</l>
+               <l>She is the cauſe of all theſe villainies.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Poſt officers, and fetch her to our preſence.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>A weake delay to hinder my ſtrong faith.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>I euer thought that Harlot would be one.</l>
+               <l>Sée how that bold <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace ieats it like a bride.</l>
+            </sp>
+            <stage>Enter florence.</stage>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Health to the king, good fortune to the péeres.</l>
+            </sp>
+            <sp>
+               <speaker>Moth.</speaker>
+               <l>A boulder quean ther liude not this many years.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:18"/>
+               <speaker>King.</speaker>
+               <l>My pearcing iudgment, through the brittle glaſſe,</l>
+               <l>Of that fraile beauty, doth deſerne her looſenes,</l>
+               <l>Lady ſtand forth.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>I entertaine that name moſt royall king,</l>
+               <l>And boldly come héere to cléere my ſelfe,</l>
+               <l>Of any thing that ſhall be laid againſt me.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>You are héere acuſed as acceſſarie,</l>
+               <l>Vnto Sentloes death, ſpeake are you guilty I or no.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Doth this diſgraced ſon of that proud man,</l>
+               <l>Charg me with theſe ſurmiſes before the king.</l>
+            </sp>
+            <sp>
+               <speaker>Va.</speaker>
+               <l>Thou haſt not murdred him, but my renowne,</l>
+               <l>His death, this hand my death of fame doth wound.</l>
+            </sp>
+            <sp>
+               <speaker>Cha.</speaker>
+               <l>Thus luſt makes yong mens miſſery her law.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Who then dares tuch my reputation?</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>Looke there on thy accuſer, that is he.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>This coriſh lumpe of fleſh, this ſhaghaird ſlaue,</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>Aplie thy ſpéech proud woman to the place,</l>
+               <l>Speake reuerently in preſence of the King.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Lady we ſtand not vpon words,</l>
+               <l>But one the proffe, and eſtimate of right,</l>
+               <l>Sirtha, ſtand forth: and fréely ſpeake the truth.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>The wretch my Lord that neuer did offend,</l>
+               <l>Fears not to die, I charge thée Florence</l>
+               <l>Of my maiſters death: Moreouer, I charg thée</l>
+               <l>That with this purſe of maſſie gold</l>
+               <l>Thou didſt bribe me,</l>
+               <l>To murder <hi>Sentloe, Sentlo</hi> that is dead.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>I bribe thée, with what falſe-hood doſt thou vrge me.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>Let Vallenger be aſked what purſe this is,</l>
+               <l>Looke on it Ladies, marke it, for you know it.</l>
+            </sp>
+            <sp>
+               <speaker>Ana</speaker>
+               <l>This purſe was mine.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>This purſe I gaue to Florence.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Then with this purſe, we holdly may conclude</l>
+               <l>that ſhe did bribe Blunt to murder <hi>Sentloe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:18"/>
+               <speaker>Euſt.</speaker>
+               <l>Looke on her face my Lord, her couller changeth.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Am I diſcride, ſhall yonder coriſh ſlaue,</l>
+               <l>By blabing tongue bring me to infamy,</l>
+               <l>No tho I aſſure my death, ile further his.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Your anſwere Florence, what debate you there<g ref="char:punc">▪</g>
+               </l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>My anſwere ſhall be reſolute and true,</l>
+               <l>Worthy the vallor of a womans mind,</l>
+               <l>To bad for thée, thou lumpe of infamy.</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>Nothing but badnes is from bad deriued.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Moſt mighty king, I fréely do confes,</l>
+               <l>That curſed Blunt conſented to murder Sentloe,</l>
+               <l>This is the truth of all, liue I or die.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>Lewd is her life my Lord, and loſe her toong.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Well take them aſide,</l>
+               <l>In Florence I obſerue her impudence,</l>
+               <l>In Vallenger diſpaire, in Blunt remorce,</l>
+               <l>In theſe thrée laſt front terror,</l>
+               <l>Call them agen, attend your ſentence all,</l>
+               <l>Firſt Vallenger, thou ſoughteſt to poiſon Anabell thy wiſe,</l>
+               <l>Since by aparent proffe Sentlo is ſlaine,</l>
+               <l>Our ſentence is reſpectiue for thy good,</l>
+               <l>A noble death: the loſſe of thy lewd head,</l>
+               <l>Blunt, and this honeſt Florence,</l>
+               <l>Both for committing and concealing murder,</l>
+               <l>Muſt one the gallowes die, this is our ſencence.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>No act is proued in me right royall king.</l>
+            </sp>
+            <sp>
+               <speaker>King</speaker>
+               <l>Her words approue thy act, thy act her will.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>My faults is in conſealment, not attempt.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>His fault is murder, hang vs all my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>
+                  <hi>Harbart</hi> for all your kindnes to my ſon,</l>
+               <l>Ile ſée you ſhortly caper in a cord.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Sée then you hang vs cloſely, then my Lord</l>
+               <l>To kis in death, as we haue kiſt in life.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>Boſt not thy ſhame, nor ſhame thou womanhood,</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:19"/>
+               <speaker>Flo.</speaker>
+               <l>Alack good god, how holy is ſhe growen,</l>
+               <l>ſhe loues the fleſh, yet dares not make it knowne.</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>I do imbrace the law, as plea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed to die,</l>
+               <l>Father forgiue the follies of my youth,</l>
+               <l>Vmphrevill, let me beare to heauen</l>
+               <l>Vpon the wings o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my vnfained repentance,</l>
+               <l>My ſorrow héere indented in my tears,</l>
+               <l>And thou indued wonder of thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>exe,</l>
+               <l>Forgiue the wrongs that I haue done to thee,</l>
+               <l>That I may go with peace vnto my death.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Away with them,</l>
+               <l>To morrow <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ée execution be per<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormd,</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>O mercy Richard, ſhow ſome mercy,</l>
+               <l>Will Vallenger in ſilence loſſe his ſon,</l>
+               <l>And harder then the <hi>Penerian</hi> rockes,</l>
+               <l>Neuer be perſt,</l>
+               <l>Although the Father will not, Richmond plead:</l>
+               <l>And if that Richmond dare not, Lieſtor ſpeak,</l>
+               <l>O ſée the time fléets hence with Swolloes wings,</l>
+               <l>Time runs: O Gratious king be mercifull.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Lady I cannot breake the limites of the law,</l>
+               <l>A wilfull murder muſt be paid with death,</l>
+               <l>Yet bring me a man that willingly will yéeld</l>
+               <l>Sufferance of death, to ſaue yong Vallenger,</l>
+               <l>And he ſhall liue, elſe hope no further grace:</l>
+               <l>Atend our further pleaſurs at the court.</l>
+            </sp>
+            <sp>
+               <speaker>ana.</speaker>
+               <l>This is ſome comfort, happie Anabell,</l>
+               <l>Now ſhow thy ready and thy womans wit.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>How ſhall he liue in one will die for him,</l>
+               <l>Well Vallenger, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou haue ſuch a friend:</l>
+               <l>Thou art happie, but I mean to ſée the end.</l>
+            </sp>
+            <stage>Exit Challener.</stage>
+            <stage>
+               <pb facs="tcp:4894:19"/>
+               <hi>Enter Sentloe like a frier.</hi>
+            </stage>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Thus like a frier I haue diſguiſed my ſelfe,</l>
+               <l>To ſée my déere friend, that hath ſaued my life,</l>
+               <l>And that ſame ſtrumpet that</l>
+               <l>Would haue cauſed my death.</l>
+               <l>A harlots loue, is like a chimney ſmoke,</l>
+               <l>Quiuering in the aire betwéene two blaſts of winde,</l>
+               <l>Borne heere and there by either of the ſame,</l>
+               <l>And properly to none of both inclind,</l>
+               <l>Hate, and diſpaire, is painted in their eies,</l>
+               <l>Deceit, and treaſon, in their boſſome lies:</l>
+               <l>Their promiſes, are made of brittle glaſſe,</l>
+               <l>Ground like a phillip, to the fineſt duſt,</l>
+               <l>Their thoughts like ſtreaming riuers ſwiftly paſſe,</l>
+               <l>Their words are oyle, and yet they geather ruſt,</l>
+               <l>True are they neuer found, but in vntruth:</l>
+               <l>Conſtant in nought, but in vnconſtancie:</l>
+               <l>Deuouring cankars of mans liberty,</l>
+               <l>But ſtay: I am at the priſon gate,</l>
+               <l>Where are you kéeper, let me ſpeake with you?</l>
+            </sp>
+            <sp>
+               <speaker>keep.</speaker>
+               <l>Who knocks there?</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>A fryer come to confeſſe your priſoners.</l>
+            </sp>
+            <sp>
+               <speaker>Keep.</speaker>
+               <l>Stay ile bring them to you preſently.</l>
+            </sp>
+            <stage>Enter Vallenger, Florence, and Blunt. and the keeper.</stage>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Health to this place: ſir, let me ſpeake with you.</l>
+               <l>Do you not ſorrow inward at your hart,</l>
+               <l>For your looſe life you haue ſo wanton ſpent.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Yes: from my hart Sir, and do thinke it long,</l>
+               <l>That this vild life of mine doth breath ſo long.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:20"/>
+               <speaker>Sent.</speaker>
+               <l>Do not diſpaire, although your death be nie,</l>
+               <l>Heauen looke vpon you with a Gracious eie.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Now gentlewoman: let me ſpeake with you,</l>
+               <l>Now good fellow, what wouldſt thou haue with me?</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>To confes truly your offences paſt.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Well: ſhall I confes one thing truly to thée,</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>One thing, and euery thing.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Why then I confes truely that before</l>
+               <l>This time neuer confeſt any thing truely,</l>
+               <l>But in briefe father ile tell thée,</l>
+               <l>All that I couſeaned, I de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rauded:</l>
+               <l>Thoſe I haue ſlandered, I haue defamed,</l>
+               <l>Whom I hated, I loued not:</l>
+               <l>And this hath bin the manner of my life.</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>Are you not ſorry for that you haue done.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>No by my troth, nere a whit at all.</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>I hope your mind will chang be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore you die.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Perhaps you know ſo much: truſt me, not I.</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>God turn your hart: frend let me ſpeak with you,</l>
+               <l>The time draws néere of execution,</l>
+               <l>What is it méete I goe along with you?</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>I gentle Sentloe, and thy ſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhall ſée,</l>
+               <l>The deference twixt luſt, and chaſtity</l>
+            </sp>
+            <stage>Enter a meſſenger.</stage>
+            <sp>
+               <speaker>Meſ.</speaker>
+               <l>You muſt bring the priſoners away,</l>
+               <l>the king and péeres are already ſet.</l>
+            </sp>
+            <sp>
+               <speaker>keep.</speaker>
+               <l>Say we make all the ſpéed we may.</l>
+            </sp>
+            <sp>
+               <speaker>flo.</speaker>
+               <l>Come noble harts, lets fearles march away,</l>
+               <l>A little hanging will diſpatch vs all.</l>
+            </sp>
+            <stage>Exit Omnes.</stage>
+            <stage>
+               <hi>Enter the king, Richmond, Lieſter Sir
+<pb facs="tcp:4894:20"/> Euſtice, Sir Godfrey, to the execution.</hi>
+            </stage>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Sir <hi>Godfrey,</hi> and Sir <hi>Euſtice vallenger,</hi>
+               </l>
+               <l>Your Siluer haires ſhoulde teach you patience.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>My ledge, God be my record I do not repine,</l>
+               <l>Alack good knight, thou wéeps in vaine,</l>
+               <l>But now there is no helpe.</l>
+            </sp>
+            <sp>
+               <speaker>Euſt.</speaker>
+               <l>I, I, my Soueraine iuſtice on my ſon,</l>
+               <l>He hath deſerued death, and let him haue it.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Sir <hi>godfrey,</hi> hath your daughter yet</l>
+               <l>Found out a man will die for Vallenger,</l>
+               <l>Such was our promiſe in regard of her,</l>
+               <l>And ſince our word is paſt, we graunt it him.</l>
+            </sp>
+            <sp>
+               <speaker>god.</speaker>
+               <l>No, no, my Soueraine, I haue hard,</l>
+               <l>A man vrged by neſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſity to lead his frend,</l>
+               <l>Or to redéeme his perſon with his owne,</l>
+               <l>But to find one will die for a frend,</l>
+               <l>This age we liue in doth not now a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord.</l>
+            </sp>
+            <stage>Enter the officers with the priſoners.</stage>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Diſpoſe yong Vallenger the firſt to death,</l>
+               <l>That done, ſend hence the other to their ſentence domd</l>
+            </sp>
+            <sp>
+               <speaker>va.</speaker>
+               <l>Ere I a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end this ſtage where I muſt act,</l>
+               <l>The lateſt period o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this life of mine,</l>
+               <l>Firſt let me do my deuty to my prince.</l>
+               <l>Next vnto you, to much by me offended,</l>
+               <l>Now ſtep, by ſtep, as I a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>end this place,</l>
+               <l>Mount thou my ſoule into the throwne o grace,</l>
+               <l>I my o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fence might be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orgiuen on earth,</l>
+               <l>I would aſke pardon of my dread king.</l>
+               <pb facs="tcp:4894:21"/>
+               <l>My parents, and my wife,</l>
+               <l>That muſt forgiue me,</l>
+               <l>But my hatefull life</l>
+               <l>Hath ſo be bloted and beſmered my fault,</l>
+               <l>That when I come to aſk the laſt forgiuenes,</l>
+               <l>They will not liſt my ſute,</l>
+               <l>Nor yet regard it.</l>
+            </sp>
+            <stage>Enter at one doore, Anabell diſguiſed like a man, and at another Challener.</stage>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>Stay: héere is one will die for vallenger.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Nay héere is one will die for <hi>Vallenger.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Be blínd mine eies, O vertuous <hi>Challener.</hi>
+               </l>
+               <l>Come to redéeme his enemy from death.</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>O <hi>Challener,</hi> by the déep wrongs that I haue done to thee,</l>
+               <l>O hide thy face, thy lookes are far more keene,</l>
+               <l>Then is the axe, muſt ſtrike the fatall ſtroke:</l>
+               <l>For thee ſweet youth, thou canſt aledge no reaſon</l>
+               <l>Why thou ſhouldſt die for me,</l>
+               <l>Be iuſt O king.</l>
+               <l>No torment worſe, then fruitles lingering.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Diſpatch them executioner: diſpatch.</l>
+            </sp>
+            <sp>
+               <speaker>ana.</speaker>
+               <l>Stay executioner: do me iuſtice king,</l>
+               <l>thy word is paſt that <hi>vallenger</hi> ſhall liue,</l>
+               <l>If any one will looſe his life for him,</l>
+               <l>And that will I: ile dy for <hi>vallenger,</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>Nay heere is one, that for the loue he beares,</l>
+               <l>to Anabell, but not to him, will die for <hi>vallenger.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>ana.</speaker>
+               <l>My plea was entred firſt, my claime muſt ſtand.</l>
+            </sp>
+            <sp>
+               <speaker>Cha.</speaker>
+               <l>Tell me but what thou art, raſh yongman,</l>
+               <l>that dares enter into this place before me:</l>
+               <l>humannity doth teach thee thou euer ſhouldſt</l>
+               <pb facs="tcp:4894:21"/>
+               <l>Giue place vnto thine elders, in all aſaies,</l>
+               <l>how rude then and vnmannerly art thou,</l>
+               <l>To forget this common courteſie,</l>
+               <l>that parents teach their children euery houre.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>Sir, in humanity I muſt confeſſe,</l>
+               <l>So much as you aledge but not in death.</l>
+               <l>the graue is as the publick theater,</l>
+               <l>the roome being taken vp, by them firſt enter,</l>
+               <l>the ſecond ſort muſt ſit but as they come.</l>
+               <l>Beſids you ſay you die for <hi>anabell,</hi>
+               </l>
+               <l>She nere deſerued death: therfore giue your ple<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>to him that hath true title for the ſame.</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Thats not by thée fond girle,</l>
+               <l>Knéele <hi>Euſtice,</hi> knéele, do not acept</l>
+               <l>Againſt her folly, do not good my ledge.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Why you amaze me, whats the matter?</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>Why my ledge, this is my child, my <hi>anabell?</hi>
+               </l>
+               <l>Came in this diſguyſe,</l>
+               <l>to ſaue his life, that was the ſpoile of hers,</l>
+               <l>Now aforegod girle thou art much to blame.</l>
+               <l>What is that other?</l>
+            </sp>
+            <sp>
+               <speaker>God.</speaker>
+               <l>My Lord, this is vertuous <hi>Challener,</hi>
+               </l>
+               <l>Come to redéeme his enemy from death.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>a conflickt of exceeding conſequence,</l>
+               <l>and much renownes that worthy gentleman,</l>
+               <l>tho let me tell you we are much diſpleaſd,</l>
+               <l>that anabell ſhould baffel thus our lawes,</l>
+               <l>We aſked a man, and ſhe a woman to delude vs.</l>
+               <l>therefore we are content her huſband haue his life,</l>
+               <l>But ſhe ſhall lay her head vpon the block,</l>
+               <l>and ſhe ſhall haue no executioner,</l>
+               <l>But <hi>vallenger</hi> him ſelfe, ſhall ſtrike it off:</l>
+               <l>this is our ſentence, and we will not chang.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>pray god thou doſt not king, for I accept it.</l>
+               <pb facs="tcp:4894:22"/>
+               <l>Come Vallenger, that happy hand of thine,</l>
+               <l>Shall aue thy li e and make an end o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mine.</l>
+            </sp>
+            <sp>
+               <speaker>val.</speaker>
+               <l>To ſtrike the ſtroke, to murder Anabell,</l>
+               <l>Firſt let my ſoule ſinck to the pit o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hell.</l>
+            </sp>
+            <sp>
+               <speaker>Cha.</speaker>
+               <l>A man the executioner of his wi e,</l>
+               <l>Is ſo vnhumaine that a mortall eie</l>
+               <l>Would euen be bloudſhed to behold the ſame,</l>
+               <l>There ore dread king let me die or both,</l>
+               <l>But to de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſcandelus an act:</l>
+               <l>And as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or thée, I hate thée Vallenger,</l>
+               <l>And could be well content withall my hart,</l>
+               <l>To be thy deathes man <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or thou hateſt me,</l>
+               <l>Beſids, yet Valenger conſider this,</l>
+               <l>Hauing a wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o faire as Anabell,</l>
+               <l>Beloued of me thy foe, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o intierly,</l>
+               <l>That I do offer vp my li e for hers,</l>
+               <l>Should mercy pardon now what law doth threaten,</l>
+               <l>Thou muſt immagin if that we too liue,</l>
+               <l>I ſtill ſhould go about to murder thée,</l>
+               <l>To inioy thy wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, whom I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o much do loue,</l>
+               <l>there<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore beg of the king that onely I may die,</l>
+               <l>to ſaue her honor, and thy in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amie.</l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>Hark you huſwi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, do you heare all this:</l>
+               <l>Doth not your hart melt at this amis.</l>
+            </sp>
+            <sp>
+               <speaker>Flo.</speaker>
+               <l>Melt Blunt yes, and doth wéepe briniſh tears,</l>
+               <l>to ſée what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ames them, and doth me confound,</l>
+               <l>Héere is a glaſſe for ſuch as liues by luſt,</l>
+               <l>See what tis to be honeſt, what tis to be iuſt,</l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>Why this is wel: now Soueraine hear me ſpeak,</l>
+               <l>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he that is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uppoſed ſlaine doth liue,</l>
+               <l>Then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riendly may we reconſile the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e iars,</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Our law doeth light on none, but guilty crimes:</l>
+               <l>And that it puniſheth as iuſtice willes.</l>
+            </sp>
+            <sp>
+               <speaker>Blu.</speaker>
+               <l>Why then vouchſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e all in this princely preſence,</l>
+               <pb facs="tcp:4894:22"/>
+               <l>This gentleman and I brought all to paſſe,</l>
+               <l>He in a Docters ſhape, hath ſaued the life</l>
+               <l>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my frend Sentloe, and o Anabell,</l>
+               <l>I in like ſort haue aued Vallenger,</l>
+               <l>And Sentloe which by me ſhould haue bin ſlaine,</l>
+               <l>I ſaued him by an honeſt policie.</l>
+               <l>And now aliue preſent him to your ſight,</l>
+               <l>To make a pleaſing end o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe ſad ſightes.</l>
+               <stage>Heere Sentloe putteth off his whod and kneeles downe.</stage>
+               <l>This breaths new life into my hated hart.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Sweet beautious lettes the cauſer of my ſmart,</l>
+               <l>Forget in me, what I haue done amiſſe,</l>
+               <l>And ſeale my pardon with one balmy kiſſe</l>
+               <l>My ſoule repents her lewd impyetie.</l>
+            </sp>
+            <sp>
+               <speaker>Ana.</speaker>
+               <l>My blouds déere ſolace, and my beſt content,</l>
+               <l>My onely déere eſteemed <hi>Vallenger,</hi>
+               </l>
+               <l>Not all the world being turned into pleaſure,</l>
+               <l>Could giue my ſoule ſuch ſwéet contented treaſure,</l>
+               <l>Thou art more deere, more pleaſing to my mind,</l>
+               <l>then at the firſt: before thou proueſt vnkind,</l>
+               <l>tis inſident for yong men to offend,</l>
+               <l>And wiues muſt ſtay their leaſures to amend.</l>
+            </sp>
+            <sp>
+               <speaker>Chal.</speaker>
+               <l>This kind contryſſion of yong <hi>vallenger,</hi>
+               </l>
+               <l>More ioyes my hart, then reſt to trauelers,</l>
+               <l>Liue long together, and may neuer fate,</l>
+               <l>this new ioynd league of marriage ſeperate.</l>
+            </sp>
+            <sp>
+               <speaker>Har.</speaker>
+               <l>The like ſay I, to thee that now hath tryed,</l>
+               <l>A friends firme faith, that nothing can deuide.</l>
+            </sp>
+            <sp>
+               <speaker>Sent.</speaker>
+               <l>the which I will indeuer to deſerue,</l>
+               <l>And not ſo much as once in thought to ſwerue.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:4894:23"/>
+               <speaker>king.</speaker>
+               <l>Since all things ſorteth to this happines,</l>
+               <l>And pining care, is turned to ioy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull mirth,</l>
+               <l>I will be partner in your meryment,</l>
+               <l>Away with that ſame tradgike monument,</l>
+               <l>For that ſame <hi>Florence</hi> there, becau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e we ſée,</l>
+               <l>ſhe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orrowes ſomthing for her follies paſt,</l>
+               <l>Let her be had among the Conuertines.</l>
+               <l>And as her faults ſhall vaniſh or elſe ſtay,</l>
+               <l>Let her be v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed accordingly. Away with her,</l>
+               <l>Glad parents, and glad frends,</l>
+               <l>In Briſtow here a while our ſelues will ſtay,</l>
+               <l>And ſpend ſome ſportfull houres to crowne your ioy</l>
+               <l>After ſo many troubles, and tyerd annoy.</l>
+            </sp>
+            <stage>Exit Omnes.</stage>
+            <trailer>FJNIS.</trailer>
+            <pb facs="tcp:4894:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>

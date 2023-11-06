@@ -1,0 +1,1340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second part of the tragi-comedy, called New-Market-Fayre or Mrs. Parliaments new figaryes. Written by the Man in the moon. Prologue. Gentlemen, our poet bids me say, ...</title>
+            <title>New-Market-Fayre. Part 2</title>
+            <author>Man in the moon.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92826</idno>
+            <idno type="STC">Wing S2318</idno>
+            <idno type="STC">Thomason E565_6</idno>
+            <idno type="STC">ESTC R204705</idno>
+            <idno type="EEBO-CITATION">99864170</idno>
+            <idno type="PROQUEST">99864170</idno>
+            <idno type="VID">116392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116392)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E565[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second part of the tragi-comedy, called New-Market-Fayre or Mrs. Parliaments new figaryes. Written by the Man in the moon. Prologue. Gentlemen, our poet bids me say, ...</title>
+                  <title>New-Market-Fayre. Part 2</title>
+                  <author>Man in the moon.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at you may go look,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th Century.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116392:1" rendition="simple:additions"/>
+            <p>
+               <hi>The</hi> Second Part <hi>of the Tragi</hi>-COMEDY, <hi>Called</hi> NEW-Market-FAYRE OR M<hi rend="sup">rs</hi>. PARLIAMENTS New Figaryes.</p>
+            <p>
+               <hi>Written by the</hi> Man in the Moon.</p>
+            <p>Prologue.</p>
+            <lg>
+               <l>
+                  <hi>Gentlemen,</hi> our <hi>Poet</hi> bids me ſay,</l>
+               <l>Ye're <hi>Welcome</hi> all unto his <hi>Second Play;</hi>
+               </l>
+               <l>He prayes you <hi>reade;</hi> and if you find in it</l>
+               <l>Nothing but <hi>Treaſon,</hi> then expect no <hi>witt.</hi>
+               </l>
+               <l>Some <hi>Rime</hi> there is; he hopes, ſome <hi>Senſe,</hi> and <hi>Reaſon,</hi>
+               </l>
+               <l>At leaſt to make you ſay, 'Tis <hi>witty Treaſon.</hi>
+               </l>
+               <l>His <hi>Scenes</hi> (he vows) do only aime to pleaſe</l>
+               <l>The <hi>Publique;</hi> and cure each foul diſeaſe</l>
+               <l>Of <hi>Manners</hi> in the <hi>Government:</hi> diſcry</l>
+               <l>Where the <hi>State-humors</hi> and <hi>Diſeaſes</hi> lie,</l>
+               <l>Preſcribes a <hi>remedy</hi> to allay <hi>Pride,</hi>
+               </l>
+               <l>
+                  <hi>Ambition, Treaſon, Luſt,</hi> and <hi>Deicide.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Corbet</hi> will teach you in his <hi>part</hi> to paint</l>
+               <l>The <hi>Devil</hi> in the likneſs of a <hi>Saint.</hi>
+               </l>
+               <l>Which cannot chuſe but make proud <hi>rebels</hi> rage,</l>
+               <l>To ſee themſelves thus acted on the Stage.</l>
+            </lg>
+            <lg>
+               <l>But if you pleaſe, now to advance his <hi>Playes,</hi>
+               </l>
+               <l>His <hi>Market's</hi> ended; and hee's Crown'd with <hi>Bayes.</hi>
+               </l>
+            </lg>
+            <p>Printed at <hi>you may go look.</hi> 1649.</p>
+         </div>
+         <div type="poem">
+            <pb n="2" facs="tcp:116392:2"/>
+            <head>To his much Honored Friend, <hi>The Man in the Moon,</hi> on his Play called <hi>New-Market-Fayre.</hi>
+            </head>
+            <l>MY <hi>Fancy</hi> is too dull, my <hi>Muſe</hi> to weak</l>
+            <l>To praiſe thy <hi>Genius;</hi> when each line doth ſpeak,</l>
+            <l>And claimes for thee a <hi>Law<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el<g ref="char:punc">▪</g>
+               </hi> yet Ile ſtrive</l>
+            <l>Within thy <hi>Play</hi> to keep my Name alive.</l>
+            <l>I cannot flatter Truth; this happy flame</l>
+            <l>More then thy <hi>Moon;</hi> gives thee Eternal Fame,</l>
+            <l>And builds o're Time a <hi>Tryumph;</hi> Cold deſires</l>
+            <l>Grow warm, and kindle by thy <hi>Loyal Fires:</hi>
+            </l>
+            <l>True hearts are now <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>viv'd, and learnt to ſing</l>
+            <l>
+               <hi>Vive le Roy;</hi> and <hi>God preſerve the King.</hi>
+            </l>
+            <l>Whilſt <hi>Regicides</hi> whoſe vile memories ruſt</l>
+            <l>And Names deſcend much deeper then their duſt:</l>
+            <l>Like <hi>painted Moons,</hi> that with dull Lamps profane</l>
+            <l>Thy <hi>cleereſt Light,</hi> at <hi>Full;</hi> moſt in their Waine.</l>
+            <l>Whoſe <hi>Guilt</hi> muſt line their Coffins; whilſt thy <hi>ſhine,</hi>
+            </l>
+            <l>Shall be a <hi>Light</hi> unto the <hi>Sacred Nine.</hi>
+            </l>
+            <bibl>F. W. <abbr>
+                  <hi>Eſq</hi>
+               </abbr>
+            </bibl>
+         </div>
+         <div type="dramatis_personae">
+            <head>The Actors Names.</head>
+            <list>
+               <item>
+                  <label>Conſtantius <hi>and</hi> Fidelius</label> 
+                  <hi>Two Loyalliſts.</hi>
+               </item>
+               <item>
+                  <label>Fairfax <hi>and</hi> Cromwel</label> 
+                  <hi>Poſſeſſed with Devils.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>Three Traytors.</head>
+                     <item>Ireton</item>
+                     <item>Huſon</item>
+                     <item>Pride</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lady</hi> Fairfax <hi>and Miſtris</hi> Cromwel, <hi>with</hi> Ruth Inconti<g ref="char:EOLhyphen"/>nence, <hi>and</hi> Abigal Concupicenſe, <hi>their Maids of Honor.</hi>
+               </item>
+               <item>
+                  <label>Gorge &amp; Morley,</label> 
+                  <hi>Their Paramours.</hi>
+               </item>
+               <item>
+                  <label>Miles Corbet.</label> 
+                  <hi>A Ieſuite.</hi>
+               </item>
+               <item>Hugh Peters <hi>and</hi> Dorriſlaws Ghoſt.</item>
+               <item>Shrieffs, Aldermen, <hi>A Keeper and</hi> Executioners.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="3" facs="tcp:116392:2"/>
+            <head>
+               <hi>The</hi> Second Part <hi>of the Tragi</hi>-COMEDY, <hi>Called</hi> NEW-Market-FAYRE. OR M<hi rend="sup">rs</hi>. PARLIAMENTS New Figaryes.</head>
+            <div n="1" type="act">
+               <head>ACT 1. SCENE 1.</head>
+               <stage>
+                  <hi>Enter</hi> Conſtantius, <hi>and</hi> Fidelius.</stage>
+               <sp>
+                  <speaker>Conſt.</speaker>
+                  <l>'TIs ſtrange <hi>Fidelius</hi> that they ſhould Recover!</l>
+                  <l>'Twas ſaid their wounds were Morral<g ref="char:punc">▪</g>
+                  </l>
+                  <l>The Heavens are ſurely angry,</l>
+                  <l>And lock their Azure Portals 'gainſt our prayers,</l>
+                  <l>Menacing the worſ of miſeries;</l>
+                  <l>They would not elſe inſuſe their powerful influences</l>
+                  <l>To reſcue <hi>Traytors</hi> from their puniſhments.</l>
+                  <l>Oh <hi>Fidelius,</hi> when I but think what they have done by Butche<g ref="char:EOLhyphen"/>ring Sacred Majeſty—</l>
+                  <l>I am aſtoniſh'd!</l>
+                  <l>What 'iſt theſe fear to do?</l>
+                  <l>They'd Martyr JOVE, could they come at him too:</l>
+                  <pb n="4" facs="tcp:116392:3"/>
+                  <l>But yet Ile not deſpair, but by my Conſtancy</l>
+                  <l>And Faith vanquiſh all miſeries:</l>
+                  <l>Our griefs be folly; our Tears cannot ſuffice,</l>
+                  <l>Unleſs our hearts make <hi>Charles</hi> a ſacrifice.</l>
+               </sp>
+               <sp>
+                  <speaker>Fidelius.</speaker>
+                  <l>Content thy ſelf <hi>Conſtantius;</hi> though Traytors flouriſh,</l>
+                  <l>and ſuch dunghil weeds ſprout up through fatneſs of the ſoyl.</l>
+                  <l>'Tis but a time, and a time preſent too,</l>
+                  <l>Then they'l be weeded out:</l>
+                  <l>They can't demur, adjourn, or ſay to morrow;</l>
+                  <l>When their Accountant cals, they muſt obey,</l>
+                  <l>Though now they do o're Truth and Juſtice ſway.</l>
+                  <p>The people ſay they were recovered by a miracle, wrought by one <hi>Peters</hi> an Excorciſt, and now admire, adore, and think them Gods, more then they did before; And ſay 'twas <hi>Iuſtice</hi> made great <hi>Charles</hi> to bleed.</p>
+               </sp>
+               <sp>
+                  <speaker>Conſt.</speaker>
+                  <p>Blind ignorant wretches, that can't perceive Gods from Devils; Impoſtors from Potentates; it's but in vain to inform them, till their own folly make them ſenſible; But does <hi>Crom<g ref="char:EOLhyphen"/>wel</hi> mean to ſteer his Courſe for <hi>Ireland?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>For Hell he does.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>I, that has been his Journey theſe ſeven yeers;</p>
+                  <l>He will come to his journies end in time,</l>
+                  <l>But to <hi>Ireland</hi> I doubt he will not.</l>
+               </sp>
+               <sp>
+                  <speaker>Fid.</speaker>
+                  <p>He tels the People that he will go, but that's in the <hi>My<g ref="char:EOLhyphen"/>ſtery;</hi> he intends nothing leſs in the <hi>Hiſtory:</hi> 'Tis to get arrears, what men and money he can, and then <hi>Fairfax</hi> will ſoon un<g ref="char:EOLhyphen"/>derſtand whether he intends.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>I hope his firſt dayes march will be to guard him to <hi>Tow<g ref="char:EOLhyphen"/>er-hill,</hi> according to his deſers, to make that his <hi>Head-quarters;</hi> and after retreat to <hi>Weſtminſter</hi> and be Crown'd, &amp; then he may make Deputies, and not expoſe himſelf to hazards upon ſo de<g ref="char:EOLhyphen"/>ſparate a Deſign, as <hi>Ireland</hi> is like to prove: Oh you know not the ſubtilty of that Jeſuitical-head-piece! A little time will make known his intents: whilſt then we will obſerve the cauſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of their vile Actions, and diſcourſe the Effects to our ſelves; yet let us be as ſecret as we can; theſe Serpents will ſting us elſe.</p>
+                  <l>Wee'l be as wiſe as Serpents, <hi>Serpents</hi> to prevent,</l>
+                  <l>To <hi>Loyal-Doves,</hi> wee'l prove as Inocent.</l>
+               </sp>
+               <stage>Exit.</stage>
+               <pb n="5" facs="tcp:116392:3"/>
+               <stage>
+                  <hi>Enter</hi> Fairfax <hi>and</hi> Cromwel.</stage>
+               <sp>
+                  <speaker>Crom.</speaker>
+                  <p>Wee're now at Amity, and made both one<g ref="char:punc">▪</g> I hope there will remain no Jealouſies or Fears each of other?</p>
+               </sp>
+               <sp>
+                  <speaker>Fair.</speaker>
+                  <p>I have not any the leaſt Jealouſie or Fear of thee my deer <hi>Lieutenant;</hi> but hugge thee as my ſecond Self: Oh that I cou'd by this embrace beget a wit like thine; the State wants <hi>Policy</hi> as well as <hi>Money;</hi> and mine's but little, thine a full <hi>Magazine</hi> to arme a Kingdom, and muſter all Deſigns, Plots and Stratagems of State with ſafety and eaſe to keep, what we have waded through <hi>bloud</hi> and <hi>danger</hi> to obtain.</p>
+               </sp>
+               <sp>
+                  <speaker>Crom.</speaker>
+                  <p>My Lord, I am your Servant, and the States; and muſt, and will endeavour to keep for them what I have got: But ſtill my Lord, the People are too rich and powerful, they muſt have more Taxes and more Aſſeſſements to keep them under; and when they are poor and needy, they'l be the more our vaſſals, and ſubject to our power: Have not the peremtory ſlaves diſ<g ref="char:EOLhyphen"/>arm'd Capt. <hi>Thelwels</hi> troop at <hi>Drayton</hi> in Shropſhire, taken both their Horſe and Arms, &amp; ſtrip'd them to their skins? Have they not at <hi>Cheſter</hi> done the like? and ſince in Worceſterſhire? Come, come, they will Robel unleſs we make them poor; let's Tax them throughly; worſe language then they do, they cannot give us; therefore lets about it; you to the Parliament and I to the Councel of State preſently.</p>
+                  <lg>
+                     <l>Money's the life of War, and muſt be had,</l>
+                     <l>Although we make the <hi>ſilly Hyndes</hi> run mad.</l>
+                  </lg>
+               </sp>
+               <stage>Exit.</stage>
+               <stage>
+                  <hi>Enter my Lady</hi> Fairfax, <hi>and</hi> Ruth Incontinence <hi>her Maid.</hi>
+               </stage>
+               <sp>
+                  <speaker>Lady Fair.</speaker>
+                  <p>Is my husband gone to the Parliament-Houſe <hi>Ruth?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ruth.</speaker>
+                  <p>Yes verily Miſtris; he is gone amongſt the <hi>Members,</hi> the <hi>holy-members,</hi> the <hi>fructifying-members,</hi> the <hi>increaſing</hi> and <hi>mul<g ref="char:EOLhyphen"/>tiplying-members.</hi> Indeed Madam, ſomething was the matter my Maſter call'd for Beer ſo early this morning; Ha, ha, ha, I hope it will appear ere long: I promiſe you I thought ſomething <hi>not<g ref="char:EOLhyphen"/>withſtanding</hi> when he fetch'd ſuch a draught, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pitt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y your <hi>Caſe</hi> Madam, but cold not cry; pardon me, I am your waiting-Maid, and can a little underſtand what belongs to the <hi>caſe</hi> of a Gentlewoman.</p>
+               </sp>
+               <pb n="6" facs="tcp:116392:4"/>
+               <sp>
+                  <speaker>Lady. Fair.</speaker>
+                  <p>If thou hadſt as much cauſe as I, thou might'ſt cry <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> dye too: Ile tell thee <hi>Ruth,</hi> he lies by me all night like a logge, though I warm him, and warm him again, yet <hi>notwithſtanding</hi> I can get no life nor motion in him; And when my <hi>deſires</hi> are <hi>fervent</hi> and ready for the <hi>on-ſet,</hi> he like a Coward faces-about, falls off, and baſely <hi>retreates,</hi> and will obſerve no <hi>poſtures</hi> at all: Nay, if he would but <hi>Preſent,</hi> it is ſo hot upon the matter, that it would go neer to <hi>give fire,</hi> and <hi>diſcharge</hi> it ſelf, and do <hi>execution</hi> too: Let me woe him, and woe him, he will <hi>doe</hi> nothing, ſtarts in his ſleep, cryes out Bloud, bloud, and ſaies he is damn'd in his bed; and Verily, verily, I muſt ſay unto thee <hi>Ruth;</hi> that I think he is bewitch'd, for ſince he had the laſt wound with the fall on his Sword, he has been ſo <hi>cold,</hi> and as <hi>uſeleſſe</hi> to me, as a <hi>King</hi> is to <hi>England.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ruth.</speaker>
+                  <p>Intruth la Miſtris get another, the world is not ſo dull, if one won't another will; 'Tis no matter for Fame, 'tis but a Bladder of winde, one prick of a <hi>Pin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> lets it ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; if you have a minde to taſte the ſweets of <hi>Love,</hi> ſatisfie your <hi>deſires</hi> to the <hi>full;</hi> I ſhall be as <hi>uſeful</hi> to put it <hi>forward</hi> as another.</p>
+                  <lg>
+                     <l>She that confines her beames to one mans ſight,</l>
+                     <l>Is a dark Lanthorn to a glorious light.</l>
+                     <l>Madam Ile fetch the Partie you wot of.</l>
+                  </lg>
+               </sp>
+               <stage>Exit.</stage>
+               <sp>
+                  <speaker>Lady Fair.</speaker>
+                  <p>Prithee do. I hate all bloudy-men, give me the man that <hi>armes</hi> with an <hi>imbrace;</hi> can <hi>make,</hi> not <hi>kill</hi> a man: O how powerful is <hi>Love,</hi> that it can make an unjuſt Act ſeem ho<g ref="char:EOLhyphen"/>neſt, nay lawful too—</p>
+               </sp>
+               <stage>
+                  <hi>Enter Mr</hi> Gorge.</stage>
+               <sp>
+                  <speaker>Gorge.</speaker>
+                  <p>What makes my Love thus ſolitary and alone? Come my <hi>Life,</hi> my <hi>Happineſs,</hi> lets taſte ſome <hi>ſweets</hi> ſhall make the gods to envieus; There is no pleaſure, but in thy embrace.</p>
+               </sp>
+               <sp>
+                  <speaker>Lady Fair.</speaker>
+                  <p>You men love to flatter us, and we like ſilly fools are pleas'd with all that <hi>comes</hi> from them we love.</p>
+               </sp>
+               <sp>
+                  <speaker>Gorge.</speaker>
+                  <p>I'le pleaſe thee if I <hi>can</hi> my Deer, the <hi>Paphian Goddeſs</hi> never was worthy of ſuch love as thee; Lets in and taſte,</p>
+                  <lg>
+                     <l>And by our cloſe <hi>in-twines,</hi>
+                     </l>
+                     <l>Wee'l teach the <hi>wood-him,</hi> to embrace the <hi>Vines.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Lady Fair.</speaker>
+                  <p>We muſt be ſecret though, becauſe o'th wicked, they are apt to ſcandal us, and bring us on their <hi>Stages;</hi> yet I
+<pb n="7" facs="tcp:116392:4"/>have done the beſt to have my husband put them down, yet all won't do.</p>
+               </sp>
+               <sp>
+                  <speaker>Gorge.</speaker>
+                  <p>Come my dear, I'le <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>thee down, and act a part, ſhall raviſh thee, and cheer thy grieved heart.</p>
+                  <lg>
+                     <l>Such acts beſt pleaſe, whoſe ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nes reliſh of love,</l>
+                     <l>Sound Muſick then, and reviſh from above.</l>
+                     <stage>Sound.</stage>
+                  </lg>
+               </sp>
+            </div>
+            <div n="2" type="act">
+               <head>ACT II. SCENE III.</head>
+               <stage>
+                  <hi>Enter Miſtris</hi> Cromwel <hi>and her Paramour</hi> Morley, <hi>with</hi> Abigail Concupiſcence <hi>her Maid.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mrs Crom.</speaker>
+                  <p>So, now we are in our Kingdom: What is it to enjoy the World, and miſs the <hi>thing</hi> we love? Here is a Jewel for thee, 'twas the late Queens, wear it for my ſake, and come to me to morrow, thou ſhalt have Gold what thou wilt have; thou ſhalt not want if the State has it: Spend freely, and when 'tis gone, thou ſhalt have more. My <hi>Noll</hi> ſhall fight with the <hi>Iriſh,</hi> thou ſhalt fight with me, clad in more ſofter Arms. <hi>Abi<g ref="char:EOLhyphen"/>gail</hi> how ſits this Gown?</p>
+               </sp>
+               <sp>
+                  <speaker>Abigial.</speaker>
+                  <p>It bears an exceeding Grace behind; Madam, you have rumpled the Pleats with your Day-Couch, will you have another?</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs Crom.</speaker>
+                  <p>Fetch me the Cown that coſt 2000 pounds, if it likes me, I'le put it on; My deereſt <hi>Marley</hi> ſhall ſee how it be<g ref="char:EOLhyphen"/>comes me; and embrace me in't.</p>
+               </sp>
+               <sp>
+                  <speaker>Morley.</speaker>
+                  <p>So ſweet a body deſerves the rarieties of Europe, and all to little to dec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> you Madam, I am doubly bleſt to en<g ref="char:EOLhyphen"/>joy ſo noble a Miſtris as your ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. Crom.</speaker>
+                  <l>Lets in my dear, and ſport a while,</l>
+                  <l>And with ſweet love, the tedious time beguile.</l>
+               </sp>
+               <stage>Exit.</stage>
+               <stage>
+                  <hi>Enter</hi> Miles Corbet <hi>with Search Letters to my Lord</hi> Fairfax <hi>and</hi> Cromwel.</stage>
+               <sp>
+                  <speaker>Corbet.</speaker>
+                  <p>Yet I have manag'd State-Affaires with caſe and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ill, and thrive and am grown Rich by my induſtrous practice:
+<pb n="8" facs="tcp:116392:5"/>Here's Letters from <hi>Scotland</hi> I fear will not be pleaſing; <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I muſt deliver them; Yet I hope by this new troubling the waters I ſhall get moſt Fiſh; Ile in, and ſeek my Lord General pre<g ref="char:EOLhyphen"/>ſently.</p>
+               </sp>
+               <stage>Miles Corbet <hi>Enters the Chamber of</hi> Fairfax, <hi>where he diſco<g ref="char:EOLhyphen"/>vers his Lady and</hi> Gorge <hi>in the very Act; they ſtart up af<g ref="char:EOLhyphen"/>frightued, (thinking him the Devil) come forth all un-ready, running over the Stage, crying The Devil, the Devil.</hi>
+               </stage>
+               <stage>
+                  <hi>Enter</hi> Corbet.</stage>
+               <sp>
+                  <speaker>Corbet.</speaker>
+                  <p>Am I awake, or in a Dream? or do I walk in my Sleep? This is no viſion ſure: methoughts I ſaw two (whom I am loth to name) glude like a pair of Goats in a ſportful dalli<g ref="char:EOLhyphen"/>ance; I muſt wink at this, there's danger to diſcloſe it, leaſt that her husband ſhould not credit me, and ſhe ſhould lay that to my Charge, was acted by the other; It may be her Lord Conſents: I know not what to think! If theſe be <hi>Queent-ſtreet</hi> doings, Ile to <hi>Kings-ſtreet</hi> to the Lieutenant General to ſee what hee'l ſay to theſe Letters. Ile be ſilent, there's nothing to be got by this diſcovery; beſides 'tis my own caſe at home daily.</p>
+                  <lg>
+                     <l>He that will winde his <hi>borne</hi> in his own <hi>rounds</hi>
+                     </l>
+                     <l>May chance to be devoured by his own <hi>hounds.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <stage>Exit.</stage>
+               <stage>
+                  <hi>Enter</hi> Hugh Peters <hi>Solus, like a Necromancer.</hi>
+               </stage>
+               <p>If this trade fails, then farewel all; <hi>Albertus</hi> was a meer Jugler to me; and Frier <hi>Bacon</hi> but an empty ſcull, or brazen Image, his Walls of Braſs, were Mud to mine: Preaching is too redious for me; Ile leave that to <hi>Owen,</hi> and to <hi>Goodwin:</hi> Have I not done a Miracle to re-poſſeſſe theſe Bodies with Spirits, that were before meer Skellitons, and ſtinking Carkaſſes? (by their diſpairing rage) they are now as active as ever they were; and poſſeſs'd with worſer Spirits, if worſer can be, to manage the grand Deſign; But before I proceed further in my Art, I muſt raiſe the Ghoſt of <hi>Dorriſlaw,</hi> and ask his Counſel. <hi>Make a Circle and Cunjueres.</hi>
+               </p>
+               <stage>Dorriſlaws <hi>Ghoſt appears from underneath the Stage in Fetters and flames of Sulphire.</hi>
+               </stage>
+               <sp>
+                  <speaker>Peters.</speaker>
+                  <p>My hair ſtands upright! a flaſh of Lightning has gone through my body, and cut my thred of Life a too; I have no power to ſpeak!</p>
+               </sp>
+               <pb n="9" facs="tcp:116392:5"/>
+               <sp>
+                  <speaker>Dorriſlaw.</speaker>
+                  <p>What's he that calls me from my place of horror, where all my muſick is diſmal ſhrieks of damned Souls, yelling in beds of burning Brimſton; Couches of poyſonous Toads and ſtinging Serpents? O M. <hi>Peters</hi> is it you? you ſhall along with me.</p>
+               </sp>
+               <sp>
+                  <speaker>Peters.</speaker>
+                  <p>I pray thee gentle Ghoſt forbear, and tell me if the late King be in theſe lower Regions?</p>
+               </sp>
+               <sp>
+                  <speaker>Ghoſt.</speaker>
+                  <p>No, thou Viper, he reigns in Heaven; in Hell there are new torments providing anſwerable for that damn'd Crime without all preſidents but <hi>Bradſhaw. Cook,</hi> and <hi>Steel,</hi> and ſuch as thoſe have forg'd;</p>
+                  <lg>
+                     <l>Knaves hired by <hi>Cromwel</hi> to corrupt the Laws:</l>
+                     <l>Now all made food for <hi>Hells</hi> devouring jawes.</l>
+                  </lg>
+                  <p>Next <hi>Iudas, Faux,</hi> and <hi>Ravilock,</hi> their lodgings are prepared: there lies <hi>Eſſen, Pym, Strend, Hamden, Rainthrough,</hi> and ten thouſand more; there <hi>Fairfax, Cromwel, Ireton, Pride,</hi> will all like me, Rue their damn'd <hi>Regicide:</hi>
+                  </p>
+                  <lg>
+                     <l>Their vengeance haſtneth, and come on a main,</l>
+                     <l>Though the firſt be gone, the <hi>Second Charles</hi> ſhall Reign.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Peters.</speaker>
+                  <p>Let me go tell them this.</p>
+               </sp>
+               <sp>
+                  <speaker>Ghoſt.</speaker>
+                  <l>No, thou muſt not; <hi>Pluto</hi> won't give way,</l>
+                  <l>His Fiends attend; and will not longer ſtay.</l>
+               </sp>
+               <stage>Exit the Ghoſt carrying away Peters.</stage>
+            </div>
+            <div n="3" type="act">
+               <head>ACT III. SCENE V.</head>
+               <stage>
+                  <hi>Enter Mr</hi> Corbet <hi>with his Letter, going to</hi> Cromwels <hi>houſe.</hi>
+               </stage>
+               <sp>
+                  <speaker>Corbet.</speaker>
+                  <p>I'le enter here, and ſee if I can meet with ſuch a ſight I did before.</p>
+                  <stage>(<hi>peeks behind the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>gg<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>igns, and ſees</hi> Morley <hi>and Mrs</hi> Cromwel <hi>a bed together.</hi>
+                  </stage>
+                  <p>Hell and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mnation <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> what, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re we all turn'd Sodomites— O my head, how it <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es, Ile home preſently; and If Roe be there, what ſhall I do? fight with him I dare not; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>will but be the worſe; for then my wife will take his part: ſince others being my betters wear the horn; Ile think it <hi>honor,</hi> never dream of <hi>ſcorn:</hi> but my neighbour will call me <hi>Wittall,</hi> that's the worſt;</p>
+                  <lg>
+                     <l>No matter, I am ne're the worſe,</l>
+                     <l>The Fox thrives beſt, when that the Geeſe do curſe.</l>
+                     <pb n="8" facs="tcp:116392:6"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="9" facs="tcp:116392:6"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="10" facs="tcp:116392:7"/>
+                     <l>Since 'tis our fate; and now grows all the faſhion<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Ile rather honor, then diſgraſe the Nation.</l>
+                     <l>Ile love the <hi>man<g ref="char:punc">▪</g>
+                        </hi> that makes my Wife his mate<g ref="char:punc">▪</g>
+                     </l>
+                     <l>And hugge his Purſe, till he doth <hi>horn</hi> my pate.</l>
+                  </lg>
+               </sp>
+               <stage>Exit.</stage>
+               <stage>Enter Ireton, Huſon, and Pride.</stage>
+               <sp>
+                  <speaker>Huſ.</speaker>
+                  <p>But does the news hold true concerning <hi>Ire<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nd?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ire.</speaker>
+                  <p>Too true, I fear; We muſt divert our Courſe ſome o<g ref="char:EOLhyphen"/>ther way; <hi>Ormond</hi> is 20000 ſtrong; 'tis thought he is now <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Fortifying all the <hi>Ports,</hi> and then intends for <hi>England.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pride.</speaker>
+                  <p>I would we had him here.</p>
+                  <p>'Tis not a hundred thouſand that we fear. Our Horſe are luſty, and our Men be ſtrong.</p>
+               </sp>
+               <sp>
+                  <speaker>Huſon.</speaker>
+                  <p>I, but our Money's weak; how ſhall we do for that the People won't disburſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Ireton.</speaker>
+                  <p>Can we not <hi>force</hi> it then? Neceſſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y muſt not obſerve a Law; make them but poor, and then we ſhall not want Soul<g ref="char:EOLhyphen"/>diers nor Monies: Are we not the Keepers of their <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>berties?</hi> why not their Money too?</p>
+                  <lg>
+                     <l>We will disburſe, give them as they deſerve,</l>
+                     <l>It they'l not ſight; then let them <hi>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ng</hi> and <hi>ſtarve.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Pride.</speaker>
+                  <p>When we have all; wee'l order them at will: If we ſuffer them peaceably to enjoy their Eſtares; we muſt not look to enjoy ours; No, I hold it beſt to kirb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them in, be ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e to keep them down,</p>
+                  <p>Proſperity will alwayes aim to get a Crown.</p>
+               </sp>
+               <sp>
+                  <speaker>Huſon.</speaker>
+                  <p>Beſides, when we have all; we know what to truſt too; and not before: then we can disburſe at our pleaſures; and rather then want; if there be urgent neceſſity, make uſe of our own <hi>Eſtates</hi> at laſt, but not before; 'tis our beſt policy to preſerve all we can againſt a rainy day: Lands are but d<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Commodities, they will not off; beſides we can't manſ<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> them: Money it is muſt do the deed,</p>
+                  <p>That's our beſt friend, ſhould we but be in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed.</p>
+               </sp>
+               <sp>
+                  <speaker>Ireton.</speaker>
+                  <p>Wee'l have it then: Come le<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> draw our Force<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> into the Countries firſt; and then wee'l come upon the City with afreſh ſupply;</p>
+                  <p>
+                     <hi>Fairfax</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rall down; for he is grow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </p>
+               </sp>
+               <pb n="11" facs="tcp:116392:7"/>
+               <stage>Enter Fairfax and Cromwel.</stage>
+               <sp>
+                  <speaker>Fair.</speaker>
+                  <p>Will they murmer ſtill? Indite me for Murder! Who dares do it? have I not Forces to protect my ſelf? this is <hi>Lil<g ref="char:EOLhyphen"/>burn</hi> and his Faction; they'l never be quiet till they have my life; but perchance Ile have ſome more of theirs firſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Crom.</speaker>
+                  <p>Hang up two or three more, 'twill make the reſt to fear.</p>
+               </sp>
+               <sp>
+                  <speaker>Fair.</speaker>
+                  <p>'Twas by your Counſel I hang'd up thoſe I did: Did you not at <hi>War<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> perſwade me to have <hi>Arnold</hi> ſhott, and <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ckier</hi> ſince; that wone me hate of all my Souldiers, and the People too.</p>
+               </sp>
+               <stage>aſide.</stage>
+               <sp>
+                  <speaker>Crow.</speaker>
+                  <l>And that I hope will quickly end thy fate.</l>
+                  <l>My Lord, Juſtice muſt be done; you know I, in all ſuch caſes,</l>
+                  <l>cannot help yee; I am call'd hence and muſt away; the ſafety</l>
+                  <l>of the State requires it: Farewel my Lord;</l>
+                  <stage>aſide.</stage>
+                  <l>If that my Plot hit right:</l>
+                  <l>My Policy ſhall Conquer all your Might.</l>
+               </sp>
+               <stage>Exit Crom.</stage>
+               <sp>
+                  <speaker>Fair.</speaker>
+                  <p>My Lievtenant is too wiſe for me; well, if he does ſet the <hi>People</hi> on me for <hi>their Agreement</hi> I am loſt; I fear it is his Policy to with-draw himſelf, that they may have the better op<g ref="char:EOLhyphen"/>portunity to ſurprize me, and free himſelf, ſo they cut me off; that he may enjoy all: Something is in't; I am ſo troubled in my ſleep;</p>
+                  <p>My wife afflicts me too, which makes me weep.</p>
+               </sp>
+               <stage>Exit.</stage>
+            </div>
+            <div n="4" type="act">
+               <head>ACT IV. SCENE VIII.</head>
+               <stage>
+                  <hi>Enter</hi> 6 <hi>or</hi> 7 <hi>Aldermen and the Sheriffs, as if they came into</hi> New-Park <hi>a hunting with hounds.</hi>
+               </stage>
+               <sp>
+                  <speaker>Pennington.</speaker>
+                  <p>What Game is there in this Park?</p>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>O Sir; here be Staggs of State, Harts, Bucks, Does, Sorrells, Sores Teggs, Prickets, Fawns; and abo<g ref="char:EOLhyphen"/>mination of Fiſh and Fowle.</p>
+               </sp>
+               <pb n="12" facs="tcp:116392:8"/>
+               <sp>
+                  <speaker>Pen.</speaker>
+                  <p>Will you give me the Names of them all, becauſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> may know what to thank the Parliament for <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> they have be<g ref="char:EOLhyphen"/>ſtowed much of us, for this one Dinner; enough to make us many: Staggs and Harts I have heard of in the City; and Bucks too; but Teggs, Brocks, Sores, and Prickets, I know not what they mean: pray are they Fiſh, or Fowl?</p>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>Neither Sir: they are Beaſts, that come to it by de<g ref="char:EOLhyphen"/>grees, as your Children newly born, firſt they come to be Fawns, and then in their youth, they come to be Prickets; in their pren<g ref="char:EOLhyphen"/>tiſhip, to be Brockets; in their freedom, to Bucks of the firſt head; when Common Councel-men, of the ſecond head, when Alder<g ref="char:EOLhyphen"/>men, of the Game Royal; and then you may know them by their Brow-Antlers: And for the Hinds and Does they be the Femals, as it might be your wives, or your Sons wives.</p>
+               </sp>
+               <sp>
+                  <speaker>Atkins.</speaker>
+                  <p>It ſeems there is a Common-wealth in a Park; but do they engender too?</p>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>Yes Sir, in Rutting-time; how could they encreaſe elſe? only they defile their members.</p>
+               </sp>
+               <sp>
+                  <speaker>Mayer.</speaker>
+                  <p>But do they do the Act like us?</p>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>Very like you Sir; but encreaſe more.</p>
+               </sp>
+               <sp>
+                  <speaker>Atkins.</speaker>
+                  <p>Are there Conies too?</p>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>Yes Sir, more then you have in your City.</p>
+               </sp>
+               <sp>
+                  <speaker>Woolaſton.</speaker>
+                  <p>But does not ſome vermine anoy them?</p>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>Yes Sir, but we have another vermine called Ferits and Tarryers, that like your Worſhips Clark <hi>Everet,</hi> can enter their grounds &amp; ſo ferrit their beries, that many times their skins pay for their offences; &amp; then our traps are juſt like your priſons.</p>
+               </sp>
+               <sp>
+                  <speaker>Bide.</speaker>
+                  <p>Their skins may ſerve to furre us Gowns.</p>
+               </sp>
+               <sp>
+                  <speaker>Keep.</speaker>
+                  <p>Sir, no <hi>Skarlet</hi> nor <hi>Pluſh</hi> is finer weare.</p>
+               </sp>
+               <sp>
+                  <speaker>Atk.</speaker>
+                  <p>Hereafter, you muſt preſerve them for us then.</p>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>Sir, they are my Fees; beſides your Worſhips ſhould not be clad in Foxes, or in Pole-catts skins, leaſt you be termed vermine; the Lyons, or the Panthers, or the Ermyns skine is more rich and fitting for your weare.</p>
+               </sp>
+               <sp>
+                  <speaker>Fook.</speaker>
+                  <p>I know no great degrees of skins; methinks the Aſſes hide's as ſerviceable as the Lyons skin, &amp; more fit for ornament.</p>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>There be Aſſes too Sir in the Park.</p>
+               </sp>
+               <sp>
+                  <speaker>Mayor.</speaker>
+                  <p>Then for Fowl and Fiſh, what ſtore is there?</p>
+               </sp>
+               <pb n="13" facs="tcp:116392:8"/>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ite <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>here be Owle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Wood cocks, Buzards, Cuckoes, Rooks, Wiggins, and all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Worſhip<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cen deſire: Beſides Parliament Pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>trick<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Halpyes, Night-Ra<g ref="char:EOLhyphen"/>vens, S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eech-Owles, and whatever your Worſhips can name. And for Fiſh, here be Pikes, that like thoſe you know where, eate up their own kind; and C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ps that die wallowing in the M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>de (like your Worſhips in your feather, beds;) beſides the Carpes may ſerve for your ſervants, and the people; and great <hi>Tench,</hi> that you may ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch without books or pullies; beſides Roach, Dace, Eles, Breams, Pearch, and abundance more.</p>
+               </sp>
+               <sp>
+                  <speaker>Pen.</speaker>
+                  <p>Are there no Whales, Saturn o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s or Lobſteks there?</p>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>No Sir, they are in the Seas, where your Worſhips Ships ſail.</p>
+               </sp>
+               <sp>
+                  <speaker>Pen.</speaker>
+                  <p>I had thought they had come from hence.</p>
+               </sp>
+               <sp>
+                  <speaker>Mayor.</speaker>
+                  <p>Well Brethren, it behoves us to give thanks to the Councel of S<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> and the Parliament for all theſe benefits, and a <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> them the Sum; 'tis but 150000. <abbr>l.</abbr> a meer toy; if the Sea be but ſecur'd by their Navy, we ſhall fetch it up again in a yeer, and leſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Omnes.</speaker>
+                  <p>Content, content, let them have it, let them have it; and our Letter of Thanks <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> boor.</p>
+                  <lg>
+                     <l>Since we have b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>k, O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d Sport and Deer ſuch ſtore;</l>
+                     <l>If they do ask, they ſhall have ten times more.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>Yes, yes no doubt but they'l be as free to you, of <hi>that that is not their own.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>aſide.</hi> The <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ight Ma<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, Pa<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, Cha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es and Forreſts, are liberally beſtowed; the old proverb muſt be verified, <hi>Lightly come, lightly go,</hi> but they that ſteal a Deer off the Kings Ground, the Horns may hereafter chance to choak them; but they that ſteal Deer, Trees, Lands and all; the very ſtones will fly in their faces I hope: What it bleſſed litter of City-puppies have I to my Ma<g ref="char:EOLhyphen"/>ſters? O for a pack of good bloud-hounds to ſet on theſe Actaeons: Uds—fut, theſe be meer Gulls, Buffle-pates; there's not a man of them has ſo much wit, us will reach from his noſe to his beard: foh— how they ſtink; I think ſome <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them have be-ſhitt themſelves. Will your Worſhips pleaſe to ſee ſome ſport <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Game is ready, the Buck is Rour<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</p>
+               </sp>
+               <pb n="14" facs="tcp:116392:9"/>
+               <sp>
+                  <speaker>
+                     <hi>Tho. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ingwood.</hi>
+                  </speaker>
+                  <p>—<gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>—looe,—ha—loo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>—<gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>—tat,—tat,—tat.</p>
+               </sp>
+               <sp>
+                  <speaker>Byde.</speaker>
+                  <p>This is heavenly Muſick.</p>
+               </sp>
+               <stage>
+                  <hi>Exit Keeper, Mayer, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </stage>
+               <sp>
+                  <speaker>Pen.</speaker>
+                  <p>Woo'd theſe Currs were choak'd, I cannot hear it for them.</p>
+               </sp>
+               <stage>looks up.</stage>
+               <sp>
+                  <speaker>Byde.</speaker>
+                  <p>Why, 'tis the Doggs that makes it.</p>
+               </sp>
+               <sp>
+                  <speaker>Pen.</speaker>
+                  <p>I had thought it had been come from the Skyes. The <hi>Buck</hi> is down already.</p>
+               </sp>
+               <sp>
+                  <speaker>Byde.</speaker>
+                  <p>'Tis time we ſeek our Company, and give over the <hi>Chaſe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pen.</speaker>
+                  <p>This is no Chaſe Sir, 'tis a Park.</p>
+                  <stage>
+                     <hi>O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ſounds a horne.</hi>
+                  </stage>
+                  <lg>
+                     <l>We are ſummond in; let's haſte away,</l>
+                     <l>This idle ſport has quite conſum'd the day.</l>
+                  </lg>
+                  <p>Let's tell our ſelves, and ſee if we have all our Com<g ref="char:EOLhyphen"/>pany.</p>
+               </sp>
+               <stage>
+                  <hi>they call themſelves, and a<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ſs two.</hi>
+               </stage>
+               <sp>
+                  <speaker>Byde.</speaker>
+                  <p>Here's two miſſing!</p>
+               </sp>
+               <sp>
+                  <speaker>Pennington.</speaker>
+                  <p>I'le lay a Pot of <hi>Ale</hi> of that; have you told your ſelf Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Byde.</speaker>
+                  <p>I'le tell again.</p>
+                  <stage>tells.</stage>
+                  <p>There wants four now—O, Alderman <hi>Soams,</hi> and Al<g ref="char:EOLhyphen"/>derman <hi>Chambers</hi> did not come; there was but 13 came, and now there is but 11; then as I take it, two are wanting.</p>
+               </sp>
+               <sp>
+                  <speaker>Pen.</speaker>
+                  <p>But how ſhall we know which two?</p>
+               </sp>
+               <sp>
+                  <speaker>Byde.</speaker>
+                  <p>'Tis my Lord Mayor, and Alderman <hi>Atkins</hi> are miſſing.</p>
+                  <stage>Enter the Keeper running.</stage>
+                  <p>O Gentlemen, Gentlemen, your Mayor has hang'd himſelf in a Tree, and if you go not quickly hee's a dead man; and a<g ref="char:EOLhyphen"/>nother is fallen into a pit, and hath ſo bewray'd himſelf, 'tis wonderful! I think he has broke his necke, for he ſtirre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not.</p>
+               </sp>
+               <sp>
+                  <speaker>Pen.</speaker>
+                  <p>Brethren away, I fear there is ſome Treaſon.</p>
+               </sp>
+               <stage>exit Aldermen.</stage>
+               <sp>
+                  <speaker>Keeper.</speaker>
+                  <p>Treaſon <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Traytors! Is not that Non-ſence <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I have done my beſt to Lodge the Deer on that ſide the P<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> where the moſt trees and the pitts were; but ſurely that is not
+<pb n="15" facs="tcp:116392:9"/>reaſon; and yet I know not neither, for <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> everything <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> made treaſon, though it be but Reaſon in I'le away to <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 'tis good to prevent a miſchief.</p>
+                  <lg>
+                     <l>Farewel old Cuſtard-eaters; I hold it reaſon.</l>
+                     <l>Not to ſerve you, for fear I commit treaſon.</l>
+                  </lg>
+               </sp>
+               <stage>Exit.</stage>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V. scene X.</head>
+               <stage>
+                  <hi>Enter Fairfax Bol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u.</hi>
+               </stage>
+               <sp>
+                  <speaker>Fairfax</speaker>
+                  <p>THe Devil ſtop your mouths; will nothing ſerve you but <hi>The Agreement of the People, The Agree<g ref="char:EOLhyphen"/>ment of the People!</hi> Are not the Parliament the Peoples <hi>Repreſe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ives?</hi> why, do not they <hi>A<g ref="char:EOLhyphen"/>gree?</hi> I am willing to Agree to any thing; yet muſt their ſplee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> light upon me? O <hi>Cromwel, Cromwel,</hi> for this I may thank thee; I am ſo heavy, ſad and drowſie, I muſt take Reſt.</p>
+                  <stage>Lies down and ſleeps.</stage>
+                  <stage>
+                     <hi>Enter three or four</hi> Furies, <hi>and</hi> Anticks <hi>dancing a<g ref="char:EOLhyphen"/>bout him with their hands all bloudy, and Exit. N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſtants and sleeps again Soft Muſick from above, and this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ong.</hi>
+                  </stage>
+                  <lg n="1">
+                     <head>I.</head>
+                     <l>WHo on the top of Fortunes Wheele.</l>
+                     <l>Stands more glorious then the reſt?</l>
+                     <pb n="16" facs="tcp:116392:10"/>
+                     <l>Others ſorrows li<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> feele,</l>
+                     <l>Thinking all like them at bleſt.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>II.</head>
+                     <l>Guide the Chariot of the Sun,</l>
+                     <l>And thence blind with too much light,</l>
+                     <l>Such un-even Courſes run,</l>
+                     <stage>(turns himſelfe:)</stage>
+                     <l>That they turn the day to night.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>III.</head>
+                     <l>Theſe are they that cannot ſee,</l>
+                     <l>Dazl'd with the height of place,</l>
+                     <l>How they may ſecured be</l>
+                     <l>Of the peoples fickle grace.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>IV.</head>
+                     <l>But pretend their hearts ſo deep,</l>
+                     <l>They are hopeleſſe there to wade;</l>
+                     <l>Where did they but meaſure keep,</l>
+                     <l>Fortunes Children ſhould not ſade.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>V.</head>
+                     <l>Greatneſſe here may learn to ſtand</l>
+                     <l>Propt with Vertue, ſo it ſhall</l>
+                     <l>Fearleſſe from rude peoples hand</l>
+                     <l>Sleep on Doune, or ſofter fall.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>VI.</head>
+                     <l>Fumes of <hi>Sway</hi> muſt paſſe away,</l>
+                     <l>Rebels fall, that ſtand by Art;</l>
+                     <l>
+                        <hi>Charles</hi> His Vertue ſtill ſhall ſway.</l>
+                     <l>And all <hi>England</hi> take His part<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </l>
+                  </lg>
+                  <pb n="17" facs="tcp:116392:10"/>
+                  <lg n="7">
+                     <head>VII.</head>
+                     <l>What though Rebels fret and frown,</l>
+                     <l>That durſt aſpire unto a Throne<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Vertue is a Sacred Crown,</l>
+                     <l>Subject unto none but <hi>O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>.</hi>
+                     </l>
+                  </lg>
+                  <stage>
+                     <hi>He <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>akes, and ſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ts up <gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ed.</hi>
+                  </stage>
+                  <p>A C<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>d, a ga<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d; Treaſon, treaſon; I am betray <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> O my diſtempered <hi>Fa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y<g ref="char:punc">▪</g>
+                     </hi> how ſtrange guilt <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> with<g ref="char:EOLhyphen"/>in, well, ſince 'tis ſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 'tis but a folly to diſpair; and to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pent, would argu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> I were guilty; I have had ſtrange dreames <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all it not well<g ref="char:punc">▪</g> Well come what will, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e bide the ſhock of all; And if I ſtand, I ſtand; it may I <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll.</p>
+               </sp>
+               <stage>Enter Sheriffs and others with the Agreement of the People in their hands.</stage>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>Where be the Murderers? ſeize on them; knock them down: knock them down; Traytors, Tyrants, bloud-ſuckers; away with them.</p>
+               </sp>
+               <stage>
+                  <hi>They ſeize on Fairfax, Pi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion him, and had him away.</hi>
+               </stage>
+               <sp>
+                  <speaker>Fairfax.</speaker>
+                  <p>Who builds his Hopes upon a <hi>Comm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n Rou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> Thus muſt he f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll, though for their Rights he fought.</p>
+               </sp>
+               <stage>Exit.</stage>
+               <stage>
+                  <hi>Enter</hi> Fidelius <hi>and</hi> Conſtantius.</stage>
+               <sp>
+                  <speaker>Conſt.</speaker>
+                  <p>Now my dear <hi>Fidelius;</hi> how likeſt thou the times now? do they not change apace? doe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not Divine Juſtice cleerly demonſtrate to the World their guilt, and dogge them at the heeles? do not the <hi>Phat<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mble now? Bloud muſt be revenged; Murder and Patricide, although conceal'd long, at laſt betrayes it ſelf; nay often times proves his own executio<g ref="char:EOLhyphen"/>ner; but this licenſed and open wickedneſſe, invites all hands to take Revenge.</p>
+               </sp>
+               <sp>
+                  <speaker>Fidelius.</speaker>
+                  <p>The People threaten revenge on all; and do diſ<g ref="char:EOLhyphen"/>pute their deaths before their ends: ſome report <hi>Bradſhaw</hi> hath hang'd himſelf, another drown'd; a third is ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bb'd; when
+<pb n="18" facs="tcp:116392:11"/>as they ſpeak but as they'd have it; or as it muſt be: Thus they oft times ſay, Hee's a dead man, that's but condemn'd; and ſo are they by heavens Impartial Law; they're but re<g ref="char:EOLhyphen"/>priev'd a while, the day will come.</p>
+                  <lg>
+                     <l>They ſuffer muſt, a moſt aſſured doom;</l>
+                     <l>That Subject make his Soveraigns heart to bleed,</l>
+                     <l>Will finde a Subject ſhall revenge the deed.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Conſt.</speaker>
+                  <p>'Tis true <hi>Fidelius;</hi> but they never think of that; Re<g ref="char:EOLhyphen"/>bellion ſo bewitches them, they know not what they do; but with ſtupidity and ignorances; reſolve to finiſh what they have begun, though to ſcale heaven, or to put out the Sun.</p>
+               </sp>
+               <sp>
+                  <speaker>Fidelius.</speaker>
+                  <p>When did you ſee Rebellion proſper? But for black damn'd <hi>Regicide,</hi> (by <hi>Cook</hi> &amp; <hi>Rad<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>thus Se<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l</hi> accounted lawful) it is a ſin made <hi>Iud<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> beholding to a <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to eaſe his Conſcience, but theſe far worſe then R<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>agaces or Jewes, muſt expect Judgements worſe,</p>
+                  <p>The more their ſins 'gainſt light, the worſe their Curſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Conſt.</speaker>
+                  <p>They ſay that <hi>Fairfax</hi> doth die to day; ſhall we go ſee him.</p>
+               </sp>
+               <sp>
+                  <speaker>Fidelius.</speaker>
+                  <p>No, I love not to ſee the death of any man; nor have I envie at their perſons, but their Crimes; I'de rather ſee them live honeſt men, then to die Traytors. This is <hi>Cromwels</hi> Policy, now he hath filled this Sp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ge to ſqueze him; till a<g ref="char:EOLhyphen"/>nother does ſo much for him, which will not be long; if <hi>Over<g ref="char:EOLhyphen"/>ton</hi> ſpeake true; that Bull's deſign'd for the ſlaughter next; if he were but well baited firſt in <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Conſt.</speaker>
+                  <p>
+                     <hi>Dublin</hi> is for certain taken, <hi>London-Derry</hi> can't held out; which makes me think he can do little good there if that he were Landed, which is a thing almoſt impoſſible.</p>
+               </sp>
+               <sp>
+                  <speaker>Fidelius.</speaker>
+                  <p>Let's leave the ſucceſſe to him tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> proſecutes; and into <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</p>
+                  <p>The Sun decines, and takes leave of the Weſt.</p>
+               </sp>
+               <stage>Exit.</stage>
+               <stage>
+                  <hi>Enter</hi> Fairfax <hi>with a</hi> Jeſuit, <hi>Sheriffs, Executioner, and People with <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </stage>
+               <sp>
+                  <speaker>
+                     <hi>She<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iff.</hi>
+                  </speaker>
+                  <p>Come b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ion a way; I never thought he would come to better end, fine<g ref="char:punc">▪</g> he <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> word as <hi>New Mark<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </hi>
+                     <pb n="19" facs="tcp:116392:11"/>and likewiſe his Oath and Covenant with his King, and his dear Brethren the <hi>Scots.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sir,</speaker>
+                  <p>you had beſt repent; your time's but ſhort.</p>
+               </sp>
+               <sp>
+                  <speaker>Ieſuit.</speaker>
+                  <p>Your Pardon from His Holineſs is firm; <stage>whispers, is heard.</stage> You need not here repent.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>This is a Jeſuite, a Jeſuite: Hang him, hang him.</p>
+               </sp>
+               <sp>
+                  <speaker>Ieſuite.</speaker>
+                  <p>Nay pray good people ſpa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e my Life, and give me have to ſpeak; I ſhall tell you what will make you wonder.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>Speak then; but be brief, pr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>raction may cauſe a<g ref="char:EOLhyphen"/>nother Change.</p>
+               </sp>
+               <sp>
+                  <speaker>Ieſuite.</speaker>
+                  <p>And ſo it will; Let the Sheriff look in the N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pe of my Lord <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> neck.</p>
+                  <p>
+                     <hi>The Sheriff lookes in the N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pe of his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eck, and finds a Charm, which he pulls away; and his Carkaſſe falls and leaves a noyſome ſtench.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Sheriffs.</speaker>
+                  <p>What's the meaning of this, good Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Ieſuite.</speaker>
+                  <p>It is a Charm; the words are dubious, and cannot be made ſenſe of; and this he brought from <hi>Holland; Cromwel</hi> has the ſame; 'twas to preſerve their Carkaſſes while ſuch a time expir'd; elſe they had been dead long time before; and often killed by others.</p>
+               </sp>
+               <sp>
+                  <speaker>Sheriff.</speaker>
+                  <p>How come it then that <hi>Peters</hi> cured them?</p>
+               </sp>
+               <sp>
+                  <speaker>Ieſuite.</speaker>
+                  <p>
+                     <hi>Peters</hi> weary of Preaching Schiſme; and finding o<g ref="char:EOLhyphen"/>thers prefer'd before him, turns Necromancer, and deals in the black Art: Now their Charms was to preſerve them from o<g ref="char:EOLhyphen"/>thers hurts, but not their own; they falling by their own ſwords, were by <hi>Peters,</hi> re-poſſeſſed with Devils, which gave motion to their bodies.</p>
+               </sp>
+               <stage>Enter Pride, Ireton, Huſon.</stage>
+               <sp>
+                  <speaker>Ireton.</speaker>
+                  <p>Is the Execution paſt?</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>More Witches, more witches; fall upon them, ſtone them.</p>
+               </sp>
+               <stage>The people knocks them down with ſtones. Enter Gorge and my Lady Fairfax as one door; and Morly and Mrs Cromwel at the other, and meet.</stage>
+               <sp>
+                  <speaker>Lady Fairfax.</speaker>
+                  <p>My Husband murdered! Draw Mr <hi>Gorge.</hi>
+                  </p>
+               </sp>
+               <stage>Gorge and Morly fight, and both are mortally wounded.</stage>
+               <sp>
+                  <speaker>Gorge.</speaker>
+                  <p>I met with you there Sir;</p>
+               </sp>
+               <stage>Morly falls.</stage>
+               <sp>
+                  <speaker>Mrs Crom.</speaker>
+                  <p>Nay then thou villain have at thee.</p>
+                  <stage>piſtols him.</stage>
+                  <pb n="20" facs="tcp:116392:12"/>
+                  <p>And for thee Mrs <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, ('tis no time to ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ld)</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <stage>
+                     <hi>(She draws her knife and runs at my Lady <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> miſſing her; my Lady Fairfax <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Sword, and runs Mrs Cromwel th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>row<g ref="char:punc">▪</g> 
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> apprehend her for murder, and carry her to <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi>
+                  </stage>
+               </sp>
+               <sp>
+                  <speaker>Sheriff.</speaker>
+                  <p>Here is a ſudden Tragedy indeed;</p>
+                  <p>I doubt there's more ere long will bleed.</p>
+               </sp>
+               <sp>
+                  <speaker>People.</speaker>
+                  <p>Hang them, ſtone them; Witches, Murderers, Th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ves, Impoſtures: Let's Petition our King home; we ſhall ne<g ref="char:EOLhyphen"/>ver be happy elſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Owner.</speaker>
+                  <p>Content, Content;</p>
+                  <stage>Epilogue.</stage>
+                  <lg>
+                     <l>Come Royal CHARLES, and with a cloud of thunder</l>
+                     <l>Diſperſe this bed of Snakes, and keep them under.</l>
+                  </lg>
+               </sp>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

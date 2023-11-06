@@ -1,0 +1,1032 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scottish politike presbyter, slaine by an English independent. Or, The independents victory over the Presbyterian party. The rigour of the Scotch government, their conniving and bribing: the lewdnesse and debaucherie of the elders in secret. A tragi-comedie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92753</idno>
+            <idno type="STC">Wing S2097</idno>
+            <idno type="STC">Thomason E407_20</idno>
+            <idno type="STC">ESTC R203529</idno>
+            <idno type="EEBO-CITATION">99863465</idno>
+            <idno type="PROQUEST">99863465</idno>
+            <idno type="VID">115667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115667)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scottish politike presbyter, slaine by an English independent. Or, The independents victory over the Presbyterian party. The rigour of the Scotch government, their conniving and bribing: the lewdnesse and debaucherie of the elders in secret. A tragi-comedie.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 17.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Scotland --  Humor --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  Great Britain --  Humor --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115667:1" rendition="simple:additions"/>
+            <p>THE Scottiſh politike Presbyter, Slaine by an Engliſh Independent.</p>
+            <p>OR, The Independents Victory over the Presbyterian Party.</p>
+            <p>The rigour of the Scotch Government, their conniving and bribing: the lewdneſſe and debaucherie of Elders in ſecret.</p>
+            <p>
+               <hi>A Tragi-Comedie.</hi>
+            </p>
+            <q>Diruo &amp; aedifico, muto quadrata rotundis.</q>
+            <p>Printed in the Yeere 1647.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:115667:2"/>
+            <head>The Perſons.</head>
+            <p>
+               <list>
+                  <item>DIrectory the Scotch Presbyter.</item>
+                  <item>Sargus, Luxurio, two lewd Elders.</item>
+                  <item>Anarchie, an Independent.</item>
+                  <item>Priſcilla, his Wife.</item>
+                  <item>Liturgie, an Epiſcoparian.</item>
+                  <item>Moneyleſſe, a Courtier.</item>
+                  <item>A Purſevant.</item>
+                  <item>Officers.</item>
+                  <item>Mutes.</item>
+               </list>
+            </p>
+         </div>
+         <div type="prologue">
+            <head>Prologue.</head>
+            <l>PResbyterie and Independencie</l>
+            <l>Have long time ſtrove for the precedencie:</l>
+            <l>Here one kills t'other, when ye ſee him die,</l>
+            <l>Wiſh his deſtroyer fell by Liturgie.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115667:2"/>
+            <head>The Scotch politike Presbyter.</head>
+            <head type="sub">
+               <hi>A Tragi-Comedie.</hi>
+            </head>
+            <div n="1" type="act">
+               <head>Act 1.</head>
+               <div n="1" type="scene">
+                  <head>Scene 1.</head>
+                  <stage>Enter <hi>Directory, Sargus, Luxurio, two Elders.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Direct.</speaker>
+                     <p>IT muſt be ſo,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sar.</speaker>
+                     <p>If that hee'l not comply: have you heard no<g ref="char:EOLhyphen"/>thing from him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lux.</speaker>
+                     <p>No, he ſeems to ſleight our Summons.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Direct.</speaker>
+                     <p>Let him ſmart for't <hi>Luxurio,</hi> denounce him to the horn, after excommunication <hi>ipſo facto,</hi> what madneſſe doth poſſeſſe him, that hee'l not buy his peace?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sar.</speaker>
+                     <p>I ſent one of my Agents to him, who gave him timely no<g ref="char:EOLhyphen"/>tice, there was no way but puniſhment except a Fee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dir.</speaker>
+                     <p>Have you already fram'd the Warrant?</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r.</hi>
+                     </speaker>
+                     <p>Yes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dir.</speaker>
+                     <p>Read it.</p>
+                  </sp>
+                  <stage>Sargus reads.</stage>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <opener>
+                           <salute>
+                              <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ſhops Liturgie,</hi>
+                           </salute>
+                        </opener>
+                        <p>WE the Elders of the Congregation Demoniack, upon information and notice of ſome ſcandalls that you have g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ven whereof we are to take notice, do hereby as Offi<g ref="char:EOLhyphen"/>cers of the Church, requ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>re and command you to appeare be<g ref="char:EOLhyphen"/>fore us, on Tueſday the ſeventh day of February, Anno <hi>1644.</hi> to a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſwer ſuch things as ſhall be objected againſt you.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>
+                                    <hi>Directory,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Sargus,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Luxurio.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="2" facs="tcp:115667:3"/>
+                  <sp>
+                     <speaker>Dir.</speaker>
+                     <p>Send it away with ſpeed: fond man, doth he not know that we have ſcourged Lords, and trod on Kings? that temporall force will aid our ſpirituall plots; <hi>Knox</hi> and <hi>Melvill</hi> have left power to us, ample as that Romes Biſhop claimes; Ile make my ſelfe as great as him if I get foot in England: I hug my Genius that doth prompt me on.</p>
+                     <lg>
+                        <l>
+                           <hi>No dull and heavie fancie clogs my ſoule,</hi>
+                        </l>
+                        <l>
+                           <hi>'Tis pureſt fire extracted from the Pole.</hi>
+                        </l>
+                     </lg>
+                     <p>If that I can perſwade the Engliſhmen to let me nooſe them, as their Brethren, Ile ſpread my pennons further yet:</p>
+                     <lg>
+                        <l>
+                           <hi>And like a Comet in the evening skie,</hi>
+                        </l>
+                        <l>
+                           <hi>Strike with amazement every wondring eye.</hi>
+                        </l>
+                     </lg>
+                     <p>Let's be gone.</p>
+                     <stage>Exeunt.</stage>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>SCENE 2.</head>
+                  <stage>Enter <hi>Liturgie, Dipwell.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Litur.</speaker>
+                     <p>And why new Jordan?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dip.</speaker>
+                     <p>If we give credit to the Card, 'twill tell us, like to that river through which once Levites did beare the holy Ark. New River <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lowes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Litur.</speaker>
+                     <p>But can thoſe tender Virgins that reſort there for to be rebap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed, endure the bitter blaſts of <hi>Boreas</hi> and <hi>Hyems</hi> froſtie breath, and not be much impaired in their health?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dip.</speaker>
+                     <p>The water without doubt is ſanctified, and as the holy Martyrs girt with flames, ſang cheerfully, as if they nothing felt; ſo compaſſed about with ice and cold, thoſe that we there do dip, receive no harme.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Litur.</speaker>
+                     <p>Strange deluſions.</p>
+                  </sp>
+                  <stage>Enter a <hi>Purſevant, with Officers.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Pur.</speaker>
+                     <p>By the command o'th' ruling Presbyterie Demoniack, Sir I arreſt your perſon.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Litur.</speaker>
+                     <p>Where's your Warrant?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pur.</speaker>
+                     <p>Here.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Litur.</speaker>
+                     <p>Ha, my inveterate foes have all conſpir'd to work my ruine. Look here friend; becauſe I did refuſe to come when
+<pb n="3" facs="tcp:115667:3"/>ſummoned, nor ſent a Fee for my diſcharge, ſo to <stage>Shews Dipwell the Warrant.</stage> maintain their luſt and luxury, who by their daily prodigality conſume their <hi>aurum Tholoſanum,</hi> in riotouſneſſe, a<g ref="char:EOLhyphen"/>dulterie, and fornication. O England! Wilt thou be ſlave to theſe vermine? the vulgar do not know what will enſue, ſhould they accept of a Presbyterie; thoſe that do ſit at helme will not diſcover it, for that it tends to uphold their pride and wanton<g ref="char:EOLhyphen"/>neſſe; good men are vaſſalls to the vile:</p>
+                     <lg>
+                        <l>
+                           <hi>The Crowne ſtoopes to the mace,</hi>
+                        </l>
+                        <l>
+                           <hi>The noble to the baſe.</hi>
+                        </l>
+                     </lg>
+                     <p>While that the Fathers of the Church do walk like men dejected and forlorne,</p>
+                     <lg>
+                        <l>
+                           <hi>Mourning like dolefull Pelicans, and howle</hi>
+                        </l>
+                        <l>
+                           <hi>In deſart places, like</hi> Minervas <hi>Owle.</hi>
+                        </l>
+                     </lg>
+                     <p>Who would have thought ſo flouriſhing a State</p>
+                     <lg>
+                        <l>
+                           <hi>As England was but ſeven yeeres ago,</hi>
+                        </l>
+                        <l>
+                           <hi>Should now become the patterne of all woe:</hi>
+                        </l>
+                        <l>
+                           <hi>Calamity and comfort comes and goes</hi>
+                        </l>
+                        <l>
+                           <hi>From State to State, as Neptune ebbs and flowes:</hi>
+                        </l>
+                        <l>
+                           <hi>With humane things a thing divine doth play,</hi>
+                        </l>
+                        <l>
+                           <hi>Nothing arriv'd at height, but doth decay:</hi>
+                        </l>
+                        <l>
+                           <hi>Earths ioyes are falſe, they bid us ſoon adieu,</hi>
+                        </l>
+                        <l>
+                           <hi>Her during ſorrowes are moſt certain true.</hi>
+                        </l>
+                     </lg>
+                     <p>Come Ile along Sir with you: M. Dipwell, will you be witneſſe of my uſage with me?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dip.</speaker>
+                     <p>Sir, do not go, 'tis madneſſe for a man to put himſelfe into their hands that hate him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Litur.</speaker>
+                     <p>Should I not go, they'l give me over to the temporall ſword, and in the Market-place proclaime me rebell, confiſcate my eſtate, and ſend me into baniſhment.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dip.</speaker>
+                     <p>Will Engliſh men put on this Scottiſh yoke? I have a hope the Independents may ſend hence this government to be ab<g ref="char:EOLhyphen"/>hor'd, from England to Genevah, where 'twas born.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Litur.</speaker>
+                     <p>Pray heaven it prove ſo. Now to my adverſaries: my ſoule contemnes their moſt uſurped power, though now it over<g ref="char:EOLhyphen"/>flowes in teares, whoſe current overflowes its banks.</p>
+                     <pb n="4" facs="tcp:115667:4"/>
+                     <lg>
+                        <l>
+                           <hi>Where griefs Virago, upon either hand,</hi>
+                        </l>
+                        <l>
+                           <hi>Worſer t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>en Scilla, or Charybdis ſtand.</hi>
+                        </l>
+                     </lg>
+                     <stage>Exeunt.</stage>
+                  </sp>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>Act 2. Scene 1.</head>
+               <stage>Enter <hi>Anarchy, Priſcilla his wife.</hi>
+               </stage>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I'Le none of this ſame lowſie learning to make my ſon a Whoremaſter, e're he hath ſeen the age of eighteen yeares, for when they once come but to conſter, <hi>Ovid de Arte Amandi,</hi> their bowells earne to occupy the nine.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>Away thou foole, doth not even nature tell us, that lear<g ref="char:EOLhyphen"/>ning doth ſupport the world, and taught the ruſtick Clowne the way to till the ground, to bind the corne in ſheaves, and weild the flaile?</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>I ſay I will not make my ſon a beggar, expoſe him to contempt and ſcorne, ſend him to Oxford, ſend him to Cairfax rather and ſee him caper in a ſtring; no, no, we in this age of ours (the heavens be praiſed) have little uſe of learning, if he can read his Pſalter, and caſt up his accounts for bread and ſalt, he's a ſuffi<g ref="char:EOLhyphen"/>cient Scholler: beſides heaven bleſſe the Parliament for their moſt pious Acts in generall, and in particular, that they have reduc'd thoſe t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pp<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>g Black-coats to a new modell'd garbe, that where before they drank too much and eat too little, they now ſhall neither eat nor drink: what ſhall we doe with ſuch Lobcocks, that muſt ſit all the week in Taverns or Ale-houſes, and on the Sa<g ref="char:EOLhyphen"/>turday bellow two houres in ſtudy, which when they utter the next day there's none can underſtand it.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>The b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ind cares not if <hi>Sol</hi> ne're ſhine, they ſtill can grope their way, my ſon ſhall be a Scholler, and let the worldlings wallow in the dung, while he the Indies beares about him, none knowes the learneds bliſſe, but thoſe that learned are, I do looke on <hi>Plato's</hi> D<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y next unto <hi>Moſes</hi> writings, fam'd Ariſtotles lear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed Philoſophy, next unto <hi>Jeſſeis</hi> ſonnes rare Proverb, <hi>Livies</hi> large booke next to the Chronicles of Iſraels Kings, and <hi>Homers</hi>
+                     <pb n="5" facs="tcp:115667:4"/>Deathleſſe Verſe, next unto <hi>Davids</hi> Laies: may hell conſpire for to caſt plagues on thoſe would not have learning be advanc'd and honour'd, when ignorant Armies, ignorant Parliament, igno<g ref="char:EOLhyphen"/>rant Synods, ignorant Fools and Knaves</p>
+                  <q>
+                     <l>Shall lie unthought of, rotting in their graves,</l>
+                     <l>The learneds ſongs when they in duſt doe lie,</l>
+                     <l>Shall wraſtle even with eternitie.</l>
+                  </q>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Monieleſſe.</stage>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>
+                     <hi>Monieleſſe,</hi> I joy to ſee you Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Mon.</speaker>
+                  <p>Sir, I made bold to preſſe into your privacies unawares, my ignoranc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> will I hope purchaſe my pardon.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>Still complementing, you Courtiers feed on comple<g ref="char:EOLhyphen"/>ments as your meat, leave it and take more ſolid food, a thou<g ref="char:EOLhyphen"/>ſand of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um will not ſtaunch ones hunger: what newes, what newes abroad?</p>
+               </sp>
+               <sp>
+                  <speaker>Mon.</speaker>
+                  <p>Faith none that makes for me, the King muſt not yet ſee Whit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hall, <hi>Cromwell</hi> won't have it ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>We can grow great without him, what profit doth the world receive by Kings, who at the beſt are but relenting Tyrants, whoſe power is diſſonant from Gods appointment: how brave<g ref="char:EOLhyphen"/>ly Holland thrives uided by States, where people rule the peo<g ref="char:EOLhyphen"/>ple, there's a ſtrong ſimpathy in nature, the mutuall love they talk of that was wont to be 'twixt Subjects and their Kings, is now for ever loſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mon.</speaker>
+                  <p>Sir, I know you are an enemy to Monarchie, and would digreſſe even from your principles, ſhould you allow of King<g ref="char:EOLhyphen"/>ly Government, which makes your words invalid.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>Well ſaid, I like thee, that adverſities bleake ſtormes have not unriveted thy fixt reſolves, but thou ſtill art faithfull to thy Maſter.</p>
+                  <p>O Courtier curſe them that have caus'd thy woe,</p>
+                  <p>That like a Skeleton, thou now doſt ſhow:</p>
+                  <p>You came I know to dine with me, and are moſt welcome: what printed newes abroad?</p>
+               </sp>
+               <sp>
+                  <speaker>Mon.</speaker>
+                  <p>As I was coming to you, I met another meagre Cour<g ref="char:EOLhyphen"/>tiers face, and he ſhewed me a ſong, of which I begg'd the copie,
+<pb n="6" facs="tcp:115667:5"/>I hope 'twill not offend your eares, if I doe ſing them to you.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>Not the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaſt, let's hear.</p>
+               </sp>
+               <stage>Moneyleſſe ſings.</stage>
+               <lg>
+                  <l>
+                     <hi>The King ſhall now enioy his owne,</hi>
+                  </l>
+                  <l>
+                     <hi>And have the S veraigntie,</hi>
+                  </l>
+                  <l>
+                     <hi>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce more fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l his refulgent Throne</hi>
+                  </l>
+                  <l>
+                     <hi>Like to ſome Deitie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>But firſt of all his charge muſt heare</hi>
+                  </l>
+                  <l>
+                     <hi>For things moſt triviall,</hi>
+                  </l>
+                  <l>
+                     <hi>Three Kingdomes blood,</hi> Lilburne <hi>doth ſweare,</hi>
+                  </l>
+                  <l>
+                     <hi>Upon his head muſt fall.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>The Parliament, as ſome report,</hi>
+                  </l>
+                  <l>
+                     <hi>Intend for to disband,</hi>
+                  </l>
+                  <l>
+                     <hi>And if they would wee'd thanke them fort,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſomething give in hand.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>They now have ſeaven yeares ſate,</hi>
+                  </l>
+                  <l>
+                     <hi>And yet it will not bee,</hi>
+                  </l>
+                  <l>
+                     <hi>The Army (ſhall I tell you what?)</hi>
+                  </l>
+                  <l>
+                     <hi>Will never make them free.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Is it not pity, that at laſt</hi>
+                  </l>
+                  <l>
+                     <hi>When they intended flatting,</hi>
+                  </l>
+                  <l>
+                     <hi>They ſhould out of their Houſe be caſt,</hi>
+                  </l>
+                  <l>
+                     <hi>And ſuffer for their ſitting.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>And all the gold that they have got,</hi>
+                  </l>
+                  <l>
+                     <hi>And without feare extorted,</hi>
+                  </l>
+                  <l>
+                     <hi>For to enioy is not their lot,</hi>
+                  </l>
+                  <l>
+                     <hi>O they are ſtrangely thwarted!</hi>
+                  </l>
+               </lg>
+               <pb n="7" facs="tcp:115667:5"/>
+               <lg>
+                  <l>
+                     <hi>His Majeſty is quitted now of</hi> Brown <hi>that wooden Jaylor,</hi>
+                  </l>
+                  <l>
+                     <hi>And in his ſtead they doe allow</hi> Joyce, <hi>that ſame prick-louſe Taylor.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>'Tis very good to eaſe our teen, the Army are ſo witty,</hi>
+                  </l>
+                  <l>
+                     <hi>And many thouſands of them ſeene incompaſſing the City.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Why ſure it cannot but well hap, and prove a good purgation,</hi>
+                  </l>
+                  <l>
+                     <hi>That fourſcore Members at a clap are forced from their ſtation.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>The Propoſitions now are gone, and ſurely now the King</hi>
+                  </l>
+                  <l>
+                     <hi>Will ratifie them every one, but I feare no ſuch thing.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>He cannot ſure dare to reſiſt, if he intend to eate,</hi>
+                  </l>
+                  <l>
+                     <hi>For 'tis well known he long hath miſt his wonted clothes and meat.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Our dearest Brother</hi> (Jockey) <hi>now is his deſtruction wooing,</hi>
+                  </l>
+                  <l>
+                     <hi>And very fain would ſomething doe to purchaſe his undoing,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Their long-ear'd Aſſembly doe grieve and groan for ire,</hi>
+                  </l>
+                  <l>
+                     <hi>That their compounded Presbyterie ſhould back to them retire.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Truth is, how much the more at firſt our ſplendor ſhined bright,</hi>
+                  </l>
+                  <l>
+                     <hi>We are ſo much the more accurſt, invelloped with night.</hi>
+                  </l>
+               </lg>
+               <p>How like you this.</p>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>'Tis an excellent Song yfaith, ſhall I Mr. <hi>Monileſſe</hi> crave a copie of it?</p>
+               </sp>
+               <sp>
+                  <speaker>Mon.</speaker>
+                  <p>Both I and it are at your ſervice.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>Come Mr. <hi>Monileſſe,</hi> 'tis almoſt dinner time, time was you welcomed me, 'tis fit I ſhould be gratefull, come wife.</p>
+                  <stage>Exeunt Anar. Priſcilla, manet Mon.</stage>
+               </sp>
+               <sp>
+                  <p>Did I ere think that want ſhould ſo oppreſſe me, that I ſhould be conſtrained to wait on this man for a dinner.</p>
+                  <lg>
+                     <l>Yet of my wants, how dare I ſo complaine?</l>
+                     <l>Shall I not ſuffer with my Soveraigne,</l>
+                  </lg>
+                  <p>whom yet Ile not deſpaire to ſee plac't in his Throne, his Crowne on's head, his Scepter in his hand; the Citizens now doe triumph o're the Courtiers:</p>
+                  <lg>
+                     <l>O why ſhould Fortune make the City proud,</l>
+                     <l>And give them more then is the Court allow'd;</l>
+                     <l>The Kings owne brightneſſe, his own foile is made,</l>
+                     <l>And is to us the cauſe of his owne ſhade.</l>
+                  </lg>
+                  <stage>Exit.</stage>
+               </sp>
+            </div>
+            <div n="3" type="act">
+               <pb n="8" facs="tcp:115667:6"/>
+               <head>
+                  <hi>Act.</hi> 3.</head>
+               <stage>Recorders, a Conſiſtory of the Presbytery, then enter Directory, Sargus, Luxuria, after them, with Officers, Liturgie, Dip-well afarre off.</stage>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>BRing forth thoſe weeds of ſhame — apparell him.</p>
+               </sp>
+               <stage>A Coat of Sackcloath brought out.</stage>
+               <sp>
+                  <speaker>Litur.</speaker>
+                  <p>I hope I ſhall have licence for to ſpeak.</p>
+               </sp>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>Not a ſyllable, 'tis knowne thou art by name and nature an enemy to our Government, and haſt avoucht it to be tyrannous; ſaying, that <hi>Scotland</hi> by their policie in bring<g ref="char:EOLhyphen"/>ing their Church-forme amongſt us, doe but aſſacinate o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Monarchy, thirſting to be our Lords, all which here openly recant, or wee'l ſurrender thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Litur.</speaker>
+                  <l>I recant yee <hi>Cacademons,</hi> heare me, and marke,</l>
+                  <l>Firſt, Leatherne Swaines ſhall plow amid the skie,</l>
+                  <l>
+                     <hi>Thames</hi> turne his courſe, and leave his Channell dry;</l>
+                  <l>
+                     <hi>Sodomes</hi> dead Lake revive, and entertaine</l>
+                  <l>
+                     <hi>Leviathan</hi> and <hi>Neptunes</hi> hungry traine;</l>
+                  <l>Fiſhes the Flood forſake, and Fowles of Heaven</l>
+                  <l>Be deckt with ſcales, and in the Ocean driven;</l>
+                  <l>The brighteſt flame of Heaven ſhine by night,</l>
+                  <l>And horned <hi>Cynthia</hi> give diurnall light,</l>
+                  <l>Before I change my ſetled conſtant minde,</l>
+                  <l>To damne my ſelfe, that you may count me kind;</l>
+                  <l>
+                     <hi>Cemonian</hi> ſtaires, <hi>Phalarian</hi> Bulls, nor all</l>
+                  <l>Torments that flow from cruell Tyrants gall,</l>
+                  <l>
+                     <hi>Tarpeian</hi> Mountaines, Altars of <hi>Buſire,</hi>
+                  </l>
+                  <l>Or Fornaces of <hi>Babylonian</hi> fire,</l>
+                  <l>Shan't make me ſtood to ſuch baſe fooles as you,</l>
+                  <l>Or unto your intentions for to bow.</l>
+               </sp>
+               <sp>
+                  <speaker>Sar.</speaker>
+                  <p>Hee raves, Sir theſe looſe words will but augment your ſorrow in the end, doe you know where you are?</p>
+               </sp>
+               <sp>
+                  <speaker>Lit.</speaker>
+                  <p>Very well, letcherous <hi>Sargus,</hi> better then thou knowſt to bee honeſt.</p>
+               </sp>
+               <pb n="9" facs="tcp:115667:6"/>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>Stop his mouth, was ever heard ſpeeches ſo deſpe<g ref="char:EOLhyphen"/>rate? Dare you before this holy Convocation to prate ſo pe<g ref="char:EOLhyphen"/>remptorily?</p>
+               </sp>
+               <sp>
+                  <speaker>Litur.</speaker>
+                  <p>Dare you, yee ſots, aſſume unto your ſelves the name of holy?</p>
+                  <lg>
+                     <l>Methinks your cheekes ſhould, knowing you to blame,</l>
+                     <l>Out-bluſh the crimſon of your Gownes for ſhame,</l>
+                     <l>You are more cruell then the Crocodile,</l>
+                     <l>That mangles Memphians on the bankes of <hi>Nile,</hi>
+                     </l>
+                     <l>That kills, with weeping teares, for hungers need,</l>
+                     <l>But you can ſmile, and murder for no meed.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Lux.</speaker>
+                  <p>Venerable Fathers, this is unſufferable, if with auda<g ref="char:EOLhyphen"/>ciouſneſſe you thus diſpence, hereafter nere looke to be reve<g ref="char:EOLhyphen"/>renc'd, but to be ſcorn'd and laught at.</p>
+               </sp>
+               <sp>
+                  <speaker>Dir.</speaker>
+                  <p>Satan hath ſure inſpired him, <stage>The ſtoole of Repen<g ref="char:EOLhyphen"/>tance brought forth, contrived in the faſhi<g ref="char:EOLhyphen"/>on of a Pulpit covered ore with blacke.</stage> bring forth the Engine, ſupport him up.</p>
+               </sp>
+               <sp>
+                  <speaker>Litur.</speaker>
+                  <p>Hee that layes hand on mee, encounters death. <hi>plucks forth a Dag.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>Heare then your ſentence, Since you deny to be a penitent, wee here confiſcate all is yours, to be imploy'd for pious uſes, your ſelfe within three dayes for to depart the Land, and nere for to returne, on pain of death; this is your doome, and now break up the Court.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <sp>
+                  <speaker>Litur.</speaker>
+                  <p>O my mild Judges, you ſhew your pitty and your piety, your utmoſt wrath can't hurt my inward man, I there am ſtill the ſame, and not exil'd.</p>
+                  <lg>
+                     <l>Guilt, ſorrow, ſhame, horror attend you ſtill,</l>
+                     <l>And let vile <hi>Atae</hi> lead you where ſhe will.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Dip.</speaker>
+                  <p>Heaven keep mee ſtedfaſt to my principles, is this a limbe of the Presbyterie?</p>
+               </sp>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>Yes, but his merits make him fit to be lopt off were it, who could be infected worſe then they are?</p>
+               </sp>
+               <sp>
+                  <speaker>Dip.</speaker>
+                  <p>You heare your ſentence, will you depart the Land?</p>
+               </sp>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>No, Ile not forſake my Native ſoile, upon ſuch ſlen<g ref="char:EOLhyphen"/>der grounds, Ile live a while in private, I know an Indepen<g ref="char:EOLhyphen"/>dent Army will crop Presbyterie in the bud, and breake this
+<pb n="10" facs="tcp:115667:7"/>bed of Snakes, the onely way that now is viſible for to repairs my breaches; O thou Etern, the true Almighty <hi>Jove,</hi> ſuffe not Innovations to goe on, to bring this Kingdome to de<g ref="char:EOLunhyphen"/>ſtruction; but why alas doe I now talke of <hi>Jove,</hi>
+                  </p>
+                  <lg>
+                     <l>For now alas no <hi>Iupiter</hi> is found,</l>
+                     <l>But in all Lands <hi>Pluto</hi> a God is crown'd.</l>
+                  </lg>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="4" type="act">
+               <head>
+                  <hi>Act.</hi> 4.</head>
+               <div n="1" type="scene">
+                  <stage>
+                     <hi>Enter the two Elders,</hi> Sargus <hi>and</hi> Luxurio <hi>ſinging.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Sar.</speaker>
+                     <l>NOw ſable night hath with her ebbon Robe</l>
+                     <l>Darkned the ſurface of this earthly Globe</l>
+                     <l>And drowſie <hi>Morpheus</hi> with his Leaden Key,</l>
+                     <l>Lockt up the doores of every mortall eye,</l>
+                     <l>Come let us fall unto our wonted games,</l>
+                     <l>Let us be blithe, and nouriſh wanton flames.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lux.</speaker>
+                     <l>What Lincian eye diſcernes our lewd delight,</l>
+                     <l>Cover'd with darkneſſe of the cloudy night,</l>
+                     <l>Why ſhould we cenſure, feare, or idle ſound</l>
+                     <l>Othumane words, that are inviron'd round</l>
+                     <l>With Marble walls, the wit of Mortalls can</l>
+                     <l>Not finde our wiles, paſt finding out of man,</l>
+                     <l>And Heaven regards not the workes of men,</l>
+                     <l>Come let us boldly feaſt and frolicke then.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sar.</speaker>
+                     <l>Come forth yea creatures of delight,</l>
+                     <l>And let us in imbraces ſpend the night,</l>
+                     <stage>Six Whores put forth on two beds, three on a bed, Muſicke they riſe and dance with the two Elders.</stage>
+                  </sp>
+                  <stage>A SONG.
+<l>
+                        <hi>Meet, meet, and kiſſe,</hi>
+                     </l>
+                     <l>
+                        <hi>and girt each others waſte,</hi>
+                     </l>
+                     <l>
+                        <hi>And injoy the Lovers bliſſe,</hi>
+                     </l>
+                     <l>
+                        <hi>untill the night he paſt.</hi>
+                     </l>
+                     <pb n="11" facs="tcp:115667:7"/>
+                     <l>
+                        <hi>Elders that are holy men</hi>
+                     </l>
+                     <l>
+                        <hi>all day, muſt ſport at night.</hi>
+                     </l>
+                     <l>
+                        <hi>So, ſo, to't agen,</hi>
+                     </l>
+                     <l>
+                        <hi>'twill heighten Appetite.</hi>
+                     </l>
+                  </stage>
+                  <sp>
+                     <speaker>Sar.</speaker>
+                     <p>Thoſe three are thine, theſe mine, let's to't Like Monkies or the reeking Goat.</p>
+                     <stage>They aſcend each on a ſeverall bed, and are drawne in.</stage>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>SCENE 2.</head>
+                  <stage>Enter Priſcilla ſolus.</stage>
+                  <sp>
+                     <speaker>Priſc.</speaker>
+                     <p>Methinks the hours flie not with winged haſt as they were wont, or is't the expectation of my Love, that makes the night ſeeme tedious, my heart extreamely throbs, methinkes the walls ſeem as waſht o'r with blood, tis my fantaſie, thought like a ſubtile Jugler makes us ſee things that really are not; there's ſomething in me whiſpers fatall things, and tell me 'tis not ſafe to ſleepe betwixt my Lovers Armes to night; why ſure I dream, I was not wont to have theſe dubious fancies? I have begun to love him, and will now never deſert his friend<g ref="char:EOLhyphen"/>ſhip untill death, but thus I tamper poyſon for my ſelfe, but were I ſure to drinke the banefull draught, I could not now goe backe.</p>
+                     <lg>
+                        <l>For when the fleſh is nuzled once in vice,</l>
+                        <l>The ſweets of ſinne makes Hell a Paradiſe.</l>
+                     </lg>
+                  </sp>
+                  <stage>Enter Directory.</stage>
+                  <p>O you are welcome Sir.</p>
+                  <sp>
+                     <speaker>Direct.</speaker>
+                     <p>Worthy of all Loves joyes, haſt thou not blamed my tardy ſtay? thou art moſt certaine ſure thy husband is farre off, if hee ſhould take me with thee, his jealouſie and wrath might prompt him to ſtrange actions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Priſc.</speaker>
+                     <p>I have not the leaſt feare of his approach.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anar.</speaker>
+                     <p>Come then my <hi>Ptixdra,</hi> and let us taſte thoſe joyes thy Husband is unworthy of.</p>
+                  </sp>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <pb n="12" facs="tcp:115667:8"/>
+               <head>
+                  <hi>Act.</hi> 5.</head>
+               <stage>Directory and Priſcilla put forth in a bed both ſleeping. Enter Anarchy with a Torch.</stage>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <l>
+                     <hi>TItan</hi> to the <hi>Antipodes</hi> is gone,</l>
+                  <l>To luminate another Horizon,</l>
+                  <l>Tis now dead midnight, <hi>Morpheus</hi> Deaths eldeſt brother<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Hover about this place, and charme the ſence</l>
+                  <l>Of theſe two creatures made of impudence;</l>
+                  <l>Are they ſo ſhallow, to conceive that I</l>
+                  <l>Am made of <hi>Mamicall Pantominie.</hi>
+                  </l>
+                  <p>O woman, woman, who art compounded of all ill, I durſt have pawn'd my ſoule this wife of mine, had harbored a ſoule white as the Alpine ſnow, but ſhe is ulcerous and deformed, who knowes how often they have met, and wallowed in their active ſweats? what woman may be truſted?</p>
+                  <lg>
+                     <l>Luſt is a ſubtile Syren<g ref="char:punc">▪</g> ever training</l>
+                     <l>Soules to deſtruction by her ſecret faining.</l>
+                     <l>She is the Prince of darkneſſe eldeſt daughter,</l>
+                     <l>Wanting no craft her cunning Syre hath taught her:</l>
+                     <l>Tis like <hi>Meduſa's</hi> Treſſe, and if it be</l>
+                     <l>Twound in the body of mans living tree,</l>
+                     <l>Mans heart of fleſh converts, if he have one,</l>
+                     <l>By ſecret vigour to unliving ſtone.</l>
+                     <l>Dam'd ſtrumpet, have I tane you with your Letcher.</l>
+                     <l>
+                        <hi>Affrican</hi> Panthers, <hi>Hircan</hi> Tygers fierce,</l>
+                     <l>
+                        <hi>Cleonian</hi> Lions, and <hi>Danonian</hi> Beares,</l>
+                     <l>Are not ſo ravenous, whom hunger pin'd,</l>
+                     <l>As women that are le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cherouſly inclin'd.</l>
+                  </lg>
+                  <p>But I prolong their lives, and tire the Ferry-man with expect<g ref="char:EOLhyphen"/>ation— Stay, it is not wiſdome to cope with two that ſtrugle for their lives— Theſe are the bonds of death.</p>
+                  <stage>
+                     <hi>Ties e<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> to th' bed.</hi>
+                  </stage>
+                  <p>So awake you luſtfull paire.</p>
+                  <stage>They awake.</stage>
+               </sp>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>Ha,— we are undone.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>Yes <hi>Directory,</hi> ere winged time adde one hour more
+<pb n="13" facs="tcp:115667:8"/>to this declining night, thou ſhalt be numbred with the dead.</p>
+               </sp>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>O my unhaphy fate!</p>
+               </sp>
+               <sp>
+                  <speaker>Priſc.</speaker>
+                  <p>Deare Husband ſpare our lives, and then inflict what puniſhment thou wilt.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>O my fine <hi>Directory</hi> cam'ſt thou from <hi>Scotland</hi> hi<g ref="char:EOLhyphen"/>ther, to cheat us out of our Religion, our lives, our King, and covering thy ills with vertues cloake, act even thoſe crimes, which but to heare them nam'd, would fright the Caniballs; and ſhall we not ſtrive to circumvent thee?</p>
+               </sp>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>I pray heare me Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>Hath guilt emboldned ſo thy mind, that thou dar'ſt view my face, and ſpeake.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſc.</speaker>
+                  <p>Sir, I confeſſe my crime cannot be expiated but with blood, but if mild pitty harbour in your breaſt, I doe implore your mercie.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>Peace, vile ſtrumpet, thou mayſt as well attempt to ſcale the Heavens, and ride on the Sun beames, as ſtrive with talke to mitigate my fury, and ſtay the courſe of my revenge, but firſt good <hi>Directory</hi> Ile ſtab you by the book, and torture you not opening a veine.</p>
+                  <stage>Dumbe Shew.</stage>
+                  <stage>Solemne Muſicke.</stage>
+                  <stage>One repreſenting Directory, accompanied with a rabble in the habit of Elders, running as flying from Souldiers, who purſue them with their ſwords drawne.</stage>
+                  <p>Did you behold the Pageant, great <hi>Babylon</hi> is falne, an <hi>Engliſh</hi> Army hath extirpated <hi>Presbyterie</hi> root and branch, the Elders may in <hi>Scotland</hi> court <hi>Suſanna,</hi> here are too many <hi>Daniels</hi> to ſift them; and now Sir you muſt goe, but not to <hi>Scotland,</hi> that's but Purgatory, yet where youl find many Blew Bonnets more, I meane to Hell — Thus I diſmiſſe thy ſoule.—</p>
+               </sp>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>Hold Sir, and ere you ſend my ſoul to wander in the iviſible Land, heare what I now ſhall utter; by Heaven and Earth, and him that made them both, I nere was guilty not in thought, til this dire hour, of the defiling of your Mariage bed.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>Doſt thinke dull foole, that all thy proteſtations, thy heav'd up hands, and ſighs, were they as numerous as the ſand hid in the Battick Sea, ſhould raiſe my heart for to relent; no,
+<pb n="14" facs="tcp:115667:9"/>in thy death <hi>England</hi> gathers life, whoſe happines I wiſh; thus for it worke.</p>
+               </sp>
+               <stage>Stabs him with a Poniard.</stage>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>O thou haſt opt a flood-gate, which will not cloſe till my heart blood in drain'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>If thou wert born of woman ſpare my life.</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>O thou luxurious Strumpet, hath not thy guilt or feare bereft thy tongue of utterance; methinks thou ſhouldſt, when thinking on thy fact, convert to ſtone, and ſave my hand a labor to ſend thee to another world. There ſtrumpet <hi>ſtabs her.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>O heaven!</p>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>So,—how like you this, Phlebotomizing only can care the feaver in your blood, why don't you mingle limbes? get up and at it.</p>
+               </sp>
+               <sp>
+                  <speaker>Direct.</speaker>
+                  <p>Like to a Ship diſmembred of her ſailes and cuft from ſide to ſide by ſurly waves, ſo doth my ſoule fare,</p>
+                  <lg>
+                     <l>As that poore Veſſell reſts my brittle ſtay,</l>
+                     <l>Neerer the Land, ſtill neerer caſt away.</l>
+                  </lg>
+                  <p>
+                     <hi>Presbyterie</hi> in my fall receives its mortall wound, and ne'r muſt look in <hi>England</hi> to beare ſway; O, O, I ſee in this the power of providence. Whoſe ſtronger hand reſtrains our wilful powers</p>
+                  <p>A will above doth rule the will of ours.</p>
+                  <stage>He dies.</stage>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>He's dead, but ſhe remains with life, and wilt thou not acompany thy letcher, that he may man thee into <hi>Charons</hi> boat.</p>
+               </sp>
+               <sp>
+                  <speaker>Priſ.</speaker>
+                  <p>My ſoule diſdaines her habitation, and now wil needs be fleeting; know Sir, for now I fear not all your fury. I lov'd <hi>Directory</hi> as my own ſoul, and knew him oftner then your ſelf, for which may heaven forgive me; for his ſake I could wiſh to live, but now he's gone, what ſhould I doe on earth.</p>
+                  <lg>
+                     <l>Death our delights continually doth ſever,</l>
+                     <l>Vertue alone abandoneth us never.</l>
+                  </lg>
+                  <stage>She dies.</stage>
+               </sp>
+               <sp>
+                  <speaker>Anar.</speaker>
+                  <p>She's gone<g ref="char:punc">▪</g> farewell for ever, may heaven forgive thy fault. I would not proſecute revenge ſo farre, as wiſh thy ſou'e deſtruction, what now remaines for me I muſt be gone far hence ere <hi>Sol</hi> viſit our <hi>Horizon,</hi> let Fortune do her worſt.</p>
+                  <lg>
+                     <l>
+                        <hi>Her frownes he feares not, nor her hot'st Alarmes,</hi>
+                     </l>
+                     <l>
+                        <hi>That beares againſt them patience for his Armes.</hi>
+                     </l>
+                  </lg>
+                  <stage>Exit.</stage>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2043 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An new enterlude of impacient pouerte newly imprynted. Foure men may well and easely playe it. Peace, Coll hassarde and Concience for one man. Haboundaunce and Mysrule for a nother man. Impacient pouerte, Prosperyte, [and] pouerte, for one. Enuy and the Somner for a nother man.</title>
+            <title>Impatient poverty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1561</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04055</idno>
+            <idno type="STC">STC 14113</idno>
+            <idno type="STC">ESTC S109084</idno>
+            <idno type="EEBO-CITATION">99844734</idno>
+            <idno type="PROQUEST">99844734</idno>
+            <idno type="VID">9572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A04055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9572)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 346:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An new enterlude of impacient pouerte newly imprynted. Foure men may well and easely playe it. Peace, Coll hassarde and Concience for one man. Haboundaunce and Mysrule for a nother man. Impacient pouerte, Prosperyte, [and] pouerte, for one. Enuy and the Somner for a nother man.</title>
+                  <title>Impatient poverty.</title>
+               </titleStmt>
+               <extent>[32+] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Copland?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1561?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Printer's name and publication date conjectured by STC.</note>
+                  <note>Signatures: A-D⁴+.</note>
+                  <note>The only known copy lacks all after sig.D, presumably E² , since this edition agrees page for page with STC 14112.5.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9572:1"/>
+            <pb facs="tcp:9572:1"/>
+            <p>An new enterlude of Impacient pouerte newly Imprynted.</p>
+            <p>¶Foure men may well and eaſely playe it.</p>
+            <list>
+               <item>Peace. Collhaſſarde and Concience for one man.</item>
+               <item>Haboundaunce and Myſrule for a nother man.</item>
+               <item>Impacient pouerte, Proſperyte, &amp; pouerte, for one.</item>
+               <item>Enuy and the Somner for a nother man.</item>
+            </list>
+            <figure>
+               <figDesc>depiction of three men</figDesc>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="interlude">
+            <pb facs="tcp:9572:2"/>
+            <pb facs="tcp:9572:2"/>
+            <sp>
+               <speaker>¶Peace</speaker>
+               <stage>begynneth.</stage>
+               <lg>
+                  <l>THe puyſaunt prynce and innocent moſt pure</l>
+                  <l>which hu<g ref="char:cmbAbbrStroke">̄</g>bly deſce<g ref="char:cmbAbbrStroke">̄</g>ded from y<hi rend="sup">e</hi> ſete ſe<g ref="char:cmbAbbrStroke">̄</g>piternall</l>
+                  <l>Illumyne his beames of grace to euery creature</l>
+                  <l>To withſtand the conflycte of our enemyes mortall</l>
+                  <l>The deuyl, the worlde, &amp; the fleſh, theſe thre in ſpecial</l>
+                  <l>whiche ſetteth deuyſion betwene y<hi rend="sup">e</hi> ſoule &amp; the body</l>
+                  <l>Inlike wiſe enuy ſetteth debat betwene party &amp; partye</l>
+               </lg>
+               <lg>
+                  <l>I ſpeake for this cauſe, dayly ye may ſe</l>
+                  <l>How that by enuy and malyce, many be deſtroyed</l>
+                  <l>Which if they had lyued in peace w<hi rend="sup">t</hi> pacient humilite</l>
+                  <l>Ryches and proſperyte with them had ben emploied</l>
+                  <l>For there as is peace, no man is annoyed</l>
+                  <l>For by peace men growe to great rycheſſe</l>
+                  <l>And by peace men lyue in great quyetneſſe</l>
+               </lg>
+               <lg>
+                  <l>I am named peace, which enuye doeth expell</l>
+                  <l>Enuye with me ſhall neuer reſt</l>
+                  <l>For enuy is one of the paynes of hell</l>
+                  <l>When that he ſoiourneth in a mans breſt</l>
+                  <l>Lyke the burnyng Fenix in her owne neſt</l>
+                  <l>Though ſhe can none other hurte ne greue</l>
+                  <l>yet ſhe dooth not ceaſe her ſelfe to myſcheue</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>A ſyr here was a longe predycacion</l>
+               <l>Me thought ye ſayd in your communication</l>
+               <l>To euery man peace was moſte behoued.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>For ſoth and ſo ſayd I.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>That ſhalbe proued contrary by and by</l>
+               <l>For by peace muche people are vndone</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>What people are tho.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>The armurer, the fletcher, and the bower</l>
+               <l>Maryners, Gonners, and the poore ſowdyer</l>
+               <l>Yea and alſo many another artyfycer</l>
+               <l>Whiche I do not reherſe by name</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:3"/>
+               <speaker>Peace.</speaker>
+               <l>I ſaye the vnyuerſall people doth beſt obtayne</l>
+               <l>where as peace is euer abydyng</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Thou lyeſt ſo god me helpe and halydome</l>
+               <l>For then were ſurgyons cleane vndone</l>
+               <l>Of them that wyll fyght and breake apate</l>
+               <l>They gete good lyuyng both early and late</l>
+               <l>And what ſayeſt thou by men of lawe</l>
+               <l>Theyr lyuyng were not worth a ſtrawe</l>
+               <l>And euery man ſhould lyue in peace.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>That is not for the commons encreaſe</l>
+               <l>For by peace they profyte in many a thinge</l>
+               <l>Peace ſetteth amyte betwene kyng &amp; kynge</l>
+               <l>In tyme of peace marchauntes haue their courſe</l>
+               <l>To paſſe and repaſſe</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Thou lyeſt knaue by the maſſe</l>
+               <l>For vnder colour of peace much ſuttelte hath bene wroughte</l>
+               <l>And ſhips are taken y<hi rend="sup">e</hi> marchau<g ref="char:cmbAbbrStroke">̄</g>tes dere haue bought</l>
+               <l>Was that for their promocion</l>
+               <l>Nay in tyme of warre</l>
+               <l>Suche a knaue durſt not ſtere</l>
+               <l>By y<hi rend="sup">e</hi> maſſe were it not for ſhame y<hi rend="sup">t</hi> ſhoulde bere me a blow</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Holde thy handes thou lewde felowe</l>
+               <l>Thou art of euyll dyſpoſycion</l>
+               <l>thus agaynſt peace to repugne</l>
+               <l>The whiche from heauen deſcended downe</l>
+               <l>to brynge man out of captyuyte</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>A horton why doeſt thou lye</l>
+               <l>When were thou in heauen tell me by and by</l>
+               <l>Howe cameſt thou downe with a ladder or a rope</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>yt were no ſynne to hange the by the throte</l>
+               <l>Thy wordes be enuyous, not grounded on charite.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Syr one thyng I praye you tell me.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>What is that</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:3"/>
+               <speaker>Enuye.</speaker>
+               <l>Haue ye any wyfe or no</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Why aſke ye ſo</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Bycauſe ye ſaye peace is moſte expedyent</l>
+               <l>yf your wyfe made you cockolde you beyng preſent</l>
+               <l>What woulde ye do</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Geue her ſuche punyſhement as longeth therto</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>A fal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e flatteryng horſouloo</l>
+               <l>Nowe thou ſayeſt agaynſt thyne owne declaration</l>
+               <l>Yf thou fyght where is then peace become</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>I breake not peace with doing due correction</l>
+               <l>For correction ſhould be done charytably</l>
+               <l>Iraſcemini et nolite peccare</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>I ſhall mete that at omnium quare</l>
+               <l>Pace ſhould forgeue and not be reuenged</l>
+               <l>Hence horſon by our lady of wolpit</l>
+               <l>I ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l rappe thee one the pate</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Go hence wretche thou make bate</l>
+               <l>yt were almes to ſet the in newgate</l>
+               <l>Howe maiſter conſtable come nere</l>
+               <l>Here is a wretche without reaſon</l>
+               <l>Take and put hym in pryſon</l>
+               <l>With as many yrons as he may beare</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>By our lady I wyll come no nere</l>
+               <l>A conſtable quod ha, nay that wyll I not abyde</l>
+               <l>For I am lothe to go ſhorter tyde</l>
+               <l>yet longe horſon for all thy pryde</l>
+               <l>I ſhall mete with thee another daye</l>
+               <l>When one of vs two ſhall goo a knaue a waye</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>O thou wretche thou ought to remorde</l>
+               <l>That ſo tarre arte exyled from charyte</l>
+               <l>Lo he thynketh not, howe mekely his maker &amp; Lorde</l>
+               <l>Suffered reprefe and dyed vpon a tree</l>
+               <l>Geuynge vs example that with humylyte</l>
+               <pb facs="tcp:9572:4"/>
+               <l>Euery man ſhould folowe his trace</l>
+               <l>That in heauen wyll clayme a place</l>
+            </sp>
+            <sp>
+               <speaker>¶Impacient pouerte.</speaker>
+               <l>Kepe kepe for coxs face.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Why art thou ſo out of pacience</l>
+            </sp>
+            <sp>
+               <speaker>impacy<g ref="char:EOLhyphen"/>ent po.</speaker>
+               <l>A knaue would haue reſted me I owe hym but .xl pence</l>
+               <l>He ſhall abyde by goddes dere bleſt.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Take hede my frende thus ſayeth the texte</l>
+               <l>In lytle medlyng ſtandeth great reſt</l>
+               <l>Therfore paye thy duetye well and honeſtly</l>
+               <l>With fewe wordes diſcretely</l>
+               <l>Another tyme ye ſhall be the better truſte</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>That wyl I neuer do whyle I lyue let him do hys beſt</l>
+               <l>I had leuer laye all my good to pledge</l>
+               <l>To gete a wryte of pryueldge</l>
+               <l>So may I gy by his noſe at large</l>
+               <l>Spyte of his tethe who ſo euer ſay nay</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>This is but a wilfull mynde if thou wilt not paye</l>
+               <l>Thy very duety, whiche can not be denade</l>
+               <l>Geuing of thy wryte and expence in the lawe</l>
+               <l>Wyll coſt more then thy duty, this well I knawe</l>
+               <l>Thy dette therewith can not be payde</l>
+               <l>yt is only a deferryng of the payment.</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>yet the knaue ſhall not haue his entent.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Thou ſhalt pay by rightfull iudgement</l>
+               <l>For the lawe is indifferent to euery perſon</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>I ſe thou holdeſt on his opynion</l>
+               <l>yet I ſet not by you both a ryſſhe</l>
+               <l>And I mete the knaue I ſhall hewe his fleſſhe</l>
+               <l>Helpe hym thou olde churle and thou can</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>I ſe thou art an euyll dyſpoſed man</l>
+               <l>I vtterly forſake thy condycion</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>Mary auaunt long precious horſon</l>
+               <pb facs="tcp:9572:4"/>
+               <l>I ſet not by the nor hym, I make God auowe</l>
+               <l>I am as good a man as thou for all thy good</l>
+               <l>Let it be tryed by ma<g ref="char:cmbAbbrStroke">̄</g>hode, and therto I geue the my gloue</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Alſo to warryours I do reproue</l>
+               <l>For peace loueth not to fyght</l>
+            </sp>
+            <sp>
+               <speaker>impacy<g ref="char:EOLhyphen"/>ent po.</speaker>
+               <l>No olde foole, thou haſt thy myght</l>
+               <l>For in age is nought els but cowardyſe</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>youth with his courage lyght</l>
+               <l>Nor ſtrenght with multytude I do y<hi rend="sup">e</hi> plight</l>
+               <l>Are not onely the cauſe of victory</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>No good ſyr, what then.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Grace and good gouernaunce of man</l>
+               <l>For with good diſcreſion they began</l>
+               <l>That were the great wynners of victory</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>The victory is gotten by diſcretion</l>
+               <l>I praye you ſyr ſhewe me this leſſon</l>
+               <l>How to come to rycheſſe, for that is all my care</l>
+               <l>For I am euer in great neceſſite</l>
+               <l>Meate and drynke with me is ſcarſyte</l>
+               <l>No man wyll truſt me of a peny</l>
+               <l>And alſo my clothes are but bare</l>
+               <l>Good ſyr what ſay you therin.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>I holde it punyſhement for thy ſynne</l>
+               <l>Shew me what is thy name</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>I am named Impacient pouerte</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>For ſoth that may well be</l>
+               <l>Thou art ſo full of wrath and enuy</l>
+               <l>In thee can growe no grace</l>
+               <l>But yf thou wylt forſake ſenſualyte</l>
+               <l>And be gouerned by reaſon, as I ſhall enduce thee</l>
+               <l>Thou ſhalt come to rycheſſe, within ſhorte ſpace</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>Shew me that now in this place</l>
+               <l>And therto I wyll agre</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:5"/>
+               <speaker>Peace.</speaker>
+               <l>Thou muſt loue thy neyghboure with charite</l>
+               <l>Do vnto hym, no maner of dyſeaſe</l>
+               <l>Loke howe thou would he dyd to thee</l>
+               <l>Do to hym no worſe in no degree</l>
+               <l>And then thou ſhalt our lorde pleaſe.</l>
+            </sp>
+            <sp>
+               <speaker>impacy<g ref="char:punc">▪</g>
+               </speaker>
+               <l>Shall I loue hym that loueth not me?</l>
+               <l>Thoſe that trouble &amp; rebuke me ſhamfully</l>
+               <l>That wyll I neuer do whyle I lyue.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Thou muſt charitably all fautes forgeue</l>
+               <l>Wwat ſoeuer any man to thee ſaye</l>
+               <l>Let as thou hardeſt it not, turne thyne care awaye</l>
+               <l>Thou <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>halt pleaſe god, yf thou ſo do.</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>Nay by god there hoo</l>
+               <l>What is he in all this place</l>
+               <l>That wyll do as this man ſayde</l>
+               <l>Shewe me or I go</l>
+               <l>yf a man do you a great offence</l>
+               <l>Wyll ye kepe your pacience</l>
+               <l>Naye be god not ſo</l>
+               <l>I put caſe I breake your head</l>
+               <l>Wyll ye ſuffre that in very dede.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>to ſuffer for chriſtes ſake I ſhal haue mede</l>
+            </sp>
+            <sp>
+               <speaker>impacy</speaker>
+               <l>That ſhall I knowe by goddes breade.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Holde thy hande and kepe pacyence</l>
+               <l>thinke what chriſte ſuffered for our offence</l>
+               <l>He was beate<g ref="char:cmbAbbrStroke">̄</g> ſcourged, &amp; ſpite on w<hi rend="sup">t</hi> viole<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+               <l>And ſuffered death for our ſake</l>
+               <l>yet he toke it paciently</l>
+               <l>He forgaue his death, &amp; praied for his enmys</l>
+               <l>Pater dimite illis, his ſaying was truely</l>
+               <l>An exam <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> vs to take</l>
+               <l>to be meke in harte: beati pauperes ſpiritu</l>
+               <l>Shall Chriſte ſaye full euen.</l>
+               <pb facs="tcp:9572:5"/>
+               <l>Et venite benediciti: come my bleſſed chyldren</l>
+               <l>To the kyngdome of heauen.</l>
+            </sp>
+            <sp>
+               <speaker>impacy<g ref="char:punc">▪</g>
+               </speaker>
+               <l>Syr I thanke you, for your ghoſtly inſtruction</l>
+               <l>Vnto your ſaying, I can make no delayaunce</l>
+               <l>I put me vnder your gouernacion</l>
+               <l>And for my myſdedes, I take greate repentaunce</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Then to my ſayinge, take good remembraunce</l>
+               <l>Exercyſe yourſelfe in vertue, from this tyme hence</l>
+               <l>And vnto peace euermore be obedyent</l>
+               <l>Syt before euery ſharpe word, a ſhilde of ſuffraunce</l>
+               <l>And when tyme is of your concupiſſaunce</l>
+            </sp>
+            <sp>
+               <speaker>impacy.</speaker>
+               <l>Then pacyfye it with benygne reſyſtaunce</l>
+               <l>Ser gramercy, y<hi rend="sup">t</hi> ye haue brought me to this eſtate</l>
+               <l>By your aduertiſme<g ref="char:cmbAbbrStroke">̄</g>t I am willing to liue in chriſtes law</l>
+               <l>There as I haue offended him both early &amp; late</l>
+               <l>I ſerued hym not for loue nor for awe</l>
+               <l>Therfore nowe ryght well I knowe</l>
+               <l>That pouerte and myſery that I my lyfe in leade</l>
+               <l>yt is but only punyſhement for my myſdeade</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Nowe or we any further procede</l>
+               <l>Holde this veſture and put it on thee</l>
+               <l>From henceforth thou ſhalt be called proſperytie</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>I thanke god and you I am in felicite</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Now vnto you I ſhall here ſhewe</l>
+               <l>Of ſuche thynges as ye ſhall eſchewe</l>
+               <l>Fyrſt your ſoule loke that ye kepe cleane</l>
+               <l>Beware of myſrule in any wyſe</l>
+               <l>Playe not at caylles, cardes nor dyſe</l>
+               <l>Alſo from miſwomen, for by them miſchefe may ryſe</l>
+               <l>As it doeth often, thys dayly is ſene</l>
+               <l>Haunte no tauernes, nor ſytte not vp late</l>
+               <l>Let no haſſardes nor riotours, w<hi rend="sup">t</hi> you be checke mat</l>
+               <l>For then wyll enuy come, and make debate</l>
+               <pb facs="tcp:9572:6"/>
+               <l>The whiche ſhall cauſe great troble</l>
+               <l>Be plentyfull of ſuche as god hath ſent</l>
+               <l>Vnto y<hi rend="sup">e</hi> poore people geue with good inte<g ref="char:cmbAbbrStroke">̄</g>te</l>
+               <l>For euery peny that is ſo ſpent</l>
+               <l>God wyll ſende the double.</l>
+               <l>Take hede and do as I haue ſayde</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>Syr therwith I holde me well apayde</l>
+               <l>As ye haue commaunded me it ſhall be done</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Then let vs departe for a ſeaſon</l>
+               <l>plyenede I wyll be your protection. <stage>Exiu<g ref="char:cmbAbbrStroke">̄</g>t ambo</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>Ioye and ſolace be in this hall</l>
+               <l>Is there no man here that knoweth me at all</l>
+               <l>I am beloued both with great and ſmall</l>
+               <l>Haboundaunce is my name</l>
+               <l>I haue all thynges as me lyſt</l>
+               <l>Meate drynke, and cloth of the beſt</l>
+               <l>Golde and ſyluer, full is euery cheſt</l>
+               <l>In fayth I wyll not layne</l>
+               <l>I thynke ye knowe not my wayes</l>
+               <l>Howe I gette goodes nowe a dayes</l>
+               <l>By a propre meane</l>
+               <l>Thynke you that I woulde</l>
+               <l>Lende eyther ſyluer or golde</l>
+               <l>That daye ſhall not be ſene</l>
+               <l>But I wyll lende them ware</l>
+               <l>That ſhal be both badde and deare</l>
+               <l>Not worth the money he ſhall pay</l>
+               <l>And yf he can no ſuerte get</l>
+               <l>Of my ware he getteth ryght nought</l>
+               <l>Without a good pledge he laye</l>
+               <l>Then wyll I for myne auayle</l>
+               <l>He ſhall make a byll of ſayle</l>
+               <l>To me full bought, and ſolde</l>
+               <pb facs="tcp:9572:6"/>
+               <l>yf the daye be exſpyred and paſte</l>
+               <l>Then wyll I holde it faſte</l>
+               <l>He ſhall not haue it though he would</l>
+               <l>this crafte I haue longe vſed</l>
+               <l>And ſome men do not yet refuſe it</l>
+               <l>this is openly knowne</l>
+               <l>What is he in all this towne</l>
+               <l>that wyll lende without ſynguler commodſt</l>
+               <l>Shoulde I tende without a profyte</l>
+               <l>Nay than I holde nought worth my wytte.</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>All this ye ſaye, is agaynſt conſcience</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>Conſcience quod a, nay then ſhal we neuer thryue</l>
+               <l>For I knowe hym not alyue</l>
+               <l>By conſcience that commeth to ſubſtaunce</l>
+               <l>I haue all maner of marchaundy</l>
+               <l>I ſell for longe dayes to them that are nedy</l>
+               <l>And for the payment I haue good ſuertye</l>
+               <l>Bounde in ſtatute marchaunce</l>
+               <l>Becauſe I maye forbeare</l>
+               <l>I ſell my ware ſo deare</l>
+               <l>I make fourty of twenty in halfe a yeare</l>
+               <l>Other men do ſo as well as I.</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Euen ſynne, vary ſhame mary fye</l>
+               <l>Theſe goodes are gotten vntrewely</l>
+               <l>Many a man is vndone therby</l>
+               <l>To take this ware to deare</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>They ſeke to me both farre and neare</l>
+               <l>Me thynke it is a good dede</l>
+               <l>To helpe a man at his nede</l>
+               <l>Yet I haue other meanes</l>
+               <l>Wherby to gette great gaynes</l>
+               <l>I thynke ye knowe not that</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>I no God wote</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:7"/>
+               <speaker>Haboſt.</speaker>
+               <l>No ye are but an ydyote</l>
+               <l>I ſolde a man as muche ware, as came to .xl. pondue</l>
+               <l>And in an oblygacion, I had hym bounde</l>
+               <l>To pay me at a certayne daye</l>
+               <l>And whan the bargayne was made playne</l>
+               <l>Myne owne ſeruaunt, bought the ſame ware againe</l>
+               <l>For the thyrde penny it coſte, ye wote what I meane</l>
+               <l>But was not this a wyſe waye?</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Thou ſhalt repent it another daye</l>
+               <l>I charge the as farre as I maye</l>
+               <l>Suche falſe wayes neuer begynne</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>Wherfore this is no ſynne</l>
+               <l>yt is playne byeng and ſellyng</l>
+               <l>Lawfull it is for a man to wynne</l>
+               <l>Els ryche ſhall he neuer be.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Wynnyng to be hadde, with due ſuffycience</l>
+               <l>In trewe byeng and ſellyng, is not to diſcommende</l>
+               <l>But for thy falſe vſuri, thou art curſed in y<hi rend="sup">e</hi> ſentence</l>
+               <l>I praye God geue thee grace for to amende.</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Is euery man accurſed, that doeth bye and ſell</l>
+               <l>Then ſhall no man with marchaundyſe mell</l>
+               <l>Howe ſhall the worlde then be vpholde</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>Nay ſyr, amyſſe ye do vnderſtande me</l>
+               <l>All thoſe that occupy falſe vſurye</l>
+               <l>And tranſgreſſeth the lawes of God by iniquitie</l>
+               <l>All ſuche are accurſed I you tolde</l>
+               <l>As for byeng and ſellyng, nedes muſt be</l>
+               <l>And God commaunded to lende to the<g ref="char:cmbAbbrStroke">̄</g> that are nedy</l>
+               <l>So it be not to their iniurye</l>
+               <l>For luker to theym ſolde.</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>Howe ſhoulde I ſell, ſhewe me your wayes</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>ye may not ſell the dearer for dayes</l>
+               <l>yf ye do, it is contrarye to Goddes lawes</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:7"/>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>It is vſed in oure Countrey</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>yt is the more pytie</l>
+               <l>One ſuche is able to deſtroye a Cytye</l>
+               <l>And God ſhewe not his great mercy</l>
+               <l>All ſuche are dampned by his equite</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>God forfende that ſhould be</l>
+               <l>Howe ſhall men do that be of great reputacion</l>
+               <l>Whiche kepe theyr goodes on this ſame faſhyon</l>
+               <l>By vſury, dyſceyte and by extorcion</l>
+               <l>I do ſo my ſelfe, wherfore ſhoulde I lye</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Thou mayſt be the more ſorye</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>It is ſo nowe, what remedy</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Doo make reſtytucion</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>What call ye reſtytucion?</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Reſtore ſuche goodes as ye haue gotten</l>
+               <l>wrongfully by oppreſſion.</l>
+               <l>Then ſhall I haue lyttle in my poſſeſſion</l>
+               <l>I wyll make God amendes, another waye</l>
+               <l>I wyll faſte and I wyll praye</l>
+               <l>And I wyll geue almes euery daye</l>
+               <l>That I haue done amyſſe, I am ſory therfore</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>This is not ſufficient, thou muſt reſtore</l>
+               <l>Quia non dimittitur peccatum</l>
+               <l>Niſi reſtituatur ablatum</l>
+               <l>ye muſt reſtore to them, ye haue offended vnto</l>
+            </sp>
+            <sp>
+               <speaker>habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>Then I ſhall ſhewe you what I ſhall doo</l>
+               <l>I wyll put it in my Teſtamente</l>
+               <l>That myne executours ſhall paye and content</l>
+               <l>For wyle I lyue I wyll not haue my good ſpente</l>
+               <l>For yf I do I am but ſpylte</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Make amendes man for thy gylte</l>
+               <l>Rather ſpyll thy body then thy ſoule</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>Men of ſubſtaunce ar a ſhamed to fall</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:8"/>
+               <speaker>Conſcy.</speaker>
+               <l>That cauſeth them to reſt in their ſynne</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>yet euer with thy ſtrongeſt parte renneth the ball</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>yeſterday thou canſt not agayne call</l>
+               <l>when thou art dead y<hi rend="sup">e</hi> gate of mercy is ſhut y<hi rend="sup">u</hi> cannot come in</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>Then let hym ſtande without</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>So of thy ſoule thou haſt no doute</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>When thou ſeeſt my ſoule torne ſet on a cloute</l>
+               <l>yf falſhode, vſury, and extorcion ſhould not route</l>
+               <l>Thouſandes in this realme ſhould be put out</l>
+               <l>The thyrde parte ſhould not byde by ſaynt Paule</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>yet often falſhode hath a greate fall</l>
+               <l>An example by kyng Achab with this ſothe</l>
+               <l>Deſyred the vyneyarde of that poore man Naboth</l>
+               <l>By counſell of Iezabell that kynges wyfe</l>
+               <l>Bycauſe he would not ſell his poſſeſſion</l>
+               <l>Of two falſe witneſſes he was peached of hye treaſo<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>And through the mouth of a falſe queſt it rane</l>
+               <l>which cauſed the poore man to leſe both lande &amp; lyfe</l>
+               <l>After that of goddes owne byddyng</l>
+               <l>Came Helas the prophete to Achab the kyng</l>
+               <l>Saying he ſhoulde haue euyll endyng</l>
+               <l>And ſo he had, for by the waye as he rode</l>
+               <l>He fell and brake his necke, where dogges lapped his blode</l>
+               <l>this exa<g ref="char:cmbAbbrStroke">̄</g>ple to al vſurers &amp; opp<g ref="char:cmbAbbrStroke">̄</g>ſſours as thinketh me co<g ref="char:cmbAbbrStroke">̄</g>trary</l>
+               <l>Shul cauſe them of god ſore a dred to be.</l>
+            </sp>
+            <sp>
+               <speaker>haboun.</speaker>
+               <l>Syr ye preache very holyly, but your dedes be ofte<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g>trary</l>
+               <l>ye be ſo acquaynted with couetouſe and ſymony</l>
+               <l>That maketh vs to take the ſame waye</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>So euery euyll diſpoſed parſone doth ſaye</l>
+               <l>The fraylte of man doeth often offende</l>
+               <l>then call for grace, and ſhortly amende</l>
+               <l>Therfore I counſell thee to pretende</l>
+               <l>to repente and be ſory for thy myſdede</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:8"/>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>yet thus I wyll my lyfe lede</l>
+               <l>For of your ſaying I take no hede</l>
+               <l>ye wyll mucker vp both golde and treaſure</l>
+               <l>ye haue ryches without meaſure</l>
+               <l>And of the fleſhe ye haue your pleaſure</l>
+               <l>ye can find no wayes to ame<g ref="char:cmbAbbrStroke">̄</g>d your ſelfe I you inſure</l>
+               <l>Therfore rebuke not me for my ſynne ne good</l>
+               <l>God be with you, you ſhall not rule me</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>O dule wytte plunged by ignoraunce</l>
+               <l>Regardyng nothyng by ghoſtly inſtruction</l>
+               <l>Setting more his mynde on worldly ſubſtaunce</l>
+               <l>Then to the euerlaſtyng lyfe that is to come</l>
+               <l>God wyll ſtryke when he lyſt, ye know not how ſone</l>
+               <l>therfore to euery man this counſell I geue</l>
+               <l>To be ſory of your ſynne, &amp; do penaunce while ye liue</l>
+               <l>¶Here cometh enuye runnyng in</l>
+               <l>laughyng, &amp; ſaith to conſcience.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Nowe in faith I would ye had be there</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Where ſhould I haue be.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>A better ſporte ye neuer ſe.</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Where at laughe ye ſo faſte</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>He to go and ſhe after.</l>
+               <l>And within a whyle he cought her</l>
+               <l>He toke of here an incroke</l>
+               <l>And chopte her on the hele with his fote</l>
+               <l>Anone be whypte her on the backe</l>
+               <l>A horſone quod ſhe, playeſt thou me that</l>
+               <l>And with her hele ſhe gaue hym a ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at</l>
+               <l>That he was fayne to go backe agayne</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Good felowe thou arte to blame</l>
+               <l>Suche wordes to haue no good thou can.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>I ſayde it to make you ſporte and game</l>
+               <l>I crye you mercy, I was to blame</l>
+               <pb facs="tcp:9572:9"/>
+               <l>I ſe ye are ſome vertuous man</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Shortely hence that waye thou came</l>
+               <l>For here thou ſhalt not be</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Good Lorde ſome ſuccour thou ſend me</l>
+               <l>That I be no not out caſte</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>What is thy name, ſhortly ſhewe me</l>
+            </sp>
+            <sp>
+               <speaker>Enuye</speaker>
+               <l>I dare not ſyr, by Chriſt Ieſu</l>
+               <l>Except ye kepe it pryuely.</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Feare not ſay on hardely</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Syr my ryght name is charytie</l>
+               <l>Sometyme beloued I was with the ſpiritualtie</l>
+               <l>But nowe couetouſe &amp; ſimony doth them ſo auau<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+               <l>That good inſtitucion is turned to other ordinaunce</l>
+               <l>And bonum exemplum, is put to ſuche hinderaunce</l>
+               <l>That there I dare not apeare</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Symony is nowe in the ſpiritualtye</l>
+               <l>Bonus paſtor ouium, therto wyll ſee</l>
+               <l>Therfore me thynke this is a lye</l>
+               <l>In holy Churche ſymony can not abyde</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>He goth in a cloke he can not be eſpyed</l>
+               <l>And couetouſe ſo craftely doeth prouyde</l>
+               <l>that bonus paſtor ouiu<g ref="char:cmbAbbrStroke">̄</g>, is blind &amp; wil not ſee</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>That ye ſpeake is vpon enuy</l>
+               <l>Therfore I thinke ye be not Charytie</l>
+               <l>For charitie alwaye wyll ſaye the beſte</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Amonges them can I haue no reſte</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Howe do ye with the temporaltie</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>There is pryde, ſlowth and lechery</l>
+               <l>Which putteth me from that place</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Then be ye with the communaltie</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>They deſpyſe me vtterely</l>
+               <l>One of them loue no another</l>
+               <l>The ſyſter can not loue the brother</l>
+               <pb facs="tcp:9572:9"/>
+               <l>Ne the chylde the father ne mother</l>
+               <l>There I dare not ſhowe my face.</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>This is to me a ſtraunge caſe</l>
+               <l>What heare ye by conſcience.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Spiritual &amp; te<g ref="char:cmbAbbrStroke">̄</g>poral ſet againſt him maruaylouſly</l>
+               <l>Marchau<g ref="char:cmbAbbrStroke">̄</g>tes, men of law &amp; artyfycers of euery degre</l>
+               <l>They wyll hange hym and they hym eſpye</l>
+               <l>Such exclemacion goeth through this realme round</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Why what faute haue they founde</l>
+               <l>with hym ſo to do</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>His wytte is nought, they ſay alſo</l>
+               <l>Euery man putteth his wyll therto</l>
+               <l>To banyſhe hym for euer.</l>
+            </sp>
+            <sp>
+               <speaker>Conſci</speaker>
+               <l>I knowe well it is not as ye ſaye</l>
+               <l>For I am conſcience y<hi rend="sup">e</hi> hye iudge of the lawe</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Be ye conſcience, alas that euer I this day ſawe</l>
+               <l>yf ye be taken, ye ſhalbe hanged and drawe</l>
+               <l>For they haue vtterly put you downe</l>
+               <l>And ſet couetyſe in your rowme</l>
+               <l>Subtylte the ſcrybe his owne coſyn</l>
+            </sp>
+            <sp>
+               <speaker>Conſci</speaker>
+               <l>And falſhed the ſomner, for the courtes promocion.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye</speaker>
+               <l>I maruayle wherfore this was done</l>
+               <l>When riches came before you that muche wyl pay</l>
+               <l>There he had lyued in ſynne many a day</l>
+               <l>ye ſhould for mony lette hym go quyte a waye</l>
+               <l>And put hym to no ſhame</l>
+               <l>Let pouerte do penaunce for a lyttle offence</l>
+               <l>He is not able to promote you of .xx. pence</l>
+               <l>Then ſhould ye haue kept your reſydence</l>
+               <l>And gotten your ſelfe a good name.</l>
+            </sp>
+            <sp>
+               <speaker>Conſc</speaker>
+               <l>Who ſo doeth they are to blame</l>
+               <l>In myſorderyng them in ſuche wyſe</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>y wis coſyn I ſhewe you as now is y<hi rend="sup">e</hi> guyſe</l>
+               <pb facs="tcp:9572:10"/>
+               <l>For by couetyſe muche people doeth vp ryſe</l>
+               <l>whiche is againſt both you and me</l>
+            </sp>
+            <sp>
+               <speaker>Conſcy.</speaker>
+               <l>Charyte I praye you ſhewe what remedy</l>
+               <l>In this matter for me may be founde</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Shortly get you to wyldernes, or ſome other regio<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>For they wyll hange you vp at the Tyborne</l>
+               <l>If they fynde you in this place</l>
+               <l>And I muſte departe alſo</l>
+            </sp>
+            <sp>
+               <speaker>Conſci</speaker>
+               <l>This is to me muche ſorowe and wo</l>
+               <l>I wyll go into ſome farre countre</l>
+               <l>Fare well gentyll coſyn charyte</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>I ſhall praye for you, praye ye forme</l>
+               <l>This is an heauy departyng <stage>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>plorat</stage>
+               </l>
+               <l>I can in no wyſe forbeare wepyng</l>
+               <l>yet keſſe me or ye go</l>
+               <l>For ſorowe my harte wyll breke in two</l>
+               <l>Is he gone, then haue at laughyng</l>
+               <l>Aſyr is not this a ioly game</l>
+               <l>That conſcience doeth not knowe my name</l>
+               <l>Enuy in fayth I am the ſame</l>
+               <l>what nedeth me for to lye</l>
+               <l>I hate conſcient, peace loue and reſte</l>
+               <l>Debate and ſtryfe that loue I beſte</l>
+               <l>Accordyng to my properte</l>
+               <l>when a man loueth well his wyfe</l>
+               <l>I brynge theym at debate and ſtryfe</l>
+               <l>This is ſene daylye</l>
+               <l>Alſo betwene ſyſter and brother</l>
+               <l>There ſhall no neyghbour loue another</l>
+               <l>where I dwell bye</l>
+               <l>And nowe I tell you playne</l>
+               <l>Of one man I haue dyſdayne</l>
+               <l>Proſperyte men do hym call</l>
+               <pb facs="tcp:9572:10"/>
+               <l>He is nye of my blood</l>
+               <l>And he to haue ſo muche worldly good</l>
+               <l>That greueth me worſt of all</l>
+            </sp>
+            <sp>
+               <speaker>proſpe</speaker>
+               <l>Ieſus that is both ſtedfaſt and ſtable</l>
+               <l>Euer perſeueraunt and neuer mutable</l>
+               <l>He ſaue this congreacion.</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>welcome pouerte by coxs paſſion</l>
+               <l>Ho we haue ye done this many a daye</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>I thanke god as well as any man may</l>
+               <l>ye call me wrong my name ia proſperyte</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Proſperyte with an euyll happe</l>
+               <l>Howe the deuyll fortuneſt that</l>
+               <l>I knewe the impacient pouertie</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>Whatſoeur I was let that matter pas</l>
+               <l>And take me as I am.</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>I crye you mercy I was to blame</l>
+               <l>To call you by your olde name</l>
+               <l>yet all theſe people thynke ye are the ſame</l>
+               <l>Impacient pouertie as I ſayd before</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>Auaunt I tell the, I am a gentylman bore</l>
+               <l>If I here the reporte ſuche wordes anymore</l>
+               <l>Thou ſhalt be punyſhed lyke a knaue.</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>A knaue quod, a cors paſſion</l>
+               <l>I am your owne coſyn</l>
+               <l>And nye of your conſanguynyte.</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>Thou and I are not of one affinyte.</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>If I were a ryche man, ye would not ſaye ſo by me</l>
+               <l>ye wold then ſaye I were your next kynſma<g ref="char:cmbAbbrStroke">̄</g> on lyue</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>I ſaye go hence and make no more ſtryfe</l>
+               <l>I ſet not by ſuche a pore haſkarde</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Syr do not you knowe my name</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>I knowe the not by ſaynt Iame.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Charyte in fayth I am the ſame</l>
+               <pb facs="tcp:9572:11"/>
+               <l>what nedeth me for to lye</l>
+               <l>I am your coſen and ſo wyll I dye</l>
+               <l>ye may be glad ſuche a kynſman to haue</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>Shall we haue more a do yet thou knaue</l>
+               <l>I charge the neuer knowe me for thy kynne</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>I praye you a worde or I go</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>Saye on ſhortly then haue I do</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Syr, I haue of golde thre hundreth pounde</l>
+               <l>In a bagge faſte y bounde</l>
+               <l>At home loked in my cheſte</l>
+               <l>I purpoſe to go to Ieruſalem</l>
+               <l>ye ſhall kepe it tyll I come agayne</l>
+               <l>I putte you beſt in truſte.</l>
+            </sp>
+            <sp>
+               <speaker>proſpe</speaker>
+               <l>Coſyn I would fayne do the beſte</l>
+               <l>Becauſe ye are nere of my bloode</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>what, are ye nowe in that moode</l>
+               <l>Nowe I am your kynſman becauſe of my good</l>
+               <l>Before of me he had dyſdayne</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>As fore that I was to blame</l>
+               <l>I knew you not, be not angrye</l>
+               <l>ye are welcome to me coſyn charytie</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Then all theſe matters let be</l>
+               <l>I come hyther with you to dwell</l>
+               <l>ye muſt haue moſeruntes I do you tell</l>
+               <l>Suche as were neceſſare for your perſon</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>I am content after your prouyſion</l>
+               <l>In euery thyng let it be done</l>
+               <l>As ye thynke moſte expedient</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Syr I ſhall do myne entent</l>
+               <l>To gett you ſeruauntes mo</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>I prraye you hertely it may be ſo</l>
+               <l>A lytle ſeaſon I wyll from you go</l>
+               <l>To ſolace me with ſome recreacion <stage>Exit</stage>
+               </l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:11"/>
+               <speaker>Enuye.</speaker>
+               <l>He that ſytteth aboue the mone</l>
+               <l>Euermore be in your protection</l>
+               <l>Aha here is a ſporte for a Lorde</l>
+               <l>That proſperytie and I be well at accorde</l>
+               <l>I ſhall bryng his thryft vnder the borde</l>
+               <l>I truſte within ſhort ſpace</l>
+               <l>For it greueth my harte ryght ſore</l>
+               <l>He hath ſo muche treaſure in ſtore</l>
+               <l>And I haue neuer the more</l>
+               <l>I muſt fynde ſome proper ſhyfte</l>
+               <l>That from his good he may be lyfte</l>
+               <l>To bryng hym to miſrule I holde it beſte</l>
+               <l>For he can ſone bryng it to paſſe <stage>Here myſrule ſyngeth without commyng in</stage>
+               </l>
+               <l>How what rutterki<g ref="char:cmbAbbrStroke">̄</g> haue we her</l>
+               <l>I would he were our ſubchauntere</l>
+               <l>Becauſe he can ſo well ſynge</l>
+               <l>Feytes bone ſhere pour lamour de aſynt Iohn</l>
+            </sp>
+            <sp>
+               <speaker>myſru.</speaker>
+               <l>Mon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uer iocunde is ſet on a mery pynne</l>
+               <l>By my trouthe I am diſpoſed to reuelyng</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>So me thynketh by your commyng in</l>
+               <l>What myſrule where haſt thou bene many yeres</l>
+               <l>By my trouth euen amonges my peres</l>
+            </sp>
+            <sp>
+               <speaker>myſru.</speaker>
+               <l>By my trouth euen amonges my peres</l>
+               <l>I came now ſtragiht from the ſtewes</l>
+               <l>From lytle prety I one</l>
+               <l>Lorde that ſhe is a prety one</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Holde thy peace let that alone</l>
+               <l>Harke a worde or twayne to the</l>
+               <l>I dwell nowe with proſperitie</l>
+               <l>whiche hath muche worldly treaſure</l>
+               <l>If thou can contryue in thy thought</l>
+               <l>Howe that he may be brought to nought</l>
+               <l>In all this worlde I deſyre no more.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:12"/>
+               <speaker>miſrule.</speaker>
+               <l>Tuſhe take no thought therfore</l>
+               <l>I con prouyde for that in the beſt wyſe</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Then let me heare thy deuyce</l>
+            </sp>
+            <sp>
+               <speaker>miſrule.</speaker>
+               <l>I wyll brynge hym to claſſhe, cardes and dyſe</l>
+               <l>And to propre trulles that be wanton and nyce</l>
+               <l>which wyll not be kept at a ſmall pryce</l>
+               <l>Howe thynkeſt thou, wyll not this do well.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>yes but harken in counſell</l>
+               <l>Thou muſt chaunge thy name</l>
+            </sp>
+            <sp>
+               <speaker>myſru.</speaker>
+               <l>I wyll ſaye I hyt myrth</l>
+            </sp>
+            <sp>
+               <speaker>Enuye</speaker>
+               <l>And I wyll ſaye theſame</l>
+               <l>Peace whyſt I ſe hym come</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe</speaker>
+               <l>God ſaue all this honorable company</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Syr you be welcome by our bleſſed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>I haue thought for you full longe</l>
+               <l>Here is gentylman, I praye you for my ſake</l>
+               <l>Say he is welco<g ref="char:cmbAbbrStroke">̄</g>e &amp; into your ſeruice hi<g ref="char:cmbAbbrStroke">̄</g> take</l>
+               <l>For great courteſy he can</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>Syr you be welcome, geue me your hande</l>
+               <l>And ſhew me what is your name</l>
+            </sp>
+            <sp>
+               <speaker>myſru.</speaker>
+               <l>Syr my name is myrth</l>
+               <l>Beloued with lordes and ladyes of byrth</l>
+               <l>At euery tryumphe I am them with</l>
+               <l>They can me not ones forbeare</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>And ye had ſought this thouſand yeare</l>
+               <l>Suche another ye ſhall not fynde</l>
+               <l>wherfore I counſell you in my mynde</l>
+               <l>Let hym dwell with you for one yer.</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>At your requeſt I am content</l>
+               <l>Suche a prete man for me were expedient</l>
+               <l>And of his counſell fayne woulde I here.</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Syr ye muſt ſynge and daunce &amp; make good chere</l>
+               <l>I would ye had ſome propre wenche</l>
+               <pb facs="tcp:9572:12"/>
+               <l>That were yonge and luſty at a pynche</l>
+               <l>Here hele were not ſo brode as an ynche</l>
+               <l>She would quycken your courage</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>Peace hath forbydden me y<hi rend="sup">e</hi> outrage</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>He would ſet you at dotage</l>
+               <l>Becauſe he is olde and nature is paſte</l>
+               <l>He would nowe euer man ſhould faſte</l>
+               <l>yf ye do ſo ye do but waſte</l>
+               <l>And vnto you no mede</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>A ſtrawe for hym, ye haue no nede</l>
+               <l>Of hym to ſtande in awe or drede</l>
+               <l>A meryer lyfe nowe maye ye lede</l>
+               <l>Therfore be at your owne lybertye</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>By my trouthe I may ſay to thee</l>
+               <l>Syte I to hym dyd aſſent</l>
+               <l>Had I neuer mery day</l>
+               <l>But lyued in feare and drede alwaye</l>
+               <l>Nothyng to myne entente</l>
+               <l>Another whyle I wyll me ſporte</l>
+               <l>Synge and daunce to my comforte.</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>And amonge mery company do reſort</l>
+               <l>For that ſhall length your lyfe</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Spare neyther mayde ne wyfe</l>
+               <l>Take both and they come in your waye</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Of with this lewde araye</l>
+               <l>yt becometh you nought by this daye</l>
+            </sp>
+            <sp>
+               <speaker>proſper</speaker>
+               <l>By my trouth euen as you ſaye</l>
+               <l>ye mary nowe am I well apayde</l>
+               <l>Me thynketh I am properly arayde</l>
+               <l>yf I had a propre trul ſhe ſhould be aſaid</l>
+               <l>In the worſhype of the new yere</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Ruſſhe vp mutton for beefe is deare</l>
+               <l>Haue and reuell and chaunce:</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:13"/>
+               <speaker>miſrule.</speaker>
+               <l>Now let vs both ſynge and daunce</l>
+               <l>Wyll ye haue a frenche rounde</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>And thou ſhalt ſe me bounce aboue the grounde</l>
+               <l>Hey with reuell daſhe</l>
+            </sp>
+            <sp>
+               <speaker>Peace</speaker>
+               <l>What proſperite is it come hereto</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>What deuyll of hell haſt thou to do</l>
+               <l>Shall I not make mery when me lyſte.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>yet I ſaye beware of had I wyſt</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Hens ye knaue or els thou ſhalt lycke my fyſt</l>
+               <l>I trowe thy head wolde haue ſome knockes</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe</speaker>
+               <l>Go ſet hym in a payre of ſtockes</l>
+               <l>That I hym no more ſe.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>yet man I ſaye remember thee</l>
+               <l>And thynke what I to the haue ſayde.</l>
+               <l>Eſcheue euermore theſe ryatours company</l>
+               <l>And be ruled by reaſon as I thee badde</l>
+               <l>Put from the theſe two parſons by who<g ref="char:cmbAbbrStroke">̄</g> thou art lad</l>
+               <l>Enuy &amp; myſrule with theyr ſinful &amp; great abuſyon</l>
+               <l>Which if thou wylt not forſake, will be thy confuiſon</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>Auaunt lorden, and take this for a cancluſion</l>
+               <l>Theſe men fro me thou ſhalt not ſeperate</l>
+               <l>Go out of my ſyght or by coxs paſſion</l>
+               <l>I ſhall laye the faſte in newegate</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>It is better to forſake them betyme then to late</l>
+               <l>This knaue would haue a broken pate</l>
+            </sp>
+            <sp>
+               <speaker>miſrule.</speaker>
+               <l>Let me alone by goddes bread</l>
+               <l>This ſame ſworde ſhall ſtryke of his head.</l>
+               <l>I praye you hence that ye were rydde</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>Shortly haue hym out of my ſyght</l>
+               <l>A lytle whyle geue me reſpyte</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>And take hede what I do ſaye</l>
+               <l>Remembre in what condicion thou was</l>
+               <l>when I fyrſt mette the in this place</l>
+               <pb facs="tcp:9572:13"/>
+               <l>Full ſymple in poore araye</l>
+               <l>Nowe by the grace of god and counſel of me</l>
+               <l>Thou art come to great proſperyte</l>
+               <l>And ſo mayſt contynue vntyll thou dye</l>
+               <l>yf thou wyſely take hede</l>
+               <l>Let not ſenſualyte lede the brydell</l>
+               <l>Be occupyed in vertue, and be not ydell</l>
+               <l>The better ſhalt thou procede</l>
+               <l>Theſe wreches wyll thy goodes ſpende and waſte</l>
+               <l>then ſhalt thou be taken for an out caſte</l>
+               <l>And mocked and ſcorned with moſte and leeſt</l>
+               <l>Then wyll no man the helpe at nede</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>A ſyr euyll mote thou ſpede</l>
+               <l>That ſo can rede his deſtanye.</l>
+            </sp>
+            <sp>
+               <speaker>miſrule</speaker>
+               <l>Wyll ye ſuffre this knaue in your companye</l>
+               <l>Then god be with you I wyll forſake you</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>Go hence or in fayth I ſhall make you.</l>
+            </sp>
+            <sp>
+               <speaker>Peace.</speaker>
+               <l>Then to almyghty god I betake you</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Let me come to that bragg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</l>
+               <l>I ſhall thruſt him thorowe the ars with my dagger</l>
+               <l>(And here the face Peace out of the place)</l>
+               <l>Howe ſaye ye, was not this a good face</l>
+               <l>To dryue a knaue out of the place</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>In fayth thou made hym runne a pace</l>
+               <l>Thou loked as thou hade bene madde</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>Nowe by my trouth my harte is gladde</l>
+               <l>Some mynſtrell nowe I woulde we hadde</l>
+               <l>To reuell and daunce, for by ſaynt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hadde</l>
+               <l>I am ſo lyght me thinke I flee.</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>ye mary ſo ſhoulde it be</l>
+               <l>For nowe I holde you wyſe.</l>
+               <l>Syr and ye wyll do by myne aduyſe</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Let vs go ſtrayght to the floure delyce</l>
+               <pb facs="tcp:9572:14"/>
+               <l>There ſhall ye fynde a man wyl playe at dyce</l>
+               <l>with you for an hundreth pounde.</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>What man is he</l>
+            </sp>
+            <sp>
+               <speaker>miſrule</speaker>
+               <l>Colehaſſarde came late from beyond y<hi rend="sup">e</hi> ſee</l>
+               <l>Ragged and torne in a garded cote</l>
+               <l>And in his purſe neuer a grote</l>
+               <l>And now he goeth lyke a lorde</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>I praye thee tell at one worde</l>
+               <l>Is he a gentylman bore.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Tuſſhe take no thought therfore</l>
+               <l>For be he gentylman knaue or boye</l>
+               <l>yf he come here with a tryfle, or a toye</l>
+               <l>He can no money lacke</l>
+            </sp>
+            <sp>
+               <speaker>Proſpe.</speaker>
+               <l>Now by the bread that god brake</l>
+               <l>I thynke longe tyll I hym ſe</l>
+               <l>Myrth go before and ordayne a good dyſſhe</l>
+               <l>One of fleſſhe another of fyſſhe</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Nay let all be fleſſhe</l>
+               <l>A yonge pullet tender and neſſhe</l>
+               <l>That neuer came on broche, haue with y<hi rend="sup">e</hi> or thou go</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>What ſhall I haue?</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Foure quarters of a knaue</l>
+               <l>Roſted vpon a ſpytte <stage>Exit myſrule.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Proſpe</speaker>
+               <l>Now by my trouth and Colhaſſard wyll ſytte</l>
+               <l>I wyll play as l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nge as an hundreth pound wyll laſte</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>And ye wyll play an hundreth pound at a caſt</l>
+               <l>He wyll kepe you playe.</l>
+            </sp>
+            <sp>
+               <speaker>proſpe.</speaker>
+               <l>Then let vs go our waye</l>
+               <l>I ſyt on thornes tyll I come there</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>That ſhall make your thryfte full bare</l>
+            </sp>
+            <sp>
+               <speaker>proſperi</speaker>
+               <l>What wyll it do</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>I ſaye we ſhall haue good chere</l>
+               <l>When we come there. <stage>Exu<g ref="char:cmbAbbrStroke">̄</g>t ambo.</stage>
+               </l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:14"/>
+               <speaker>Se<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce.</speaker>
+               <lg>
+                  <l>When phebus draweth into the occydentall</l>
+                  <l>And obſerued with clowdes myſty and darke</l>
+                  <l>Then trees, herbes, and graſſe, by courſe naturall</l>
+                  <l>want their chefe co<g ref="char:cmbAbbrStroke">̄</g>fort, thus ſayth many a clacke</l>
+                  <l>And lykewyſe that man in his warke</l>
+                  <l>Is deſtytute of reaſon, folowyng ſenſuall operacion</l>
+               </lg>
+               <lg>
+                  <l>The laſt tyme I was in this place</l>
+                  <l>Proſperite vnto myſrule put his hole confydence</l>
+                  <l>He regarded not my counſell, he lacked grace</l>
+                  <l>which in tyme coming ſhal turne him to inco<g ref="char:cmbAbbrStroke">̄</g>uenie<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+                  <l>with haſſarders, and ryotters, he kepeth reſydence</l>
+                  <l>At claſ he and cardes with al vnthryfty game</l>
+                  <l>whyche in contynuaunce ſhall bryng hym to ſhame</l>
+                  <l>To hym yet I wyll reſorte</l>
+                  <l>yf he be brought in pouertie</l>
+                  <l>I ſhall do hym all the comforte</l>
+                  <l>And all the helpe that lyeth in me</l>
+                  <l>I wyll neuer reſte tyll I hym ſe</l>
+                  <l>But ſeke about from place, to place</l>
+                  <l>And bryng hym to ſome better grace. <stage>Exit</stage>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>myſru.</speaker>
+               <l>Colhaſſarde arte then there</l>
+               <l>Horeſon knaue wylt thou not appere</l>
+               <l>By my trouth I had went to haue founde hym here</l>
+               <l>I holde hym gone ſome other waye</l>
+               <l>And where is enuy I can not hym eſpye</l>
+               <l>I trowe he is with proſperytie</l>
+               <l>Proſperyte, nay, I may call hym folyſſhe pouertie</l>
+               <l>As wyſe as a drake</l>
+               <l>I haue brought hym to dyce, cardes, and claſ he</l>
+               <l>And euer on his ſyde ranne the loſſe</l>
+               <l>That he is not worthe a hendfull of moſſe</l>
+               <l>Neyther hath not a hole brat to his backe</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:15"/>
+               <speaker>enuye.</speaker>
+               <l>Paſſion of god is it come to that</l>
+               <l>This tydynges maketh my harte gladde</l>
+            </sp>
+            <sp>
+               <speaker>myſru.</speaker>
+               <l>In fayth he hath neyther golde, ſyluer, ne plate</l>
+               <l>Colhaſſarde and I be both at one</l>
+               <l>He promyſed me to haue halfe the game</l>
+               <l>that euery thyng ſhall be deuyded in twayne</l>
+               <l>He to haue the one halfe and I the other</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Then let vs be partoners as brother and brother</l>
+            </sp>
+            <sp>
+               <speaker>myſru.</speaker>
+               <l>I can not ſaye, tyll colhaſſarde come</l>
+               <l>then ſhall we knowe, both all and ſome</l>
+            </sp>
+            <sp>
+               <speaker>Colhaſ<g ref="char:EOLhyphen"/>ſarde.</speaker>
+               <l>Here is a bagge of golde ſo rounde</l>
+               <l>Here in is two thouſand pounde</l>
+               <l>Of proſperyte me it wonne</l>
+               <l>what man w<hi rend="sup">t</hi> me is able to make comparyſo<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>Nowe ſhall I take a marchauntes place</l>
+               <l>to occupy I truſte within ſhorte ſpace</l>
+               <l>To be in credence with Englyſhmen</l>
+               <l>And when I am ſo well betruſte</l>
+               <l>I may borowe ſo muche as me luſte</l>
+               <l>A ſubtyll crafte then fynde I muſte</l>
+               <l>to conuaye vnder coloure lyke fre men</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Herke this knaue ſo proude and ſtoute</l>
+               <l>that hadde not to his arſe a hole cloute</l>
+               <l>whe<g ref="char:cmbAbbrStroke">̄</g> he came to this land, &amp; now hath brought about</l>
+               <l>To compare with a ſtate</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Nowe muſte I haue halfe money and halfe plate</l>
+            </sp>
+            <sp>
+               <speaker>Calhaſ.</speaker>
+               <l>Nay by god there thou ſpake to late</l>
+               <l>None thereof from me ſhall ſcape</l>
+               <l>then had I lyued to longe</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Thou promyſed me, when thou began</l>
+               <l>Halfe thy wynnyng I ſhall haue</l>
+            </sp>
+            <sp>
+               <speaker>Colhaſ.</speaker>
+               <l>Holde thy peace lewde knaue</l>
+               <l>knoweſt thou to whome thou doeſt ſpeake</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:9572:15"/>
+               <speaker>myſrule</speaker>
+               <l>A horeſon thy head ſhall I breake</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>For the paſſion of god ſobre your mode</l>
+               <l>I feare ſhedyng of knaues bloude</l>
+               <l>¶Here they fight &amp; rune al out of the place</l>
+               <l>And then entreth proſperiti poorely &amp; ſaieth</l>
+            </sp>
+            <sp>
+               <speaker>pouerte</speaker>
+               <l>O Ieſu what maye this meane</l>
+               <l>My goodes are ſpent and waſted away</l>
+               <l>Alſo my men are from me clene</l>
+               <l>I ſe them not this ſeuen nyghtes daye</l>
+               <l>As longe as I myght ſpende and paye</l>
+               <l>They helde me vp with falſe dyſſimulacion</l>
+               <l>And nowe they forſake me in my moſte trybulacion</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Come for cox<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bones, why tary ye ſo longe</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>In faith I come as as faſte as I can</l>
+               <l>I am ſo angry I wot not what to do</l>
+               <l>That yonder knaue ſcaped from me ſo</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>What knaue is this I holde hym ſome ſpye</l>
+            </sp>
+            <sp>
+               <speaker>pouerty</speaker>
+               <l>I am your mayſter, knowe ye not me</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Thou art come late out of marſhall ſee</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Me thynke his hayre groweth thorowe his hode</l>
+            </sp>
+            <sp>
+               <speaker>pouerte</speaker>
+               <l>Alas Collhaſſarde hath wonne all my good</l>
+               <l>And lefte me neuer a groate</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Mary ſo me thynke, ye haue chaunged your coate</l>
+               <l>But nowe ye haue one vauntage.</l>
+               <l>what is that.</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>your executours ſhall not ſtryue for your goode another daye pouerte</l>
+               <l>Nor theues ſhall not robbe you goyng by the waye</l>
+               <l>Thus ye ſhall ſtande out of doute</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Hens ragged knaue or thou ſhalt beare me a clout</l>
+               <l>His clothes ſmell all of the ſmoke</l>
+            </sp>
+            <sp>
+               <speaker>Enuye</speaker>
+               <l>Nowe by ſaynt Hewe that holy biſſhoppe</l>
+               <l>This matter is well brought to paſſe</l>
+               <l>He is nowe a knaue as he was</l>
+               <pb facs="tcp:9572:16"/>
+               <l>Fyrſt a knaue, and then a man</l>
+               <l>And nowe he is a knaue agayne</l>
+            </sp>
+            <sp>
+               <speaker>pouerte.</speaker>
+               <l>Why ſaye ye ſo ye be to blame</l>
+               <l>I am your maiſter proſperytie</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Auaunt lorell and euyll to the</l>
+               <l>Get the out of this company</l>
+               <l>Begynneſt thou nowe to make compariſo<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>Let hym be your vnder page</l>
+               <l>Geue hym meate and drynke and no wage</l>
+               <l>Go bruſhe his gowne &amp; make clene his ſhone</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Well knaue canſt thou no courteyſye</l>
+            </sp>
+            <sp>
+               <speaker>enuye.</speaker>
+               <l>He hath ſuche a dyſeaſe in his knee</l>
+               <l>He can not chaunge a man a groate</l>
+               <l>It is not as ye wene</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>Come and ſe my ſhone made clene</l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>By my fayth he ſhall wype myne</l>
+            </sp>
+            <sp>
+               <speaker>myſrule</speaker>
+               <l>This knaue is not mete for me</l>
+               <l>yt greueth my harte when I hym ſe</l>
+               <l>I wyll go hence and leue you twayne</l>
+               <l>For enuy thou mayſt with pouertie rayne. <stage>Exit</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Enuye.</speaker>
+               <l>Nay I had rether he were ſlayne.</l>
+               <l>I am gone as ſone as ye <stage>Exit</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>pouerte</speaker>
+               <l>Abyde ſtyll with me gentyll charyte</l>
+               <l>O to whome ſhould I ſewe, to whom ſhulde I plete</l>
+               <l>O mortall worme wrapped all in wo</l>
+               <l>As a man all mortyfyed, and maſed in my wytte</l>
+               <l>I a captyfe in captyuite, lo fortune is my foo</l>
+               <l>I am in endleſſe ſorowe, alas what ſhall I do</l>
+               <l>theſe captiues thorow their cou<g ref="char:cmbAbbrStroke">̄</g>cel &amp; falſe imaginacio<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>Haue brought me to nought y<hi rend="sup">t</hi> was of gret reputacio<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>Wo worth the tyme that I them knew</l>
+               <l>I may well ſyghe, and ſaye alas</l>
+               <l>For now I fynde theſe wodes full trewe</l>
+               <pb facs="tcp:9572:16"/>
+               <l>That peace ſhewed me here in this place</l>
+               <l>I regarded not his councell, I lacked grace</l>
+               <l>wherfore nedy pouerty on me doth blow his horne</l>
+               <l>That euery man and woma<g ref="char:cmbAbbrStroke">̄</g> doth laugh me to ſcorne</l>
+               <l>Example to all yonge men when they take in hande</l>
+               <l>To occupye in the world for your behofe</l>
+               <l>Loke wyſely before, and alſo vnderſtande</l>
+               <l>Euil company deſtroyeth man, on me ye ſe the profe</l>
+               <l>Make a ſure foundacyon, or ye ſet vp the rofe</l>
+               <l>Of a good &amp; vertuous begi<g ref="char:cmbAbbrStroke">̄</g>ni<g ref="char:cmbAbbrStroke">̄</g>g cometh a good endi<g ref="char:cmbAbbrStroke">̄</g>g</l>
+               <l>And euermore beware of vnmeſurable ſpending.</l>
+               <stage>Here entreth the Somner.</stage>
+            </sp>
+            <sp>
+               <speaker>Some.</speaker>
+               <l>I aſſyte you in our court to appeare</l>
+            </sp>
+            <sp>
+               <speaker>pouerte</speaker>
+               <l>I pray you tell me wherfore</l>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <l>ye be a great ſlaunderer and full of enuy</l>
+            </sp>
+            <sp>
+               <speaker>pouerty</speaker>
+               <l>There wyll no man ſay ſo but you</l>
+            </sp>
+            <sp>
+               <speaker>Some.</speaker>
+               <l>what wylt thou geue me and thou ſhalt go quyte</l>
+            </sp>
+            <sp>
+               <speaker>pouerte</speaker>
+               <l>By my trouth I haue not one myte</l>
+            </sp>
+            <sp>
+               <speaker>Some</speaker>
+               <l>Then open penaunce and thou art lyke</l>
+            </sp>
+            <sp>
+               <speaker>pouerte</speaker>
+               <l>By my trouth I ſclander no man</l>
+            </sp>
+            <sp>
+               <speaker>Some.</speaker>
+               <l>Then come &amp; ſcuſe thy ſelfe as well as thou can</l>
+               <stage>Heboundaunce entreth.</stage>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>What man is he that can me dyſmay</l>
+               <l>For I optayne all thyng at my wyll</l>
+               <l>Or dare any thyng agaynſt me ſaye</l>
+               <l>what ſoeuer I do be it good or yll</l>
+               <l>For yf he do he were better be ſtyll</l>
+               <l>I ſhall hym punyſhe be it ryght or wronge</l>
+               <l>For with in my purſe, I can both ſaue and hang</l>
+               <l>To repunge agaynſt me he were better be ſtyl</l>
+               <l>I haue a propre trull for my paſtaunce</l>
+               <l>In my chamber I her kepe, both nyght and daye</l>
+               <l>My neyghbours therwith, taketh great greuaunce</l>
+               <pb facs="tcp:9572:17"/>
+               <l>yet I kepe her ſtyll whoſoeuer ſay nay</l>
+               <l>Howe be it there is one a poore caytyfe I heare ſaye</l>
+               <l>Hath me accuſed in the courte ſpyritual</l>
+               <l>And it coſt me a .C.li. punyſhe hym I ſhal</l>
+            </sp>
+            <sp>
+               <speaker>Some.</speaker>
+               <l>Open ſynne muſt haue open penaunce</l>
+               <l>God ſpede my mayſter haboundaunce</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>what knaue art thou w<hi rend="sup">t</hi> a very miſchau<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+               <l>That cometh in ſo homely.</l>
+            </sp>
+            <sp>
+               <speaker>Som.</speaker>
+               <l>Syr I praye you be not angry</l>
+               <l>I am an offycer of the ſpiritualte</l>
+               <l>There is vpon you a great ſcleaunder</l>
+               <l>ye kepe another mans wife in your chambre</l>
+               <l>And lyue in great aduoutrye</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>what wretches doeth ſo ſaye by me</l>
+            </sp>
+            <sp>
+               <speaker>Some.</speaker>
+               <l>it is openly knowen euery where</l>
+               <l>Before my maiſter I charge you to appere</l>
+               <l>Vpon a boke there ſhall ye ſwere</l>
+               <l>whether it be ſo or no</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>what is the beſte for me to do</l>
+               <l>Rather than I to the courte wyll go</l>
+               <l>I had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>euer ſpende twenty pounde</l>
+            </sp>
+            <sp>
+               <speaker>Some</speaker>
+               <l>Syr if ſuche a waye may be founde</l>
+               <l>To excuſe you, what wyll ye then ſaye</l>
+            </sp>
+            <sp>
+               <speaker>Habou<g ref="char:cmbAbbrStroke">̄</g>.</speaker>
+               <l>Now therof hartely I the praye</l>
+            </sp>
+            <sp>
+               <speaker>Some.</speaker>
+               <l>ye ſhall come home to my maiſters place</l>
+               <l>And ſaye that ye be put vp of malyce</l>
+               <l>Thruſt mony in his hande a pace</l>
+               <l>And ſo ſhall ye go quyte awaye</l>
+            </sp>
+            <sp>
+               <speaker>Haboun</speaker>
+               <l>For thy counſell gramercy: holde here is .xl pence.</l>
+            </sp>
+            <sp>
+               <speaker>Some</speaker>
+               <l>Come on ſir I wil do my dyligence. <stage>exiunt ambo</stage>
+               </l>
+            </sp>
+            <stage>Here entreth the ſumner againe, and pouerte foloweth him with a candell in his hande doyng penaunce about the place. And then ſayeth the ſomner.</stage>
+            <sp>
+               <l>Rowme ſyrs auoydaunce</l>
+            </sp>
+            <pb facs="tcp:9572:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>

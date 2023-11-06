@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most excellent and famous ditty of Sampson iudge of Israell how he wedded Philistines daughter, who at length forsooke him: also how he slew a lyon, and propounded a riddle, and after how he was falsely betrayed by Dalila, and of his death. To the tune of the Spanish pauin.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73106</idno>
+            <idno type="STC">STC 21688.5</idno>
+            <idno type="STC">ESTC S123060</idno>
+            <idno type="EEBO-CITATION">99899098</idno>
+            <idno type="PROQUEST">99899098</idno>
+            <idno type="VID">150745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1977:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most excellent and famous ditty of Sampson iudge of Israell how he wedded Philistines daughter, who at length forsooke him: also how he slew a lyon, and propounded a riddle, and after how he was falsely betrayed by Dalila, and of his death. To the tune of the Spanish pauin.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>c. 1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Verse - "VVhen Sampson was a tell young man".</note>
+                  <note>In this edition, line 2 of heading ends: "and".</note>
+                  <note>Printed in three columns.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible stories. --  O.T --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150745:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>A moſt excellent and famous Ditty of Sampſon Iudge of Iſraell, how he wedded <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Philiſtines Daughter, who at length forſooke him: alſo how he ſlew a Lyon, and propounded a Riddle, and after how he was falſely betrayed by <hi>Dalila,</hi> and of his death.</head>
+            <opener>To the tune of the Spaniſh Pauin.</opener>
+            <lg>
+               <l>VVHen <hi>Sampſon</hi> was a tell young man</l>
+               <l>His power and ſtrength increaſed than,</l>
+               <l>And in the hoſt and Tribe of <hi>Dan,</hi>
+               </l>
+               <l>the Lord did bleſſe him ſtill.</l>
+               <l>It chancrd ſo vpon a day,</l>
+               <l>As he was walking on his way,</l>
+               <l>He ſaw Mayden freſh and gay,</l>
+               <l>in <hi>Timnah.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With whom he fell ſo ſore in loue.</l>
+               <l>That he his fancy could not moue:</l>
+               <l>His Parents therefore he did proue,</l>
+               <l>and craued their good wills.</l>
+               <l>I haue found out a wiſe quoth he,</l>
+               <l>I pray you Father giue her me,</l>
+               <l>Though ſhe a ſtrangers daughter be,</l>
+               <l>I paſſe not.</l>
+            </lg>
+            <lg>
+               <l>Then did beſpeake his Parents déere,</l>
+               <l>Haue we not many Maydens here,</l>
+               <l>Of Country, and acquaintance neere,</l>
+               <l>for thee to loue and like?</l>
+               <l>O no, (quoth <hi>Sampſon</hi> preſently)</l>
+               <l>Not one ſo pleaſant in mine eye,</l>
+               <l>Whom I could find ſo faithfully</l>
+               <l>to fancy,</l>
+            </lg>
+            <lg>
+               <l>At length they graunted their conſent:</l>
+               <l>And ſo with <hi>Sampſon</hi> foorth they went,</l>
+               <l>To ſée the Mayd was their intent.</l>
+               <l>which was ſo fayre and bright:</l>
+               <l>But as they were a going there,</l>
+               <l>A Lyon put them in great feare,</l>
+               <l>Whom <hi>Sampſon</hi> preſently did teare,</l>
+               <l>in péeces.</l>
+            </lg>
+            <lg>
+               <l>When they were come vnto the place,</l>
+               <l>They were agréed the caſe:</l>
+               <l>The wedding day appoynted was:</l>
+               <l>and when the time was come.</l>
+               <l>As <hi>Sampſon</hi> went for beauties fées,</l>
+               <l>The Lyons carkaſſe there he ſées,</l>
+               <l>Wherein a ſort of hunny Bées</l>
+               <l>had ſwearmed.</l>
+            </lg>
+            <lg>
+               <l>Then cloſely <hi>Sampſon</hi> went his way,</l>
+               <l>And not a word thereof did ſay,</l>
+               <l>Vntill the merry feaſting day,</l>
+               <l>vnto the company.</l>
+               <l>A Riddle I will ſhew, quoth he,</l>
+               <l>The meaning if you tell to me</l>
+               <l>Within ſeuen dayes, I will giue yée</l>
+               <l>great riches.</l>
+            </lg>
+            <lg>
+               <l>But if the meaning you doe miſſe,</l>
+               <l>And cannot ſhew me what it is,</l>
+               <l>Then ſhall you giue to me (I wiſſe)</l>
+               <l>ſo much as I haue ſaid.</l>
+               <l>Put forth thy Riddle (then quoth they)</l>
+               <l>And we will tell it by our day,</l>
+               <l>Or we will loſe (as thou doſt ſay)</l>
+               <l>the wager.</l>
+            </lg>
+            <lg>
+               <l>Then marke (quoth hee) the totall ſumme,</l>
+               <l>
+                  <hi>Out of the eater meate did come,</hi>
+               </l>
+               <l>
+                  <hi>And from the ſtrong did ſweetnes runne,</hi>
+               </l>
+               <l>declare it if you can.</l>
+               <l>And when they heard the Riddle told,</l>
+               <l>Their hearts within them waxed cold:</l>
+               <l>For none of them could then vnfold</l>
+               <l>the meaning.</l>
+            </lg>
+            <lg>
+               <l>Then vnto <hi>Sampſons</hi> wife went they</l>
+               <l>And threatned her without delay,</l>
+               <l>If ſhe would not the thing bewray,</l>
+               <l>to burne her Fathers houſe.</l>
+               <l>Then <hi>Sampſons</hi> wife with gréefe and woe,</l>
+               <l>Deſired him the ſame to ſhow:</l>
+               <l>And when ſhe knew ſhe ſtraight did goe</l>
+               <l>to tell them.</l>
+            </lg>
+            <lg>
+               <l>Then were they all full glad of this,</l>
+               <l>To tell the thing they did not miſſe,</l>
+               <l>
+                  <hi>What ſtronger beaſt then Lyon is?</hi>
+               </l>
+               <l>
+                  <hi>What ſweeter meate then Hunny:</hi>
+               </l>
+               <l>Then <hi>Sampſon</hi> anſwered them full round:</l>
+               <l>If my Hayfar had not ploughed the ground,</l>
+               <l>So eaſily you had not found</l>
+               <l>my Riddle.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Sampſon</hi> did his loſſes pay,</l>
+               <l>And to his father went his way<g ref="char:punc">▪</g>
+               </l>
+               <l>But whilſt with them he there did ſtay,</l>
+               <l>his wife forſooke him quite.</l>
+               <l>And tooke another to her Loue,</l>
+               <l>Which <hi>Samſons</hi> anger much did moue,</l>
+               <l>To plague them therefore he did proue</l>
+               <l>his cunning.</l>
+            </lg>
+            <lg>
+               <l>A ſubtill ſight he then had found,</l>
+               <l>To burne their corne vpon the ground,</l>
+               <l>Their Vineyardes he deſtroyed round</l>
+               <l>which made them fret and fume.</l>
+               <l>But when they knew that <hi>Sampſon</hi> he</l>
+               <l>Had done them all this iniury,</l>
+               <l>Becauſe his wife did him denie,</l>
+               <l>they killed her:</l>
+            </lg>
+            <lg>
+               <l>And afterward they had decreed,</l>
+               <l>To murther <hi>Sampſon</hi> for that déed,</l>
+               <l>Thrée thouſand men they ſent with ſpéede,</l>
+               <l>to bring him bound to them:</l>
+               <l>But he did breake his cords apace,</l>
+               <l>And with the Iaw-bone of an Aſſe,</l>
+               <l>A thouſand men ere he did paſſe,</l>
+               <l>he killed.</l>
+            </lg>
+            <lg>
+               <l>When all his foes were laid in duſt,</l>
+               <l>Then <hi>Sampſon</hi> was full ſore athirſt.</l>
+               <l>In God therefore was all his truſt,</l>
+               <l>to helpe his fanting heart:</l>
+               <l>For liquor thereabout was none?</l>
+               <l>The Lord therefore from the Iaw-bone,</l>
+               <l>Did make freſh water ſpring alone,</l>
+               <l>to helpe him.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Sampſon</hi> had a ioyfull ſpright,</l>
+               <l>And in a Citty lay that night,</l>
+               <l>Whereas his foes with deadly ſpight,</l>
+               <l>did ſéeke his life to ſpill:</l>
+               <l>But he at midnight then awakes,</l>
+               <l>And tearing downe the Citty gates,</l>
+               <l>With him away the ſame he takes,</l>
+               <l>moſt ſtoutly.</l>
+            </lg>
+            <lg>
+               <l>Then on <hi>Dalila</hi> faire and bright.</l>
+               <l>Did <hi>Sampſon</hi> ſet his whole delight,</l>
+               <l>Whom he did loue both day and night,</l>
+               <l>which wrought his ouerthrow:</l>
+               <l>For ſhe with ſweete words did intreat,</l>
+               <l>That for her ſake he would repeat,</l>
+               <l>Wherein his ſtrength, that was to great,</l>
+               <l>conſiſted.</l>
+            </lg>
+            <lg>
+               <l>At length vnto his vtter fall,</l>
+               <l>And through her ſute, which was not ſmal<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>He did not let to ſhew her all,</l>
+               <l>the ſecrets of his heart:</l>
+               <l>If that my hayre be cut, (quoth he)</l>
+               <l>Which now ſo fayre and long you ſee,</l>
+               <l>Liks other men then ſhall I be,</l>
+               <l>in weakneſſe.</l>
+            </lg>
+            <lg>
+               <l>Then through deceit which was ſo déepe,</l>
+               <l>She lulled <hi>Sampſon</hi> faſt aſleepe,</l>
+               <l>A man ſhe cal'd which ſhe did keepe,</l>
+               <l>to cut off all his hayre.</l>
+               <l>Then did ſhe call his hatefull foes,</l>
+               <l>Ere <hi>Sampſon</hi> from her lap aroſe,</l>
+               <l>Who could not the<g ref="char:cmbAbbrStroke">̄</g> withſtand their blow<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+               </l>
+               <l>for weakeneſſe,</l>
+            </lg>
+            <lg>
+               <l>To bind him faſt they did deuiſe,</l>
+               <l>Then did they put out both his eyes.</l>
+               <l>In Priſon wofully he lyes,</l>
+               <l>and there he grinds the Mill.</l>
+               <l>But God remembred all his payne,</l>
+               <l>And did reſtore his ſtrenght agayne,</l>
+               <l>Although that bound he did remaine,</l>
+               <l>in Priſon</l>
+            </lg>
+            <lg>
+               <l>The <hi>Philiſtines</hi> now were glad of this,</l>
+               <l>For ioy they made a feaſt (I wiſſe)</l>
+               <l>And al their Princes did not miſſe</l>
+               <l>to come vnto the ſame:</l>
+               <l>And being merry bent that day,</l>
+               <l>For <hi>Sampſon</hi> they did ſend ſtraightway</l>
+               <l>That they might laugh to ſee him play</l>
+               <l>among them</l>
+            </lg>
+            <lg>
+               <l>Then to the houſe was <hi>Sampſon</hi> led</l>
+               <l>And when he had theire fancies fed,</l>
+               <l>He pluckt the houſe vpon their head,</l>
+               <l>and downe they tumbled all:</l>
+               <l>So that with gréefe and deadly paine,</l>
+               <l>Thrée thouſand perſons there were ſlain</l>
+               <l>Thus <hi>Sampſon</hi> then with all his traine,</l>
+               <l>was brained.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

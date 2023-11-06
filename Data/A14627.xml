@@ -1,0 +1,3224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A comedy or enterlude intituled, Inough is as good as a feast very fruteful, godly and ful of pleasant mirth. Compiled by W. Wager. Seuen may easely play this enterlude. The names of the players. ...</title>
+            <title>Enough is as good as a feast</title>
+            <author>Wager, W. (William)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A14627</idno>
+            <idno type="STC">STC 24933</idno>
+            <idno type="STC">ESTC S111566</idno>
+            <idno type="EEBO-CITATION">99846876</idno>
+            <idno type="PROQUEST">99846876</idno>
+            <idno type="VID">11872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A14627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11872)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 400:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A comedy or enterlude intituled, Inough is as good as a feast very fruteful, godly and ful of pleasant mirth. Compiled by W. Wager. Seuen may easely play this enterlude. The names of the players. ...</title>
+                  <title>Enough is as good as a feast</title>
+                  <author>Wager, W. (William)</author>
+               </titleStmt>
+               <extent>[52] p.   </extent>
+               <publicationStmt>
+                  <publisher>At the long shop adioyning vnto S. Mildreds Church in the Pultrie, by Iohn Allde,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1570?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Publication date conjectured by STC.</note>
+                  <note>Signatures: A-F⁴ G² .</note>
+                  <note>Running title reads: Inough is as good as a feast.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11872:1"/>
+            <pb facs="tcp:11872:1"/>
+            <p>A Comedy or Enter<g ref="char:EOLunhyphen"/>lude <hi>intituled, Inough is as good as a feaſt,</hi> very fruteful / godly and ful of plea<g ref="char:EOLhyphen"/>ſant mirth. Compiled by W. Wager.</p>
+            <p>¶Seuen may eaſely play this Enterlude.</p>
+            <list>
+               <head>The names of the Players.</head>
+               <item>¶<hi>Vvorldly man.</hi> for one.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Prologue.</hi>
+                     </item>
+                     <item>
+                        <hi>Heauenly man.</hi>
+                     </item>
+                  </list> for one.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Contentation.</hi>
+                     </item>
+                     <item>
+                        <hi>Temeritie.</hi>
+                     </item>
+                     <item>
+                        <hi>Ignorance.</hi>
+                     </item>
+                     <item>
+                        <hi>Sathan.</hi>
+                     </item>
+                  </list> for one.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Inough.</hi>
+                     </item>
+                     <item>
+                        <hi>Hireling.</hi>
+                     </item>
+                  </list> for one.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Inconſideration</hi>
+                     </item>
+                     <item>
+                        <hi>Seruant</hi>
+                     </item>
+                     <item>
+                        <hi>Reſt,</hi>
+                     </item>
+                     <item>
+                        <hi>Prophet.</hi>
+                     </item>
+                  </list> for one.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Precipitation.</hi>
+                     </item>
+                     <item>
+                        <hi>Tenant.</hi>
+                     </item>
+                     <item>
+                        <hi>Plagues.</hi>
+                     </item>
+                     <item>
+                        <hi>Phiſicion.</hi>
+                     </item>
+                  </list> for one.</item>
+               <item>¶<hi>Couetouſnes</hi> the Vice for an other.</item>
+            </list>
+            <p>
+               <hi>IMPRINTED AT LON<g ref="char:EOLunhyphen"/>don</hi> at the long ſhop adioyning vnto S. <hi>Mildreds Church in the Pultrie,</hi> by Iohn Allde.</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:11872:2"/>
+            <pb facs="tcp:11872:2"/>
+            <head>¶Prologus.</head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">I</seg>
+                  </hi> Knowe that this worſhipful Audience,</l>
+               <l>Is at this time togither congregate:</l>
+               <l>Of our practiſe to haue intelligence,</l>
+               <l>And with the ſame them ſelues to recreate.</l>
+               <l>God graunt vs grace the ſame wel to publicate.</l>
+               <l>But for them that haue ſlept at <hi>Parnaſſus:</hi>
+               </l>
+               <l>This facultie is more méet for them then for vs</l>
+               <l>
+                  <hi>Pandite pierides veſtro ſacra oſtia vita.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>¶Open your holy doores O pleaſant <hi>Muſes,</hi>
+               </l>
+               <l>Direct our tungs to ſpeak eloquently:</l>
+               <l>Vertues to praiſe and to touch abuſes,</l>
+               <l>Deuiding either of them plain and directly.</l>
+               <l>That it may appéer to all our Audience euidently.</l>
+               <l>That this matter which we now go about:</l>
+               <l>By your inſpiration was firſt found out.</l>
+            </lg>
+            <lg>
+               <l>¶Oh that with ſome grace you would vs inſpire,</l>
+               <l>And dele with vs as with <hi>Orpheus</hi> you delt:</l>
+               <l>Then ſhould all affections haue their deſire,</l>
+               <l>For through his Muſick he made ſtones to melt,</l>
+               <l>No kinde of pain in Hel then the ſoules felt.</l>
+               <l>For he played ſo pleaſantly with his Harp:</l>
+               <l>That they forgate their paines gréeuous and ſharp.</l>
+            </lg>
+            <lg>
+               <l>¶ <hi>Tantalus</hi> forgate his hunger and thirſt,</l>
+               <l>
+                  <hi>Siſiphus</hi> loft of rolling his Stone:</l>
+               <l>
+                  <hi>Ixion</hi> tormented among the wurſt,</l>
+               <l>Forgate his whéel that he was hanged on.</l>
+               <l>The woman <hi>Belides</hi> left woork anon:</l>
+               <l>Whoſe labour was continually to fil a Tun:</l>
+               <l>Whereout by clefts the licour ſtil dooth run.</l>
+            </lg>
+            <lg>
+               <l>¶Theſe fables wherfore doo I call to minde?</l>
+               <l>Truely becauſe I deſire with all my hart:</l>
+               <l>That our Engliſh Méeter may be of ſuch kinde,</l>
+               <l>Bothe to leaue all gréeuouſnes and ſmart.</l>
+               <l>And alſo to be pleaſant in euery parte.</l>
+               <l>That thoſe which come for recreation:</l>
+               <l>May not be void of their expectation.</l>
+            </lg>
+            <lg>
+               <l>¶<hi>Poets</hi> fained <hi>Mercurius</hi> to haue wings,</l>
+               <l>bothe on his hed and on his heeles alſo:</l>
+               <pb facs="tcp:11872:3"/>
+               <l>For liuely and ſwift he was in all things,</l>
+               <l>Appéering rather to flée then to go:</l>
+               <l>Of him they fain many goodly things mo.</l>
+               <l>But for our purpoſe this ſhall ſerue this ſeaſon:</l>
+               <l>and why I ſpeak, you ſhall knowe the reaſon.</l>
+            </lg>
+            <lg>
+               <l>¶<hi>Mercurius</hi> is the God of eloquence,</l>
+               <l>By whome I vnderſtand the miniſters of talke:</l>
+               <l>Such muſt haue the wings of intelligence,</l>
+               <l>In their heds before their tungs to far doo walke.</l>
+               <l>The daunger of raſh ſpéech they muſt wiſely calke.</l>
+               <l>When, where, and to whome they ſpeak they muſt note:</l>
+               <l>Before that any thing paſſe out of their throte.</l>
+            </lg>
+            <lg>
+               <l>¶As <hi>Mercurius</hi> hath wings vpon his hed,</l>
+               <l>So hath he wings on his heeles redy to flye:</l>
+               <l>When affections ſtandeth in reaſons ſted,</l>
+               <l>Reporters of tales vſe eft ſoones to lye,</l>
+               <l>The heeles affections doo alſo ſignifye.</l>
+               <l>The wings doo alwaies reaſon comprehend:</l>
+               <l>Which vnto Vertue ought to condeſcend.</l>
+            </lg>
+            <lg>
+               <l>¶Few woords to wiſe men are ſufficient,</l>
+               <l>Without a cauſe I giue not this monition:</l>
+               <l>Vnto good men it is plain and euidient,</l>
+               <l>That many men haue that lewd condition.</l>
+               <l>By their euil words to bring good men into ſuſpition.</l>
+               <l>By their vndiſcrete talke they doo much harme:</l>
+               <l>Becauſe they want reaſon thir tungs to charme.</l>
+            </lg>
+            <lg>
+               <l>¶Let this paſſe and go we to the Argument,</l>
+               <l>Which we wil declare in woords generall:</l>
+               <l>Now ſuch as haue a learned iudgement,</l>
+               <l>Knowe that among the Poets comicall,</l>
+               <l>In breef ſentence it was vſuall.</l>
+               <l>To ſhowe the whole contents of the Comedye:</l>
+               <l>In the argument which did wel verily.</l>
+            </lg>
+            <lg>
+               <l>¶But our tungs hath not ſo comely a grace,</l>
+               <l>In that point, as hath the Latin and Gréek:</l>
+               <l>We cannot like them our ſentences eloquently place,</l>
+               <l>That our Poets to their Orators may be like</l>
+               <l>As they knowe wel which for ſuch matters doo ſeek.</l>
+               <pb facs="tcp:11872:3"/>
+               <l>But to doo our beſt, indéed we wil not neglect:</l>
+               <l>Truſting that wiſe men the ſame wil accept.</l>
+            </lg>
+            <lg>
+               <l>¶Our title is <hi>Inough is as good as a feaſt,</hi>
+               </l>
+               <l>Which Rethorically we ſhall amplyfye:</l>
+               <l>So that it ſhall appéer bothe to moſte and leaſt</l>
+               <l>That our meaning is but honeſtie,</l>
+               <l>Yet now and then we wil dally merily.</l>
+               <l>So we ſhall pleaſe them that of mirth be deſirous:</l>
+               <l>For we play not to pleaſe them that be curious.</l>
+            </lg>
+            <lg>
+               <l>¶For a Preface I fear I am to long</l>
+               <l>But I haue ſaid that I wil ſay now:</l>
+               <l>The Worldly man is frolike luſty and ſtrong,</l>
+               <l>Who wil ſhowe his qualities before you,</l>
+               <l>Stowt he is and in any wiſe wil not bow.</l>
+               <l>Beholde yonder he commeth into this place:</l>
+               <l>Therfore thus I finiſh our ſimple Preface.</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <head>Enter Worldly man ſtout and frolike.</head>
+            <sp>
+               <speaker>Vvorldly man:</speaker>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">B</seg>Ecauſe I am a man indewed with treaſure,</l>
+                  <l>Therfore a worldly man men doo me call:</l>
+                  <l>In deed I haue riches and money at my pleaſure,</l>
+                  <l>Yea, and I wil haue more in ſpight of them all.</l>
+               </lg>
+               <lg>
+                  <l>A common ſaying better is enuy then rueth,</l>
+                  <l>I had rather they ſhould ſpite then pitty me:</l>
+                  <l>For the olde ſaying now a dayes proueth trueth,</l>
+                  <l>Naught haue naught ſet by as dayly we ſee.</l>
+               </lg>
+               <lg>
+                  <l>I wis I am not of the minde as ſome men are,</l>
+                  <pb facs="tcp:11872:4"/>
+                  <l>Which look for no more then wil ſerue neceſſitie:</l>
+                  <l>No againſt a day to come I doo prepare,</l>
+                  <l>That when age commeth I may liue merily.</l>
+               </lg>
+               <lg>
+                  <l>Oh ſaith one inough is as good as a feaſt,</l>
+                  <l>Yea, but who can tel what his end ſhalbe?</l>
+                  <l>Therfore I count him wurſe then a Beaſt,</l>
+                  <l>That wil not haue that in reſpect and ſée.</l>
+               </lg>
+               <lg>
+                  <l>As by mine owne Father an example I may take,</l>
+                  <l>He was belooued of all men and kept a good houſe:</l>
+                  <l>Whilſt riches laſted, but when that did ſlake,</l>
+                  <l>There was no man that did ſet by him a Louſe.</l>
+               </lg>
+               <lg>
+                  <l>And ſo at ſuch time as as he from the world went,</l>
+                  <l>I mene when he dyed he was not worth a grote:</l>
+                  <l>And they that all his ſubſtance had ſpent,</l>
+                  <l>For the value of xij. pence would haue cut his throte.</l>
+               </lg>
+               <lg>
+                  <l>But I trowe I wil take héed of ſuch,</l>
+                  <l>They ſhall go ere they drink when they come to me:</l>
+                  <l>It dooth me good to tel the chinks in my hutch,</l>
+                  <l>More then at the Tauern or ale houſe tobe.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>¶Heauenly man.</speaker>
+               <l>God careth for his as the Prophet <hi>Dauid</hi> dooth ſay,</l>
+               <l>And preſerueth them vnder his merciful wing:</l>
+               <l>The Heauenly I mene, that his wil doo obay,</l>
+               <l>and obſerue his holy commaundements in all thing.</l>
+               <l>Yet not for our ſakes, nor for our deſeruing.</l>
+               <l>But for his owne name ſake openly to declare:</l>
+               <l>that all men héer on Earth ought to liue in his feare.</l>
+            </sp>
+            <sp>
+               <speaker>VVorldly man.</speaker>
+               <l>This ſame is one of our iolly talkers,</l>
+               <l>That prattleth ſo much of Heauen and Hel:</l>
+               <l>Oh, I tel you theſe are godly walkers,</l>
+               <l>Of many ſtraunge things they can tel.</l>
+               <l>They paſſe men yea Angels they excel,</l>
+               <l>Sir, are you not called the Heuenly man?</l>
+               <l>I haue been in your co<g ref="char:cmbAbbrStroke">̄</g>pany ere now but I ca<g ref="char:cmbAbbrStroke">̄</g>not tel whan</l>
+            </sp>
+            <sp>
+               <speaker>Heuenly man.</speaker>
+               <l>Yes certainly Sir, that is my name,</l>
+               <l>Vnworthy of any ſuch title I doo confeſſe:</l>
+               <pb facs="tcp:11872:4"/>
+               <l>God graunt that I may deſerue the ſame,</l>
+               <l>And that my faults I may amend and redreſſe.</l>
+               <l>Therfore now the trueth doo you héer expreſſe,</l>
+               <l>Is not the Worldly man your name?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Yea in déed Sir, I am the very ſame.</l>
+            </sp>
+            <sp>
+               <speaker>Contentation.</speaker>
+               <l>From the Heauenly man I cannot be long abſent,</l>
+               <l>Which in Gods promiſes hath his conſolation:</l>
+               <l>Conſidering that he alwaies is content,</l>
+               <l>Patiently to ſuffer Gods viſitation.</l>
+               <l>For vnderſtand you? my name is <hi>Contentation.</hi>
+               </l>
+               <l>Whome the worldly man dooth mock and deride:</l>
+               <l>And wil not ſuffer him once in his minde to abide.</l>
+            </sp>
+            <sp>
+               <speaker>VVorldly man.</speaker>
+               <l>This ſame is the Grandſire of them all,</l>
+               <l>This is he that will through water and fire:</l>
+               <l>Good reaſoning betwixt vs now hear you ſhall,</l>
+               <l>For to folowe him he wil me erneſtly require,</l>
+               <l>But he ſhalbe hanged or he haue his deſire.</l>
+               <l>You are welcome Sir, ſauing my quarrel in déed:</l>
+               <l>You haue reported of me much more then you néed.</l>
+            </sp>
+            <sp>
+               <speaker>Contentation.</speaker>
+               <l>Nothing but trueth Sir, certainly I haue ſaid,</l>
+               <l>Oft times I haue cou<g ref="char:cmbAbbrStroke">̄</g>celled you your couetouſnes to leue</l>
+               <l>But my woords as fethers in the winde you haue waid,</l>
+               <l>And ſtuck to them as Glue to the water dooth cleaue.</l>
+               <l>But take héed the rewarde therof you ſhall receiue.</l>
+               <l>Once again I aduertiſe thée to be content:</l>
+               <l>And giue thanks to God for that he hath thée ſent.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>I pray you be you content for I am pleaſed,</l>
+               <l>And meddle you no more with me then I doo with you:</l>
+            </sp>
+            <sp>
+               <speaker>Heauenly man.</speaker>
+               <l>To be angry without a cauſe, w<hi rend="sup">t</hi>out mends muſt be eaſed</l>
+               <l>We wilbe more erneſt then euer we were now.</l>
+               <l>Wo (ſaith our Sauiour) to thoſe that are rich,</l>
+               <l>Which therin onely haue their conſolation:</l>
+               <pb facs="tcp:11872:5"/>
+               <l>He curſeth them not be cauſe they haue much,</l>
+               <l>but becauſe they receiue it not with contentation.</l>
+               <l>Building therwith to them ſelues a good foundation,</l>
+               <l>That is to lay héer on Earth treaſure great ſtore:</l>
+               <l>to purchace a kingdome that laſteth euer more.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Paſſion of me maiſters, what would you haue me to doo?</l>
+               <l>You are fond fellowes indéed as euer I knew:</l>
+               <l>If I ſhould not take paines, ride, run and go</l>
+               <l>For my liuing, what therof would inſue?</l>
+               <l>A begger ſhould I dye, maiſters this is true,</l>
+               <l>Then my wife and children that I leaue behinde:</l>
+               <l>I fear me at your hands, ſmall reléef ſhould finde.</l>
+            </sp>
+            <sp>
+               <speaker>Heauenly man.</speaker>
+               <l>I haue béen yung (ſaith <hi>Dauid</hi>) and now am olde,</l>
+               <l>Yet the righteouſe forſaken I neuer did ſée:</l>
+               <l>Nor their ſeed begging Bread I did not beholde,</l>
+               <l>Therfore your minde to the Prophets dooth not agrée,</l>
+               <l>Caſt all thy burden and care (ſaith Chriſte) on me.</l>
+               <l>And I wil prouide to kéep thée from daunger and ſtrife:</l>
+               <l>Onely ſeek thou to liue a godly and good life.</l>
+            </sp>
+            <sp>
+               <speaker>Contentation.</speaker>
+               <l>When <hi>Solon</hi> was aſked of <hi>Creſſus</hi> the King,</l>
+               <l>What man was moſte happy in this vale tereſtrial:</l>
+               <l>To the end he ſéemed to attribute that thing,</l>
+               <l>When men be aſſoſiate with treaſures ſeleſtiall.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>By the beginning no man can iudge the ſame <hi>Solon</hi> dooth ſay,</l>
+               <l>That any man is happy that beareth breath:</l>
+               <l>But yet by the end partely iudge we may,</l>
+               <l>For true happines (ſaith he) conſiſteth after death.</l>
+            </sp>
+            <sp>
+               <speaker>Heauenly man.</speaker>
+               <l>If this be true as vndoutedly it is,</l>
+               <l>What men are more wicked, wretched and miſerable:</l>
+               <l>Then thoſe that in riches account their bliſſe,</l>
+               <l>Béeing infected with Ambition that ſicknes vncurable.</l>
+            </sp>
+            <sp>
+               <speaker>Contentation.</speaker>
+               <lg>
+                  <l>The treaſure of this world we may wel compare,</l>
+                  <pb facs="tcp:11872:5"/>
+                  <l>To <hi>Circes</hi> the Witch with her crafty cawtilitie:</l>
+                  <l>Wherwith many mens mindes ſo poyſoned are,</l>
+                  <l>That quite they are caryed to all infidelitie,</l>
+               </lg>
+               <lg>
+                  <l>They are coniured ſo in déed and bewitched ſo ſore,</l>
+                  <l>That treaſure is their truſt, yea, hope and delight:</l>
+                  <l>Inough ſerueth them not til that they haue more,</l>
+                  <l>So againſt Contentation they ſtil ſtriue and fight.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Heauenly man.</speaker>
+               <l>Though the Worldly man doo folowe their luſt,</l>
+               <l>Crying on Earth is our felicitie and pleaſure:</l>
+               <l>Yet God dooth ſo rule the harts of the Iuſt,</l>
+               <l>That their ſtudy is, cheefly to get Heauenly treaſure.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <lg>
+                  <l>Fréends I take you bothe for honeſt men,</l>
+                  <l>I promiſe you I would be glad to doo for the beſt:</l>
+                  <l>Mary then I take care which way and when,</l>
+                  <l>I may get treaſure therewith to liue in reſt.</l>
+               </lg>
+               <lg>
+                  <l>Oh, me thinks it is a very pleaſant thing,</l>
+                  <l>To ſée a great heap of olde Angels and Crownes:</l>
+                  <l>When I haue ſtore of money I can be mery and ſing,</l>
+                  <l>For money as men ſay winneth bothe Citties and townes.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Heauenly man.</speaker>
+               <lg>
+                  <l>Alas why ſhould you not haue that in eſtimation,</l>
+                  <l>Which God hath prepared for his déer elect:</l>
+                  <l>Should not our mindes reſt in ful contentation,</l>
+                  <l>Hauing truſt in that treaſure moſte high in reſpect,</l>
+                  <l>
+                     <hi>Saint Paule</hi> whome the Lord ſo high dooth erect.</l>
+                  <l>Saith, it paſſeth the ſence, our memoryes and minde:</l>
+                  <l>Much leſſe can our outwarde eyes the ſame finde.</l>
+               </lg>
+               <lg>
+                  <l>As for the treaſure that you poſſeſſe héer,</l>
+                  <l>Through ficklenes of Fortune ſoon fadeth away:</l>
+                  <l>The greateſt of renown and moſte worthy Peer,</l>
+                  <l>Somtime in the end falleth to miſery and decay.</l>
+               </lg>
+               <lg>
+                  <l>Recorde of <hi>Dioniſius</hi> a King of much fame,</l>
+                  <l>Of the valiant <hi>Alexander,</hi> and <hi>Ceaſer</hi> the ſtrong:</l>
+                  <l>Recorde of <hi>Tarquinus</hi> which <hi>Superbus</hi> had to name:</l>
+                  <l>And of <hi>Heliogabalus</hi> that miniſtred with wrong,</l>
+                  <l>To reſite them all it would be very long.</l>
+                  <pb facs="tcp:11872:6"/>
+                  <l>But theſe be ſufficient plainly to prooue:</l>
+                  <l>How ſoon and vncertainly riches dooth remooue.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Contentation.</speaker>
+               <lg>
+                  <l>It is true, and therfore a minde wel content,</l>
+                  <l>Is great riches as wiſe king <hi>Salomon</hi> dooth ſay:</l>
+                  <l>For we haue ſéen of late dayes this canker peſtilent</l>
+                  <l>Corrupting our Realme to our vtter decay.</l>
+               </lg>
+               <lg>
+                  <l>Ambition I mene which chéefly dooth reign,</l>
+                  <l>Amongſt thoſe who ſhould haue béen example to other:</l>
+                  <l>Yea we ſée how the Bréethern they did diſdain,</l>
+                  <l>And burned with fire, the Childe with the mother.</l>
+               </lg>
+               <lg>
+                  <l>It is often ſéen that ſuch monſtrous Ambition,</l>
+                  <l>As ſpareth not to ſpil the blood of the innocent:</l>
+                  <l>Wil not greatly ſtick to fall to ſedition,</l>
+                  <l>The determinations of God therby to preuent,</l>
+                  <l>But God I truſt ſhall diſapoint their intent.</l>
+                  <l>And ouerthrowe the power of fading treaſure:</l>
+                  <l>And cauſe vs al to wiſh for the heauenly pleaſure.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Heauenly man.</speaker>
+               <lg>
+                  <l>O you ancient men whome God hath furniſhed w<hi rend="sup">t</hi> fame,</l>
+                  <l>Be ye alwaies mindeful to walke in the waies of the Iuſt,</l>
+                  <l>And ad euer more vertue to your honeſt name,</l>
+                  <l>And at no hand be ouer come with couetouſe or luſt,</l>
+                  <l>But in Gods holy promiſe put confidence and truſt.</l>
+                  <l>And then double felicitie at the laſt we ſhall poſſeſſe:</l>
+                  <l>And then in all Earthly dooings God ſhall giue good ſucceſſe</l>
+               </lg>
+               <lg>
+                  <l>Ye poor men and commons walke in your vocation,</l>
+                  <l>Baniſh fond fantaſyes which are not conuenient:</l>
+                  <l>Settle your mindes with inough to haue contentation,</l>
+                  <l>Conſidering that that leadeth to treaſures moſte excellent,</l>
+                  <l>For theſe are vncertain, but they are moſte parmanent.</l>
+                  <l>Your neceſſitie apply with treaſure, faith and truſt:</l>
+                  <l>And you ſhall haue inough alwaies among the Iuſt.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <lg>
+                  <l>And indéed inough is as good as a feaſt,</l>
+                  <l>Good Lord how your woords haue altred my minde:</l>
+                  <l>A new hart me thinks is entred in my breſt,</l>
+                  <l>For no thought of mine olde in me I can finde.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:11872:6"/>
+                  <l>I would to God you would take me in your company,</l>
+                  <l>And learne me how I may be an heauenly man:</l>
+                  <l>For now I perceiue this world is but vanitie,</l>
+                  <l>Let a man therfore make of it aſmuch as he can.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Contentation.</speaker>
+               <l>Doo you ſpeak as you think? and as you minde doo you ſay?</l>
+               <l>Could you be content to lead the rules of a godly life?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>I doo mean it truly and I wil ſtudy them night and day,</l>
+               <l>For I regarde neither treaſure, Children nor wife.</l>
+            </sp>
+            <sp>
+               <speaker>Heauenly man.</speaker>
+               <l>Giue me your hand then togither let vs departe:</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>And I wil wait on you ſir, with all my hart. <stage>Exeunt Ambo.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>¶ Enter Temeritie, Inconſideration, and Precipi<g ref="char:EOLhyphen"/>tation ſinging this Song.</speaker>
+               <lg>
+                  <l>When Couetouſe is buſy,</l>
+                  <l>Then we three be all mery,</l>
+                  <l>for he dooth trimly inuent:</l>
+               </lg>
+               <lg>
+                  <l>To make vs fine frolike chéer</l>
+                  <l>Be vitailes neuer ſo déer,</l>
+                  <l>and all our money clene ſpe<g ref="char:cmbAbbrStroke">̄</g>t</l>
+               </lg>
+               <lg>
+                  <l>Therfore we ſpare for no coſt</l>
+                  <l>We ca<g ref="char:cmbAbbrStroke">̄</g> be truſted of our hoſte</l>
+                  <l>For ſhillings xx. and one:</l>
+               </lg>
+               <lg>
+                  <l>Couetouſe hath a good wit,</l>
+                  <l>He findeth a mene to pay it,</l>
+                  <l>whe<g ref="char:cmbAbbrStroke">̄</g> all our money is gone.</l>
+               </lg>
+               <lg>
+                  <l>Therfore trole the boule to me,</l>
+                  <l>With huf childe &amp; haue to thee,</l>
+                  <l>the longeſt liuer pay all:</l>
+               </lg>
+               <lg>
+                  <l>Our truſt is in Couetiſe,</l>
+                  <l>For he is prudent and wiſe,</l>
+                  <l>therfore money cannot fall.</l>
+               </lg>
+               <lg>
+                  <l>Oh Couetouſe prude<g ref="char:cmbAbbrStroke">̄</g>t Prince,</l>
+                  <l>All ſtro<g ref="char:cmbAbbrStroke">̄</g>g walles y<hi rend="sup">u</hi> dooſt co<g ref="char:cmbAbbrStroke">̄</g>uince</l>
+                  <l>and ruleſt them euery one:</l>
+               </lg>
+               <lg>
+                  <l>Thou dooſt driue many a drift,</l>
+                  <l>And makeſt for vs much ſhift,</l>
+                  <l>whe<g ref="char:cmbAbbrStroke">̄</g> all our money is gone.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>¶ Enter Couetouſe the Vice alone.</speaker>
+               <lg>
+                  <l>AT Black heath feeld where great Golias was ſlain,</l>
+                  <l>The Moon lying in childe bed of her laſt Sonne:</l>
+                  <l>The Tiborne at warwick was then King of Spain,</l>
+                  <l>By whome the land of <hi>Canaan</hi> then was wun.</l>
+               </lg>
+               <lg>
+                  <l>It hapned betwéen Peterborow and Pentecoſt,</l>
+                  <l>About ſuch time as Iuy was made of Wormwood:</l>
+                  <l>That Childes woork in Baſil wood with fire was loſt,</l>
+                  <l>And all through the treaſon of falſe <hi>Robin Hood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>That ſaw Sir <hi>Guy</hi> of Warwick, and <hi>Colebrand,</hi>
+                  </l>
+                  <pb facs="tcp:11872:7"/>
+                  <l>Which fought againſt the Sun and ſtopped his light:</l>
+                  <l>Yea (quoth <hi>Hobgoblin</hi>) let me take them in hand,</l>
+                  <l>Children, children not able to reſiſt my might</l>
+               </lg>
+               <lg>
+                  <l>A wunderful bloodſhed was in thoſe dayes,</l>
+                  <l>For <hi>Saint Steephen</hi> fought againſt the golden Knight:</l>
+                  <l>In ſo much that <hi>Peeter</hi> was fain to giue his Keyes,</l>
+                  <l>To thoſe God knowes that had to them no right.</l>
+               </lg>
+               <lg>
+                  <l>With the greef of that, all the Saints in Heauen,</l>
+                  <l>Proclamed open warres at Barnard in the feeld:</l>
+                  <l>They fought from ſix of the clock to eleuen,</l>
+                  <l>Or euer the Traitors would giue ouer and yéeld.</l>
+               </lg>
+               <lg>
+                  <l>But to ſay there was triumph, in faith there was,</l>
+                  <l>
+                     <hi>Saint Steephen</hi> the yunger was made Captain of the Garde:</l>
+                  <l>Wunderful it was to ſee ſuch things he brought to paſſe,</l>
+                  <l>As I am ſure the like of them ye neuer heard.</l>
+               </lg>
+               <lg>
+                  <l>By giſſe (quoth <hi>Saint Steephen</hi>) it was time to trudge,</l>
+                  <l>Fryer <hi>Francis</hi> took his flight to Paules ſtéeple:</l>
+                  <l>In faith he was euen with them for an olde grudge,</l>
+                  <l>For he caried away the Wethercock in ſpight of the people.</l>
+               </lg>
+               <lg>
+                  <l>Then was I dubbed Knight at Kiniſtone,</l>
+                  <l>And made Officer of all Courts and lawes:</l>
+                  <l>I gaue Offices and liuings many a one,</l>
+                  <l>Mary in déed you may ſay, it was for a cauſe.</l>
+               </lg>
+               <lg>
+                  <l>In faith the ſame day that Midſommer was maried,</l>
+                  <l>I neuer laughed better in my life:</l>
+                  <l>For euen ſudainly away <hi>Saint Vncumber</hi> caried,</l>
+                  <l>Bothe the Bridgroome and the Bride his wife.</l>
+               </lg>
+               <lg>
+                  <l>No remedy on Gods name but I muſt beare them co<g ref="char:cmbAbbrStroke">̄</g>pany,</l>
+                  <l>Chéer, in faith there was, chéer in houles:</l>
+                  <l>And who was minſtrel but <hi>Saint Anthony,</hi>
+                  </l>
+                  <l>He made melodye for all Chriſten ſoules.</l>
+               </lg>
+               <lg>
+                  <l>A quarter of a yéer we taried there in the tent,</l>
+                  <l>Wherin we had <hi>Capricorne</hi> baked like red Déer:</l>
+                  <l>I taried ſo long til I was ſhent,</l>
+                  <l>Ieſu how they cryed out of me there.</l>
+               </lg>
+               <lg>
+                  <l>Wel, I muſt abrode among my fréends,</l>
+                  <l>Euery houre til I come they think a day:</l>
+                  <l>I wil go among then to fulfil their mindes,</l>
+                  <pb facs="tcp:11872:7"/>
+                  <l>Fare ye wel Goſſip I muſt needs away.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>What brother <hi>Couetouſe?</hi> whether away ſo faſt?</l>
+               <l>I ſawe you not by the Maſſe, til I was almoſte paſt.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>What mine owne Brother <hi>Temeritie:</hi>
+               </l>
+               <l>I reioice to ſee you, I ſwere by the Trinitie.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>For thée we thrée haue taken great thought,</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Lord, how far about for you we haue ſought?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>And I pray you where haue you thrée ſought for mée?</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>In the Kings bench and in the Marſhalſée.</l>
+               <l>Yea, and in all the Countees, and at Newgate:</l>
+               <l>For theſe are places meet for thine eſtate.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>I perceiue wel it muſt be my chaunce:</l>
+               <l>Abooue all your kinſfolke you to inhaunce.</l>
+               <l>Your place is at Saint Thomas awatrings:</l>
+               <l>Or els at Wapping beyond Saint Katherins.</l>
+               <l>There wil I dub you Knights of the Halter:</l>
+               <l>Among your mates there ſtrongly to talter.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>You are to blame in faith <hi>Precipitation:</hi>
+               </l>
+               <l>For you began this fond communication.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>You are Knaues to vſe ſuch ſalutation:</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>Why Brother we ſpeke for your conſolation.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Speak what you wil, euen with you I can make.</l>
+               <l>Speak you in mirth, and in mirth I doo it take.</l>
+               <l>But by the mas and if you go about me to flowt:</l>
+               <l>I wil make the better of all you thrée a Lout.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>No Sir, no, we came not hether you to moleſt:</l>
+               <pb facs="tcp:11872:8"/>
+               <l>Our buſines I tel you is very erneſt.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>By Gods ares true, if now we make not ſhift:</l>
+               <l>We are all foure like to haue a great lift.</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>If euer Couetouſe were in daunger of puniſhment:</l>
+               <l>He ſtandeth now at the point of baniſhment.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>
+                  <hi>Sancte Blaci,</hi> you make me much to muſe:</l>
+               <l>Paſſion of me Sirs, why what newes?</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>I think the day of Iudgement be now at hand:</l>
+               <l>For it was neuer thus ſince the worlde did ſtand.</l>
+               <l>The worldly man hath forſaken Couetouſe clene:</l>
+               <l>And vnto Contentation, and Inough he dooth lene.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>What dooth he? <hi>Benidicite</hi> is this true?</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>Yea faith, he is quite becommen a new.</l>
+               <l>More ouer with the heauenly man he is aſſociate:</l>
+               <l>Where he ſtudieth y<hi rend="sup">e</hi> rules of godly life erly &amp; late.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Body of me <hi>Precipitation,</hi> fetch me my gown:</l>
+               <l>My Cap, and my Chain, I wil to the Town.</l>
+               <l>Mary Sir, in deed it is time to ſtir Coles:</l>
+               <l>I wil go neer to fetch ſome of the<g ref="char:cmbAbbrStroke">̄</g> out of their holes.</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>Haſte maketh waſte Brother <hi>Couetouſe</hi> ye wot:</l>
+               <l>No loo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſo ſoon colde, as that is moſte hot.</l>
+               <l>I warrant you the worldly man wil ſoon be wery:</l>
+               <l>For they wil not ſuffer him once to be mery.</l>
+               <l>And verily he is inclined to be nought:</l>
+               <l>therfore think not that by the<g ref="char:cmbAbbrStroke">̄</g> he wil long be taught</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Now by the maſſe, of one that ſhould haue ſapie<g ref="char:cmbAbbrStroke">̄</g>ce,</l>
+               <l>I neuer heard none vtter ſuch a fooliſh ſentence.</l>
+               <l>Knowe you not that when ſo euer a Sinner dooth repent:</l>
+               <l>That God forgiueth him his wickednes incontinent.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:8"/>
+               <speaker>Inconſideration.</speaker>
+               <l>True in déed as héer tofore hath béen ſéen:</l>
+               <l>Many haue been made heauenly that worldly haue béen.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Héer is your Gown, your Chain and your Cap:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Body of me, but for ſhame thou ſhouldſt beare me a rap.</l>
+               <l>Whorſon th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f, the Deuil in Helthée choke:</l>
+               <l>What meaneſt thou fooliſh knaue to bring my Cloke.</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie,</speaker>
+               <l>Why my brother is blinde, I holde you a Crown:</l>
+               <l>Body of me he knoweth not a Cloke from a Gown.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>Tuſh maiſters he was ſtirring in the morning betime:</l>
+               <l>At foure of the Clock in a S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ller he was ſaying of Prime.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>I blame him not though betimes he ſtéer:</l>
+               <l>For he is made Ale cunner in our Pariſh this yéer.</l>
+               <l>His paines is ſo great in taſting o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drink:</l>
+               <l>That many times his eyes into his hed doo ſink.</l>
+               <l>And then he looketh preſtly as narow as a Crowe:</l>
+               <l>I tel you he can ſcarce reed the letters of his Croſrowe.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Body of me, you are Knaues all thrée:</l>
+               <l>Take Gown, Chain, Cap and all for me.</l>
+               <l>I wil be eue<g ref="char:cmbAbbrStroke">̄</g> with you all I ſwere by Gods mother:</l>
+               <l>Chuſe you ſhift how you can one for an other.
+<stage>Be going out.</stage>
+               </l>
+               <l>I warrant you I ſhalbe able to ſhift for my ſelf:</l>
+               <l>Or els you may ſay I were a fooliſh elf.</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <stage>Holde him.</stage>
+               <l>Why brother, you ſaid you would all things wel take:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Yea but I would not haue you your fool me to make.
+<stage>Come in again</stage>
+               </l>
+               <l>For you knowe wel inough that of you all thrée:</l>
+               <l>I am worthy the gouernour and Ruler to be.</l>
+               <l>Couetouſe (ſaith the wiſe man) is the root of all euil:</l>
+               <l>Therfore Couetouſe is the cheefeſt that co<g ref="char:cmbAbbrStroke">̄</g>meth from y<hi rend="sup">e</hi> deuil.</l>
+               <l>But this is that Knaue I mene <hi>Precipitation:</hi>
+               </l>
+               <pb facs="tcp:11872:9"/>
+               <l>But I wil be euen with him I ſwere by the Paſſion.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <stage>Cumin.</stage>
+               <l>I am ſory by my trueth that you are ſo ſore offended:</l>
+               <l>What Sir, if a fault be made it ſhalbe amended.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Nay faith I am an Ale cunner, or ſome drunken fool:</l>
+               <l>I am no better but your courage I wil coole.
+<stage>He fighteth with them bothe with his Daggar.</stage>
+               </l>
+               <l>That witleſſe knaue to, <hi>Inconſideration,</hi>
+               </l>
+               <l>He was beginner of this diſputation.</l>
+               <l>But it is no matter once or Chriſtmas day:</l>
+               <l>I wil be euen with you, be as be may.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <stage>Lay holde on him</stage>
+               <l>What worſhipful M. <hi>Couetouſe</hi> are you angry with me?</l>
+               <l>I am ſory for it man, what can I more be?</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ang me vp by the neck like a ſtrong théef:</l>
+               <l>If euer I ſpeak any woord that ſhall put you to gréef.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>I would doo for you Sirs, for I looue you all thrée,</l>
+               <l>Mary then I look that as I am you ſhould accept me</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>By my troth Brother, I dare ſay none of vs all:</l>
+               <l>But that to doo as you bid vs, redy finde you ſhall.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Mary then on good feloſhip let vs like fréends agrée:</l>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <l>Why abooue all things that deſire we.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Wil you help then to make me gay?</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie</speaker>
+               <l>As you wil wiſh it, ſo we wil you aray.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Wil you concent to ſhowe vnto me reuerence?</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Yea, at all times we wil ſhowe to you our obedience</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Wil you take me for your maiſter and hed?</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>Yea mary Sir, for ſo it ſtandeth vs in ſted.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:9"/>
+               <speaker>Couetouſe.</speaker>
+               <l>And doo you ſay as you think in very déed?</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>Yea, that ſhall you prooue in all time of néed.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Firſt to help on my gown ſome paines doo you take</l>
+               <l>And then I wil ſee what curtſie you can make.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>It is trim indéed, by the maſſe in that Gown:</l>
+               <l>Me thinks you be worthy to be Mayor of a town.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Say you ſo? then how like you this countenaunce?</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Very comely and like a perſon of great gouernau<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Then all is wel, come, come doo your dutye:</l>
+            </sp>
+            <sp>
+               <speaker>All three.</speaker>
+               <l>O worthy Prince Couetouſe we humbly ſalute ye.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Body of me, that ſame wil marre all:</l>
+               <l>Whe<g ref="char:cmbAbbrStroke">̄</g> in co<g ref="char:cmbAbbrStroke">̄</g>pany I come if Couetouſe you doo me call</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>Therfore it is beſt for vs all to chaunge our names:</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Or els paraduenture we ſhall come to ſhames.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Wel, holde your peace, then let me alone:</l>
+               <l>And I wil deuiſe names for you euery one,
+<stage>ſtudy</stage>
+               </l>
+               <l>Sira, nay you gape at me:</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>What ſhall my name be?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>You wil haue it or I haue it, wil ye?</l>
+               <l>Sira, thy name ſhalbe.
+<stage>ſtudy.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>What I pray you?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>A ſhame take thée vnmannerly Lout:</l>
+               <pb facs="tcp:11872:10"/>
+               <l>Thou cameſt ſo haſtely thou haſt put me out,</l>
+               <l>Nay, that maid looks on me:
+<stage>ſtudy</stage>
+               </l>
+               <l>Come hether <hi>Inconſideratio<g ref="char:cmbAbbrStroke">̄</g>,</hi> I haue a name for thee</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>Haue you Sir? I pray you what ſhall it be?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Nay by the maſſe, it is gone again:</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>And I would knowe it I tel you very fain.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Yea, but you muſt tary til I haue it:</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie,</speaker>
+               <l>I tel you my Brother hath a braue wit.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>A ſhame take the<g ref="char:cmbAbbrStroke">̄</g> I haue them now all thrée:
+<stage>ſpeak to Inco<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ſide<g ref="char:EOLhyphen"/>ration</stage>
+               </l>
+               <l>Co<g ref="char:cmbAbbrStroke">̄</g>e hether brother I wil tel you what your na<g ref="char:cmbAbbrStroke">̄</g>e ſhalbe.</l>
+               <l>You knowe y<hi rend="sup">e</hi> men now a dayes to reaſon doo truſt:</l>
+               <l>Therfore Reaſon, your ſelf fro<g ref="char:cmbAbbrStroke">̄</g> hence foorth name you muſt.</l>
+               <l>
+                  <hi>Temeritie,</hi> I knowe wel thy qualitie:</l>
+               <l>Thou art heady, thou ſhalt be called Agilitie.</l>
+               <l>I ſtudy a name for <hi>Precipitation</hi> if it may hit:</l>
+               <l>Let me ſee, by my trueth, y<hi rend="sup">t</hi> ſhalt be called Redy wit.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>An excellent name in déed, for I am redy &amp; quick with a pen:</l>
+               <l>For before I ſee one I can condemne ten.</l>
+               <l>I paſſe not for any mans matters or cauſe:</l>
+               <l>money and wit ſhall gouern the Lawes.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Wel maiſters I haue choſen names for eche one of you:</l>
+               <l>But mine owne name I knowe not I make God a vow.</l>
+               <l>How if I call my name Wit or Policy?</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>Mary Sir, that agréeth to your nature excéedingly.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Trueth, for what ſhall the worldly man doo with you thrée?</l>
+               <l>Except to maintain you, he take in mée.</l>
+               <l>Little worth is Reaſon, redy wit and Agillitie:</l>
+               <l>Except to maintain them there be a Policy.</l>
+               <pb facs="tcp:11872:10"/>
+               <l>Sirs you tel me the worldly man is conuerted:</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Yea faith that for euer from vs he is departed.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>For euer (quoth he) ha, ha, ha, no, no I warra<g ref="char:cmbAbbrStroke">̄</g>t thée I</l>
+               <l>What this geer meaneth ful wel I doo eſpye.</l>
+               <l>Tuſh he purpoſeth to go bothe to heauen and to hel:</l>
+               <l>And feth newes from thence to the people to tel.</l>
+               <l>He wil be a Prophet that was wunt to be a deuil:</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>But his prophecy I think wil prooue but euil.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>Wel no more woords, inough is as good as a feaſt:</l>
+               <l>They ſay it is perelouſe with edge tooles to ieſt.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Now Sirs I wil tel you, this is all my drift,</l>
+               <l>To get the worldly man hether by ſome ſhift.</l>
+               <l>
+                  <hi>Temeritie</hi> thou ſhalt with him thy ſelf acquaint:</l>
+               <l>And what thou canſt doo, to him foorth y<hi rend="sup">u</hi> ſhalt paint</l>
+               <l>Vertue is made an errour by <hi>Temeritie:</hi>
+               </l>
+               <l>For ſtoutly he ſtandeth againſt the veritie.</l>
+               <l>For <hi>Temeritie</hi> learned men doo ſay:</l>
+               <l>Is a qualitie to doo all things without delay.</l>
+               <l>So that if thou maiſt get into his habitation:</l>
+               <l>He wil ſoon be wery of inough and contentation.</l>
+               <l>Then with him ſhall woork <hi>Precipitation:</hi>
+               </l>
+               <l>Who is of this propertie and inclination.</l>
+               <l>To ſee and to doo all with out forecaſt:</l>
+               <l>Not thinking of things to come or of things paſt.</l>
+               <l>Therfore after that <hi>Temeritie</hi> dooth once enter:</l>
+               <l>Thou ſhalt put thy ſeruice in aduenter.</l>
+               <l>Then <hi>Inconſideration</hi> ſhall get into his minde</l>
+               <l>Who is a qualitie much of the ſame kinde.</l>
+               <l>He waieth neither the time, perſon nor place:</l>
+               <l>Neither (as they ſay) the taile nor the the face</l>
+               <l>Thus if you three within him once be placed:</l>
+               <l>You ſhall ſee y<hi rend="sup">t</hi> Inough of him ſhall ſoon be diſgraced</l>
+               <l>Vnder the name of Policy to enter I doo not dout:</l>
+               <pb facs="tcp:11872:11"/>
+               <l>And I béeing entred Inough ſhalbe caſt out.</l>
+               <l>For wher Couetouſe in any place dooth remain:</l>
+               <l>There content with inough cannot abide certain.</l>
+               <l>So that he ſhall run hedling into the pit:</l>
+               <l>Dooing all things hedling without modeſtie or wit.</l>
+               <l>Lo, heer to you my minde I haue diſcloſed:</l>
+               <l>All haue I ſaid that I haue now purpoſed.</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>By the faith of my body it is worthyly deuiſed:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>In all the haſte go thou and be thou diſguiſed.</l>
+               <l>Mary now there commeth an other thing to my reme<g ref="char:cmbAbbrStroke">̄</g>braunce</l>
+               <l>Are none of you acquainted with ghoſtly Ignoraunce?</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>What he pardy? he is my ghoſtly Father:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>I would ſpeak with him ſo much the rather.</l>
+               <l>For diuers cauſes that I doo conſither:</l>
+               <l>My brother and thou ſhall departe hence togither.</l>
+               <l>Look you make you trim as faſt as you can:</l>
+               <l>And then in haſte ſéek to ſpeak with the worldly man.</l>
+               <l>
+                  <hi>Inconſideration</hi> to ghoſtly Ignorance, thou ſhalt reſorte:</l>
+               <l>And this meſſage from me to him thou ſhalt reporte.</l>
+               <l>Firſt that he name him ſelf deuotion:</l>
+               <l>And we wil help him to dignitie and promotion.</l>
+               <l>Charge him not to be out of the way:</l>
+               <l>For we porpoſe to ſend for him this preſent day.</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>For aſmuch as you put your truſt &amp; co<g ref="char:cmbAbbrStroke">̄</g>fidence in me:</l>
+               <l>What I can doo for you, or it be long you ſhall ſée.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>Where to finde ghoſtly Ignorance I am ſure:</l>
+               <l>Seldome or neuer at home at his owne cure.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>No, the Sermons that ghoſtly ignorance hath made:</l>
+               <l>Hath almoſte brought all y<hi rend="sup">e</hi> Pariſhes in England out of trade</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Wel, hye you a pace, that you were gone:</l>
+               <pb facs="tcp:11872:11"/>
+               <l>
+                  <hi>Precipitation</hi> and I wil tary heer alone.</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>Fare wel Couetouſe til we méet again:</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>That ſhall not be long if our purpoſe we obtain.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Nay hear you? God be with you, wil you begone?</l>
+               <l>Body of me you are no better then knaues euery one.</l>
+               <l>Fare wel Couetouſe? nay fare wel good Lob:
+<stage>Be going out</stage>
+               </l>
+               <l>You haue euen aſmuch maners as hath a Dog.
+<stage>Come in</stage>
+               </l>
+               <l>Plain Couetouſe? this is according to promiſe is it not?</l>
+               <l>Wel what I intend to doo for it, I wot what I wot.</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>I cry you mercy right worſhipful Maiſter couetiſe,</l>
+               <l>Moſte prudent, politick, ſapient and wiſe.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>Pardon vs by my trueth, it was but forgotten:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Nay I take it euen thus, ſoon ripe ſoon rotten.</l>
+               <l>I am no body with you, but by him I ſwere:</l>
+               <l>I look the greateſt ſtroke amongſt you to bere.</l>
+            </sp>
+            <sp>
+               <speaker>Temeritie.</speaker>
+               <l>Inough is as good as a feaſt, we are warned I trowe</l>
+               <l>From hence foorth our duties I warrant ye we wil ſhowe,</l>
+               <l>We take our leaue of you noble prince Couetiſe:</l>
+               <l>The King, Emperour, yea the God of all vice.</l>
+            </sp>
+            <sp>
+               <speaker>Inconſideration.</speaker>
+               <l>Oh worthy viſage, and body wel compact:</l>
+               <l>Oh goodly man in wit, work and fact.</l>
+               <l>We ſimple creatures doo ſhowe to you obedience:</l>
+               <l>Beeing minded to departe vnder your patience.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Yea mary, this is ſome what like the matter:</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Crafty knaues, how they can a foole flatter.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <stage>Exeunt Ambo</stage>
+               <l>Fare ye wel bothe, giue me your hands one after an other:</l>
+               <l>I looue ye as déerly as the Children of my mother.</l>
+               <pb facs="tcp:11872:12"/>
+               <l>How ſaiſt thou <hi>Precipitation?</hi> how likeſt thou this matter?</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>By my trueth I wil tel the trueth, Yea and not flatter.</l>
+               <l>I perceiue wel inough what heer in you doo mene:</l>
+               <l>You wil not leaue til you haue marred him clene.</l>
+               <l>Not onely riches ſinguler and priuate:</l>
+               <l>But alſo publike weales you wil ſpolyate.</l>
+               <l>For I perceiue by your former monition:</l>
+               <l>That through ghoſtly Ignorance you wil deſtroy deuotion.</l>
+               <l>I meane true faith, in Gods looue and hope:</l>
+               <l>And cauſe him in cleer Sun ſhine, for light to grope.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Thou thinkeſt as trueth is in very déed:</l>
+               <l>I intend no leſſe if my deuice may likely ſpéed.</l>
+               <l>There wil I begin and if errour once rage in religion:</l>
+               <l>I warrant thee in publike wele wil ſoon be deuiſion.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Wel, what you intend to me dooth not appertain:</l>
+               <l>My nature is to rage where haſte dooth reign.</l>
+               <l>And what cauſeth haſte? but onely <hi>Temeritie:</hi>
+               </l>
+               <l>That maketh fooles hardy with Securitie.</l>
+               <l>
+                  <hi>Precipitation</hi> foorth dooth this worldly man leade:</l>
+               <l>So that all his affaires be doon rudely on hed.</l>
+               <l>Then <hi>Inconſideration</hi> bothe night and day:</l>
+               <l>Shall promp him forward nothing at all to wey.</l>
+               <l>Neither to conſider his beginning:</l>
+               <l>Neither at the end what ſhall be the winning.</l>
+               <l>So that if all we doo our proper nature and kinde:</l>
+               <l>He ſhall not regarde who ſhall the profit finde.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>
+                  <hi>Lupus eſt in fabula,</hi> no more woords.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>I neuer fear any ſuch kinde of burdes.</l>
+               <l>This is the worldly man I ſuppoſe indéed:</l>
+               <stage>Enter the Vvorldly man and Inough, let the world<g ref="char:EOLhyphen"/>ly man ſtand a far of in a ſtrau<g ref="char:cmbAbbrStroke">̄</g>ge attire.</stage>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>To woork wiſely with him I ſee we had need:</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:12"/>
+               <speaker>Vvorldly man.</speaker>
+               <lg>
+                  <l>I finde it true as the wiſe king <hi>Saloman</hi> dooth ſay,</l>
+                  <l>It is better to haue a little with the fear of the Lord</l>
+                  <l>Then to haue much treaſure and yet go aſtray,</l>
+                  <l>I mene to decline from Gods holy word.</l>
+               </lg>
+               <lg>
+                  <l>The prouerbe ſaith inough is as good as a feaſt,</l>
+                  <l>He that hath inough and cannot be content:</l>
+                  <l>In my iudgement is worſe then a Beaſt,</l>
+                  <l>For he wanteth a good conſcience minde &amp; intent.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Poorly arayed Inough.</speaker>
+               <lg>
+                  <l>The Chariot of Couetouſe as <hi>Barnard</hi> dooth write,</l>
+                  <l>On foure wheeles of vices is caried away:</l>
+                  <l>And theſe be the foure vices that he dooth reſite,</l>
+                  <l>Contempt of God, forgetfulnes of death eche day.</l>
+                  <l>Faint courage, and vngentlenes he dooth ſay.</l>
+                  <l>Theſe be the wheeles that to aduerſityes cart dooth belong:</l>
+                  <l>Theſe haue perſwations to begile men many and ſtrong.</l>
+               </lg>
+               <lg>
+                  <l>The ſame Chariot hath two horſes which dooth it draw,</l>
+                  <l>The one named Raueny and the other nigardſhip:</l>
+                  <l>Their Carter is Deſire to haue, who alwaies dooth claw,</l>
+                  <l>By fraude or guile one an other to nip,</l>
+                  <l>This Carter hath two cordes to his Whip.</l>
+                  <l>The one is Appititite and felicitie for to get:</l>
+                  <l>The other is called Dread and fear to forlet.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <lg>
+                  <l>When this Chariot go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e in the ground of mans minde,</l>
+                  <l>He is not once able to think a good thought:</l>
+                  <l>For Couetouſe dooth the hart ſo much to lucre binde,</l>
+                  <l>That he iudgeth all things to be vain and nought,</l>
+                  <l>Except ſome gain or profit therby be brought.</l>
+                  <l>I my ſelf am able to ſay it, for I doo it knowe:</l>
+                  <l>To haue gotten money I ſtudyed to deceiue high and lowe</l>
+               </lg>
+               <lg>
+                  <l>But thanks be to God the Father of all might,</l>
+                  <l>Which wil not the death of Sinners as Scripture dooth ſay</l>
+                  <l>It hath pleaſed him to open vnto me the the true light,</l>
+                  <l>Wherby I perceiue the right path from the brode way,</l>
+                  <l>Therfore I am content my ſelf for to ſtay.</l>
+                  <pb facs="tcp:11872:13"/>
+                  <l>With Inough which bringeth me to quiet in body &amp; minde:</l>
+                  <l>Yea. and all other commodityes there with I doo finde,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Inough.</speaker>
+               <l>Godlines is great riches if a man can be content,</l>
+               <l>When God hath ſent him plenty and Inough:</l>
+               <l>Let vs praiſe him for our food and raiment,</l>
+               <l>And liue godlyly all our liues through,</l>
+               <l>For we muſt tread the paths of death ſo ſharp and rough.</l>
+               <l>And then ſhall we be ſure to cary as little away:</l>
+               <l>As we brought with vs thus <hi>Saint Paule</hi> dooth ſay.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Body of me he is meruelouſe forgone:</l>
+               <l>We ſhall haue ſomwhat to doo with him anon.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>It was il luck that he came not alone.</l>
+               <l>I would that beggerly knaue in Hel were.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe,</speaker>
+               <l>Wel let me alone I wil go néer,</l>
+               <l>To cauſe him of his company to be wery:</l>
+               <l>I haue doon as great acts thriſe this yeer,</l>
+               <l>I am not to learne to rowe in <hi>Illirans</hi> Fery.</l>
+               <l>I wil go to him and thou ſhalt wait vpon me,</l>
+               <l>Thou ſhalt hear what a take to him I wil tel:</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>If thou ſpéed wel now I dare promiſe the,</l>
+               <l>The Deuil wil giue thée the Crown of hel.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe,</speaker>
+               <l>God ſpéed you Sir, I pray you might I be ſo bolde,</l>
+               <l>As to haue a woord or two with you in your eare?</l>
+            </sp>
+            <sp>
+               <speaker>Inough.</speaker>
+               <l>Yea, hardely my fréend ſay what you would.</l>
+               <l>Your minde vnto me you may boldely declare.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>I pray you are you not acquainted with this gentleman?</l>
+               <l>I would fain ſpeak with him a word or twain alone:</l>
+               <l>I beſeech you help me to my requeſt if you can,</l>
+               <l>For I haue haſte on my way I muſt needs be gone.</l>
+            </sp>
+            <sp>
+               <speaker>Inough.</speaker>
+               <l>If you had required a greater thing of me,</l>
+               <pb facs="tcp:11872:13"/>
+               <l>I would haue doon it for you I tel you certain:</l>
+               <l>Sir, one of yonder men which you doo ſee,</l>
+               <l>Would ſpeak with you alone very fain.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>I wil go to him and knowe his minde:</l>
+               <l>is it you that would ſpeak with me my fréend?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Yea forſooth ſir?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>What ſay you to me?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Oh Sir, oh good Sir, oh, oh, oh my hart wil breke:</l>
+               <l>Oh, oh, for ſorow God wot I cannot ſpeak.
+<stage>VVeep</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>What is the matter? wherfore wéep you thus?</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <stage>VVeep</stage>
+               <l>Pure looue cauſeth him, Sir I wus.</l>
+               <l>I am ſure that be looues you at the hart.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>I thank him truely it is vndeſerued on my parte.</l>
+               <l>Gentle freend I pray you ceaſſe your lamentation:</l>
+               <l>Sure it is a ſtraunge thing to ſee a man wéep on this faſion.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe,</speaker>
+               <stage>Let the Vice weep &amp; houle &amp; make great lame<g ref="char:cmbAbbrStroke">̄</g>tatio<g ref="char:cmbAbbrStroke">̄</g> to the Vvorldly man.</stage>
+               <l>I cannot chuſe, oh, oh, I cannot chuſe:</l>
+               <l>Whow? I ca<g ref="char:cmbAbbrStroke">̄</g>not chuſe if my life I ſhuld looſe.</l>
+               <l>To hear that I hear, oh wel it is no matter:</l>
+               <l>Oh, oh, oh, I am not he that any man wil flatter.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>To hear what you héer, why what hear you of me?</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Mary ſir he heareth y<hi rend="sup">e</hi> wunderfully chaunged you be</l>
+            </sp>
+            <sp>
+               <speaker>VVorldly man.</speaker>
+               <l>I am ſo in déed, for that I giue God the glory:</l>
+               <l>And if you be my fréend for my chaunge you are not ſory.</l>
+               <l>I truſt I haue choſen all for the beſt:</l>
+               <l>For my former wickednes I hate and deteſt.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Whow, nay I would to God that were the worſt:</l>
+               <l>But I ſhall haue il wil, I think I am accurſt.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:14"/>
+               <speaker>Vvorldly man.</speaker>
+               <l>I iudge him not to be of a diſcrete minde:</l>
+               <l>That for the trueth wil be angry with his fréend.</l>
+               <l>The talke of talkers tungs I doo not much way:</l>
+               <l>Yet I pray you hartely tel me what they ſay.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Couetouſe, couetouſe, euery man ſaith you be:</l>
+               <l>A ſhame take them all pratling knaues for me.</l>
+               <l>I am of ſuch a nature as no man is but I:</l>
+               <l>To hear my freend il ſpoken of I had rather dye.</l>
+               <l>Yea wiſſe man, you are called euen ſo:</l>
+               <l>All the cuntrey of you ſpeak bothe ſhame and wo.</l>
+               <l>He was wunt (ſaith one) to kéep a good houſe:</l>
+               <l>but now (ſaith an other) thereis no liui<g ref="char:cmbAbbrStroke">̄</g>g for a mouſe</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>If this be the wurſt, for their talke I doo not care:</l>
+               <l>Let them ſay ſo ſtil hardely and doo not ſpare.</l>
+               <l>I truſt I haue choſen with <hi>Mary</hi> the better parte:</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Oh yet good Sir, this gréeueth him to the hart.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Yea God wot, it is none other, it is none other:</l>
+               <l>I looue you as wel as mine owne borne brother.</l>
+               <l>Think you y<hi rend="sup">t</hi> it gréeueth me not to hear eche boy and Girle:</l>
+               <l>To ſay that the worldly man is become a Churle?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>He had néed to liue very ſircumſpectly:</l>
+               <l>That would take vpon him to pleaſe all men directly</l>
+               <l>Beholde Inough.
+<stage>Go towards him.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Nay hear you, this gréeueth me worſt ſo God me ſaue:
+<stage>pluck him back.</stage>
+               </l>
+               <l>They ſay you keep company w<hi rend="sup">t</hi> euery beggerly knaue</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Wher I kéep company they haue nought to doo:</l>
+               <l>As neer as I can into none but honeſt company I go.</l>
+               <l>See you, I pray you <hi>Inough.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Nay but hear you, is <hi>Inough</hi> his name?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <pb facs="tcp:11872:14"/>
+               <l>Yea in déed, it is euen the very ſelf ſame.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>
+                  <hi>Saint Dunſtone,</hi> a man would not iudge it by his cote:</l>
+               <l>Now truely I would not take him to be worth a grote,</l>
+               <l>Hark you, hark you, in faith knowe you not me?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>No truely that I wot of, I did you neuer ſée.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>That is maruail in déed the trueth for to tel:</l>
+               <l>I dare ſay your father knew vs bothe very wel.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Did you neuer hear him ſpeak of one Policy?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Yes that I haue ſure an hundred times verily.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>I am he verily and this your fréend Redy wit:</l>
+               <l>With whome to be acquainted for you it is fit.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Trueth in déed as <hi>Seneca</hi> ſaith wittily:</l>
+               <l>The wiſe man and not the rich is void of miſery.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Policy and redy wit: now the trueth is ſo,</l>
+               <l>There is no man liuing that can ſpare you two.</l>
+               <l>I truſt God worketh for me happily in deed:</l>
+               <l>To ſend me all ſuch things wherof I haue néed.</l>
+               <l>For without a redy wit, who can anſwere make?</l>
+               <l>Without a policy all commodityes wil ſlake.</l>
+               <l>A redy wit wil ſoon gather and conceiue:</l>
+               <l>What he ſhall forſake and what he ſhall receiue.</l>
+               <l>Teuely now I remember a ſaying of <hi>Tully</hi> the deuine:</l>
+               <l>Where he dooth bothe wiſdome and learning define.</l>
+               <l>Learning maketh yung men ſober (ſaith he)</l>
+               <l>And it cauſeth olde men of good comfort to be.</l>
+               <l>Policy is the riches and poſſeſſion of the poore:</l>
+               <l>Yea, it garniſheth the rich with goodly adore.</l>
+               <l>So that there is no frate calling or degree:</l>
+               <l>That may conueniently without you be.</l>
+               <l>Giue me your hands for you are welcome hartely.</l>
+               <pb facs="tcp:11872:15"/>
+               <l>I am excéeding ioyful of your good company.</l>
+               <l>
+                  <hi>Inough,</hi> I beſéech you bid my fréends welcome hether:</l>
+               <l>For from henſfoorth we muſt dwel all togither.</l>
+            </sp>
+            <sp>
+               <speaker>Inough.</speaker>
+               <l>Be not raſh in taking of a fréend <hi>Ariſtotle</hi> dooth ſay:</l>
+               <l>Nor when thou haſte taken him, caſt him not away.</l>
+               <l>Admit not thy fréend either high or lowe:</l>
+               <l>Except his behauiour to others thou dooſt knowe.</l>
+               <l>For look how before he hath ſerued his other fréend:</l>
+               <l>Euen ſo wil he ſerue thée alſo in the end.</l>
+            </sp>
+            <sp>
+               <speaker>Vorldly man.</speaker>
+               <l>Your parables truely I doo not wel vnderſtand:</l>
+               <l>Except you mene I ſhuld haue no freendꝭ but you by me to ſta<g ref="char:cmbAbbrStroke">̄</g>d</l>
+            </sp>
+            <sp>
+               <speaker>Inough.</speaker>
+               <l>Inough is as good as a feaſt, wel you wot:</l>
+               <l>More then inough: a man needeth not.</l>
+               <l>Whether it be lands, money, freends or ſtore:</l>
+               <l>if he haue inough: what néedeth he any more?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>I perceiue that againſt vs two you doo grutch:</l>
+               <l>Can a man of policy and redy wit haue to much?</l>
+               <l>The noble king <hi>Salomon</hi> was rich &amp; had wiſdome great ſtore</l>
+               <l>Yet he ſeaſſed not dayly to pray to God for more.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Get thée ſtore of fréends (ſaith <hi>Cicero</hi>) for it is déemed:</l>
+               <l>A true freend more then Kinſfolke is to be eſtéemed.</l>
+            </sp>
+            <sp>
+               <speaker>Inough.</speaker>
+               <l>It is an olde prouerbe and of an ancient time:</l>
+               <l>Which ſaith, it is not all Golde, that like Golde dooth ſhine.</l>
+               <l>No more are all fréends that freendſhip pretend:</l>
+               <l>As it approoued with many in the end.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Yea inough, but I am ſure that this policy:</l>
+               <l>And this redy wit are my fréends verely.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Are we? ye faith there of you may be ſure:</l>
+               <l>We are they which your welth ſhall procure.</l>
+               <l>Inough is not inough without vs two:</l>
+               <pb facs="tcp:11872:15"/>
+               <l>For hauing not vs, what can inough doo?</l>
+               <l>Inough is maintained by wiſdome and policy:</l>
+               <l>Which is contained of a redy wit naturally.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Hauing a redy wit and of polycy the ſkil:</l>
+               <l>You need not to care for this inough except you wil.</l>
+               <l>There is another inough which is inuiſible:</l>
+               <l>Which inough, to want is impoſſible.</l>
+               <l>As for this Inough is inough I cannot deny:</l>
+               <l>But this inough ſerueth but euen competently.</l>
+               <l>You haue no more now then dooth your ſelf ſerue:</l>
+               <l>So that your poor Bréethern for all you may ſterue</l>
+               <l>But inough that commeth by vs twain:</l>
+               <l>Is able your ſelf and many other to ſuſtain.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Your words are euen as true as the Goſpel:</l>
+               <l>As one named Reaſon of late to me did tel.</l>
+               <l>You may be more heauenly ſaith he hauing riches:</l>
+               <l>Then if you had nothing the trueth to expreſſe.</l>
+               <l>&amp; I finde his wordꝭ true for whe<g ref="char:cmbAbbrStroke">̄</g> almes I wold giue</l>
+               <l>I haue not wherwith the néedy to releeue.</l>
+               <l>Inough I haue for my ſelf I cannot ſay nay:</l>
+               <l>But I would I had more to ſuccour the néedy alway</l>
+            </sp>
+            <sp>
+               <speaker>Inough.</speaker>
+               <l>Theſe woords procéed from a couetouſe minde:</l>
+               <l>And from a worldly luſt which dooth you blinde.</l>
+               <l>was not y<hi rend="sup">e</hi> poor widdow for her offring praiſed more</l>
+               <l>Then all they y<hi rend="sup">t</hi> offred of their ſuperfluitie &amp; ſtore.</l>
+               <l>The ſacrifice of God as the prophet <hi>Dauid</hi> dooth ſay</l>
+               <l>Is a broken hart and a good minde alway.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>He ſayes wel by Lady, yea and like an honeſt man,</l>
+               <l>But yet Sir, riches to be good, wel prooue I can.</l>
+               <l>For euery man is not called after one ſorte:</l>
+               <l>But ſome are called to prophecy, ſome to preach &amp; exhorte.</l>
+               <l>And he by that meanes Heauen ioyes to win:</l>
+               <l>But euery man knoweth not that way to walke in.</l>
+               <l>Therfore euery man (as his vocation is) muſt walke:</l>
+               <pb facs="tcp:11872:16"/>
+               <l>I am ſure that againſt this you wil not talke.</l>
+            </sp>
+            <sp>
+               <speaker>Inough.</speaker>
+               <l>The greateſt boſters are not the beſt giuers:</l>
+               <l>Nor the erneſt preachers are the beſt liuers.</l>
+               <l>As ſucre increaſeth riches and honor,</l>
+               <l>So couetouſe inlargeth dayly more and more.</l>
+               <l>I knowe ſo<g ref="char:cmbAbbrStroke">̄</g>e in this realme which once were co<g ref="char:cmbAbbrStroke">̄</g>tent</l>
+               <l>With poorely inough which God to them had ſent.</l>
+               <l>Wiſhing of a good conſcience as they ſaid verily:</l>
+               <l>That God would once again reſtore the veritie.</l>
+               <l>If it pleaſe thee good Lord (ſaid they) thy woord to vs again ſend</l>
+               <l>And then truely our Couetouſe liues we wil amend.</l>
+               <l>But ſince it hath pleaſed God, them to welth to reſtore:</l>
+               <l>They are ten times more Couetouſe then they were before.</l>
+               <l>Yea hedling without all conſideration:</l>
+               <l>They for Couetouſe make ſome lawes in that nation.</l>
+               <l>Such bying and ſelling of Leaces and benifices:</l>
+               <l>Such doubling of wares to extreme prices.</l>
+               <l>So ſhamefully Gods miniſters they poule &amp; ſhaue:</l>
+               <l>That not half inough to liue vpon they haue.</l>
+               <l>But it is an olde ſaying and a true certainly:</l>
+               <l>it wil not out of the fleſh y<hi rend="sup">t</hi> is bred in y<hi rend="sup">e</hi> bone verily.</l>
+               <l>The worldly man wil needs be a worldly man ſtil:</l>
+               <l>Wel chuſe you I wil let you alo<g ref="char:cmbAbbrStroke">̄</g>e doo what you wil.</l>
+               <l>I cannot think but thoſe that of me holde ſcorne:</l>
+               <l>Wil be glad of me or euer the yéer be half worne.
+<stage>Exit</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Mary fare wel? adieu to the deuil:</l>
+               <l>Body of me, he would make me his driuil.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>You may ſée what a truſty freend he is:</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>A beggerly knaue I warrant you by the bliſſe.</l>
+               <l>And euen ſo he and they went about me to make:</l>
+               <l>Within a while I ſhould haue gone to the hedge for a ſtake.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>I warrant you that you ſhould haue proued ſhortly:</l>
+               <l>They would not haue loſt you one grote nor peny.</l>
+               <pb facs="tcp:11872:16"/>
+               <l>I maruail you would tary with them any time or ſeaſon:</l>
+               <l>You are olde inough I trowe to be ruled by reaſon.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>A ſhame take them all, I haue ſpent on them xx. pou<g ref="char:cmbAbbrStroke">̄</g>d:</l>
+               <l>That I had of money and of mine owne good ground.</l>
+               <l>I am a ſhamed of my ſelf ſo God me ſaue:</l>
+               <l>Becauſe I haue ſolde almoſte all that euer I haue.</l>
+               <l>My freends and companions when I go in the ſtreet:</l>
+               <l>So God help me, I am a ſhamed with them to meet.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Paſſion of me it was time to look about:</l>
+               <l>They would quite haue vndoon you, or els without dout.</l>
+               <l>But I trowe, I trowe, if you wil be ruled by me:</l>
+               <l>What I wil doo for you, or ere it be long you ſhall ſée.</l>
+               <l>A thouſand, thouſand, thouſand waies I can inuent:</l>
+               <l>To fetch in double aſmuch as you haue ſpent.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Be ruled by you? yes héer I doo you bothe imbrace:</l>
+               <l>As mine owne minde to folowe all my liues ſpace.</l>
+               <l>For I tel you plain I am wery of their Schole:</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>It is time for you, els they would haue made you a fool.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>I perceiued no leſſe in deed hy the talke of Reaſon:</l>
+               <l>But ſo it ſhould haue come to paſſe in ſeaſon.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>And doo you my brother Reaſon perfitly knowe?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <lg>
+                  <l>Yea, and with him one called Agililitie I trowe.</l>
+                  <l>Reaſon came to me, and <hi>mihi flectere mentem</hi> he ſaid:</l>
+                  <l>
+                     <hi>Sola ſolet ratio dux ſida ſophorn eſt</hi> it cannot be denaid.</l>
+               </lg>
+               <lg>
+                  <l>To nature and Reaſon he dooth open iniury,</l>
+                  <l>Which of other men councel dooth ſeek:</l>
+                  <l>God hath giuen men Reaſon and their wits Policy,</l>
+                  <l>To forſake that is il, and to take that he dooth like.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>And beléeue you not theſe words to be very true?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <pb facs="tcp:11872:17"/>
+               <l>Yes, and I haue thought on them xx. times ſince I tel you.</l>
+               <l>Oh Sirs me thinks if I had money and treaſure again:</l>
+               <l>In faith I would be a liuely lad I tel you plain.</l>
+               <l>Heauenly man (quoth he) let them be heauenly for me:</l>
+               <l>The beſt heauen is me thinks is rich for to be.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe,</speaker>
+               <lg>
+                  <l>In faith it ſhall coſt me and my fréends a fall,</l>
+                  <l>But you ſhalbe twiſe as rich as you were before:</l>
+                  <l>We wil doo it to ſpite them euen with all,</l>
+                  <l>Though we doo hundreds wrong therfore.</l>
+               </lg>
+               <lg>
+                  <l>I haue ſet ſome aloft in a high place,</l>
+                  <l>Which had rather dye I dare wel ſay:</l>
+                  <l>Then one inch of their ſtate ſhould fall or abace,</l>
+                  <l>But rather to clime vp higher if they may.</l>
+               </lg>
+               <lg>
+                  <l>Whow, of this world I rule the whole ſtate,</l>
+                  <l>Yea faith I gouern all lawes, rites and orders:</l>
+                  <l>I, at my pleaſure raiſe war, ſtrife and debate,</l>
+                  <l>And again I make peace in all Coſtes and borders</l>
+               </lg>
+               <lg>
+                  <l>Nay, yet a much more maruail then that,</l>
+                  <l>Beholde, ſée you this little pretty hand?</l>
+                  <l>This is an Arme of ſtéele for it ouerthroweth flat,</l>
+                  <l>The ſtrongeſt walles and towers in a whole land,</l>
+               </lg>
+               <lg>
+                  <l>Power I haue lawes to alter and make,</l>
+                  <l>And all lawes made are guided by me:</l>
+                  <l>All that is doon, is doon wholly for my ſake,</l>
+                  <l>What ſtrength I haue by this you may ſee.</l>
+               </lg>
+               <lg>
+                  <l>More ouer I haue in this little hand,</l>
+                  <l>The harts of all men &amp; women vpon Earth:</l>
+                  <l>I rule them bothe by Sea and by land,</l>
+                  <l>Plenty I make and I make alſo derth.</l>
+               </lg>
+               <lg>
+                  <l>Whow, it is wunderful that is doon by policy,</l>
+                  <l>While you liue take héed ſtriue not aginſt policy:</l>
+                  <l>The beſt of them all are glad of Policy,</l>
+                  <l>Yea in Weſtminſter hall they vſe much policy.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Vvordly man.</speaker>
+               <l>
+                  <hi>Prudentia noſet omnia,</hi> ſaith the noble man <hi>Tully</hi>
+               </l>
+               <l>Policy knoweth all things bothe good and il truly.</l>
+               <l>Oh Policy, what ment I from reaſon &amp; thee to ſtray?</l>
+               <pb facs="tcp:11872:17"/>
+               <l>Neuer wil I forſake you nor yours after this day.</l>
+               <l>Oh help me Policy, help me to ſome money:</l>
+               <l>Whoſe taſte I looue better then the taſte of hony.</l>
+            </sp>
+            <sp>
+               <speaker>Precipitation.</speaker>
+               <l>Sith worthy policy you haue intertained:</l>
+               <l>Now none of his inſtruments muſt be diſdained.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Diſdained? no faith let him teache me what he wil:</l>
+               <l>And I wil doo it, if it were mine owne father to kil.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Say you ſo? by the maſſe giue me your hand:</l>
+               <l>Come go with me, let vs no longer idle ſtand.
+<stage>go out al. iii, togither and make you re<g ref="char:EOLunhyphen"/>dy ſtraight waies.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Enter Heauenly man.</speaker>
+               <lg>
+                  <l>Oh how hard a thing and difficult it is,</l>
+                  <l>For them that in their riches doo truſt:</l>
+                  <l>To enter into the kingdome of Heauen or blis,</l>
+                  <l>The words of our Sauiour to be true graunt we muſt,</l>
+                  <l>it is as eaſy for a Cammel through an Nedles eye to thruſt?</l>
+                  <l>As for him that on riches hath fixed his minde:</l>
+                  <l>The way to eternall ſaluation to finde.</l>
+               </lg>
+               <lg>
+                  <l>Example héerof you ſee with your eyes,</l>
+                  <l>Of the worldly man giuen to vain pleaſure:</l>
+                  <l>He promiſed you heard, from ſin to ariſe.</l>
+                  <l>And ſaid he would not looue neither money nor treaſure.</l>
+                  <l>But as he ought to looue it, that is in a due meaſure.</l>
+               </lg>
+               <lg>
+                  <l>But beholde how quickly his promiſe he hath broke:</l>
+                  <l>Wherby he kindleth Gods wrath againſt him to ſmoke.</l>
+               </lg>
+               <lg>
+                  <l>For now hath he entertained to him <hi>Temeritie</hi>
+                  </l>
+                  <l>
+                     <hi>Precipitation</hi> and heady <hi>Inconſideration:</hi>
+                  </l>
+                  <l>Theſe cauſe him to woork all things hedely,</l>
+                  <l>And couet to be had in reputation.</l>
+                  <l>Then couetouſe diſguiſeth him ſelf on ſuch a faſhion.</l>
+               </lg>
+               <lg>
+                  <l>That as <hi>Seneca</hi> ſaith, he dooth good to no man:</l>
+                  <l>But hurt, &amp; moſte to him ſelf as time ſhall prooue whan.
+<stage>Exit.</stage>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <stage>
+                  <hi>Enter an olde man Tenant and ſpeak Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<g ref="char:EOLhyphen"/>ſolde ſpeech</hi>
+               </stage>
+               <l>Alaz, alaz, to whome ſhould I make my mone?</l>
+               <l>For euer and a day cham quite vndoon.</l>
+               <l>My Londlord is zo couetouſe as the deuil of hel:</l>
+               <pb facs="tcp:11872:18"/>
+               <l>Except chil giue him ſuch a ſhameful rent.</l>
+               <l>As cham not able, away ich muſt incontinent.</l>
+               <l>Chaue dwelt there this zix and therty yeer:</l>
+               <l>Yea theſe vorty, ich may tel you wel neer.</l>
+               <l>And ich neuer paid abooue yéerly viue pound:</l>
+               <l>And by our Lady, that to be inough chaue vound.</l>
+               <l>Wel, now I muſt giue him euen as much more:</l>
+               <l>Or els ich muſt void the next quarter or bevore.</l>
+               <l>Oh maſters, is not this euen a lamentable dhing?</l>
+               <l>To zee how Londlords their poor tenants doo wring.</l>
+               <l>And they are not zo couetouſe to aſk nother, ich beleeue:</l>
+               <l>But a zorte of vooles are as ready to giue.</l>
+               <l>And eſpetially Straungers, ye a ſhameful zorte:</l>
+               <l>Are placed now in England and that in euery Porte.</l>
+               <l>That we, our wiues and Children, no houſes can get:</l>
+               <l>Wherin we may liue, ſuch price on them is zet.</l>
+               <l>Chad thought a while a go my Londlord would not haue doon thus</l>
+               <l>For he ſaid he would be a heauenly man I wus.</l>
+               <l>But zoule, the Deuil is as Heauenly as he:</l>
+               <l>Three times wurſe then he was be vore as var as I can zée.</l>
+            </sp>
+            <sp>
+               <speaker>Enter poorly Seruant.</speaker>
+               <l>Body of me, this would make a man to ſwere:</l>
+               <l>A ſhame take them mary, that euer they came there.</l>
+               <l>Nay by giſſe I thought he would not be heauenly long:</l>
+               <l>For that to his nature were clene contrary and wrong.</l>
+               <l>Yonder are ſuch a ſorte of Ruterkins liuely and ioly:</l>
+               <l>That all that can be gotten is little inough for their belly.</l>
+               <l>Soule we woork, we labour, and that night and day:</l>
+               <l>Yet can we ſcant haue meat and drink the trueth to ſay.</l>
+               <l>And that which we haue, is il inough for Dogges:</l>
+               <l>And we are ſerued with all, like a many of Hogges.</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <l>What ſeruant? I pray thée what newes with thée?</l>
+            </sp>
+            <sp>
+               <speaker>Seruant.</speaker>
+               <l>By my trueth Father Tenant euen as you ſée.</l>
+               <l>Kept like no mans ſeruant, but rather like a ſlaue:</l>
+               <l>That I am wery of my life I tel you ſo God me ſaue.</l>
+               <l>My maiſter taketh on like the Deuil of hel:</l>
+               <pb facs="tcp:11872:18"/>
+               <l>There was neuer one ſo haſty, cruel and fel.</l>
+               <l>But ſo couetouſe Lord, Lord you wil not beleeue:</l>
+               <l>I think all his minde and ſtudy to bribery he dooth giue.</l>
+            </sp>
+            <sp>
+               <speaker>Enter Hireling.</speaker>
+               <l>Now a peſtlence take him, vile cankard Churle:</l>
+               <l>He is neither good to man, women, boy nor girl.</l>
+               <l>Is this the heauenly man? a ſhame take him els:</l>
+               <l>Body of me, in all wickednes he now excelles.</l>
+               <l>And if a thing come in his hed be it good or il:</l>
+               <l>Without all wit or reaſon, doo it he wil.</l>
+               <l>But ſo couetouſe, Lord I think if he might chuſe:</l>
+               <l>The dropping of his nole he would not looſe.</l>
+               <l>Euery week truely, nay then euery day:</l>
+               <l>He muſt haue accou<g ref="char:cmbAbbrStroke">̄</g>t how many Egges his hens lay</l>
+               <l>Why? there was neuer ſeen ſuch a miſer as he:</l>
+               <l>That the plague cut the throte of him for me.</l>
+               <l>I haue wrought for him this half yéer by the wéek:</l>
+               <l>And now my work is doon my money is to ſeek.</l>
+               <l>If I and all mine ſhould ſtarue for money:</l>
+               <l>Of him I dare ſay I ſhould not get one peny.</l>
+               <l>A ſhame take him, how wel the Scripture of him is waid:</l>
+               <l>Which ſaith ſleep not til the Hireling thou haſt paid.</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <l>I ſée wel that I complain not of him alone:</l>
+               <l>But others as wel as I, haue good cauſe to mone.</l>
+               <l>Wel Seruant, weeping wil not help this geer:</l>
+               <l>But God wil plague him for it, I doo not fear.</l>
+            </sp>
+            <sp>
+               <speaker>Seruant</speaker>
+               <l>I tolde you Hireling how you ſhould be ſerued:</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <l>What Seruant, thou lookeſt as though thou were ſtarued.</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <l>He looketh as luſtely, freſhly and as wel:</l>
+               <l>As all the Seruants that with his maiſter doo dwel.</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <l>His maiſter? why? he is no better then a théef:</l>
+               <l>For ſo that he may haue it, he cares not who ſuffer gréef.</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <pb facs="tcp:11872:19"/>
+               <l>Nay by the maſſe that woords is but to true:</l>
+               <l>So that his riches encreaſeth he careth not who rue.</l>
+            </sp>
+            <sp>
+               <speaker>Seruant.</speaker>
+               <l>I knowe the occaſion of all this géer:</l>
+               <l>But I would not for twenty pound it ſhould come to his eare</l>
+               <l>He ſaith, that he wil neuer leaue his extorſion:</l>
+               <l>Til of riches he haue gotten an innumerable portion.</l>
+               <l>He wil builde, plant, ſet, and ſowe:</l>
+               <l>Til ſuch a fame of him abrode there growe.</l>
+               <l>That there is none like to him in all the Countrey:</l>
+               <l>And ſo by that meanes he ſhall come to authoritie.</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <l>But lightly thoſe that come to authoritie after that rate:</l>
+               <l>Doo end their liues in ſome miſerable and vnhappy ſtate.</l>
+            </sp>
+            <sp>
+               <speaker>Tenant</speaker>
+               <l>thou foole (ſaith Chriſt) this night wil I fetch thy ſoule fro<g ref="char:cmbAbbrStroke">̄</g> thée:</l>
+               <l>And then who ſhall haue the things that thine be?</l>
+               <l>Wel, let him alone, I hope all wil prooue for the beſt:</l>
+               <l>Euen as he leadeth his life ſo ſhall he finde reſt.</l>
+            </sp>
+            <sp>
+               <speaker>Seruant.</speaker>
+               <l>Peace, peace for Gods ſake, look where the Steward comes:</l>
+               <l>Body of me Sirs, which way ſhall I run?
+<stage>run out</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Enter Couetouſe.</speaker>
+               <l>God ſpéed you, what mean you? would you ſpeak with me?</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <l>Yea Sir, euen to deſire your worſhip my vréend vor to to be.</l>
+               <l>Ich haue a zertain petition to your maſhip to mooue:</l>
+               <l>And ich deſire you to be my vréend in it vor Gods looue.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>What is the matter? let me knowe it at once:</l>
+               <l>I haue ſomwhat els to doo then hear to tread the ſtones.</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <l>By my trueth Sir I beſéech you vor me to ſpeak a good woord:</l>
+               <l>To your good maiſter and my Londlord:</l>
+               <l>Ich haue dwelt in his houſe this vorty yéeres almoſte,</l>
+               <l>And thervpon chaue beſtowed much money and coſt.</l>
+               <l>And now ich hear zay ich muſt double my rent:</l>
+               <l>Or els void out of it and that incontinent.</l>
+               <l>I beſéech you vor Gods ſake on me take ſome pitty and bone:</l>
+               <pb facs="tcp:11872:19"/>
+               <l>If I be put out for euer I cham vndoon.</l>
+               <l>Oh good Sir, I knowe that you may doo much:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>By my trueth I can doo nothing héer in:</l>
+               <l>And ſo God help me I eſtéeme no ſuch matters worth a pin.</l>
+               <l>Ber Lady Sir you haue had it a fair ſeaſon:</l>
+               <l>And y<hi rend="sup">t</hi> a man ſhould make what he can of his owne it is reaſo<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>I warrant you, therbe inow that that rent wil giue:</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <l>But they ſhall neuer thriue on it then I beléeue.</l>
+               <l>Ich knowe what he may doo with the houſe and ground:</l>
+               <l>He may chaunce to vinde rent inough of viue pound.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Wel, care not you for that, if you he a wiſe man:</l>
+               <l>You were beſt to get one better chepe where you can</l>
+               <l>For I knowe that ſo much for it, haue he may:</l>
+               <l>Yea, if it ſtood empty euen this preſent day.</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <l>Wel Sir, yet me thinks there ſhould be a conſcience</l>
+               <l>I think God hateth ſuch couetouſe, ſir by your patience.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Thou art a fooliſh felowe, héer of to me to complain:</l>
+               <l>For I medle with no ſuch matters I tel you plain.</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <stage>make much curtſey</stage>
+               <l>Good gentlema<g ref="char:cmbAbbrStroke">̄</g>, God ſaue your life I pray to our lord:</l>
+               <l>May I be ſo bolde to ſpeak with you (gentleman) one word:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Whether the Deuil wilt thou? into mouth me think.</l>
+               <l>Fo Gods ames, how he ſmelles all of drink.</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <l>Nay by my trueth Sir, I drink none other drink to day:</l>
+               <l>But a little fléet milk mingled with whay.</l>
+               <l>For ſo God help me if for drink or meat I ſhould dye:</l>
+               <l>I haue not one farthing, any therwith to bye.</l>
+               <l>And by my trueth Sir, this is my ſute at this time:</l>
+               <l>I ſerued your maiſter in making Brick and lime.</l>
+               <l>Halfe a yeer togither not miſſing one day:</l>
+               <l>And by my trueth all my wages is yet for to pay.</l>
+               <l>And if it pleaſe you heerin to ſhowe me ſome pleaſure:</l>
+               <pb facs="tcp:11872:20"/>
+               <l>The ſame to my power with like I wil meaſure.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Body of me, what a beggerly knaue is heear?</l>
+               <l>Why, canſt thou not forbere thy money one yéer?</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <l>No by my trueth Sir, for I haue no lands:</l>
+               <l>Nor nothing to liue vpon, but onely my hands.</l>
+               <l>I beſeech you be good to me.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Why? I meddle not with ſuch things y<hi rend="sup">t</hi> dooſt knowe</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <l>Yes Sir, you are maiſter Steward I trowe.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>No faith I am but maiſter receiuer:</l>
+               <l>I take in all, but by giſſe I am no payer.</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <l>Your maiſter hath a great ſort of receiuers in déed:</l>
+               <l>But not one to pay the Hireling his true meed.</l>
+            </sp>
+            <sp>
+               <speaker>All braue Vvorldly man.</speaker>
+               <l>What worthy policy? what make you héer to day?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>About your affaires I haue buſines this way.</l>
+               <l>And beholde Sir as I traueled the Stréet:</l>
+               <l>With theſe two fellowes I chaunced for to méet.</l>
+               <l>Who tolde me that they had an erneſt ſute to you</l>
+               <l>One for his houſe that he dwelleth in now.</l>
+               <l>Wherin (he ſaith) you go about to doo him much wrong:</l>
+               <l>For he ſaith that he hath dwelt in it very long.</l>
+               <l>The other ſaid, you owe him a peece of money:</l>
+               <l>he wrought with you half a yeer &amp; had neuer a peny</l>
+               <l>And thus they took on with me before you did come:</l>
+               <l>And now haue I ſhowed you the whole circumſtance &amp; ſome.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Mary hang them Villains haue I nought to doo:</l>
+               <l>But to ſtand and reaſon matters with them two?</l>
+               <l>Hear you tena<g ref="char:cmbAbbrStroke">̄</g>t, in few woordꝭ you knowe my minde</l>
+               <l>According as I haue tolde you, ſo you ſhall me finde.</l>
+               <l>Other prouide money your leaſe to renue:</l>
+               <l>Or els you ſhall out incontinent this ts true.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:20"/>
+               <speaker>Tenant.</speaker>
+               <l>Oh Londlord me thinks this is to much extremitie:</l>
+               <l>Alas vpon mine age take you ſome pittye.</l>
+               <l>Cham olde &amp; haue many Children and much charge:</l>
+               <l>I truſt lendlord ich ſhall vinde you better at large.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>I cannot tel what I ſhould doo more beléeue me:</l>
+               <l>Many Landlords would not doo as I doo by thée.</l>
+               <l>For I am co<g ref="char:cmbAbbrStroke">̄</g>tent for money y<hi rend="sup">t</hi> ſhouldſt haue it before an other:</l>
+               <l>I can doo no more for thee if thou wert my brother.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Thou muſt be anſwerd father, there is no remedy:</l>
+               <l>By <hi>Saint Anne</hi> me think he ſpeaketh very reſonably.</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <l>This reſonable ſpeaking co<g ref="char:cmbAbbrStroke">̄</g>meth fro<g ref="char:cmbAbbrStroke">̄</g> an vnreaſonable minde:</l>
+               <l>Wo be to him that to ſuch inconueniences ſhall a man binde.</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <l>If it pleaſe you Sir, help me to my money if you may:</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>No by my faith Sir, you get it not to day.</l>
+               <l>You thall tary my leiſure, I wil pay you when I ſée cauſe:</l>
+            </sp>
+            <sp>
+               <speaker>Hireling</speaker>
+               <l>You are happy Sir, in your hands you haue the lawes.</l>
+               <l>But by giſſe if I had any thing that would doo you pleaſure:</l>
+               <l>You ſhould haue it when you would and not tary my leaſure.</l>
+               <l>Wel I beléeue verely that the prayers of the poor &amp; his cry:</l>
+               <l>Shall aſcend into the eares of the Lord God on hye.</l>
+               <l>And he wil plague all thoſe that righteouſnes withſtand:</l>
+               <l>And as the Prophet ſaith, root their poſteritie out of y<hi rend="sup">e</hi> land.</l>
+            </sp>
+            <sp>
+               <speaker>Tenant.</speaker>
+               <l>Wel Hireling, let vs departe this place:</l>
+               <l>It preuaileth not vs of him to craue any grace.</l>
+            </sp>
+            <sp>
+               <speaker>Hireling.</speaker>
+               <l>No more ſhall it preuail him the Scripture ſaith in déed:</l>
+               <l>To aſk mercy of the Lord when he ſtandeth in need.
+<stage>Exeunt</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Ha, ha, ha, I muſt laugh, ſo God me ſaue:</l>
+               <l>To ſee what a ſort of ſuters now a dayes we haue.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <pb facs="tcp:11872:21"/>
+               <l>I warrant you if you wil be ruled by Reaſon and policy:</l>
+               <l>You ſhall haue all the worlde to ſue to you ſhortly.</l>
+            </sp>
+            <sp>
+               <speaker>Vorldly man.</speaker>
+               <l>A common ſaying the Fox fareth the better and not y<hi rend="sup">e</hi> worſe:</l>
+               <l>When that the good wife dooth him ban and curſſe.</l>
+               <l>So what care I though to curſſe me the people doo not ceaſſe?</l>
+               <l>As long as by them my riches dooth increace.</l>
+               <l>Oh policy, how glorious my buildings doo ſhine?</l>
+               <l>No gentlemans in this contrey like vnto mine.</l>
+               <l>Sira what ſhall I doo? I muſt make my barnes more great:</l>
+               <l>For I haue not rowme inough to lay in my Rye and whete.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Set men a woork with it as ſoon as ye can:</l>
+               <l>If you lack rowme, make more you may than.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>By giſſe I wil, they ſhall in hand to morrow:</l>
+               <l>I thank you policy I need nothing to borowe.</l>
+               <l>Sirra, the little tenament that by my houſe dooth ſtand:</l>
+               <l>I would I could get that to, euen out of hand.</l>
+               <l>I want a little buttrye to lay in my drink:</l>
+               <l>And that would ſerue the turn handſomly I think.</l>
+               <l>And to ſay the trueth it is not meet that ſuch a begger as he:</l>
+               <l>Should dwel ſo néer vnder the noſe of me.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Who the Deuil put that into your minde?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Mary euen that did reaſon my truſty fréend.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe,</speaker>
+               <l>I haue béen about it my ſelf all this wéek:</l>
+               <l>Redy wit all the Lawes for to delay dooth ſéek.</l>
+               <l>We wil haue it I warrant you by hook or by crook:</l>
+               <l>Tuſh I warrant you for ſuch od ends dayly we look.</l>
+            </sp>
+            <sp>
+               <speaker>Prophet without.</speaker>
+               <l>O thou Earth, Earth, earth, hear the woord of the Lord:</l>
+               <l>Knowe thy ſelf to be no better then Clay or duſt:</l>
+            </sp>
+            <sp>
+               <speaker>Let the Vvorldly man looke ſudenly about him.</speaker>
+               <l>Se that thy life to Gods trueth doo alwaies accorde:</l>
+               <l>For from earth thou cammeſt and to earth thou muſt.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:21"/>
+               <l>What is the matter? why what aile ye? why look you ſo about</l>
+            </sp>
+            <sp>
+               <speaker>VVorldly man.</speaker>
+               <l>I heard a terible noiſe, ſurely without dout.</l>
+               <l>Which pronounced the woords of the Prophet <hi>Ieremy:</hi>
+               </l>
+               <l>Saying Earth, Earth, turn thee ſpeedyly.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Why, and are you afraid, and amaſed at that?</l>
+               <l>I ſee wel you haue a hart like a Gnat.</l>
+            </sp>
+            <sp>
+               <speaker>Prophet.</speaker>
+               <lg>
+                  <l>That Seruant that diligently dooth fulfil,</l>
+                  <l>And watcheth at all times for the co<g ref="char:cmbAbbrStroke">̄</g>ming of his maiſter:</l>
+                  <l>And dooth in the mean ſeaſon apply his wil,</l>
+                  <l>Of his maſters goods, there be no ſpoile nor waſter.</l>
+                  <l>That ſeruant ſhalbe ſure to be a Taſter.</l>
+                  <l>Of Gods bleſſings and ioyes euerlaſting:</l>
+                  <l>Where as is all conſolation and nothing wanting.</l>
+               </lg>
+               <lg>
+                  <l>But that ſeruant that liueth idlely without care,</l>
+                  <l>And looketh not diligently vpon his Office:</l>
+                  <l>His maiſter ſhall come ſudenly or he be aware,</l>
+                  <l>And ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all miniſter to him according to iuſtice.</l>
+                  <l>The portion of Ipocrites ſhalbe his.</l>
+                  <l>Into vtter darknes caſt him out wil he:</l>
+                  <l>Where as weeping and gnaſhing of téeth ſhalbe.
+<stage>Exit.</stage>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Oh Sira, mary Gods bleſſing on his hart:</l>
+               <l>Ful honeſtly he teacheth you Sir, their parte.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Theſe be the woords of the holy Scripture:</l>
+               <l>Declaring the difference between y<hi rend="sup">e</hi> iuſt and vnpure</l>
+               <l>Good Lord I wold know what thoſe woordꝭ doo mene</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe</speaker>
+               <l>Your Chaplain can tel you, for he is very wel ſeen.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>I pray you policy, call him to me he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er:</l>
+               <l>But look that you come again bothe togither.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Yes that we wil I warrant, you need not to feare:</l>
+               <l>We wil be heer again or a Horſe can lick his eare.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <pb facs="tcp:11872:22"/>
+               <l>By my trueth me thinks I begin to war ſick:</l>
+               <l>In ſending away my counceller, I was ſomwhat to quick.</l>
+               <l>Wel, I wil ſit me down and ſay to ſleep heer:</l>
+               <l>Til they into this place again doo appeer. Oh my hed.</l>
+            </sp>
+            <sp>
+               <speaker>Enter Gods plague and ſtand behinde him a while before he ſpeak.</speaker>
+               <lg>
+                  <l>It is euen I that vpon thee dooth blowe,</l>
+                  <l>Filling thee with plagues and ſundry diſeaſe:</l>
+                  <l>What I am, indéed I wil learne thée to knowe,</l>
+                  <l>For I am not afraid thée to diſpleaſe.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſhalt departe from thy houſe and land,</l>
+                  <l>Thy wife and Children beggers thou ſhalt leaue:</l>
+                  <l>Thy life thou ſhalt looſe euen out of hand,</l>
+                  <l>And after death thy iuſt rewarde receiue.</l>
+               </lg>
+               <lg>
+                  <l>Thy il gotten goods ſhall not thée deliuer.</l>
+                  <l>Thyne coſtly buildings ſhall nothing preuail,</l>
+                  <l>Thy odours, thy ſwéet ſmelles and thou ſhalt periſh togither,</l>
+                  <l>Thy rings, thy bracelets, and Golde chaines ſhall fall.</l>
+               </lg>
+               <lg>
+                  <l>Straungers and thoſe whome thou didſt neuer knowe,</l>
+                  <l>Shall poſſeſſe that, whiche by frawd thou haſt got:</l>
+                  <l>Thy ſeed from of thy ground God wil ouerthrowe,</l>
+                  <l>Becauſe at his Prophets preaching thou amenddeſt not.</l>
+               </lg>
+               <lg>
+                  <l>Thou ſleepeſt in death as the Prophet <hi>Dauid</hi> dooth ſay,</l>
+                  <l>Out of which ſléep when thou ſhalt awake:</l>
+                  <l>Thou ſhalt perceiue thou muſt needs away,</l>
+                  <l>And that on thée God wil no mercy take.</l>
+               </lg>
+               <lg>
+                  <l>I am the plague of God properly called,</l>
+                  <l>Which commeth on the wicked ſudainly:</l>
+                  <l>I go through all townes and Cittyes ſtrongly walled,</l>
+                  <l>Striking to death and that without all mercy.</l>
+               </lg>
+               <lg>
+                  <l>Heer thou wicked couetouſe perſon I doo ſtrike,</l>
+                  <l>Which once on the plowe hadſt taken holde:</l>
+                  <l>But willingly again thou ranneſt in the Dike:</l>
+                  <l>Therfore thy plague ſhalbe doubled ſeuen folde.
+<stage>Go out and ſtand at the door</stage>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Come Sir Nicolas, come ſir Nicolas, come Sir Nicolas come</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Cham faint by giſſe, would ich had a little more buni.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>A peſtilence take thée, haſte thou not inough yet?</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:22"/>
+               <speaker>Ignorance.</speaker>
+               <l>No, I can drink a Galon and eat neuer a bit.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Come in y<hi rend="sup">e</hi> knaues name you muſt expou<g ref="char:cmbAbbrStroke">̄</g>d a matter</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>I can expound good ale from fair water.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Tuſh felow thou muſt expound a péece of Scripture</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>I can doo it as wel as any Biſhop I am ſure.</l>
+               <l>I haue ſpouted with the Geneuians xx. on a rowe:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>And thou wert to good for them all I trowe.</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance</speaker>
+               <l>Was I? yea faith that I was you ſhall vnder ſtand</l>
+               <l>With a peece of Lattin I ſet them all one dry land.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>And I pray thée hartely what was it? let me hear:</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>
+                  <hi>Thou ſhalt if y<hi rend="sup">u</hi> wilt promiſe to giue me a pot of béer</hi>
+               </l>
+               <l>Magiſtrorum clericium inkepe miorum</l>
+               <l>Totus perus altus yongus et oldus</l>
+               <l>Multus knauoribus et quoque faſorum</l>
+               <l>Pick purſus omnius argentus shauus &amp; polus.</l>
+               <l>
+                  <hi>Let me ſée what they are all able to ſay to this.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>For out of deut a worthy peece of learning it is.</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance,</speaker>
+               <l>A man may as much edyfying out of my lattin take:</l>
+               <l>As ye may out of expoſicio<g ref="char:cmbAbbrStroke">̄</g>s y<hi rend="sup">t</hi> many miniſters make</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Euen as thou ſaiſt, in faith much of a kinde:</l>
+               <l>For they place the ſcriptures as fethers in y<hi rend="sup">e</hi> winde.</l>
+               <l>Peace body of me, our maiſter is a ſleep:</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Mary it was time indeed for vs ſilence to kéep.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Oh I would if I could, but now it is to late:</l>
+               <l>Hold thy peace I pray thee and doo me no more rate.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:23"/>
+               <speaker>Couetouſe.</speaker>
+               <l>To whome ſpeak you to Sir? to him or to me?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>There is no remedy now man, &amp; that thou dooſt ſée.</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Paſſion of me Sira, he dreameth me think:</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Is there no remedy, but to hel I muſt néeds ſink?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>For my life Deuoſion he is haunted with the Mare:</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Nay it is ſome wurſer thing truly I feare.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>I holde a Crown he is not very wel:</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>So me thinks for he dreameth of going to Hel.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>We wil wake him out of that troubleſome ſleep:</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Good Lord ſéeſt thou not? beholde how he dooth wéep</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>How doo you good maiſter? is he a ſléep or a wake?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Oh good Lord, how my hart dooth ake.</l>
+               <l>Oh ſick, ſick, neuer ſo ſick in my life berfore:</l>
+               <l>Good Lord, policy I think I ſhall neuer go ho<g ref="char:cmbAbbrStroke">̄</g>e more.</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Mary God forbid, why where is your gréef?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>All the partes of my body wanteth reléef.</l>
+               <l>Oh Deuotion, I haue ſuch paines in my head:</l>
+               <l>That truely, truely, I wiſh my ſelf euen dead.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Me thought you dremed, for to your ſelf you did talk</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>In deed Sir, I dreamed I had a great iourney to walke.</l>
+               <l>Oh what great paines and torments I thought my ſelf in:</l>
+               <l>Lying in fire which to burn did neuer lin.</l>
+               <l>And me thought before me the plague of God did ſtand:</l>
+               <pb facs="tcp:11872:23"/>
+               <l>Redy to ſtrike me with a Sworde in his hand.</l>
+               <l>And euer I aſked him what was the cauſe:</l>
+               <l>He anſwerd that I was a tranſgreſſor of Gods Lawes.</l>
+               <l>But Lord how ſick I am, and how terible is my pain:</l>
+               <l>No place in my body, but ſicknes therin dooth reign.</l>
+               <l>I like not theſe fooliſh dreames, policy my freend:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Tuſh a ſtraw, vpon them neuer ſet your minde.</l>
+               <l>He that to dreames giueth any confidence or truſt:</l>
+               <l>Without dout very vnquietly liue he muſt.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Oh ſick, ſick, ſick, oh my hed, oh my back:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>What would you haue Sir? tel vs what you lack.</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Is it not beſt that I call hether a Phiſicion?</l>
+               <l>That he may of your ſicknes declare y<hi rend="sup">e</hi> diſpoſition.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Oh yea, yea, doo ſoo good deuotion, I pray thée deuotio<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>Gods bleſſing on thy hart, for thy witty motion.</l>
+               <l>Departe I pray thee with aſmuch haſte as may be:</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>It ſhall not be long or he be héer, you ſhall ſée.
+<stage>Exit.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Oh policy ſick, neuer ſo ſick, oh holde my head:</l>
+               <l>Oh ſira, what ſhalbe come of all my goods when I am dead?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Dead? body of me, doo you rocken to dye this yéer?</l>
+               <l>Holde your peace I warrant you, ye need not to feare.</l>
+               <l>Lo, ſee you not how the worldly man ſhoweth his kinde?</l>
+               <l>As ſick as he is, on his goods is all his minde.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Oh policy if I might not dye, what a felow wold I be</l>
+               <l>In all this contrey ſhould be none like vnto me.</l>
+               <l>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ca, what a goodly Warret haue I made in my hall?</l>
+               <l>But yet my banquiting houſe pleaſeth me beſt of all.</l>
+               <l>Oh, oh, alas what a pang is this at my hart?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Body of me <hi>Aqua vitae,</hi> Vinagre, needs help he wil departe.</l>
+               <pb facs="tcp:11872:24"/>
+               <l>
+                  <hi>Saint Vncumber</hi> be with vs, and the bleſſing of <hi>S. Anthony:</hi>
+               </l>
+               <l>Help, help our Lady of Walſingham and all her holy co<g ref="char:cmbAbbrStroke">̄</g>pany</l>
+            </sp>
+            <sp>
+               <speaker>Enter Ignorance.</speaker>
+               <l>Why? how now? what is the matter? how dooth he Policy?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Body of me help, he is gone els and that verily</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Stand away fooliſh knaue and let maiſter Phiſicion come:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Maiſter Flebiſhiten, ſhould I ſay, M. Phiſicion, I pray you look in his bum</l>
+            </sp>
+            <sp>
+               <speaker>Phiſicion.</speaker>
+               <l>By your leaue my maiſters, me thinks it is no time to ieſt:</l>
+               <l>Stand back I pray you, and doo not me moleſt.</l>
+               <l>Paſſion of me maiſters, count you this a play?</l>
+               <l>One of you quickly bring me hether a Key.</l>
+               <l>Some drink, <hi>Aqua vitae,</hi> if it may be got:</l>
+               <l>With ſpeed let vs haue ſome drink that is hot.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Nay, I tolde you before he was paſt remedy.</l>
+            </sp>
+            <sp>
+               <speaker>Phiſicion.</speaker>
+               <l>No there is life in him, yet I ſee verily.</l>
+               <l>Run I pray you and fetch ſuch things as we lack:</l>
+               <l>Some drink and a pillow to lay at his back.</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Héer is drink and all things redy at hand:</l>
+            </sp>
+            <sp>
+               <speaker>Phiſicion.</speaker>
+               <l>Giue me rowme I pray you, out of my light ſtand.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Ieſu mercy, lo how buſy maiſter Pheſicion is:
+<stage>Be beſy and dawe him as though he were at dying.</stage>
+               </l>
+               <l>Heer you Sir? is it not beſt you look on his pis.</l>
+            </sp>
+            <sp>
+               <speaker>Phiſicion.</speaker>
+               <l>Good felow be content, I pray thée hartely:</l>
+               <l>Thou art diſpoſed to ieſt me think verily.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Good felow? goodman whoball, I wil make you chaunge your note</l>
+               <l>Before that for your labour you get the value of a grote.</l>
+            </sp>
+            <sp>
+               <speaker>Phiſicion.</speaker>
+               <l>What howe worldly man, in Gods name I ſay:</l>
+               <l>Look vp for the looue of God, doo not like a beaſt decay.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:24"/>
+               <speaker>Vvorldly man.</speaker>
+               <l>Who is there? what art thou that calleſt me?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Mary Sir, maiſter Flebiſhiten, Phiſicion is come &amp; it was he</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Oh ſirs, ſirs, I fear me all this labour is in vain:</l>
+               <l>You might haue let me go, I was wel out of my pain.</l>
+               <l>Oh maiſter Phiſicion, how think you? what ſay you to me?</l>
+            </sp>
+            <sp>
+               <speaker>Phiſicion.</speaker>
+               <l>By my trueth there is no remedy but one, that I can ſée.</l>
+               <l>You muſt put your wil to Gods wil I can ſay no more:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Why? fooliſh Phiſicion he knew that wel inough before.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>What ſaiſt thou? is there no remedy but I muſt dye?</l>
+            </sp>
+            <sp>
+               <speaker>Phiſicion.</speaker>
+               <l>No Sir by my trueth, as far as I can ſée or eſpye.</l>
+               <l>God may doo much, for he is omnipotent:</l>
+               <l>But you are paſt help in this world in mans iudgement.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>What the deuil dooſt thou héer? then get thée away:</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Departe Phiſicion, and thou haſte no more to ſay.</l>
+            </sp>
+            <sp>
+               <speaker>Phiſition.</speaker>
+               <l>I truſt then, Sir you wil content me for my paines taking:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe</speaker>
+               <l>You ſhall haue a new lofe, at the maids next baking.</l>
+            </sp>
+            <sp>
+               <speaker>Vorldly man.</speaker>
+               <l>Go thy waies I pray thée and trouble not my minde:</l>
+               <l>For theſe newes, to giue thée any thing, in my hart I cannot finde</l>
+            </sp>
+            <sp>
+               <speaker>Phiſicion.</speaker>
+               <l>Good Lord haue mercy on thée, belike it is to late to amend:</l>
+               <l>In wickednes thou haſt liued, euen ſo thou wilt end.</l>
+               <l>Gentleman, I truſt you wil not ſee me looſe my labour:</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Gentleman go as you came, you are not ſo much in my fauour</l>
+            </sp>
+            <sp>
+               <speaker>Phiſicion.</speaker>
+               <l>A common ſaying in déed, that is like vnto like:</l>
+               <l>A wicked M. for wicked ſeruants, God muſt néeds ſtrike
+<stage>Exit.</stage>
+               </l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:25"/>
+               <speaker>Vvorldlyman.</speaker>
+               <l>Oh Sirs, is there no remedy? what ſhall I ſay?</l>
+               <l>Is it not beſt I ſet all things at a ſtay?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe,</speaker>
+               <l>Yes make ſure woork of that while as you be héer:</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>It is time in déed, for death in you dooth appéer.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>Once you knowe that I am greatly in def:</l>
+               <l>And now euery one wil ſtriue, their owne for to get.</l>
+               <l>Bid my wife therfore get a letter of adminiſtration, as ſoon as ſhe may</l>
+               <l>And then as ſhe liſteth, my Criditors ſhe may pay.</l>
+               <l>In déed I haue inough to pay euery man his:</l>
+               <l>But by Lady I cannot tel what mine owne ſhall mis.</l>
+               <l>Commend me to her, and bid her take no thought:</l>
+               <l>But in any wiſe let her (as neer as ſhe can) for go nought.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>By my trueth this is wunderfully wel inuented:</l>
+               <l>As you haue ſaid, I warra<g ref="char:cmbAbbrStroke">̄</g>t you it ſhalbe frequented.</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Your minde in this thing vndouted is not il:</l>
+               <l>Now as for other things it is beſt you make a wil.</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldly man.</speaker>
+               <l>It ſhalbe (Deuotion) euen as thou haſte ſaid:</l>
+               <l>Write quickly for of my life I am afraid.</l>
+               <l>Oh muſt I needs dye? oh muſt I needs away?</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Héer is Ink and Paper, what ſhall I write?</l>
+            </sp>
+            <sp>
+               <speaker>Vvorldlyman.</speaker>
+               <l>In the name, firſt of all doo thou in dite.</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>In the name, in, in, in, in the name, what more?</l>
+            </sp>
+            <sp>
+               <speaker>Vorldly man.</speaker>
+               <l>Of, of, of, of, what more?
+<stage>fall down,</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Body of me, down with the paper, away with the Ink:</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſion of me Couetouſe he is gone me think.</l>
+               <l>Holde, holde him, let vs ſee if any life in him be:</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:25"/>
+               <speaker>Couetouſe.</speaker>
+               <l>Nay holde him that wil, the Deuil holde him for me:</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Paſſion of me he is dead, how ſhall we doo now?</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>Canſt thou not tel? no more can I, I make God auow.</l>
+               <l>Sira heer was a trim end that he did make:</l>
+               <l>Thou neuer heardſt him the name of God in his mouth take.</l>
+            </sp>
+            <sp>
+               <speaker>Ignorance.</speaker>
+               <l>Tuſh, God: a ſtrawe, his minde was other waies occupyed:</l>
+               <l>All his ſtudy was who ſhould haue his goods when he dyed.</l>
+               <l>Indeed all men may perceiue his minde to be corrupt and il:</l>
+               <l>For God would not ſuffer him to name him in his wil.</l>
+               <l>A ſtraunge matter, when men haue giuen ouer God:</l>
+               <l>They may be ſure to be ſcurged with his ſharp rod.</l>
+            </sp>
+            <sp>
+               <speaker>Couetouſe.</speaker>
+               <l>This is the end alwaies wher I begin:</l>
+               <l>For I am the root of all wickednes and ſin.</l>
+               <l>I neuer reſt to teach and inſtruct men to euil:</l>
+               <l>Til I bring them bothe body and ſoule to the Deuil.</l>
+               <l>As we haue doon this worldly man héer as you ſée:</l>
+               <l>Come therfore <hi>Ignorance,</hi> wait thou vpon me.</l>
+               <l>The Deuil and I, thou ſhalt ſée wil not leaue:</l>
+               <l>Til we haue made the greateſt parte to vs to cleue.</l>
+               <l>Come, let vs go hence, heer is no more to be ſaid:</l>
+               <l>Farewel my maſters our partes we haue playd.</l>
+            </sp>
+            <sp>
+               <speaker>Enter heer Sathan.</speaker>
+               <lg>
+                  <l>Oh, oh, oh, oh, all is mine, all his mine,</l>
+                  <l>My kingdome increaſeth euery houre and day:</l>
+                  <l>Oh, how they ſeek my mageſtie deuine,</l>
+                  <l>To come to me they labour all that they may.</l>
+               </lg>
+               <lg>
+                  <l>The worldly man (quoth he) nay the diuiliſh man than,</l>
+                  <l>For more wickednes and miſcheef then he did vſe:</l>
+                  <l>I my ſelf indéed neuer deuiſe can,</l>
+                  <l>Oh at his ioly wiſdome I muſt néeds muſe.</l>
+               </lg>
+               <lg>
+                  <l>How cunningly put he his mony to vſury?</l>
+                  <l>Yea, and that without offence of any law:</l>
+                  <l>He was not to learne any kinde of bribery,</l>
+                  <l>Wherby wicked gaines to him he might draw.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:11872:26"/>
+                  <l>An abhominable drunkard, a ſtinking Lecherer,</l>
+                  <l>A filthy Sodomit, a corrupt canſcience within:</l>
+                  <l>A priuy ſlanderer, and a ſuttle murtherer,</l>
+                  <l>To be ſhort, a very dunghil and ſink of ſin.</l>
+                  <l>Oh my boy <hi>Couetouſe,</hi> I may thank thee of all this</l>
+                  <l>Thou nouſledſt him in all miſcheef and vice:</l>
+                  <l>Therfore ſhalt thou be ſure to haue my bliſſe:</l>
+                  <l>For abooue all other thou indeed art moſte wiſe.</l>
+               </lg>
+               <lg>
+                  <l>Thou teacheſt the worldly man, a leacemonger to be,</l>
+                  <l>To oppreſſe the poore and of his riches him to defraud:</l>
+                  <l>Wickedly to vſe the lawes he learned of thee,</l>
+                  <l>Therfore indeed thou art worthy of much lawd.</l>
+               </lg>
+               <lg>
+                  <l>All you worldly men, that in your riches doo truſt,</l>
+                  <l>Be mery and iocond, builde Palaces and make luſty chéer:</l>
+                  <l>Put your money to Vſury, let it not lye and ruſt,</l>
+                  <l>Occupye your ſelues in my lawes while ye be heer.</l>
+               </lg>
+               <lg>
+                  <l>Spare not, nor care not, what miſcheef you frequent,</l>
+                  <l>Vſe drunkennes, deceit, take other mens wiues:</l>
+                  <l>Paſſe of nothing; one houre is inough to repent,</l>
+                  <l>Of all the wickednes you haue doon in your liues.</l>
+               </lg>
+               <lg>
+                  <l>Oh if you wil thus after my Lawes behaue,</l>
+                  <l>You ſhall haue all things as this worldly man had:</l>
+                  <l>Be bolde of me, what you wil to craue,</l>
+                  <l>And dout you not but with you I wil play the loouing lad.</l>
+               </lg>
+               <lg>
+                  <l>Yea, and after death I wil prouide a place,</l>
+                  <l>For you in my kingdome for euer to reign:</l>
+                  <l>You ſhall tare no wurſe then dooth mine owne grace,</l>
+                  <l>That is to lye burning for euer in pain.</l>
+               </lg>
+               <lg>
+                  <l>Come on mine owne Boy, go thou with me,</l>
+                  <l>Thou haſt ſerued me duely, and hateſt me neuer:</l>
+                  <l>Therfore now for thy paines rewarded ſhalt thou be:</l>
+                  <l>In euer laſting fire that burneth for euer.
+<stage>Bear him out vp on his back.</stage>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Contentation.</speaker>
+               <lg>
+                  <l>He that toucheth pitch, ſhalbe defiled with the ſame,</l>
+                  <l>And he that keepeth company with thoſe that be vicious:</l>
+                  <l>Shall at the length growe like vnto the ſame,</l>
+                  <l>Working things wicked and pernicious,</l>
+                  <l>Euen ſo it is alſo to be aſſociate with the righteous.</l>
+                  <l>For he that haunteth and kéepeth honeſt company:</l>
+                  <pb facs="tcp:11872:26"/>
+                  <l>Cannot chuſe but liue according to the ſame actually.</l>
+               </lg>
+               <lg>
+                  <l>Example, the Iewes beeing conuerſant with the Heathen,</l>
+                  <l>Drank of their ſuperſtition and idolatry:</l>
+                  <l>And by that meanes fel from the true God of Heauen,</l>
+                  <l>To worſhipping of Blocks which was meer blaſphemy.</l>
+                  <l>Likewiſe it is at this day verily,</l>
+                  <l>Chriſten men are ſeduced by keeping of il company:</l>
+                  <l>And brought from the very trueth to hypocricy.</l>
+               </lg>
+               <lg>
+                  <l>And who are thoſe that are thus deceiued?</l>
+                  <l>Euen ſuch as are not content when to are wel:</l>
+                  <l>They be not thankful for that they haue receiued,</l>
+                  <l>But euer they think ſtil more and more to excel,</l>
+                  <l>Contentation from their mindes they doo expel.</l>
+                  <l>And vnder the pretence of reaſon, wit and policy:</l>
+                  <l>They couet to run to miſcheef and ſin hedely.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Heuenly man.</speaker>
+               <l>Like as Golde and ſiluer is tried in the fire,</l>
+               <l>So faithful men in the fornace of aduerſitie be prooued:</l>
+               <l>The heauenly muſt not liue as fleſh and luſt dooth deſire,</l>
+               <l>But heauenly things of heauenly men be looued.</l>
+               <l>With no kinde of temptation he muſt be mooued.</l>
+               <l>Be it ſicknes or pouertie, or what ſo euer of God is ſent:</l>
+               <l>The heauenly muſt take it patiently and be therwith co<g ref="char:cmbAbbrStroke">̄</g>tent</l>
+            </sp>
+            <sp>
+               <speaker>Inough,</speaker>
+               <l>Inough is as good as a feaſt, where contentation dooth dwel,</l>
+               <l>For where he remaineth is the ſpirit of God with reſt:</l>
+               <l>The vnquiet minde of the couetouſe dooth grutch and ſwel,</l>
+               <l>And to liue with inough he dooth abhorre and deteſt.</l>
+               <l>The greedy gaſping of Couetouſe dooth him ſo moleſt.</l>
+               <l>That to be rich he all his whole minde dooth ſet:</l>
+               <l>Nothing regarding how the ſame he dooth get.</l>
+            </sp>
+            <sp>
+               <speaker>Contentation.</speaker>
+               <l>
+                  <hi>Pithagoras</hi> ſaith, that a man of Couetouſe deſire,</l>
+               <l>Cannot be contented nether with abundance:</l>
+               <l>For the more he hath, the more ſtil he dooth require,</l>
+               <l>Wherfore ſuch perſons prouoke God to vengeance,</l>
+               <l>Example of the worldly man, late of remembrance.</l>
+               <l>Whoſe wicked life offended the Lord ſo excedingly.</l>
+               <l>That his heauy plagues came vpon him ſudenly.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11872:27"/>
+               <speaker>Heauenly man.</speaker>
+               <l>God graunt his ende, example may be,</l>
+               <l>To all men how their riches they ſhall vſe:</l>
+               <l>Make not that thy God, which ſhould be ſeruant vnto thée,</l>
+               <l>For in ſo dooing thou dooſt it greatly abuſe.</l>
+               <l>I pray God (I ſay) that our couetouſe we may refuſe,</l>
+               <l>And one of vs to looue an other, for that pleaſeth God deſt:</l>
+               <l>So ſhall we be ſure to inheret the good land of reſt.</l>
+            </sp>
+            <sp>
+               <speaker>Reſt.</speaker>
+               <l>By Gods great goodnes I am ſent vnto thée,</l>
+               <l>Reſt is my name wherin the heauenly ſhal abide:</l>
+               <l>Happy are thoſe perſons that come vnto me,</l>
+               <l>For I beeing preſent all troubles I doo deuide.</l>
+               <l>With ioyes I am adorned, yea on euery ſide,</l>
+               <l>Which are prepared for the heauenly from the beginning:</l>
+               <l>And giuen vnto them for a rewarde of their godly liuing.</l>
+            </sp>
+            <sp>
+               <speaker>Heauenly man.</speaker>
+               <l>Thanks be giuen to thée O Father omnipotent,</l>
+               <l>Thy mercyes Lord, and not my deſerts truely:</l>
+               <l>Hath cauſed thoſe ioyes to me to be ſent,</l>
+               <l>Graunt me grace therfore to praiſe thy name duely.</l>
+               <l>Thy goodnes appéereth to me euery day newly.</l>
+               <l>Whileſt breath and life prolong my dayes:</l>
+               <l>My mouth ſhall not ceaſſe thy holy name to praiſe:</l>
+            </sp>
+            <sp>
+               <speaker>Inough.</speaker>
+               <l>Inough is as good as a feaſt, heer let vs ſtay,</l>
+               <l>We haue troubled our audience, that let vs remember:</l>
+               <l>Let vs conclude therfore, but firſt let vs pray,</l>
+               <l>That it wil pleaſe God in mercy our good miſtres to tender,</l>
+               <l>Our faith to ſtabliſh wherin we be ſlender.</l>
+               <l>That at the laſt day when the trump ſhall blowe:</l>
+               <l>For to be heauenly men the Lord may vs al knowe</l>
+            </sp>
+            <sp>
+               <speaker>Contentation.</speaker>
+               <l>Firſt let vs call to God for Ieſu Chriſtes ſake,</l>
+               <l>Long to preſerue Elizabeth our moſte noble Quéen</l>
+               <l>Good Lord graunt her highnes the heauenly path to take,</l>
+               <l>And that all bye waies, of her highnes may be ſeen.</l>
+               <l>Encreace her welth, prolong her helth, preſerue her life:</l>
+               <l>That long ſhe may rule this realme, w<hi rend="sup">t</hi>out debate or ſtrife.</l>
+            </sp>
+            <trailer>¶ Finis.</trailer>
+            <pb facs="tcp:11872:27"/>
+         </div>
+      </body>
+   </text>
+</TEI>

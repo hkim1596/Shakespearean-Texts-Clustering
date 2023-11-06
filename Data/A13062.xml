@@ -1,0 +1,1929 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of Iacke Straw, a notable rebell in England vvho was kild in Smithfield by the Lord Maior of London.</title>
+            <title>Jack Straw.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1594</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A13062</idno>
+            <idno type="STC">STC 23356</idno>
+            <idno type="STC">ESTC S111285</idno>
+            <idno type="EEBO-CITATION">99846658</idno>
+            <idno type="PROQUEST">99846658</idno>
+            <idno type="VID">11642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A13062)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1118:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of Iacke Straw, a notable rebell in England vvho was kild in Smithfield by the Lord Maior of London.</title>
+                  <title>Jack Straw.</title>
+               </titleStmt>
+               <extent>[44] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Danter, and are to be solde by VVilliam Barley at his shop in Gratious-street ouer against Leaden-Hall,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1593 [i.e. 1594]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Misattributed to George Peele.</note>
+                  <note>Colophon dated 1594.</note>
+                  <note>Signatures: A-F⁴ (-A1, F4).</note>
+                  <note>Running title reads: The life and death of Iacke Strawe.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Straw, Jack, d. 1381? --  Drama --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11642:1"/>
+            <pb facs="tcp:11642:1"/>
+            <p>
+               <hi>THE</hi>
+LIFE AND
+Death of Iacke
+Straw, A notable Rebell
+in England:
+VVho was kild in Smithfield
+by the Lord Maior of
+London.</p>
+            <figure/>
+            <p>Printed at London by <hi>Iohn Danter,</hi> and are to be
+ſolde by VVilliam Barley at his ſhop in
+Gratious-ſtreet ouer againſt
+Leaden-Hall,
+1593.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="act">
+            <pb facs="tcp:11642:2"/>
+            <pb facs="tcp:11642:2"/>
+            <head>THE LIFE AND
+Death of Iacke Strawe.</head>
+            <head>Actus primus.</head>
+            <sp>
+               <speaker>Collector.</speaker>
+               <l>NOw ſuch a murmuring to riſe vpon ſo trifling a thing,</l>
+               <l>In all my life neuer ſaw I before:</l>
+               <l>And yet I haue beene Officer this ſeauen yeare and more<g ref="char:punc">▪</g>
+               </l>
+               <l>The Tyler and his wife are in a great rage,</l>
+               <l>Affirming their Daughter to be vnder age.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>Art thou the Collector of the Kings taske?</l>
+            </sp>
+            <sp>
+               <speaker>Collector.</speaker>
+               <l>I am Tyler why doſt thou aske?</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>Becauſe thou goeſt beyond the Commiſſion of the King,</l>
+               <l>We graunt to his Highnes pleaſure in euery thing:</l>
+               <l>Thou haſt thy taske money for all that be heere,</l>
+               <l>My Daughter is not fourteene yeares olde, therefore ſhee
+goes cleare.</l>
+            </sp>
+            <sp>
+               <speaker>Collector.</speaker>
+               <l>And becauſe thou ſayeſt ſo, I ſhould beleeue thee.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>Chooſe whether thou wilt or no, thou getteſt no more of
+me.</l>
+               <l>For I am ſure thy Office doth not arme thee with ſuch au<g ref="char:EOLhyphen"/>thoritie.</l>
+               <l>Thus to abuſe the poore people of the Countrie.</l>
+               <l>
+                  <pb facs="tcp:11642:3"/>
+But chiefeſt of all vilde villaine as thou art,</l>
+               <l>To play ſo vnmanly and beaſtly a part,</l>
+               <l>As to ſearch my daughter thus in my preſence.</l>
+            </sp>
+            <sp>
+               <speaker>Collector.</speaker>
+               <l>Why baſe villaine, wilt thou teach me what to do?</l>
+               <l>VVilt thou preſcribe me mine office, and what belonges
+thereto?</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>VVhat villaine, doſt ſtrike me? I ſweare by the rood,</l>
+               <l>As I am <hi>Iacke Strawe,</hi> thou ſhalt buy it with thy blood.</l>
+               <l>There lie and be well paid for thy paine.</l>
+            </sp>
+            <sp>
+               <speaker>Collector.</speaker>
+               <l>O helpe, helpe, the kings officer is ſlaine.</l>
+            </sp>
+            <stage>Enter Parſon Ball, Wat Tyler, Nobs, Tom
+Miller the Clowne.</stage>
+            <sp>
+               <speaker>Wat Tyler.</speaker>
+               <l>How now <hi>Iacke Strawe,</hi> doth any body abuſe thee?</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>Alas <hi>Wat,</hi> I haue kild the kings officer in ſtriking raſhly.</l>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>A ſmall matter to recouer a man that is ſlaine,</l>
+               <l>Blow wind in his tayle, and fetch him againe.</l>
+            </sp>
+            <sp>
+               <speaker>Parſon Ball.</speaker>
+               <l>Content thee, tis no matter, and <hi>Iacke Strawe</hi> god a mercie,</l>
+               <l>Herein thou haſt done good ſeruice to thy country:</l>
+               <l>VVere all inhumaine ſlaues ſo ſerued as he,</l>
+               <l>England would be ciuill, and from all ſuch dealings free.</l>
+            </sp>
+            <sp>
+               <speaker>Nobs.</speaker>
+               <l>By gogs bloud my maiſters, we will not put vp this ſo qui<g ref="char:EOLhyphen"/>etly,</l>
+               <l>VVe owe God a death, and we can but die:</l>
+               <l>And though the faireſt end of a Rebell is the gallowes.</l>
+               <l>
+                  <pb facs="tcp:11642:3"/>
+Yet if you will be rulde by mee,</l>
+               <l>VVele ſo deale of ourſelues as wele reuenge this villainy,</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>The king God wot knowes not whats done by ſuch poore
+men as we,</l>
+               <l>But wele make him know it, if you will be rulde by me:</l>
+               <l>Her's Parſon <hi>Ball</hi> an honeſt Prieſt, and telles vs that in
+charitie,</l>
+               <l>VVe may ſticke together in ſuch quarrels honeſtly.</l>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>VVhat is he an honeſt man? the deuill he is, he is the
+Parſon of the Towne,</l>
+               <l>You thinke ther's no knauerie hid vnder a black gowne,</l>
+               <l>Find him in a pulpit but twiſe in the yeare,</l>
+               <l>And Ile find him fortie times in the ale-houſe taſting
+ſtrong beare.</l>
+            </sp>
+            <sp>
+               <speaker>Parſon Ball.</speaker>
+               <l>Neighbors, neighbors, the weakeſt now a dayes goes to
+the wall,</l>
+               <l>But marke my words, and follow the counſell of <hi>Iohn Ball.</hi>
+               </l>
+               <l>England is growne to ſuch a paſſe of late,</l>
+               <l>That rich men triumph to ſee the poore beg at their gate.</l>
+               <l>But I am able by good ſcripture before you to proue,</l>
+               <l>That God doth not this dealing allow nor loue.</l>
+               <l>But when <hi>Adam</hi> delued, and <hi>Eue</hi> ſpan,</l>
+               <l>VVho was then a Gentleman.</l>
+               <l>Brethren, brethren, it were better to haue this commu<g ref="char:EOLhyphen"/>nitie,</l>
+               <l>Then to haue this difference in degrees:</l>
+               <l>The landlord his rent, the lawyer his fees.</l>
+               <l>So quickly the poore mans ſubſtance is ſpent,</l>
+               <l>But merrily with the world it went,</l>
+               <l>VVhen men eat berries of the hauthorne tree,</l>
+               <l>And thou helpe me, Ile helpe thee,</l>
+               <l>
+                  <pb facs="tcp:11642:4"/>
+There was no place for ſurgerie,</l>
+               <l>And old men knew not vſurie:</l>
+               <l>Now tis come to a wofull paſſe,</l>
+               <l>The Widdow that hath but a pan of braſſe,</l>
+               <l>And ſcarſe a houſe to hide her head,</l>
+               <l>Sometimes no penny to buy her bread,</l>
+               <l>Muſt pay her Landlord many a groat,</l>
+               <l>Or twil be puld out of her throat:</l>
+               <l>Brethren mine ſo might I thriue,</l>
+               <l>As I wiſh not to be aliue,</l>
+               <l>To ſee ſuch dealings with extremitie,</l>
+               <l>The Rich haue all, the poore liue in miſerie:</l>
+               <l>But follow the counſell of <hi>Iohn Ball,</hi>
+               </l>
+               <l>I promiſe you I loue yee all:</l>
+               <l>And make diuiſion equally,</l>
+               <l>Of each mans goods indifferently,</l>
+               <l>And rightly may you follow Armes,</l>
+               <l>To rid you from theſe ciuill harmes.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>Well ſaid Parſon ſo may it bee,</l>
+               <l>As wee purpoſe to preferre thee:</l>
+               <l>Wee will haue all the Rich men diſplaſte<g ref="char:punc">▪</g>
+               </l>
+               <l>And all the brauerie of them defaſte,</l>
+               <l>And as rightly as I am <hi>Iacke Straw,</hi>
+               </l>
+               <l>In ſpight of all the men of Law,</l>
+               <l>Make thee Archbiſhop of Caunterberie,</l>
+               <l>And Chauncellor of England or Ile die.</l>
+               <l>How ſaiſt thou <hi>Wat,</hi> ſhall it bee ſo?</l>
+            </sp>
+            <sp>
+               <speaker>Wat Tyler.</speaker>
+               <l>I <hi>Iacke Straw,</hi> or elſe Ile bide many a fowle blow.</l>
+               <l>It ſhall bee no other but hee,</l>
+               <l>That thus fauours the Communaltie,</l>
+               <l>Stay wee no longer prating here,</l>
+               <l>But let vs roundly to this geare,</l>
+               <l>
+                  <pb facs="tcp:11642:4"/>
+Tis more than time that we were gone,</l>
+               <l>VVele be Lords my Maiſters euery one.</l>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>And I my Maiſters will make one,</l>
+               <l>To fight when all our foes be gone,</l>
+               <l>VVell ſhall they ſee before wele lacke,</l>
+               <l>VVele ſtuffe the Gallowes till it cracke.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>I hope we ſhall haue men inow,</l>
+               <l>To aide vs herein <hi>Wat,</hi> how thinkeſt thou?</l>
+            </sp>
+            <sp>
+               <speaker>Parſon Ball.</speaker>
+               <l>Tag and rag thou needſt not doubt.</l>
+            </sp>
+            <sp>
+               <speaker>VVat Tyler.</speaker>
+               <l>But who ſhall be Captaine of the Rowt.</l>
+            </sp>
+            <sp>
+               <speaker>Parſon Ball.</speaker>
+               <l>That ſhall you two for all our Kentiſh men.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>Fellow Captaine welcome lets about it.</l>
+            </sp>
+            <sp>
+               <speaker>VVat Tyler.</speaker>
+               <l>A greed fellow Captaines to London.</l>
+               <stage>Exeunt all but Nobs.</stage>
+            </sp>
+            <sp>
+               <speaker>Nobs.</speaker>
+               <l>Heres euen worke towards for the Hangman, did you euer
+ſee ſuch a crue,</l>
+               <l>After ſo bad a beginning, whats like to inſue?</l>
+               <l>Faith euen the common reward for Rebels, Swingledome
+ſwangledome, you know as well as I,</l>
+               <l>But what care they, yee heare them ſay they owe God a
+death, and they can but die:</l>
+               <l>Tis diſhonor for ſuch as they to dye in their bed,</l>
+               <l>And credit to cape: vnder the Gallowes all ſaue the head:</l>
+               <l>And yet by my ſay the beginning of this Riot,</l>
+               <l>May chaunce coſt many a mans life before all be at quiet:</l>
+               <l>
+                  <pb facs="tcp:11642:5"/>
+And I faith Ile be amongſt them as forward as the beſt.</l>
+               <l>And if ought fall out but wel, I ſhall ſhift amongſt the reſt,</l>
+               <l>And being bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a boy, may hide me in the throng,</l>
+               <l>Tyborn ſtand faſt, I feare you will be loden ere it be long.</l>
+               <stage>Exeunt.</stage>
+               <stage>Enter Lord Treaſorer, Lord Archbiſhop, and
+Secretarie, with others.</stage>
+            </sp>
+            <sp>
+               <speaker>Lord Treaſorer.</speaker>
+               <l>And yet Lord Archbiſhop your Grace doth know,</l>
+               <l>That ſince the lateſt time of Parliament,</l>
+               <l>Wherein this taske was graunted to the King,</l>
+               <l>By generall conſent of either houſe,</l>
+               <l>To helpe his warres which hee intends to Fraunce,</l>
+               <l>For wreake and iuſt recouerie of his right,</l>
+               <l>How ſlow their payment is in euery place,</l>
+               <l>That better a King not to commaund at all,</l>
+               <l>Than be beholding to vngratefull mindes.</l>
+            </sp>
+            <sp>
+               <speaker>Archbiſhop.</speaker>
+               <l>Lord Treaſorer it ſeemeth ſtrange to mee,</l>
+               <l>That being wonne with reaſon and regard,</l>
+               <l>Of true ſucceeding Prince, the common ſort,</l>
+               <l>Should be ſo ſlacke to giue or grudge the gift,</l>
+               <l>That is to be employd for their behoofe,</l>
+               <l>Hard and vnnaturall be the thoughts of theirs,</l>
+               <l>That ſucke the milke, and will not helpe the VVell,</l>
+               <l>The King himſelfe being now but young of age:</l>
+               <l>If things ſhould fall out otherwiſe than well,</l>
+               <l>The blame doth fall vpon the Counſellor,</l>
+               <l>And if I take my aime not all awrie,</l>
+               <l>The Multitude a Beaſt of many heads,</l>
+               <l>Of miſconceiuing and miſconſtruing minds,</l>
+               <l>Reputes this laſt beneuolence to the King,</l>
+               <l>
+                  <pb facs="tcp:11642:5"/>
+Giuen at high Court of Parliament,</l>
+               <l>A matter more requirde for priuate good,</l>
+               <l>Than helpe or benefite of common weale,</l>
+               <l>VVherein how much they wrong the better ſort,</l>
+               <l>My conſcience beareth witnes in the cauſe.</l>
+            </sp>
+            <sp>
+               <speaker>Secretarie.</speaker>
+               <l>My Lords, becauſe your words not worthles are,</l>
+               <l>Becauſe they ſtand on reaſons ſureſt ground,</l>
+               <l>And tend vnto the profit of the King,</l>
+               <l>VVhoſe profit is the profit of the Land,</l>
+               <l>Yet giue me leaue in reuerence of the cauſe,</l>
+               <l>To ſpeake my minde touching this queſtion:</l>
+               <l>VVhen ſuch as wee doo ſee the peoples harts,</l>
+               <l>Expreſt as farre as time will giue them leaue,</l>
+               <l>VVith hartines of their beneuolence,</l>
+               <l>My thinks it were for others happines,</l>
+               <l>That harts and purſes ſhould together goe:</l>
+               <l>Miſdeeme not good my Lords of this my ſpeach,</l>
+               <l>Sith well I wote the Noble and the ſlaue,</l>
+               <l>And all doo liue but for a Common weale,</l>
+               <l>VVhich Common weale in other tearmes, is the Kings.</l>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <l>The Iuſtices and Sheriffes of Kent, ſends greetings to
+your Honours here by mee.</l>
+            </sp>
+            <sp>
+               <speaker>Archbiſhop.</speaker>
+               <l>My Lords, this briefe doth openly vnfold,</l>
+               <l>A dangerous taske to vs and all our traines,</l>
+               <l>VVith ſpeede let vs impart the newes vnto my Lord the
+King,</l>
+               <l>The fearefull newes that whilſt the flame doth but begin,</l>
+               <l>Sad pollicie may ſerue to quench the fire:</l>
+               <l>The Commons nowe are vp in Kent, let vs not ſuffer this
+firſt attempt too farre.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:6"/>
+               <speaker>Treaſorer.</speaker>
+               <l>My friend what powre haue they aſſembled in the field.</l>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <l>My Lord a twentie thouſand men or there about.</l>
+            </sp>
+            <sp>
+               <speaker>Secretarie.</speaker>
+               <l>See here the perill that was <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate foreſeene,</l>
+               <l>Ready to fall on this vnhappie Land:</l>
+               <l>VVhat barbarous mindes for grieuance more than needs,</l>
+               <l>Vnnaturallie ſeeks wreake vpon their Lord,</l>
+               <l>Their true annointed Prince, their lawfull king:</l>
+               <l>So dare this blind vnſhamefaſt multitude,</l>
+               <l>Lay violent hands they wot not why nor where:</l>
+               <l>But be thou ſtill as beſt becommeth thee,</l>
+               <l>To ſtand in quarrell with thy naturall Liege,</l>
+               <l>The Sunne may ſometime be eclipſt with Clowds,</l>
+               <l>But hardlie may the twinckling ſtarres obſcure,</l>
+               <l>Or put him out of whom they borrow light.</l>
+            </sp>
+            <stage>Exeunt.</stage>
+            <stage>Enter Iacke Straw, Wat Tyler, Hob Carter,
+Tom Miller, and Nobs.</stage>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>I marrie <hi>Wat</hi> this is another matter, me thinks the worlde
+is changed of late,</l>
+               <l>Who would liue like a beggar, and may be in this eſtate.</l>
+            </sp>
+            <sp>
+               <speaker>Wat Tyler.</speaker>
+               <l>
+                  <hi>VVee are here fowre Captaines iuſt,</hi> Iacke Strawe, Wat
+Tyler, Hob Carter, and Tom Miller:</l>
+               <l>Search me all England and find fower ſuch Captaines, and
+by gogs bloud Ile be hangd.</l>
+            </sp>
+            <sp>
+               <speaker>Nobs.</speaker>
+               <l>So you will be neuertheleſſe I ſtand in great doubt.</l>
+            </sp>
+            <sp>
+               <speaker>Hob Carter.</speaker>
+               <l>Captaine <hi>Strawe,</hi> and Captaine <hi>Tyler,</hi> I thinke I haue
+<pb facs="tcp:11642:6"/>
+brought a companie of Eſſex men for my traine,</l>
+               <l>That will neuer yeeld, but kill or elſe be ſlaine.</l>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>And for a little Captaine I haue the vantage of you all,</l>
+               <l>For while you are a fighting, I can creepe into a quart po<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+I am ſo ſmall.</l>
+            </sp>
+            <sp>
+               <speaker>Nobs.</speaker>
+               <l>But Maiſters what aunſwere made Syr <hi>Iohn Morton</hi> at Ro<g ref="char:EOLhyphen"/>cheſter,</l>
+               <l>I heard ſay hee would keepe the Caſtle ſtill, for the Kings
+vſe.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <p>So he did til I fetcht him out by force, and I haue his wife
+and children pledges, for his ſpeedie returne from the
+King, to whom he is gone with our meſſage.</p>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>Let him take heede hee bring a wiſe anſwere to our wor<g ref="char:EOLhyphen"/>ſhips,
+or els his pledges goes to the pot.</l>
+            </sp>
+            <sp>
+               <speaker>Hob Carter.</speaker>
+               <l>Captaine <hi>Straw,</hi> how many men haue we in the field,</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>Marrie Captaine <hi>Carter,</hi> about fiftie thouſand men.</l>
+            </sp>
+            <sp>
+               <speaker>Hob Carter.</speaker>
+               <l>VVhere ſhall we pitch our tents to lie in ſafetie.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>Marrie <hi>Hob</hi> vpon Blacke-heath beſide Greenwich, there
+wele lie,</l>
+               <l>And if the King will come thither to know our pleaſures
+ſo it is: if not, I know what wele doo.</l>
+            </sp>
+            <sp>
+               <speaker>Wat Tyler.</speaker>
+               <l>Gogs bloud <hi>Iacke,</hi> haue we the cards in our hands?</l>
+               <l>Lets take it vpon vs while we haue it.</l>
+            </sp>
+            <stage>Exeunt.</stage>
+            <sp>
+               <pb facs="tcp:11642:7"/>
+               <speaker>Nobs.</speaker>
+               <l>I marrie, for you know not how long you ſhall hold it.</l>
+               <l>Fiftie thouſand men they haue alreadie in Armes that will
+draw together,</l>
+               <l>If wee hang together as faſt, ſome of vs ſhall repent it.</l>
+            </sp>
+            <stage>Exeunt.</stage>
+            <stage>Enter the Queene Mother, the County of Salsburie,
+and a Gentleman <g ref="char:V">Ʋ</g>ſher.</stage>
+            <sp>
+               <speaker>Queene Mother.</speaker>
+               <l>This ſtrange vnwelcome and vnhappie newes,</l>
+               <l>Of theſe vnnaturall Rebels and vniuſt,</l>
+               <l>That threaten wracke vnto this wretched Land,</l>
+               <l>Aye me affrights my womans mazed minde,</l>
+               <l>Burdens my heart, and interrupts my ſleepe,</l>
+               <l>That now vnleſſe ſome better tidings come,</l>
+               <l>Vnto my ſonne their true annointed King.</l>
+               <l>My heauy hart I feare will breake in twaine,</l>
+               <l>Surcharged with a heauie loade of thoughts.</l>
+            </sp>
+            <sp>
+               <speaker>County Salsburie.</speaker>
+               <l>Madam, your Graces care in this, I much commend,</l>
+               <l>For though your ſonne my Lord the King be young,</l>
+               <l>Yet he will ſee ſo well vnto him ſelfe,</l>
+               <l>That he will make the prowdeſt Rebell know,</l>
+               <l>VVhat tis to mooue or to diſpleaſe a King,</l>
+               <l>And though his looks bewray ſuch lenitie,</l>
+               <l>Yet at aduantage hee can vſe extremitie:</l>
+               <l>Your Grace may call to minde that being a king,</l>
+               <l>He will not put vp any iniurie,</l>
+               <l>Eſpeciallie of baſe and common men,</l>
+               <l>VVhich are not worthie but with reuerence,</l>
+               <l>To looke into the Princelie ſtate of Kings,</l>
+               <l>A King ſometimes will make a ſhow of curteſie,</l>
+               <l>
+                  <pb facs="tcp:11642:7"/>
+Onely to fit a following pollicie:</l>
+               <l>And it may be the King determines ſo,</l>
+               <l>That hee will trie before he truſt a foe.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <g ref="char:V">Ʋ</g>ſher.</speaker>
+               <l>True Madam, for your Graces ſonne the King,</l>
+               <l>Is ſo well ruled by diuers of his Pieres,</l>
+               <l>As that I thinke the prowdeſt foe hee hath,</l>
+               <l>Shall find more worke than hee will take in hand,</l>
+               <l>That ſeeks the downefall of his Maieſtie:</l>
+               <l>I hope the Councell are too wiſe for that,</l>
+               <l>To ſuffer Rebels in aſpiring pride,</l>
+               <l>That purpoſe treaſon to the Prince and ſtate.</l>
+               <l>In good time, ſee where my Lord the King,</l>
+               <l>Doth come accompanied with the Biſhoppe and Lord
+Treaſorer.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>I maruaile much my Lords what rage it is,</l>
+               <l>That moues my people whom I loue ſo deare,</l>
+               <l>Vnder a ſhow of quarrell good and iuſt,</l>
+               <l>To riſe againſt vs thus in mutinies,</l>
+               <l>VVith threatning force againſt our ſtate and vs:</l>
+               <l>But if it bee as we are giuen to know,</l>
+               <l>By Letters and by credible report,</l>
+               <l>A litle ſparke hath kindled all this fire,</l>
+               <l>VVhich muſt be quencht with circumſpect regard,</l>
+               <l>Before we feele the violence of the flame:</l>
+               <l>Mean while, ſweete Ladie Mother be content,</l>
+               <l>And thinke their mallice ſhall not iniure you,</l>
+               <l>For wee haue tooles to crop and cut them off,</l>
+               <l>Ere they preſume to touch our Royall ſelfe,</l>
+               <l>And thus reſolue, that you ſecure ſhall bee,</l>
+               <l>VVhat hard miſhap ſoeuer fall to mee.</l>
+               <stage>Enter Meſſenger.</stage>
+               <l>Health and good hap befall your Maieſtie.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:8"/>
+               <speaker>
+                  <g ref="char:V">Ʋ</g>ſher.</speaker>
+               <l>My Lord here is a meſſenger from Kent,</l>
+               <l>That craues acceſſe vnto your Maieſtie.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Admit him neere, for wee will heare him ſpeake,</l>
+               <l>Tis hard when twixt the people and the King,</l>
+               <l>Such termes of threats and parlies muſt be had,</l>
+               <l>VVould any Gentleman or man of worth,</l>
+               <l>Be ſeene in ſuch a cauſe without offence,</l>
+               <l>Both to his God, his Countrie, and his Prince,</l>
+               <l>Except he were inforced thereunto?</l>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <l>I cannot thinke ſo good a Gentleman,</l>
+               <l>As is that Knight Syr <hi>Iohn Morton</hi> I meane,</l>
+               <l>VVould entertaine ſo baſe and vild a thought:</l>
+               <l>Nor can it ſinke into my womans head,</l>
+               <l>That were it not for feare or pollicie,</l>
+               <l>So true a bird would file ſo faire a neſt,</l>
+               <l>But here hee comes, O ſo my longing minde,</l>
+               <l>Deſires to know the tidings hee doth bring.</l>
+            </sp>
+            <sp>
+               <speaker>Morton.</speaker>
+               <l>The Commons of Kent ſalute your Maieſtie,</l>
+               <l>And I am made their vnhappie meſſenger:</l>
+               <l>My Lord, a crue of Rebels are in field,</l>
+               <l>And they haue made commotions late in Kent,</l>
+               <l>And drawne your people to a mutinie:</l>
+               <l>And if your Grace ſee not to it in time,</l>
+               <l>Your Land will come to ruine by their meanes,</l>
+               <l>Yet may your Grace finde remedie in time,</l>
+               <l>To quallifie their pride that thus preſume.</l>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <l>VVho are the Captaines of this Rebel rowt,</l>
+               <l>That thus doo riſe gainſt their annointed King?</l>
+               <l>VVhat bee they men of any worth or no?</l>
+               <l>
+                  <pb facs="tcp:11642:8"/>
+If men of worth, I cannot chooſe but pittie them.</l>
+            </sp>
+            <sp>
+               <speaker>Morton.</speaker>
+               <l>No my good Lord, they bee men of no great account,</l>
+               <l>For they bee none but Tylers, Thatchers, Millers, and
+ſuch like.</l>
+               <l>That in their liues did neuer come in field,</l>
+               <l>Before this mutanie did call them ſorth:</l>
+               <l>And for ſecuritie of my backe returne,</l>
+               <l>Vpon this meſſage which I ſhowd the King,</l>
+               <l>They keepe my wife and children for a pledge,</l>
+               <l>And hald mee out from forth my Caſtell at Rocheſter,</l>
+               <l>And ſwore me there to come vnto your Maieſtie,</l>
+               <l>And hauing told you their mindes,</l>
+               <l>I hope your Grace will pardon mee for all:</l>
+               <l>In that I am enforced therevnto.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>How many men haue they aſſembled in the field?</l>
+            </sp>
+            <sp>
+               <speaker>Morton.</speaker>
+               <l>I thinke my Lord about twentie thouſand men,</l>
+               <l>But if your Grace would follow my aduice,</l>
+               <l>Thus would I deale with theſe Rebellious men,</l>
+               <l>I would finde time to parly with ſome of them,</l>
+               <l>And know what in their mindes they doo intend,</l>
+               <l>For being armed with ſuch treacherous thoughts,</l>
+               <l>They may performe more than your Grace expects.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>VVith ſpeede returne to thoſe vnnaturall men,</l>
+               <l>And ſee Syr Iohn you greete them thus from vs,</l>
+               <l>Tell them that wee our ſelfe will come to them,</l>
+               <l>To vnderſtand their meaning and their mindes:</l>
+               <l>And tell them if they haue any euill ſuſtaind,</l>
+               <l>Our ſelfe will ſee ſufficient recompence:</l>
+               <l>Goe good Syr Iohn, and tell them vpon the Thames,</l>
+               <l>Our ſelfe will meete with them,</l>
+               <l>
+                  <pb facs="tcp:11642:9"/>
+There to conferre concerning their auaile,</l>
+               <l>Doe ſo Sir <hi>Iohn</hi> and kindely recommend vs to them all.</l>
+            </sp>
+            <sp>
+               <speaker>Morton.</speaker>
+               <l>We ſhall fulfill your graces minde in this,</l>
+               <l>And thus I take my Conge of your Maieſtie,</l>
+               <l>VViſhing your Grace thrice Neſtors yeares to raigne,</l>
+               <l>To keepe your Land, and gard your Royall Traine,</l>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <l>Farewell good Knight and as thou dareſt remember them
+though they forget themſelues.</l>
+            </sp>
+            <sp>
+               <speaker>Biſhop.</speaker>
+               <stage>Exeunt Morton.</stage>
+               <l>Your grace heerein is very well aduiſd,</l>
+               <l>VVith reſolution fitting your degree,</l>
+               <l>Your Grace muſt ſhew your ſelfe to be a King,</l>
+               <l>And rule like Gods viſgerent here on earth,</l>
+               <l>The lookes of Kinges doe lend both life and death,</l>
+               <l>And when a King doth ſet downe his decree,</l>
+               <l>His ſentence ſhould be irreuocable,</l>
+               <l>Your grace herein hath ſhowne your Princely minde,</l>
+               <l>In that you hate to pray on carren fleſh,</l>
+               <l>Such praies befits not Kings to pray vpon,</l>
+               <l>That may command and countermand their owne.</l>
+               <l>I hope my Lord this meſſage ſo will proue,</l>
+               <l>That publike hate will turne to priuate loue.</l>
+               <l>And therefore I ſay my Lord you haue anſwered well,</l>
+               <l>The taske was giuen your Grace by Act of Parliament,</l>
+               <l>And you haue reaſon to demand your dew.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>My Lords I hope we ſhall not neede to feare,</l>
+               <l>To meete thoſe men that thus doe threaten vs.</l>
+               <l>VVe will my Lords to morrowe meete with them,</l>
+               <l>And heare my Lords what tis that they demand.</l>
+               <l>Mother your Grace ſhall need to take no care,</l>
+               <l>
+                  <pb facs="tcp:11642:9"/>
+For you ſhall in our Towre of London ſtay,</l>
+               <l>Till we returne from Kent to you againe.</l>
+               <l>My Lord ſee euery thing prepard for vs:</l>
+               <l>And Mother thus I leaue your Maieſtie,</l>
+               <l>You to the Towre, and I muſt hence to Kent,</l>
+            </sp>
+            <sp>
+               <speaker>Treaſorer.</speaker>
+               <l>My Lord if ſo you pleaſe take my aduiſe herein,</l>
+               <l>That ſpeakes in loue and duty to your grace:</l>
+               <l>I ſhall in euerie matter priueledge your Maieſtie and all
+your Lordly traine.</l>
+               <l>I meane againſt your Mannor of Greenewich towne,</l>
+               <l>And ſo amidſt the ſtreame may houer ſafe,</l>
+               <l>Meane while they ſend ſome few and choſen men,</l>
+               <l>To giue your Grace to vnderſtand their mindes,</l>
+               <l>And thus my Lord I haue aduentured,</l>
+               <l>To ſhew your Maieſtie my minde herein.</l>
+            </sp>
+            <trailer>Finis Actus Primus.</trailer>
+            <pb facs="tcp:11642:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:11642:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div n="2" type="act">
+            <pb facs="tcp:11642:11"/>
+            <head>Actus Secundus.</head>
+            <stage>Enter Tom Miller with a Gooſe.</stage>
+            <sp>
+               <l>IT is good to make prouiſion, for peraduenture wee ſhall
+lacke victuals and wee lie in campe on Blacke Heath
+long.</l>
+               <l>And in faith as long as this Gooſe laſts wele not ſtarue:</l>
+               <l>And as many good fellowes as will come to the eating of
+her, come and welcome.</l>
+               <l>For in faith I came lightly by her,</l>
+               <l>And lightly come lightly gone,</l>
+               <l>We Captaines are Lords within our ſelues,</l>
+               <l>And if the world hold out we ſhalbe Kings ſhortly.</l>
+            </sp>
+            <stage>Enter Nobs and cut away the Gooſe while he talketh,
+and leue the head behinde him with them &amp;
+Morton.</stage>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>The reſt of my fellowe Captaines are gone before to
+Grenewich to meete the King:</l>
+               <l>That comes to knowe our mindes,</l>
+               <l>And while they be about it:</l>
+               <l>Ile make good cheare, with my Gooſe here,</l>
+               <l>Whats the Gooſe flowne away without her head.</l>
+            </sp>
+            <stage>Exeunt.</stage>
+            <stage>Enter with the crew Tom Miller, Iacke Straw,
+Wat Tyler, and Hob Carter.</stage>
+            <sp>
+               <pb facs="tcp:11642:11"/>
+               <speaker>Iacke Strawe.</speaker>
+               <l>Heres a ſturre more than needs,</l>
+               <l>What meanes the King thus to abuſe vs?</l>
+               <l>And makes vs runne about his pleaſure, and to no end.</l>
+               <l>He promiſed vs to meete vs on the water,</l>
+               <l>And by Ladie as ſoone as we came at the water ſide,</l>
+               <l>Hee faire and flat turnes his Barge and away hee goes to
+London.</l>
+               <l>I tell thee <hi>Wat</hi> we will not put vp this abuſe.</l>
+            </sp>
+            <sp>
+               <speaker>VVat Tyler.</speaker>
+               <l>By gogs blood Captaine <hi>Strawe,</hi> wee will remoue our
+campe, and awaie to London roundlie,</l>
+               <l>And there wele ſpeake with him, or were know whie wee
+ſhall not.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>God amarcie <hi>Wat</hi> and ere we haue done,</l>
+               <l>VVe will be Lords euerie one.</l>
+            </sp>
+            <sp>
+               <speaker>Hob Carter.</speaker>
+               <l>Gentle <hi>Iacke Strawe,</hi> in one line let vs drawe,</l>
+               <l>And wele not leaue a man of lawe.</l>
+               <l>Nor a paper worth a hawe,</l>
+               <l>And make him worſe than a dawe,</l>
+               <l>That ſhall ſtand againſt <hi>Iacke Strawe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Morton.</speaker>
+               <l>Me thinkes you might doe well to anſwere the King,</l>
+               <l>In the name of the whole companie:</l>
+               <l>Some doſſen or twenty men for the nonce, that may deli<g ref="char:EOLhyphen"/>uer
+the minds of you all in few words.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>Sir <hi>Iohn Morton</hi> you are an Aſſe, to tell vs what wee haue
+to doe,</l>
+               <l>Hold your prating you were beſt.</l>
+            </sp>
+            <sp>
+               <speaker>VVat Tyler.</speaker>
+               <l>I tell thee Sir <hi>Iohn</hi> thou abuſeſt vs<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <pb facs="tcp:11642:12"/>
+But lets to London as faſt as we can.</l>
+               <stage>Enter King, ArchBiſhop, Treaſorer, Secretarie,
+Sir Iohn Newton, and Spencer.</stage>
+               <l>My Lords if all our men are come vnto the ſhore,</l>
+               <l>Let vs returne againe into the Towne</l>
+               <l>Theſe people are not to be talkt withall,</l>
+               <l>Much leſſe with reaſon to be ordered.</l>
+               <l>That ſo vnorderly with ſhrikes and cries,</l>
+               <l>Make ſhew as though they would invade vs all.</l>
+               <l>I haue not heard nor read of any King<g ref="char:punc">▪</g>
+               </l>
+               <l>So <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gently o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his people entertaind.</l>
+            </sp>
+            <stage>Exeunt King and his traine ſaue Newton &amp; Spencer.</stage>
+            <sp>
+               <speaker>Spencer.</speaker>
+               <l>Sir Iohn what was the cauſe the King returnd ſo ſoone,</l>
+               <l>And with ſuch <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo quickly tooke the ſhore.</l>
+            </sp>
+            <sp>
+               <speaker>Sir Newton.</speaker>
+               <l>Bargeman the King had reaſon for the ſame,
+warrant thee he was not <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll aduiſde.</l>
+            </sp>
+            <sp>
+               <speaker>Spencer.</speaker>
+               <l>I thinke he meant to haue commenſt ſome talke with that
+<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>He ment ſo indeede <hi>Spencer</hi> but you heard how it fel out<g ref="char:punc">▪</g>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Spencer.</speaker>
+               <l>Not well I held my ſtearne ſo hard.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>Twas thus, the King and all his companie,</l>
+               <l>Being rowd with Ores ſo far as Greenewich Towne,</l>
+               <l>It was a world to ſee what Troupes of men,</l>
+               <l>Like Bees that ſwarme about the hony hiue.</l>
+               <l>
+                  <pb facs="tcp:11642:12"/>
+Gan ſtrew the grauill ground and ſandy plaine,</l>
+               <l>That fild the Aire with cries and fearefull noiſe.</l>
+               <l>And from the water did an eccho riſe:</l>
+               <l>That pearſt the yeares of our renowmed King,</l>
+               <l>Affrighting ſo his heart with ſtrong conceit,</l>
+               <l>Of ſome vnhappy grieuous ſtratigene;</l>
+               <l>That truſt me with my eares I heard him ſay,</l>
+               <l>He thought they would haue all like Spaniels,</l>
+               <l>Tane water deſpretly and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him.</l>
+               <l>So did they all yfare like <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> men,</l>
+               <l>That time he thought to ſpeed away apace,</l>
+               <l>And take the beſt aduantage of the place.</l>
+            </sp>
+            <sp>
+               <speaker>Spencer.</speaker>
+               <l>Indeed I could not greatly blame his Maieſtie,</l>
+               <l>My ſelfe was not ſo ſcarde this ſeauen yeare:</l>
+               <l>My thought there was ſufficient mouthes inough,</l>
+               <l>At higheſt tide to haue drawen the Thames drie.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>
+                  <hi>Spencer</hi> ere it flow thrice at London bridge,</l>
+               <l>London I feare wi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l heare of worſer newes.</l>
+            </sp>
+            <stage>Exeunt Ambo.</stage>
+            <stage>Enter Iacke Straw, Wat Tyler, Hob Carter, Tom Miller,
+N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bs, Morton, and Southwarkemen.</stage>
+            <sp>
+               <speaker>Southwarkemen.</speaker>
+               <p>Neighbours you that keepe the gates, let the Kings liege
+people in, or we <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bee faine to aide them with bals of
+wild fire or ſome other deuiſe, for they haue ſpoilde all
+Southwarke<g ref="char:punc">▪</g> let out all the priſoners, broke vp the Mar<g ref="char:EOLhyphen"/>ſhalſea
+and the Kings bench, and made great hauocke in
+the Burrowe here,</p>
+               <l>Therefore I pray you let them in.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:13"/>
+               <speaker>Wat Tyler.</speaker>
+               <l>Porter open the gate, if thou loueſt thy ſelfe, or thine own
+life, open the gate.</l>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>You haue a certaine ſpare Gooſe came in to bee roſted,</l>
+               <l>Shee is inough by this.</l>
+            </sp>
+            <stage>Exeunt all but Morton.</stage>
+            <sp>
+               <speaker>Morton.</speaker>
+               <l>VVhat meanes theſe wretched miſcreants,</l>
+               <l>To make a ſpoile of their owne country men:</l>
+               <l>Vnnaturall Rebels what ſo ere,</l>
+               <l>By forraine foes may ſeeme no whit ſo ſtrange.</l>
+               <l>As Engliſhmen to trouble England thns</l>
+               <l>VVell may I tearme it inſeſt to the Land.</l>
+               <l>Like that fowle lawles force and violence,</l>
+               <l>VVhich Cyneris did offer to his child.</l>
+               <l>O happie time from all ſuch troubles free,</l>
+               <l>VVhat now alas is like to be the end of this attempt,</l>
+               <l>But that ſo long as they are glutted all with blood, they
+bath therein.</l>
+               <stage>Exeunt Morton, Enter Nobs with a Flemming.</stage>
+               <p>Sirra here it is ſet downe by our Captaines that as many
+of you as cannot ſay bread and cheeſe, in good and perfect
+Engliſh, ye die for it, &amp; that was the cauſe ſo many ſtran<g ref="char:EOLhyphen"/>gers
+did die in Smithfield.</p>
+               <l>Let me heare you ſay bread and cheeſe.</l>
+               <l>Brocke and Keyſe.</l>
+            </sp>
+            <stage>Exeunt both</stage>
+            <trailer>Finis Actus Secundus.</trailer>
+         </div>
+         <div n="3" type="act">
+            <pb facs="tcp:11642:13"/>
+            <head>Actus Tertius.</head>
+            <stage>Enter King, Lord Maior, Sir Iohn Newton, two Sar<g ref="char:EOLhyphen"/>gants,
+with Gard and Gentlemen.</stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>
+                  <hi>SIr Newton,</hi> &amp; <hi>Lord Maior,</hi> this wrong that I am offered,</l>
+               <l>This open and vnnaturall iniury,</l>
+               <l>A King to be thus hardly handled,</l>
+               <l>Of his owne people and no other foes,</l>
+               <l>But ſuch as haue bin brought vp and bred in his own bo<g ref="char:EOLhyphen"/>ſome,</l>
+               <l>Nouriſhed with his tender care,</l>
+               <l>To be thus robbed of Honour and of friends,</l>
+               <l>Thus daunted with continuall frights and feares,</l>
+               <l>Haled on to what miſhap I cannot tell:</l>
+               <l>More heard miſhap than had of like bin mine,</l>
+               <l>Had I not marked bin to be a King.</l>
+            </sp>
+            <sp>
+               <speaker>Lord Maior.</speaker>
+               <l>It ſhall become your Grace moſt Gratious Lord,</l>
+               <l>To beare the minde in this aflicted time,</l>
+               <l>As other Kings and Lords hath done before,</l>
+               <l>Armed with ſufferance and magnanimitie,</l>
+               <l>The one to make you reſolute for chaunce,</l>
+               <l>The other forward in your reſolution:</l>
+               <l>The greateſt wrong this rowt hath done your Grace,</l>
+               <l>Amongſt a many other wicked parts,</l>
+               <l>Is in frighting your worthie Lady Mother,</l>
+               <l>Making fowle ſlaughter of your Noble men,</l>
+               <l>
+                  <pb facs="tcp:11642:14"/>
+Burning vp Bookes and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of records,</l>
+               <l>D<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cing houſes of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Saint <hi>I<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es</hi> in Smithfie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, the <hi>Sauoy</hi> and ſuch like,</l>
+               <l>And beating downe like wolues, the better ſort,</l>
+               <l>The greateſt wrong in my opinion is,</l>
+               <l>That in Honour doth your perſon touch,</l>
+               <l>I meane they call your Maieſtie to Parle,</l>
+               <l>And ouer beare you with a multitude,</l>
+               <l>As if you were a vaſſall not a King:</l>
+               <l>O wretched mindes of vild and barbarous men,</l>
+               <l>For whom the heauens haue ſecret wreake in ſtore:</l>
+               <l>But my Lord with reuerence and with pardon too,</l>
+               <l>VVhy comes your Grace into Smithfield neare the crew,</l>
+               <l>Vnarmd and garded with ſo ſmall a trai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>If clemencie may win their raging minds,</l>
+               <l>To ciuill order, Ile approue it firſt.</l>
+               <l>They ſhall perceaue I come in quiet wiſe,</l>
+               <l>Accompanied with the Lord Maior here alone,</l>
+               <l>Beſides our Gard that doth attend on vs.</l>
+            </sp>
+            <sp>
+               <speaker>Maior.</speaker>
+               <l>May it pleaſe your Grace that I ſhall raiſe the ſtreets,</l>
+               <l>To Gard your Maieſtie through Smithfield as you walke.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>No Lord Maior, twill make them more outragious,</l>
+               <l>And be a meane to ſhed a world of blood:</l>
+               <l>I more account the blood of Engliſhmen than ſo,</l>
+               <l>But this is the place I haue appointed them</l>
+               <l>To heare them ſpeake and haue aduentured,</l>
+               <l>To come among this fowle varulie crew:</l>
+               <l>And loe my Lords, ſee where the people comes.</l>
+            </sp>
+            <pb facs="tcp:11642:14"/>
+            <stage>Enter Iacke Straw, Wat Tyler, Tom Miller, Parſ on Ball.
+and Hob Carter.</stage>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>My Maſters this is the King, come away,</l>
+               <l>Tis hee that we would ſpeake with all.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>
+                  <hi>Newton,</hi> deſire that one may ſpeake for all;</l>
+               <l>To tell the ſumme of their demaund at full.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>My Maſters you that are the eſpeciall men,</l>
+               <l>His Maieſtie requires you all by me,</l>
+               <l>That one may ſpeake and tell him your demaund,</l>
+               <l>And gentlie here he lets you know by me,</l>
+               <l>He is reſolu'd to heare him all at large.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>I good my friends, I pray you hartely,</l>
+               <l>Tell vs your mindes as mildly as you can:</l>
+               <l>And we will anſwere you ſo well to all,</l>
+               <l>As you ſhall not miſlike in anything.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>VVe come to reuenge your Officers ill demeanor,</l>
+               <l>And though we haue kild him for his knauerie,</l>
+               <l>Now we be gotten together, we will haue wealth and
+libertie</l>
+            </sp>
+            <stage>Cry all. VVealth and libertie.</stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>It is inough, beleeue me if you will,</l>
+               <l>For as I am your true ſucceeding Prince,</l>
+               <l>I ſweare by all the Honour of my Crowne,</l>
+               <l>You ſhall haue liberty and pardon all,</l>
+               <l>As God hath giuen it and your lawfull King.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:15"/>
+               <speaker>VVat Tyler.</speaker>
+               <l>Ere wele be pincht with pouertie,</l>
+               <l>To dig our meate and vittels from the ground,</l>
+               <l>That are as worthie of good maintenance,</l>
+               <l>As any Gentleman your Grace doth keepe,</l>
+               <l>VVe will be Kings and Lords within our ſelues.</l>
+               <l>And not abide the pride of tyrranie.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>I pray thee fellow what countryman art thou?</l>
+            </sp>
+            <sp>
+               <speaker>Wat Tyler.</speaker>
+               <l>It ſkils not much, I am an Engliſhman.</l>
+            </sp>
+            <sp>
+               <speaker>Ball.</speaker>
+               <l>Marrie Sir he is a Kentiſhman, and hath bin my ſcholler
+ere now.</l>
+            </sp>
+            <sp>
+               <speaker>Maior.</speaker>
+               <l>Little good manner hath the villaine learnd,</l>
+               <l>To vſe his Lord and King ſo barberouſly.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>VVell people aske you any more,</l>
+               <l>Than to be free and haue your libertie.</l>
+            </sp>
+            <stage>Cry all</stage>
+            <stage>VVealth and libertie.</stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Then take my word I promiſe it to you all,</l>
+               <l>And eke my generall pardon now forth with,</l>
+               <l>Vnder ſeale and Letters pattents to performe the ſame.</l>
+               <l>Let euerie man betake him to his home,</l>
+               <l>And with what ſpeed our Clarks can make diſpatch,</l>
+               <l>Your pardons and your Letters pattents,</l>
+               <l>Shall be forth with ſent downe in euerie ſhiere.</l>
+            </sp>
+            <sp>
+               <speaker>Hob Carter.</speaker>
+               <l>Marrie I thanke your Grace, <hi>Hob Carter</hi> and the Eſſex
+men will home againe, and we take your word.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:15"/>
+               <speaker>King.</speaker>
+               <l>VVe beleeue you all, and thanke you all,</l>
+               <l>And preſently we will commandement giue,</l>
+               <l>That all this buſines may be quickly readie.</l>
+            </sp>
+            <stage>Exeunt King and his Traine.</stage>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>I tell thee <hi>Wat,</hi> this is not that that I would haue,</l>
+               <l>I come for more than to be anſwered thus,</l>
+               <l>And if the <hi>Eſſex</hi> men will needes be gone,</l>
+               <l>Content, let them goe ſucke their Mams at home,</l>
+               <l>I came for ſpoile and ſpoile Ile haue.</l>
+            </sp>
+            <sp>
+               <speaker>VVat Tyler.</speaker>
+               <l>Doe what thou wilt <hi>Iacke,</hi> I will follow thee.</l>
+            </sp>
+            <sp>
+               <speaker>Nobs.</speaker>
+               <l>How and if it be to the Gallowes.</l>
+            </sp>
+            <sp>
+               <speaker>Wat Tyler.</speaker>
+               <l>Why that is the worſt.</l>
+            </sp>
+            <sp>
+               <speaker>Nobs.</speaker>
+               <l>And I faith that is ſure, but if you will be ruld by me,</l>
+               <l>Truſt not to his pardon for you die euerie Mothers ſonne.</l>
+               <l>But Captaines, goe forward as we haue be gone.</l>
+            </sp>
+            <sp>
+               <speaker>Ball.</speaker>
+               <l>My Maſters the boy ſpeakes wiſely,</l>
+               <l>I haue red this in Cato, <hi>ad cum ſilium antiquam voceris.</hi>
+               </l>
+               <l>Take good counſell while it is giuen.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>Content boy we will be ruld by thee.</l>
+            </sp>
+            <stage>Exeunt Omnes.</stage>
+            <stage>Enter Tom Miller to burne Papers.</stage>
+            <sp>
+               <speaker>Nobs.</speaker>
+               <l>VVhy how now Captaine <hi>Miller,</hi> I perceaue you take
+no care which way the world goes.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:16"/>
+               <speaker>Tom Miller.</speaker>
+               <p>I faith <hi>Nobs</hi> I haue made a bonfire here of a great many of
+Bonds and Indentures and Obligations, faith I haue bin
+amongſt the ends of the Court, &amp; among the Records, &amp;
+al that I ſaw either in the Guild-Hall or in any other place,
+I haue ſet fire on them, but where haſt thou bin?</p>
+            </sp>
+            <sp>
+               <speaker>Nobs.</speaker>
+               <p>I haue bin with our Captaines, <hi>Straw</hi> and <hi>Tiler,</hi> at Saint
+<hi>Iones</hi> in ſmithfield, but Sirra: I can tell you newes, Cap<g ref="char:EOLhyphen"/>taine
+<hi>Carter</hi> is gone home, and all our <hi>Eſſex</hi> men, and I
+feare we ſhall all be hanged, therefore looke you to your
+ſelfe, for I will looke to my ſelfe.</p>
+            </sp>
+            <stage>Exeunt Nobs.</stage>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>Well if wee ſhall be hangd it is but a follie to be ſorrie,</l>
+               <l>But goe to it with a good ſtomacke.</l>
+               <l>Rydle me a ridle, whats this,</l>
+               <l>I ſhall be hangd, I ſhall not be hangd.</l>
+            </sp>
+            <stage>Here he tries it with a ſtaffe.</stage>
+            <stage>Enter Ladie Mother and Gentleman <g ref="char:V">Ʋ</g>ſher.</stage>
+            <sp>
+               <speaker>Queene.</speaker>
+               <l>VVhat doth that fellow?</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <g ref="char:V">Ʋ</g>ſher.</speaker>
+               <l>It ſeemeth Madam, he diſputeth with himſelfe,</l>
+               <l>VVhether he ſhall be hangd or no.</l>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <l>Alas poore ſoule, ſimple inough God wot,</l>
+               <l>And yet not ſo ſimple as a great many of his companie.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <g ref="char:V">Ʋ</g>ſher.</speaker>
+               <l>If it be as we are let to vnderſtand,</l>
+               <l>My Lord the King hath giuen them generall pardon.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:16"/>
+               <speaker>Queene.</speaker>
+               <p>So he hath, &amp; they like honeſt men are gone homwards,
+or at leaſt the moſt part of them, but worſe in mine opini<g ref="char:EOLhyphen"/>on
+is their haps that tarrie longeſt.</p>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <p>But peace here is the Kings Mother, ſhe can do much
+with the King, Ile treat her to beg my pardon of the King
+wiſelie, Ile goe to her, humblie vnto your worſhips, a pore
+Captaine <hi>Thomas Miller,</hi> requeſting your fauorable be<g ref="char:EOLhyphen"/>queſt,
+touching the permiſſion of deſtray, towards the ſaid
+Captaine <hi>Miller,</hi> which in blunt and flat tearmes is no<g ref="char:EOLhyphen"/>minated,
+<hi>Surſum cordum, alis dictus hangum meum,</hi> from
+which place of torment God vs all deliuer, and graunt vs
+to be mercifull while wee liue here together: Now Sir, vn<g ref="char:EOLhyphen"/>derſtanding
+your worſhip is the Kings Mother, lamenta<g ref="char:EOLhyphen"/>bly
+in the behalfe before ſpoken, to ſtand betweene mee
+and the Gallowes or to beg my pardon, in which you ſhall
+not onely ſaue a proper hanſome tall fellow and a ſtout
+Captaine, but alſo you ſhall purchaſe the prayers of all the
+ale wiues in the towne, for ſauing a mault-worme and a cu<g ref="char:EOLhyphen"/>ſtomer
+to helpe away their ſtrong ale.</p>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <l>VVhat meanes the fellow by all this eloquence?</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <g ref="char:V">Ʋ</g>ſher.</speaker>
+               <l>It ſeemes he feares he ſhall be hangd,</l>
+               <l>And therefore craues your Graces fauour in his behalfe.</l>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <l>Alas poore fellow, he ſeemeth to be a ſtarke nidiot.</l>
+               <l>Good fellow if thou wilt goe beg thy pardon of the King,</l>
+               <l>I will ſpeake for thee.</l>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>VVill you in faith, and I will giue you a tawdrie lace.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <g ref="char:V">Ʋ</g>ſher.</speaker>
+               <l>Madam here comes an vnrulie crew lets be gone.</l>
+               <pb facs="tcp:11642:17"/>
+               <stage>Exeunt Queene Mother &amp; <g ref="char:V">Ʋ</g>ſher.</stage>
+               <stage>Enter Iacke Strawe, Wat Tyler, Parſon Ball, Nobs,
+Tom Miller being there.</stage>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>The King &amp; his Nobles thinke they may ſleepe in quiet,</l>
+               <l>Now they haue giuen vs a little holy water at the Court,</l>
+               <l>But thers no ſuch matter, we be no ſuch fooles</l>
+               <l>To be bobd out with words and after come to hanging:</l>
+               <l>
+                  <hi>Wat</hi> doe the thing thou comſt for,</l>
+               <l>If thou wilt be ruld by me, wele not leaue it ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Wat Tyler.</speaker>
+               <l>Ran tara haue at all my boyes.</l>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>Saieſt thou ſo my hart, then farewell my pardon:</l>
+               <l>For Ile doe as yee doe, hang together for companie.</l>
+            </sp>
+            <sp>
+               <speaker>Ball.</speaker>
+               <l>Neighbours and friends neuer yeeld,</l>
+               <l>But fight it luſtilie in the field:</l>
+               <l>For God will giue you ſtrength and might,</l>
+               <l>And put your enemies to flight:</l>
+               <l>To ſtand againſt them day and night,</l>
+               <l>For of mine honeſtie your quarrels right.</l>
+            </sp>
+            <sp>
+               <speaker>Tom Miller.</speaker>
+               <l>O <hi>Parſon Ball,</hi> before you all,</l>
+               <l>If all fall out not well, by following thy counſell,</l>
+               <l>And that by liſtning to thy talke,</l>
+               <l>To the Gallowes we doe walke:</l>
+               <l>
+                  <hi>Parſon Ball</hi> I will tell thee.</l>
+               <l>And ſweare it of mine honeſtie,</l>
+               <l>Thou ſhalt be hangd as well as we.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:17"/>
+               <speaker>Iacke Straw.</speaker>
+               <l>Peace here comes the King I trow.</l>
+            </sp>
+            <stage>Enter the King, Maior, and Newton bearing
+a ſword.</stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>VVhat companie be thoſe <hi>Newton</hi> we doe ſee?</l>
+               <l>Be them of thoſe that promiſed vs to part?</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>Euen part of thoſe my good and Gratious Lord,</l>
+               <l>That promiſed your highnes to depart.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>VVhy then I ſee they ſtand not to their words,</l>
+               <l>And ſure they ſhould not breake it ſo with me,</l>
+               <l>That haue ſo carefully remembred them:</l>
+               <l>This is a part of great ingratitude.</l>
+            </sp>
+            <sp>
+               <speaker>Maior.</speaker>
+               <l>And it like your Maieſtie the <hi>Eſſex</hi> men,</l>
+               <l>With far more better mindes haue parted companie,</l>
+               <l>And euerie man be tane him to his home.</l>
+               <l>The chiefeſt of theſe Rebels be of Kent,</l>
+               <l>Of baſe degree and worſe conditions all,</l>
+               <l>And vowd as I am giuen to vnderſtand,</l>
+               <l>To nothing but to hauocke and to ſpoile.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Lord Maior, if it be ſo I wot,</l>
+               <l>It is a dangerous and vnnaturall reſolution.</l>
+               <l>I pray thee Newton goe and ſpeake with them,</l>
+               <l>Aske them what more it is that they require.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>My Maſters, you that be the chiefeſt of the rout,</l>
+               <l>
+                  <pb facs="tcp:11642:18"/>
+The King intreats you kindly here by me,</l>
+               <l>To come and ſpeake with him a word or two.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>Sirra, if the King would any thinge with vs,</l>
+               <l>Tell him the way is indifferent to meete vs.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>You are too many to be talkt with all,</l>
+               <l>Beſides you owe a dutie to your Prince.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Straw.</speaker>
+               <l>Sirra, giue me the ſword thou weareſt there,</l>
+               <l>Becomes it thee to be armd in my preſence.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>Sir I weare my weapon for mine owne defence,</l>
+               <l>And by your leaue will weare it yet a while.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>VVhat wilt thou villaine, giue me it I ſay.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>
+                  <hi>Newton</hi> giue it him if that be all the matter,</l>
+               <l>Here take it and much good doe it thee.</l>
+            </sp>
+            <stage>The King giues
+him the ſword.</stage>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>Villaine I ſay, giue me the ſword thou beareſt vp,</l>
+               <l>For thats the thing I tell thee I aſſect.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>This ſword belongs vnto my Lord the King,</l>
+               <l>Tis none of mine, nor ſhalt thou haue the ſame:</l>
+               <l>Proud Rebel wert but thou and I alone,</l>
+               <l>Thou durſt not aske it thus boldly, at my hands,</l>
+               <l>For all the wealth this Smithfield doth containe.</l>
+            </sp>
+            <sp>
+               <speaker>Iacke Strawe.</speaker>
+               <l>By him that dide for me, I wil not dine,</l>
+               <l>Till I haue ſeene thee hangd or made away.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Alas Lord Maior, <hi>Newton</hi> is in great danger,</l>
+               <l>And force cannot preuaile amongſt the rowt.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:18"/>
+               <speaker>Maior.</speaker>
+               <l>Old Rome I can remember I haue read,</l>
+               <l>VVhen thou didſt flouriſh for vertue, and for armes,</l>
+               <l>VVhat magnanimitie did abide in thee:</l>
+               <l>Then <hi>Walworth</hi> as it may become thee well,</l>
+               <l>Deſerue ſome honour at thy Princes hand,</l>
+               <l>And b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>utifie this dignitie of thine,</l>
+               <l>VVith ſome or other Act of conſequence:</l>
+               <l>Villaine I ſay whence comes this rage of thine,</l>
+               <l>How dareſt thou a dungell baſtard borne,</l>
+               <l>To braue thy Soueraigne and his Nobles thus.</l>
+               <l>Villaine I doe arreſt thee in my Princes name,</l>
+               <l>Proud Rebel as thou art take that withall;</l>
+               <stage>Here he
+ſtabs him.</stage>
+               <l>Learne thou and all poſteritie after thee,</l>
+               <l>VVhat tis a ſeruile ſlaue, to braue a King.</l>
+               <l>Pardon my Gratious Lord for this my fact,</l>
+               <l>Is ſeruice done to God, and to your ſelfe.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>
+                  <hi>Lord Maior</hi> for thy valiant Act in this,</l>
+               <l>And Noble courage in the Kings behalfe,</l>
+               <l>Thou ſhalt perceaue vs not to be vngratefull.</l>
+               <stage>Cry all,</stage>
+               <l>Our Captaine is ſlaine, our Captaine is ſlaine.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Feare you not people for I am your King,</l>
+               <l>And I will be your Captaine and your friend.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>Pleaſeth your Grace for to with drawe your ſelfe.</l>
+               <l>Theſe Rebls then will ſoone be put to foile.</l>
+            </sp>
+            <stage>Exeunt all but the Maior and two Sargants.</stage>
+            <sp>
+               <speaker>Maior.</speaker>
+               <l>Souldiers take hart to you and follow me,</l>
+               <l>
+                  <pb facs="tcp:11642:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:11642:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:11642:20"/>
+It is our God that giues the victorie:</l>
+               <l>Drag this accurſed villian through the ſtreets.</l>
+               <l>To ſtrike a terrour to the Rebels hearts,</l>
+               <l>London wil giue you power and armes,</l>
+               <l>And God will ſtrengthen you and daunt your foes:</l>
+               <l>Fill Smithfield full of noiſe and ioyfull cries,</l>
+               <l>And ſay alowd God ſaue our Noble Prince.</l>
+            </sp>
+            <trailer>Finis Actus Tertius.</trailer>
+         </div>
+         <div n="4" type="act">
+            <pb facs="tcp:11642:20"/>
+            <head>Actus Quartus.</head>
+            <stage>Enter King, Lord Maior, Morton, Newton,
+and Noble men.</stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>LOrd Maior and well beloued friends,</l>
+               <l>VVhoſe readines in aide of vs and ours,</l>
+               <l>Hath giuen iuſt tryall of your loyaltie,</l>
+               <l>And loue you beare to vs and to our land:</l>
+               <l>Sith by the helpe and mighty hand of God,</l>
+               <l>Theſe fowle vnnaturall broyles are quieted,</l>
+               <l>And this vnhappie tumult well appeaſd:</l>
+               <l>Hauing as law and dutie binds vs too,</l>
+               <l>Giuen both dew praiſe and ſacrifice of thankes,</l>
+               <l>Vnto our God from whome this goodnes comes:</l>
+               <l>Let me now to your counſell recommend,</l>
+               <l>And to your ſad opinions generally,</l>
+               <l>The end of all theſe great and high affaires,</l>
+               <l>This mighty buſines that we haue in hand</l>
+               <l>And that I may in briefe vnfold my minde,</l>
+               <l>My Lords I would not yet, but mercy ſhould,</l>
+               <l>Againſt the law in this hard caſe preuaile:</l>
+               <l>And as I gaue my word vnto you all,</l>
+               <l>That if they then had left their mutiny,</l>
+               <l>Or rather had let fall their wrongfull Armes,</l>
+               <l>Their pardon then ſhould haue bin generall,</l>
+               <l>So will I not; yet God forbid I ſhould,</l>
+               <l>(Though law I know exact it at my hands)</l>
+               <l>
+                  <pb facs="tcp:11642:21"/>
+Behold ſo many of my country men,</l>
+               <l>All done to death and ſtrangled in one day,</l>
+               <l>The end is this, that of that careleſſe rout,</l>
+               <l>That hath ſo far vnnaturallie rebeld,</l>
+               <l>The chiefe offenders may be puniſhed:</l>
+               <l>And thus you know my minde, and ſo my Lords proceed,</l>
+               <l>I pray you and no otherwiſe.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>Sith mercie in a Prince reſembleth right,</l>
+               <l>The gladſome ſunne-ſhine in a winters day,</l>
+               <l>Pleaſeth your Grace to pardon me to ſpeake:</l>
+               <l>When all the hope of life and breathing heere,</l>
+               <l>Be tane from all this rowt in generall,</l>
+               <l>If then at inſtant of the dying how<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>Your Graces Honorable pardon come,</l>
+               <l>To men halfe dead, kild wholie in conceit,</l>
+               <l>Then thinke I, it will be more Gratious,</l>
+               <l>Than if it offered were ſo haſtely:</l>
+               <l>VVhen thrid of life is almoſt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ret in twaine,</l>
+               <l>To giue it ſtrength breeds thankes, and wonders too.</l>
+            </sp>
+            <sp>
+               <speaker>Maior.</speaker>
+               <l>So many as are tane within the Cittie,</l>
+               <l>Are faſt in hold to know your Graces will,</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>There is but one or two in al the rowt,</l>
+               <l>VVhom we would haue to die for this offence,</l>
+               <l>Eſpecially that by name are noted men:</l>
+               <l>One is a naughtie and ſeditious Prieſt,</l>
+               <l>
+                  <pb facs="tcp:11642:21"/>
+They call him <hi>Ball,</hi> as we are let to know,</l>
+               <l>A perſon more notorious than the reſt,</l>
+               <l>But this I doe referre to your diſpoſe.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>Pleaſeth your Grace they haue bin rid apace,</l>
+               <l>Such ſpeciall men as we could poſſibly finde,</l>
+               <l>And many of the common rowt among:</l>
+               <l>And yet ſuruiues this <hi>Ball</hi> that curſed Prieſt,</l>
+               <l>And one <hi>Wat Tiler,</hi> leader of the reſt:</l>
+               <l>VVhoſe villanies and outragious cruelties,</l>
+               <l>Haue bin ſo barbourouſly executed:</l>
+               <l>The one with mallice of his traiterous taunts,</l>
+               <l>The other with the violence of his hands,</l>
+               <l>That gentle ruth nor mercie hath no eares,</l>
+               <l>To heare them ſpeake, much leſſe to pardon them.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>It is inough, I vnderſtand your mindes,</l>
+               <l>And well I wot in cauſes ſuch as theſe,</l>
+               <l>Kings may be found too full of clemencie:</l>
+               <l>But who are thoſe that enter in this place.</l>
+            </sp>
+            <sp>
+               <speaker>Newton.</speaker>
+               <l>Pleaſeth it your Grace, theſe be the men,</l>
+               <l>VVhom Law hath worthily condemnd to die,</l>
+               <l>Going to the place of execution:</l>
+               <l>The formoſt is that <hi>Ball,</hi> and next to him,</l>
+               <l>
+                  <hi>VVat Tyler,</hi> obſtinate Rebls both,</l>
+               <l>For all the reſt are of a better mould,</l>
+               <l>VVhoſe minds are ſofter than the formoſt twaine:</l>
+               <l>For being common ſouldiers in the campe,</l>
+               <l>VVere rather led with counſell of the reſt,</l>
+               <l>Deſeruing better to be pittied.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:22"/>
+               <speaker>King.</speaker>
+               <l>
+                  <hi>Morton</hi> to thoſe condemned men wee ſee,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this a Pardon to them all:</l>
+               <l>Excepti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g namelie thoſe two f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmoſt men.</l>
+               <l>I meane the Prieſt and him they call <hi>VVat Tyl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </l>
+               <l>To all the reſt free Pardon we doe ſend,</l>
+               <l>And giue the ſame to vnderſtand from vs.</l>
+            </sp>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <pb facs="tcp:11642:22"/>
+                        <head>The Kings Pardon deliuered by
+Sir Iohn Morton to the Rebels.</head>
+                        <p>
+                           <seg rend="decorInit">M</seg>Y friends and vnhappie Countrymen, whom
+the lawes of England, haue worthilie con<g ref="char:EOLhyphen"/>demned
+vnto death for your open and vnnatu<g ref="char:EOLhyphen"/>rall
+Rebellion againſt your lawfull Soue<g ref="char:EOLhyphen"/>raigne
+and annointed Prince. I am ſent vnto
+you from the Kinges moſt excellent Maieſtie to giue you to
+vnderſtand, that notwithſtanding this violence which you
+haue off<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>red to your ſelues, in running furiouſly into the
+daunger of the law, as mad and frantickemen vpon an ed<g ref="char:EOLhyphen"/>ged
+ſword: yet notwithſtanding I ſay, that you haue ga<g ref="char:EOLhyphen"/>thered
+rods to ſcourge your own ſelues, following deſperat<g ref="char:EOLhyphen"/>lie
+your lewd and miſgouerned heads, which haue hale<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> you
+on to this wretched and ſhamefull end which is now im<g ref="char:EOLhyphen"/>minent
+ouer you all, that muſt in ſtrangling cords die like
+dogs, a<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d finiſh your liues in this miſerable reprochful ſort,
+becauſe you would not liue like men: But far v<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>like your
+ſelues vnlike Engliſhmen, degenerate from your naturall
+obedience, &amp; nature of your country, that by kinde bringeth
+forth none ſuch, or at leaſt brooketh none ſuch, but ſpits the<g ref="char:cmbAbbrStroke">̄</g>
+out for baſtards and recreants: notwithſtanding I ſay, (this
+torment wherein you nowe liue looking euerie houre to
+ſuffer ſuch a ſhamefull and moſt deteſtable death, as doth
+commonly, belonge to ſuch horrible <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ff<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nders) yet it hath
+pleaſed the King of his accuſtomed goodnes to giue you
+<pb facs="tcp:11642:23"/>
+your liues, and freelie to forgiue you your faults ſending
+by mee generall Pardon to you all, excepting one onely
+accurſed and ſeditious Prieſt, that ſo far ſwar<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ed from the
+truth, and his alleageance to his Prince, and one <hi>Wat Tiler,</hi>
+whoſe outrage hath bin noted ſo outragious in al his actions
+as for enſample to all Engliſhmen hereafter, his Maieſtie
+hath thought good to account him &amp; this Parſon, (firſt ſtur<g ref="char:EOLhyphen"/>rers
+in this tumult, and vnnaturall rebelling) the greateſt
+offenders that now liue to grieue his Maieſtie: and thus I
+haue deliuered the meſſage of the King, which is in effect,
+generall pardon to you all, and a ſentence of death vnto the
+two Archrebels, <hi>Iohn Ball,</hi> and <hi>Wat Tyler:</hi> For which great
+Grace, if you thinke your ſelues any thinge bound to his
+highnes (as infinitely you are) let it appeare as farre forth
+hereafter as you may, either by outward ſignes of dutie, or
+inward loyaltie of harts expreſſed, and to begin the ſame,
+in ſigne of your thankefulnes, ſay all God ſaue the King.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <stage>Cry all, God ſaue the King.</stage>
+            <sp>
+               <speaker>Wat Tyler.</speaker>
+               <l>VVell then we know the worſt,</l>
+               <l>He can but hang vs, and that is all,</l>
+               <l>VVere <hi>Iacke Strawe</hi> a liue againe,</l>
+               <l>And I in as good poſſibility as euer I was,</l>
+               <l>I would lay a ſurer trumpe,</l>
+               <l>Ere I would loſe ſo faire a tricke.</l>
+            </sp>
+            <sp>
+               <speaker>Ball.</speaker>
+               <l>And what I ſaid in time of our buſines I repent not,</l>
+               <l>And if it were to ſpeake againe,</l>
+               <l>Euerie word ſhould be a whole ſermon,</l>
+               <l>So much I repent me.</l>
+            </sp>
+            <sp>
+               <speaker>Morton.</speaker>
+               <l>Awaie with the Rebels ſuffer them not to ſpeake,</l>
+               <l>
+                  <pb facs="tcp:11642:23"/>
+His words are poyſon in the eares of the people,</l>
+               <l>Away villaine, ſtaine to thy country and thy calling.</l>
+            </sp>
+            <sp>
+               <speaker>Wat Tyler.</speaker>
+               <l>VVhy <hi>Morton</hi> are you ſo luſtie with a pox,</l>
+               <l>I puld you out of Rocheſter Caſtell by the powle.</l>
+            </sp>
+            <sp>
+               <speaker>Morton.</speaker>
+               <l>And in recompence I will help to ſet your head on a pole.</l>
+            </sp>
+            <sp>
+               <speaker>Wat Tiler.</speaker>
+               <l>Pray you lets be powlde firſt.</l>
+            </sp>
+            <sp>
+               <speaker>Morton.</speaker>
+               <l>Away with the Rebels.</l>
+               <stage>Exeunt Rebels.</stage>
+               <l>As gaue your Grace in charge I haue deliuered,</l>
+               <l>Your highnes pleaſure amongſt the priſoners,</l>
+               <l>And haue proclaimed your Graces pardon amongſt the<g ref="char:cmbAbbrStroke">̄</g> all</l>
+               <l>Saue onely thoſe two vnnaturall Engliſhmen,</l>
+               <l>O might I ſay no Engliſh nor men,</l>
+               <l>That <hi>Ball</hi> and <hi>Tyler</hi> curſed Rebels both,</l>
+               <l>VVhom I commaunded to be executed:</l>
+               <l>And in your highnes name haue freed all the reſt,</l>
+               <l>VVhoſe thankefull harts I finde as full repleat,</l>
+               <l>VVith ſignes of ioy and dutie to your Grace,</l>
+               <l>As thoſe vnnaturall Rebels hatefull mouthes</l>
+               <l>Are full of foule ſpeaches, and vnhonourable.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>It is no matter <hi>Morton</hi> let them barke,</l>
+               <l>I trow they cannot bite when they be dead.</l>
+               <l>And Lord Maior for your valiant act,</l>
+               <l>And daungerous attempt in our behalfe,</l>
+               <l>To free your country and your King from ill:</l>
+               <l>In our behalfe and in our common weale,</l>
+               <l>VVe will accept it as the deed deſerues,</l>
+               <l>And thanke you for this honourable attempt.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11642:24"/>
+               <speaker>Maior.</speaker>
+               <l>VVhat ſubiects harts could brooke the rage of theirs,</l>
+               <l>To vaunt in preſence of their Soueraigne Lord,</l>
+               <l>To braue him to his face before his Pieres,</l>
+               <l>But would by pollicie or force attempt,</l>
+               <l>To quell the raging of ſuch furious foes?</l>
+               <l>My Soueraigne Lord, twas but my dutie done,</l>
+               <l>Firſt vnto God, next to my lawfull King,</l>
+               <l>Proceeding from a true and loyall hart,</l>
+               <l>And ſo I hope your Grace eſteemes thereof.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>To the end this deede ſhall reſt in memorie,</l>
+               <l>VVhich ſhall continue for euer to the end:</l>
+               <l>Lord Maior Ile adioyne to thy degree,</l>
+               <l>Another Title of a laſting fame.</l>
+               <l>Kneele downe <hi>William Walworth</hi> and receaue,</l>
+               <l>By mine owne hand the order of Knighthood:</l>
+               <l>Stand vp <hi>Sir William</hi> firſt Knight of thy degree,</l>
+               <l>But hence forth all which ſhall ſucceed thy place,</l>
+               <l>Shall haue like honour for thy Noble deede.</l>
+               <l>Beſides that Time, ſhall nere abridge thy fame,</l>
+               <l>The Cittie armes ſhall beare for memorie,</l>
+               <l>The bloody dagger the more for <hi>Walworths</hi> honour:</l>
+               <l>Call forth your Harrold and receaue your due.</l>
+            </sp>
+            <sp>
+               <speaker>Maior.</speaker>
+               <l>My Gratious Lord this honourable Grace</l>
+               <l>So <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deſert, ſith what I did</l>
+               <l>My du<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d alleagaunce bad me doe,</l>
+               <l>Binds me and my ſucceſſors euermore,</l>
+               <l>VVith ſweet incouragement to the like attempt.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Maieſtie and all, our Royall Pieres,</l>
+               <l>Shall finde your London ſuch a ſtore <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtill,</l>
+               <l>As not <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> commaund our wealth,</l>
+               <l>But loyal ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts the trea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure of a Prince,</l>
+               <l>
+                  <pb facs="tcp:11642:24"/>
+Shall growe like graines ſowne in <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyle,</l>
+               <l>And God I praiſe that with his holy <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Hath giuen me hart to free my Prince and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Then ſith theſe daungerous broiles are ouer paſt,</l>
+               <l>VVith ſhedding of ſo little Engliſh blood.</l>
+               <l>Tis for the fame and honour of a Prince,</l>
+               <l>VVell to reward the Actors of the ſame,</l>
+               <l>So many of thy bretheren as accompanied thee,</l>
+               <l>In Smithfield heere about this bold attempt,</l>
+               <l>VVhen time ſhall ſerue Ile Knight them as thou art</l>
+               <l>And ſo Lord <hi>Maior, Newton, Morton</hi> and the reſt,</l>
+               <l>Accompany vs to gard vs to the Tower,</l>
+               <l>VVhere wele repoſe and reſt our ſelues all night.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:11642:25" rendition="simple:additions"/>
+            <p>
+               <g ref="char:leaf">❧</g>Printed at London by Iohn
+Danter, and are to be ſold by VVilliam Bar<g ref="char:EOLhyphen"/>ley,
+at his ſhop in Gratious ſtreet ouer a<g ref="char:EOLhyphen"/>gainſt
+Leaden-Hall.
+1594.</p>
+            <pb facs="tcp:11642:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>

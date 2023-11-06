@@ -1,0 +1,568 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVorke for cutlers. Or, A merry dialogue betweene sword, rapier, and dagger Acted in a shew in the famous Vniuersitie of Cambridge.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A15707</idno>
+            <idno type="STC">STC 25981</idno>
+            <idno type="STC">ESTC S120294</idno>
+            <idno type="EEBO-CITATION">99855493</idno>
+            <idno type="PROQUEST">99855493</idno>
+            <idno type="VID">20988</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A15707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20988)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1017:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVorke for cutlers. Or, A merry dialogue betweene sword, rapier, and dagger Acted in a shew in the famous Vniuersitie of Cambridge.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Creede, for Richard Meighen and Thomas Iones; and are to be sold at S. Clements Church without Temple-barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1615.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "sword .. dagger." are enclosed in brackets on the title page.</note>
+                  <note>Signatures: [A]⁴ B⁴.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weapons --  Drama --  Early works to 1800.</term>
+               <term>Armor --  Drama --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20988:1"/>
+            <pb facs="tcp:20988:1"/>
+            <p>WORKE FOR CVTLERS.</p>
+            <p>
+               <hi>OR,</hi> A MERRY DIA<g ref="char:EOLhyphen"/>LOGVE BETWEENE <hi>Sword, Rapier, and Dagger.</hi>
+            </p>
+            <p>Acted in a Shew in the famous <hi>Vniuerſitie of Cambridge.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Thomas Creede,</hi> for <hi>Richard Meighen</hi> and <hi>Thomas Iones;</hi> and are to be ſold at S. <hi>Clements</hi> Church without Temple-barre. 1615.</p>
+         </div>
+      </front>
+      <body>
+         <div type="drama">
+            <pb facs="tcp:20988:2"/>
+            <pb facs="tcp:20988:2"/>
+            <head>WORKE FOR Cutlers: or, a merry Dialogue betweene
+<list>
+                  <item>
+                     <hi>Sword,</hi>
+                  </item>
+                  <item>
+                     <hi>Rapier,</hi>
+                  </item>
+                  <item>
+                     <hi>and Dagger.</hi>
+                  </item>
+               </list>
+            </head>
+            <stage>Enter Sword.</stage>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>
+                  <seg rend="decorInit">N</seg>Ay <hi>Rapier,</hi> come foorth, come forth I ſay, Ile giue thee a crowne, though it be but a crackt one: what wilt not? art ſo hard to be drawne forth <hi>Rapier?</hi>
+               </p>
+            </sp>
+            <stage>
+               <pb facs="tcp:20988:3"/>
+               <hi>Enter Rapier.</hi>
+            </stage>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>S'foot thou ſhalt know that <hi>Rapier</hi> dares enter: nay <hi>Backe-Sword.</hi>
+               </p>
+            </sp>
+            <stage>Enter Dagger, he holds Rapiers hands behinde him.</stage>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Whoſe this behinde me?</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Tis <hi>Dagger</hi> ſir; what will you neuer leaue your quarrelling?</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Well <hi>Sword, Dagger</hi> hath defen<g ref="char:EOLhyphen"/>ded you a good many times; but tis no mat<g ref="char:EOLhyphen"/>ter, another time ſhall ſerue: ſhall I get you out <hi>Sword</hi> alone, that I may haue you <hi>Single-ſword.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Yes if youle be ſingle <hi>Rapier</hi> too.</p>
+            </sp>
+            <sp>
+               <speaker>Dag.</speaker>
+               <p>Nay <hi>Sword,</hi> put the <hi>Caſe</hi> of <hi>Rapiers</hi> aſide, that there were two of them, I hope you were able to buckle with them.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Ile tell you what, if I goe into the Field with him, hang <hi>Sword</hi> vp if I doe not cut <hi>Rapiers</hi> poynts, and laſh him when I haue done: nay, you ſhall finde <hi>Sword</hi> mettle to the very backe: 'sfoot, my teeth be an edge at him.</p>
+            </sp>
+            <sp>
+               <speaker>Dag.</speaker>
+               <p>If you offer but to thruſt towards
+<pb facs="tcp:20988:3"/>him <hi>Rapier,</hi> Ile ſtrike you downe.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Hang him, I defie him baſe Spa<g ref="char:EOLhyphen"/>niard.</p>
+            </sp>
+            <sp>
+               <speaker>Rap.</speaker>
+               <p>Defie me? ſirrha <hi>Sword, Rapier</hi> ſpits i'thy face: dar'ſt meete mee i'the fields, cra<g ref="char:EOLhyphen"/>uenly Capon?</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Capon?</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>I Capon, ſo I ſay ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Dagg.</speaker>
+               <p>Why any man may ſee that thou art well caru'd <hi>Sword;</hi> and yet mee thinks that <hi>Rapier</hi> ſhould not ſpeake of that, for it's an hundred to one if he be not gilt too.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Well <hi>Rapier,</hi> if thou goeſt into the fields with me, Ile make a Capon of you before I haue done with you, you ſhall nere come home vncut Ile warrant you.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Nay, you ſhall finde <hi>Sword</hi> a notable Cutter.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>He a Cutter? alas he nere went into the fields yet, but he was ſoundly hackt before he came out</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Nere talke you of hacking, for it's a hundred to one if you haue not the <hi>Foyle-Rapier.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>'Sfoot if you be ſo <hi>Short-Sword, Rapier</hi> nere feares you: come a long.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Nay nere goe, for if you doe,
+<pb facs="tcp:20988:4"/>Ile ſende one after you, which ſhall ſcowre you both. The <hi>Cutler</hi> can doe it. I haue ſeene him handle you both brauely.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>The <hi>Cutler,</hi> Alas wee are the beſt Friends hee has, and if it were not for vs, the <hi>Cutler</hi> might ſoone ſhut vp his ſhoppe.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Alas <hi>Sword,</hi> you need not talke of his ſhutting vp of Shoppe, and if it had not beene for him, you had broken by this time <hi>Sword,</hi> Nay, nere talke: For you know hee can holde your noſe to the Grind-ſtone, when hee liſt.</p>
+               <p>And as for you <hi>Rapier,</hi> you knowe hee brought you vp firſt, and if you had ſtayed with him ſtill, it might haue bene better for you.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Better for mee? Alas hee knewe not how to vſe mee.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Hee vſde you too well indeede: for when you were with him he furniſht you with Siler and euery thing, but now you are worne out of all faſhion. You are euen like a Lapwing, you are no ſooner Hatcht <hi>Ra<g ref="char:EOLhyphen"/>pier,</hi> but you runne abroade preſently from him.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Yet I ſcorne to runne away from him.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:20988:4"/>
+               <speaker>Sword.</speaker>
+               <p>But it were more wiſedome then to ſtand: For the <hi>Cutler</hi> is a man as well Ar<g ref="char:EOLhyphen"/>med as any man I knowe, and has as good skill ins weapons.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Ha <hi>Sworde,</hi> is the winde in that Doore? Faith nowe I ſee which waye you ſtand bent <hi>Sworde,</hi> you had rather ſleepe in a whole skinne, then goe into the Fields to trye your ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Syr, <hi>Sword</hi> has bene proou'd be<g ref="char:EOLhyphen"/>fore now, and yet heele prooue himſelfe a<g ref="char:EOLhyphen"/>gaine with you, if you dare follow him.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Doe you heare <hi>Sworde?</hi> If you goe, looke for <hi>Dagger</hi> at your backs preſent<g ref="char:EOLhyphen"/>lie; For I am a Iuſtice of Peace, and am ſworne to keepe and defend the Peace.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Syr, wee will fight, and doe you take it in <hi>Dudgeon Dagger</hi> if you pleaſe: if you once offer to hinder vs, Ile ſo Pummell you <hi>Dagger,</hi> that you were neuer better Pummeld in your life; And howſoeuer, I hope theres Lawe againſt you as well as o<g ref="char:EOLhyphen"/>thers, and <hi>Rapier</hi> can put vp a <hi>Caſe</hi> againſt you.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Alas I care not if you were both Plaintifes againſt mee, you ſhall finde <hi>Dag<g ref="char:EOLhyphen"/>ger</hi> your Defendant Ile warrant you:
+<pb facs="tcp:20988:5"/>I, and if neede bee, I could put vp an Action of Batterie againſt you.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>What talke you of Law? <hi>Sword</hi> ſcornes to haue any other Law then <hi>Martiall</hi> law, and that vpon you <hi>Rapier.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Away <hi>Sworde,</hi> the Time was in<g ref="char:EOLhyphen"/>deed when thou waſt a notable Swaſh-buck<g ref="char:EOLhyphen"/>ler, but now thou art growne olde <hi>Sword.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>I, you doe well, to excuſe his Cowardiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Why Sir, tis well knowne that <hi>Sword</hi> has flouriſht in his dayes.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Flouriſht? yfaith Syr I, I haue ſeene <hi>Sword</hi> hang with nothing but Scarffes ere now.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>With Scarffes? with a Halter, if he had beene well ſeru'de, For hees a nota<g ref="char:EOLhyphen"/>ble Theefe.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>A Theefe?</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>I, a Thiefe. Did you nere heare of <hi>Cutting-Dicke,</hi> this is the very ſame man.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Nay <hi>Rapier,</hi> nere hit <hi>Sword</hi> ith teeth with that: for you know you were both Indited for treaſon before now, and were in danger to be hangd, and drawn too, and had eſcapt well if you had not bene quarterd.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>I hope knows how to keep his <hi>quarters</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>You are a craftie <hi>Foxe Sword:</hi> It
+<pb facs="tcp:20988:5"/>were well if you knewe howe to keepe your friendſhip too, for Gentlemen and Friendes ſhould not fall out.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>
+                  <hi>Rapier</hi> a Gentleman?</p>
+            </sp>
+            <sp>
+               <speaker>Rap.</speaker>
+               <p>A Gentleman? and has Armes.</p>
+            </sp>
+            <sp>
+               <speaker>Dag.</speaker>
+               <p>But mee thinkes <hi>Sworde</hi> by the very ſounding of his Name ſhould bee the better Gentleman, and has the better Armes too: for if the truth were well knowne, <hi>Rapier</hi> hath but one arme.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>
+                  <hi>Sword</hi> beare Armes? Hees a baſe companion. Alas I haue knowne you beare a Basket <hi>Sword.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dag.</speaker>
+               <p>If you looke ith <hi>booke of Armorie,</hi> Ile warrant you, you ſhall finde <hi>Sworde</hi> of more antiquitie then you <hi>Rapier:</hi> Hee deriues his Pedigree from <hi>Morglay, Beuis of South-hamp<g ref="char:EOLhyphen"/>tons ſword;</hi> and that from S. <hi>George his ſword,</hi> that killd the Draggon.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>I, <hi>the draggon in Suſſex,</hi> the other day: But Ile warrant you <hi>Rapiers</hi> of as good a blood as hee for his hart.</p>
+            </sp>
+            <sp>
+               <speaker>Dag.</speaker>
+               <p>Byth maſſe, I thinke indeed, you are both wel ſanguind. Your both of one blood, only thers this difference, that <hi>ſword</hi> coms of the elder brother, <hi>&amp; you Rapier</hi> of the yo<g ref="char:cmbAbbrStroke">̄</g>ger.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>And oftentimes the younger bro<g ref="char:EOLhyphen"/>ther prooues the better Souldier.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:20988:6"/>
+               <speaker>Dagger.</speaker>
+               <p>Nay, <hi>Dagger</hi> will defende you both for good Souldiers.</p>
+            </sp>
+            <sp>
+               <speaker>Sworde.</speaker>
+               <p>
+                  <hi>Rapier</hi> a Souldier? When did you ere knowe <hi>Rapier</hi> fight a Battell?</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Yes <hi>Rapier</hi> is a Souldier, and a Man as well Armed at all poyntes as anie one.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>No, no, its <hi>Sworde</hi> that's the no<g ref="char:EOLhyphen"/>table Souldier; Why, theres none of all you Captaines could doe anie thing in Warre without him.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>I hope <hi>Rapier</hi> hath not beene at Fencing-Schoole all this while for nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Alas there's none <hi>Maiſter of De<g ref="char:EOLhyphen"/>fence</hi> but <hi>Dagger:</hi> But yet if you ſpeake of Souldiers, the'rs Bow, Bill, and Gunne, worth twenty ſuch as wee are.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Indeed they ſay that Bow has bin an olde Souldier.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Yet hees not fit for a Souldier, any man may bende him as hee liſt.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>And as for Bow-ſtring, I dare vn<g ref="char:EOLhyphen"/>dertake to whip him my ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Then let mee alone to tickle <hi>Bowes</hi> ownes nocke yfaith.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>But what ſay you to <hi>Bill?</hi> hees a notable ſturdy villaine.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:20988:6"/>
+               <speaker>Sword.</speaker>
+               <p>
+                  <hi>Bill,</hi> Ile pay him ſoundly, if ere I reach him.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Its more then you can doe, Ime affraide; For <hi>Bill's</hi> a Tall-fellow ons hands, and will quickly be Wood: and then theres <hi>Gunne,</hi> ſuch another Bouncing-fellow too.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>
+                  <hi>Gunne,</hi> Alas hees No-body: any little Boy will make him roare.</p>
+               <p>I haue made him goe off 'oth Fieldes, a good many times my ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Well, is <hi>Gunne</hi> No-bodie? Ime ſure heel giue ſome blowes ſometimes.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Its' nere but when <hi>Powder</hi> ouer<g ref="char:EOLhyphen"/>charges him, then indeed heel be ſomewhat hote oth matter.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>I think that <hi>Powder</hi> is a vile brag<g ref="char:EOLhyphen"/>ger, he doth nothing but cracke.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Faith I knowe not what Souldi<g ref="char:EOLhyphen"/>er hee is, but they ſay, Hees an excellent pol<g ref="char:EOLhyphen"/>litician.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier,</speaker>
+               <p>Hee a Pollitician?</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Why, hee has an excellent wit?</p>
+            </sp>
+            <sp>
+               <speaker>Sword,</speaker>
+               <p>Piſh, Its nothing but a flaſh.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Ime ſure I can remember ſince he was a Parlement-man.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Hee a Parlement-man: For what Shyre?</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:20988:7"/>
+               <speaker>Dag.</speaker>
+               <p>Nay ber-lady, it was for the whole Countrey.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>I wonder they ſhould chuſe him: Why he does euery thing on the ſudden.</p>
+            </sp>
+            <sp>
+               <speaker>Dag.</speaker>
+               <p>Oh he plottes ſhrevvdly. If they had not look't too it, Hee had vndermined the vvhole parlement-houſe.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>I but hees No-body now-adayes, Hees blovvne vp long agoe.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Well, if eyther you, or any body elſe ſhuld meete with Povvder, yet its a hun<g ref="char:EOLhyphen"/>dred to one, if he meete not vvith his match.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Nay, you ſhould let him alone <hi>Dagger,</hi> and you ſhould ſee that <hi>Swords'</hi> as notable a bragger as Povvder. He thinks hee ſhall nere be matcht too: but hee ſhall, and ouer-matcht too, by <hi>Rapier;</hi> I vvarrant him. Come <hi>Sworde,</hi> after your long Parley, Dare you goe into the Fieldes?</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Dare I? You ſhall ſoone ſee that: Goe, and Ile follovv you.</p>
+            </sp>
+            <sp>
+               <speaker>Dag.</speaker>
+               <p>Well ſaide, deſperate <hi>Dicke. Sword,</hi> You may be aſham'd to offer it. You knovve you are tvvo-handed-<hi>Sworde,</hi> and <hi>Rapier</hi> has but one hand (vnleſſe I helpe him) to do any good vvithall, and yet youde haue him go in<g ref="char:EOLhyphen"/>to the Fieldes vvith you. Come, theres ney<g ref="char:EOLhyphen"/>ther of you ſhall goe. Doe not you knovve
+<pb facs="tcp:20988:7"/>that Duells are put downe?</p>
+               <p>Youle bee bound to'th Peace euer heere-after, if you ſtrike but one ſtroke. Therefore you had beſt let me decide your controuerſie for you.</p>
+            </sp>
+            <sp>
+               <speaker>Sword.</speaker>
+               <p>Why, you are a backe-Friend to vs both <hi>Dagger.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Nay, you knowe Ime equally al<g ref="char:EOLhyphen"/>lyed to you both, and therefore ſhall proue an impartiall Iudge: How ſay you, will you be rulde by me?</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Nay let him chooſe, <hi>Rapiers</hi> at a good poynt, whether he will or no.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Why are are you ſo long <hi>Sword</hi> before you ſpeake?</p>
+            </sp>
+            <sp>
+               <speaker>Sworde.</speaker>
+               <p>Are duells put downe? Then I am forc'de to be Friends: Speake then.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Then in briefe it ſhall bee thus. <hi>Sworde,</hi> you ſhall beare Chiefe force ith Campe, and be made Generall of the Field, to beare ſway euery where. As for you <hi>Ra<g ref="char:EOLhyphen"/>pier,</hi> ſince Duells are put downe, you ſhall liue quietly and peaceablie heere 'ith Court, and goe euery day in Veluet: You ſhall be Frendes with euerie one, and bee on euery ones ſide, that if occaſion ſerue, and <hi>Sworde</hi> be abſent, ſo that matters are driue<g ref="char:cmbAbbrStroke">̄</g> to a puſh,
+<pb facs="tcp:20988:8"/>
+                  <hi>Rapier</hi> ſhall be the onely man to performe a Combate: And I my ſelfe will backe you both, as occaſion ſhall ſerue.</p>
+               <p>How ſay yee, are yee content?</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>Wee are.</p>
+            </sp>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <p>Then goe before to my Houſe, to the <hi>Dagger</hi> in <hi>Cheape:</hi> and there weele conclude all.</p>
+            </sp>
+            <sp>
+               <speaker>Rapier.</speaker>
+               <p>A <hi>Long-Sword.</hi>
+               </p>
+            </sp>
+            <stage>
+               <hi>Exeunt, Sworde</hi> and <hi>Rapier.</hi>
+            </stage>
+            <sp>
+               <speaker>Dagger.</speaker>
+               <l>
+                  <hi>Our weapons drawne, and yet no hurt yee finde,</hi>
+               </l>
+               <l>
+                  <hi>Did Dagger then defend vnto your minde?</hi>
+               </l>
+               <l>
+                  <hi>Hee that defended others not long ſence,</hi>
+               </l>
+               <l>
+                  <hi>At laſt hee dares not ſtand ins owne defence;</hi>
+               </l>
+               <l>
+                  <hi>But this hee hopes, with you it will ſuffize,</hi>
+               </l>
+               <l>
+                  <hi>To craue a pardon for a Schollers Prize.</hi>
+               </l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:20988:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>

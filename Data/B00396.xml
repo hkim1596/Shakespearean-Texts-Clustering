@@ -1,0 +1,2709 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Campaspe, played beefore the Queenes Maiestie on newyeares day at night, by her Maiesites children, and the children of Paules.</title>
+            <title>Alexander and Campaspe</title>
+            <author>Lyly, John, 1554?-1606.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1584</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00396</idno>
+            <idno type="STC">STC 17048A</idno>
+            <idno type="STC">ESTC S94063</idno>
+            <idno type="EEBO-CITATION">44920364</idno>
+            <idno type="OCLC">ocm 44920364</idno>
+            <idno type="VID">173809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2099:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Campaspe, played beefore the Queenes Maiestie on newyeares day at night, by her Maiesites children, and the children of Paules.</title>
+                  <title>Alexander and Campaspe</title>
+                  <author>Lyly, John, 1554?-1606.</author>
+               </titleStmt>
+               <extent>[54] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Thomas Cadman,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1584.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A³⁽⁴⁾, A-E⁴, G⁴.</note>
+                  <note>Written by John Lyly; cf. Baker, D.E.  Biog. drama., 1764: v. 1, p. 290.</note>
+                  <note>Reproduction of original in: Dyce Collection, Victoria and Albert Museum.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alexander, --  the Great, 356-323 B.C. --  Drama.</term>
+               <term>Campaspe --  Drama.</term>
+               <term>Diogenes, d. ca. 323 B.C. --  Drama.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173809:1"/>
+            <pb facs="tcp:173809:1" rendition="simple:additions"/>
+            <p>Campaſpe, Played beefore the <hi>Queenes Maieſtie on</hi> newyeares day at night, by her <hi>Maieſties Children, and the Children of Paules.</hi> (⁂)</p>
+            <p>¶ <hi>Imprinted at London</hi> for Thomas Cadman, 1584.</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:173809:2"/>
+            <pb facs="tcp:173809:2"/>
+            <pb facs="tcp:173809:3"/>
+            <pb facs="tcp:173809:3"/>
+            <head>The Prologue at the Court.</head>
+            <p>VVEe are aſhamed that our birde which flutte<g ref="char:EOLhyphen"/>red by twilight ſeeming a ſwan, ſhould bee proued a Batte ſet againſt the ſunne. But as <hi>Iupiter</hi> pla<g ref="char:EOLhyphen"/>ced <hi>Silenus</hi> Aſſe among the ſtarres, and <hi>Alcebiades</hi> coue<g ref="char:EOLhyphen"/>red his pictures beeing Owles and Apes, with a cour<g ref="char:EOLhyphen"/>taine embroidered with Lions and Eagles, ſo are we en<g ref="char:EOLhyphen"/>forced vpon a rough diſcource to drawe on a ſmooth excuſe reſembling Lapidaries, who thinke to hide the crake in a ſtone by ſetting it deepe in golde. The Gods ſupped once with poore <hi>Baucis,</hi> the Perſian kings ſome<g ref="char:EOLhyphen"/>times ſhaued ſtickes, our hope is, your heighneſſe wil at this time lend an eare to an idle paſtime. <hi>Appion</hi> raiſing <hi>Homere</hi> from hell, demanded onely who was his father, and we calling <hi>Alexander</hi> from his graue, ſeeke onely who was his loue. Whatſoeuer we preſent, we wiſh it may be thought the daunſing of <hi>Agrippa</hi> his ſhadowes: who, in the moment they were ſeene, were of any ſhape one woulde conceiue: or <hi>Lynces,</hi> who hauing a quicke ſight to diſcerne, haue a ſhort memorie to forget. With vs it is like to fare, as with theſe torches, which giuing light to others, conſume themſelues, and wee ſhewing delight to others, ſhame our ſelues.</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:173809:4"/>
+            <pb facs="tcp:173809:4"/>
+            <head>The Prologue at the Black fryers.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hey that feare the ſtinging of waſpes make fannes of peacockes tailes, whoſe ſpots are like eies. And <hi>Lepidus,</hi> which coulde not ſleepe for the chatting of birdes, ſet vp a beaſte, whoſe head was like a dragon: and we which ſtande in awe of reporte, are compelled to ſette beefore our owle <hi>Pallas</hi> ſhield thinking by her vertue to couer the others deformitie. It was a ſigne of famine to Aegypte, when <hi>Nilus</hi> flowed leſſe then twelue Cubites, or more then eighteene: and it may threaten diſpaire vnto vs, if we be leſſe curious then you looke for, or more comberſome. But as <hi>Theſeus</hi> being promiſed to be brought to an Ea<g ref="char:EOLhyphen"/>gles neaſt, and trauailing al the day, found but a wrenne in a hedg, yet ſaid, this is a bird: ſo we hope if the ſhower of our ſwelling mountaine ſeeme to bring foorth ſome Eliphant, perfourme but a mouſe, you will gently ſay, this is a beaſt. Baſill ſoftly touched, yeeldeth a ſweete ſent but chafed in the hand, a ranke ſauour. Wee feare euen ſo that our labours ſlylye glaunced on, will breede ſome content, but examined to the proofe, ſmall com<g ref="char:EOLhyphen"/>mendation. The haſte in performing ſhall bee our ex<g ref="char:EOLhyphen"/>cuſe. There went two nightes to the begetting of <hi>Her<g ref="char:EOLhyphen"/>cules.</hi> Feathers appeare not on the Phoenix vnder ſeauen monethes, and the mulbery is twelue in budding, but our trauailes are like the Hares, who at one time brin<g ref="char:EOLhyphen"/>geth foorth, nouriſheth, and engendreth againe, or like the broode of <hi>Trochilus,</hi> whoſe egges in the ſame mo<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:173809:5"/>that they are layd, become birdes. But howſoeuer we finiſh our worke, we craue pardo<g ref="char:cmbAbbrStroke">̄</g>, if we offend in mat<g ref="char:EOLhyphen"/>ter, and patience if we tranſgreſſe in manners. We haue mixed mirth with counſell, and diſcipline with delight, thinking it not amiſſe, in the ſame garden to ſowe pot<g ref="char:EOLhyphen"/>hearbes, that we ſet flowers. But we hope, as Harts that caſt their hornes, Snakes their skinnes, Eagles their bils, become more freſh for any other labour: ſo our charge being ſhaken of, we ſhalbe fitte for greater matters. But leaſt like the <hi>Mindyans,</hi> we make our gates greater then our towne, and that our play runnes out at the preface, we here conclude: wiſhing that although there bee in your preciſe iudgementes an vniuerſall miſlike, yet wee maye enioy by your woonted courtiſies a general ſile<g ref="char:cmbAbbrStroke">̄</g>ce</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="act">
+            <div n="1" type="scene">
+               <pb facs="tcp:173809:5"/>
+               <head>Actus primus. Schaena prima.</head>
+               <stage>Clytus, Permenio, Timoclea, Campaſpe, Alexander, Hepheſtion.</stage>
+               <sp>
+                  <speaker>Clyt.</speaker>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">P</seg>Armenio</hi> I cannot tel whether I ſhould more commend in <hi>Alex<g ref="char:EOLhyphen"/>anders</hi> victories, courage, or cur<g ref="char:EOLhyphen"/>teſie, in the one being a reſolu<g ref="char:EOLhyphen"/>tion without feare in the other a liberality aboue cuſtome: <hi>The<g ref="char:EOLhyphen"/>bes</hi> is rayſed, the people not racked, towers throwne down, bodies not thruſt aſide, a conqueſt without con<g ref="char:EOLhyphen"/>flict, and a cruell warre in a milde peace.</p>
+               </sp>
+               <sp>
+                  <speaker>Parmenio.</speaker>
+                  <p>
+                     <hi>Clytus,</hi> it becommeth the ſonne of <hi>Phillip</hi> to be none other then <hi>Alexander</hi> is: therfore ſeeing in the father a ful perfection, who could haue doubted in the ſon an excellencie. For as the moone can borrow nothing els of the ſunne but light, ſo of a ſire, in whome nothing but vertue was, what coulde the childe receiue but ſingular? it is for <hi>Turkies</hi> to ſtaine each other, not for <hi>Diamondes,</hi> in the one to bee made a difference in goodnes, in the other no compariſion.</p>
+               </sp>
+               <sp>
+                  <speaker>Clytus</speaker>
+                  <p>You miſtake mee <hi>Parmenio,</hi> if whileſt I com<g ref="char:EOLhyphen"/>mend <hi>Alexander,</hi> you imagine I call <hi>Phillip</hi> into queſti<g ref="char:EOLhyphen"/>on, vnleſſe happely you coniecture (which none of iudg<g ref="char:EOLhyphen"/>ment will conceiue) that becauſe I like the fruit, there<g ref="char:EOLhyphen"/>fore I heaue at the tree, or coueting to kiſſe the child, I therfore go about to poyſon the teat.</p>
+               </sp>
+               <sp>
+                  <speaker>Parme.</speaker>
+                  <p>I but <hi>Clytus,</hi> I perceiue you are borne in the Eaſt, and neuer laugh but at the ſunne riſing, which ar<g ref="char:EOLhyphen"/>gueth though a duetie where you ought, yet no great deuotion where you might.</p>
+               </sp>
+               <sp>
+                  <speaker>Clytus</speaker>
+                  <p>We will make no controuerſie of that which there ought to be no queſtion, onely this ſhal be the o<g ref="char:EOLhyphen"/>pinion
+<pb facs="tcp:173809:6"/>of vs both, that none was worthy to be the fa<g ref="char:EOLhyphen"/>ther of <hi>Alexander</hi> but <hi>Phillip,</hi> nor any meete to bee the ſonne of <hi>Phillip</hi> but <hi>Alexander.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Parme.</speaker>
+                  <p>Soft <hi>Clytus,</hi> behold the ſpoiles &amp; priſoners, a pleaſaunt ſight to vs, becauſe profit is ioyned with ho<g ref="char:EOLhyphen"/>nour, not much paineful to them, becauſe their captiui<g ref="char:EOLhyphen"/>tie is eaſed by mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>Timo.</speaker>
+                  <p>Fortune, thou didſt neuer yet deceiue vertue, becauſe vertue neuer yet did truſt fortune. Sworde and fire will neuer get ſpoyle, where wiſdome and fortitude beares ſway. O <hi>Thebes,</hi> thy walles were rayſed by the ſweetneſſe of the harpe, but raced by the ſhrilnes of the trumpet. <hi>Alexander</hi> had neuer come ſo neere the wals. had <hi>Epaminondas</hi> walkt about the walles, and yet might the <hi>Thebanes</hi> haue beene mery in there ſtreetes, if he had beene to watch their to wers. But deſtinie is ſeldome foreſeene, neuer preuented. We are here now captiues, whoſe neckes are yoaked by force, but whoſe harts can not yeelde by death. Come <hi>Campaſpe</hi> and the reſt, let vs not be aſhamed to caſt our eyes one him, on whom wee feared not to caſt our dartes.</p>
+               </sp>
+               <sp>
+                  <speaker>Parme.</speaker>
+                  <p>Madame, you neede not doubt, it is <hi>Alexan<g ref="char:EOLhyphen"/>der,</hi> that is, the conquerour.</p>
+               </sp>
+               <sp>
+                  <speaker>Timo.</speaker>
+                  <p>
+                     <hi>Alex.</hi> hath ouercome, not conquered.</p>
+               </sp>
+               <sp>
+                  <speaker>Parme.</speaker>
+                  <p>To bring al vnder his ſubiection is to co<g ref="char:cmbAbbrStroke">̄</g>quer.</p>
+               </sp>
+               <sp>
+                  <speaker>Timo.</speaker>
+                  <p>He cannot ſubdue that which is diuine.</p>
+               </sp>
+               <sp>
+                  <speaker>Parme</speaker>
+                  <p>
+                     <hi>Thebes</hi> was not.</p>
+               </sp>
+               <sp>
+                  <speaker>Timo.</speaker>
+                  <p>Vertue is.</p>
+               </sp>
+               <sp>
+                  <speaker>Clytus.</speaker>
+                  <p>
+                     <hi>Alexander</hi> as he tendreth vertue, ſo he Will you, he drinketh not bloud, but thirſteth after honor, he is greedy of victory, but neuer ſatified with mercy. In fight terrible, as becometh a captaine, in conqueſte milde, as beſeemeth a king. In al things, then which no<g ref="char:EOLhyphen"/>thing can be greater, he is <hi>Alexander.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Then if it be ſuch a thing to be <hi>Alexander,</hi> I hope it ſhalbe no miſerable things to be a virgin. For if
+<pb facs="tcp:173809:6"/>he ſaue our honors, it is more the<g ref="char:cmbAbbrStroke">̄</g> to reſtore our goods. And rather doe I wiſh hee preſerue our fame, then our lyues, which if he do, wee will confeſſe there can be no greater thing then to be <hi>Alexander.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Clitus,</hi> are theſe priſoners? of whe<g ref="char:cmbAbbrStroke">̄</g>ce theſe ſpoiles?</p>
+               </sp>
+               <sp>
+                  <speaker>Cly.</speaker>
+                  <p>Like your maieſty, they are priſoners, &amp; of <hi>Thebes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Of what calling or reputation?</p>
+               </sp>
+               <sp>
+                  <speaker>Cly.</speaker>
+                  <p>I know not, but they ſeeme to be Ladies of honor.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I wil know. Madam, of whence you are I know: but who I cannot tell.</p>
+               </sp>
+               <sp>
+                  <speaker>Timo.</speaker>
+                  <p>
+                     <hi>Alexander,</hi> I am the ſiſter of Theagenes, who fought a battle with thy father before the City of <hi>Chy<g ref="char:EOLhyphen"/>ronie,</hi> where he died, I ſay which no<g ref="char:cmbAbbrStroke">̄</g>e ca<g ref="char:cmbAbbrStroke">̄</g> gainſay, valia<g ref="char:cmbAbbrStroke">̄</g>tly.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Lady, there ſeeme in your words ſparkes of your brothers deedes, but woorſer fortune in your life then his death: but feare not, for you ſhall liue without violence, enemies, or necesſitie, but what are you fayre Lady, another ſiſter to <hi>Theagines?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>No ſiſter to <hi>Theagines,</hi> but an humble hand<g ref="char:EOLhyphen"/>maid to <hi>Alexander,</hi> borne of a meane parentage, but to extreame fortune.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Well Ladies, for ſo your vertues ſhew you, whatſoeuer your birthes be, you ſhal be honourably en<g ref="char:EOLhyphen"/>treated. <hi>Athens</hi> ſhalbe your <hi>Thebes,</hi> &amp; you ſhal not be as abiectes of warre, but as ſubiectes to <hi>Alexander Perme<g ref="char:EOLhyphen"/>nio,</hi> conducte theſe honourable Ladies into the Citie: charge the ſouldiers not ſo much as in wordes to offer them any offence, and let all wants be ſupplyed, ſo farre forth as ſhalbe neceſſary for ſuch perſons &amp; my priſo<g ref="char:EOLhyphen"/>ners.</p>
+                  <stage>Exeunt Parme. &amp; captiui.</stage>
+               </sp>
+               <p>
+                  <hi>Hepheſtion,</hi> it reſteth now that we haue as great care to gouerne in peace, as conquer in war: that whileſt armes ceaſe, artes may flouriſh, and ioyning letters with laun<g ref="char:EOLhyphen"/>ces, we endeuor to be as good Philoſophers as ſoldiers, knowing it no leſſe praiſe to be wiſe, the<g ref="char:cmbAbbrStroke">̄</g> commendable to be vailiant.</p>
+               <pb facs="tcp:173809:7"/>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>Your Maieſtie therin ſheweth that you haue as great deſire to rule as to ſubdue, &amp; needes muſt that common wealth be fortunate, whoſe captaine is a Phi<g ref="char:EOLhyphen"/>loſopher, and whoſe Philoſopher is a Captaine.</p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="2" type="scene">
+               <head>Actus primus, Schaena ſecunda.</head>
+               <stage>Manes, Granichus, Pſyllus.</stage>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>I ſerue in ſteede of a maiſter, a mouſe, whoſe houſe is a tub, whoſe dinner is a cruſt, and whoſe boord is a bed.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus.</speaker>
+                  <p>Then art thou in a ſtate of life, which Philo<g ref="char:EOLhyphen"/>ſophers commend. A crumme for thy ſupper, an hande for thy cup, and thy clothes for thy ſheetes. I or <hi>Natura paucis contenta.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>
+                     <hi>Manes,</hi> it is pittie ſo proper a man ſhould be caſt away vppon a Philoſopher: but that <hi>Diogenes</hi> that dogge ſhould haue <hi>Manes,</hi> that dogbolt, it greeneth na<g ref="char:EOLhyphen"/>ture and ſpiteth arte, the one hauing found thee ſo diſ<g ref="char:EOLhyphen"/>ſolute, abſolute I would ſay, in body, the other ſo ſingle ſingular in minde.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Are you mery, it is a ſigne by the trip of your tongue, and the toyes of your head, that you haue done that to day, which I haue not done theſe three dayes.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus.</speaker>
+                  <p>What is that?</p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>Dined.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>I thinke <hi>Diogenes</hi> keepes but cold cheere.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>I would it were ſo, but hee keepeth neither hot nor cold.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>What then, lucke warme? That made <hi>Manes</hi> runne from his maiſter laſt day.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus.</speaker>
+                  <p>
+                     <hi>Manes</hi> had reaſon: for his name foretold as much.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>My name? how ſo ſir boy?</p>
+               </sp>
+               <pb facs="tcp:173809:7"/>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>You know that it is called <hi>Mons, à mouendo,</hi> be<g ref="char:EOLhyphen"/>cauſe it ſtandes ſtill.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Good.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>And thou art named <hi>Manes, à manendo,</hi> bee<g ref="char:EOLhyphen"/>cauſe thou runſt away.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Pasſing reaſons, I did not runne awaye, but re<g ref="char:EOLhyphen"/>tire.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>To a priſon, becauſe thou woldeſt haue leiſure to contemplate.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>I will proue that my body was immortall: bee<g ref="char:EOLhyphen"/>cauſe it was in priſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>As how?</p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>Didde your maiſters neuer teach you that the ſoule is immortall?</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>And the body is the priſon of the ſoule.</p>
+               </sp>
+               <sp>
+                  <speaker>Gran.</speaker>
+                  <p>True.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>Why then, thus to make my body immortal, I put it to priſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Oh bad.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus.</speaker>
+                  <p>Excellent ill.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>You may ſee how dull a faſting wit is: therfore <hi>Pſyllus</hi> let vs go to ſupper with <hi>Granichus: Plato</hi> is the beſt fellow of al Phyloſophers. Giue me him that reades in the morning in the ſchoole, and at noone in the kit<g ref="char:EOLhyphen"/>chin.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyl.</speaker>
+                  <p>And me.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Ah ſirs, my maiſter is a king in his parlour for the body, and a God in his ſtudy for the ſoule. Among all his menne he commedeth one that is an excellent Muſition, then ſtand I by, &amp; clap another on the ſhoul<g ref="char:EOLhyphen"/>der, and ſay, this is a pasſing good Cooke.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>It is well doone <hi>Granichus,</hi> for giue me plea<g ref="char:EOLhyphen"/>ſure that goes in at the mouth, not the eare, I had rather fill my guttes, then my braines.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus.</speaker>
+                  <p>I ſerue <hi>Apelles,</hi> whoe feedeth mee as <hi>Dioge<g ref="char:EOLhyphen"/>nes</hi>
+                     <pb facs="tcp:173809:8"/>doth <hi>Manes,</hi> for at dinner the one preacheth abſti<g ref="char:EOLhyphen"/>nence, the other commendeth counterfeiting: when I would eat meat, he paintes a ſpit, &amp; whe<g ref="char:cmbAbbrStroke">̄</g> I thirſt, O ſaith he, is not this a faire pot, and points to a table, whiche co<g ref="char:cmbAbbrStroke">̄</g>teines the banquet of the Gods, where are many di<g ref="char:EOLhyphen"/>ſhes to feede the eie, but not to fill the gut.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>What dooſt thou then?</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>This doeth hee then bring in many examples that ſome haue liued by ſauours, &amp; proueth that much eaſier it is to fatte by colours: and telles of birdes that haue beene fatted by painted grapes in winter: &amp; how many haue ſo fed their eies with their miſtreſſe picture, that they neuer deſired to take food, being glutted with the delight in their fauours. Then doth he ſhew me cou<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>terfeits, ſuch as haue ſurfeited with their filthy &amp; loth<g ref="char:EOLhyphen"/>ſome vomits, and with the riotous Bacchanalles of the God <hi>Bacchus,</hi> &amp; his diſorderly crew, which are painted al to the life in his ſhop. To co<g ref="char:cmbAbbrStroke">̄</g>clude, I fare hardly, thogh I go richly, which maketh me when I ſhuld begin to ſha<g ref="char:EOLhyphen"/>dow a Ladies face, to draw a Lambes head, &amp; ſometime to ſet to the body of a maide a ſhoulder of mutton: for <hi>ſemper animus meus eſt in patinis.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Thou art a God to me: for could I ſee but a Cookes ſhop painted, I would make mine eyes fatte as butter. For I haue nought but ſentences to fil my maw, as <hi>plures occidit crapula quàm gladius, muſa ieiunantibus a<g ref="char:EOLhyphen"/>mica:</hi> repletion killeth delicately: &amp; an old ſaw of abſti<g ref="char:EOLhyphen"/>nence, <hi>Socrates,</hi> The belly is the heads greue. Thus with ſayings not with meate he maketh a gally mafrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>But how doeſt thou then liue?</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>With fine ieſts, ſweet aire, &amp; the dogs almes.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Wel for this time I wil ſtanch thy gut, &amp; amo<g ref="char:cmbAbbrStroke">̄</g>g pots &amp; platters thou ſhalt ſee what it is to ſerue <hi>Plato.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus.</speaker>
+                  <p>For ioy of <hi>Granichus</hi> lets ſing.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>My voice is as cleare in the euening as in the morning.</p>
+               </sp>
+               <pb facs="tcp:173809:8"/>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Another commodity of emptines.</p>
+               </sp>
+               <stage>ſong.</stage>
+            </div>
+            <div n="3" type="scene">
+               <head>Actus primus, Schaena tertia,</head>
+               <stage>Melipus, Plato, Ariſtotle, Criſippus, Crates, Cleanthes. Anaxarchus, Alexander, Hepheſtion, Parme<g ref="char:EOLhyphen"/>nio, Clytus, Diogenes.</stage>
+               <sp>
+                  <speaker>Melip,</speaker>
+                  <p>I had neuer ſuch a doe to warne ſchollers to come before a king. Firſt, I cam to <hi>Criſippus</hi> a tall leane old mad man, willing him preſently to appeare before <hi>Alexander,</hi> he ſtoode ſtaring on my face, neither mouing his eies nor his body, I vrging him to giue ſome anſwer, hee tooke vp a booke, ſate downe, and ſaide nothing: <hi>Meliſſa</hi> his maid told me it was his manner, and that of<g ref="char:EOLhyphen"/>te<g ref="char:cmbAbbrStroke">̄</g>times ſhe was fain to thruſt meate into his mouth: for that he wold rather ſtarue the<g ref="char:cmbAbbrStroke">̄</g> ceaſſe ſtudie. Well thoght I, ſeeing bookiſh men are ſo blockiſh, &amp; ſo great clarkes ſuch ſimple courtiers, I wil neither be partaker of their co<g ref="char:cmbAbbrStroke">̄</g>mons nor their comme<g ref="char:cmbAbbrStroke">̄</g>dations. Fro<g ref="char:cmbAbbrStroke">̄</g> thence I came to <hi>Plato</hi> &amp; to <hi>Ariſtotle,</hi> and to diuerſe other, none refuſing to come, ſauing an old obſcure fellowe, who ſitting in a tub turned towardes the ſunne, reade Greek to a yong boy, him when I willed to appeare before <hi>Alexander,</hi> he anſweared, if <hi>Alexander</hi> wold faine ſee me, let him come to mee, if learne of me, lette him come to me, whaſoe<g ref="char:EOLhyphen"/>uer it be, let him come to me. why, ſaid I, he is a king, he anſwered, why I am a Philoſopher, why, but he is <hi>Alex<g ref="char:EOLhyphen"/>ander:</hi> I but I am <hi>Diogenes.</hi> I was halfe angry to ſee one ſo crooked in his ſhape, to be ſo crabbed in his ſayings. So going my way, I ſaid thou ſhalt repent it, if thou co<g ref="char:cmbAbbrStroke">̄</g>meſt not to <hi>Alexander:</hi> nay ſmiling anſwered he: <hi>Alexander</hi> may repent it, if he come not to <hi>Diogenes,</hi> vertue muſt be ſought, not offered: and ſo turning himſelf to his cel, he grunted I know not what, like a pig vnder a tub. But I muſt be gone, the Philoſophers are comming.
+<stage>Exit.</stage>
+                  </p>
+               </sp>
+               <pb facs="tcp:173809:9"/>
+               <sp>
+                  <speaker>Plato.</speaker>
+                  <p>It is a difficult controuerſie, <hi>Aristotle,</hi> and ra<g ref="char:EOLhyphen"/>ther to be wondred at, then beleeued, how natural cau<g ref="char:EOLhyphen"/>ſes ſhould worke ſupernatural effects.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>I doe not ſo much ſtand vpon the apparition is ſeene in the Moone, neither the <hi>Demonium</hi> of <hi>Socrates,</hi> as that I cannot by naturall reaſon giue any reaſon of the ebbing and flowing of the Sea, which makes me in the depth of my ſtudies to crye out, <hi>O ens entium, miſere<g ref="char:EOLhyphen"/>re mei.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Plato.</speaker>
+                  <p>
+                     <hi>Cleanthes</hi> and you attribute ſo muche to na<g ref="char:EOLhyphen"/>ture by ſearching for things which are not to be found, that whileſt you ſtudie a cauſe of your owne, you omitte the occaſion it ſelfe. There is no man ſo ſauage in whom reſteth not this diuine particle, that there is an omni<g ref="char:EOLhyphen"/>potent, eternal and deuine mouer, which may be called God.</p>
+               </sp>
+               <sp>
+                  <speaker>Cleant.</speaker>
+                  <p>I am of this minde, that that firſt mouer, which you tearme God, is the inſtrument of all the mo<g ref="char:EOLhyphen"/>uings, which we attribute to nature. The earth which is maſſe, ſwimmeth on the ſea, ſeaſons deuided in them<g ref="char:EOLhyphen"/>ſelues, fruits growing in themſelues, the maieſtie of the skie, the whole firmament of the world, &amp; whatſoeuer els appeareth miraculous, what man almoſt of meane capacity but can proue it naturall.</p>
+               </sp>
+               <sp>
+                  <speaker>Anaxar.</speaker>
+                  <p>Theſe cauſes ſhalbe debated at our Philoſo<g ref="char:EOLhyphen"/>phers feaſt, in which controuerſie I wil take parte with <hi>Ariſtotle,</hi> that there is <hi>Natura naturans,</hi> &amp; yet not God.</p>
+               </sp>
+               <sp>
+                  <speaker>Craterus.</speaker>
+                  <p>And I with <hi>Plato,</hi> that there is <hi>Deus optimus maximus,</hi> and not nature.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>Here commeth <hi>Alexander.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I ſee <hi>Hepheſtion,</hi> that theſe Philoſophers are here attending for vs.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>They were not Philoſophers, if they knew not their dueties.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>But I much maruaile <hi>Diogenes</hi> ſhoulde be ſo dogged.</p>
+               </sp>
+               <pb facs="tcp:173809:9"/>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>I doe not think but his excuſe wilbe better then <hi>Melippus</hi> meſſage.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I will go ſee him <hi>Hepheſtion,</hi> becauſe I long to ſee him that would commaund <hi>Alexander</hi> to come, to whom al the world is like to come. <hi>Ariſtotle</hi> &amp; the reſt ſithence my comming from <hi>Thebes</hi> to <hi>Athens,</hi> from a place of conqueſt to a pallace of quiet, I haue reſolued with my ſelf in my court to haue as many Philiſophers, as I had in my camp ſoldiers. My court ſhalbe a ſchole, wherein I wil haue vſed as great doctrine in peace, as I did in warre diſcipline.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>We are al here ready to be commaunded, &amp; glad we are that we are commaunded: for that nothing better becommeth kings the<g ref="char:cmbAbbrStroke">̄</g> literature, which maketh them come as neere to the Gods in wiſdome, as they do in dignitie.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>It is ſo <hi>Ariſtotle:</hi> but yet there is among you, yea &amp; of your bringing vp, that ſought to deſtroy <hi>Alex<g ref="char:EOLhyphen"/>ander: Caliſtenes, Ariſtotle,</hi> whoſe treaſons againſte his prince ſhall not bee borne out with the reaſons of his Phyloſophy.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>If euer miſchiefe entred into the heart of <hi>Caliſtenes,</hi> let <hi>Caliſtenes</hi> ſuffer for it, but that <hi>Ariſtotle</hi> euer imagined any ſuch thing of <hi>Caliſtenes, Ariſtotle</hi> doth de<g ref="char:EOLhyphen"/>nie.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Well <hi>Ariſtotle,</hi> kindred may blind thee, and affection mee, but in kinges cauſes I will not ſtande to ſchollers arguments. This meeting ſhalbe for a co<g ref="char:cmbAbbrStroke">̄</g>man<g ref="char:EOLhyphen"/>dement, that you all frequent my courte inſtructe the young with rules confirme the olde with reaſons: lette your liues be anſwerable to your learnings, leaſte my proceedings by contrary to my promiſes.</p>
+               </sp>
+               <sp>
+                  <speaker>Hepheſt.</speaker>
+                  <p>You ſayde you woulde aske euery one of them a queſtion, which yeſter night none of vs coulde aunſwere.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I will <hi>Plato,</hi> of all beaſtes, which is the ſubtilleſt?</p>
+               </sp>
+               <pb facs="tcp:173809:10"/>
+               <sp>
+                  <speaker>Plato.</speaker>
+                  <p>That which man hetherto neuer knew.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Ariſtotle,</hi> how ſhould a man be thought a God?</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>In doing a thing vnposſible for a man.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Criſippus,</hi> which was firſt, the day or the night?</p>
+               </sp>
+               <sp>
+                  <speaker>Criſp.</speaker>
+                  <p>The day by a day.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Indeede ſtraunge queſtions muſt haue ſtraung anſweres. <hi>Cleanthes,</hi> what ſay you, is life or death the ſtronger?</p>
+               </sp>
+               <sp>
+                  <speaker>Clean.</speaker>
+                  <p>Life, that ſuffereth ſo many troubles.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Crates,</hi> how long ſhould a man liue?</p>
+               </sp>
+               <sp>
+                  <speaker>Crates.</speaker>
+                  <p>Till he thinke it better to die then liue.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Anaxarchus,</hi> whether doth the ſea or the earth bring forth moſt creatures?</p>
+               </sp>
+               <sp>
+                  <speaker>Anax.</speaker>
+                  <p>The earth, for the ſea is but a parte of the earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Hepheſtion,</hi> me thinkes they haue aunſwered all well, &amp; in ſuch queſtions I meane often to trie them.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>It is better to haue in your courte a wiſe man then in your ground a golden mine. Therefore would I leaue war, to ſtudie wiſdom, were I <hi>A<g ref="char:EOLhyphen"/>lexander.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>So would I, were I <hi>Hepheſtion.</hi> But come, let vs go and giue releaſe, as I promiſed, to our <hi>Theba<g ref="char:cmbAbbrStroke">̄</g>
+                     </hi> thralles.</p>
+               </sp>
+               <stage>Exeunt.</stage>
+               <sp>
+                  <speaker>Plato.</speaker>
+                  <p>Thou art fortunate <hi>Ariſtotle,</hi> that <hi>Alexander</hi> is thy ſcholler.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>And you happy that he is your ſoueraigne.</p>
+               </sp>
+               <sp>
+                  <speaker>Criſip.</speaker>
+                  <p>I could like the man well, if he could be conte<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ted to be but a man.</p>
+               </sp>
+               <sp>
+                  <speaker>Ari.</speaker>
+                  <p>He ſeeketh to draw neere to the Gods in know<g ref="char:EOLunhyphen"/>ledge, not to be a God.</p>
+               </sp>
+               <sp>
+                  <speaker>Plato</speaker>
+                  <p>Let vs queſtio<g ref="char:cmbAbbrStroke">̄</g> a litle with <hi>Diogenes,</hi> why he went not with vs to <hi>Alexander. Diogenes,</hi> thou didſt forget thy dutie, that thou wentſt not with vs to the king.</p>
+               </sp>
+               <pb facs="tcp:173809:10"/>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>And you your profeſsion, that you went to the king.</p>
+               </sp>
+               <sp>
+                  <speaker>Plato.</speaker>
+                  <p>Thou takeſt as great pride to bee peeuiſh, as o<g ref="char:EOLhyphen"/>thers doe glory to bee vertuous.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>And thou as great honor being a Philoſopher to bee thought courtlike, as others ſhame that be courtiers, to be accounted Philoſophers.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>Theſe auſtere maners ſet a ſide, it is wel known that thou didſt counterfeate monye.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>And thou thy maners, in that thou didſte not counterfeite money.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>Thou haſt reaſon to co<g ref="char:cmbAbbrStroke">̄</g>temn the courte, being both in body and mynde too crooked for a courtier.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>As good be crooked, and endeuour to make my ſelf ſtraight from the court, as to be ſtraight and learne to be crooked at the court.</p>
+               </sp>
+               <sp>
+                  <speaker>Crates</speaker>
+                  <p>Thou thinkeſt it a grace to be oppoſite againſt <hi>Alexander.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>And thou to be iump with <hi>Alexander.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Anax.</speaker>
+                  <p>Let vs go: for in contemning him, wee ſhall better pleaſe him, than in wondring at him.</p>
+               </sp>
+               <sp>
+                  <speaker>Ariſt.</speaker>
+                  <p>
+                     <hi>Plato,</hi> what doſt thou thinke of <hi>Diogenes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Plato.</speaker>
+                  <p>To be <hi>Socrates</hi> furious, let vs go.</p>
+               </sp>
+               <stage>Exeunt Philoſophi.</stage>
+            </div>
+         </div>
+         <div n="2" type="act">
+            <div n="1" type="scene">
+               <head>Actus ſecundus, Schaena prima.</head>
+               <stage>Diogenes. Pſyllus, Manes, Granichus.</stage>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Behold <hi>Manes</hi> where thy maiſter is, ſeeking ei<g ref="char:EOLhyphen"/>ther for bones for his dinner, or pinnes for his ſleeues. I wil go ſalute him.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Doe ſo: but mum, not a woord you ſawe <hi>Ma<g ref="char:EOLhyphen"/>nes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Gran.</speaker>
+                  <p>Then ſtay thou behinde, I will goe with <hi>Pſyl<g ref="char:EOLhyphen"/>lus.</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:173809:11"/>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>All haile <hi>Diogenes</hi> to your proper perſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>All hate to thy peeuiſh conditions.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>O Dogge.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>What doſt thou ſeeke for here?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>For a man and a beaſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>That is eaſie without thy light to be found, bee not all theſe men?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Called men.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>What beaſt is it thou lookeſt for?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>The beaſt my man <hi>Manes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>He is a beaſt indeede that will ſerue thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>So is he that begat thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>What wouldeſt thou do, if thou ſhouldeſt find <hi>Manes?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Giue him leaue to doo as he hath done before.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Whats that.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>To runne away.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Why, haſt thou no neede of <hi>Manes?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>It were a ſhame for <hi>Diogenes</hi> to haue neede of <hi>Manes,</hi> &amp; for <hi>Manes</hi> to haue no need of <hi>Dioge<g ref="char:EOLhyphen"/>nes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>But put the caſe he were gone, wouldeſt thou entertaine any of vs two?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Vpon condition.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>What?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>That you ſhould tell me wherefore any of you both were good.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Why, I am a ſcholler, and well ſeene in Phylo<g ref="char:EOLhyphen"/>ſophy.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>And I a prentice, and well ſeene in painting.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Well then <hi>Granichus,</hi> bee thou a painter to a<g ref="char:EOLhyphen"/>mend thine yll face, &amp; thou <hi>Pſyllus</hi> a Phyloſo<g ref="char:EOLhyphen"/>pher, to correct thine euil manners. But who is that, <hi>Manes?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>I care not who I were, ſo I were not <hi>Manes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Gran.</speaker>
+                  <p>You are taken tardie.</p>
+               </sp>
+               <pb facs="tcp:173809:11"/>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Let vs ſlip aſide <hi>Granichus,</hi> to ſee the ſalutation betweene <hi>Manes</hi> and his maiſter.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>
+                     <hi>Manes,</hi> thou knoweſt the laſt day I threw away my diſh, to drink in my ha<g ref="char:cmbAbbrStroke">̄</g>d, becauſe it was ſuperfluous, now I am determined to put away my man, and ſerue my ſelfe: <hi>Quia non egeo tui vel te.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>Maiſter, you know a while a goe I ran awaye, ſo doe I meane to do againe, <hi>quia ſcio tibi non eſſe argen<g ref="char:EOLhyphen"/>tum.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I know I haue no mony, neither will I haue e<g ref="char:EOLhyphen"/>uer a man, for I was reſolued longe ſithence to put away both my ſlaues, money and <hi>Manes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>So was I determined to ſhake of both my dogs, hunger and <hi>Diogenes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>O ſweete conſent beetweene a crowde and a Iewes harp.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Come, let vs reconcile them.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>It ſhall not neede: for this is their vſe, nowe do they dine one vpon another.</p>
+               </sp>
+               <stage>Exit Diogenes.</stage>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>How now <hi>Manes,</hi> art thou gone from thy mai<g ref="char:EOLhyphen"/>ſter.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Noe, I didde but nowe bynde my ſelfe to him.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Why, you were at mortall iars.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>In faith no, wee brake a bitter ieſt one vppon another.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Why, thou art as dogged as he.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>My father knew them both litle whelpes.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Well, I will hie mee after my maiſter.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>Why, is it ſupper time with <hi>Diogenes?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>I, with him at al times when he hath meate.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Why then, euery man to his home, and lette vs ſteale out againe anone.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani</speaker>
+                  <p>Where ſhall we meete.</p>
+               </sp>
+               <pb facs="tcp:173809:12"/>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Why, at <hi>Ala vendibili ſuſpenſa haedera non eſt o<g ref="char:EOLhyphen"/>pus.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>O <hi>Pſyllus, habeo te loco parentis,</hi> thou bleſſeſt me.</p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="2" type="scene">
+               <head>Actus ſecundus, Schaena ſecunda,</head>
+               <stage>Alexander, Hepheſtion, Page, Diogenes, Apelles.</stage>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Stand aſide ſir boy, till you be called. <hi>Hepheſtion,</hi> how doe yee like the ſweete face of <hi>Campaſpe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>I cannot but commend the ſtoute courage of <hi>Timoclea.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Without doubt <hi>Campaſpe</hi> had ſome great man to her father.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>You know <hi>Timoclea</hi> had <hi>Theagines</hi> to her bro<g ref="char:EOLhyphen"/>ther,</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Timoclea</hi> ſtil in thy mouth, art thou not in loue?</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>Not I.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Not with <hi>Timoclea</hi> you meane, wherein you re<g ref="char:EOLhyphen"/>ſemble the Lapwing, who crieth moſt, where her neaſt is not. And ſo you lead me from eſpying your loue with <hi>Campaſpe,</hi> you cry <hi>Timoclea.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>Could I aſwell ſubdue kingdomes, as I can my thoughtes, or were I as farre from ambition, as I am fro<g ref="char:cmbAbbrStroke">̄</g> loue, al the world wold account me as valiant in armes, as I know my ſelf moderate in affection.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Is loue a vice?</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>It is no vertue.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Well, now ſhalt thou ſee what ſmall difference I make betweene <hi>Alexander</hi> and <hi>Hepheſtion.</hi> And ſith thou haſte beene alwayes partaker of my triumphes, thou ſhalt be partaker of my torme<g ref="char:cmbAbbrStroke">̄</g>tes. I loue <hi>Hepheſti<g ref="char:EOLhyphen"/>on,</hi> I loue I loue <hi>Campaſpe,</hi> a thing farre Vnfit for a Mace<g ref="char:EOLhyphen"/>donian, for a king, for <hi>Alexander.</hi> Why hangeſt thou down thy head <hi>Hepheſtion?</hi> bluſhing to heare that which
+<pb facs="tcp:173809:12"/>I am not aſhamed to tell.</p>
+               </sp>
+               <sp>
+                  <speaker>Hephest.</speaker>
+                  <p>Might my wordes craue pardon, and my counſel credite, I woulde both diſcharge the duetie of a ſubiect, for ſo I am, &amp; the office of a friend, for ſo I will.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Speake <hi>Hepheſtion</hi> for what ſoeuer is ſpoken, <hi>Hepheſtion</hi> ſpeaketh to <hi>Alexander.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>I can not tel, <hi>Alexander,</hi> whether the reporte be more ſhameful to be heard or the cauſe ſorowfull to be beleeued? What? is the ſonne of <hi>Phillip,</hi> king of Mace<g ref="char:EOLhyphen"/>don become the ſubiect of <hi>Campaſpe</hi> the captiue of <hi>The<g ref="char:EOLhyphen"/>bes?</hi> Is that minde, whoſe greatnes the world could not containe, drawn within the compaſſe of an idle alluring eie? Wil you handle the ſpindle with <hi>Hercules,</hi> when you ſhould ſhake the ſpeare with <hi>Achilles?</hi> Is the warlike ſou<g ref="char:cmbAbbrStroke">̄</g>d of drumme, and trumpe turned to the ſoft noyſe of lire, and lute, the neighing of barbed ſteeds, whoſe loudnes filled the ayre with terrour, and whoſe breathes dim<g ref="char:EOLhyphen"/>med the ſunne with ſmoak, conuerted to dilicate tunes and amorous glaunces? O <hi>Alexander,</hi> that ſoft and yeel<g ref="char:EOLhyphen"/>ding minde ſhould not bee in him, whoſe hard and vn<g ref="char:EOLhyphen"/>conquered heart hath made ſo many yeelde. But you loue, ah griefe, but whom? <hi>Campaſpe,</hi> ah ſhame, a maide forſooth vnknowne, vnnoble, &amp; who can tell whether immodeſt? whoſe eies are framed by nature to inamour, &amp; whoſe heart was made by nature to inchaunt. I, but ſhe is bewtiful, yea but not therefore chaſt: I, but ſhe is comly in al parts of the body: yea, but ſhe may be croo<g ref="char:EOLhyphen"/>ked in ſome part of the mind: I, but ſhe is wiſe, yea, but ſhe is a woman? Bewty is like the black berry which ſee<g ref="char:EOLhyphen"/>meth red, when it is not ripe, reſembling pretious ſtoe<g ref="char:cmbAbbrStroke">̄</g>s that are poliſhed with honny, which the ſmother they look, the ſooner they breake. It is thought wonderful a<g ref="char:EOLhyphen"/>mong the ſea men, that <hi>Mugil</hi> of all fiſhes, the ſwifteſt, is found in the belly of the <hi>Bret</hi> of al the ſloweſt: And ſhall it not ſeeme monſtrous to wiſemen, that the hearte of the greateſt conquerour of the worlde, ſhould be found
+<pb facs="tcp:173809:13"/>in the handes of the weakeſt creature of nature? of a woman? of a captiue? <hi>Hermyns</hi> haue faire skinnes, but fowle liuers, Sepulchres freſh colours, but rotte<g ref="char:cmbAbbrStroke">̄</g> bones, women faire faces, but falſe heartes. Remember <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> thou haſt a campe to gouerne, not a chamber, fall not from the armour of <hi>Mars</hi> to the armes of <hi>Venus,</hi> from the fiery aſſaults of war, to the maide<g ref="char:cmbAbbrStroke">̄</g>ly skirmiſhes of loue, from diſplaying the Eagle in thine enſigne, to ſet downe the ſparow. I ſighe <hi>Alexander</hi> that where for<g ref="char:EOLhyphen"/>tune could not conquer, folly ſhuld ouercome. But be<g ref="char:EOLhyphen"/>hold al the perfection that may be in <hi>Campaſpe,</hi> a hayre curling by nature not arte: ſweete alluring eies, a faire face made in diſpite of <hi>Venus,</hi> and a ſtately porte in diſ<g ref="char:EOLhyphen"/>daine of <hi>Iuno,</hi> a witte apt to conceiue, and quick to an<g ref="char:EOLhyphen"/>ſwere a skin as ſoft as ſilk, and as ſmooth as iet, a longe white hand, a fine litle foote, to conclude, all partes an<g ref="char:EOLhyphen"/>ſwerable to the beſt part, what of this? Though ſhe haue heauenly giftes, vertue and bewtie, is ſhe not of earthly mettal fleſh and bloud? You <hi>Alexander</hi> that would be a God, ſhew your ſelfe in this worſe then a man, ſo ſoone to be both ouerſeene and ouertaken in a woma<g ref="char:cmbAbbrStroke">̄</g>, whoſe falſe teares know their true times, whoſe ſmooth words wound deeper then ſharpe ſwordes. There is no ſurfeit ſo dangerous, as that of honney, nor anye poyſon ſo deadly, as that of loue, in the one phiſicke cannot pre<g ref="char:EOLhyphen"/>uaile, nor in the other counſell.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>My caſe were light <hi>Hepheſtion,</hi> and not worthy to be called loue, if reaſon were a remedy, or ſenten<g ref="char:EOLhyphen"/>ces could ſalue, that ſence ca<g ref="char:cmbAbbrStroke">̄</g>not conceiue. Litle do you know, and therefore ſleightly do you regarde the dead embers in a priuate perſo<g ref="char:cmbAbbrStroke">̄</g>, or liue coles in a great prince, whoſe pasſions and thoughts do as far exceede others in extremitie, as their callings doe in Maieſtie. An E<g ref="char:EOLhyphen"/>clipſe in the Sunne is more then the falling of a ſtarre, none can conceiue the torments of a king, vnleſſe hee be a king whoſe deſires are not inferior to their digni<g ref="char:EOLhyphen"/>ties.
+<pb facs="tcp:173809:13"/>And then iudge <hi>Hepheſtion</hi> if the agonies of loue be dangerous in a ſubiect, whether they be not more then deadly vnto <hi>Alexander,</hi> whoſe deep and not to be conceiued ſighes, cleaue the hart in ſhiuers: whoſe wou<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ded thoughtes can neither be expreſſed nor endured. Ceaſe then <hi>Hephestion,</hi> with arguments to ſeeke to refel that, which with their deitie the Gods cannot reſiſt, &amp; let this ſuffice to aunſwere thee that it is a king that lo<g ref="char:EOLhyphen"/>ueth and <hi>Alexander,</hi> whoſe affectio<g ref="char:cmbAbbrStroke">̄</g>s are not to be mea<g ref="char:EOLhyphen"/>ſured by reaſon, being immortall, nor I feare me to be borne being intollerable.</p>
+               </sp>
+               <sp>
+                  <speaker>Hephe.</speaker>
+                  <p>I muſt needs yeeld, when neither reaſon nor counſell can be heard.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Yeeld <hi>Hepheſtion,</hi> for <hi>Alexander</hi> doth loue, and therefore muſt obtaine.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>Suppoſe ſhe loues not you, affection commeth not by appointmente or birth, &amp; then as good hated as enforced.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I am a king, and will commaund.</p>
+               </sp>
+               <sp>
+                  <speaker>Hephe.</speaker>
+                  <p>You may to yeelde to luſte by force, but to conſent to loue by feare you cannot.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Why, what is that, which <hi>Alexander</hi> may not conquer as he liſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Hephe.</speaker>
+                  <p>Why, that which you ſay the Gods cannot re<g ref="char:EOLhyphen"/>ſiſte, Loue.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I am a conquerour, ſhe a captiue, I as fortu<g ref="char:EOLhyphen"/>nate, as ſhe faire: my greatnes may aunſwere her wants, and the giftes of my minde, the modeſtie of hers: Is it not likely then that ſhe ſhould loue? Is it not reaſona<g ref="char:EOLhyphen"/>ble?</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>You ſay that in loue there is no reaſon, &amp; ther<g ref="char:EOLhyphen"/>fore there can be no likelyhood.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>No more <hi>Hepheſtion,</hi> in this caſe I wil vſe mine owne counſell, and in all other thine aduice, thou maiſt be a good ſoldier, but neuer good louer. Cal my Page. Sirha, goe preſently to <hi>Apelles,</hi> and will him to come to
+<pb facs="tcp:173809:14"/>me without either delay or excuſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Page</speaker>
+                  <p>I goe.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>In the meane ſeaſon to recreate my ſpirits, be<g ref="char:EOLhyphen"/>ing ſo neare, we will goe ſee <hi>Diogenes,</hi> and ſee where his tub is. <hi>Diogenes?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Who calleth?</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Alexander.</hi> How happened it that you woulde not come out of your tub to my palace?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Becauſe it was as far from my tub to your pal<g ref="char:EOLhyphen"/>lace, as from your palace to my tub.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Why the<g ref="char:cmbAbbrStroke">̄</g> doeſt thou ow no reuere<g ref="char:cmbAbbrStroke">̄</g>ce to kings:</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Why ſo?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Becauſe they be no Gods.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>They be Gods of the earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Yea, Gods of earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Plato</hi> is not of thy mind.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I am glad of it.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Why?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Becauſe I would haue none of <hi>Diogenes</hi> minde but <hi>Diogenes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>If <hi>Alexander</hi> haue any thing that may pleaſure <hi>Diogenes,</hi> let me know, and take it.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Then take not from me, that you cannot giue me, the light of the world.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>What doeſt thou want?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Nothing that you haue.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I haue the world at commaund.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>And I in contempt.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Thou ſhalt liue no longer than I will.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>But I will die whether you will or no.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>How ſhould one learn to be content?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Vnlearn to couet.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Hepheſtion,</hi> were I not <hi>Alexander,</hi> I wolde wiſhe to be <hi>Diogenes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>He is dogged, but diſcrete, I cannot tel how
+<pb facs="tcp:173809:14"/>ſharpe with a kinde of ſweetenes, ful of wit, yet too too wayward.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Diogenes,</hi> whe<g ref="char:cmbAbbrStroke">̄</g> I come this way again, I will both ſee thee, and confer with thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Doe.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>But here commeth <hi>Apelles,</hi> how now <hi>Apelles,</hi> is <hi>Venus</hi> face yet finiſhed</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Not yet: Bewty is not ſo ſoone ſhadowed whoſe perfection commeth not within the compaſſe either of cunning or of colour.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Well let it reſt vnperfect, &amp; come you with me, where I wil ſhewe you that finiſhed by nature, that you haue beene trifling about by art.</p>
+               </sp>
+            </div>
+         </div>
+         <div n="3" type="act">
+            <div n="1" type="scene">
+               <head>Actus tertius, Schaena prima,</head>
+               <stage>Apelles, Campaſpe.</stage>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Lady, I doubt whether there bee any colour ſo freſh, that may ſhadow a countenance ſo faire.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Sir, I had thought you had beene commaunded to paint with your hand, not to gloſe with your tongue, but as I haue heard, it is the hardeſt thing in painting to ſet down a hard fauour, which maketh you to diſpair of my face, and then ſhall you haue as great thanks to ſpare your labour, as to diſcredit your arte.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Miſtreſſe, you neither differ from you ſelfe, nor your ſex: for knowing your owne perfection, you ſeeme to diſpraiſe that which men moſt co<g ref="char:cmbAbbrStroke">̄</g>mend, drawing the<g ref="char:cmbAbbrStroke">̄</g> by that meane into an admiration, where feeding them ſelues they fall into an extaſie, your modeſtie being the cauſe of the one, and of the other, your affections.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>I am too young to vnderſtande your ſpeache, thogh old enough to withſtand your deuiſe: you haue bin ſo long vſed to colours, you ca<g ref="char:cmbAbbrStroke">̄</g> do nothing but co<g ref="char:EOLhyphen"/>lour.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Indeed the colours I ſee, I feare wil alter the co<g ref="char:EOLhyphen"/>lour I haue: but come madam, will you draw neere, for
+<pb facs="tcp:173809:15"/>
+                     <hi>Alexander</hi> will be here anon. <hi>Pſyllus,</hi> ſtay you heere at the window, if anye enquire for me, aunſwere, <hi>Non lubet eſſe domi.</hi>
+                  </p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="2" type="scene">
+               <head>Actus tertius, Schaena ſecunda.</head>
+               <stage>Pſyllus, Manes.</stage>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>It is alwayes my maiſters faſhion, when any fair Gentlewoman is to be drawne within, to make mee to ſtay without. But if he ſhuld paint <hi>Iupiter</hi> like a Bul, like a Swan, like an Eagle, then muſt <hi>Pſyllus</hi> with one hand grind colours, and with the other hold the candle. But let him alone, the better he ſhadowes her face, the more will he burne his owne heart. And now if a manne cold meet with <hi>Manes,</hi> who I dare ſay, lookes as leane, as if <hi>Diogenes</hi> dropped out of his noſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>And here comes <hi>Manes,</hi> whoe hath as muche meate in his maw, as thou haſt honeſtie in thy head.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Then I hope thou art very hungry.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>They that know thee, know that.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>But doeſt thou not remember that wee haue certaine licour to conferre withall.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>I, but I haue buſines, I muſt go cry a thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Why, what haſt thou loſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>That which I neuer had my dinner.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Foule lubber wilt thou crye for thy dinner?</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>I meane, I muſt cry, not as one would ſaye cry, but cry, that is make a noyſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Why foole, that is al one, for if thou cry, thou muſt needes make a noiſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Boy thou art deceiued. Cry hath diuerſe ſigni<g ref="char:EOLhyphen"/>fications, and may bee alluded to manye things, knaue but one, and can be applyed but to thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Profound <hi>Manes.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Wee <hi>Cynickes</hi> are madde fellowes, didſte thou
+<pb facs="tcp:173809:15"/>not finde I did quip thee?</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>No verely, why, what is a quip.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>We great girders cal it a ſhort ſaying of a ſharp witte, with a bitter ſenſe in a ſweete word.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>How canſt thou thus diuine, deuide, define, di<g ref="char:EOLhyphen"/>ſpute, and all on the ſuddaine?</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Wit wil haue his ſwing, I am bewitcht, inſpird, inflamed, infected.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Well, then will not I tempt thy gybing ſpirite.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Do not <hi>Pſyllus,</hi> for thy dull head will bee but a grindſtone for my quick wit, which if thou whet with o<g ref="char:EOLhyphen"/>uerwhartes, <hi>periſti, actum eſt de te.</hi> I haue drawne bloud at ones braines with a bitter bob.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Let me croſſe my ſelfe: for I die, if I croſſe thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Let me do my buſines, I my ſelf am afraid, leaſt my wit ſhould waxe warm, and then muſt it needs con<g ref="char:EOLhyphen"/>ſume ſome hard head with fine &amp; prety ieſts. I am ſome times in ſuch a vaine, that for want of ſome dull pate to worke on, I begin to gird my ſelfe.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>The Gods ſhield mee from ſuch a fine fellowe, whoſe words melt wits like waxe.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Well then, let vs to the matter. In fayth my maiſter meaneth to morrow to fly.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>It is a ieſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Is it a ieſt to flye: ſhouldeſt thou flye ſo ſoone, thou ſhouldeſt repent it in earneſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Well, I will be the cryer.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes and Pſyl. one after an other.</speaker>
+                  <p>O ys, o ys, o ys, Al man<g ref="char:EOLhyphen"/>ner of men, women or children, that will come to mo<g ref="char:EOLhyphen"/>row into the market place, between the houres of nine and ten, ſhall ſee <hi>Diogenes</hi> the Cynick flye.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>I do not think he will flye.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Tuſh, ſay fly.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Fly.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Now let vs goe: for I will not ſee him againe til midnight, I haue a back way into his tub.</p>
+               </sp>
+               <pb facs="tcp:173809:16"/>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Which way calleſt thou the backwaye, when euery way is open.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>I meane to come in at his back.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Well, let vs goe away, that wee may returne ſpeedily.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="3" type="scene">
+               <head>Actus tertius, Schaena tertia.</head>
+               <stage>Apelles, Campaſpe.</stage>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>I ſhall neuer drawe your eies well, becauſe they blind mine.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Why the<g ref="char:cmbAbbrStroke">̄</g>, paint me without eies, for I am blind.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Were you euer ſhadowed before of any?</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>No. And would you could ſo now ſhadow me, that I might not be perceiued of any?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>It were pittie, but that ſo abſolute a face ſhould furniſh <hi>Venus</hi> temple amongſt theſe pictures.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>What are theſe pictures?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>This is <hi>Laeda,</hi> whom loue deceiued in likenes of a ſwan.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>A faire woman, but a foule deceit.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>This is <hi>Alcmena,</hi> Vnto who<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Iupiter</hi> came in ſhape of <hi>Amphitrio<g ref="char:cmbAbbrStroke">̄</g>
+                     </hi> her husband, and begat <hi>Hercules.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>A famous ſonne, but an infamous fact.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>He might do it, becauſe he was a God.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Nay, therefore it was euill done, becauſe he was a God.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>This is <hi>Danae,</hi> into whoſe priſon <hi>Iupiter</hi> driſled a golden ſhewre, and obtained his deſire?</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>What Gold can make one yeelde to deſire?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>This is <hi>Europa,</hi> whom <hi>Iupiter</hi> rauiſhed: this <hi>An<g ref="char:EOLhyphen"/>tiopa.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Were al the Gods like this <hi>Iupiter?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>There were many Gods in this like <hi>Iupiter.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>I thinke in thoſe dayes loue was wel ratified a<g ref="char:EOLhyphen"/>mong
+<pb facs="tcp:173809:16"/>men on earth, when luſt was ſo ful autho<g ref="char:EOLhyphen"/>riſed by the Gods in heauen.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Nay, you may imagine there wer wome<g ref="char:cmbAbbrStroke">̄</g> pasſing amiable, when there were Gods exceeding amorous.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Were women neuer ſo faire, me<g ref="char:cmbAbbrStroke">̄</g> wold be falſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Were wome<g ref="char:cmbAbbrStroke">̄</g> neuer ſo falſe, men wold be fond.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>What counterfeit is this <hi>Appelles?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>This is <hi>Venus,</hi> the Goddeſſe of loue.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>What, be there alſo louing Goddeſſes?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>This is ſhe that hath power to commaunde the very affections of the heart.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>How is ſhe hired: by praier, by ſacrifice, or bribs?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>By praier, ſacrifice and bribes.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>What praier?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Vowes irreuocable.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>What ſacrifice?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Heartes euer ſighing neuer diſſembling.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>What bribes.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Roſes and kiſſes: but were you neuer in loue?</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>No, nor loue in me.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Then haue you iniuried many.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>How ſo?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Becauſe you haue beene loued of many.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Flattered parchance of ſome.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>It is not posſible that a face ſo faire, &amp; a wit ſo ſharpe, both without compariſon, ſhuld not be apt to loue.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>If you begin to tip your tongue with cunning, I pray you dip your penſil in colours, and fall to that you muſt doe, not that you would doe.</p>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <head>Actus tertius, Schaena quarta.</head>
+               <stage>Clytus, Parmenio, Alexander, Hepheſtion, Criſus, Diogenes, Apelles, Campaſpe.</stage>
+               <sp>
+                  <speaker>Clytus</speaker>
+                  <p>
+                     <hi>Parmenio,</hi> I cannot tel how it commeth to paſſe, that in <hi>Alexander</hi> now a daies there groweth an vnpatie<g ref="char:cmbAbbrStroke">̄</g>t kinde of life, in the morning he is melancholy, at noone
+<pb facs="tcp:173809:17"/>ſolomne, at all times either more ſower or ſeuere, then he was accuſtomed.</p>
+               </sp>
+               <sp>
+                  <speaker>Parme.</speaker>
+                  <p>In kinges cauſes I rather loue to doubt then coniecture, and think it better to be ignoraunt then in<g ref="char:EOLhyphen"/>quiſitiue: they haue long eares and ſtretched armes, in whoſe heades ſuſpition is a proofe, and to be accuſed is to be condemned.</p>
+               </sp>
+               <sp>
+                  <speaker>Clytus</speaker>
+                  <p>Yet betweene vs there canne be no danger to finde out the cauſe: for that there is no malice to with<g ref="char:EOLhyphen"/>ſtand it. It may be an vnquenchable thirſte of conque<g ref="char:EOLhyphen"/>ring maketh him vnquiet: it is not vnlikly his long eaſe hath altred his humour: that he ſhould bee in loue, it is not imposſible.</p>
+               </sp>
+               <sp>
+                  <speaker>Parme.</speaker>
+                  <p>In loue Clytus? no, no, it is as farre from his thought, as treaſon in ours, he whoſe euer waking eye, whoſe neuer tried heart, whoſe body patient of labour, whoſe mind vnſatiable of victory, hath alwayes bin no<g ref="char:EOLhyphen"/>ted, cannot ſo ſoone be melted into the weak conceites of loue. Ariſtotle told him there were many worlds, &amp; that he hath not conquered one that gapeth for al, gal<g ref="char:EOLhyphen"/>leth <hi>Alexander.</hi> But here he commeth.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Parmenio,</hi> and <hi>Clitus,</hi> I would haue you both redy to go into Perſia about an ambaſſage no leſſe pro<g ref="char:EOLhyphen"/>fitable to me, then to your ſelues honourable.</p>
+               </sp>
+               <sp>
+                  <speaker>Clytus</speaker>
+                  <p>We are ready at all commaundes, wiſhing no<g ref="char:EOLhyphen"/>thing els, but continually to be commaunded.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Well, then withdraw your ſelues, till I haue fur<g ref="char:EOLhyphen"/>ther conſidered of this matter.</p>
+                  <stage>Exeunt Clytus &amp; Parmenio.</stage>
+               </sp>
+               <p>Now we wil ſee how <hi>Apelles</hi> goeth forward: I doubt me that nature hath ouercom arte, &amp; her countenance his cunning.</p>
+               <sp>
+                  <speaker>Hepheſt.</speaker>
+                  <p>You loue, and therefore think any thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex</speaker>
+                  <p>But not ſo far in loue with <hi>Campaſpe,</hi> as with Bucephalus, if occaſion ſerue either of co<g ref="char:cmbAbbrStroke">̄</g>flicte or of con<g ref="char:EOLunhyphen"/>queſt.</p>
+               </sp>
+               <pb facs="tcp:173809:17"/>
+               <sp>
+                  <speaker>Hepheſt.</speaker>
+                  <p>Ocaſion cannot want, if wil doe not. Behold all Perſia ſwelling in the pride of their owne power. the Scithians careleſſe what courage or fortune canne doe: the Aegiptians dreaming in the ſouthſayings of their Auguries, and gaping ouer the ſmoak of their beaſts in<g ref="char:EOLhyphen"/>tralles. All theſe <hi>Alexander,</hi> are to bee ſubdued, if that world be not ſlipped out of your head, which you haue ſworne to conquere with that hand.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex</speaker>
+                  <p>I confeſſe the labours fit for <hi>Alexander,</hi> and yet recreation neceſſary among ſo many aſſaults, bloudye wounds, intollerable troubles: giue mee leaue a litle, if not to ſitte, yet to breath. And doubt not but <hi>Alexander</hi> can, when he wil, throw affections as farre from him, as he can cowardiſe. But behold <hi>Diogenes</hi> talking with one at his tub.</p>
+               </sp>
+               <sp>
+                  <speaker>Cryſus</speaker>
+                  <p>One penny <hi>Diogenes,</hi> I am a Cynick.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>He made thee a begger, that firſt gaue thee any thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Cryſus</speaker>
+                  <p>Why, if thou wilt giue nothing, no body will giue thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I want nothing, till the ſprings dry, &amp; the earth periſh.</p>
+               </sp>
+               <sp>
+                  <speaker>Cryſus</speaker>
+                  <p>I gather for the Gods.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>And I care not for thoſe gods, which want mo<g ref="char:EOLhyphen"/>ney.</p>
+               </sp>
+               <sp>
+                  <speaker>Cryſus</speaker>
+                  <p>Thou art a right Cynicke, that will giue no<g ref="char:EOLhyphen"/>thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Thou art not, that will beg any thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Cryſus</speaker>
+                  <p>
+                     <hi>Alexander,</hi> king <hi>Alexa<g ref="char:cmbAbbrStroke">̄</g>der,</hi> giue a poore Cynick a groat.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>It is not for a king to giue a groat.</p>
+               </sp>
+               <sp>
+                  <speaker>Cryſus</speaker>
+                  <p>Then giue me a talent.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>It is not for a begger to aske a talent, A waye. <hi>Apelles?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Here.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Now Gentlewomanne, doeth not your beauty
+<pb facs="tcp:173809:18"/>put the painter to his trump?</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Yes my Lorde, ſeeing ſo diſordered a counte<g ref="char:EOLhyphen"/>naunce he feareth he ſhall ſhadow a deformed counterfeit.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Wold he could colour the life with the feature. And me thinketh <hi>Apelles,</hi> were you as cu<g ref="char:cmbAbbrStroke">̄</g>ning as report ſaith you are, you may paint flowers aſwell with ſweete ſmels, as freſh colours obſeruing in your mixture ſuch things as ſhould draw neere to their ſauours.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Your maieſtie muſt know, it is no leſſe harde to paint ſauours the<g ref="char:cmbAbbrStroke">̄</g> vertues, colours can neither ſpeake nor think.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Where do you firſt begin, when you drawe any picture?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>The propoſition of the face in iuſt compaſſe, as I can.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I would begin with the eie, as a light to all the reſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>If you will paint, as you are a king, your Maie<g ref="char:EOLhyphen"/>ſtie, may beginne where you pleaſe, but as you wold be a painter, you muſt begin with the face.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Aurelius</hi> would in one houre colour four faces.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>I meruaile in half an houre he did not foure.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Why, is it ſo eaſie?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>No but he doth it ſo homely.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>When will you finiſh <hi>Campaſpe?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Neuer finiſhe: for alwayes in abſolute bewtie there is ſomwhat aboue arte.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Why ſhould not I by labour bee as cunning as <hi>Apelles?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>God ſhield you ſhould haue cauſe to be ſo cun<g ref="char:EOLhyphen"/>ning as <hi>Apelles.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex,</speaker>
+                  <p>Me thinketh 4. colours are ſufficie<g ref="char:cmbAbbrStroke">̄</g>t to ſhadow any countenance, &amp; ſo it was in the time of <hi>Phyaias.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>The<g ref="char:cmbAbbrStroke">̄</g> had me<g ref="char:cmbAbbrStroke">̄</g> fewer fancies, &amp; wome<g ref="char:cmbAbbrStroke">̄</g> not ſo many fauors. For now, if the haire of her eie browes be black,
+<pb facs="tcp:173809:18"/>yet muſt the haire of her head be yellowe: the attire of her head muſt be different from the habit of her body, els muſt the picture ſeeme like the blaſon of auncient armorie, not like the ſweet delight of new found ami<g ref="char:EOLhyphen"/>ablenes. For as in garden knottes diuerſitie of odours make a more ſweet ſauor, or as in muſicke diuers ſtrings cauſe a more delicate conſent, ſo in painting, the more colours, the better counterfeit, obſeruing blacke for a ground, and the reſt for grace.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Lend me thy penſil <hi>Apelles,</hi> I will paint, &amp; thou ſhalt iudge.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Here.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>The coale breakes.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>You leane too hard.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Now it blackes not.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>You leane too ſoft.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>This is awry.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Your eie goeth not with your hand.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Now it is worſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Your hand goeth not with your mind.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Nay, if al be too hard or ſoft, ſo many rules and regardes, that ones hand, ones eie, ones minde muſt all draw together, I had rather be ſetting of a battell, then blotting of a bourd. But how haue I done heere?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Like a king.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I think ſo: but nothing more vnlike a Painter. Wel <hi>Apelles, Campaſpe</hi> is finiſhed as I wiſh, diſmiſſe her, bring preſently her counterfeit after me.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>I will.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Now <hi>Hepheſtion,</hi> doth not this matter cotton as I would, <hi>Campaſpe</hi> looketh pleaſauntlye, liberty wil en<g ref="char:EOLhyphen"/>creaſe her bewty, &amp; my loue ſhall aduaunce her honour.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>I wil not contrary your maieſtie, for time muſt we are out that loue hath wrought, and reaſon weane what appetite nourſed.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>How ſtately ſhe paſſeth bye, yet how ſo berly, a
+<pb facs="tcp:173809:19"/>ſweet conſent in her countenance with a chaſt diſdaine, deſire mingled with coyneſſe, and I cannot tell how to tearme it, a curſt yeelding modeſtie.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>Let her paſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>So ſhe ſhall for the faireſt on the earth.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="5" type="scene">
+               <head>Actus tertius, Schaena quinta. </head>
+               <stage>Pſyllus, Manes, Apelles.</stage>
+               <sp>
+                  <speaker>Pſyllus.</speaker>
+                  <p>I ſhalbe hanged for tarying ſo long.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>I pray God my maiſter be not flowne before I come.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyl.</speaker>
+                  <p>Away <hi>Manes,</hi> my maiſter doth come.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Where haue you bin all this while?</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyl.</speaker>
+                  <p>No where but heere.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Who was here ſince my comming?</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyl.</speaker>
+                  <p>No body.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Vngratious wag, I perceiue you haue beene a loytering: was <hi>Alexander</hi> no body?</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyl.</speaker>
+                  <p>He was a king, I meant no meane body.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>I will cogell your body for it, and then will I ſay it was no bodie, becauſe it was no honeſte body. Away in.</p>
+                  <stage>Exit Pſyllus.</stage>
+               </sp>
+               <p>Vnfortunate <hi>Apelles,</hi> and therfore vnfortunate, bee<g ref="char:EOLhyphen"/>cauſe <hi>Apelles.</hi> Haſt thou by drawing her bewty broght to paſſe, that thou canſt ſcarſe draw thine own breath. And by ſo much the more haſt thou encreaſed thy care, by how much the more thou haſt ſhewed thy cu<g ref="char:cmbAbbrStroke">̄</g>ning: was it not ſufficient to behold the fire and warme thee, but with <hi>Satyrus</hi> thou muſt kiſſe the fire and burne thee? O <hi>Campaſpe, Campaſpe,</hi> arte muſt yeeld to nature, reaſon to appetite, wiſdom to affection Could <hi>Pigmalion</hi> entreate
+<pb facs="tcp:173809:19"/>by prayer to haue his Iuory turned into fleſh? and can<g ref="char:EOLhyphen"/>not <hi>Apelles</hi> obtaine by plaints to haue the picture of his loue chaunged to life? Is painting ſo farre inferiour to caruing? or doſt thou <hi>Venus,</hi> more delight to be hewed with Chizels, then ſhadowed with colours? what <hi>Pigma<g ref="char:EOLhyphen"/>lyon,</hi> or what <hi>Pyrgoteles,</hi> or what <hi>Lyſppus</hi> is hee, that euer made thy face ſo fayre or ſpread thy fame ſo farre as I? vnleſſe, <hi>
+                     <g ref="char:V">Ʋ</g>enus,</hi> in this thou enuieſt mine arte, that in co<g ref="char:EOLhyphen"/>louring my ſweete <hi>Campaſpe,</hi> I haue left no place by cun<g ref="char:EOLhyphen"/>ning to make thee ſo amiable. But alas, ſhe is the para<g ref="char:EOLhyphen"/>mour to a prince. <hi>Alexander</hi> the monarch of the earth hath both her body and affection. For what is it that kinges cannot obtaine by praiers, threates and promi<g ref="char:EOLhyphen"/>ſes? Wil not ſhe think it better to ſit vnder a cloth of e<g ref="char:EOLhyphen"/>ſtate like a queene, then in a poore ſhop like a huſwife? and eſteme it ſweeter to be the concubine of the Lord of the world, then ſpouſe to a painter in Athe<g ref="char:cmbAbbrStroke">̄</g>s? Yes, yes <hi>Apelles,</hi> thou maiſt ſwimme againſt the ſtreame with the Crab, and feede againſt the winde with the deere, and pecke againſt the ſteele with the Cockatrice: ſtarres are to be looked at, not reched at, princes to bee yeelded vnto, not contended with: <hi>Campaſpe</hi> to bee honored, not obtained to be painted not poſſeſſed of thee. O fair face, O vnhappy hand, &amp; why didſt thou draw it ſo faire a face? O bewtifull countenance, the expreſſe image of <hi>Venus,</hi> but ſowhat freſher: the only pattern of that eter<g ref="char:EOLhyphen"/>nitie, which <hi>Iupiter</hi> dreaming of aſlepe, could not con<g ref="char:EOLhyphen"/>ceiue again waki<g ref="char:cmbAbbrStroke">̄</g>g Bluſh <hi>Venus,</hi> for I am aſhamed to end thee. Now muſt I paint things vnpoſſible for mine arte, but agreeable with my affections: deepe and hollowe ſighes, ſadde and melancholye thoughtes, wounds and ſlaughters of conceites, a life poſting to death, a death galloping from life, a wauering conſtancie, an vnſetled reſolution, and what not, <hi>Apelles?</hi> And what but <hi>Apelles?</hi> But as they that are ſhaken with a feuer are to bee war<g ref="char:EOLhyphen"/>med with clothes, not groanes, &amp; as he that melteth in
+<pb facs="tcp:173809:20"/>a conſumption is to bee recured by Colices, not con<g ref="char:EOLhyphen"/>ceites: ſo the feeding ca<g ref="char:cmbAbbrStroke">̄</g>ker of my care, the neuer dying worm of my hart is to be killed by cou<g ref="char:cmbAbbrStroke">̄</g>ſel, not cries by applying of remedies, not by replying of reaſons. And ſith in caſes deſperat there muſt be vſed medicines that are extreme, I wil hazard that litle life that is left, to re<g ref="char:EOLhyphen"/>ſtore the greater part that is loſt, &amp; this ſhalbe my firſt practiſe: for wit muſt work, where authoritie is not. Aſ<g ref="char:EOLhyphen"/>ſoone as <hi>Alexander</hi> hath viewed this portraiture, I will by deuiſe giue it a blemiſh, that by that meanes ſhe may come again to my ſhop, and then as good it were to vt<g ref="char:EOLhyphen"/>ter my loue, and die with deniall, as conceale it, &amp; liue in deſpaire.</p>
+               <stage>The Song.</stage>
+            </div>
+         </div>
+         <div n="4" type="act">
+            <div n="1" type="scene">
+               <head>Actus quartus, Schaena prima.</head>
+               <stage>Solinus, Pſyllus, Granichus, Manes, Diogenes, Populus.</stage>
+               <sp>
+                  <speaker>Soli.</speaker>
+                  <p>This is the place, the day, the time, that <hi>Dioge<g ref="char:EOLhyphen"/>nes</hi> hath appointed to flye.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyl.</speaker>
+                  <p>I will not looſe the flight of ſo faire a fowle as <hi>Diogenes</hi> is, though my maiſter cogel my no bo<g ref="char:EOLhyphen"/>die, as he threatned.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>What <hi>Pſyllus,</hi> will the beaſte wag his winges to day?</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyl.</speaker>
+                  <p>We ſhall heare: for here commeth <hi>Manes. Ma<g ref="char:EOLhyphen"/>nes</hi> will it be?</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Be, he were beſt be as cunning as a Bee, or elſe ſhortly he will not be at all.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>How is he furniſhed to fly, hath he feathers?</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Thou art an aſſe, Capons, Geeſe &amp; Owles, haue feathers. He hath found <hi>Dedalus</hi> old waxen wings, and hath beene peecing them this moneth, he is ſo broade in the ſhoulders. O you ſhall ſee him cut the ayre euen like a Tortoys.</p>
+               </sp>
+               <pb facs="tcp:173809:20"/>
+               <sp>
+                  <speaker>Soli.</speaker>
+                  <p>Me thinkes ſo wiſe a man ſhould not be ſo mad, his body muſt needes be to heauy.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Why, hee hath eaten nothing this ſeuennight but corke and feathers.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Tutch him <hi>Manes</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>He is ſo light, that he can ſcarſe keepe him from flying at midnight.</p>
+                  <stage>Populus intrat.</stage>
+               </sp>
+               <sp>
+                  <speaker>Manes.</speaker>
+                  <p>See they begin to flocke, and behold my may<g ref="char:EOLhyphen"/>ſter buſtles himſelfe to flye.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Yee wicked and beewtiched Atheneans, whoſe bodies make the earth to groane, and whoſe breathes infect the aire with ſtench. Come ye to ſee <hi>Diogenes</hi> fly? <hi>Diogenes</hi> commeth to ſee you ſinke? yee call me dog: ſo I am, for I long to gnaw the boanes in your skins. Yee tearme me an hater of menne: no, I am a hater of your maners. Your liues diſſolute, not fearing death, will proue your deaths deſperate, not hoping for life: what do you els in Athens but ſleepe in the day, and ſurfeite in the night: back Gods in the morning with pride, in the euening belly Gods with gluttonie. You flatter kings, &amp; call them Gods: ſpeake trueth of your ſelues, &amp; confeſſe you are diuels. From the Bee you haue taken not the honney, but the wax to make your religion, fra<g ref="char:EOLhyphen"/>ming it to the time, not to the trueth. Your filthy luſte you colour vnder a courtly colour of loue, iniuries a<g ref="char:EOLhyphen"/>broad vnder the title of pollicies at home, and ſecrete malice creepeth vnder the name of publick iuſtice. You haue cauſed <hi>Alexander</hi> to dry vp ſprings &amp; plant Vines, to ſow roket and weede endiffe, to ſheare ſheepe, and ſhrine foxes. Al co<g ref="char:cmbAbbrStroke">̄</g>ſcience is ſealed at Athens. Swearing commeth of a hot mettal: lying of a quick wit: flattery of a flowing tongue, vndecent talk of a mery diſpoſi<g ref="char:EOLhyphen"/>tion. Al things are lawfull at Athens. Either you thinke there are no Gods, or I muſt think ye are no men. You build as though you ſhould liue for euer, and ſurfet as though you ſhould die to morow.</p>
+                  <pb facs="tcp:173809:21"/>
+                  <p>None teacheth true Phyloſophy but <hi>Ariſtotle,</hi> becauſe he was the kings ſchoolemaiſter. O times, O menne, O coruption in manners. Remember that greene graſſe muſt turne to dry hay. When you ſleep, you are not ſure to wake, and when you riſe, not certeine to lye downe, Looke you neuer ſo hie, your heads muſt lye leuell with your feete. Thus haue I flowne ouer your diſordered liues, and if you wil not amend your manners, I wil ſtu<g ref="char:EOLhyphen"/>dy to fly further from you, that I may be neerer to ho<g ref="char:EOLhyphen"/>neſty.</p>
+               </sp>
+               <sp>
+                  <speaker>Soli.</speaker>
+                  <p>Thou raueſt <hi>Diogenes,</hi> for thy life is different from thy words. Did not I ſee thee come out of a brothel houſe? was it not a ſhame?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>It was no ſhame to go out, but a ſhame to goe in.</p>
+               </sp>
+               <sp>
+                  <speaker>Grani.</speaker>
+                  <p>It were a good deede <hi>Manes,</hi> to beate thy mai<g ref="char:EOLhyphen"/>ſter.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>You were as good eate my maiſter.</p>
+               </sp>
+               <sp>
+                  <speaker>One of the people.</speaker>
+                  <p>Haſt thou made vs all fooles, and wilt thou not flye?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I tell thee vnleſſe thou be honeſt, I will flye.</p>
+               </sp>
+               <sp>
+                  <speaker>People</speaker>
+                  <p>Dog, dog, take a boane.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Thy father neede feare no dogs, but dogs thy father.</p>
+               </sp>
+               <sp>
+                  <speaker>People</speaker>
+                  <p>We wil tel <hi>Alexander,</hi> that thou reproueſt him behinde his back.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>And I will tell him, that you flatter him before his face.</p>
+               </sp>
+               <sp>
+                  <speaker>People</speaker>
+                  <p>We wil cauſe al the boyes in the ſtreete to hiſſe at thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Indeede I thinke the Athenians haue their children ready for any vice, becauſe they be A<g ref="char:EOLhyphen"/>thenians.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Why maiſter, meane you not to flye?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>No <hi>Manes,</hi> not without wings.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>Euery body will account you a lyar.</p>
+               </sp>
+               <pb facs="tcp:173809:21"/>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>No, I warrant you: for I will alwaies ſay the A<g ref="char:EOLhyphen"/>thenians are miſchieuous.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>I care not, it was ſport ynogh for me to ſee theſe old huddles hit home.</p>
+               </sp>
+               <sp>
+                  <speaker>Gran.</speaker>
+                  <p>Nor I.</p>
+               </sp>
+               <sp>
+                  <speaker>Pſyllus</speaker>
+                  <p>Come, let vs goe, and hereafter when I meane to raile vpon any body openly, it ſhall be giuen out, I will flye,</p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="2" type="scene">
+               <head>Actus quartus, Schaena ſecunda.</head>
+               <stage>Campaſpe, Apelles.</stage>
+               <sp>
+                  <speaker>Campaſpe ſola.</speaker>
+                  <p>
+                     <hi>Campaſpe,</hi> It is hard to iudge whether thy choice be more vnwiſe, or the chaunce vnfortunate. Doeſt thou preferre, but ſtay, vtter not that in woordes, which maketh thine eares to glow with thoughts. Tuſh better thy tongue wagge, then thy heart break. Hath a painter crept further into thy mind then a Prince? <hi>Apel<g ref="char:EOLhyphen"/>les</hi> the<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Alexander?</hi> Fond wench, the baſenes of thy mind bewraies the meanneſſe of thy birth. But alas, affection is a fyre which kindleth as well in the bramble as in the oake, &amp; catcheth hold where it firſt lighteth, not where it may beſt burne. Larkes that mount aloof in the ayre, build their neaſtes below in the earth, and women that caſt their eies vpon kinges, may place their hearts vpon vaſſals. A needle will become thy fingers better then a Lute, and a diſtaffe is fitter for thy hand then a Scepter. Ants liue ſafely, til they haue gotten wings, &amp; Iuniper is not blowne vp, till it hath gotten an hie top. The meane eſtate is without care, as long as it continueth without pride. But here commeth <hi>Apelles,</hi> in whom I woulde there were the like affection.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Gentlewoman, the miſfortune I had with your picture, wil put you to ſome paines, to ſitte againe to be painted.</p>
+               </sp>
+               <pb facs="tcp:173809:22"/>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>It is ſmal paines for me to ſit ſtill, but infinit for you to draw ſtill.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>No Madame, to painte <hi>Venus</hi> was a pleaſure, but to ſhadowe the ſweete face of <hi>Campaſpe</hi> it is a heauen.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>If your tongue were made of the ſame fleſh that your heart is, your wordes would be as your thoughtes are, but ſuch a common thing it is amo<g ref="char:cmbAbbrStroke">̄</g>gſt you to com<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>d, that oftentimes for faſhion ſake you cal the<g ref="char:cmbAbbrStroke">̄</g> beau<g ref="char:EOLhyphen"/>tifull, whom you know black.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>What might men doe to be beleeued?</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Whet their tongues on their heartes.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>So they doe, and ſpeake as they thinke.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>I would they did.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>I would they did not.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Why, would you haue them diſſemble?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Not in loue, but their loue. But wil you giue me leaue to aske you a queſtion without offence.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>So that you wil aunſwere me an other without excuſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Whom do you loue beſt in the world.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>He that made me laſt in the world.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>That was a God.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>I had thought it had beene a man. But whome do you honour moſt <hi>Apelles.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>The thing that is lykeſt you <hi>Campaſpe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>My picture?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>I dare not venture vpon your perſon. But come, let vs go in: for <hi>Alexander</hi> will thinke it long till we returne.</p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="3" type="scene">
+               <head>Actus quartus, Schaena tertia,</head>
+               <stage>Clytus, Permenio.</stage>
+               <sp>
+                  <speaker>Clytus.</speaker>
+                  <p>We heare nothing of our Embaſſage, a colour
+<pb facs="tcp:173809:22"/>belike to bleare our eyes, or ticle our eares, or inflame our heartes. But what doth <hi>Alexander</hi> in the meane ſea<g ref="char:EOLhyphen"/>ſon, but vſe for Tantara, Sol. Fa. La. for his harde couch, downe beddes, for his handfull of water, his ſtandinge Cup of wine?</p>
+               </sp>
+               <sp>
+                  <speaker>Parme.</speaker>
+                  <p>
+                     <hi>Clytus,</hi> I miſlike this new delicacie &amp; pleaſing peace: for what els do we ſe now then a kind of ſoftnes in euery mans mind, Bees do make their hiues in ſoldi<g ref="char:EOLhyphen"/>ers helmets, our ſteedes furniſhed with foote clothes of gold, in ſteede of ſaddles of ſteele. More time to bee re<g ref="char:EOLhyphen"/>quired to ſcoure the ruſt of our weapons, the<g ref="char:cmbAbbrStroke">̄</g> there was woo<g ref="char:cmbAbbrStroke">̄</g>t to be in ſubdewing the countries of our enemies. Sithence <hi>Alexander</hi> fell from his harde armour to his ſofte robes beholde the face of his court, youthes that were woont to carry deuiſes of victory in their ſhieldes, engraue now poſies of loue in their ringes. They that were accuſtomed on trotting horſes to charge the eni<g ref="char:EOLhyphen"/>my with a launce, now in eaſie coches ride vp &amp; downe, to court Ladies: in ſteede of ſword and target to hazard their liues, vſe pen and paper to paint their loues. Yea, ſuch a feare and faintnes is growne in courte, that they wiſh rather to heare the blowing of a horne to hunt, the<g ref="char:cmbAbbrStroke">̄</g> the ſound of a trumpet to fight? O Phillip, wert thou a<g ref="char:EOLhyphen"/>liue to ſee this alteration, thy men turned to wome<g ref="char:cmbAbbrStroke">̄</g>, thy ſoldiers to louers, gloues worne in veluet, caps in ſteede of plumes in grauen helmets, thou wouldeſt ether die among them for ſorrow, or confound them for anger.</p>
+               </sp>
+               <sp>
+                  <speaker>Clitus,</speaker>
+                  <p>Ceaſe <hi>Permenio,</hi> leaſt in ſpeaking what becom<g ref="char:EOLhyphen"/>meth thee not, thou feele what liketh thee not: truth is neuer without a ſcratcht face, whoſe to<g ref="char:cmbAbbrStroke">̄</g>gue although it cannot be cut out, yet muſt it be tied vp.</p>
+               </sp>
+               <sp>
+                  <speaker>Parme.</speaker>
+                  <p>It grieueth me not a little for <hi>Hepheſtion,</hi> whoe thirſteth for honour, not eaſe: but ſuch is his fortune &amp; neereneſſe in friendſhip to <hi>Alexander,</hi> that he muſt lay a pillowe vnder his head, when he would put a targette in his hand.</p>
+                  <pb facs="tcp:173809:23"/>
+                  <p>But let vs draw in, to ſee how well it becomes them to tread the meaſurs in a daunce, that were wont to ſette the order for a march.</p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="4" type="scene">
+               <head>Actus quartus, Schaena quarta.</head>
+               <stage>Apelles, Campaſpe.</stage>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>I haue now <hi>Campaſpe,</hi> almoſt made an ende.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>You tolde me <hi>Apelles,</hi> you would neuer ende.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Neuer end my loue: for it ſhall be eternal.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>That is, neither to haue beginning nor ending.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>You are diſpoſed to miſtake, I hope you do not miſtruſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>What will you ſaye, if <hi>Alexander</hi> perceiue your loue?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>I will ſay it is no treaſon to loue.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>But how if he wil not ſuffer thee to ſee my per<g ref="char:EOLhyphen"/>ſon?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Then will I gaſe continually on thy picture.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>That will not feede thy heart.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Yet ſhall it fill mine eye: beſides the ſweete thoughtes, the ſure hopes, thy proteſted faith, wil cauſe me to imbrace thy ſhadow continually in mine armes, of the which by ſtrong imagination I will make a ſub<g ref="char:EOLhyphen"/>ſtaunce.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Wel, I muſt be gon: but this aſſure your ſelf, that I had rather bee in thy ſhop grinding colours, then in <hi>Alexanders</hi> court, following higher fortunes.</p>
+               </sp>
+               <stage>Campaſpe alone.</stage>
+               <p>Fooliſh wenſh, what haſt thou done? that alas which cannot be vndone, and therefore I feare me vndone. But content is ſuch a lif, I care not for aboundance. O <hi>Apel<g ref="char:EOLhyphen"/>les,</hi>
+                  <pb facs="tcp:173809:23"/>thy loue commeth from the heart, but <hi>Alexan<g ref="char:EOLhyphen"/>ders</hi> from the mouth. The loue of Kinges is like the blowinge of windes, whiche whiſtle ſometimes gent<g ref="char:EOLhyphen"/>lye amonge the leaues, and ſtraight wayes turne the trees vp by the rootes: or fire which warmeth a farre off, and burneth neere hand, or the ſea, which maketh men hoyſe their ſeales in a flattering calme, and to cut their maſtes in a rough ſtorme. They place affection by times, by pollicie, by appointment, if they frowne, who dares cal them vnconſtant? if bewray ſecretes, who wil tearme them vntrue? if fall to other loues, who trembles not, if he call them vnfaithfull. In kinges there can be no loue, but to Queenes: for as neere muſt they meete in maie<g ref="char:EOLhyphen"/>ſtie, as they doe in affection. It is requiſite to ſtande a<g ref="char:EOLhyphen"/>loofe from kinges loue, <hi>Ioue,</hi> and lightening.</p>
+               <stage>Exit.</stage>
+            </div>
+            <div n="5" type="scene">
+               <head>Actus quartus, Schena quinta.</head>
+               <stage>Apelles. Page.</stage>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Now <hi>Apelles,</hi> gather thy wits together: <hi>Campaſ<g ref="char:EOLhyphen"/>pe</hi> is no leſſe wiſe then fayre, thy ſelfe muſt bee no leſſe cunning then faithfull. It is no ſmall matter to be riuall with <hi>Alexander.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Page.</speaker>
+                  <p>
+                     <hi>Apelles,</hi> you muſt come away quicklye with the picture, the king thinketh that now you haue painted it, you play with it.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>If I would play with pictures, I haue ynough at home.</p>
+               </sp>
+               <sp>
+                  <speaker>Page.</speaker>
+                  <p>None parhaps you like ſo well.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>It may be I haue painted none ſo well.</p>
+               </sp>
+               <sp>
+                  <speaker>Page.</speaker>
+                  <p>I haue knowne many fairer faces.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>And I many better boyes.</p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+         </div>
+         <div n="5" type="act">
+            <div n="1" type="scene">
+               <pb facs="tcp:173809:24"/>
+               <head>Actus quintus, Schaena prima.</head>
+               <stage>Diogenes, Syluius, Perim, Milo, Trico, Manes.</stage>
+               <sp>
+                  <speaker>Sylui.</speaker>
+                  <p>I haue brought my ſons <hi>Diogenes,</hi> to be taught of thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>What can thy ſonnes doe?</p>
+               </sp>
+               <sp>
+                  <speaker>Silui.</speaker>
+                  <p>You ſhall ſee their qualities. Daunce ſirha.</p>
+                  <stage>Then Perim daunceth.</stage>
+                  <p>How like you this? doth he well?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>The better, the worſer.</p>
+               </sp>
+               <sp>
+                  <speaker>Silui.</speaker>
+                  <p>The Muſicke very good.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>The Muſitions very badde, who onelye ſtudy to haue their ſtringes in tune, neuer framing their manners to order.</p>
+               </sp>
+               <sp>
+                  <speaker>Silui.</speaker>
+                  <p>Now ſhall you ſee the other. Tumble ſirha.</p>
+                  <stage>Milo tumbleth.</stage>
+                  <p>How like you this? why do you laugh?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>To ſee a wagge, that was born to break his neck by diſtinie, to practiſe it by arte.</p>
+               </sp>
+               <sp>
+                  <speaker>Milo.</speaker>
+                  <p>This dogge will bite me I will not be with him.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Feare not boy, dogges eate no thiſtles.</p>
+               </sp>
+               <sp>
+                  <speaker>Perim.</speaker>
+                  <p>I maruel what dog thou art, if thou be a dog.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>When I am hungry, a maſtyue, and whe<g ref="char:cmbAbbrStroke">̄</g> my bel<g ref="char:EOLhyphen"/>ly is full a ſpaniell.</p>
+               </sp>
+               <sp>
+                  <speaker>Sylui.</speaker>
+                  <p>Doeſt thou beleeue that there are any gods, that thou art ſo dogged?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I muſt needs beleeue there are gods; for I think thee an enimie to them.</p>
+               </sp>
+               <sp>
+                  <speaker>Silui.</speaker>
+                  <p>Why ſo?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Becauſe thou haſt taught one of thy ſonnes to rule his legges, and not to follow learning, the other to bend his body euery way, and his minde no way.</p>
+               </sp>
+               <sp>
+                  <speaker>Perim.</speaker>
+                  <p>Thou doeſt nothing but ſnarle, and barke like a dogge.</p>
+               </sp>
+               <pb facs="tcp:173809:24"/>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>It is the next way to driue away a theefe.</p>
+               </sp>
+               <sp>
+                  <speaker>Sylui.</speaker>
+                  <p>Now ſhall you heare the third, who ſignes like a Nightingall.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I care not: for I haue heard a Nightingall ſing her ſelfe.</p>
+               </sp>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <p>Sing ſirha.</p>
+               </sp>
+               <stage>Trico ſingeth.</stage>
+               <sp>
+                  <speaker>Syl.</speaker>
+                  <p>Loe <hi>Diogenes,</hi> I am ſure thou canſt not doe ſo much.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>But there is neuer a Thruſh but can.</p>
+               </sp>
+               <sp>
+                  <speaker>Sylui.</speaker>
+                  <p>What haſt thou taught <hi>Manes</hi> thy man:</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>To be as vnlike as may be thy ſonnes.</p>
+               </sp>
+               <sp>
+                  <speaker>Manes</speaker>
+                  <p>He hath taught me to faſt, lye hard, &amp; runne a<g ref="char:EOLhyphen"/>way.</p>
+               </sp>
+               <sp>
+                  <speaker>Sylui.</speaker>
+                  <p>How ſayeſt thou <hi>Perim,</hi> wilte thou bee with him?</p>
+               </sp>
+               <sp>
+                  <speaker>Perim.</speaker>
+                  <p>I, ſo he will teache me firſt to run away.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Thou needeſt not be taught, thy legges are ſo nimble.</p>
+               </sp>
+               <sp>
+                  <speaker>Sylui.</speaker>
+                  <p>How ſayeſt thou <hi>Milo,</hi> Wilte thou bee with hym?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Nay, holde your peace, he ſhal not.</p>
+               </sp>
+               <sp>
+                  <speaker>Sylui.</speaker>
+                  <p>Why?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>There is not roome enough for him and mee both to tumble in one tub.</p>
+               </sp>
+               <sp>
+                  <speaker>Sylui.</speaker>
+                  <p>Well Diogenes, I perceaue my ſonnes brooke not thy manners.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I thought no leſſe, when they knewe my ver<g ref="char:EOLhyphen"/>tues.</p>
+               </sp>
+               <sp>
+                  <speaker>Sylui.</speaker>
+                  <p>Farewel <hi>Diogenes,</hi> thou neededſt not haue ſcra<g ref="char:EOLhyphen"/>ped rootes, if thou wouldeſt haue followed A<g ref="char:EOLhyphen"/>lexander.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Nor thou haue followed Alexa<g ref="char:cmbAbbrStroke">̄</g>der, if thou hadſt ſcraped roots.</p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="2" type="scene">
+               <pb facs="tcp:173809:25"/>
+               <head>Actus quintus, Schaena ſecunda.</head>
+               <stage>Apelles alone.</stage>
+               <p>I feare me <hi>Apelles,</hi> that thine eies haue blabbed that, which thy tongue durſt not. What little regard hadſt thou, whilſt <hi>Alexander</hi> viewed the conterfeite of <hi>Cam<g ref="char:EOLhyphen"/>paſpe?</hi> thou ſtoodeſt gazing on her countenaunce. If he eſpie or but ſuſpect, thou muſt needes twice periſh with his hate, and thine owne loue. Thy pale lookes when he bluſhed, thy ſadde countenaunce, when hee ſmiled, thy ſighes, when he queſtioned, may breede in him a ieloſie, perchaunce a frenzye. O loue, I neuer before knewe what thou wert and nowe haſte thou made mee that I know not what my ſelfe am? Onely this I knowe, that I muſt endure intollerable pasſions, for vnknowne plea<g ref="char:EOLhyphen"/>ſures. Diſpute not the cauſe wretch, but yeeld to it: for better it is to melt with deſire, then wraſtle with loue. Caſt thy ſelfe on thy carefull bedde, be content to lyue vnknowne, and die vnfounde. O <hi>Campaſpe,</hi> I haue pain<g ref="char:EOLhyphen"/>ted thee in my heart, painted? nay, contrarye to myne arte, imprinted, and that in ſuche deepe Characters, that nothing can raſe it out, vnleſſe it rubbe thy heart out.</p>
+               <stage>Exit.</stage>
+            </div>
+            <div n="3" type="scene">
+               <head>Actus quintus, Schaena tertia.</head>
+               <stage>Milectus, Phrigius, Lays, Diogenes.</stage>
+               <sp>
+                  <speaker>Mil.</speaker>
+                  <p>It ſhal go hard, but this peace ſhal bring vs ſome pleaſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Phry.</speaker>
+                  <p>Downe with armes, and vp with legges, this is a world for the nonce.</p>
+               </sp>
+               <pb facs="tcp:173809:25"/>
+               <sp>
+                  <speaker>Layis</speaker>
+                  <p>Sweet youths, if you knew what it were to ſaue your ſweete blood, you would not ſo fooliſhly go about to ſpend it. What delight can there be in gasſhing, to make foule ſcarres in faire faces, &amp; crooked maimes in ſtreight legges? as though men being borne goodly by nature, would of purpoſe become deformed by folly, and all forſooth for a new found tearme, called valiaunt, a worde which breedeth more quarrells than the ſenſe can commendation.</p>
+               </sp>
+               <sp>
+                  <speaker>Mil.</speaker>
+                  <p>It is true <hi>Layis,</hi> a featherbed hath no fellowe, good drink makes good blood, and ſhal pelting wordes ſpill it?</p>
+               </sp>
+               <sp>
+                  <speaker>Phry.</speaker>
+                  <p>I meane to enioy the world, and to draw out my life at the wiredrawers, not to curtall it off at the cutlers.</p>
+               </sp>
+               <sp>
+                  <speaker>Layis</speaker>
+                  <p>You may talke of warre, ſpeake bigge, conquer worldes with great wordes: but ſtay at home, where in ſteede of Alarums you ſhall haue daunces, for hot bat<g ref="char:EOLhyphen"/>tailes with fierce men, gentle skirmiſhes with fayre women. Theſe pewter coates can neuer ſit ſo well as Satten dublets. Beleeue mee, you cannot conceiue the pleaſure of peace, vnleſſe you deſpiſe the rudenes of warre.</p>
+               </sp>
+               <sp>
+                  <speaker>Mil.</speaker>
+                  <p>It is ſo. But ſee <hi>Diogenes</hi> prying ouer his tub: <hi>Diogenes</hi> what ſayeſt thou to ſuch a morſell?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I ſay, I would ſpit it out of my mouth, becauſe it ſhould not poyſon my ſtomacke.</p>
+               </sp>
+               <sp>
+                  <speaker>Phry.</speaker>
+                  <p>Thou ſpeakeſt as thou art, it is no meate for dogges.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I am a dogge, and Philoſophy rates me from carion.</p>
+               </sp>
+               <sp>
+                  <speaker>Layis</speaker>
+                  <p>Vnciuill wretch, whoſe manners are anſwer<g ref="char:EOLhyphen"/>able to thy calling, the time was thou wouldeſt haue had my company, had it not beene, as thou ſaydſt too deare.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>I remember there was a thing, that I repented
+<pb facs="tcp:173809:26"/>me of, and now thou haſte tolde it: indeede it was too deare of nothing, and thou deare to no bodie.</p>
+               </sp>
+               <sp>
+                  <speaker>Layis</speaker>
+                  <p>Downe villaine, or I will haue thy head bro<g ref="char:EOLhyphen"/>ken.</p>
+               </sp>
+               <sp>
+                  <speaker>Mile.</speaker>
+                  <p>Will you couch?</p>
+               </sp>
+               <sp>
+                  <speaker>Phry.</speaker>
+                  <p>Auant curre. Come ſweet <hi>Lays,</hi> let vs goe to ſome place, and poſſeſſe peace. But firſt let vs ſing, there is more pleaſure in tuning of a voyce, than in a volly of ſhotte.</p>
+               </sp>
+               <sp>
+                  <speaker>Milec.</speaker>
+                  <p>Now let vs make haſte, leaſt <hi>Alexander</hi> find vs here.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+            <div n="4" type="scene">
+               <head>Actus quintus, Schaena quarta. </head>
+               <stage>Alexander, Hepheſtion, Page, Diogenes, Apelles, Campaſpe.</stage>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Me thinketh <hi>Hepheſtion</hi> you are more melan<g ref="char:EOLhyphen"/>choly than you were accuſtomed, but I perceiue it is all for <hi>Alexander.</hi> You can neither brooke this peace, nor my pleaſure, be of good cheare, though I winke, I ſleepe not.</p>
+               </sp>
+               <sp>
+                  <speaker>Hepheſt.</speaker>
+                  <p>Melancholy I am not, nor well content: for I know not how there is ſuch a ruſt crept into my bones with this long eaſe, that I feare I ſhall not ſcowre it out with infinite labours.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Yes, yes, if all the trauailes of conquering the world will ſet either thy bodie or mine in tune, we will vndertake them. But what think you of <hi>Apelles?</hi> Did ye euer ſee any ſo perplexed? Hee neither anſwered dire<g ref="char:EOLhyphen"/>ctly to any queſtion, nor looked ſtedfaſtly vppon any thing. I holde my life the painter is in loue.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>It may be: for commonly we ſee it incident in artificers to be enamoured of their owne works, as <hi>Ar<g ref="char:EOLhyphen"/>chidamus</hi> of his wodden doue, <hi>Pygmalion</hi> of his yuorie
+<pb facs="tcp:173809:26"/>Image, <hi>Arachne</hi> of his wodde<g ref="char:cmbAbbrStroke">̄</g> ſwan, eſpecially painters, who playing with their owne conceſſes, now coueting to draw a glauncing eie, then a roling, now a wincking, ſtill mending it, neuer ending it, till they bee caught with it, and then poore ſoules they kiſſe the colours with their lippes, with which before they were loth to tainte theyr fingers.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I will finde it out. Page, go ſpeedely for <hi>Apel<g ref="char:EOLhyphen"/>les,</hi> wil him to come hither, and when you ſee vs earneſt<g ref="char:EOLhyphen"/>ly in talke, ſodainly crie out, <hi>Apelles</hi> ſhop is on fire.</p>
+               </sp>
+               <sp>
+                  <speaker>Page</speaker>
+                  <p>It ſhall be done.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Forget not your leſſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>I maruaile what your deuiſe ſhalbe.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>The euent ſhall prooue.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>I pitie the poore painter, if he be in loue.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Pitie him not, I pray thee, that ſeuere grauity ſet aſide, what doe you think of loue?</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>As the Macedonians doe of their hearb Beet, which looking yellow in the ground, and black in the hand, think it better ſeene than toucht.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>But what doe you imagine it to be?</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>A word by ſuperſticio<g ref="char:cmbAbbrStroke">̄</g> thought a God, by vſe turned to an humor, by ſelf-will made a flattering mad<g ref="char:EOLhyphen"/>neſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>You are too hard harted to think ſo of loue. Let vs go to <hi>Diogenes. Diogenes,</hi> thou maiſt think it ſom<g ref="char:EOLhyphen"/>what, that <hi>Alexander</hi> commeth to thee againe ſo ſoone.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>If you come to learne, you could not come ſoone enough, if to laugh, you be come too ſoone.</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>It would better become thee to bee more cur<g ref="char:EOLhyphen"/>teous, and frame thy ſelfe to pleaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <p>And you better to be leſſe, if you durſt diſpleaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Ale.</speaker>
+                  <p>What doſt thou think of the time we haue here?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>That we haue little and loſe much.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>If one be ſick what wouldſt thou haue him do?</p>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <p>Be ſure that he make not his phiſition his heire.</p>
+               </sp>
+               <pb facs="tcp:173809:27"/>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>If thou mighteſt haue thy will, how much grou<g ref="char:cmbAbbrStroke">̄</g>d would content thee?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>As much as you in the end muſt bee contented withall.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>What, a world?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>No, the length of my bodie.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Hepheſtion,</hi> ſhal I be a little pleſant with him?</p>
+               </sp>
+               <sp>
+                  <speaker>He.</speaker>
+                  <p>You may: but he wil be very peruerſe with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>It skills not, I cannot be angry with him. <hi>Dio<g ref="char:EOLhyphen"/>genes,</hi> I pray thee what doeſt thou think of loue?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>A little worſer than I can of hate.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>And why?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Becauſe it is better to hate the things, which make to loue, than to loue the things, which giue occaſi<g ref="char:EOLhyphen"/>on of hate.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Why, be not women the beſt creatures in the world?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>Next men and Bees.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>What doeſt thou diſlike chiefly in a woman?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>One thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>What?</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>That ſhe is a woman.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>In mine opinion thou wert neuer born of a wo<g ref="char:EOLhyphen"/>man, that thou thinkeſt ſo hardly of wome<g ref="char:cmbAbbrStroke">̄</g>. But now co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>meth <hi>Apelles,</hi> who I am ſure is as far fro<g ref="char:cmbAbbrStroke">̄</g> thy thoughts, as thou art fro<g ref="char:cmbAbbrStroke">̄</g> his cu<g ref="char:cmbAbbrStroke">̄</g>ning. <hi>Diogenes,</hi> I wil haue thy cabin re<g ref="char:EOLhyphen"/>moued nerer to my court, becauſe I wilbe a philoſopher.</p>
+               </sp>
+               <sp>
+                  <speaker>Diog.</speaker>
+                  <p>And whe<g ref="char:cmbAbbrStroke">̄</g> you haue done ſo, I pray you remoue your court further from my cabin, becauſe I wil not be a courtier.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>But here commeth <hi>Apelles. Apelles,</hi> what peece of worke haue you now in hand?</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>None in hand if it like your maieſtie: but I am deuiſing a platforme in my head.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I think your hand put it in your head. Is it no<g ref="char:EOLhyphen"/>thing about <hi>
+                        <g ref="char:V">Ʋ</g>enus?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>No, but ſome thing aboue <hi>Venus.</hi>
+                  </p>
+               </sp>
+               <pb facs="tcp:173809:27"/>
+               <sp>
+                  <speaker>Page Apelles,</speaker>
+                  <p>
+                     <hi>Apelles,</hi> looke about you, your ſhop is on fire.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Ay me, if the picture of <hi>Campaſpe</hi> be burnt, I am vndone.</p>
+               </sp>
+               <sp>
+                  <speaker>Ale.</speaker>
+                  <p>Stay <hi>Apelles,</hi> no haſte, it is your hart is on fire, not your ſhop, &amp; if <hi>Cam.</hi> hang there, I would ſhe were burnt. But haue you the picture of <hi>Campaſpe?</hi> Belike you loue her wel, that you care not thogh al be loſt, ſo ſhe be ſafe.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Not loue her: but your maieſtie knowes that painter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in their laſt works are ſaid to excell themſelues, and in this I haue ſo much pleaſed my ſelfe, that the ſha<g ref="char:EOLhyphen"/>dow as much delighteth mee being an artificer, as the ſubſtance doth others that are amorous.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>You lay your colours groſly, though I could not paint in your ſhop, I ca<g ref="char:cmbAbbrStroke">̄</g> ſpy into your excuſe. Be not aſha<g ref="char:EOLhyphen"/>med <hi>Apelles,</hi> it is a gentlemans ſporte to be in loue. Call hither <hi>Campaspe.</hi> Me thinks I might haue bin made pri<g ref="char:EOLhyphen"/>uie to your affection, though my counſell had not beene neceſſary, yet my countenance might haue bin thought requiſite. But <hi>Apelles</hi> forſooth loueth vnder hand, yea &amp; vnder <hi>Alexanders</hi> noſe, and: but I ſay no more.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>
+                     <hi>Apelles</hi> loueth not ſo: but he liueth to doe as <hi>Alexander</hi> will.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Campaſ</hi> here is newes. <hi>Apel.</hi> is in loue with you.</p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>It pleaſeth your Maieſtie to ſay ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Hepheſtion,</hi> I will trie her too. <hi>Campaſpe,</hi> for the good qualities I know in <hi>Apelles,</hi> and the vertue I ſee in you, I am determined you ſhal enioy one another. How ſay you <hi>Campaſpe,</hi> would you ſay I?</p>
+               </sp>
+               <sp>
+                  <speaker>Cam.</speaker>
+                  <p>Your handmaid muſt obey, if you command.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Thinke you not <hi>Hephestion</hi> that ſhe woulde faine be commanded?</p>
+               </sp>
+               <sp>
+                  <speaker>Hep.</speaker>
+                  <p>I am no thought catcher, but I geſſe vnhappily.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>I will not enforce mariage, where I cannot compell loue.</p>
+               </sp>
+               <sp>
+                  <speaker>Cam.</speaker>
+                  <p>But your maieſtie may moue a queſtion, where
+<pb facs="tcp:173809:28"/>you be willing to haue a match.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Beleeue me <hi>Hepheſtion,</hi> theſe parties are agreed, they would haue me both prieſt and witneſſe. <hi>Apelles.</hi> take <hi>Campaſpe,</hi> why moue ye not? <hi>Campaſpe,</hi> take <hi>Apelles</hi> wil it not be? If you be aſhamed one of the other, by my conſent you ſhall neuer come together. But diſſemble not <hi>Campaspe,</hi> do you loue <hi>Apelles?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Pardon my Lord, I loue <hi>Apelles.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>
+                     <hi>Apelles,</hi> it were a ſhame for you, being loued ſo openly of ſo faire a virgin, to ſay the contrary. Doe you loue <hi>Campaſpe?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Onely <hi>Campaſpe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Two louing wormes <hi>Hepheſtion,</hi> I perceiue <hi>Alexander</hi> cannot ſubdue the affections of men, though co<g ref="char:cmbAbbrStroke">̄</g>quer their cou<g ref="char:cmbAbbrStroke">̄</g>tries. Loue falleth like a dew aſwel vpo<g ref="char:cmbAbbrStroke">̄</g> the low graſſe, as vpon the high Caedar. Sparkes haue their heat, Antes their gall, Flyes their ſplene. Well, enioy one another, I giue her thee fra<g ref="char:cmbAbbrStroke">̄</g>ckly <hi>Apelles.</hi> Thou ſhalt ſee that <hi>Alexander</hi> maketh but a toy of loue, and leadeth affection in fetters, vſing fa<g ref="char:cmbAbbrStroke">̄</g>cie as a foole to make him ſport, or a minſttell to make him merry. It is not the amorous glaunce of an eye can ſettle an idle thought in the heart, no no, it is childrens game, a life for ſeame<g ref="char:EOLhyphen"/>ſters and ſchollers, the one pricking in cloutes haue no<g ref="char:EOLhyphen"/>thing els to thinke on, the other picking fancies out of bookes, haue little elſe to maruaile at. Go <hi>Apelles,</hi> take with you your <hi>Campaſpe, Alexander</hi> is cloyed with loo<g ref="char:EOLhyphen"/>king on that, which thou wondreſt at.</p>
+               </sp>
+               <sp>
+                  <speaker>Apel.</speaker>
+                  <p>Thanks to your maieſtie on bended knee, you haue honoured <hi>Apelles.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Camp.</speaker>
+                  <p>Thanks withbowed heart, you haue bleſſed <hi>Campaſpe.</hi>
+                  </p>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>Page go warne <hi>Clytus</hi> and <hi>Parmenio</hi> and the o<g ref="char:EOLhyphen"/>ther Lords to be in a readines, let the trumpet ſounde, ſtrike vp the drumme, and I will preſently into Perſia.
+<pb facs="tcp:173809:28"/>How now <hi>Hepheſtion,</hi> is <hi>Alexander</hi> able to reſiſt loue as he liſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Heph.</speaker>
+                  <p>The conquering of <hi>Thebes</hi> was not ſo honou<g ref="char:EOLhyphen"/>rable as the ſubduing of theſe thoughts.</p>
+               </sp>
+               <sp>
+                  <speaker>Alex.</speaker>
+                  <p>It were a ſhame <hi>Alexander</hi> ſhould deſire to co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>mand the world, if he could not commaund himſelfe. But come let vs goe, I wil trie whether I can better beare my hand with my hart, than I could with mine eie. And good <hi>Hepheſtion,</hi> when al the world is wonne, and euery countrey is thine and mine, either finde me out another to ſubdue, or of my word I will fall in loue.</p>
+                  <stage>Exeunt.</stage>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <head>The Epilogue at the Black Friers.</head>
+            <p>VVHere the Rain-bow toucheth the tree, no Cater<g ref="char:EOLhyphen"/>pillers will hang on the leaues: where the Glo<g ref="char:EOLhyphen"/>worm creepeth in the night, no Addar wil go in the day. We hope in the eares where our trauailes be lodged, no carping ſhall harbour in thoſe tongues. Our exerciſes muſt be as your iudgeme<g ref="char:cmbAbbrStroke">̄</g>t is, reſembling water, which is alwaies of the ſame colour into what it runneth. In the Troyan horſe lay couched ſouldiers with children, and in heapes of many wordes we feare diuers vnſit, among ſome allowable. But as <hi>Demoſthenes</hi> with often brea<g ref="char:EOLhyphen"/>thing vp the hill amend his ſtammering, ſo wee hope with ſundry labours againſt the haire, to correct our ſtu<g ref="char:EOLhyphen"/>dies. If the tree be blaſted that bloſſomes, the fault is in the winde, and not in the roote, and if our paſtimes be miſliked, that haue beene allowed, you muſt impute it to the malice of others, and not our endeuour. And ſo wee reſt in good caſe if you reſt well content.</p>
+         </div>
+         <div type="epilogue">
+            <pb facs="tcp:173809:29"/>
+            <head>The Epilogue at the Court.</head>
+            <p>VVE cannot tell whether we are fallen among <hi>Dio<g ref="char:EOLhyphen"/>medes</hi> birds or his horſes, the one receiued ſome men with ſweet notes, the other bitte al men with ſharp teeth. But as <hi>Homers</hi> Gods conueied them into cloudes, whom they would haue kept from curſes, and as <hi>Venus,</hi> leaſt <hi>Advnis</hi> ſhold be pricked with the ſtings of Adders, couered his face with the wings of Swans: ſo wee hope, being ſhielded with your highnes countenaunce, wee ſhal, though heare the neighing, yet not feele the kick<g ref="char:EOLhyphen"/>ing of thoſe iades, and receiue, though no praiſe (which we cannot deſerue) yet a pardon, which in all humilitie we deſire. As yet we cannot tell what we ſhould tearme our labours, yron or bullyon, only it belongeth to your maieſtie to make the<g ref="char:cmbAbbrStroke">̄</g> fit either for the forge or the mynt, currant by the ſtamp, or counterfeit by the anuill. For as nothing is to be called white, vnleſſe it had bin named white by the firſt creature, ſo can there bee nothing thought good in the opinion of others, vnleſſe it bee chriſtened good by the iudgement of your ſelfe. For our ſelues againe, we are like theſe torches waxe, of which being in your highnes hands, you may make Doues or Vultures, Roſes or Nettles, Laurell for a garland, or El<g ref="char:EOLhyphen"/>der for a diſgrace.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173809:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>

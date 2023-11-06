@@ -1,0 +1,1838 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Bartholmevv Fairing, new, new, new: sent from the raised siege before Dublin, as a preparatory present to the great thanksgiving-day. To be communicated onely to Independents.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78213</idno>
+            <idno type="STC">Wing B981</idno>
+            <idno type="STC">Thomason E572_7</idno>
+            <idno type="STC">ESTC R206169</idno>
+            <idno type="EEBO-CITATION">99865344</idno>
+            <idno type="PROQUEST">99865344</idno>
+            <idno type="VID">165369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165369)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E572[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Bartholmevv Fairing, new, new, new: sent from the raised siege before Dublin, as a preparatory present to the great thanksgiving-day. To be communicated onely to Independents.</title>
+               </titleStmt>
+               <extent>[2], 28, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "August 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor.</term>
+               <term>Ireland --  History --  1649-1660 --  Humor.</term>
+               <term>Great Britain --  Religion --  17th century --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165369:1" rendition="simple:additions"/>
+            <p>A BARTHOLMEVV FAIRING, NEW, NEW, NEW: Sent from the Raiſed Siege before DVBLIN, As a Preparatory PRESENT To the great Thankſgiving-Day.</p>
+            <p>To be communicated onely to INDEPENDENTS.</p>
+            <p>LONDON: Printed in the Yeer, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <div type="prologue">
+               <pb facs="tcp:165369:2"/>
+               <head>Prologue.</head>
+               <stage>A <hi>Pedlar</hi> in haſte with an <hi>Horn.</hi>
+               </stage>
+               <l>STand off, make roome, give way, for I come Poſt,</l>
+               <l>My Fairings do run wilde from the <hi>Iriſh</hi> Coaſt;</l>
+               <l>Poore <hi>Cram</hi> a <hi>Cree</hi> untrouz'd, O <hi>hone!</hi> O <hi>hone!</hi>
+               </l>
+               <l>Hath loſt his cows, his ſheep, his Bagh, all's gone:</l>
+               <l>All is tranſported hither, view it, view,</l>
+               <l>
+                  <hi>Patrick</hi> is to be ſold at <hi>Bartholmew.</hi>
+               </l>
+               <l>All Saints muſt bow in the old <hi>Calender</hi>
+               </l>
+               <l>Unto <hi>Saint Ireton,</hi> and Saint <hi>Oliver:</hi>
+               </l>
+               <l>For the himſelf is ſhipp'd, Father and Son,</l>
+               <l>
+                  <hi>Pompey</hi> and <hi>Caeſars</hi> Wars are now begun.</l>
+               <l>Thus for a <hi>Ceremony,</hi> and poore jarres,</l>
+               <l>The Saints do keep us ſtill in civill warres.</l>
+               <l>This <hi>Bartholmew</hi> will be the laſt, I fear,</l>
+               <l>
+                  <hi>Fair,</hi> we ſhall ſee: the next is <hi>Py-Powder.</hi>
+               </l>
+               <l>Take every one, a Fairing now, be ſped,</l>
+               <l>You <hi>Presbyter,</hi> a <hi>Biſhop</hi> in <hi>Ginger-bread:</hi>
+               </l>
+               <l>You Cavaleers what will you buy? or how</l>
+               <l>Here go <hi>by</hi> Goldſmiths Hall, the States milcht Cow.</l>
+               <l>You Independents buy no trifling matters,</l>
+               <l>Hobby horſes, babies, d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhes, or Platters:</l>
+               <l>You are for Kings Revenues, Crown, and Jewels,</l>
+               <l>And <hi>Hangings</hi> too, or you'l nere have your due elſe.</l>
+               <l>Come buy theſe curious Pendents, and theſe knots,</l>
+               <l>They are <hi>Scotizing Saints, Saintizing Scots.</hi>
+               </l>
+               <l>You Papiſts, which have juggled with the <hi>King,</hi>
+               </l>
+               <l>Buy you theſe <hi>Croſſes,</hi> now the Saints-bells-ring.</l>
+               <l>You honeſt Citizens who yet ſtand true,</l>
+               <l>Gainſt <hi>Pres,</hi> and <hi>Dep,</hi> and <hi>Pap.</hi> and <hi>Div:</hi> and <hi>Jew:</hi>
+               </l>
+               <l>Take ye this Book, and on the day of joy</l>
+               <l>Laugh at old <hi>Nol,</hi> and drink to the <hi>black Boy.</hi>
+               </l>
+               <stage>Exit.</stage>
+            </div>
+            <div n="1" type="act">
+               <pb n="1" facs="tcp:165369:2"/>
+               <stage>Enter 3. Independent Committee<g ref="char:EOLhyphen"/>mens wives, Mrs. <hi>Avery,</hi> Mrs. <hi>Try-all,</hi> and Mrs. <hi>Woola'ſtone.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mrs. <hi>Aver:</hi>
+                  </speaker>
+                  <p>GOod day to you ſiſters, I may give you the good ſpeed, for I know you to be of the <hi>Houſhold,</hi> for unleſſe it be to ſuch, (it was Mr. <hi>Fenne</hi> of <hi>Coventrey's</hi> opinion, and a good one) we might not give it truly.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try.</hi>
+                  </speaker>
+                  <p>Mr. <hi>Wheatley</hi> of <hi>Bambury</hi> (under whom I was taught in my minority, and learn'd the <hi>paſſive</hi> obedience of a Bride (though his <hi>Ruſh</hi> was a very <hi>thorny</hi> one to us ſince) was of the ſame minde, and would not have us ſcatter our Salutations at randome upon any whom, but onely <hi>Choſen ones,</hi> ſuch as you Mrs. <hi>Avery,</hi> and you my moſt intimate and throughly edified Siſter <hi>Woola'ſtone;</hi> and I think we may beſtow the kiſſe alſo (ſa<g ref="char:EOLhyphen"/>lute.)</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Verily yes ſiſter, it is now holy, when holy perſons uſe it, we make every thing holy we uſe; for the Creature was made for us, and <hi>Creature-comfort</hi> too; Be they higher, or be they lower.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Aver:</hi>
+                  </speaker>
+                  <p>Indeed ſiſter you have ſaid well, and do well, and we ſhall all do ſo, we do endeavour it.— <hi>Creature-comforts!</hi> a pretty word, that of my ſiſters—(ſteps aſide and writes it down) I would not for a world but that I could uſe my hand; I can raiſe any thing by the means of it, and hold what I get.—<hi>Crea<g ref="char:EOLhyphen"/>ture-comforts!</hi> very good.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>It was very long ere the <hi>Parliament</hi> thought upon us, in that point, but I knew they would put home at laſt; Mr. <hi>Martin</hi> promiſed upon his <hi>Honeſty,</hi> (an Oath truly that I have kept with me) that we ſhould in time be remembred for our <hi>Bodkins, Silver-ſpoons,</hi> and <hi>Caudle-cups,</hi> and now they have done it to the purpoſe: this gift of the New Park, inſooth ſiſter was it not a pat, a very pat and oppoſite, a very pertinent, and as Mr.
+<pb n="2" facs="tcp:165369:3"/>
+                     <hi>Goodwine</hi> ſaid, a very ſutable and agreeing Preſent for us; We had no place of Air before, but common with Infidels, the Cabs and Cabbages, the <hi>Grays-Inne-Rufflers,</hi> and <hi>Hide-Park-Jeſabels,</hi> who did prophane and unhallow thoſe good places, and other<g ref="char:EOLhyphen"/>wiſe wholſome Recreations.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Aver:</hi>
+                  </speaker>
+                  <p>Indeed our Husband ſhall buy a Coach; it is too far for a Sedan, and I cannot endure to have men under me, it is unnaturall, and unfriendly; what can a St. do a Man-back? Fy, fy, fy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>My Husband ſhall get ſtone-horſes, and we will uſe them, indeed we will ſiſter, and flant it with the beſt, and in our own Park too. In our <hi>New</hi> Park, we will have <hi>Old</hi> doings, I warrant you.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>I have acquainted Mr <hi>Martin</hi> with our intentions, and he ſaith he will move the Houſe, and will not be denyed now <hi>Cromwel's</hi> gone; and we ſhal have an Ordinance for a <hi>Cheeſ<g ref="char:EOLhyphen"/>cake Houſe,</hi> and there ſhall be a Summer-houſe too, and meet with-drawing Places. Mr. <hi>Martin</hi> is a very underſtanding Gen<g ref="char:EOLhyphen"/>tleman, as moſt is in the Houſe, and knows what belongs to wo<g ref="char:EOLhyphen"/>mens matters very well.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>The Noble Lieut: Gen: is as underſtanding every whit as himſelf, and would have gone as far in the <hi>Buſineſſe,</hi> as he, if you would uſe him as I have done, you would ſay ſo ſiſter; He has a notable Head-piece, and another <hi>Piece</hi> too: Indeed he is a Man every inch of him. They call him <hi>Iron-ſides;</hi> Alas, he is <hi>fleſh</hi> and <hi>blood</hi> as other men are, and after the Conqueſt of <hi>Ireland</hi> and thoſe wilde <hi>Savages,</hi> he will return and <hi>do</hi> wonderfully.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Aver:</hi>
+                  </speaker>
+                  <p>We will have our New Park ſtrew'd with Ruſhes againſt his return, and we will have Cornets under every Tree, our Husbands ſhall find all. O it will be a glorious thing to hear all our <hi>Hus<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ands Cornets</hi> ſounding together!</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>I, and all the <hi>Saints</hi> Cornets in the City befides, what an harmony 'twill be! The Hoboyes are nothing to it; no, the Lanc: Horn-pipe is not to be compar'd to our <hi>London Cornets.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>I long for that day, that will be a Summers day, that will be a day of Jubilee; it ſhall be <hi>St. Olivers</hi> day, the Al<g ref="char:EOLhyphen"/>dermen ſhall be in their Scarlets, and the Livery in Velvet, all our Husbands ſhall be in Velvet from head to foot.</p>
+               </sp>
+               <pb n="3" facs="tcp:165369:3"/>
+               <sp>
+                  <speaker>Mrs. <hi>Aver:</hi>
+                  </speaker>
+                  <p>O deer! in good ſooth ſiſter it will be very pom<g ref="char:EOLhyphen"/>ponatious. But are you reſolv'd upon the meeting there? I will ſend my 3 Diſhes, beſides Wine and Sweet meats, and a Roſe<g ref="char:EOLhyphen"/>bag and other knacks. But my Husband cannot poſſibly go, he is ſo given to the world, he is a very <hi>Martha.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>So is mine too; when I am abroad he is ſeldome with me. But who ſhall we have then <hi>in their places?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Some of the <hi>young Divines,</hi> they will about the be<g ref="char:EOLhyphen"/>ginning of the week be for us: Good men! The latter end they beſtow upon our <hi>Souls,</hi> and the beginning upon our <hi>Bodies;</hi> they labour night and day for <hi>our goods.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>My Man <hi>Ralph</hi> hath made the prettieſt things up<g ref="char:EOLhyphen"/>on the Preſent, and ſo magified the Parliament, as paſſes all underſtanding.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>My Man is a Poet too, honeſt <hi>Roger,</hi> a Knights Son, I can tell you: His Father is a Cavalier, and with the reſidue of his eſtate after his Compoſition bound him to my husband, and truly he does ſuch rare things as I cannot tell they do ſo <hi>raviſh</hi> me: he ſhall bring ſome of his works with the junkets. Remem<g ref="char:EOLhyphen"/>ber I prethee the <hi>Codling</hi> Tart ſiſter.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Aver:</hi>
+                  </speaker>
+                  <p>I ſhall dear ſiſter, and doeſt hear? put good ſtore of Amber greece in the Werden and Quince Pyes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>I am foro the Marrow Pyes, I will ſo feaſt my little Levites, that they ſhall take <hi>New Park</hi> for <hi>Marrow-bone.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Aver:</hi>
+                  </speaker>
+                  <p>And when all's eat, and throughly concocted, and applyed, it ſhall be <hi>Hide Park</hi> too.</p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="2" type="act">
+               <head>Actus ſecundus.</head>
+               <stage>Enter three Independent Miniſters, Mr. <hi>Learned,</hi> Mr. <hi>Olduns,</hi> Mr. <hi>Bew,</hi> as in a Chamber.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>Welcome my fellow-Labourers: our Harveſt</l>
+                  <l>Is not as the lean Countrey-Pulpit-Thraſhers,</l>
+                  <l>Who work for the tenth-cock, and Eaſter Book,</l>
+                  <l>And twice a yeer rejoyce, or chance to chirpe</l>
+                  <l>At the delivery of a pregnant ſow,</l>
+                  <l>Or teeme of goſlings: No my <hi>Sunday ſwabbers:</hi>
+                  </l>
+                  <pb n="4" facs="tcp:165369:4"/>
+                  <l>We have one day of <hi>Adams</hi> heavy <hi>curſe</hi>
+                  </l>
+                  <l>The <hi>Sabbath,</hi> that's our day of ſweat, not Reſt.</l>
+                  <l>So that our yeer conſiſts of fifty two</l>
+                  <l>Dayes of work and ſwinck: All the reſt are holy.</l>
+                  <l>Almoſt 300. holyd a yes we make,</l>
+                  <l>My head's a Bible with an Almanake.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <l>Moonday's our prime feſtivall, <hi>Luna</hi>
+                  </l>
+                  <l>Begins our merriment, and <hi>Venus</hi> ends:</l>
+                  <l>For <hi>Saturne</hi> makes us melancholy; then</l>
+                  <l>We are for Text, and Expoſition: that is</l>
+                  <l>But half holy day, ſome <hi>ſack,</hi> ſome <hi>notes:</hi>
+                  </l>
+                  <l>The morn at <hi>Syon Colledge,</hi> the afternoon</l>
+                  <l>At <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> in Coleman-ſtreet: where we agree</l>
+                  <l>What part oth' news to preach; what Pray'r, what Uſe,</l>
+                  <l>(Such as the State preſcribes) and the works done,</l>
+                  <l>This Work of <hi>double Honour.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <l>Double? Treble:</l>
+                  <l>The <hi>Primitive Converts</hi> layd not more at feet</l>
+                  <l>Of th'<hi>Apoſtles,</hi> nor did they ſpend it ſo.</l>
+                  <l>Yet we allow old <hi>Paul</hi> 3 <hi>Tavernes,</hi> but</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>Come ſit my friends.</l>
+                  <stage>(draws a bottle from under the Table)</stage>
+                  <l>Come forth (my <hi>Posteller</hi>) this is <hi>Tonſeca</hi>
+                  </l>
+                  <l>The Learned Spaniard, this, this is the Book,</l>
+                  <l>Which gives us Learning, and a politique look:</l>
+                  <l>By vertue of this Author, Don <hi>Canary,</hi>
+                  </l>
+                  <l>Weſpeak what truth we pleaſe, or elſe it vary.</l>
+                  <stage>(Fils into the glaſſe,</stage>
+                  <l>Look! how he ſpirits dance, ſee how they skirre it?</l>
+                  <l>We that drink this, muſt need <hi>hold forth the Spirit.</hi>
+                  </l>
+                  <l>
+                     <hi>Olduns,</hi> this luſty glaſſe to all thoſe eyes,</l>
+                  <stage>(dr.)</stage>
+                  <l>Whoſe whites we lift (as I do this) toth' skies.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <l>To thoſe that ſigh at every <hi>Lard,</hi> and <hi>ab,</hi>
+                  </l>
+                  <l>And <hi>hum,</hi> we make upon the Sabbath day.</l>
+                  <stage>(dr.)</stage>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <l>To all thoſe pretty rogues, whoſe hearts we <hi>break</hi>
+                  </l>
+                  <l>On Sunday, and <hi>tickle</hi> on the reſt oth' week.</l>
+               </sp>
+               <stage>One knocks without.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>How now! my Spaniard muſt retyre, hees grave,</l>
+                  <l>And can't endure ſtrange faces. Back to the cell.</l>
+                  <pb n="5" facs="tcp:165369:4"/>
+                  <l>This brittle Inſtrument muſt to his caſe;</l>
+                  <stage>Hides Bottle and glaſſe.</stage>
+                  <l>Reach hither Foxly he ſhall lye ith' place;</l>
+                  <l>(Here <hi>Reynolds</hi> Sermons) whoſe moſt learned Books</l>
+                  <l>Are the gull'd peoples baits, and we the Hooks.</l>
+                  <stage>Knocks again.</stage>
+                  <l>Whoſe there? have patience, and I come; (brother)</l>
+                  <l>Remember where I left, we muſt not ſmoother</l>
+                  <l>Our <hi>ſgifts,</hi> nor under <hi>Buſhels</hi> put the light.</l>
+                  <l>Yes.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Ralph Short-hand.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>
+                     <hi>Ralph Shorthand!</hi> what my <hi>Stenographicall</hi> Sermon catcher, my Imp of <hi>Repetitions,</hi> and <hi>Conſerves</hi> of my ſmall wares of Divinity, little <hi>Pedlar</hi> of my Dominicall labours, how doeſt thou ſweet youth? what is the buſineſſe?</p>
+               </sp>
+               <stage>(Gives a Letter.)</stage>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <p>This Letter (Sir) will ſpeak it ſelf; the letter (Sir) as you have often hinted, is no <hi>killing</hi> letter, nor a <hi>dead</hi> letter, Sir, I have brought the <hi>Argentum vivum</hi> of the laſt Edition: no <hi>Carolus</hi> upon theſe white-boyes, nor <hi>Dei gratiâ</hi> neither, but <hi>Anno Liber<g ref="char:EOLhyphen"/>tatis,</hi> and what is it? <hi>Crucis novae?</hi> as you will read (Sir) better in theſe circles.</p>
+                  <stage>delivers the money.</stage>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>Very hand ſome Coine? Brethren peruſe this letter, it does concern us all. I am much taken with this ſtamp, I have ſome skill in coyning: for I my ſelf am newly ſtamp'd.</p>
+                  <l>This ſhews the State is fixt,</l>
+                  <l>And learned too: O let me kiſſe this Croſſe,</l>
+                  <l>The ſigne of vanquiſh'd ſuperſtition,</l>
+                  <l>The ſigne of Reformation in the State</l>
+                  <l>As well as Church; for this we bleſſe, and curſe</l>
+                  <l>Thus we will carry Croſſes: — in our purſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <l>With what regard of words? and godly tokens</l>
+                  <l>Are we invited to this feaſt? This whiſtle,</l>
+                  <l>This <hi>ſilver whiſtle</hi> of the Saints is ſhrill,</l>
+                  <l>Theſe <hi>Charmers</hi> may eene charm me where they will.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <l>Next Sunday we will hold forth of Thankfulneſſe,</l>
+                  <l>And praiſe the <hi>open handedneſſe</hi> o'th' <hi>Saints:</hi>
+                  </l>
+                  <l>Our thanks to thoſe, who miniſtred to our wants.</l>
+               </sp>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <p>It ſhall he done: Mr. <hi>Learned</hi> Sir, I have an humble
+<pb n="6" facs="tcp:165369:5"/>ſuit to you, I know your ingeny, you have a ſparkling forge: It would for ever make me (with my Mrs.) to have an handſome ſmart copy of verſes (Sir) upon the Park &amp; the preſent Thankſ<g ref="char:EOLhyphen"/>giving. Pray Sir think, you have it if you but ſcratch o'the <hi>fan<g ref="char:EOLhyphen"/>taſticall</hi> ſide. Sir, I have a piece of ſingular Tobacco for your Muſe. The very pryme of the leaf. <hi>Ochechampano Poca-Hunto's</hi> Father great <hi>Cuſtos</hi> of the Indies drinks not ſo good. Againſt night I pray let them be compos'd, fair wrote, and ſcratch'd under where the emphaſis muſt lye, for my Miſtriſſe is much ta<g ref="char:EOLhyphen"/>ken with my emphaticall pronounciation and action. It ſtands me much upon at this time, for I am upon the point of prefer<g ref="char:EOLhyphen"/>ment, and your wit muſt work about, or I am diſappointed quite. Think Sir, I finde the fancy in your eye, you have a Poeti<g ref="char:EOLhyphen"/>call muſcule Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>I have indeed <hi>Ralph,</hi> thou ſeeſt more then theſe <hi>ſeers.</hi> Thou ſhalt haveum: and <hi>Ralph</hi> do you hear, drink no Clarret to night, that will furre the throat, let <hi>
+                        <g ref="char:V">Ʋ</g>rſula</hi> make you ſome butter'd Ale, and I warrant thee for a ſmart one.</p>
+               </sp>
+               <sp>
+                  <speaker>Ralp.</speaker>
+                  <p>May your wiſe Notes, I have wrote, ſwell into volumes,</p>
+                  <stage>Exit.</stage>
+                  <l>Untill the weight ſuppreſſe my tender columnes.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>We muſt conclude this meetings; I have work,</l>
+                  <l>This Poem will ask pains, and time, and ſack;</l>
+                  <l>I am a <hi>Hinde</hi> at proſe, but a dull <hi>Ox</hi>
+                  </l>
+                  <l>At verſe, <hi>my feet</hi> are as they'd been ith' ſtocks.</l>
+                  <l>Friends we will meet the Siſters with their knacks,</l>
+                  <l>Keep all things wiſely, ſpecially your backs.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Roger Truſty. <hi>Solus.</hi>
+               </stage>
+               <sp>
+                  <speaker>Roger.</speaker>
+                  <p>Why my father being a Cavileer ſhould after my ex<g ref="char:EOLhyphen"/>cluſion from the Univerſity bind me Apprentice to this D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aper, and a Committee man, is beyond my intelligence, though not my obedience: I have ſcratched my head over and over, and cannot reach the depth, unleſſe it be for revenge: ſure he would have me pervert my Miſtreſſe; for, for the converſion of my Ma<g ref="char:EOLhyphen"/>ſter, it is as impoſſible, as the others ſecible; it is ſo, it mull be ſo: Revenge is ſweet; what my Maſter got of him at <hi>Goldſmiths</hi> Hall, be would have me get up at <hi>Drapers:</hi> My father hath been in
+<pb n="7" facs="tcp:165369:5"/>Purgatory, and I muſt go to hell for it. She is an handſome Rogue, and reads the <hi>Alchoran,</hi> there's the book now. Our In<g ref="char:EOLhyphen"/>dependent Siſters are as much taken with the <hi>Alchoran,</hi> as our Ladies were with the <hi>Arcadia.</hi> Certainly, <hi>Mahomets</hi> Pidgeon was a pretty Pidgeon, and the Siſters would have the Spirit hang like a pendent in their eares. They are much taken with his <hi>Paradiſe</hi> for the enlargement of their eyes at the Reſurrecti<g ref="char:EOLhyphen"/>on; certainly, if there be ſuch fine additions unto women, they have a hope the men of <hi>Paradiſe</hi> ſhall be augmented in ſome part as pleaſurable to them, as their great eyes will be to their glo<g ref="char:EOLhyphen"/>rified ſervants: Theſe <hi>Babylonian whores</hi> will never be ſatisfied without a <hi>Salisbury ſpire:</hi> well if I muſt work about this Com<g ref="char:EOLhyphen"/>poſition, I will to it as ſoon as I can: <hi>Nocuit differre paratis.</hi>
+                  </p>
+                  <p>I cannot tell which is readieſt, my Miſtreſſe or my ſelf. She hath been teaching me how to handle the <hi>yard</hi> theſe three daies, and ſaies I muſt learn to give a <hi>little over meaſure,</hi> it t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kes Cuſto<g ref="char:EOLhyphen"/>mers mainly. Beſides ſhe takes me into the <hi>darkeſt</hi> place of the ſhop, and ſaith, There I muſt <hi>ſhew my wares.</hi> I ſhall learn (Mrs.) I ſhall apprehend you. If you bring <hi>tinder,</hi> I'ſe bring <hi>flints,</hi> and ſuch as ſhall break upon a <hi>Feather-bed;</hi> you have met with your <hi>match.</hi> She hath this day enjoyned me upon a piece of Rivall<g ref="char:EOLhyphen"/>ſhip in Poetry with righteous <hi>Ralph,</hi> emulation is good Mi<g ref="char:EOLhyphen"/>ſtreſſe, my brains are at your ſervice. The ſubject is the Park, and I muſt to work.</p>
+                  <p>Who can ſuch ſweet, and gratefull work refuſe,</p>
+                  <p>Who hath a Miſtreſſe <hi>Patroneſſe,</hi> and <hi>Muſe?</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="3" type="act">
+               <head>Actus Tertius.</head>
+               <stage>
+                  <hi>Enter three Committee-men, Mr.</hi> Woollaſtone, <hi>Mr.</hi> Avery, <hi>Mr.</hi> Tryall.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <l>I did not think the gain of Godlineſſe</l>
+                  <l>Had been ſo quick, and great. No myſterie,</l>
+                  <l>No traffique half ſo ſure. No hazands run.</l>
+                  <l>For firſt, we know we are Saints, and that granted:</l>
+                  <pb n="8" facs="tcp:165369:6"/>
+                  <l>That world's our own, all that we ſee, and covet,</l>
+                  <l>That we may ſafely take; tis <hi>All, All ours;</hi>
+                  </l>
+                  <l>The Childrens Birth-right; All the reſt Aliens,</l>
+                  <l>Uſurpers, and Oppreſſors: onely we</l>
+                  <l>The heirs oth' Houſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <l>This is our ſureſt Title.</l>
+                  <l>The Scripture is our <hi>Charter,</hi> we have text</l>
+                  <l>To ſhew for't. The Scripture is a fountain</l>
+                  <l>Of end leſſe treaſure if app'y'd aright,</l>
+                  <l>And for <hi>our</hi> purpoſe: As you hinted (brother)</l>
+                  <l>The righteous (that is we) poſſeſſe the Earth,</l>
+                  <l>The eſtates of all Delinquents: Earth includes,</l>
+                  <l>As bread all that is needfull, I or meet</l>
+                  <l>For men.</l>
+               </sp>
+               <sp>
+                  <speaker>Wool:</speaker>
+                  <l>Upon that very principall</l>
+                  <l>I did betray a Truſt, which gain'd me all,</l>
+                  <l>I now enjoy. It was an Orphans ſtate,</l>
+                  <l>Whoſe blinded Father dy'd in actuall Arms</l>
+                  <l>Againſt this bleſſed Parliament: I firſt</l>
+                  <l>Diſcover'd my engagement; then diſclos'd</l>
+                  <l>The foule Delinquencie, and for a ſleight</l>
+                  <l>Reward unto the Chairman, (ſome two, or</l>
+                  <l>Three thouſand Crowns, a very toy, a toy.)</l>
+                  <l>For ſervices, (I never yet knew done)</l>
+                  <l>And for my loſſes (truly I was loſt</l>
+                  <l>But for this happy windfall) and becauſe</l>
+                  <l>I was affected to the State (as no man more)</l>
+                  <l>And for I was a man of known integrity,</l>
+                  <l>(None ſerve the State but ſuch) I was voted</l>
+                  <l>
+                     <hi>Lord</hi> of the whole eſtate, and the <hi>Orphan</hi>
+                  </l>
+                  <l>Proſcrib'd and diſinheriſon'd. Hees ſent</l>
+                  <l>Into Barbados with Inſtructions</l>
+                  <l>Unto a Maſter, to unlearn his Birth,</l>
+                  <l>Which if he can forget, he may do well,</l>
+                  <l>Then he may live, and prove in time a Planter.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <l>A piece of charity I have not heard of,</l>
+                  <l>You have approv'd your truſt abundantly</l>
+                  <pb n="9" facs="tcp:165369:6"/>
+                  <l>Into the State, the end of <hi>Fe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ffe-ſhips.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <l>The youth by theſe your conſcientious means</l>
+                  <l>May in ſome twenty yeers become a man.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <l>And with a little help of <hi>Aqua-vitae,</hi>
+                  </l>
+                  <l>Stockings, and Hats, old Ling and Martlemaſſe,</l>
+                  <l>Riſe to a Fortune great as <hi>Cravens</hi> was.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <l>On whom can he beſtow his thanks for it,</l>
+                  <l>But on your care, and providence, and love.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wooll:</hi>
+                  </speaker>
+                  <l>I look for no ſuch turns, contented I</l>
+                  <l>Am ſatisfi'd ith' <hi>act</hi> of good. That's all,</l>
+                  <l>All that (old <hi>Woolaſtone</hi>) cares for; nor do I</l>
+                  <l>Act without preſident, that honour'd Knight,</l>
+                  <l>And now great Stateſ-man, Sir <hi>John Danvers</hi> ſhew'd</l>
+                  <l>
+                     <hi>Woolaſtone</hi> the way: why did not he prove,</l>
+                  <l>That ſometimes valiant man, and Earl</l>
+                  <l>His brother, a Delinquent for ſome pounds</l>
+                  <l>Lent to the <hi>King,</hi> and by thoſe vertuous means</l>
+                  <l>Orethrew the Will, and coſend his own ſiſter,</l>
+                  <l>And all the Legatarys? ſtill it holds</l>
+                  <l>The Argument is good. A Friend toth' <hi>King,</hi>
+                  </l>
+                  <l>An Enemy toth' State, a Reprobate,</l>
+                  <l>A Reprobate, no title to the creature,</l>
+                  <l>
+                     <hi>Argo</hi> no power to diſpoſe, no power,</l>
+                  <l>No Will and Teſtament. <hi>Argo</hi> tis null.</l>
+                  <l>I have ſome <hi>Logick</hi> left, enough I think</l>
+                  <l>To confound all the <hi>Hierarchy</hi> of England,</l>
+                  <l>And gravell um, though all their land be genne.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <p>I am a purchaſer.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <p>So am I.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <l>And I. They talk of <hi>ſacriledge:</hi> the text</l>
+                  <l>Is plain: He doth not live in <hi>Temples</hi> made</l>
+                  <l>With <hi>hands; Heaven</hi> is his <hi>ſeat,</hi> yet theſe <hi>Biſhops</hi>
+                  </l>
+                  <l>Will have their <hi>Sees</hi> Gods <hi>ſeat,</hi> and conclude it</l>
+                  <l>Againſt the <hi>ſence</hi> oth' <hi>Houſe,</hi> and <hi>Harry</hi> th' eight:</l>
+                  <l>Tis ſacriledge to buy their Lands forſooth,</l>
+                  <l>Out with them <hi>Antichriſts!</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Aver:</hi>
+                  </speaker>
+                  <l>Indeed if one</l>
+                  <l>Should purchaſe <hi>Heaven,</hi> then the text were plain:</l>
+                  <pb n="10" facs="tcp:165369:7"/>
+                  <l>But we nere mean it. Let't alone for me.</l>
+                  <l>The Houſe are far enough from ſuch an <hi>Act;</hi>
+                  </l>
+                  <l>That were ſacriledge ith' <hi>higheſt,</hi> and not</l>
+                  <l>On any termes to be committed. No,</l>
+                  <l>Heaven at no rate: O little England</l>
+                  <l>For my money!</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Try:</hi>
+                  </speaker>
+                  <l>A little <hi>Ireland</hi> too</l>
+                  <l>Will now do well. That <hi>Renegado</hi> Lord</l>
+                  <l>
+                     <hi>Apoſtat Inchiquin,</hi> who hath committed</l>
+                  <l>The high offence, revolting <hi>to</hi> the <hi>King,</hi>
+                  </l>
+                  <l>Tis he that plague us, he hath <hi>diſmunſter'd,</hi>
+                  </l>
+                  <l>He hath <hi>diſmunſterd</hi> me, (Dee'l <hi>Inch</hi> him fort)</l>
+                  <l>Of full three thouſand Acres, (his very name</l>
+                  <l>Makes every Inch I have about me quake)</l>
+                  <l>Which if I could have quietly enjoy'd,</l>
+                  <l>I would not have engag'd in Biſhops Lands.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <l>
+                     <hi>Ormoud</hi> and he ſhall nere be pardon'd, nor</l>
+                  <l>
+                     <hi>Montroſſe, Hopton,</hi> nor <hi>Langdale,</hi> no nor <hi>Dives</hi>
+                  </l>
+                  <l>That ſhitten Royaliſt, 'tis ſtrange he is</l>
+                  <l>Not made a <hi>Privy Counſellour,</hi> or <hi>Groome</hi>
+                  </l>
+                  <l>Oth'ſtoole. But our brave <hi>Oliver</hi> will ſend</l>
+                  <l>Them all to Dives, to their Winter quarter.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <l>I was afraid of <hi>Ireland</hi> once, I gave it</l>
+                  <l>For an unwholſome air, <hi>Bogs</hi> and <hi>Quagmires,</hi>
+                  </l>
+                  <l>But Collonel <hi>Jones</hi> hath clear'd it all again,</l>
+                  <l>With the States Thunder, <hi>Powder,</hi> and <hi>Money.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <l>It was a plot of <hi>Crumwels</hi> all this while</l>
+                  <l>(And <hi>Munck</hi> will juſtifie it) to looſe ſo much:</l>
+                  <l>To make the buſineſſe ſeeming deſperate,</l>
+                  <l>To his eternall honour to reſtore it:</l>
+                  <l>This was the plot, if <hi>Ormond</hi> had tane <hi>Dublin;</hi>
+                  </l>
+                  <l>He ſhould have put in <hi>Governors,</hi> then marcht,</l>
+                  <l>And joyn'd with <hi>Jonny-Presbyter</hi> in Scotland,</l>
+                  <l>Then ſhould thoſe Governors have ſold it back</l>
+                  <l>(For what's the City money for, but that?)</l>
+                  <l>Unto the high <hi>Lieutenant;</hi> that once ours,</l>
+                  <l>
+                     <hi>Grumwell</hi> had powdered after <hi>Ormond,</hi> whiles</l>
+                  <l>Good Sir <hi>Arthur Haſelrigg,</hi> and <hi>Lambert</hi>
+                  </l>
+                  <pb n="11" facs="tcp:165369:7"/>
+                  <l>Rebuilt the wall betwixt the <hi>Picts,</hi> and us,</l>
+                  <l>And kept them out of <hi>England,</hi> pent in Scotland:</l>
+                  <l>This was the plot which none but ſure ones knew:</l>
+                  <l>This is the day to raiſe more money for't.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <l>It ſhall be levy'd, what we ſay's a law,</l>
+                  <l>This, is the word, Do it, or <hi>Crumwell</hi> comes;</l>
+                  <l>Wee'l fetch him with a whiſtle, if they boggle,</l>
+                  <l>He lyes in Wales on purpoſe at a lurch:</l>
+                  <l>(Upon prtence of waiting on the winds)</l>
+                  <l>But the truth is, it is to aw thoſe here</l>
+                  <l>The Leveller, and diſcontented party.</l>
+                  <l>Hee'l ſquirt you Regiments into Dublin,</l>
+                  <l>And fright off <hi>Ormond</hi> with a whiffe of's tayl.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <p>The Welch do love him mainly.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>W:</hi>
+                  </speaker>
+                  <l>They have reaſon.</l>
+                  <l>He is their Cozen very neer ally'd,</l>
+                  <l>Once Ap-Lord Leiftenant Generall, Ap-All,</l>
+                  <l>Ap Teudor, ap Queen <hi>Elſabeth,</hi> Ap-Beſſe,</l>
+                  <l>Ap Great Protector preſently; The States</l>
+                  <l>Muſt have a <hi>Grave,</hi> and who is fitter for't?</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <l>We have divorc'd our King, and broke his Bonds,</l>
+                  <l>Wee'l try new Lords, variety is beſt.</l>
+                  <l>One head would never ſerve the Cities turn,</l>
+                  <l>A change of Governors, if ſuch as theſe,</l>
+                  <l>Is as delightfull, as of meats, one diſh</l>
+                  <l>Though it were Capon, and white broth will not</l>
+                  <l>Pleaſe alwayes.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>W:</hi>
+                  </speaker>
+                  <l>
+                     <hi>Kings</hi> were too ſtately for us,</l>
+                  <l>They thought it much to feaſt, or ly us,</l>
+                  <l>The State will condeſcend to take a lodging</l>
+                  <l>With their poore ſervants, and communicate</l>
+                  <l>The ſecrets of the Houſe unto our wives,</l>
+                  <l>And they tell all again (good gyrles) to us.</l>
+                  <l>They pump the Juncto for Intelligence,</l>
+                  <l>And on that confidence we buy <hi>Kings</hi> Lands,</l>
+                  <l>
+                     <hi>Biſhops,</hi> or any thing: They word it all.</l>
+                  <l>I intend for her good ſervices, and love</l>
+                  <pb n="12" facs="tcp:165369:8"/>
+                  <l>Unto the <hi>State,</hi> and <hi>me,</hi> to make a joyncture</l>
+                  <l>Of Theobalds to my Conſort, honeſt <hi>Dorcas:</hi>
+                  </l>
+                  <l>This day ſhe hath my leave to ſee the Park.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <l>The State are wondrous wiſe, there was a gift!</l>
+                  <l>When did the <hi>King</hi> beſtow a Park on us?</l>
+                  <l>There is not ſuch a State in all the world!</l>
+                  <l>To hit the fancie of all ſides! our wives</l>
+                  <l>Are taken above meaſure, out of cry:</l>
+                  <l>It may be I ſhall air my horſe toward night,</l>
+                  <l>I told my <hi>Hanna,</hi> I had buſineſſe,</l>
+                  <l>But I may chance to ſteal upon her.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <l>Do.</l>
+                  <l>My <hi>Abigall,</hi> will joy to be ſurpris'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>W.</hi>
+                  </speaker>
+                  <p>Let it be ſo; I'le along for company.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr.</hi>
+                  </speaker>
+                  <l>It will do excellent, the righteous waggs</l>
+                  <l>Will joy to ſee their husbands breathe their Naggs.</l>
+               </sp>
+               <stage>Exeunt omnes.</stage>
+            </div>
+            <div n="4" type="act">
+               <head>Actus 4tus.</head>
+               <stage>
+                  <hi>Enter</hi> Ralph <hi>and</hi> Roger <hi>as at New Park gate.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <p>Twas well drove Carochman, the Ladies to ſhew they love good <hi>Drivers,</hi> give you this to drink above your hire, be moderate, and warm your ſelves, but not too much; remember <hi>Phaeton,</hi> whip and away, that's counſell. <hi>Roger</hi> the joy oth' Park to you.</p>
+               </sp>
+               <sp>
+                  <speaker>Reg:</speaker>
+                  <p>
+                     <hi>Ralph!</hi> you and I muſt run a race to day, a wit courſe, pray heaven your Pegaſus be well breath'd, I ſhall have the heels of him elſe: Gold to ſilver on't.</p>
+               </sp>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <p>Poore Cab! little doth he think, whoſe flying horſe I ride, I'le ſhall make you ſpur and ſwitch fort: weel order the Feaſt, and then Sir, weel try your veine. But Mr. <hi>Lerned</hi> now hath given his maſter-piece to me, he hath done it to the life, if I can word it.</p>
+               </sp>
+               <sp>
+                  <speaker>Reg.</speaker>
+                  <p>No prompting <hi>Ralph.</hi>
+                  </p>
+               </sp>
+               <stage>Exeunt.</stage>
+               <pb n="13" facs="tcp:165369:8"/>
+               <stage>
+                  <hi>Mr.</hi> Lerned <hi>leading Mrs.</hi> Wooll: <hi>Mr.</hi> Old: <hi>leading Mrs.</hi> Avery. <hi>Mr.</hi> Bew, <hi>Mrs.</hi> Tryall, in the Park.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>Theſe were ſometimes <hi>high places,</hi> and the <hi>Groves,</hi>
+                  </l>
+                  <l>Where <hi>Ahab</hi> burnt unhallowed gumms to <hi>Baal.</hi>
+                  </l>
+                  <l>But now a ſanctified Inheritance,</l>
+                  <l>A <hi>Naboths</hi> vineyard, or an <hi>Eden</hi> rather,</l>
+                  <l>A <hi>Paradiſe,</hi> where Innocence is ſure,</l>
+                  <l>And holy guards keep out the fiery <hi>Dragon,</hi>
+                  </l>
+                  <l>The riggling, though old ſerpent, <hi>Satan</hi> hight.</l>
+               </sp>
+               <sp>
+                  <speaker>Old:</speaker>
+                  <l>Here no Abaddon comes, nor creeping thing,</l>
+                  <l>You may ſit down, and fear no lurking <hi>Suakes.</hi>
+                  </l>
+                  <l>The herbage is of <hi>Grace.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <l>The trees all Elder.</l>
+                  <l>Such as are planted about <hi>Syon</hi> banks,</l>
+                  <l>And do ſurround our new <hi>Jeruſalem.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>What are thoſe creatures, that trip it ſo, with the high things upon their foreheads? they have goodly foretops.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>Thoſe are the ſavoury meat oth' place, the dyet</l>
+                  <l>Old <hi>Iſaac</hi> long'd for, (we call Veniſon)</l>
+                  <l>Which <hi>Eſan</hi> hunts, but onely <hi>Iſrael</hi> eats.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <p>Is it true indeed, that at ſometime they caſt their na<g ref="char:EOLhyphen"/>ture, a wofull ſeaſon that, and without doubt a great diſcom<g ref="char:EOLhyphen"/>fiture unto the creature.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <p>As ſnakes caſt their skin, for a time they are naked, but they are new clad ſuddenly, and the <hi>liver</hi> fort.</p>
+               </sp>
+               <sp>
+                  <speaker>Old:</speaker>
+                  <p>Spirit returns upon the reparation.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>Their <hi>parva naturalia</hi> are renew'd,</l>
+                  <l>And as they ſay, a <hi>novum organum</hi>
+                  </l>
+                  <l>Ariſeth in the place.</l>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Av:</hi>
+                  </speaker>
+                  <l>We ſhall ſoon diſpatch</l>
+                  <l>Theſe Deer upon Thankſgiving-dayes for <hi>Crumwell,</hi>
+                  </l>
+                  <l>And then wee'l keep our Dairys here, the Countrey</l>
+                  <l>Churming's too groſſe for Saints, wee'l have glaſſes,</l>
+                  <l>And ſervants, luſty ſervants of our own,</l>
+                  <l>And, we will ſee it come, The buttermilk</l>
+                  <l>Wee'l ſell unto the Cabs, and eat the creame,</l>
+                  <pb n="14" facs="tcp:165369:9"/>
+                  <l>The creame oth' kine our ſelves in <hi>ſtately</hi> diſhes.</l>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Woo:</hi>
+                  </speaker>
+                  <p>Twas pity ſo much ground ſhould ly unoccupied.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Av:</hi>
+                  </speaker>
+                  <l>And be a randezvous for ſavage beaſts.</l>
+                  <l>As hideous Stags, and uſeleſſe barren Does.</l>
+                  <l>A goodly herd of Cows, led in, and out</l>
+                  <l>By ſerviceable, and untyring Buls</l>
+                  <l>Were farre more uſefull for the <hi>Common</hi>-wealth.</l>
+               </sp>
+               <sp>
+                  <speaker>Mrs <hi>Tr:</hi>
+                  </speaker>
+                  <l>Deer was the <hi>Tyrant's</hi> game; but Buls is ours,</l>
+                  <l>
+                     <hi>Biſhops</hi> and <hi>Plays</hi> were in a day put down,</l>
+                  <l>I well remember; and <hi>Bull baytings</hi> allow'd:</l>
+                  <l>Theſe are no wanton ſports.</l>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>W:</hi>
+                  </speaker>
+                  <l>Wee'l have it <hi>Common.</hi>
+                  </l>
+                  <l>But ſtinted Common, a dozen Cow Commons</l>
+                  <l>Unto a Saint is good proportion,</l>
+                  <l>And a Bull; wee'l hayne the richer ground:</l>
+                  <l>We may have grazing geeſe too, and at ſeaſon</l>
+                  <l>Green goſtlings of our own and Pigs, and nere</l>
+                  <l>Be jeer'd with <hi>Bow,</hi> and <hi>Bartholmew</hi> Fair meetings;</l>
+                  <l>Nor <hi>James,</hi> nor <hi>Sturbridge:</hi> our husbands ſhall ply them,</l>
+                  <l>We and our <hi>Levites</hi> will ply theſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>We may employ our gifts, and exerciſe too here</l>
+                  <l>Upon the <hi>Turfe;</hi> Repentance was firſt preacht</l>
+                  <l>By <hi>John</hi> ith' <hi>Wilderneſſe,</hi> and ye being</l>
+                  <l>Waſhed Diſciples, may uſe any place:</l>
+                  <l>All things are clean to you, as you to all;</l>
+                  <l>New <hi>Parks</hi> as ſanctified to us, as <hi>Peters,</hi>
+                  </l>
+                  <l>
+                     <hi>Margarets,</hi> or <hi>
+                        <g ref="char:V">Ʋ</g>nder ſhafts,</hi> or <hi>Antolines</hi>
+                  </l>
+               </sp>
+               <stage>To them.</stage>
+               <stage>
+                  <hi>Enter</hi> Roger <hi>and</hi> Ralph.</stage>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <l>All things are plac'd convenient; the Repaſt</l>
+                  <l>Is ſet in order, and the Earth is ſpread.</l>
+               </sp>
+               <sp>
+                  <speaker>Rog:</speaker>
+                  <l>
+                     <hi>Adams</hi> firſt and beſt Table, where green Carpets</l>
+                  <l>Were ſenior unto Diaper, and Damask;</l>
+                  <l>
+                     <hi>Eve</hi> in her Innocence did uſe no other;</l>
+                  <l>A go<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> broad <hi>Sycamore</hi> leaf was all her napkin,</l>
+                  <l>Nut-ſhels their cups, Sallads their meat, and ſawce.</l>
+                  <pb n="15" facs="tcp:165369:9"/>
+                  <l>Six pretty mole-hils of dame Natures making,</l>
+                  <l>Yet ſuch as Art can ſcarce exceed, the work</l>
+                  <l>At firſt oth' Mole, by her blind pains caſt up,</l>
+                  <l>Are fince by ſilver Jupiter freſh verdur'd,</l>
+                  <l>And moſs'd with Cuſhions for your Lady-ſhips eaſe.</l>
+                  <l>And in the middle is a Riſing Bank,</l>
+                  <l>Swelling moſt ſtrangely in a ovall form,</l>
+                  <l>On which the diſhes ſtand in equipage.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>It doth reſemble much the ſeat oth' <hi>whore,</hi>
+                  </l>
+                  <l>Hight <hi>Babylon,</hi> On which the Saints in time,</l>
+                  <l>(And verily I weene the time is come)</l>
+                  <l>Were promiſed to ſit, and judge. Pray move.</l>
+               </sp>
+               <stage>Exeunt omnes.</stage>
+               <stage>
+                  <hi>Enter Mr.</hi> Avery, <hi>Mr.</hi> Tryall, <hi>Mr.</hi> Woollaſtone <hi>with Muſicians.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <p>Here, here behind theſe trees will be the ſhelter, (Muſitians) and ours too. Cornets and ſmall <hi>Muſick</hi> Together, makes good harmony, you have your Hoboyes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <p>Vex not your guts untill the Cue be given, well <hi>Tryall</hi> this deviſe was thine, and 'tis a signall one, and will advance the Feſtivall exceedingly.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>W:</hi>
+                  </speaker>
+                  <p>Would Collonel <hi>Jones</hi> were here for an houre, and Captain <hi>Oatway!</hi> we could ſpare him from following after <hi>Or<g ref="char:EOLhyphen"/>mond</hi> for a while.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <p>Who would have thought <hi>Ormond</hi> had been a game<g ref="char:EOLhyphen"/>ſter, I took him alwayes for a Proteſtant.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <p>I know not, nor I care not. He was againſt the Pa<g ref="char:EOLhyphen"/>piſts alwayes, pro, and con, he made a League and not a league, and ſo he I think he is well beaten fort, and not beaten too they ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <p>How not beaten!</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <p>Not ſo much as he will be, for <hi>Jones</hi> will <hi>Ormond</hi> him if he catch him; but he is a naturall Iriſh, and not eaſily to be caught, they'l run like mad. But <hi>Crum<g ref="char:EOLhyphen"/>well</hi> with his running Army will o're-run Ireland, and take all, the Divell (God bleſſe him) is in him, he will have all, all's his.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <p>I but the Papiſhes have done ſome honeſt ſervices.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <p>Hang um Hereticks! our Reformation ſwords are as
+<pb n="16" facs="tcp:165369:10"/>ſimple as their Toleday Blades were in the Spaniſh Invaſion, they could not diſtinguiſh betwixt an Engliſh Catholique, and Engliſh Proteſtant, if he were rich; but for the poore Catholicks they ſhall have mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>W:</hi>
+                  </speaker>
+                  <p>Come to our Ambuſh.</p>
+               </sp>
+               <stage>Exeunt.</stage>
+            </div>
+            <div n="5" type="act">
+               <head>Actus 5tus.</head>
+               <stage>The Siſters upon the graſſe (ſitting) the Levites (ſtanding). <hi>Roger</hi> and <hi>Ralph,</hi> (waiting) the Husbands lying) the Muſick (ſleeping).</stage>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>To bleſſe the Creatures is the buſineſſe,</l>
+                  <l>We will <hi>all</hi> ſanctifie, the Meſſe is great,</l>
+                  <l>Like that of <hi>Benjamins;</hi> and may deſerve</l>
+                  <l>A triple Bleſſing well; attend with care:</l>
+               </sp>
+               <sp>
+                  <speaker>Rog:</speaker>
+                  <p>The grace begins, when will it end? we ſhall have three <hi>graces</hi> now, and never a <hi>vertues</hi> grant me Chriſtian patience, he hath ſnuffd, and twird enough, now it comes forth—.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>Bleſſe us-um-bleſſe us (Lard) and theſe thy gifts,</l>
+                  <l>Marcys, and Creature comforts: By theſe ſhifts</l>
+                  <l>Thou try'ſt our thankfulneſſe, — um, — this great ſtore,</l>
+                  <l>(Lard) it doth make us praiſe thee more, and more.</l>
+                  <l>Thou takeſt from the mouths of Cavilers,</l>
+                  <l>And f<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t our hellies with good things of theirs.</l>
+                  <l>Thou feedeſt <hi>Ravens</hi> (Lard) who call on thee,</l>
+                  <l>Young Ravens (Lard) thou feedeſt ſuch as <hi>we.</hi>
+                  </l>
+                  <l>They can not praiſe thy Name, they eat indeed,</l>
+                  <l>But we do eat and praiſe, and praiſe and feed.</l>
+                  <l>So that our life is nought but a thankſ-giving</l>
+                  <l>For every eaten thing, both dead, and living.</l>
+                  <l>From ſtirring oyſsers, unto Capon ſtiffe,</l>
+                  <l>And cold, we eat throw ſaith, and corned Beef.</l>
+                  <l>This veniſon py, a wild untamed beaſt</l>
+                  <l>Ative; is dead, proviſion for the bleſt.</l>
+                  <l>All ſorts of Pye-meats (Lard) bleſſe unto us,</l>
+                  <pb n="17" facs="tcp:165369:10"/>
+                  <l>And ſanctifie our ſtomacks, by it thus.</l>
+                  <l>Let not our wembs be ſtreightned, but enlarge</l>
+                  <l>Our ventricles unto the whole diſcharge,</l>
+                  <l>Even unto ſuccetts, confects, dry, and moyſt,</l>
+                  <l>Let us go thorough, and be not debauch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t;</l>
+                  <l>Be it as thy ſervant prays, unto his wiſh,</l>
+                  <l>That he may taſt the Lard in <hi>every</hi> diſh.</l>
+               </sp>
+               <stage>So be it.</stage>
+               <stage>(2d. <hi>Grace.</hi>)</stage>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <p>O all ſufficient, all ſatisfying, all ſending Power, we the worſt of thy creatures have here before us more then a <hi>taſt</hi> of thy goodneſſe, even fiſh, fleſh and fowl; O what are we that ſo regardeſt us! um what are we? Ah who are we? we are things of nought man is a thing of nought; A naugh-ty thing! not worthy of the crums that fall from <hi>under</hi> thy table (Lard) and yet we are at the <hi>upper</hi> end of the Board. Bleſſe us together in the <hi>joynt</hi> receit of theſe gifts, and inable us through them to perform even what thou ſhalt put into our hearts, for all things are ſanct fi'd unto us, and we unto them; thou ſeeſt no ſin in us, conform us to thee, that we may ſee no ſin in our ſelves. In con<g ref="char:EOLhyphen"/>fidence hereof, we ſhall make bold with every thing before us, which thou haſt therefore beſtowed upon us. We will praiſe thy name both full and faſting, upon thy dayes of <hi>Humiliation</hi> in abſtinence and um — forbearance. On <hi>Thanksgiving dayes,</hi> ſuch as theſe, and (ah Lard) ſend us more, and more, and many more, in <hi>laying about us,</hi> and <hi>playing the men.</hi> Be it ſo.</p>
+               </sp>
+               <stage>3d. <hi>Grace.</hi>
+               </stage>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>Give us, ô Lard, what wilt thou give us? even <hi>Rea<g ref="char:EOLhyphen"/>ding</hi> ſtomacks: (good Lard) to wit, <hi>thorough ſtomacks,</hi> which will not jade us, nor tyre untill we come unto the Tables <hi>end.</hi> Our life is a <hi>Race,</hi> and here is our <hi>viaticum,</hi> um — we are Travellers — um — here is our Inne, here we have a good <hi>Bayt,</hi> a very plentifull bayt. It will not wrong us to ſweep the manger, to make clean work. For we are not as other hypocrites, reprobates, and Ene<g ref="char:EOLhyphen"/>mies of the State, but unto us thou haſt given, from them thou haſt taken, (bleſſed be thy name A Lard) they are at rack and
+<pb n="18" facs="tcp:165369:11"/>manger, but we are at full <hi>meale.</hi> Thrice bleſſed we, if we now ſhew in our receptions, embracings, and takings in unto us thy overtures, our unwearied gratitude, and more then feeding-on-by heart-thankfulneſſe. Which that we may no longer be kept from, with all powerfulneſſe and ſharpneſſe of ſenſe and appetite we buckle to the creature, before us in <hi>meats,</hi> behind us in <hi>drinks,</hi> aſide us in <hi>ſiſters.</hi>
+                  </p>
+               </sp>
+               <stage>Selah.</stage>
+               <stage>All ſit down.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>Carving the creature is allow'd, you may</l>
+                  <stage>Mrs. <hi>Wook carves.</hi>
+                  </stage>
+                  <l>Approve your skill in firm, or hollow meat;</l>
+                  <l>You have a liberall hand, and uſe the knife,</l>
+                  <l>As well as thoſe, that learn it from a pattern:</l>
+                  <l>An Italian Carver handles not ſo clean,</l>
+                  <l>Nor cuts ſo large a limb, and full.</l>
+               </sp>
+               <sp>
+                  <speaker>Rog:</speaker>
+                  <p>What a load ſhe hath laid him? A meſſe of Spaniards and wiſe Italians would dine with that one ſervice. Theſe are true Lutheran ſtomacks! How they tew it! Bleſſe the man! <hi>Olduns</hi> will choak himſelf with <hi>gobbets!</hi> maſticate you Cormorants: Here's Reformation gulleys. There's a weezle wil paſſe a widows houſe, and nere ſtrain for'c. How the diſh dances! The Surloyn nere mov'd ſo faſt when 'twas alive. Mr. <hi>Bew</hi> tickles the Chyne, it is aſſimilating meat; when will they wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er trow? A hog, or a horſe, are gentilemen commoners to theſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>Some drink; a plenteous glaſſe of Clarret <hi>Ralph,</hi> ſuch as I alwayes uſe after the 3d remove of my trencher. (<hi>dr.</hi>)</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <p>A hearty draught unto us all.</p>
+               </sp>
+               <sp>
+                  <speaker>Bew.</speaker>
+                  <p>Let go round. <hi>dr.</hi> I thirſt again. <hi>dr.</hi> and again I ſay I thirſt. <hi>dr</hi> This chyne was corned to the purpoſe, ſalt as thy Miſtriſſe, and as toothſome! it will draw down a hogſ-head.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wooll:</hi>
+                  </speaker>
+                  <p>
+                     <hi>Ralph,</hi> ſome white-wine <hi>Ralph</hi> of that the Mer<g ref="char:EOLhyphen"/>chant ſent my Husband for his Brothers quick diſpatch at <hi>Squeezing</hi> Hall. It is a high, full, and brisk piece, a friendly glaſſe ſiſter <hi>Hanna.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>May we not not tope about a little ſiſter with the Levites approbation?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi> I:</speaker>
+                  <p>And example too.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>Healths are profane. <hi>Masky Tope</hi> ſiſter <hi>Abigail. dr.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Av:</hi>
+                  </speaker>
+                  <p>Tope ſiſter <hi>Dorcas.</hi> (<hi>dr.</hi>)</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>A <hi>dry Tope</hi> now ant pleaſe you ſiſter.</p>
+               </sp>
+               <pb n="19" facs="tcp:165369:11"/>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>What's that?</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Tr:</hi>
+                  </speaker>
+                  <p>That's a <hi>ſalute.</hi> Frolick is ſtale.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>You are very <hi>apprehenſive,</hi> it is ſo. Tope about.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>A tope to the Lieut: <hi>Generall.</hi>
+                  </p>
+               </sp>
+               <stage>(kiſſE the Levites.)</stage>
+               <sp>
+                  <speaker>Mrs. <hi>Av:</hi>
+                  </speaker>
+                  <p>To Mr. <hi>Martin</hi> too a tope.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>A tope to all the <hi>Able Members</hi> of the Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>Now a wet Tope upon the occaſion. Let's not for<g ref="char:EOLhyphen"/>get the valiant Collonel <hi>Jones,</hi> and <hi>Captain Oatway.</hi> Fill largely <hi>Ralph.</hi>
+                  </p>
+               </sp>
+               <stage>(All dr.)</stage>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <p>Now one tope to Mr. <hi>Goodwyn</hi> the Elder; <hi>(dr.)</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>He is a <hi>Saint</hi> ſure.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <p>I mean in Oppoſition to younger,</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>I have top'd. I do tope to you (brother) to the worthy <hi>Viſitors of Oxford,</hi> a ſwinging tope.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>They deſerve it highly, they have reform'd that plae to the purpoſe, there's no <hi>duſt</hi> left behind the <hi>doore,</hi> they have made clean work, they have ſwept all out. To good <hi>Sir Nat.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>The Malignants ſay he is an <hi>Aſſe.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>He? an Aſſe? and ſo am <hi>I.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <p>And <hi>I.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>And <hi>I.</hi> So they ſay <hi>Cheynell</hi> and <hi>Wilkinſon</hi> are mad.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>They mad? And ſo am <hi>I.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ol:</hi>
+                  </speaker>
+                  <p>And <hi>I.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>And <hi>I.</hi> Nay they ſtick not to ſpeak unreverently of <hi>Dr. Reynolds</hi> and Dr. <hi>Harris,</hi> and call them hypocrites and diſ<g ref="char:EOLhyphen"/>ſembling knaves.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>They knaves! ſo am <hi>I.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <p>And <hi>I.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>And I.</p>
+               </sp>
+               <sp>
+                  <speaker>Rog:</speaker>
+                  <p>This was the beſt Tope yet; had it been ſung it would have gone to the Tune of <hi>thou knave</hi> excellently well.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>Let us return unto the ſolid creatures; the veniſon and cold Capon are untoucht, for which we did particularly give praiſe, we muſt not <hi>play</hi> with <hi>holy</hi> things, they muſt be eaten.</p>
+               </sp>
+               <stage>Enter the Husbands from the Ambuſh.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <p>Now is our Time, I will be in at the veniſon Py: How dos my <hi>Chuck.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tego:</hi>
+                  </speaker>
+                  <p>How doſt thou <hi>Duck.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>W.</hi>
+                  </speaker>
+                  <p>How doſt thou Cony?</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Welcome <hi>Wat.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Av:</hi>
+                  </speaker>
+                  <p>Welcome <hi>Hart.</hi>
+                  </p>
+               </sp>
+               <pb n="20" facs="tcp:165369:12"/>
+               <sp>
+                  <speaker>Mrs. <hi>Tr:</hi>
+                  </speaker>
+                  <p>Welcome <hi>Deere:</hi> this is thy Plot, thou art ſuch a man.</p>
+               </sp>
+               <stage>(Lerned riſes.)</stage>
+               <sp>
+                  <speaker>Mr. <hi>Ler.</hi>
+                  </speaker>
+                  <p>Your Fatherhoods are welcome to the place, The meats are bleſt, and thoroughly ſanctifi'd, ſit down; there needs no repetition, the <hi>creature can not fall from Grace.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <p>Here ſhould be a Chapter read, or one of Mr. <hi>Rous</hi> his Pſalms: <hi>A parentheſis</hi> of <hi>Scripture,</hi> or a pauze in a hymne would do well, that we might fall on more vigorouſly.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>Talk not of Chapters, unleſſe it be of Deans and Chapters, and their Lands, and thoſe, that will expound them.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>L:</hi>
+                  </speaker>
+                  <p>It will do better farre to have the verſes of the Park, <hi>(Ralph)</hi> do it with a Grace now.</p>
+               </sp>
+               <sp>
+                  <speaker>Rog:</speaker>
+                  <p>Then you muſt riſe again.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>Looſe nothing <hi>(Ralph)</hi> accent right <hi>(Ralph)</hi> empha<g ref="char:EOLhyphen"/>ſis it right <hi>(Ralph)</hi> ſpeak out <hi>(Ralph),</hi> and boldly, be confident <hi>(Ralph)</hi> as I am at a Thankſgiving Sermon, and all's thine, <hi>(Ralph.)</hi>
+                  </p>
+               </sp>
+               <stage>(Ralph does his homages.)</stage>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <l>Not ſuch a Preſent ſince good <hi>Noahs Ark,</hi>
+                  </l>
+                  <l>As this of the <hi>new State,</hi> their <hi>Fine-New-Park,</hi>
+                  </l>
+                  <l>The <hi>Arke,</hi> and <hi>Parke,</hi> I do compare the rather,</l>
+                  <l>Becauſe ith' <hi>Ark</hi> and <hi>Park</hi> were men and beaſts together.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>Well held out <hi>(Ralph,)</hi> the <hi>elbowity</hi> of that verſe was very gracefull. How it <hi>tinks</hi> too, the <hi>Arke,</hi> and <hi>Parke,</hi> 'twill take I ſee. On (good <hi>Ralph.</hi>)</p>
+               </sp>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <l>The paralel ſtill holds, God made the <hi>Arke,</hi>
+                  </l>
+                  <l>God made the <hi>Parke.</hi> God made them both: ô hearke,</l>
+                  <l>How I ſhall ſing, the wondrous works oth' one,</l>
+                  <l>And th' other, 'fore my ſylval muſe be done.</l>
+                  <l>The Creatures came to <hi>Noahs Arke</hi> by two's,</l>
+                  <l>So did we come each did his <hi>Copeſmate</hi> chuſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Well <hi>(Wat)</hi> my <hi>Ralph</hi> ſhall be made free to mor<g ref="char:EOLhyphen"/>row, ſweet <hi>(Wat)</hi> let him ſet up for himſelf, I will give ſome<g ref="char:EOLhyphen"/>what towards his ſetting up; ſhall I <hi>Wat?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <p>(Cony) it ſhall be.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Forward <hi>Ralph.</hi> I could dry Tope him if <hi>Wat</hi> were gone, he looks and ſpeaks like a Cherubin.</p>
+               </sp>
+               <stage>On <hi>Ralph.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <l>The Rutting Buck, and Doe together came,</l>
+                  <pb n="21" facs="tcp:165369:12"/>
+                  <l>The Bull and Cow, the tupped Yew, and Ramme.</l>
+                  <l>The leaping Horſe and Mare: The Aſſe and ſhe</l>
+                  <l>Who doth ſubmit unto his waggery;</l>
+                  <l>No Mules did come, nor <hi>Eterogeneous</hi> thing,</l>
+                  <l>My Muſe doth onely of <hi>pure doing</hi> ſing.</l>
+                  <l>Birds in their kinde: the Billing Turtles came,</l>
+                  <l>The Cock and Hen, the very <hi>Cock oth' Game:</hi>
+                  </l>
+                  <l>There was the Raven, and the Raveneſſe,</l>
+                  <l>(The <hi>Type</hi> of Glergymens-<hi>wife-lawfulneſſe.</hi>)</l>
+                  <l>Whom he no doubt in <hi>multiply'ng</hi> did bleſſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>I made a triple cloſe there, firſt becauſe the ſecond verſe is not exactly rime, then ſecondly to ſhew the fruitfulneſſe of my veine upon a fruitfull ſubject. On <hi>Ralph.</hi> He ſet it <hi>forth</hi> exceedingly.</p>
+               </sp>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <l>This Park will not contain the things were there,</l>
+                  <l>Nor can this <hi>Parke</hi> ſwim, as that <hi>Arke</hi> I hear.</l>
+                  <l>Yet here are Beaſts good ſtore, and the States minde,</l>
+                  <l>Is that they ſhould increaſe, and that in <hi>kinde</hi>
+                  </l>
+                  <l>For unto you is given to eat, and feaſt,</l>
+                  <l>The <hi>Parke</hi> not onely, but the very <hi>Beaſt.</hi>
+                  </l>
+                  <l>The State a lean, and ſlender Preſent ſcorns;</l>
+                  <l>The <hi>Parke,</hi> the <hi>Beaſts</hi> are <hi>yours,</hi> the <hi>Hides,</hi> the <hi>Horns,</hi>
+                  </l>
+                  <l>The <hi>Ark</hi> and <hi>Park</hi> in this do differ thought.</l>
+                  <l>The Arke was for the <hi>Water,</hi> this <hi>not ſo.</hi>
+                  </l>
+                  <l>This Park is given to us for <hi>Land,</hi> untill</l>
+                  <l>That Iriſh <hi>Canaan</hi> be at <hi>Olivers</hi> will.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>Now conclude <hi>Ralph</hi> ſmartly, with the ſting in the tayl, as all Epigramaticall Poems ſhould.</p>
+               </sp>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <l>Tis all our own, it comes; Be wondrous merry,</l>
+                  <l>The next good news: All <hi>Irelands London Derry.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Well ſaid <hi>Ralph,</hi> and well ſpoke <hi>(Ralph,)</hi> I could bite thee by the eare for this <hi>(Ralph,)</hi> you have learned more then my Trade, ſirrah, when I was a young man I was much gi<g ref="char:EOLhyphen"/>ven to ſuch toys, you have been peeping in my looſe ſheets, go to; 'tis my very Fancy, the length of my feet to a hair. Well done <hi>Ralph,</hi> thou ſhalt wear Cuffs to morrow, and be Free, thy Indentures ſhall be cancell'd; He has ſerv'd me but ten yeers,
+<pb n="22" facs="tcp:165369:13"/>and I'le remit him one of eleven for his fancy ſake: I am a mer<g ref="char:EOLhyphen"/>cifull Maſter.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>W:</hi>
+                  </speaker>
+                  <p>Well don <hi>(Wat) Ralph</hi> ſhall know he hath a Miſtriſſe too before I ſleep.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>Where's our <hi>Hodge</hi> (Deer)? what cant he ſay <hi>Bob</hi> to a <hi>Gooſe</hi> now? he was not turn'd out of the variety for no<g ref="char:EOLhyphen"/>thing: <hi>Hodge</hi> do ſomewhat, or nere come nere me more. Art not aſham'd to ſee a ſtripling do more then thou canſt, come, when? out with it <hi>(Hodge.)</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Rog. Tr:</speaker>
+                  <l>Of gold and goblets chang'd to <hi>Parks</hi> I ſing,</l>
+                  <l>Aſſiſt ye <hi>States,</hi> from you theſe wonders ſpring,</l>
+                  <l>A backward <hi>Alchymy,</hi> which quaintly turns</l>
+                  <l>Gold into wood, and yet no Coals it burns.</l>
+                  <l>Each <hi>Bodkin</hi> in this new <hi>Alembeck</hi> proves</l>
+                  <l>A <hi>Tree, Earings</hi> and <hi>Thimbles</hi> ſtart up <hi>groves;</hi>
+                  </l>
+                  <l>
+                     <hi>Gilt</hi> ſpoonet are <hi>ſaplings,</hi> and the Orphans food</l>
+                  <l>
+                     <hi>Papp</hi> with a <hi>hatchet,</hi> it is nurſt with <hi>wood;</hi>
+                  </l>
+                  <l>The Widows joynture here moſt ſtately ſhews,</l>
+                  <l>She calls for't in, the <hi>Feoffees</hi> ſay It <hi>grows.</hi>
+                  </l>
+                  <l>Eſtates are All in <hi>Common,</hi> this new <hi>Parke</hi>
+                  </l>
+                  <l>Is a Fee-<hi>ſimple,</hi> the Evidence in <hi>Barke:</hi>
+                  </l>
+                  <l>The City <hi>Chamber</hi> is a <hi>Meadow:</hi> There's</l>
+                  <l>No more <hi>Aldermen</hi> now, but <hi>Forreſters;</hi>
+                  </l>
+                  <l>Our Charters, that they may with eaſe be ſeen,</l>
+                  <l>And Charta de Forreſta's, all in Green.</l>
+                  <l>
+                     <hi>Greenmen</hi> the <hi>Sheriffs</hi> are, the <hi>Major</hi> the while,</l>
+                  <l>And the <hi>Recorder John</hi> an <hi>Oakes,</hi> and <hi>Steile.</hi>
+                  </l>
+                  <l>The <hi>Regiſters</hi> are <hi>leafs:</hi> Go burn your Hall;</l>
+                  <l>Attend October, then the <hi>Leaſes</hi> fall.</l>
+                  <l>O Providence of State, who wiſely pay</l>
+                  <l>Ith' nick of time, their <hi>debts</hi> in <hi>graſſe</hi> and <hi>Hay.</hi>
+                  </l>
+                  <l>The Publick Faith was poore ſecurity:</l>
+                  <l>Wu'd you a longer liver, then a Tree?</l>
+                  <l>Earth is no Flincher, and for want of Rain</l>
+                  <l>Is <hi>bound</hi> toth' <hi>purpoſe;</hi> Lend, lend on again.</l>
+                  <l>Old cuſtomes are revived from the ſcurfe,</l>
+                  <l>Poſſeſſions are new given by the <hi>Turfe.</hi>
+                  </l>
+                  <pb n="23" facs="tcp:165369:13"/>
+                  <l>Old <hi>London Stone,</hi> forth' good oth' Commoners,</l>
+                  <l>(That each may know his own) cut into <hi>Meeres.</hi>
+                  </l>
+                  <l>
+                     <hi>Canaan</hi> was thus divided, and the Tribes</l>
+                  <l>Poſſeſſ'd by <hi>ſtones,</hi> before the uſe of Scribes.</l>
+                  <l>You are the <hi>younger Saints,</hi> and your pro-greſſe</l>
+                  <l>Is yet, but in a kinde of <hi>Wilderneſſe.</hi>
+                  </l>
+                  <l>But when the States have vanquiſht Ireland once,</l>
+                  <l>You ſhall have all, and meet it out with <hi>ſtones.</hi>
+                  </l>
+                  <l>Engage, engage apace, while the State lives,</l>
+                  <l>She is a liberall Governeſſe, ſhe gives.</l>
+                  <l>This is a taſte to th' City of their loves,</l>
+                  <l>Lend all you have; and you ſhall <hi>all</hi> have <hi>Groves.</hi>
+                  </l>
+                  <l>Then though the <hi>King</hi> return with forraign Force,</l>
+                  <l>And take your <hi>Forreſt,</hi> what are you the worſe.</l>
+                  <l>When theſe are gone, the <hi>State</hi> more favour yeelds,</l>
+                  <l>They give <hi>Parks</hi> now, and then <hi>Elyſian Fields.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>You are a little too bitter (ſirrah.)</p>
+               </sp>
+               <sp>
+                  <speaker>Rog:</speaker>
+                  <p>Satyrs in Woods (Sir) are moſt proper.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <p>'Twas well he was turn'd out of <hi>Oxford.</hi> He would have prov'd a dangerous Fellow. He was one of ſome of the <hi>Ri<g ref="char:EOLhyphen"/>ming Colledges</hi> I warrant you.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <p>I would not have a <hi>Poet,</hi> nor <hi>Orator</hi> left in that Uni<g ref="char:EOLhyphen"/>verſity. Let it be an Article, if any be witty turn him out. Let it be ſped to the <hi>Viſitors,</hi> they'l do it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <p>Well <hi>Hodge,</hi> 'tis very well, I like thee well enough.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Fy, fy, 'tis a Hodge podge, neither head nor tall; <hi>Ralph</hi> is worth a thouſand of him.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Tr:</hi>
+                  </speaker>
+                  <p>
+                     <hi>Ralph! Hodge</hi> ſhall put him in his pocket, <hi>Hodge</hi> is a man of his hands, as well as feet.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Marry get with your Delinquents brat!</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs <hi>Try:</hi>
+                  </speaker>
+                  <p>Set that aſide, and he is as clean a youth as ever ſer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'d City Dame, I, as <hi>Ralph.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Out Impudence! As <hi>Ralph?</hi> you carry him his ſhirts, I warrant you, and reckon with him on Saterday nights for his week lapies, and bring him on his knees for it. Do you not?</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Tr:</hi>
+                  </speaker>
+                  <p>Do you traduce my good name, you <hi>Jeſabell?</hi> I'le
+<pb n="24" facs="tcp:165369:14"/>ſend to you, though I cannot reach you.</p>
+               </sp>
+               <stage>(Throws a corner of the Paſty at her.)</stage>
+               <sp>
+                  <speaker>Mrs. <hi>Wool:</hi>
+                  </speaker>
+                  <p>There's muſtard and ſugar to your veniſon.</p>
+               </sp>
+               <stage>(The husbands run forth.)</stage>
+               <sp>
+                  <speaker>Ralph.</speaker>
+                  <p>Sweet Miſtriſſe return unto your temper, let me allay your heat, pray do not ſwell ſo much.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <p>This is unſeemly in the Saints, and ſhews you are fleſh, which for a while, and but a while I hope, reſiſts the ſpirit.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Old:</hi>
+                  </speaker>
+                  <p>
+                     <hi>(riſes, and with his hat off)</hi> Hum (Lard) Ah why haſt thou made a <hi>Belſhazzars</hi> feaſt of this? hum why this con<g ref="char:EOLhyphen"/>fuſion Lard? Let not ſuch a <hi>ſpirit</hi> of violence, and not bearing with one another any longer poſſeſſe and teare in pieces the good ſiſters; Command the <hi>Abaddon</hi> out of them, even as farre as Rumford (Lard) amongſt the <hi>Hoggs:</hi> I charge thee <hi>ſpirit</hi> of <hi>trouble,</hi> and Feaſt-Interruption, <hi>ſpirit</hi> of <hi>unſociableneſſe,</hi> and <hi>A<g ref="char:EOLhyphen"/>verſeneſſe</hi> unto good doings, and Brother and Siſterly meetings <hi>Come forth, Come forth, Come forth</hi> I ſay <hi>inſtanter, inſtantanèè, inſtan<g ref="char:EOLhyphen"/>tiſſime.</hi>
+                  </p>
+               </sp>
+               <stage>Enter the Husbands with the Muſick.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Try:</hi>
+                  </speaker>
+                  <p>Strike up merrily now, ſuch an aire as were able to reduce the wilderneſſe, or ſettle the wilde Inhabitants of Bethlem, or compoſe the tortures and vexations of <hi>Darby Houſe</hi>-Conſciences, ſuch a tune now beyond the <hi>Taratantara,</hi> muſt re<g ref="char:EOLhyphen"/>cover this <hi>Tarantula.</hi>
+                  </p>
+               </sp>
+               <stage>(Muſick play ſeverall ſmart Tunes.)</stage>
+               <sp>
+                  <speaker>Mr. <hi>Ler:</hi>
+                  </speaker>
+                  <l>I ſhall not need to hold forth ought of Peace</l>
+                  <l>And reconcilement, there is in <hi>Muſicke</hi>
+                  </l>
+                  <l>Strange <hi>ſympathetick</hi> virtue, and occult</l>
+                  <l>Quality's beyond my knowledge, to allay</l>
+                  <l>Paſſions enrag'd, or elſe enrage, tame ſpirits:</l>
+                  <l>The things is hinted to us in <hi>Saul</hi> and <hi>David.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <l>I will no longer ſtrive againſt my ſiſter,</l>
+                  <l>She is a weaker veſſell, as my ſelf.</l>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>Try:</hi>
+                  </speaker>
+                  <p>It was a <hi>frailneſſe</hi> in me: I am ſtrengthened, and am
+<pb n="25" facs="tcp:165369:14"/>confirm'd in love: I do <hi>tope</hi> to you in ſigne of <hi>Reconciliation.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>W:</hi>
+                  </speaker>
+                  <p>I take your tope, both the dry, and wet.</p>
+               </sp>
+               <stage>Salute and dr.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Bew.</hi>
+                  </speaker>
+                  <l>What a Becoming, hum, as I may term it,</l>
+                  <l>One-ſomeneſſe, and Chriſtian-piecingneſſe is this?</l>
+                  <l>Your broken arcon will be ſtronger for't.</l>
+                  <l>So; I would have you <hi>wedg'd,</hi> and cramp'd together.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Now for a Dance, pace um my nimble (Levites) about with them, about with um ſtoutly till they ſteam again, when I was a yonker as you are, I would have workt a Siſter in<g ref="char:EOLhyphen"/>to ſudds, and landred her in her own Bath.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <p>To it, to it. Mr. <hi>Olduns</hi> they ſay you are a Firker.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <p>Mr. <hi>Bew,</hi> my wife will dance with none but you, you have been her Valentine theſe ten yeers; Couple, couple, quickly.</p>
+               </sp>
+               <stage>The Levites dance the Siſters.</stage>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <p>Wee'l run over the Diurnals in the mean time. The Moderate Intelligencer is very full this week: what a com<g ref="char:EOLhyphen"/>fortable Letter is here from Collonel <hi>Jones?</hi> What was it <hi>Or<g ref="char:EOLhyphen"/>monds</hi> Faire, that there were ſuch rich prizes taken? who would have taken it for a Siege? And you will, we will ſend and buy it all, 'twill be good chaffer.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Tr:</hi>
+                  </speaker>
+                  <p>It came ith' nick of time, my heart was almoſt done, I was even Arkins'd: we may break off again with Cathlicks now, <hi>Munck</hi> was too haſty. It is a ſhrewd aſperſion to the Saints to have their neceſſities made their upbraidings; we cannot thoroughly ſerve God and Belial.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <p>The <hi>Presbyterian</hi> are more convenient for our purpo<g ref="char:EOLhyphen"/>ſes; we did begin with them, and we ſhould not part my thinks. If they would leave their hankering after <hi>King</hi> and <hi>Coenant,</hi> we ſhould unite, and carry all before us. They were not ſo well ſighted as we to ſee the end of the <hi>Covenant,</hi> and the Saints get ground upon the wicked by advantages; I would they were all enlightned as I am, they would not care for formes and diſci<g ref="char:EOLhyphen"/>pline ſo much: they are blinde Brethren yet, and want a dip<g ref="char:EOLhyphen"/>ping more. They will look about if this News hold.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <l>I warrant it, it holds: doſt hear?</l>
+                  <pb n="26" facs="tcp:165369:15"/>
+                  <l>His <hi>Lordſhips</hi> ſhipp'd: we are <hi>Princes</hi> all.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Av:</hi>
+                  </speaker>
+                  <l>I muſt unto my Court at ſqueezing Hall,</l>
+                  <l>There wait thoſe Oranges, thoſe humbled things:</l>
+                  <l>While we ſit uncontroul'd, like Petty kings.</l>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Wool:</hi>
+                  </speaker>
+                  <l>We will have the Song and ſo conclude:</l>
+                  <l>Our wives to their Caroches, we to our Horſes, Levites to their</l>
+                  <l>Books. Boys to the Shops, and Muſick to the ſcrapps.</l>
+               </sp>
+               <div type="song">
+                  <head>The Song.</head>
+                  <opener>
+                     <hi>To the Tune of,</hi> In the merry Moneth of May.</opener>
+                  <lg>
+                     <head>1.</head>
+                     <l>In the merry merry Moneth of June,</l>
+                     <l>When the Roſe fades: But Veniſon</l>
+                     <l>Ranges ſtately by the Wood ſide,</l>
+                     <l>With Head branched in her pride.</l>
+                     <l>Then the State look'd down upon</l>
+                     <l>Citizana, and Citizon.</l>
+                  </lg>
+                  <lg>
+                     <head>2</head>
+                     <l>The States that ſtiled are the Free,</l>
+                     <l>More then thoſe of <hi>Germany:</hi>
+                     </l>
+                     <l>Free of Fleſh, as any State,</l>
+                     <l>Gave us <hi>Veniſon</hi> for our <hi>Plate.</hi>
+                     </l>
+                     <l>They will give us any Thing,</l>
+                     <l>A <hi>New Parke</hi> for <hi>an old King.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>3.</head>
+                     <l>What Returns are theſe for our loanes?</l>
+                     <l>No man grudgeth, no mayd groans.</l>
+                     <l>She that layd her Bodkin down,</l>
+                     <l>In New Park has a green gown.</l>
+                     <pb n="27" facs="tcp:165369:15"/>
+                     <l>And if that be not enough,</l>
+                     <l>What is farre more pleaſing ſtuffe?</l>
+                  </lg>
+                  <lg>
+                     <head>4.</head>
+                     <l>Here ſhall be plenty of kiſſes then,</l>
+                     <l>And young mayds may kiſſe young men.</l>
+                     <l>Here ſhall be luſty Troopers ſent,</l>
+                     <l>To recruit the Mayds Regiment.</l>
+                     <l>And every barn that ſhall be ſeen,</l>
+                     <l>A Robin hood, or John a-Green.</l>
+                  </lg>
+                  <lg>
+                     <head>5.</head>
+                     <l>Let every joyfull Citizen</l>
+                     <l>Clothe his triumphant head with Green;</l>
+                     <l>Here's Green enough for all their Brows,</l>
+                     <l>Seem like a <hi>Forreſt</hi> All in <hi>Bows:</hi>
+                     </l>
+                     <l>To after Times let it paſſe for good,</l>
+                     <l>The men oth' City were all <hi>Wood.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>(Cloſe.)</head>
+                     <l>Thus Enge-land for a <hi>Crown</hi> of <hi>Gold</hi>
+                     </l>
+                     <l>Is with a ſilly <hi>Willow</hi> garland fool'd:</l>
+                     <l>thus Engeland by ſucceſſe-full knaves,</l>
+                     <l>Is become a State of <hi>Fools,</hi> and <hi>Slaves.</hi>
+                     </l>
+                     <l>Thus for a <hi>Parke,</hi> like a ſort of Owls,</l>
+                     <l>The <hi>Charters</hi> loſt of the <hi>Forreſt of Fools.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div type="epilogue">
+               <pb n="28" facs="tcp:165369:16"/>
+               <head>Epilogue.</head>
+               <stage>
+                  <hi>Roger</hi> left behinde.</stage>
+               <l>IF any thing obſcure, not underſtood</l>
+               <l>Be here, the State <hi>expounds</hi> the darkeſt wood:</l>
+               <l>And makes the thickeſt thickets plain and clear,</l>
+               <l>As the back of your hand, as <hi>Shot-over:</hi>
+               </l>
+               <l>For <hi>Nol</hi> expounds, the <hi>officers</hi> expound,</l>
+               <l>The <hi>Souldiers too</hi> expound, <hi>All in a Round:</hi>
+               </l>
+               <l>You'd think <hi>Jeruſalem</hi> were building new,</l>
+               <l>With <hi>Swords in hand and Bible,</hi> nay by th' <hi>Jew:</hi>
+               </l>
+               <l>The <hi>Jews</hi> buy all, the <hi>Independents</hi> ſell,</l>
+               <l>The <hi>wares</hi> the <hi>King's</hi> and's <hi>friends;</hi> the <hi>Fair</hi> is hell:</l>
+               <l>D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fference there is twixt <hi>that,</hi> and <hi>Bartholmew,</hi>
+               </l>
+               <l>That brings <hi>Brimſtone</hi> and <hi>Fire,</hi> this the <hi>cold Deaw.</hi>
+               </l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

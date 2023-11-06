@@ -1,0 +1,463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie vpon the death of that worthy house-keeper, VVilliam Smith, of Crissing-Temple in the county of Essex, esquire, who dyed the eleventh day of February, 1630. aged 74. yeeres.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1631</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08099</idno>
+            <idno type="OCLC"> 82475306</idno>
+            <idno type="STC">STC 22871A.5</idno>
+            <idno type="STC">ESTC S125978</idno>
+            <idno type="EEBO-CITATION">82475306</idno>
+            <idno type="OCLC">ocm 82475306</idno>
+            <idno type="VID">185169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185169)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2255:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie vpon the death of that worthy house-keeper, VVilliam Smith, of Crissing-Temple in the county of Essex, esquire, who dyed the eleventh day of February, 1630. aged 74. yeeres.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1631..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Woodcut title-page illustration; head-piece, initial.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smith, William, d. 1631 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:185169:1"/>
+            <pb facs="tcp:185169:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:185169:2"/>
+            <pb facs="tcp:185169:2"/>
+            <pb facs="tcp:185169:3"/>
+            <pb facs="tcp:185169:3"/>
+            <p>AN ELEGIE VPON THE DEATH OF THAT WORTHY HOVSE-KEEPER, VVILLIAM SMITH, Of <hi>Criſsing-Temple</hi> in the County of <hi>Eſſex,</hi> Eſquire, who dyed the eleventh day of <hi>February,</hi> 1630. <hi>aged</hi> 74. <hi>yeeres.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a funeral procession</figDesc>
+            </figure>
+            <p>London Printed by <hi>G. P.</hi> 1631.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:185169:4"/>
+            <pb facs="tcp:185169:4"/>
+            <head>An <hi>Elegie</hi> upon the death of that wor<g ref="char:EOLhyphen"/>thy houſekeeper <hi>William Smith</hi> of <hi>Criſsing-Temple</hi> in the County of <hi>Eſſex</hi> Eſquire, who <hi>dyed the</hi> 11. <hi>day of February</hi> 1630. <hi>aged</hi> 74. <hi>yeeres.</hi>
+            </head>
+            <lg>
+               <l>LEt <hi>low deſerts</hi> be rais'd by <hi>flattering verſe,</hi>
+               </l>
+               <l>Thy <hi>worth</hi> abundantly adornes thy <hi>Herſe,</hi>
+               </l>
+               <l>And brings thee with <hi>high honor</hi> from the <hi>wombe,</hi>
+               </l>
+               <l>To <hi>ſwim</hi> in <hi>poore mens teares</hi> into thy <hi>Tombe;</hi>
+               </l>
+               <l>To them <hi>unkinde,</hi> onely in this, to dye,</l>
+               <l>And leave them in their <hi>deepeſt miſery.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh <hi>miſerable Poore!</hi> whoſe foule offence,</l>
+               <l>And great ingratitude; heavens influence</l>
+               <l>Stopt firſt, and barren made the earth in ſeed,</l>
+               <l>Which <hi>ſtrengthen</hi> ſhould thine heart with <hi>daily bread:</hi>
+               </l>
+               <l>Now with thy <hi>ſinnes</hi> t'increaſe thy <hi>penalty,</hi>
+               </l>
+               <l>God takes thy never <hi>failing Granary:</hi>
+               </l>
+               <l>Not that I <hi>blame the poore,</hi> the <hi>rich to ſpare,</hi>
+               </l>
+               <l>We all muſt <hi>guilty</hi> pleade at <hi>Heavens high barre;</hi>
+               </l>
+               <l>God lets us <hi>live</hi> to ſee our <hi>ſinnes juſt doome,</hi>
+               </l>
+               <l>And <hi>takes away</hi> the juſt from <hi>th'ill</hi> to <hi>come.</hi>
+               </l>
+               <l>If to <hi>doe good,</hi> and to <hi>abſtaine from ill,</hi>
+               </l>
+               <l>Be as in heaven, on <hi>earth</hi> to doe <hi>Gods will,</hi>
+               </l>
+               <l>And the <hi>whole law fulfild,</hi> is <hi>God above,</hi>
+               </l>
+               <l>And next <hi>thy neighbour,</hi> as <hi>thy ſelfe,</hi> to <hi>love,</hi>
+               </l>
+               <l>All this did he, for whom I <hi>bleede</hi> theſe <hi>teares,</hi>
+               </l>
+               <l>Whoſe <hi>vertues</hi> farre out numbered his <hi>yeeres;</hi>
+               </l>
+               <pb facs="tcp:185169:5"/>
+               <l>And (witneſſe men and Angels) in <hi>good deeds,</hi>
+               </l>
+               <l>
+                  <hi>Not houres,</hi> but <hi>minutes</hi> of his life, exceeds.</l>
+            </lg>
+            <lg>
+               <l>That of the <hi>dead's</hi> a bleſſed <hi>commendation,</hi>
+               </l>
+               <l>Which to the living <hi>ſerves</hi> for <hi>imitation;</hi>
+               </l>
+               <l>Yet <hi>future times</hi> may thinke, if they this ſee,</l>
+               <l>I write not what <hi>he was,</hi> but <hi>ought to bee,</hi>
+               </l>
+               <l>A <hi>faire Idea</hi> for <hi>applauſe</hi> and <hi>glory,</hi>
+               </l>
+               <l>And not a true <hi>eſſentiall living ſtory.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Well of a <hi>Temple</hi> had his houſe the name,</l>
+               <l>For like a <hi>Temple</hi> he did uſe the ſame,</l>
+               <l>The <hi>morning</hi> and the <hi>evening ſacrifice,</hi>
+               </l>
+               <l>Never omitted in the <hi>comelieſt wiſe,</hi>
+               </l>
+               <l>And that which in theſe daies is wondrous rare,</l>
+               <l>The <hi>Governors</hi> two <hi>living Temples</hi> were,</l>
+               <l>And labour'd to have all, that on them wayted,</l>
+               <l>As they themſelves were <hi>truly conſecrated.</hi>
+               </l>
+               <l>As <hi>older,</hi> more <hi>Religious</hi> he grew,</l>
+               <l>Making a <hi>conſcience</hi> ay to pay his due</l>
+               <l>To <hi>Gods owne Tribe,</hi> whom he ſo honoured,</l>
+               <l>As <hi>watchmen</hi> over us ſet in <hi>Gods ſtead;</hi>
+               </l>
+               <l>Like good <hi>old Abraham,</hi> moſt joyfull, when</l>
+               <l>He <hi>Angels</hi> entertain'd in <hi>ſhapes of men.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus was he to <hi>his God:</hi> his <hi>converſation</hi>
+               </l>
+               <l>With men, was no leſſe worthy <hi>obſervation,</hi>
+               </l>
+               <l>Even from the <hi>Throne</hi> to him that low doth grind</l>
+               <l>At <hi>mill,</hi> he <hi>loyall, faithfull</hi> was, and <hi>kind:</hi>
+               </l>
+               <l>In his <hi>relation</hi> to his <hi>Soveraigne,</hi>
+               </l>
+               <l>Although his <hi>outward preſence</hi> was but plaine,</l>
+               <l>His <hi>actions</hi> were moſt <hi>noble, juſt</hi> and <hi>wiſe,</hi>
+               </l>
+               <l>Conducing to the <hi>higheſt enterpriſe,</hi>
+               </l>
+               <l>Yet to <hi>ſtate-ſecrets</hi> he would not intrude,</l>
+               <l>Nor <hi>foment factions</hi> of the <hi>multitude;</hi>
+               </l>
+               <pb facs="tcp:185169:5"/>
+               <l>The <hi>queſtion</hi> whether, hard was to debate,</l>
+               <l>He <hi>honour'd more</hi> his King, or <hi>lov'd the ſtate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He alwaies did in higheſt favour ſtand</l>
+               <l>With <hi>greateſt Lords,</hi> and <hi>Rulers</hi> of the Land,</l>
+               <l>With whom he was <hi>familiar</hi> as <hi>their hoſt,</hi>
+               </l>
+               <l>And where he once <hi>gain'd favour</hi> never <hi>loſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To <hi>friends,</hi> and <hi>neighbours</hi> evermore moſt deare,</l>
+               <l>Where he ſo <hi>equally</hi> himſelfe did beare,</l>
+               <l>All <hi>ſtrife</hi> and <hi>quarrels</hi> he in <hi>peace</hi> did <hi>end.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>orphanes father,</hi> and the <hi>widdowes friend,</hi>
+               </l>
+               <l>With whom they <hi>truſt</hi> their <hi>ſtates</hi> in <hi>confidence</hi>
+               </l>
+               <l>Of good <hi>improvement</hi> by his <hi>diligence.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To his <hi>inferiours</hi> alwaies ſo was hee,</l>
+               <l>As our <hi>Superiours</hi> wee would wiſh to bee:</l>
+               <l>
+                  <hi>Friendly</hi> to all and <hi>loving:</hi> To the <hi>poore</hi>
+               </l>
+               <l>So <hi>bountifull,</hi> as if <hi>God</hi> ſent him <hi>ſtore</hi>
+               </l>
+               <l>And <hi>plenty,</hi> it amongſt them to <hi>diſpence,</hi>
+               </l>
+               <l>And to <hi>releeve</hi> their <hi>preſſing indigence.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus he <hi>abroad:</hi> How in his <hi>family?</hi>
+               </l>
+               <l>Oh now my <hi>numbers</hi> turne all <hi>Elegie!</hi>
+               </l>
+               <l>And firſt his <hi>deareſt Turtles loſſe</hi> bemoane,</l>
+               <l>Who after <hi>fifty yeeres</hi> is left alone,</l>
+               <l>Ever to her moſt <hi>gentle, loving, wiſe,</hi>
+               </l>
+               <l>And never as the <hi>weaker,</hi> did <hi>deſpiſe;</hi>
+               </l>
+               <l>But as <hi>both</hi> were one <hi>body, mind and heart,</hi>
+               </l>
+               <l>Both <hi>liv'd,</hi> and <hi>lov'd,</hi> and never <hi>bed</hi> did part;</l>
+               <l>So kindly drawing in this <hi>loving yoke,</hi>
+               </l>
+               <l>One would have wiſht it never might have <hi>broke,</hi>
+               </l>
+               <l>Or that we had ſome <hi>fruit</hi> of ſuch a <hi>paire,</hi>
+               </l>
+               <l>But's <hi>lot</hi> to <hi>chuſe</hi> was, not <hi>beget</hi> his <hi>heire:</hi>
+               </l>
+               <l>Whom under him like to himſelfe he bred;</l>
+               <l>But I the <hi>living</hi> praiſe not, but the <hi>dead:</hi>
+               </l>
+               <pb facs="tcp:185169:6"/>
+               <l>Yet this faire <hi>heritage,</hi> as oft it fares</l>
+               <l>With other <hi>heires,</hi> cannot <hi>dry</hi> up <hi>his teares.</hi>
+               </l>
+               <l>I boldly ſay they farre <hi>preferd</hi> his <hi>health,</hi>
+               </l>
+               <l>Before <hi>th'inheriting</hi> of all his <hi>wealth.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You of his <hi>owne blood</hi> and <hi>affinity,</hi>
+               </l>
+               <l>Your <hi>burthen</hi> beare in this ſad <hi>melody:</hi>
+               </l>
+               <l>Was he not as a <hi>father</hi> to you all?</l>
+               <l>On whom, unasked, he let <hi>large bleſſings</hi> fall.</l>
+            </lg>
+            <lg>
+               <l>And you his <hi>ſervants!</hi> ah that once you were,</l>
+               <l>And are not ſtill, had he not greater <hi>care</hi>
+               </l>
+               <l>Of your <hi>preferment,</hi> than your <hi>ſervice</hi> due?</l>
+               <l>And though he <hi>many</hi> kept, yet had <hi>few</hi> new:</l>
+               <l>Before your <hi>outward mourning</hi> doth begin,</l>
+               <l>I ſee your hearts for ſorrow bleede <hi>within,</hi>
+               </l>
+               <l>All <hi>act</hi> our <hi>parts</hi> in this ſad <hi>Elegie,</hi>
+               </l>
+               <l>The <hi>Poore's</hi> the <hi>Chorus</hi> of the <hi>Tragedy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As for <hi>my ſelfe,</hi> I need no <hi>Fathers</hi> urne,</l>
+               <l>Nor <hi>dead ſonnes bones</hi> to move my <hi>muſe</hi> to mourne,</l>
+               <l>
+                  <hi>Hearts griefe</hi> will moſt <hi>abundantly</hi> indite,</l>
+               <l>If I my <hi>ſorrowes</hi> for my <hi>loſſes</hi> write.</l>
+               <l>Oh! I have loſt a <hi>ſweete familiar,</hi>
+               </l>
+               <l>A <hi>friend,</hi> a <hi>father,</hi> and a <hi>Counſellor,</hi>
+               </l>
+               <l>Whoſe <hi>Actions</hi> all, like <hi>precepts of the wiſe,</hi>
+               </l>
+               <l>Directed mee true <hi>vertues exerciſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>One above all; I never heard he utter'd</l>
+               <l>
+                  <hi>Leaſt ill</hi> of them, that <hi>falſely</hi> 'gainſt him mutter'd,</l>
+               <l>Although (as 'twas with <hi>Chriſt) foulem-outh'd detraction</hi>
+               </l>
+               <l>Baſely <hi>traduc'd</hi> the <hi>beſt of all his action;</hi>
+               </l>
+               <l>
+                  <hi>Heavens ſchoole</hi> him taught to <hi>love</hi> his <hi>enemies,</hi>
+               </l>
+               <l>And <hi>retribute rewards</hi> for <hi>injuries:</hi>
+               </l>
+               <l>
+                  <hi>Graces</hi> are like <hi>high ſtaires, Humility</hi>
+               </l>
+               <l>
+                  <hi>The Baſis,</hi> This ſure is the <hi>Summity,</hi>
+               </l>
+               <pb facs="tcp:185169:6"/>
+               <l>To which none can aſcend but by the reſt,</l>
+               <l>And <hi>many ſtepps</hi> there are to make man bleſt:</l>
+               <l>Eaſier <hi>heavens ſtarres,</hi> than all his <hi>Graces</hi> tell,</l>
+               <l>Never was ſuch a <hi>Smith</hi> in <hi>Iſrael.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Like <hi>living ſpring</hi> whoſe <hi>ſtreames</hi> are never dry,</l>
+               <l>But more you <hi>draw,</hi> doth <hi>freſher</hi> ſtill <hi>ſupply,</hi>
+               </l>
+               <l>Such was his <hi>inexhauſted liberality,</hi>
+               </l>
+               <l>His <hi>minde unlimitted</hi> for <hi>hoſpitality:</hi>
+               </l>
+               <l>And to leave nothing that he might fulfill,</l>
+               <l>He left <hi>large Legacies</hi> by his <hi>laſt will,</hi>
+               </l>
+               <l>For to ſuſtaine the <hi>needy hungry poore,</hi>
+               </l>
+               <l>And feed them at his <hi>grave,</hi> as at his doore.</l>
+            </lg>
+            <lg>
+               <l>Like <hi>Tree</hi> cloſe planted by the <hi>Rivers ſide,</hi>
+               </l>
+               <l>He <hi>flouriſhed</hi> 
+                  <note n="*" place="margin">
+                     <hi>Aetatis</hi> 74.</note> long, and <hi>fruitfull</hi> did abide,</l>
+               <l>Even to <hi>his laſt;</hi> his <hi>leaves</hi> all <hi>freſh</hi> and <hi>greene,</hi>
+               </l>
+               <l>His <hi>body ſound,</hi> and no <hi>decaying ſeene;</hi>
+               </l>
+               <l>All <hi>faire</hi> and <hi>wide</hi> his goodly <hi>armes</hi> diſpread,</l>
+               <l>And all that came neere to <hi>him ſheltered;</hi>
+               </l>
+               <l>Vntill the <hi>Lord chiefe owner of the ground,</hi>
+               </l>
+               <l>Finding him <hi>living Timber, good</hi> and <hi>ſound,</hi>
+               </l>
+               <l>Bid <hi>cut him downe</hi> to be <hi>exalted higher,</hi>
+               </l>
+               <l>Preſerving all for <hi>Timber,</hi> none for fire:</l>
+               <l>That as he long on <hi>earth</hi> continued,</l>
+               <l>To be a <hi>dead materiall Temples head,</hi>
+               </l>
+               <l>He might be of <hi>heavens immateriall,</hi>
+               </l>
+               <l>A <hi>living Pillar</hi> never more to fall.</l>
+            </lg>
+            <lg>
+               <l>Wherefore let us not be diſanimated,</l>
+               <l>As without <hi>hope,</hi> he is but hence <hi>tranſlated,</hi>
+               </l>
+               <l>Whither, if wee <hi>will doe,</hi> as he hath <hi>done,</hi>
+               </l>
+               <l>Wee in good time with <hi>joy</hi> to <hi>him</hi> ſhall come.</l>
+               <l>Meane while heere his <hi>briefe Character</hi> is told,</l>
+               <l>As wee in little <hi>Globes</hi> the <hi>heavens</hi> behold.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:185169:7"/>
+            <head>The Epitaph.</head>
+            <lg>
+               <l>
+                  <hi>NOble</hi> by <hi>Birth,</hi> in <hi>Fortunes Favours Low,</hi>
+               </l>
+               <l>
+                  <hi>Thrift,</hi> by <hi>Gods bleſſing,</hi> made all <hi>plenty</hi> flow</l>
+               <l>Within my <hi>Gates,</hi> yet I my <hi>heire</hi> left more,</l>
+               <l>Than any of mine <hi>Anceſtors</hi> before.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Spirituall husbandry,</hi> let all men know</l>
+               <l>This <hi>Rule:</hi> They <hi>plenty reape</hi> that <hi>plenty ſow;</hi>
+               </l>
+               <l>And <hi>Talents</hi> are improv'd more by <hi>well ſpending,</hi>
+               </l>
+               <l>Than <hi>Vſurers</hi> can, <hi>increaſe</hi> their <hi>Coine</hi> by <hi>lending.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No <hi>Titles</hi> I <hi>affected,</hi> my <hi>deſire</hi>
+               </l>
+               <l>Was ſole by <hi>Grace</hi> and <hi>Goodneſſe</hi> to <hi>aſpire,</hi>
+               </l>
+               <l>To <hi>Heaven</hi> from whence I came: <hi>Time</hi> all to <hi>light</hi>
+               </l>
+               <l>Will bring: and give mee after <hi>Death</hi> my <hi>Right.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:185169:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>

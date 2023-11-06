@@ -1,0 +1,1176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent comedy, called, The Prince of Priggs revels: or, The practises of that grand thief Captain James Hind, relating divers of his pranks and exploits, never heretofore published by any. Repleat with various conceits, and Tarltonian mirth, suitable to the subject. / Written by J.S.</title>
+            <title>Prince of Priggs revels</title>
+            <author>J. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93949</idno>
+            <idno type="STC">Wing S58</idno>
+            <idno type="STC">Thomason E645_6</idno>
+            <idno type="STC">ESTC R5595</idno>
+            <idno type="EEBO-CITATION">99872871</idno>
+            <idno type="PROQUEST">99872871</idno>
+            <idno type="VID">165982</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165982)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E645[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent comedy, called, The Prince of Priggs revels: or, The practises of that grand thief Captain James Hind, relating divers of his pranks and exploits, never heretofore published by any. Repleat with various conceits, and Tarltonian mirth, suitable to the subject. / Written by J.S.</title>
+                  <title>Prince of Priggs revels</title>
+                  <author>J. S.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mostly in verse.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hind, James, d. 1652.</term>
+               <term>Brigands and robbers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165982:1" rendition="simple:additions"/>
+            <p>An Excellent COMEDY, Called, The PRINCE OF PRIGGS REVELS: OR, The Practiſes of that grand Thief Captain JAMES HIND, Relating Divers of his Pranks and Exploits, never heretofore publiſhed by any.</p>
+            <p>
+               <hi>Repleat with various Conceits, and Tarltonian Mirth, ſuitable to the Subject.</hi>
+            </p>
+            <p>Written by J. S.</p>
+            <p>LONDON, Printed for G. HORTON, 1651.</p>
+         </div>
+         <div type="characters">
+            <pb facs="tcp:165982:2"/>
+            <head>The Names of the Actors.</head>
+            <list>
+               <item>
+                  <hi>The Maſter-Thief.</hi>
+                  <list>
+                     <item>HIND</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>His Aſſociates.</hi>
+                  <list>
+                     <item>TURBO</item>
+                     <item>LATRO</item>
+                     <item>SPOLARIO</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>A Prieſt (deſirous to ſeem ſententi<g ref="char:EOLhyphen"/>ous) Chaplain to the Thieves, and a Thief for company.</hi>
+                  <list>
+                     <item>GRAMMARIO</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>A Merchant of</hi> Briſtol.
+<list>
+                     <item>AVARITIO</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>A wealthy Lady.</hi>
+                  <list>
+                     <item>INFORTUNIA</item>
+                  </list>
+               </item>
+               <item>An Alderman.</item>
+               <item>
+                  <hi>A Citizen of</hi> London.
+<list>
+                     <item>MERCATOR</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>His two Friends.</hi>
+               </item>
+               <item>The KING of SCOTS.</item>
+               <item>
+                  <hi>Servants of either Sex.</hi>
+               </item>
+               <item>The Scene, ENGLAND.</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb n="1" facs="tcp:165982:2"/>
+            <head>To the Reader.</head>
+            <p>IT was <hi>Plato's</hi> conceit, that if Virtue had a body ſo that all the beauty and luſtre of its ſeveral ornaments could be ſeen, all men would be in love with it: By the ſame rule, were Vice drawn, and all the part, and lims of it ſet before us in its height of Deformity, that with one glance of the Eye we might diſcover all the uglineſs of it, we ſhould fly from it with winged haſte. The true and pri<g ref="char:EOLhyphen"/>mary intent of the Tragedians and Commedians of old, was to magnifie Virtue, and to depreſs Vice; And you may obſerve throughout the <hi>Works</hi> of incompa<g ref="char:EOLhyphen"/>rable <hi>Johnſon,</hi> excellent <hi>Shakeſpear,</hi> and elegant <hi>Fletcher,</hi> &amp;c they (how<g ref="char:EOLhyphen"/>ever vituperated by ſome ſtreight-laced brethren not capable of their ſublimity) aim at no other end: My drift is the ſame in the compoſure of this Comedy; Pamphlets no <hi>Critick</hi> can more contemn then my ſelf; however, it may pleaſe thouſands of the vulgar (for whoſe ſakes I am purpoſely plain and ſpungey) ſomething there is here that will inform the wiſer ſort. Such things as theſe are leſs then leaſt of my <hi>Recreations.</hi>
+            </p>
+            <closer>
+               <salute>VALE.</salute>
+            </closer>
+         </div>
+         <div type="prologue">
+            <head>The Prologue.</head>
+            <lg>
+               <l>SInce that the Apes and Parrots of the Stage,</l>
+               <l>Are filenc'd by the Clamours of the Age;</l>
+               <l>Like Conies forc'd to feed on Bran and Graſs,</l>
+               <l>(The true Deſciples of <hi>Pithagoras</hi>)</l>
+               <l>Whoſe Copper-Lace, and Copper-Noſes once</l>
+               <l>Made them to think themſelves great <hi>Prester-Johns:</hi>
+               </l>
+               <l>You'l (ſure) have cauſe to praiſe, and thank that man</l>
+               <l>Can make each Thief a compleat <hi>Roſcian:</hi>
+               </l>
+               <l>Then much good doe't you (Sirs) fall to and eat,</l>
+               <l>You ne're had cheaper (perhaps) better meat.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="2" facs="tcp:165982:3"/>
+            <head>THE PRINCE OF PRIGGS:</head>
+            <div n="1" type="act">
+               <head>Actus Primus.</head>
+               <argument>
+                  <p>The Argument of the firſt Act. Hind's <hi>wilie Couzenage of a Merchant at</hi> Briſtol, <hi>leaving him priſoner in a Port-Mantle.</hi>
+                  </p>
+               </argument>
+               <stage>
+                  <hi>Enter</hi> Hind, Furbo, Latro, Spolario, Grammario, <hi>as in a Tavern, Wine and Bags of Money before them.</hi>
+               </stage>
+               <sp>
+                  <speaker>HIND.</speaker>
+                  <lg>
+                     <l>Drink deep my brave boyes of the <hi>Baſtinado</hi>
+                     </l>
+                     <l>Of <hi>Stramazons, Tinctures,</hi> and <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lie-paſſata's,</hi>
+                     </l>
+                     <l>Of the <hi>Carricado,</hi> and brave <hi>Enb ocada,</hi>
+                     </l>
+                     <l>Of Blades and Rapier-Hil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s: of ſureſt guard</l>
+                     <l>Of the <hi>Vincentio,</hi> and <hi>Eurgonian</hi> Ward:</l>
+                     <l>Have we not bravely toſs'd this bumbaſt-foil-button.</l>
+                     <l>Win gold, and wear gold Boyes, 'tis we that merit it,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Furbo.</speaker>
+                  <p>Come, let's ſhare.</p>
+               </sp>
+               <sp>
+                  <speaker>Latro.</speaker>
+                  <p>I, I, each man as he deſerves.</p>
+               </sp>
+               <sp>
+                  <speaker>Spol.</speaker>
+                  <lg>
+                     <l>If each man claim no more then he deſerves.</l>
+                     <l>There will be a precedency for pelf</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <p>
+                     <hi>Monſtrum horrendum:</hi> 'twere incongruous.</p>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>No fractions my dear <hi>Myrmidons,</hi>
+                     </l>
+                     <l>Stand firm to your old form of Diſcipline.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Latro.</speaker>
+                  <lg>
+                     <l>But Sir, muſt all our judgments mump and ſet,</l>
+                     <l>And reſt upon this kickſhaw <hi>Marmoſet:</hi>
+                     </l>
+                     <l>This <hi>Athens</hi> Ape 'cauſe he can ſimpringly</l>
+                     <l>Yaul <hi>Auditores humaniſſimi.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Fur.</speaker>
+                  <p>True <hi>(Latro)</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spol.</speaker>
+                  <lg>
+                     <l>He's the meer Spunge that ſucks up all our gain;</l>
+                     <l>A very Tumbrel ſtuff'd with —</l>
+                     <l>Whom we preſerve, as Witches their Familiars,</l>
+                     <pb n="3" facs="tcp:165982:3"/>
+                     <l>With prodigal expence of our own blood.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Non laedere</hi>
+                     </l>
+                     <l>
+                        <hi>ſed ludere,</hi>
+                     </l>
+                     <l>
+                        <hi>Non Laneae</hi>
+                     </l>
+                     <l>
+                        <hi>ſed linea,</hi>
+                     </l>
+                     <l>
+                        <hi>Non ictus</hi>
+                     </l>
+                     <l>
+                        <hi>Sed nictus</hi>
+                     </l>
+                     <l>
+                        <hi>potius.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Latro.</speaker>
+                  <lg>
+                     <l>Pox of your cunning canting tongue</l>
+                     <l>That beaſtly language merits more then halter.</l>
+                     <l>The Ax or ſtigmatizing —</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>No more my Stern Co-partners in ill,</l>
+                     <l>Skilful Surveyers of High-wayes and Hedges,</l>
+                     <l>
+                        <hi>Grammaro</hi> muſt not thus be cudgeld (Sirs) his oriſons muſt make way for our ſoules, when by ſiniſter chance we leave the earth. Learn<g ref="char:EOLhyphen"/>ings that general Soule which <hi>Plato</hi> ſaith,</l>
+                     <l>Fixeth the world; we muſt make much of him.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Sol latet in herbis.</hi>
+                     </l>
+                     <l>My anger goes down with the Sun (Sir,)</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <p>Come; all ſhake hands, — my habit <stage>A Merchants ſuit produc'd, <hi>Hind</hi> puts it on.</stage> Dear <hi>Spolario,</hi> Are all our. Horſes, and our Arms in ſafety.</p>
+               </sp>
+               <sp>
+                  <speaker>Spolario;</speaker>
+                  <lg>
+                     <l>They feed like <hi>Pluto's</hi> Palfrayes under ground,</l>
+                     <l>Our Piſtolls, Swords, and other ſurniture</l>
+                     <l>Are ſafely locked up at our Randevouz.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>He lingers ſtrangely —</l>
+                     <l>Did he aſſare you confidently hee'd come.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Spola.</speaker>
+                  <lg>
+                     <l>Should death (Sir) meet him or his Fathers Ghoſt,</l>
+                     <l>They'd hardly th'wart his Journey; I perceiv'd him</l>
+                     <l>Wrapt in ſo mirthful an Aſtoniſhment,</l>
+                     <l>He ſcarce could frame an Anſwer to my Meſſage;</l>
+                     <l>The Ape did chatter to himſelf</l>
+                     <l>Like to ſome bill-patcht door, whoſe entrails have</l>
+                     <l>Spew'd out their Tennant, oh I raviſh'd him,</l>
+                     <l>Hee'd come.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind;</speaker>
+                  <p>Are the Gaggs fix'd, and all the Gives in readineſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Spola.</speaker>
+                  <p>They are.</p>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <p>Be gone.</p>
+               </sp>
+               <stage>All go off ſave Hind.</stage>
+               <stage>
+                  <hi>Enter</hi> Avaritio <hi>with two Servants, bearing baggs of Money.</hi>
+               </stage>
+               <pb n="4" facs="tcp:165982:4"/>
+               <sp>
+                  <speaker>Avaritio.</speaker>
+                  <p>Peace here be multiplyed.</p>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>You are moſt welcome (Sir)</l>
+                     <l>I ſee you'l make the<note n="*" place="margin">
+                           <hi>Hind</hi> called his ſhip (by his ſervant to the Mer<g ref="char:EOLhyphen"/>chant) the <hi>Strange-Adventure.</hi>
+                        </note> STRANGE ADVENTURE yours</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Avaritio.</speaker>
+                  <p>Sir, I have ever held it plety to gratifie my friends on good conditions, here is five thouſand pounds; five thouſand more ſhalbe your own whon I have view'd the goods.</p>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>You are moſt nobly honeſt;</l>
+                     <l>Drink (Sir) a hearty glaſs.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Avar.</speaker>
+                  <p>What's this a Maſque?</p>
+               </sp>
+               <stage>
+                  <hi>Hind</hi> ſtamps with his foot; then enters <hi>Turbo, Latro,</hi> &amp;c. in vizards: gag <hi>Avaritio</hi> and his men.</stage>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <p>A Matachin, you'l find it.</p>
+               </sp>
+               <sp>
+                  <speaker>Avar.</speaker>
+                  <p>Aw, Aw, Aw.</p>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Bear his two ſervants</l>
+                     <l>Amongſt their fellow beaſts i'th Oſtrey:</l>
+                     <l>Take that Weſtphalia-Gammon-Clove ſtuck-face,</l>
+                     <l>And box him up within that Leather Engine.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Avar.</speaker>
+                  <p>Aw, Aw, Aw.</p>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>This bag belongs to Capt. <hi>Martius,</hi>
+                     </l>
+                     <l>who with his Dagger often hacks his ſword,
+<stage>They thruſt him into a Port-mantle.</stage>
+                     </l>
+                     <l>And with whole Culverin raging oathes doth tear</l>
+                     <l>The Vault of Heaven, ſpetting in the eyes</l>
+                     <l>Of Nature, natures loathſome blaſphemies:</l>
+                     <l>Five hundred pounds in gold it lately boaſted,</l>
+                     <l>This old Extortioner ſhall return the ſum,</l>
+                     <l>And think he cheaply is a Libertine:</l>
+                     <l>Tranſport him hence into that Captains Chamber;</l>
+                     <l>This Key will give you entrance.</l>
+                     <stage>They carry him off.</stage>
+                     <l>There place this putrid piece of <hi>parcemonie.</hi>
+                     </l>
+                     <l>
+                        <hi>Anon wee'l ſhare our Coin, and ſuck our Sack.</hi>
+                     </l>
+                     <l>Still be propitious jugling<note n="*" place="margin">Mercury.</note> god, thy ſhrine</l>
+                     <l>I'le lade with Hecatombs of ſpotted Kine:</l>
+                     <l>For roguing Virtue brings a man defame,</l>
+                     <l>A pack-ſtaff Epethite, and ſcorned name.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="2" type="act">
+               <pb n="5" facs="tcp:165982:4"/>
+               <head>Actus Secundus.</head>
+               <argument>
+                  <p>
+                     <hi>The Argument of the ſecond Act. Hind</hi> feigning himſelf a great Lord, putting ſome of his Train in<g ref="char:EOLhyphen"/>to rich Liveries, and ſtoring his and their pockets with Gold, growes very intimate with a brave and noble Lady, whom at once he deprives of the ineſtimable jewell of her honour, toge<g ref="char:EOLhyphen"/>ther with much treaſure.</p>
+               </argument>
+               <stage>
+                  <hi>Enter</hi> HIND <hi>ſolus,</hi> in brave cloathes.</stage>
+               <lg>
+                  <l>TUſh! <hi>Pluto's</hi> wrath <hi>Proſerpin</hi> can melt,</l>
+                  <l>So that thy Sacrifice be freely felt:</l>
+                  <l>What cannot <hi>Juno</hi> force in bed with <hi>Jove,</hi>
+                  </l>
+                  <l>Turn and return a Sentence with her love:</l>
+                  <l>Well! plainly thus; Sleight, Force, are mighty things</l>
+                  <l>From which even all, all earthly glory ſprings.</l>
+                  <l>If Vertues ſelf were clad in humane ſhape,</l>
+                  <l>Vertue without theſe might go beg and ſcrape:</l>
+                  <l>The naked truth is, a well-cloath'd lie,</l>
+                  <l>A nimble quick-pate, mounts to dignity;</l>
+                  <l>By force or fraud, that matters not a jot,</l>
+                  <l>So maſſie wealth may fall into thy lot.</l>
+               </lg>
+               <stage>Enter Grammario.</stage>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Quod gratis grate;</hi> and I dare aver</l>
+                     <l>That <hi>Hiadolgo</hi> the Aſtrologer</l>
+                     <l>Is a right honeſt man — <hi>All hail my Soveraign.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Prithee no Jibs,</l>
+                     <l>Thou know'ſt my plot upon fair <hi>Infortunia;</hi>
+                     </l>
+                     <l>A wealthy widow; nay, a beauteous widow;</l>
+                     <l>A Lady of high birth, and great perfection,</l>
+                     <l>Be thou my conduct and my <hi>Genius,</hi>
+                     </l>
+                     <l>My wits inciting ſweet-breath'd <hi>Zephirus;</hi>
+                     </l>
+                     <pb facs="tcp:165982:5"/>
+                     <l>Some Verſes, ſome Verſes, my <hi>Helliconian</hi> Harper,</l>
+                     <l>Women are ſtrangely taken with ſtrange words.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Totum in toto,</hi> Sir, I have fitted you I faith,</l>
+                     <l>I was fain to devoure one whole page out of <hi>Ovid,</hi>
+                     </l>
+                     <l>Three large ſiz'd ſentences out of <hi>Catullus</hi>
+                     </l>
+                     <l>One <hi>Axiome</hi> out of <hi>Hero</hi> and <hi>Leander;</hi>
+                     </l>
+                     <l>And a whole ſtanzao out of <hi>Venus</hi> and <hi>Adonis,</hi>
+                     </l>
+                     <l>Ere I could hit upon a right ſtrain of poeſie;</l>
+                     <l>But at length I hammer'd them out.</l>
+                     <l>
+                        <hi>pray mark me,</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <stage>He reads,</stage>
+                     <l>Faireſt peece of well-form'd earth,</l>
+                     <l>Urge not this your haughty Birth,</l>
+                     <l>The power which you have or'e us lyes,</l>
+                     <l>Not in your race but in your eyes</l>
+                     <l>Should you no Honey vow to taſte</l>
+                     <l>But what the maſter Bees have plac'd</l>
+                     <l>In compaſſe of their cells, how ſmall</l>
+                     <l>A portion to your ſhare would fall;</l>
+                     <l>The ſap which at the root is bred</l>
+                     <l>In Trees through all the Boughes is ſpred,</l>
+                     <l>But vertues which in Parents ſhine</l>
+                     <l>Make not like progres through the line:</l>
+                     <l>'Tis not from whom, but where we live,</l>
+                     <l>The place does oft thoſe graces give</l>
+                     <l>Great <hi>Julius</hi> on the Mountains bred,</l>
+                     <l>A Flock perhaps, or Herd had led;</l>
+                     <l>He that the world ſubdu'd had been</l>
+                     <l>But the beſt Wrestler on the Green;</l>
+                     <l>'Tis Art and Knowledge which draw forth</l>
+                     <l>The hidden ſeeds of native worth,</l>
+                     <l>They blow thoſe ſparks and make them riſe</l>
+                     <l>Into ſuch flames as touch the Skies.</l>
+                     <l>Smile but on me and you ſhall ſcorne</l>
+                     <l>Henceforth to be of Princes born.</l>
+                  </lg>
+               </sp>
+               <pb n="7" facs="tcp:165982:5"/>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>They are moſt incomparable;</l>
+                     <l>Twas well remembred for to urge my breeding;</l>
+                     <l>My birth I'm ſure would <hi>Butcher</hi> all my hopes.</l>
+                     <l>Thou ſeeſt how bravely I am clad (my boy)</l>
+                     <l>In ſpeaking garments, ſpeaking pockets too.</l>
+                     <stage>chink's his pockets.</stage>
+                     <l>The Lord <hi>Porta Rich (Grammario)</hi> is my name:</l>
+                     <l>Go thou, and give that paper to the Lady,</l>
+                     <l>Sing in her ear like to the amorous Lute,</l>
+                     <l>Set forth my name in a <hi>Stentorian</hi> tone;</l>
+                     <l>Ile ſecond thee my ſelf in perſon preſently:</l>
+                     <l>Be gone.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <p>Ile do my utmoſt (Sir)</p>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>It is a high, brave thing to have th'repute</l>
+                     <l>Of compleat villain, perfect, abſolute. <stage>Exit.</stage>
+                     </l>
+                  </lg>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Infortunia, <hi>with</hi> Grammario, <hi>ſervants.</hi>
+               </stage>
+               <sp>
+                  <speaker>Infort.</speaker>
+                  <lg>
+                     <l>Sir, your Lord no doubt is ev'ry way accompliſh'd:</l>
+                     <l>And Ile aſſure you, finds far more regard</l>
+                     <l>From me, in the reception of this paper,</l>
+                     <l>Then any perſonage of honour hitherto</l>
+                     <l>Could ever boaſt, though earneſtly endeavoured.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <lg>
+                     <l>Madam, if you did know who ſeeks your love,</l>
+                     <l>You would — he comes himſelf.</l>
+                  </lg>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Hind <hi>in rich Apparel,</hi> Furbo, Latro, Spolario <hi>in coſtly Liveries, bare-headed, attending him.</hi>
+               </stage>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Madam, I hope my boldneſſe ſhall find pardon,</l>
+                     <l>And my affectionate zeal plead my excuſe.</l>
+                     <l>Diſtribute thoſe few Diamonds, and Pearl Bracelets</l>
+                     <stage>to Furbo.</stage>
+                     <l>Unto the Ladies that attend this Excellency.</l>
+                  </lg>
+               </sp>
+               <stage>Furbo <hi>gives many Briſtol ſtones, and counterfeit Pearls to the attending Gentlewoman.</hi>
+               </stage>
+               <pb n="8" facs="tcp:165982:6"/>
+               <sp>
+                  <speaker>Infor.</speaker>
+                  <lg>
+                     <l>My Lord your honour ſets too high a rate</l>
+                     <l>Vpon ſo mean a beauty as is mine</l>
+                     <stage>
+                        <hi>Furbo,</hi> and his fol<g ref="char:EOLhyphen"/>lows ſteal off.</stage>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <lg>
+                     <l>You are ſole Empreſs of all worth,</l>
+                     <l>Command my ſtate, my perſon and my life.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infor.</speaker>
+                  <lg>
+                     <l>Your honour is too courteous to your handmaid,</l>
+                     <l>Pleaſe you, this night, to let your preſence grace</l>
+                     <l>My homely Table, your honours candor muſt</l>
+                     <l>Apologize for my rude entertainment.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <p>Excellent creature, ever command your vaſſail.</p>
+               </sp>
+               <sp>
+                  <speaker>Serv.</speaker>
+                  <p>Lights there for my Lord; lights — <stage>Exeunt.</stage>
+                  </p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Furbo, Latro, <hi>&amp;c.</hi>
+               </stage>
+               <sp>
+                  <speaker>Furb.</speaker>
+                  <p>They are all gag'd and bound.</p>
+               </sp>
+               <sp>
+                  <speaker>Latro.</speaker>
+                  <p>As ſafe as my Lord <hi>Hind</hi> in his miſtreſſe armes.</p>
+               </sp>
+               <sp>
+                  <speaker>Furb.</speaker>
+                  <p>Are they in bed together?</p>
+               </sp>
+               <sp>
+                  <speaker>Lat.</speaker>
+                  <p>To my knowledge,</p>
+               </sp>
+               <sp>
+                  <speaker>Spolario,</speaker>
+                  <p>We ſhall ſoon part their ſtruglings.</p>
+               </sp>
+               <sp>
+                  <speaker>Furb.</speaker>
+                  <p>Theeves, theeves, <stage>Exeunt, <hi>and return laden with bags of gold, and caskets of jewels, having b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>odied them<g ref="char:EOLhyphen"/>ſelves.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spola.</speaker>
+                  <p>Theeves,</p>
+               </sp>
+               <sp>
+                  <speaker>Lat.</speaker>
+                  <p>Murther, murther.</p>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Infortunia <hi>and</hi> Hind, <hi>almost naked, with his ſword drawn.</hi>
+               </stage>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <lg>
+                     <l>What ſawcie devils interrupt our joyes?</l>
+                     <l>What mean theſe clamours, ſpeak upon your lives?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Lat.</speaker>
+                  <p>Alas! my Lord the houſe is rob'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Infor.</speaker>
+                  <p>Oh, I am quite undone —</p>
+               </sp>
+               <sp>
+                  <speaker>Furb.</speaker>
+                  <lg>
+                     <l>You ſee how we are ſanguin'dore</l>
+                     <l>Fighting for to prevent ſuch outrages:</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Spolar.</speaker>
+                  <p>My leg is almoſt cut in ſunder, oh —</p>
+               </sp>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <lg>
+                     <l>Be not diſcomforted (dear Lady)</l>
+                     <l>Every man mount his ſteed, and take his Arms;</l>
+                     <l>My ſelf too, will along: accurſt miſchance;</l>
+                     <l>To horſe, to horſe; you Lady to your bed.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Infor.</speaker>
+                  <p>Oh me! <stage>Exit Infortunia.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <lg>
+                     <l>Why this is bravely done my Bullies;</l>
+                     <l>Thus do the Gods ſell all for induſtry,</l>
+                     <l>And what's not got by hell-bred Villanie?</l>
+                     <l>Conſcience they talk on; conſcience is free,</l>
+                     <l>Worſt conſcienc'd men, theſe times, beſt thrivers be;</l>
+                     <pb n="9" facs="tcp:165982:6"/>
+                     <l>As't pleaſe the <hi>Thra<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>an Boreas</hi> to blow</l>
+                     <l>So turns our ayrie conſcience to and fro. <stage>Exeunt.</stage>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="3" type="act">
+               <head>Actus Tertius.</head>
+               <argument>
+                  <p>
+                     <hi>The Argument of the third Act. Hind</hi> and his Comrades diſguiſing themſelves in Devils habits, terrifie the Country people, and rob an Alderman of the City of <hi>York.</hi>
+                  </p>
+               </argument>
+               <stage>
+                  <hi>Enter</hi> Hind, Latro, Furbo, Grammario, <hi>habited like Devils.</hi>
+               </stage>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <lg>
+                     <l>TWere well for the great Grandees of the earth</l>
+                     <l>(My fellow Furies) were there no worſe Feinds</l>
+                     <l>In pitchie Bara thrum then we: Oh how</l>
+                     <l>The Bores and Bumpkins of this Shire do dread us</l>
+                     <l>No leſs then twelve already are run mad.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Latro,</speaker>
+                  <lg>
+                     <l>Me thinks I like my tranſmutation well,</l>
+                     <l>Only my tail is too, too troubleſom —</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Fronti nulla Fides</hi>
+                     </l>
+                     <l>
+                        <hi>Miſtagogus,</hi> What mean theſe prodigies?</l>
+                     <l>Where is your vice or vertues habites now?</l>
+                     <l>For <hi>ſustine pro nunc</hi> doth bend his brow.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Fur.</speaker>
+                  <lg>
+                     <l>You (Parſon) now are in your native weeds,</l>
+                     <l>Black beſt becomes your ſwarthy function</l>
+                     <l>Whoſe Doctrine (for the moſt part) damns more ſouls</l>
+                     <l>Then Lucifer by all his ſtratagems.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <p>Oh, our Scout comes merrily.</p>
+               </sp>
+               <stage>
+                  <hi>Spolario</hi> whooping and hallowing within.</stage>
+               <stage>
+                  <hi>Enter</hi> Spolario.</stage>
+               <sp>
+                  <speaker>Spol.</speaker>
+                  <p>A prize, prize, a prize —</p>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <p>The news?</p>
+               </sp>
+               <sp>
+                  <speaker>Spol.</speaker>
+                  <lg>
+                     <l>The Indies ſalley toward us;</l>
+                     <l>An Alderman of York quite gilded o're,</l>
+                     <pb n="10" facs="tcp:165982:7"/>
+                     <l>His ſervants and his horſes groan with gold,</l>
+                     <l>Are journeying this way.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Couch cloſe, my doughty deviſs,</l>
+                     <stage>They all go out, and return laden with trea<g ref="char:EOLhyphen"/>ſure.</stage>
+                     <l>Lets ſeize upon them with as winged haſt</l>
+                     <l>As real <hi>Demons</hi> at the hour of death</l>
+                     <l>Hurrie a vicious ſoul to <hi>Tartarus.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Who would not be a Devil for an hour,</l>
+                     <l>To be a man of money twelve moneths after —?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Lat.</speaker>
+                  <lg>
+                     <l>The Alderman (poor wretch) begg'd for his ſoul;</l>
+                     <l>His innate guilt; fear of aſſur'd damnation</l>
+                     <l>Made him forget petitioning for his pelf.</l>
+                     <l>Quoth he, I ſmel ſulphur, and reaking brimſtone.</l>
+                     <l>Soot, ſtinking ſoot: Oh hell, how hot art thou!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gram,</speaker>
+                  <lg>
+                     <l>
+                        <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ulto um plena ſunt omnia.</hi>
+                     </l>
+                     <l>An aſſe in's foot-cloth; 'tis no ſin to gull him;</l>
+                     <l>He I thank heaven that his own chain did not choak him,</l>
+                     <l>And praiſe the devil for's deliverance:</l>
+                     <l>He'l ſoon recover all by his colluſions,</l>
+                     <l>Abatements, ſtoppels, inhibitions.</l>
+                     <l>Heavie pac'd jade, dull pated jobbernoul,</l>
+                     <l>Quck in delays, checking with vain controul</l>
+                     <l>Fair Juſtice courſe, vile neceſſary evil,</l>
+                     <l>Smooth ſeeming ſaint, yet damn'd incarnate Devil.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Well ſaid my man of art, and myſtick ſcience:</l>
+                     <l>I know this Alderman and his Lawyers caſe;</l>
+                     <l>I fee'd him one, and he cudgeld my caſe,</l>
+                     <l>For which I vow'd revenge, and have perfotm'd it.</l>
+                     <stage>they put off their diſguiſes, and are in other habits,</stage>
+                     <l>Now ev'ry one reſume his priſtine form;</l>
+                     <l>Our next ſcence lies in Kent; thither lets hie.</l>
+                  </lg>
+                  <stage>He ſpeaks this aſide to him<g ref="char:EOLhyphen"/>ſelf.</stage>
+                  <lg>
+                     <l>Me thinks I feel a civil war within me,</l>
+                     <l>Egging me on for to proceed from this,</l>
+                     <l>And get the ſubſtance of celeſtial bliſſe;</l>
+                     <l>My ſoul oft cals his Parliament of ſenſe,</l>
+                     <l>But ſtill the guilty have preheminence:</l>
+                     <l>For my ſouls better part ſo feeble is,</l>
+                     <l>So cold and dead is, my <hi>Sinder<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſis,</hi>
+                     </l>
+                     <l>That ſhadows by odd chance ſometimes are got;</l>
+                     <l>But oh! the ſubſtance is reſpected not.</l>
+                     <l>Come let's away. <stage>Exeunt.</stage>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="4" type="act">
+               <pb n="11" facs="tcp:165982:7"/>
+               <head>Actus Quartus.</head>
+               <argument>
+                  <p>
+                     <hi>The Argument of the Fourth Argument. Hind</hi> And his aſſociates diſguiſed like Beggars, rob a wealthy Citizen of <hi>London,</hi> and his two friends, near <hi>Hogſden.</hi>
+                  </p>
+               </argument>
+               <stage>
+                  <hi>Enter</hi> Hind, Furbo, Latro, Grammario, Spolario, <hi>in patcht coats, like beggars, their legs and arms bound up.</hi>
+               </stage>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Are we not finely fitted (fellow mendicants)</l>
+                     <l>For a days prentiſhip to the begging trade?</l>
+                     <l>O ſad account! we that were wont to ſpeak</l>
+                     <l>In ſmoak and thunder, STAND — UPON YOUR LIVES,</l>
+                     <l>Muſt now petition for a piece of coin.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Latro.</speaker>
+                  <lg>
+                     <l>Tut,</l>
+                     <l>Our begging is like that the Perſians us'd</l>
+                     <l>Of old unto their eager God of fire,</l>
+                     <l>When with a flaming torch they did deſcend</l>
+                     <l>Unto ſome river, and proteſt to quench</l>
+                     <l>Th'a ſpiring God, in caſe he did deny</l>
+                     <l>To grant their wiſhes. Oh, I have't <hi>ad unguem,</hi>
+                     </l>
+                     <l>The Bard of Bednal green was nothing to me,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Eo Claudus, et Aegrotus ſum,</hi>
+                     </l>
+                     <l>This is the garb men of my cloth muſt take to,</l>
+                     <l>Since every Saleſ-man writes himſelf <hi>Sacer dos.</hi>
+                     </l>
+                     <l>Stand cloſe, and obſecrate with Rhumatick eys,</l>
+                     <l>Here comes the Patron we muſt plunder.</l>
+                  </lg>
+               </sp>
+               <stage>Enter <hi>Mercator</hi> a Citizen, with two friends.</stage>
+               <sp>
+                  <speaker>Mercat.</speaker>
+                  <p>A fine morning this is.</p>
+               </sp>
+               <sp>
+                  <speaker>1 <hi>Friend.</hi>
+                  </speaker>
+                  <p>Oh that my wife had born us company; good ſoul, ſhe loves to hear the Cuckoo ſing, eſpecially in the winter.</p>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Friend.</hi>
+                  </speaker>
+                  <p>So does mine, indeedla.</p>
+               </sp>
+               <pb n="12" facs="tcp:165982:8"/>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <p>Bleſs your good worſhips in your minds and your bodies, at home and abroad,
+ in bed and at board, <stage>The theeves come all about them &amp; beg.</stage>
+                     <q>
+                        <l>No troubles toſs ye,</l>
+                        <l>Nor no hare croſs ye;</l>
+                        <l>No ſuccubus ride ye,</l>
+                        <l>No falſe fire guide ye;</l>
+                     </q> Pleaſe to diſtribute your charity amongſt a company of poor maimd men—</p>
+               </sp>
+               <sp>
+                  <speaker>Lat.</speaker>
+                  <p>Deprived of their limbs for the cauſe of their Countrey, whoſe legs and hands remain as Trophies, in <hi>France, Spain, Aragon</hi> and <hi>Apulia.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Furbo.</speaker>
+                  <p>In <hi>Turkey,</hi> in <hi>Ruſsia,</hi> in <hi>Naples</hi> and <hi>Muſcovia</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Spilar.</speaker>
+                  <p>In the <hi>Adriatick</hi> and the <hi>Bal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ick</hi> Seas.</p>
+               </sp>
+               <sp>
+                  <speaker>Gram.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Suppoſito quolibet ſequitur qu idlibet,</hi>
+                     </l>
+                     <l>For your own ſakes whoſe rewards ſhall be glorious,</l>
+                     <l>Extend with liberall minds, and willing hands,</l>
+                     <l>What both becomes your oppulency, and our indigency.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Hey day! What bold beggars are theſe?</p>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Friend,</hi>
+                  </speaker>
+                  <p>What Countrey men are they? They ſpeak all ſeverall Languages.</p>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Friend.</hi>
+                  </speaker>
+                  <p>They are men of <hi>China</hi> I think.</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Truly friends the times are ſo hard, and we ſo burthend, that verily, yea and nay, we are ſcarce able to furniſh our wives with a com<g ref="char:EOLhyphen"/>petent number of ſilke gownes, lawn ſmocks, gold laces, beaver hats, ſil<g ref="char:EOLhyphen"/>ver hilted fans, Flanders laces and other neceſſaries, without which, all ho<g ref="char:EOLhyphen"/>neſt men know we cannot ſubſiſt.</p>
+               </sp>
+               <sp>
+                  <speaker>1. <hi>Friend,</hi>
+                  </speaker>
+                  <p>He ſpeaks truth my brethren.</p>
+               </sp>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <p>Zounds what dogs are theſe— Come ye counterfeiting Coxcombs Diſcover, diſcover:
+<stage>They diſcover their ſwords and pistols, and put them to the Citizens brests.</stage> you <hi>(Merca<g ref="char:EOLhyphen"/>tor)</hi> brought forth 6. hundred pounds to expiate a debt you owe at Hogſden here.</p>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <p>Take all (Sir) ſo you'l ſpare my life.</p>
+               </sp>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <p>Alas, ide rather overthrow thy wife.</p>
+               </sp>
+               <sp>
+                  <speaker>Latro.</speaker>
+                  <p>What d'ye linger ye pair of Puttocks? Come, lighten, lighten.</p>
+               </sp>
+               <sp>
+                  <pb n="13" facs="tcp:165982:8"/>
+                  <speaker>1. <hi>Friend.</hi>
+                  </speaker>
+                  <p>Oh Lord (ſir!)</p>
+               </sp>
+               <sp>
+                  <speaker>2. <hi>Friend.</hi>
+                  </speaker>
+                  <p>Wo and alas!
+<stage>they rob them.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Now each man lay his hand upon his mouth:</l>
+                     <l>Mum, not a word upon your lives.</l>
+                     <l>Away my Blades, this muſt we do for gain,</l>
+                     <l>Since as the ancient Sages truly tell,</l>
+                     <l>"Tis better ne're to be, then not be well.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="5" type="act">
+               <head>Actus Quintus.</head>
+               <argument>
+                  <p>
+                     <hi>The Argument of the Fifth Act.</hi> The Scots King being overthrown at the battel of <hi>Worcſter,</hi> accepts of <hi>Hinds</hi> conduct (knowing how well he was acquainted with the Country) who carries him ſafe away. <hi>(Ut aiunt.)</hi>
+                  </p>
+               </argument>
+               <stage>
+                  <hi>Enter</hi> Hind <hi>and the King of Scots.</hi>
+               </stage>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Me thinks (Sir) you do ſeem in this diſguiſe,</l>
+                     <l>Like lightning in the Keldar of a cloud:</l>
+                     <l>Your viſage (Sir) is not leaſt legible,</l>
+                     <l>There is a Libel in your very dreſſe.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <lg>
+                     <l>Well ſung the Roman Bard, that all things ſublunary</l>
+                     <l>Of worth do hang on very ſlender ſtrings.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind.</speaker>
+                  <lg>
+                     <l>Nothing's more tickliſh then the ſtate of Kings:</l>
+                     <l>Tall Caedars oft are torn up by the roots</l>
+                     <l>By bluſtring <hi>Boreas,</hi> when the humble ſhrub</l>
+                     <l>Sits ſafe, exalting to behold their ruine.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>King.</speaker>
+                  <lg>
+                     <l>I know as well all bodies politick</l>
+                     <l>As thoſe are humane, have their Dates and Deaths.</l>
+                     <l>The Romans firſt had Kings, whoſe rule took end</l>
+                     <l>In <hi>Yarquins</hi> fall; Conſuls then ſate at helm,</l>
+                     <l>Swaying the <hi>Argoſer</hi> of all the world,</l>
+                     <l>Until <hi>Auguſtus</hi> leap'd into the throne,</l>
+                     <l>Making all ſtoop to ſingle ſovereignty:</l>
+                     <l>Thus have all things terre ſtrial their Dates,</l>
+                     <pb n="14" facs="tcp:165982:9"/>
+                     <l>The greateſt Emperors, and greateſt States,</l>
+                     <l>The Lamps of Heaven, the Planets change above,</l>
+                     <l>The Sun from his Diurnal Arch doth move;</l>
+                     <l>Ayre doth ſometime to fire or water run,</l>
+                     <l>And fire an earthly habit doth put on,</l>
+                     <l>That men aſleep, rockt by felicity,</l>
+                     <l>That vainly dream here of Eternity,</l>
+                     <l>May wake and ſee, ſince humane and Divine</l>
+                     <l>Things taſte mutation, 'tis nor ſtrange 'tis Mine.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hind,</speaker>
+                  <lg>
+                     <l>(Sir) Ime acquainted well with all theſe parts;</l>
+                     <l>All <hi>England</hi> is, but as <hi>More fields</hi> to me,</l>
+                     <l>Make me your guide (Sir) and ne're doubt your ſafety;</l>
+                     <l>For though to others I have been untrue,</l>
+                     <l>Let me be hang'd if I prove falſe to you. <stage>Exeunt.</stage>
+                     </l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <head>Epilogue.</head>
+            <lg>
+               <l>OVr Authors Invention would not admit delay,</l>
+               <l>But ſtrait produc'd new Plots, t'inlarge this play;</l>
+               <l>And thinking to write what's fancy had commended,</l>
+               <l>One comes and tells him, <hi>Hinde</hi> was apprehended:</l>
+               <l>Whereat amaz'd he bids his friend adieu,</l>
+               <l>And forth he's gone, to inquire if th' news be true.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>

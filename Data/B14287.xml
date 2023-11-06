@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Louers made men A masque presented in the house of the Right Honorable the Lord Haye. By diuers of noble qualitie, his friends. For the entertaynment of Monsieur Le Baron de Tour, extraordinarie ambassador for the French King. On Saterday the 22. of February. 1617.</title>
+            <author>Jonson, Ben, 1573?-1637.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14287</idno>
+            <idno type="STC">STC 14775</idno>
+            <idno type="STC">ESTC S119453</idno>
+            <idno type="EEBO-CITATION">99854660</idno>
+            <idno type="PROQUEST">99854660</idno>
+            <idno type="VID">176310</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176310)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1314:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Louers made men A masque presented in the house of the Right Honorable the Lord Haye. By diuers of noble qualitie, his friends. For the entertaynment of Monsieur Le Baron de Tour, extraordinarie ambassador for the French King. On Saterday the 22. of February. 1617.</title>
+                  <author>Jonson, Ben, 1573?-1637.</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1617.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Ben Jonson.</note>
+                  <note>Place of publication from STC.</note>
+                  <note>Signatures: A⁴ B²  (-B2).</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Masques --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176310:1"/>
+            <pb facs="tcp:176310:1"/>
+            <p>Louers made Men.</p>
+            <p>
+               <hi>A Maſque</hi> PRESENTED IN THE HOVSE OF THE RIGHT HONO<g ref="char:EOLhyphen"/>RABLE THE LORD <hi>HAYE.</hi>
+            </p>
+            <p>By diuers of noble qualitie, his friends.</p>
+            <p>For the entertaynment of Monſieur <hi>LE BARON DE TOVR,</hi> extraordinarie Ambaſſador for the <hi>FRENCH KING.</hi>
+            </p>
+            <p>On Saterday the 22. of FEBRVARY. 1617.</p>
+            <q xml:lang="lat">
+               <bibl>MART.</bibl> 
+               <l>Quid titulum poſcis? Verſus duo treſue legantur.</l>
+            </q>
+            <p>1617.</p>
+         </div>
+      </front>
+      <body>
+         <div type="masque">
+            <pb facs="tcp:176310:2"/>
+            <pb facs="tcp:176310:2"/>
+            <stage>
+               <p>The Front before the Scene, an <hi>Arch-Triumphall,</hi> On the top of which, <hi>HVMANITIE</hi> placed in figure, ſits with her lap full of flowres, ſcattering them with her right hand; and holding a golden chaine in her left: to ſhew both the freedome, and the bond of Courteſie. with this inſcription.
+<q xml:lang="lat">SVPER OMNIA VULTVS.</q>
+               </p>
+               <p>On the two ſides of the Arch
+<list>
+                     <item>CHEEREFVLNES and</item>
+                     <item>READINES</item>
+                  </list> 
+                  <hi>her ſeruants.</hi>
+               </p>
+               <p>
+                  <hi>CHEEREFVLNES,</hi> in a looſe flowing garment, filling out wine from an antique piece of plate: with this word
+<q xml:lang="lat">Adſit laetitiae dator.</q>
+               </p>
+               <p>
+                  <hi>READINES,</hi> a win<g ref="char:EOLhyphen"/>ged Maid with two fla<g ref="char:EOLhyphen"/>ming bright lights in her handes: and her word
+<q xml:lang="lat">Amor addidit alas.</q>
+               </p>
+               <p>The Scene diſcouered, is (on the one ſide) the head of a boate, and in it <hi>CHARON</hi> putting off from the ſhore, hauing landed certayne imagined ghoſts, whom <hi>MERCVRY</hi> there receiues, and encourageth to come on, towards the riuer <hi>LETHE,</hi> who appeares lying in the perſon of an old man. The <hi>FATES</hi> ſitting by him on his banke. A groue of mirtles behinde them, pre<g ref="char:EOLhyphen"/>ſented, and growing thicker, to the other ſide of the Scene.</p>
+            </stage>
+            <sp>
+               <pb facs="tcp:176310:3"/>
+               <speaker>MERCVRY.</speaker>
+               <lg>
+                  <l>NAy, faint not now, ſo neere the fields of reſt,</l>
+                  <l>Here no more furies, no more torments dwell,</l>
+                  <l>Then each hath felt already in his breſt,</l>
+                  <l>Who hath beene once in loue, hath prou'd his hell.</l>
+               </lg>
+               <lg>
+                  <l>Vp then, and follow this my golden rod,</l>
+                  <l>That points you next to aged LETHES ſhore,</l>
+                  <l>Who powres his waters from his vrne abroad,</l>
+                  <l>Of which but taſting, you ſhall faint no more.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>LETHE.</speaker>
+               <l>Stay, who, or what phantaſtique ſhades are theſe</l>
+               <l>That HERMES leades?</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>They are the gentle formes,</l>
+               <l>Of <hi>Louers,</hi> toſt vpon thoſe frantique ſeas,</l>
+               <l>Whence VENVS ſprung.</l>
+            </sp>
+            <sp>
+               <speaker>LETHE.</speaker>
+               <l>And haue rid out her ſtormes?</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>No.</l>
+            </sp>
+            <sp>
+               <speaker>LETHE:</speaker>
+               <l>Did they periſh?</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>Yes.</l>
+            </sp>
+            <sp>
+               <speaker>LETHE.</speaker>
+               <l>How?</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>Drown'd by loue,</l>
+               <l>That drew them forth with hopes as ſmooth as were</l>
+               <l>Th'vnfaithfull waters he deſir'd 'hem proue.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:176310:3"/>
+               <speaker>LETHE.</speaker>
+               <l>And turn'd a tempeſt when he had 'hem there?</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <lg>
+                  <l>He did, and on the billow would he rowle,</l>
+                  <l>And laugh, to ſee one throw his heart away,</l>
+                  <l>Another ſighing, vapour forth his ſoule,</l>
+                  <l>A third, to melt himſelfe in teares, and ſay,</l>
+               </lg>
+               <lg>
+                  <l>O Loue, I now to ſalter water turne</l>
+                  <l>Then that I die in; then, a fourth, to crie</l>
+                  <l>Amid the ſurges, oh I burne, I burne:</l>
+                  <l>A fift, laugh out, it is my ghoſt, not I.</l>
+               </lg>
+               <lg>
+                  <l>And thus in paires I found 'hem. Only one</l>
+                  <l>There is, that walks, and ſtops, and ſhakes his head,</l>
+                  <l>And ſhuns the reſt, as glad to be alone,</l>
+                  <l>And whiſpers to himſelfe, he is not dead.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>FATES.</speaker>
+               <l>No more are all the reſt.</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>No?</l>
+            </sp>
+            <sp>
+               <speaker>1. FATE.</speaker>
+               <l>No.</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>But, why</l>
+               <l>Proceedes this doubtfull voyce from deſtiny?</l>
+            </sp>
+            <sp>
+               <speaker>FATES.</speaker>
+               <l>It is too ſure.</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>Sure?</l>
+            </sp>
+            <sp>
+               <speaker>2. FATE.</speaker>
+               <l>I: thinkes MERCVRY,</l>
+               <l>That any things, or names on earth doe die,</l>
+               <pb facs="tcp:176310:4"/>
+               <l> That are obſcur'd from knowledge of the FATES;</l>
+               <l>Who keepe all rolls?</l>
+            </sp>
+            <sp>
+               <speaker>3. FATE.</speaker>
+               <l>And know all natures dates?</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>They ſay themſelues th'are dead.</l>
+            </sp>
+            <sp>
+               <speaker>1. FATE.</speaker>
+               <l>It not appeares.</l>
+               <l>Or, by our rocke.</l>
+            </sp>
+            <sp>
+               <speaker>2. FATE.</speaker>
+               <l>Our ſpindle.</l>
+            </sp>
+            <sp>
+               <speaker>3. FATE.</speaker>
+               <l>Or our ſheeres.</l>
+            </sp>
+            <sp>
+               <speaker>FATES.</speaker>
+               <l>Here all their threds are growing, yet none cut.</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>I' gin to doubt, that <hi>Loue</hi> with charmes hath put</l>
+               <l>This phant'ſie in 'hem; and they only thinke</l>
+               <l>That they are ghoſts.</l>
+            </sp>
+            <sp>
+               <speaker>FATE.</speaker>
+               <l>If ſo, then let 'hem drinke</l>
+               <l>Of LETHES ſtreame.</l>
+            </sp>
+            <sp>
+               <speaker>FATE.</speaker>
+               <l>'Twill make 'hem to forget</l>
+               <l>LOVES name.</l>
+            </sp>
+            <sp>
+               <speaker>FATE.</speaker>
+               <l>And ſo, they may recouer yet.</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <lg>
+                  <l>Doe, bow vnto the reuerend lake.</l>
+                  <l>And hauing touch'd there; vp, and ſhake</l>
+                  <l>The ſhaddowes off, which yet doe make</l>
+                  <l>Vs you, and you your-ſelues miſtake.</l>
+               </lg>
+            </sp>
+            <stage>
+               <pb facs="tcp:176310:4"/> Here they all ſtoope to the water, and dance forth their anti<g ref="char:EOLhyphen"/>maſque, in ſeuerall geſtures, as they liu'd in loue: And retyring into the Groue, before the last perſon be off the ſtage, the firſt couple appeare in their poſture, betweene the trees, readie to come fourth, changed.</stage>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>See! ſee! they are themſelues agen!</l>
+            </sp>
+            <sp>
+               <speaker>1. FATE.</speaker>
+               <l>Yes, now they are ſubſtances, and men.</l>
+            </sp>
+            <sp>
+               <speaker>2. FATE.</speaker>
+               <l>LOVE, at the name of LETHE flyes.</l>
+            </sp>
+            <sp>
+               <speaker>LETHE.</speaker>
+               <l>For, in obliuion drown'd, he dyes.</l>
+            </sp>
+            <sp>
+               <speaker>3. FATE.</speaker>
+               <l>He muſt not hope, though other ſtates</l>
+               <l>He oft ſubdue, he can the FATES.</l>
+            </sp>
+            <sp>
+               <speaker>FATES.</speaker>
+               <l>'Twere inſolence, to thinke his powres</l>
+               <l>Can worke on vs, and equall ours.</l>
+            </sp>
+            <sp>
+               <speaker>CHORVS.</speaker>
+               <l>REturne, Returne,</l>
+               <l>Like lights to burne</l>
+               <l>On earth,</l>
+               <l>For others good:</l>
+               <l>Your ſecond birth</l>
+               <l>Will fame old LETHES flood,</l>
+               <l>And warne a world,</l>
+               <l>That now are hoorld</l>
+               <l>About in tempeſt, how they proue</l>
+               <l>Shaddowes for <hi>Loue.</hi>
+               </l>
+               <pb facs="tcp:176310:5"/>
+               <l> Leape forth: your light it is the nobler made,</l>
+               <l>By being ſtrooke out of a ſhade.</l>
+            </sp>
+            <stage>Here they dance forth their entrie, or first dance: after which</stage>
+            <sp>
+               <speaker>CVPID</speaker>
+               <stage>—appearing, meetes them.</stage>
+               <l>WHy, now you take me! theſe are rites</l>
+               <l>That grace <hi>Loues</hi> dayes, and crown his nights!</l>
+               <l>Theſe are the motions, I would ſee,</l>
+               <l>And praiſe, in them that follow mee!</l>
+               <l>Not ſighes, nor teares, nor wounded harts,</l>
+               <l>Nor flames, nor ghoſts: but ayrie parts</l>
+               <l>Try'd, and refin'd as yours haue bin,</l>
+               <l>And ſuch they are, I glorie in.</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>Looke, looke vnto this ſnakie rod,</l>
+               <l>And ſtop your eares againſt the charming god;</l>
+               <l>His euery word, falls from him, is a ſnare:</l>
+               <l>Who haue ſo lately knowne him, ſhould beware.</l>
+            </sp>
+            <stage>Here they dance their mayne dance, which ended,</stage>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <l>Come, doe not call it CVPIDS crime,</l>
+               <l>You were thought dead, before your time.</l>
+               <l>If thus you moue to HERMES will</l>
+               <l>Alone; you will be thought ſo ſtill.</l>
+               <l>Goe, take the ladies forth, and talke,</l>
+               <l>And touch, and taſte too: Ghoſts can walke.</l>
+               <l>'Twixt eyes, tongues, hands, the mutuall ſtrife</l>
+               <l>Is bred, that tries the truth of life.</l>
+               <l>They doe, indeede, like dead men moue,</l>
+               <l>That thinke they liue, and not in loue.</l>
+            </sp>
+            <stage>
+               <pb facs="tcp:176310:5"/> Here they take forth the Ladies, and the Reuells follow: after which,</stage>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>Nay, you ſhould neuer haue left off:</l>
+               <l>But ſtay'd, and heard your generall CVPID ſcoff,</l>
+               <l>To finde you in the line you were.</l>
+            </sp>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <l>HERMES, your too much wit, breeds too much feare.</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>Good Flie, good night.</l>
+            </sp>
+            <sp>
+               <speaker>CVPID.</speaker>
+               <l>But, will you goe?</l>
+               <l>Can you leaue LOVE, and he intreat you ſo?</l>
+               <l>Here, take my quiuer, and my bow,</l>
+               <l>My torches too; that you, by all, may know</l>
+               <l>I meane no danger to your ſtay:</l>
+               <l>This night, I will create my holiday,</l>
+               <l>And be yours, naked, and entire.</l>
+            </sp>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>As if that LOVE, diſ-arm'd, were leſſe a fire?</l>
+               <l>Away, away.</l>
+            </sp>
+            <stage>They dance their going out: which done,</stage>
+            <sp>
+               <speaker>MERCVRY.</speaker>
+               <l>Yet leſt that VENVS wanton Sonne</l>
+               <l>Should, with the world, be quite vndone,</l>
+               <l>For your faire ſakes (you brighter ſtarres,</l>
+               <l>Who haue beheld theſe ciuill warres)</l>
+               <l>FATE is content, theſe Louers here</l>
+               <l>Remayne ſtill ſuch: ſo LOVE will ſweare</l>
+               <l>Neuer to force them act to doo,</l>
+               <l>But what he will call HERMES too.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:176310:6"/>
+               <speaker>CVPID.</speaker>
+               <l>I ſweare: and with like cauſe thanke MERCVRY,</l>
+               <l>As theſe haue, to thanke him, and deſtinie.</l>
+            </sp>
+            <sp>
+               <speaker>CHORVS.</speaker>
+               <l>All then take cauſe of ioy: for who hath not?</l>
+               <l>Old LETHE, that their follies are forgot;</l>
+               <l>We, that their liues vnto their fates they fit:</l>
+               <l>They, that they ſtill ſhall loue, and loue with wit.</l>
+            </sp>
+            <trailer>The end.</trailer>
+            <pb facs="tcp:176310:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>

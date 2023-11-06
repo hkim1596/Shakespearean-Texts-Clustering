@@ -1,0 +1,952 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The maske of flowers· Presented by the gentlemen of Graies-Inne, at the court of VVhite-hall, in the Banquetting House, vpon Twelfe night, 1613. Being the last of the solemnities and magnificences which were performed at the marriage of the right honourable the Earle of Somerset, and the Lady Francis daughter of the Earle of Suffolke, Lord Chamberlaine.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07228</idno>
+            <idno type="STC">STC 17625</idno>
+            <idno type="STC">ESTC S109946</idno>
+            <idno type="EEBO-CITATION">99845576</idno>
+            <idno type="PROQUEST">99845576</idno>
+            <idno type="VID">10483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A07228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10483)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1074:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The maske of flowers· Presented by the gentlemen of Graies-Inne, at the court of VVhite-hall, in the Banquetting House, vpon Twelfe night, 1613. Being the last of the solemnities and magnificences which were performed at the marriage of the right honourable the Earle of Somerset, and the Lady Francis daughter of the Earle of Suffolke, Lord Chamberlaine.</title>
+                  <author>Coperario, John, 1570 (ca.)-1626.</author>
+               </titleStmt>
+               <extent>[34] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>Printed by N[icholas] O[kes] for Robert Wilson, and are to be sold at his shop at Graies-Inne new gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: I.G. W.D. T.B.</note>
+                  <note>The music is sometimes attributed to John Coperario.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-D⁴ E² .</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Variant: title has "Graies Inne", with other differences.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Somerset, Robert Carr, --  Earl of, d. 1645.</term>
+               <term>Somerset, Frances Howard Carr, --  Countess of, 1593-1632.</term>
+               <term>Masques --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10483:1"/>
+            <pb facs="tcp:10483:1" rendition="simple:additions"/>
+            <p>THE MASKE OF FLOWERS.</p>
+            <p>PRESENTED By the Gentlemen of Graies-Inne, at the Court of <hi>White-hall,</hi> in the Ban<g ref="char:EOLhyphen"/>quetting Houſe, vpon Twelfe night, 1613.</p>
+            <p>Being the laſt of the Solemnities and Magnificences which were performed at the marriage of the right honourable the Earle of <hi>Somerſet,</hi> and the Lady <hi>Francis</hi> daughter of the Earle of <hi>Suffolke,</hi> Lord Cham<g ref="char:EOLhyphen"/>berlaine.</p>
+            <figure>
+               <figDesc>printer's device (McKerrow 316): "Device of a Pegasus above a caduceus and cornucopia upheld by hands emerging from clouds."</figDesc>
+            </figure>
+            <p>LONDON Printed by <hi>N.O.</hi> for <hi>Robert Wilſon,</hi> and are to be ſold at his Shop at Graies-Inne new gate. 1614.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:10483:2"/>
+            <pb facs="tcp:10483:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> TO THE VERIE HO<g ref="char:EOLhyphen"/>norable Knight, Sir FRANCIS BACON, his Maieſties At<g ref="char:EOLhyphen"/>torney generall.</head>
+            <opener>
+               <salute>Honourable Sir;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His laſt Maske, preſented by Gentle<g ref="char:EOLhyphen"/>men of <hi>Graies</hi> Inne, before his Maie<g ref="char:EOLhyphen"/>ſtie, in honor of the marriage, and hap<g ref="char:EOLhyphen"/>py alliance betweene two ſuch princi<g ref="char:EOLhyphen"/>pall perſons of the kingdome, as are the Earle of <hi>Suffolke,</hi> and the Earle of <hi>Sommerſet,</hi> hath receiued ſuch grace from his Ma<g ref="char:EOLhyphen"/>ieſtie, the Queene and Prince, and ſuch approbation from the generall. As it may well deſerue to bee repeated to thoſe that were preſent, and repreſented to thoſe that were abſent, by committing the ſame to the <hi>Preſſe,</hi> as o<g ref="char:EOLhyphen"/>thers haue been. The dedication of it could not be doubt<g ref="char:EOLhyphen"/>full, you hauing beene the <hi>Principall,</hi> and in effect the onely perſon, that did both incourage and warrant the Gentlemen, to ſhew their good affection towards ſo noble a <hi>Coniunction,</hi> in a time of ſuch Magnificence. Where<g ref="char:EOLhyphen"/>in we conceiue without giuing you falſe attributes, which little neede where ſo many are true. That you haue gra<g ref="char:EOLhyphen"/>ced in generall the Societies of the Innes of Court, in con<g ref="char:EOLhyphen"/>tinuing them ſtill as third perſons with the Nobilite and Court, in doing the King honor. And particularly Graies Inne, which as you haue formerly brought to flouriſh both
+<pb facs="tcp:10483:3"/> in the auncienter and younger ſort, by countenancing vertue in euery qualitie. So now you haue made a notable demonſtration thereof in the later and leſſe ſerious kind, by this, That one Inne of Court by it ſelfe, in time of a Vacation, and in the ſpace of three weekes, could per<g ref="char:EOLhyphen"/>forme that which hath beene performed, which could not haue beene done, but that euery mans exceeding loue and reſpect to you, gaue him wings to ouertake Time, which is the ſwifteſt of things. This which we alledge for your Honour, we may alledge indifferently for our excuſe, if any thing were amiſſe or wanting, for your times did ſcarce afford moments, and our experience went not be<g ref="char:EOLhyphen"/>yond the compaſſe of ſome former imployment of that na<g ref="char:EOLhyphen"/>ture, which our grauer ſtudies mought haue made vs by this time to haue forgotten. And ſo wiſhing you all en<g ref="char:EOLhyphen"/>creaſe of honour, we reſt</p>
+            <closer>
+               <signed>
+                  <hi>Humbly to doe you ſeruice,</hi>
+                  <list>
+                     <item>
+                        <hi>I. G.</hi>
+                     </item>
+                     <item>
+                        <hi>W. D.</hi>
+                     </item>
+                     <item>
+                        <hi>T. B.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:10483:3"/>
+            <head>The Deuice of the Maske</head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>Sunne</hi> willing to doe honour to a Marriage, betweene two noble per<g ref="char:EOLhyphen"/>ſons of the greateſt Iſland of his vni<g ref="char:EOLhyphen"/>uerſall <hi>Empire,</hi> writeth his Letter of Commiſſion to the two Seaſons of the yeare, the <hi>Winter</hi> and the <hi>Spring,</hi> to viſite and preſent them on his part, directing the <hi>Winter</hi> to preſent them with ſports, ſuch as are com<g ref="char:EOLhyphen"/>monly called by the name of <hi>Chriſtmaſſe</hi> ſportes, or <hi>Carnaual</hi> ſportes, and the <hi>Spring,</hi> with other ſportes of more Magnificence.</p>
+            <p>And more eſpecially, that <hi>Winter</hi> for his part take knowledge of a certaine <hi>Challenge</hi> which had beene lately ſent and accepted betweene <hi>Silenus</hi> and <hi>Kana<g ref="char:EOLhyphen"/>ſha</hi> vpon this point; <hi>That Wine was more woorthy then Tobacco, and did more cheere and relieue the ſpirits of man.</hi> This to be tried at two weapons, at <hi>Song</hi> and at <hi>Dance,</hi> and requiring the <hi>Winter</hi> to giue order that the ſame <hi>Challenge</hi> be performed in the dayes of So<g ref="char:EOLhyphen"/>lemnitie of the ſame Marriage.</p>
+            <p>The ſame Letter containeth a ſecond Speciall di<g ref="char:EOLhyphen"/>rection to the <hi>Spring,</hi> that whereas of ancient time certaine beautifull youths had bin transformed from Men to Flowers, and had ſo continued till this time, that now they ſhould be returned againe into Men,
+<pb facs="tcp:10483:4"/> and preſent themſelues in Maske at the ſame Marri<g ref="char:EOLhyphen"/>age.</p>
+            <p>All this is accordingly performed, and firſt the two Seaſons <hi>Inuierno</hi> and <hi>Primauera</hi> come in, and re<g ref="char:EOLhyphen"/>ceiue their diſpatch from the <hi>Sunne,</hi> by <hi>Gallus</hi> the <hi>Sunnes</hi> Meſſenger: Thereupon <hi>Winter</hi> brings in the <hi>Challenge,</hi> conſiſting of two <hi>Anticke-Maskes,</hi> the <hi>An<g ref="char:EOLhyphen"/>ticke-Maske</hi> of the <hi>Song,</hi> and the <hi>Anticke-Maske</hi> of the <hi>Dance.</hi>
+            </p>
+            <p>Then the <hi>Spring</hi> brings in the <hi>Maske</hi> it ſelfe, and there is firſt ſeene in the fabrique, a faire <hi>Garden</hi> vpon a deſcending <hi>Ground,</hi> and at the height thereof there is a ſtately long <hi>Arbour</hi> or <hi>Bower</hi> arched vppon Pil<g ref="char:EOLhyphen"/>lars, wherein the <hi>Maskers</hi> are placed, but are not diſcouered at the firſt, but there appeare onely cer<g ref="char:EOLhyphen"/>taine great tufts of flowers betwixt the Collumnes. Thoſe flowers vpon the <hi>Charme</hi> doe vaniſh, and ſo the <hi>Maskers</hi> appeare euery one in the ſpace or inter<g ref="char:EOLhyphen"/>columne of his Arch.</p>
+            <div type="masque">
+               <head>The Maske.</head>
+               <p>AT the entrance of the <hi>King,</hi> at the lower end of the Banquetting houſe, appeared a <hi>Trauers</hi> pain<g ref="char:EOLhyphen"/>ted in <hi>Perſpectiue,</hi> like the wall of a Cittie, with bat<g ref="char:EOLhyphen"/>tlements, ouer which were ſeene the Tops of hou<g ref="char:EOLhyphen"/>ſes. In the middle whereof was a great gate, and on either ſide a Temple, the one dedicated to <hi>Silenus,</hi> and the other to <hi>Kawaſha,</hi> in either of which opened a little gate.</p>
+               <p>Out of the great gate, in the middle of the Citty, entred <hi>Inuierno</hi> or <hi>Winter,</hi> attired like an old man, in
+<pb facs="tcp:10483:4"/> a ſhort gowne of ſilke ſhagge, like withered graſſe all froſted and ſnowed ouer, and his Cappe, Gowne, Gamaſhes, and Mittins furred crimſon, with long white haire and beard, hung with Icecicles, he mar<g ref="char:EOLhyphen"/>cheth vp to the middle of the Hall, and looks round about him.</p>
+               <sp>
+                  <speaker>Inuierno.</speaker>
+                  <l>Why thus it ſhould be; ſuch a night as this</l>
+                  <l>Puts downe a thouſand weary long ſome dayes</l>
+                  <l>Of <hi>Somer,</hi> when a <hi>Sunne,</hi> and <hi>Moone,</hi> and <hi>Stars</hi>
+                  </l>
+                  <l>Are mette within the <hi>Pallace</hi> of a <hi>King,</hi>
+                  </l>
+                  <l>In ſeuerall glory ſhining each on other,</l>
+                  <l>With raies of comfort, and benigne Aſpects</l>
+                  <l>When hearts are warme: tis for the ſeely birds</l>
+                  <l>To ſacrifice their Pipes vnto the <hi>Spring,</hi>
+                  </l>
+                  <l>And let the <hi>Pilgrim</hi> bleſſe the <hi>Summers</hi> day,</l>
+                  <l>But Courts, and Youth, and Ladies needs muſt praiſe</l>
+                  <l>The <hi>Winters</hi> raine.</l>
+               </sp>
+               <p>While <hi>Inuierno</hi> was thus ſpeaking, entreth the <hi>Spring</hi> or <hi>Primauera,</hi> attired like a <hi>Nymph,</hi> a high tire on her head, <hi>Antike</hi> with knottes of faire haire, and Cobweb Lawnes riſing one aboue an other, garni<g ref="char:EOLhyphen"/>ſhed with Flowers to ſome height, and behinde, fal<g ref="char:EOLhyphen"/>ling downe in a pendant: an vpper-body of cloth of ſiluer florie, naked necke, and breaſt, decked with Pearls: a kertle of yellow cloth of gold, brancht with leaues, a mantle of greene and ſiluer ſtuffe, cut out in leaues, white buskins tied with greene ribands, frin<g ref="char:EOLhyphen"/>ged with flowers.</p>
+               <p>Shee ouertaking <hi>Inuierno,</hi> clappes him on the ſhoulder.</p>
+               <sp>
+                  <pb facs="tcp:10483:5"/>
+                  <speaker>Primauera.</speaker>
+                  <p>Well ouertaken <hi>Winter.</hi>
+                  </p>
+               </sp>
+               <p>
+                  <hi>Inuierno? Primauera?</hi>
+               </p>
+               <sp>
+                  <speaker>Inuierno.</speaker>
+                  <l>Whats that I ſee? why, how dare you approach?</l>
+                  <l>In <hi>Ianus</hi> month, D'ye meane to giue the lie</l>
+                  <l>To all the Almanackes that are come forth?</l>
+                  <l>As if they had not lide enough beſides,</l>
+                  <l>Prouoke me not, flie hence you wanton gerle,</l>
+                  <l>Stay not one minute.</l>
+               </sp>
+               <sp>
+                  <speaker>Primauera.</speaker>
+                  <l>Good olde lad! I know you a merry one</l>
+                  <l>Within doores: bluſter not, Ile chooſe thee for</l>
+                  <l>My <hi>Valentine,</hi> and tell thee tales and riddles</l>
+                  <l>Theſe liuelong nights: Th'art euer borrowing</l>
+                  <l>Some dayes of me, then let this one day paſse,</l>
+                  <l>Good froſt-beard now. But ſtay, me thinks I ſee</l>
+                  <l>The Trumpet of the <hi>Sun,</hi> hee'l ſtint this ſtrife.</l>
+               </sp>
+               <p>
+                  <hi>Gallus</hi> comes in Poſt, attired like a <hi>Poſt:</hi> in yellow damaske doublet and baſes, the doublet cloſe wings, cut like feathers, a Powch of <hi>carnation Sattin,</hi> where<g ref="char:EOLhyphen"/>in was his packet hung in a Bawdricke of the ſame, a paire of yellow bootes, ſpurres with one long pricke like a Cocke, a little Hatte of yellow Damaske, with a plume of red Feathers like a Creſt.</p>
+               <sp>
+                  <speaker>Inuierno.</speaker>
+                  <l>
+                     <hi>Gallus</hi> mine owne braue Bird! welcome in troth,</l>
+                  <l>Thou art no peeping creature that attends</l>
+                  <l>This gawdy wench, Thou wakeſt the feathered houres,</l>
+                  <l>And call'ſt to labour, Tell vs, whats the newes?</l>
+               </sp>
+               <sp>
+                  <speaker>Primauera.</speaker>
+                  <pb facs="tcp:10483:5"/>
+                  <l>What, creſt and ſpurre! welcome, thou com'ſt in time,</l>
+                  <l>
+                     <hi>Winter</hi> hath almoſt giu'n me the agew, faith</l>
+                  <l>He is ſo bitter, but thou ſhalt end our quarrell.</l>
+               </sp>
+               <sp>
+                  <speaker>Gallus.</speaker>
+                  <l>Seaſons both, God ſaue you in your times,</l>
+                  <l>I know you both ſo well, as if I ſhould</l>
+                  <l>Giue leaue for you to chirpe, and you to chat:</l>
+                  <l>How you make all things greene,</l>
+                  <l>And you make all things fat.</l>
+                  <l>Time would away: peace then, read this diſpatch,</l>
+                  <l>For I muſt backe to my accuſtomed watch.</l>
+               </sp>
+               <stage>Winter reades the Letter.</stage>
+               <p>The Letter ſuperſcribed:
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <head>To our faithfull and neuer-fayling Quarter-waiters, <hi>Inuierno,</hi> and <hi>Primauera.</hi>
+                        </head>
+                        <p>WEe haue taken knowledge of a <hi>Marriage</hi> to bee ſolemized betweene two noble Perſons, in the principall Iſland of our vniuerſall Empire, vnto which we are pleaſed to doe honour, and thereupon haue directed our ſeueral Letters to you the Seaſons of the yeare to viſit, and preſent them on your part. To this purpoſe we would haue you <hi>Inuierno</hi> to pre<g ref="char:EOLhyphen"/>ſent them with ſuch ſports as are commonly knowne by the name of <hi>Chriſtmaſſe</hi> ſports, or <hi>Carnaual</hi> ſports: and you <hi>Primauera,</hi> with ſports of a more delicate na<g ref="char:EOLhyphen"/>ture, either of you according to your qualitie. And
+<pb facs="tcp:10483:6"/> for your better inſtruction and enablement towards the due execution of this your Commiſſion, We re<g ref="char:EOLhyphen"/>quire you <hi>Inuierno,</hi> That whereas we vnderſtaad that <hi>Silenus</hi> hath lately ſent a <hi>Challenge</hi> to <hi>Kawaſha,</hi> vpon this point, to maintaine, <hi>That Wine is more woorthie then Tobacco, and cheereth mans ſpirit more,</hi> The ſame to be tried at two ſeuerall weapons, <hi>Song,</hi> and <hi>Dance;</hi> which <hi>Challenge</hi> the ſaid <hi>Kawaſha</hi> hath alſo accepted, you take order that the ſaid <hi>Challenge</hi> be performed at this <hi>Marriage,</hi> taking your conuenient time. And we require you <hi>Primauera</hi> for your part, That where<g ref="char:EOLhyphen"/>as of auncient time there were certaine faire <hi>Youthes</hi> turned into Flowers, which haue ſo continued vntil this time, that you deale with <hi>Flora</hi> by vertue of this Commiſsion, That they be now returned to <hi>Men,</hi> and preſent a <hi>Dance</hi> at this Marriage. Heere of faile you not.</p>
+                        <closer>
+                           <dateline>Giuen at our Pallace</dateline> 
+                           <signed>your Lord and Maſter, I, the Sunne.</signed>
+                        </closer>
+                        <postscript>
+                           <head>Poſtſcript.</head>
+                           <p>We haue alſo directed our Letters to the <hi>Summer</hi> &amp; the <hi>Harueſt,</hi> the one to preſent them with length of dayes, and the other with fruite, but thoſe Letters come with the next diſpatch.</p>
+                        </postscript>
+                     </body>
+                  </floatingText>
+               </p>
+            </div>
+            <div type="antimasque">
+               <head>Antickemaske of the Song.</head>
+               <p>HEreupon they depart all three, and preſently en<g ref="char:EOLhyphen"/>tred <hi>Silenus</hi> at alitle gate on the right ha<g ref="char:cmbAbbrStroke">̄</g>d, moun<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:10483:6"/> vpon an artificiall Aſſe, which ſometimes being taken with ſtraine of the Muſicke, did bow downe his eares, and liſten with great attention, the trappings were of Iuie, attended by a Satyre for his Palfreueir, who led the Aſſe.</p>
+               <p>At the ſame inſtant entred <hi>Kawaſha,</hi> at the other little gate, riding vpon a Kowle-ſtaffe, couered with a foote-cloth of pide ſtuffe, borne vpon two <hi>Indians</hi> ſhoulders attired like <hi>Floridans.</hi>
+               </p>
+               <p>
+                  <hi>Silenus</hi> an old fat man, attired in a crimſon Sat<g ref="char:EOLhyphen"/>tin Doublet, without wings, collar, or skirts, a great panch, ſo as his Dublet, though drawne with a lace, would not meete together by a handfull, ſleeues of cloth of Golde, baſes and gamaſhaes of the ſame, a red ſwolne face, with a bunched noſe, grey beard, bald head, pricke eares, and little hornes.</p>
+               <p>
+                  <hi>Kawaſha</hi> had on his head a Night-cap of red cloth of gold, cloſe to his skull, tied vnder his chin, two holes cut in the toppe, out of which his eares appea<g ref="char:EOLhyphen"/>red, hung with two great Pendants, on the crowne of his Cappe a Chimney, a glaſſe chaine about his n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cke, his body and legges of Oliue-colour ſtuffe, made cloſe like the skinne, baſes of Tobacco-colour ſtuffe cut like Tobacco leaues, ſprinkled with orce<g ref="char:EOLhyphen"/>dure, in his hand an <hi>Indian</hi> Bow and Arrowes.</p>
+               <p>Before either of theſe went a Sergeant.</p>
+               <p>The Sergeant of <hi>Silenus</hi> carried a copper Mace, and a bunch of Grapes carued at the vpper end.</p>
+               <p>The Sergeant of <hi>Kawaſha</hi> carried on his ſhoulder a great Tobacco Pipe, as bigge as a Caliuer.</p>
+               <p>Before <hi>Silenus</hi> marched foure ſingers, and behind him fiue-fidlers: Before and behinde <hi>Kawaſha</hi> as
+<pb facs="tcp:10483:7"/> many of each kinde.</p>
+               <p>The Singers on <hi>Silenus</hi> part were a Miller, a Wine Cooper, a Vintners boy, a Brewer.</p>
+               <p>His muſicke, a Taber and a Pipe, a baſe Violin, a trebble Violin a Sagbut, a Mandora.</p>
+               <p>
+                  <hi>Kawaſhaes</hi> Singers, a Skipper, a Fencer, a Pedler, a Barber.</p>
+               <p>His muſicke, a Bobtaile, a blinde Harper, and his boy, a baſe Violin, a tenor-Cornet, a Sagbut.</p>
+               <p>Vpon their entrance the Muſicke on both ſides played till they came to the middle of the Stage.</p>
+               <p>Then <hi>Silenus</hi> Singers beganne his Catch, and ſo marched forward towards the State.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <head>The Catch.</head>
+                           <sp>
+                              <speaker>Silenus.</speaker>
+                              <l>Ahay, for and a hoe,</l>
+                              <l>Lets make this great <hi>Potan</hi>
+                              </l>
+                              <l>Drinke off <hi>Silenus</hi> kan:</l>
+                              <l>And when that he well drunke is,</l>
+                              <l>Returne him to his Munkeis,</l>
+                              <l>From whence he came.</l>
+                           </sp>
+                           <p>Then <hi>Kawaſhaes</hi> ſide anſwered.</p>
+                           <sp>
+                              <speaker>Kawaſha.</speaker>
+                              <l>Ahay, for and a hoe,</l>
+                              <l>Wee'l make <hi>Silen</hi> fall downe,</l>
+                              <l>And caſt him in a ſowne,</l>
+                              <l>To ſee my men of Ire,</l>
+                              <l>All ſnuffing, puffing ſmoke and fire,</l>
+                              <l>Like fell Dragon.</l>
+                           </sp>
+                        </div>
+                        <div type="song">
+                           <pb facs="tcp:10483:7"/>
+                           <head>The Freemans Song.</head>
+                           <sp>
+                              <speaker>Silenus.</speaker>
+                              <l>
+                                 <hi>Kawaſha</hi> comes in maieſtie,</l>
+                              <l>Was neuer ſuch a God as he,</l>
+                              <l>He is come from a farre Countrey,</l>
+                              <l>To make our Noſes a chimney.</l>
+                           </sp>
+                           <sp>
+                              <speaker>Cho.</speaker>
+                              <l>
+                                 <hi>Silenus</hi> Aſſe doth leere to ſee</l>
+                              <l>His well appointed companie.</l>
+                           </sp>
+                        </div>
+                        <div type="song">
+                           <p>The Fidlers of <hi>Silenus</hi> frumpled ouer the laſt verſes.</p>
+                           <sp>
+                              <speaker>Kawaſha.</speaker>
+                              <l>The Wine takes the contrary way,</l>
+                              <l>To get into the hood:</l>
+                              <l>But good Tobacco makes no ſtay,</l>
+                              <l>But ſeizeth where it ſhood.</l>
+                              <l>More incenſe hath burne</l>
+                              <l>At great <hi>Kawaſhaes</hi> foote,</l>
+                              <l>Then to <hi>Dilen</hi> and <hi>Bacchus</hi> both,</l>
+                              <l>And take in <hi>Ioue</hi> to boote.</l>
+                              <l>Therefore doe yeeld,</l>
+                           </sp>
+                           <sp>
+                              <speaker>Cho.</speaker>
+                              <l>And quit the field,</l>
+                              <l>Or elſe Ile ſmoake yee.</l>
+                           </sp>
+                        </div>
+                        <div type="song">
+                           <p>Theſe verſes frumpled ouer by the Muſicke of <hi>Kawaſha.</hi>
+                           </p>
+                           <sp>
+                              <speaker>Silenus.</speaker>
+                              <l>The Worthies they were nine, 'tis true,</l>
+                              <l>And lately <hi>Arthurs</hi> Knights I knew,</l>
+                              <l>But now are come vp Worthies new,</l>
+                              <l>The Roaring Boyes <hi>Kawaſhaes</hi> crew.</l>
+                           </sp>
+                           <sp>
+                              <speaker>Cho.</speaker>
+                              <lg>
+                                 <pb facs="tcp:10483:8"/>
+                                 <l>But if <hi>Silenus</hi> Aſſe ſhould bray,</l>
+                                 <l>T'would make them roare and run away.</l>
+                              </lg>
+                              <lg>
+                                 <l>
+                                    <hi>Silenus</hi> tappes the Barrell, but</l>
+                                 <l>Tobacco tappes the Braine,</l>
+                                 <l>And makes the vapours fine and ſoote,</l>
+                                 <l>That man reuiues againe.</l>
+                              </lg>
+                              <lg>
+                                 <l>Nothing but fumigation</l>
+                                 <l>Doth chaſe away ill ſpirits,</l>
+                                 <l>
+                                    <hi>Kawaſha</hi> and his Nation</l>
+                                 <l>Found out theſe holy rites:</l>
+                                 <l>Therefore doe yeeld,</l>
+                                 <l>And quit the field,</l>
+                                 <l>Or elſe Ile ſmoke yee.</l>
+                              </lg>
+                           </sp>
+                        </div>
+                        <div type="song">
+                           <stage>This Song all ioyne and ſing.</stage>
+                           <l>Ahay, for and a hoe,</l>
+                           <l>Tee Aſſe ſtill lookes aſcaunce a,</l>
+                           <l>But ſtrife in Song,</l>
+                           <l>It is too long,</l>
+                           <l>Lets end it in a daunce a.</l>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>After the Song ended, they marched all out in the ſame order they came in, their Muſicke playing.</p>
+               <pb facs="tcp:10483:8"/>
+               <p>Then entred the <hi>Anticke-maske</hi> of <hi>Daunce,</hi> conſi<g ref="char:EOLhyphen"/>ſting on <hi>Silenus</hi> ſide of a
+<list>
+                     <item>
+                        <hi>Pantalon Curtezan.</hi>
+                     </item>
+                     <item>
+                        <hi>Swiſſe</hi> and his wife.</item>
+                     <item>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>ſurer Midwife.</hi>
+                     </item>
+                     <item>
+                        <hi>Smugge</hi> and his wench.</item>
+                  </list> 
+                  <hi>Kawaſhaes</hi> of a
+<list>
+                     <item>
+                        <hi>Fretelyne Bawde.</hi>
+                     </item>
+                     <item>
+                        <hi>Roaring Boy Citizen.</hi>
+                     </item>
+                     <item>
+                        <hi>Mountebancke Ieweſſe</hi> of <hi>Portugall.</hi>
+                     </item>
+                     <item>
+                        <hi>Chimney ſweeper</hi> and his wench.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="continuation_of_masque">
+               <p>The Daunce ended, the lowd Muſicke ſounded. The <hi>Trauers</hi> being drawne, was ſeene a Garden of a glorious and ſtrange beauty, caſt into foure quarters, with a croſſe walke and allies, compaſſing each quar<g ref="char:EOLhyphen"/>ter. In the middle of the croſſe walke, ſtood a good<g ref="char:EOLhyphen"/>ly Fountaine raiſed on foure columnes of <hi>Siluer.</hi> On the toppes whereof ſtoode foure ſtatues of ſiluer, which ſupported a bole, in circuite containing foure and twenty foote, and was rayſed from the ground nine foote in height, in the middle whereof vppon ſcrowles of ſiluer and gold was placed a Globe gar<g ref="char:EOLhyphen"/>niſhed with foure golden Maske-heads, out of the which iſſued water into the bole, aboue ſtood a gol<g ref="char:EOLhyphen"/>den <hi>Neptune,</hi> in height three foote, holding in his hand a Trident, and riding on a Dolphin ſo cun<g ref="char:EOLhyphen"/>ningly framed, that a Riuer ſeemed to ſtreame out of his mouth.</p>
+               <pb facs="tcp:10483:9"/>
+               <p>The Garden walls were of bricke artificially pain<g ref="char:EOLhyphen"/>ted in <hi>Perſpectiue,</hi> all along which were placed fruite trees with artificiall leaues and fruite.</p>
+               <p>The Garden within the wall was rayled about with rayles of three foote high, adorned with Balle<g ref="char:EOLhyphen"/>ſters of Siluer, betweene which were placed pede<g ref="char:EOLhyphen"/>ſtalls, beautified with tranſparent Lights of variable colours, vpon the Pedeſtalls ſtood ſiluer columnes, vpon the toppes whereof were perſonages of golde, Lions of gold, and Vnicornes of ſiluer, euery perſo<g ref="char:EOLhyphen"/>nage and beaſt did hold a torchet burning that gaue light and luſtre to the whole fabrique.</p>
+               <p>Euery quarter of the Garden was finely hedged a<g ref="char:EOLhyphen"/>bout with a lowe hedge of Cipreſſe and Iuniper: The knottes within ſet with artificiall greene hearbs, em<g ref="char:EOLhyphen"/>beliſhed with all ſortes of artificiall Flowers. In the two firſt quarters were two <hi>Piramides</hi> garniſhed with golde and ſiluer, and gliſtering with tranſparent lights, reſembling <hi>Carbuncles, Saphires,</hi> and <hi>Rubies.</hi> In euery corner of each Quarter were great pottes of. Iilliflowers, which ſhadowed certaine lights placed behind them, and made a reſplendent and admirable luſtre.</p>
+               <p>The two further quarters were beautified with <hi>Tu<g ref="char:EOLhyphen"/>lipaes</hi> of diuers colours, and in the Middle, and in the Corners of the ſaid quarters were ſet great tufts of ſeuerall kindes of Flowers, receiuing luſtre from ſe<g ref="char:EOLhyphen"/>cret lights placed behind them.</p>
+               <p>At the farther end of the Garden was a Mount rai<g ref="char:EOLhyphen"/>ſed by degrees, reſembling bankes of earth, couered with graſſe: on the top of the Mount ſtood a goodly Arbour ſubſtantially made and couered with artifi<g ref="char:EOLhyphen"/>ciall
+<pb facs="tcp:10483:9"/> trees, and with arbour flowers, as <hi>Eglantine, Honnyſuckles,</hi> and the like.</p>
+               <p>The Arbour was in length three and thirtie foote, in height one and twenty, ſupported with termes of gold and ſiluer, it was diuided into ſixe double ar<g ref="char:EOLhyphen"/>ches, and three doores anſwerable to the three walks of the Garden. In the middle part of the Arbor roſe a goodly large Turret, and at either end a ſmaller.</p>
+               <p>Vpon the toppe of the Mount, on the front there<g ref="char:EOLhyphen"/>of was a banke of Flowers, curiouſly painted, behind which within the Arches the <hi>Maskers</hi> ſate vnſeene.</p>
+               <p>Behind the Garden ouer the toppe of the Arbour were ſet artificiall trees appearing like an Orchard ioyning to the Garden, and ouer all was drawne in perſpectiue, a firmament like the Skies in a cleere night.</p>
+               <p>Vpon a graſſy ſeate vnder the Arbor ſate the Gar<g ref="char:EOLhyphen"/>den-Gods, in number twelue, apparrelled in long roabes of greene rich taffata, Cappes on their heads, and chaplets of Flowers.</p>
+               <p>In the midſt of them ſate <hi>Primauera,</hi> at whoſe in<g ref="char:EOLhyphen"/>treaty they deſcended to the Stage, and marching vp to the King, ſung to Lutes and Theorboes.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <pb facs="tcp:10483:10"/>
+                           <head>The Song that induced the Charme.</head>
+                           <lg>
+                              <head>CANT. 1.</head>
+                              <l>GIue place you ancient powers,</l>
+                              <l>That turned men to Flowers,</l>
+                              <l>For neuer Writers pen,</l>
+                              <l>Yet tolde of Flowers return'd to Men.</l>
+                              <lg>
+                                 <head>Cho.</head>
+                                 <l>But miracles of new euent,</l>
+                                 <l>Follow the great <hi>Sun</hi> of our firmament.</l>
+                              </lg>
+                           </lg>
+                        </div>
+                        <div type="song">
+                           <head>The Charme.</head>
+                           <lg>
+                              <l>Hearken ye freſh and ſpringing Flowers,</l>
+                              <l>The <hi>Sunne</hi> ſhines full vpon your earth,</l>
+                              <l>Diſcloſe out of your ſhady bowers,</l>
+                              <l>He will not blaſt your tender birth:</l>
+                              <l>Diſcend you from your hill,</l>
+                              <l>Take ſpirit at his will,</l>
+                              <l>No Flowers, but flouriſh ſtill.</l>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The Charme ended, the Gods retire to their pla<g ref="char:EOLhyphen"/>ces, the lowd Muſicke againe ſounded. The bankes of flowers ſoftly deſcending and vaniſhing, the Maſ<g ref="char:EOLhyphen"/>kers, in number thirteene appeared, ſeated in their Arches, apparrelled in doublets and round hoſe of white ſattin, long white ſilke ſtockings, white ſattin pumpes. The doublet richly imbrodered in curious panes with imboſſed flowers of ſiluer, the panes bor<g ref="char:EOLhyphen"/>dered with imbrodery of carnation ſilke and ſiluer. The hoſe cut in panes anſwerable to the embroderie
+<pb facs="tcp:10483:10"/> of the doublets. The skirtes of the doublets embro<g ref="char:EOLhyphen"/>dered and cut into Lillies flowers, and the wings ſet forth with flowers of ſeuerall colours, made in ſilke, and froſted with ſiluer, ruffe bands, edged with a lace of carnation ſilke &amp; ſiluer, ſpangled very thicke, and ſtucke full of flowers of ſeuerall kindes, faire vi<g ref="char:EOLhyphen"/>zards and treſſes, delicate Cappes of ſilke and ſiluer flowers of ſundry kindes, with plumes of the ſame, in the toppe whereof ſtucke a great bunch of Egrets. Euery Maskers pump faſtned with a flower ſutable to his cappe; on their left armes a white skarfe fairely embrodered ſent them by the Bride, and on their hands a rich paire of embrodered gloues, ſent them by the Bridegroome.</p>
+               <p>The lowd Muſicke ceaſing, the Maskers deſcend in a gallant March through three ſeuerall doores of the Arbor to the three ſeueral Allies of the Garden, marching till they all met in the middle Allie vnder the Fountaine, and from thence to the Stage, where they fel into their firſt meaſure.</p>
+               <p>That ended, the Preiſts deſcend againe, and ſung the ſecond Song.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <head>The Song referring to the Deuice of the Transforming.</head>
+                           <lg>
+                              <head>CANT. 2.</head>
+                              <l>THrice happy Flowers,</l>
+                              <l>Your leaues are turn'd into fine haire,</l>
+                              <l>Your ſtalkes to bodies ſtreight and faire,</l>
+                              <l>Your ſprigges to limmes, as once they were,</l>
+                              <l>Your verdure to freſh bloud, your ſmell</l>
+                              <pb facs="tcp:10483:11"/>
+                              <l>To breath, your bloomes your ſeedy Cell,</l>
+                              <l>All haue a louely paralell.</l>
+                              <lg>
+                                 <head>Cho.</head>
+                                 <l>The Nimphs that on their heads did weare you,</l>
+                                 <l>Henceforth in their hearts will beare you.</l>
+                              </lg>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>That done, they daunce their ſecond meaſure, af<g ref="char:EOLhyphen"/>ter which followes the third Song, referring to the Ladies.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <head>CANT. 3.</head>
+                           <lg>
+                              <l>OF creatures are the flowers (faire Ladies)</l>
+                              <l>The prettieſt, if we ſhall ſpeake true,</l>
+                              <l>The Earths Coronet, the Sunnes Babies,</l>
+                              <l>Enamild cuppes of Heauens ſweet dew,</l>
+                              <l>Your fairer hands haue often bleſt them,</l>
+                              <l>When your Needles haue expreſt them.</l>
+                              <lg>
+                                 <head>Ch.</head>
+                                 <l>Therfore though their ſhapes be changed,</l>
+                                 <l>Let not your fauours be eſtranged.</l>
+                              </lg>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>This ended, they tooke their Ladies, with whom they daunced Meaſures, Corantoes, Durettoes, Moriſcoes, Galliards.</p>
+               <p>Then was ſung the fourth Song, hauing reference to the King.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <head>CANT. 4.</head>
+                           <lg>
+                              <l>ALl things returne with Time,</l>
+                              <l>But ſeldom do they higher clime</l>
+                              <l>Yet vertue ſoueraigne</l>
+                              <l>Mends al things, as they come again;</l>
+                              <l>This Ile was <hi>Brittaine</hi> in times paſt,</l>
+                              <l>But then was <hi>Britiain</hi> rude &amp; waſte,</l>
+                              <pb facs="tcp:10483:11"/>
+                              <l>But now is <hi>Brittaine fit to be,</hi>
+                              </l>
+                              <l>A ſeate for a fift Monarchie.</l>
+                              <l>Offer we to his high deſerts,</l>
+                              <lg>
+                                 <head>Cho.</head>
+                                 <l>Praiſes of truth, incenſe of hearts,</l>
+                                 <l>By whom ech thing with gaine reuerts.</l>
+                              </lg>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Then they daunced their parting Meaſure, at the end whereof followed this laſt Song, hauing refe<g ref="char:EOLhyphen"/>rence to the married couple.</p>
+               <q>
+                  <l>Louely couple, Seaſons two,</l>
+                  <l>Haue perform'd what they can doe,</l>
+                  <l>If the Gods inſpire our Song,</l>
+                  <l>The other two will not ſtay long,</l>
+                  <l>Receiue our Flowers with gracious hand,</l>
+                  <l>As a ſmall wreathe to your Garland.</l>
+                  <l>Flowers of honour, Flowers of beautie,</l>
+                  <l>Are your owne, we onely bring</l>
+                  <l>Flowers of affection, Flowers of duetie.</l>
+               </q>
+               <p>The Maske ended, it pleaſed his Maieſtie to call for the <hi>Anticke-Maske</hi> of <hi>Song</hi> and <hi>Daunce.</hi> which was againe preſented; and then the Maskers vncoue<g ref="char:EOLhyphen"/>red their faces, and came vp to the State, and kiſſed the <hi>King,</hi> and <hi>Queene,</hi> and <hi>Princes</hi> hand, with a great deale of grace and fauour, and ſo were inuited to the Banquet.</p>
+               <pb facs="tcp:10483:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:10483:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="song">
+               <div n="medius" type="part">
+                  <pb facs="tcp:10483:13"/>
+                  <head>
+                     <hi>Selenas</hi> ſide firſt. <hi>MEDIVS.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> ahey, for and ahoe, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> weell make this great potan Drinke of <hi>Si╌lenas</hi> Can. And when that he well drunke is, well drunk is, Weel turn him to his Munkies, From whence he came.</p>
+               </div>
+               <div n="contratenor" type="part">
+                  <head>Silenas. CONTRATENOR.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> for and ahoe, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> Weel make this great potan Drinke of <hi>Sile╌nas</hi> Can, And when that he well drunke is, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> weell turne him to his Munkies from whence he came.</p>
+               </div>
+               <div n="tenor" type="part">
+                  <pb facs="tcp:10483:13"/>
+                  <head>Silenas. TENOR.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, for and ahoe, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> weell make this great potan Drinke of <hi>Silenas</hi> Can, And when that he well drunke is, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> Weell turne him to his Munkies, From whence he came.</p>
+               </div>
+               <div n="bass" type="part">
+                  <head>Silenas. BASSVS.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, for and ahoe, weell make this great potan Drinke of <hi>Silenas</hi> Can, And when that he well drunke is, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> 
+                     <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> 
+                     <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> Weell turne him, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> to his Munkies, From whence he came.</p>
+               </div>
+               <div n="medius" type="part">
+                  <pb facs="tcp:10483:14"/>
+                  <head>
+                     <hi>Kawaſha's</hi> ſide, firſt time. <hi>MEDIVS.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> ahey for and ahoe, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> weel make <hi>Silen</hi> fall downe, And caſt him in aſowne, To ſee his men of Iere, All ſnuffing, puffing ſmoake and fier, Like fell Dragoune.</p>
+               </div>
+               <div n="contratenor" type="part">
+                  <head>Kawaſha's. CONTRATENOR.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> for and a╌hoe, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> weel make <hi>Silen</hi> fall downe, And caſt him in a ſowne, To ſee his men of Iere, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> All ſnuffing, puffing ſmoake and fier, Like fell Dragoune.</p>
+               </div>
+               <div n="tenor" type="part">
+                  <pb facs="tcp:10483:14"/>
+                  <head>Kawaſha's. TENOR.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, for and ahoe, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> weel make <hi>Si╌len</hi> fall downe, And caſt him in a ſowne, To ſee his men of Iere, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> All ſnuffing, puffing ſmoake and fier, Like fell Dra╌goune.</p>
+               </div>
+               <div n="bass" type="part">
+                  <head>Kawaſha's. BASSVS.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, for and ahoe, weell make <hi>Silen</hi> fall downe, And caſt him in a ſowne, To ſee his men of Iere, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> 
+                     <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> 
+                     <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> All ſnuffing, puffing ſmoake and fier, Like fell Dragoune.</p>
+               </div>
+               <div n="medius" type="part">
+                  <pb facs="tcp:10483:15"/>
+                  <head>
+                     <hi>Silenas</hi> ſide, ſecond time. <hi>MEDIVS.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">K</seg>Awaſhe</hi> comes in Maieſtie, Was neuer ſuch a God as he: He is come from a far Countrey, To make our noſes a chimney. <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> 
+                     <hi>Silenas</hi> Aſſe doth liere to ſee This well appointed companie.</p>
+               </div>
+               <div n="contratenor" type="part">
+                  <head>Silenas. CONTRATENOR.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">K</seg>Awaſhe</hi> comes in Ma╌ieſtie, Was neuer ſuch a God as he: He is come from a farre Countrey, to make our noſes a chimney. <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> 
+                     <hi>Silenas</hi> Aſſe doth liere to ſee This well appointed companie.</p>
+               </div>
+               <div n="tenor" type="part">
+                  <pb facs="tcp:10483:15"/>
+                  <head>Silenas. TENOR.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">K</seg>Awaſhe</hi> comes in Maieſtie, Was neuer ſuch a God as hee: He is come from a farre Countrey, To make our noſe a chimney, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> 
+                     <hi>Silenas</hi> Aſſe doth liere to ſee This well appointed companie.</p>
+               </div>
+               <div n="bass" type="part">
+                  <head>Silenas. BASSVS.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <hi>
+                        <seg rend="decorInit">K</seg>Awaſhe</hi> comes in Maieſtie, Was neuer ſuch a God as hee: He is come from a farre Countrey, To make our noſe a chimney, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> 
+                     <hi>Silenas</hi> Aſſe doth liere to ſee This well appointed companie.</p>
+               </div>
+               <div n="medius" type="part">
+                  <pb facs="tcp:10483:16"/>
+                  <head>
+                     <hi>Kawaſha's</hi> ſide, ſecond time. <hi>MEDIVS.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Ore Incenſe hath beene burned at great <hi>Kawa╌ſha's</hi> foot, Then to <hi>Silen</hi> and <hi>Bachus</hi> both, and take in <hi>Ioue</hi> to boot: Wherefore doe yeeld, and quit the field.</p>
+               </div>
+               <div n="contratenor" type="part">
+                  <head>Kawaſha's. CONTRATENOR.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Ore Incenſe hath beene burned at great <hi>Kawaſha's</hi> foot, Then to <hi>Si╌len</hi> and <hi>Bachus</hi> both, and take in <hi>Ioue</hi> to boot: Wherefore doe yeeld and quit the field.</p>
+               </div>
+               <div n="tenor" type="part">
+                  <pb facs="tcp:10483:16"/>
+                  <head>Kawaſha's. TENOR.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Ore Incenſe hath beene burned at great <hi>Kawaſha's</hi> foot, Then to <hi>Silen</hi> and <hi>Bacchus</hi> both, and take in <hi>Ioue</hi> to boot: Wherefore doe yeeld, and quit the field.</p>
+               </div>
+               <div n="bass" type="part">
+                  <head>Kawaſha's. BASSVS.</head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">M</seg>Ore Incenſe hath beene burned at great <hi>Kawaſha's</hi> foot, Then to <hi>Silen</hi> and <hi>Bacchus</hi> both, and take in <hi>Ioue</hi> to boot: Wherefore doe yeeld and quit the field.</p>
+               </div>
+               <div n="medius" type="part">
+                  <pb facs="tcp:10483:17"/>
+                  <head>All together. <hi>MEDIVS.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> ahey, for and ahoe, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> the Aſſe lookes yet a╌ſconce╌a: But ſtrife in Song, Will be too long, Let's end it in a dance╌a. <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> But ſtrife, &amp;c.</p>
+               </div>
+               <div n="contratenor" type="part">
+                  <head>All together. <hi>CONTRATENOR.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, ahey, for and ahoe, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> the Aſſe lookes yet aſconce╌a: But ſtrife in Song, Will be too long, Let's end it in a dance╌a. <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> But, &amp;c.</p>
+               </div>
+               <div n="tenor" type="part">
+                  <pb facs="tcp:10483:17"/>
+                  <head>All together. <hi>TENOR.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, for and ahoe, <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> the Aſſe lookes yet aſconce╌a: But ſtrife in Song, Will be too long, Let's end it in a dance╌a. <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> But, &amp;c.</p>
+               </div>
+               <div n="bass" type="part">
+                  <head>All together. <hi>BASSVS.</hi>
+                  </head>
+                  <p>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <seg rend="decorInit">A</seg>Hey, for and ahoe, the Aſſe lookes yet a╌ſconce╌a: But ſtrife in Song, Will be too long, Let's end it in a dance╌a. <expan>
+                        <am>
+                           <g ref="char:repeat"/>
+                        </am>
+                        <ex>repeat</ex>
+                     </expan> But, &amp;c.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

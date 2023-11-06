@@ -1,0 +1,2664 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pretie and mery new enterlude: called the Disobedient child. Compiled by Thomas Ingelend late student in Cambridge</title>
+            <title>Disobedient child</title>
+            <author>Ingelend, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04027</idno>
+            <idno type="STC">STC 14085</idno>
+            <idno type="STC">ESTC S107422</idno>
+            <idno type="EEBO-CITATION">99843123</idno>
+            <idno type="PROQUEST">99843123</idno>
+            <idno type="VID">7833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A04027)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 7833)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 250:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pretie and mery new enterlude: called the Disobedient child. Compiled by Thomas Ingelend late student in Cambridge</title>
+                  <title>Disobedient child</title>
+                  <author>Ingelend, Thomas.</author>
+               </titleStmt>
+               <extent>[60] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Fletestrete, beneath the Conduit by Thomas Crolwell,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1570?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Publication date conjectured by STC.</note>
+                  <note>Signatures: A-G⁴ H² .</note>
+                  <note>Running title reads: The disobedient childe.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:7833:1"/>
+            <pb facs="tcp:7833:1" rendition="simple:additions"/>
+            <p>A pretie and Mery new En<g ref="char:EOLhyphen"/>terlude: called the Diſ<g ref="char:EOLhyphen"/>obedient Child.</p>
+            <p>Compiled by Thomas Ingelend late Student in Cambridge.</p>
+            <p>¶ Imprinted at London in Fleteſtrete, beneath the Conduit by Tho<g ref="char:EOLunhyphen"/>mas Colwell.</p>
+            <p>
+               <hi>First Edition.</hi>
+            </p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:7833:2"/>
+            <head>¶ The Players names.</head>
+            <list>
+               <item>¶ The Prologue ſpeaker.</item>
+               <item>¶ The Bycheman.</item>
+               <item>¶ The B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chemans ſonne.</item>
+               <item>¶ The ManCooke.</item>
+               <item>¶ The young woman.</item>
+               <item>¶ The Seruing man.</item>
+               <item>¶ The Prieſt.</item>
+               <item>¶ The Deuyll.</item>
+               <item>¶ The Perorator.</item>
+            </list>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:7833:2"/>
+            <sp>
+               <speaker>¶ The Prologue ſpeaker.</speaker>
+               <l>NOwe foraſmuche as in theſe latter dayes,</l>
+               <l>Throughout the whole world in euery lande</l>
+               <l>Vice doth encreaſe, and Vertue decayes</l>
+               <l>Iniquitie hauynge the vpper hande.</l>
+               <l>We therfore intende, good gentle Audience,</l>
+               <l>A pretie ſhort Interlude, to playe at this preſent</l>
+               <l>Deſyrynge your leaue and quiet ſciſence</l>
+               <l>To ſhewe the ſame, as is mete and expedient.</l>
+               <l>The ſume wherof, matter and argument,</l>
+               <l>In two or thre verſes, briefely to declare,</l>
+               <l>Synce that it is for an honeſt intent,</l>
+               <l>I wyll ſomewhat beſtowe my care.</l>
+               <l>In the Citie of London, there was a ryche man</l>
+               <l>Who louynge his ſonne moſte tenderlye,</l>
+               <l>Moued hym earneſtly now and than,</l>
+               <l>That he woulde gyue his mynde to ſtudye.</l>
+               <l>Sayinge that by knowledge, ſcyence, and learnynge</l>
+               <l>Is at the laſt gotten a pleaſaunt lyfe:</l>
+               <l>But throng he the want, and lacke of this thynge</l>
+               <l>Is purchaſed ponertie, ſorowe, and ſtryfe.</l>
+               <l>His Sonne notwithſtandynge, this gentle monition</l>
+               <l>As one that was cleane deuoyde of grace,</l>
+               <l>Dyd turne to a mocke, and open deryſion</l>
+               <l>Moſte wickedly with an buſhame faſt face.</l>
+               <l>In ſo muche that contrarye to his fathers wyll</l>
+               <l>Vnto a yonge woman he dyd conſente,</l>
+               <l>Wherby of luſte he might haue his fyll,</l>
+               <l>And maryed the ſame in contynents.</l>
+               <l>Not longe after that, the childe began</l>
+               <l>To feele his wyffes great frowardenes,</l>
+               <pb facs="tcp:7833:3"/>
+               <l>And called hymſelfe vnhappye man,</l>
+               <l>O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>reſſed with paynes and heauynes.</l>
+               <l>Who before that time, dyd lyue bleſſedly,</l>
+               <l>Whilſt he was vnder his fathers wynge</l>
+               <l>But nowe beynge weddyd, mournynge and myſerye</l>
+               <l>Dyd hym torment without endynge,</l>
+               <l>But nowe it is tyme for me to be goynge,</l>
+               <l>And hence to departe for a certeyne ſpace,</l>
+               <l>For I do heare the Ryche man co<g ref="char:cmbAbbrStroke">̄</g>mynge</l>
+               <l>With the wanton boye into this place.</l>
+            </sp>
+            <stage>¶ Here the Prologue ſpeaker goeth out, and in co<g ref="char:cmbAbbrStroke">̄</g>meth the Ryche man and his ſonne.</stage>
+         </div>
+      </front>
+      <body>
+         <div type="interlude">
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>LAther I beſeche you father, ſhewe me the waye</l>
+               <l>What thynge I were beſt to take in hand,</l>
+               <l>Wherby this ſhorte lyfe ſo ſpende I maye</l>
+               <l>That all gryefe and trouble, I myght withſtande.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ What is the meanynge (my chylde) I the praye</l>
+               <l>This queſtion to be maunde of me?</l>
+               <l>For that thynge to ſo, I am glad alwaye</l>
+               <l>Which ſhoulde not be greuous to the.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Marye but therfore, of you counſell I take,</l>
+               <l>Seynge nowe my Chyldehood, I am cleane paſt,</l>
+               <l>That vnto me ye playnely do make,</l>
+               <l>What to a yongman is beſt for to taſt.</l>
+            </sp>
+            <pb facs="tcp:7833:3"/>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ I ſee nothinge truely my Sonne ſo mete</l>
+               <l>And to proue ſo profytable for the</l>
+               <l>As vnto the Schole to moue thy feete,</l>
+               <l>With ſtudious Laddes, there for to be.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ What the Scholeen aye father, naye,</l>
+               <l>Go to the Schole is not the beſt waye,</l>
+            </sp>
+            <sp>
+               <speaker>¶ The father.</speaker>
+               <l>¶ Saye what thou lyſte, for I can not inuent</l>
+               <l>A waye more co<g ref="char:cmbAbbrStroke">̄</g>modyous in my Iudgement.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ It is well knowne howe that ye haue loued</l>
+               <l>Me heretofore at all tymes moſt tenderlye</l>
+               <l>But now (me thynke) ye haue playnely ſhewed</l>
+               <l>Certayne tokens of hatred</l>
+               <l>For if I ſhoulde go to my Booke after your aduyſe</l>
+               <l>Whiche haue ſpent my Chyldehood ſo pleaſauntlye,</l>
+               <l>I maye then ſeeme dryuen out of Paradyſe</l>
+               <l>To take payne and woe, gryefe and myſerye.</l>
+               <l>All thynges I had rather ſuſtayne and abyde</l>
+               <l>The buſynes of the Schole ones caſt aſyde,</l>
+               <l>Therfore thoughe ye crye tyll ye reue aſunder</l>
+               <l>I wyll not meddle with ſuch a matter.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Why can not I thee thus much perſwade</l>
+               <l>For that in my mynde is the beſt trade.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Whan all is ſaide and all is done,</l>
+               <l>Concernynge all thynges both more and leſſe</l>
+               <l>Yet lyke to the Schole none vnder the Sonne</l>
+               <l>Bryngeth to children ſo much heauyneſſe.</l>
+            </sp>
+            <pb facs="tcp:7833:4"/>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ What though it be paynfull, what thought it be greues,</l>
+               <l>For ſo be all thynges at the fyrſte learnynge,</l>
+               <l>Yet meruaylous pleaſure it bryngeth vnto vs</l>
+               <l>As a rewarde for ſuche paynes takynge.</l>
+               <l>Wherfore come of and be of good cheare</l>
+               <l>And go to thy Booke without any feare</l>
+               <l>For a man without knowledge (as I haue read)</l>
+               <l>Maye well be compared to one that is dead.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ No more of the Schole, no more of the Booke</l>
+               <l>That wofull worke is not for my purpoſe</l>
+               <l>For vpon thoſe Bookes I maye not looke,</l>
+               <l>If ſo I dyd, my laboure I ſhould loſe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Why than to me thy fanſye expreſſe</l>
+               <l>That the Schole matters to the are counted weryneſſe</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Euen as to a great man, wealthy and ryche</l>
+               <l>Seruice and bondage is a harde thynge</l>
+               <l>So to a Boye both dayntie and nyce</l>
+               <l>Learnynge and ſtudye is greatly diſpleaſynge.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The father.</speaker>
+               <l>¶ What my Chylde, diſpleaſynge I praye the?</l>
+               <l>That maketh a man lyue ſo happyly.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Yea by my trouthe, ſuche kynde of wyſdome</l>
+               <l>Is to my hearte I tell you, verye lotheſome.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ What tryall therof haſt thou taken</l>
+               <l>That the Scole of thee is ſo ill beſpoken?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <pb facs="tcp:7833:4"/>
+               <l>¶ What tryall therof woulde ye fayne knowe?</l>
+               <l>Nothynge more eaſye then this to ſhowe:</l>
+               <l>At other boyes handes, I haue it learned,</l>
+               <l>And that of thoſe truelye moſt of all other</l>
+               <l>Which for a certen tyme haue remayned</l>
+               <l>In the houſe and pryſon of a Scholemayſter</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ I dare well ſaye that there is no myſerye</l>
+               <l>But rather Ioye, paſtyme, and pleaſure</l>
+               <l>Alwayes with Scholers hapynge company,</l>
+               <l>No lyfe to this, I the wall aſſure.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ It is not true Father which you do ſaye,</l>
+               <l>The contrarye therof is proued alwaye,</l>
+               <l>For as the Brute goeth by many a one,</l>
+               <l>Their tender bodyes both nyght and daye</l>
+               <l>Are whypped and ſcourged, and beate lyke a ſtone</l>
+               <l>That from toppe to toe, the ſayn is awaye.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Is there not (ſaye they) for them in this caſe,</l>
+               <l>Gyuen other whyle for pardone ſome place?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ None truely none, but that alas, alas</l>
+               <l>Diſeaſes amonge them do growe apaſe.</l>
+               <l>For out of their backe and ſyde doth floe,</l>
+               <l>Of verye goore bloode merueylous abundance,</l>
+               <l>And yet for all that is not ſuffered to goe,</l>
+               <l>Tyll death be almoſt ſeene in their countinaunce.</l>
+               <l>Shoulde I be content then thyther to runne,</l>
+               <l>Where the bloude from my breeche thus ſhoulde ſpuane,</l>
+               <l>So longe as my wyttes ſhall be myne owne,</l>
+               <l>The Scholehouſe for me ſhall ſtande alone.</l>
+            </sp>
+            <pb facs="tcp:7833:5"/>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ But I am ſure that this kynde of facion</l>
+               <l>Is not ſhewed to children of honeſt condicion.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Of trouth with theſe Maiſters is no dyfference</l>
+               <l>For alyke towardes all, is their wrathe and violence.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Sonne in this poynt, thou art quyte deceyued</l>
+               <l>And without doubte falſely perſwaded</l>
+               <l>For it is not to be iudged that any Scholemayſter,</l>
+               <l>Is of ſo great fierſenes and crueltye</l>
+               <l>And of yonge Infantes ſo ſore a tormenter</l>
+               <l>That the breath ſhoulde be about to leaue the bodye.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Father this thynge I coulde not haue beleued</l>
+               <l>But of late dayes I dyd beholde</l>
+               <l>In honeſt mannes ſonne hereby buryed</l>
+               <l>Which throughe many ſtrypes was dead and colde.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Perauenture the Childe of ſome diſeaſe did laboure</l>
+               <l>Which was the cauſe of his Sepulture.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ With no diſeaſe ſurely, was he diſquieted,</l>
+               <l>As vnto me it was then reported.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ If that with no ſuch thynge he were infected</l>
+               <l>What was the cauſe that he departed.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Men ſaye, that of this man, his bloudy mayſter</l>
+               <l>Who lyke a Lyon moſt co<g ref="char:cmbAbbrStroke">̄</g>monly frowned,</l>
+               <l>Beynge hanged vp by the heeles togyther<g ref="char:punc">▪</g>
+               </l>
+               <l>Was bealy and buttocke greuouſlye whipped.</l>
+               <pb facs="tcp:7833:5"/>
+               <l>And laſt of all (whiche to ſpeake I trembled)</l>
+               <l>That his head to the wall he had often cruſſhed.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Thus to thynke Sonne, thou art beguyled verilye,</l>
+               <l>And I woulde wyſſhe the to ſuppoſe the contrary.</l>
+               <l>And not for ſuche tales my counſell to forſake</l>
+               <l>Which only do couet thee learned to make.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ If Demeſthenes and Tully were preſent truely</l>
+               <l>They coulde not prynt it within my head h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pely.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Yet by thy fathers wyll and interceſſion,</l>
+               <l>Thou ſhalt be content that thinge to pardon.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Commaunde what ye lyſt, that onely excepted,</l>
+               <l>And I will by redy your mynde to fulfyll,</l>
+               <l>But where as I ſhulde to the Schole haue reſorted</l>
+               <l>My hande to the Palmer ſubmyttynge ſtyll.</l>
+               <l>I wyll not obey ye theri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be playne,</l>
+               <l>Thoughe with a thouſande ſtrokes I be ſlayne.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Wo is me my Sonne, wo is me,</l>
+               <l>This heauy and dolefull daye to ſee.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ I graunt in dede, I am your Sonne,</l>
+               <l>But you my Father ſhall not be,</l>
+               <l>If that ye myll caſt me into that pryſon,</l>
+               <l>Where torne in peices ye myght me ſee.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Where I myght ſee the torne and rent?</l>
+               <l>O Lord I coulde not ſuche a dede inuent.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <pb facs="tcp:7833:6"/>
+               <l>¶ Naye by the Maſſe, I holde ye, a grote</l>
+               <l>Thoſe cruell tyrauntes cut not my throte:</l>
+               <l>Better it were my ſelfe dyd fleye,</l>
+               <l>Then they with the Rodde my fleſſhe ſhoulde fleye.</l>
+               <l>Well I woulde we dyd this talke omyt,</l>
+               <l>For it is lotheſome to me euery whyt.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ What trade then (I praye the) ſhall I deuyſe</l>
+               <l>Wherof thy lyuinge at length maye aryſe?</l>
+               <l>Wilte thou folowe Warfare, and a Souldiour be pointed,</l>
+               <l>And ſo amonge Troyans and Romaynes be nombred,</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ See ye not mayſters my Fathers aduyſe</l>
+               <l>Haur ye the lyke at any time harde?</l>
+               <l>To wyll me therto he is not wyſe</l>
+               <l>If my yeares and ſtrength he dyd regarde,</l>
+               <l>Ye ſpeake worſe and worſe, what ſoeuer ye ſaye</l>
+               <l>This maner of life is not a good waye.</l>
+               <l>For no kynde of offyce can me pleaſe,</l>
+               <l>Which is ſubiecte to woundes and ſtrokes alwaies.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Somwhat to do, it is mete and conueniet,</l>
+               <l>Wylte thou then gyue thy dylygent endenoure</l>
+               <l>To let thy youth vnhoneſtly be ſpent</l>
+               <l>And do as poore knaues, which Iares do ſcoure?</l>
+               <l>For I do not ſee that any good Arte</l>
+               <l>Or els any honeſt Science, or occupacion</l>
+               <l>Thou wylte be content to haue a parte</l>
+               <l>After thy fathers mynde and exhortacion.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Ha, ha, ha, a laboure in verye deede,</l>
+               <l>God ſend hym that lyfe which ſtandes in neede.</l>
+               <pb facs="tcp:7833:6"/>
+               <l>There be many fathers that chyldren haue</l>
+               <l>And yet not make the worſt of them a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aue,</l>
+               <l>Might not you of your ſelfe be well a ſhamed</l>
+               <l>Which wolde haue your ſonne thyther conſtrayned?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ I woulde not haue the dryuen to that ſuccoure,</l>
+               <l>Yet for bycauſe the Scriptures declare,</l>
+               <l>That he ſhoulde not eare, which wyll not laboure</l>
+               <l>Some worke to do it muſt be thy eare.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Father, it is but a folye with you to ſtryue</l>
+               <l>But yet notwithſtandynge I hope to thryue</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ That this thyne intente maye take good ſucceſſe</l>
+               <l>I praye God hartely of hys goodnes.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Well, well, ſhall I in fewe wordes reherſe,</l>
+               <l>What thinge doth moſt my Conſcience perſe?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Therwith I am Sonne very well contented.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Yea but I thynke that ye wyll not be pleaſed.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ In dede peraduenture it maye ſo chaunce.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Naye but I praye ye without any perchaunce,</l>
+               <l>Shall not my requeſt turne to your greuannce.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ If it be iuſt and lawfull, which thou doeſt requyre,</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Both iuſt and lawfull haue ye no feare.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <pb facs="tcp:7833:7"/>
+               <p>Nowe therfore aſke, what is thy peticion?</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Loe this it is without further Dilacion,</l>
+               <l>For ſo much as all yongmen for this my Beautie,</l>
+               <l>As the Moone, the ſtarres, I do farre excell,</l>
+               <l>Therfore out of m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de, with all ſpede poſy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly,</l>
+               <l>To haue a wife (me thynke) wolde do well,</l>
+               <l>For now I am <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onge, lyuely, and iuſtie,</l>
+               <l>And welcome beſydes to all mennes companye.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <p>¶ Good Lord, good Lord, what do I here?</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <p>¶ Is this your begynnynge to performe my deſyre.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ It is my chylde, what meaneth thy dotynge?</l>
+               <l>Why doeſt thou couet thy owne vn doynge?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ I knowe not in the worlde howe to do the thynge</l>
+               <l>That to his ſtomacke, maye be delyghtynge.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Why fooly ſhe I deot, thou goeſt about a wyfe</l>
+               <l>Which is a burthen and yoke all thy lyfe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Admyt ſhe ſhall as a burthen with me remayne,</l>
+               <l>Yet <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyll I take one, if your good wyll I attayne.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <p>¶ Sonne it ſhall not be thus by my counſell.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <p>¶ I truſte ye wyll not me otherwyſe compell.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ If thou were as wyſe, as I haue iudged the</l>
+               <l>Thou woldeſt in this caſe be ruled by me.</l>
+            </sp>
+            <pb facs="tcp:7833:7"/>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ To folowe the contrarye I can not be turned</l>
+               <l>My hatte theron is ſtyflly fixed.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <p>¶ What I ſaye, about thine owne diſtruction?</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ No, no, but about myne owne ſaluation:</l>
+               <l>For if I be helped, If were by the Maſſe,</l>
+               <l>It is onely Maryage that brynges it to paſſe.</l>
+               <l>It is not the Schole, it is not the Booke,</l>
+               <l>It is not Science or Occupacion,</l>
+               <l>It is not to be a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arbour or Cooke</l>
+               <l>Wherein is now ſet my conſolacion.</l>
+               <l>And ſynce it is thus, be father content</l>
+               <l>For to marye a wyfe, I am full bent.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Well if thou wylt not my Sonne, be ruled</l>
+               <l>But nedes wyll folowe thyne owne foolyſſhenes,</l>
+               <l>Take hede hereafter if thou be troubled</l>
+               <l>At me thou neuer ſeeke redreſſe.</l>
+               <l>For I am certeyn thou canſt not abyde</l>
+               <l>Any payne at all, gryefe, or vexacion.</l>
+               <l>Thy Chyldhood with me ſo eaſely dyd ſlyde</l>
+               <l>Full of all paſtyme and delectacyon.</l>
+               <l>And if thou woldeſt folowe the Booke and learnynge,</l>
+               <l>And with thy ſelfe alſo, take a wyſe waye:</l>
+               <l>Then thou mayſt get a gentlemans lynynge</l>
+               <l>And with many other beare a great ſwaye.</l>
+               <l>Beſydes this I wolde in time to come</l>
+               <l>After my power, and ſmall havylytie,</l>
+               <l>Helpe the and further the, as my wyſdome,</l>
+               <l>Shulde me moſt counſell for thy Commodytie.</l>
+               <pb facs="tcp:7833:8"/>
+               <l>And ſuch a wyfe I woulde prepare for the</l>
+               <l>As ſhoulde be vertuous, wiſe and honeſt,</l>
+               <l>And gyue the wyth her after my degree,</l>
+               <l>Wherby thou mighteſt alwayes lyue in teſt.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ I cannot, I tell ye agayne, ſo much of my lyfe</l>
+               <l>Conſume at my Booke without a wyfe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ I perceyue therfore. I haue done to well</l>
+               <l>And ſhewed ouer much fauoure to the,</l>
+               <l>That now agaynſt me thou doeſt rebell</l>
+               <l>And for thyne owne furtheraunce wylt not agree.</l>
+               <l>Wherfore of my goodes thou getteſt not a peny</l>
+               <l>Nor anye ſuccoure els at my handes</l>
+               <l>For ſuch a childe is moſt vnworthy</l>
+               <l>To haue any parte of his fathers landes.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ I do not eſtéme father your goodes or landes</l>
+               <l>Or any parte of all your treaſure,</l>
+               <l>For I iudge it ynoughe to be out of bandes</l>
+               <l>And from this daye forward to take my pleaſure.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Well, if it ſhall chaunce the thy folye to repent</l>
+               <l>As thou art lyke within ſhort ſpace,</l>
+               <l>Thynke none but thy ſelfe worthy to be ſhent,</l>
+               <l>Lettynge my councell to take no place.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ As touchynge that matter, I wyll no man blame</l>
+               <l>Now farewell father, moſt hartely for the ſame.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <p>¶ Farewell my Sonne, departe in Goddes name.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <pb facs="tcp:7833:8"/>
+               <l>¶ Rome I ſaye rome, let me be gone</l>
+               <l>My father if he lyſt, ſhall tarye alone.</l>
+            </sp>
+            <stage>¶ Here the Sonne goeth out and the Ryche man taryeth behinde alone.</stage>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>NOwe at the laſt I do my ſelfe conſyder</l>
+               <l>Howe great griefe it is and heuynes,</l>
+               <l>To euery man, that is a Father.</l>
+               <l>To ſuffre his chylde to folowe wantonnes,</l>
+               <l>If I myght lyue a hundred yeares longer</l>
+               <l>And ſhoulde haue ſonnes and daughters many</l>
+               <l>Yet for this Boyes ſake, I wyll not ſuffer,</l>
+               <l>One of them all at home with me to tarye,</l>
+               <l>They ſhoulde not be kept thus vnder my wynge</l>
+               <l>And haue all that which they deſyre,</l>
+               <l>For why it is but theyr onely vndoynge</l>
+               <l>And after the Prouerbe, we put oyle to the fyre.</l>
+               <l>Wherfore we Parentes muſt haue a regarde,</l>
+               <l>Our Chyldren in time for to ſubdue</l>
+               <l>Or els we ſhall haue them euer vntowarde,</l>
+               <l>Yea, ſpytefull, diſdaynfull, nought, and vntrue.</l>
+               <l>And let vs them chruſte alwaye to the Schole</l>
+               <l>Wherby at their Bookes they maye be kept vnder:</l>
+               <l>And ſo we ſhall ſhortely their courage coole,</l>
+               <l>And brynge them to honeſtie, vertue and Nurture.</l>
+               <l>But alas now a dayes (the more is the pytye)</l>
+               <l>Science and learnynge is ſo lytell regarded,</l>
+               <l>That none of vs all doth muſe or ſtudye</l>
+               <l>To ſee our chyldren well taught and inſtructed.</l>
+               <l>We decke them, we trym them with gorgious araye</l>
+               <l>We pampre and fede them, and kepe them ſo gaye</l>
+               <l>That in the ende of all this, they be out foes.</l>
+               <pb facs="tcp:7833:9"/>
+               <l>We baſſe them, kyſſe them, we looke rounde about</l>
+               <l>We merualle and wonder to ſee them ſo leaue</l>
+               <l>We euer anone doe inuent and ſeke out,</l>
+               <l>To make them goe trickſie, gallaunt, and cleane.</l>
+               <l>Which is nothyng els, but the very prouokynge</l>
+               <l>To all vnthriftynes, vice, and Iniquitie,</l>
+               <l>It pucteth them vp, it is an allutynge</l>
+               <l>Their fathers and mothers at lengthe to defye.</l>
+               <l>Which thing myne owne Sonne doth playnely declare</l>
+               <l>Whom I alwayes intierly haue loued,</l>
+               <l>He was ſo my Ioye, he was ſo my care</l>
+               <l>That now of the ſame I am deſpiſed.</l>
+               <l>And now he is hence from me departed,</l>
+               <l>He hath no delyght with me to dwell,</l>
+               <l>He is not merye vntyll he be maryed,</l>
+               <l>He hath of knauetye tooke ſuch a ſmell.</l>
+               <l>But yet ſeynge that he is my Sonne,</l>
+               <l>He doth me conſtrayne <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ytterly to weepe,</l>
+               <l>I am not (me thynke) well, tyll I be gone</l>
+               <l>For this place I can no le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger keepe.</l>
+            </sp>
+            <stage>¶ Here the Ryche man goeth out and the two Cookes co<g ref="char:cmbAbbrStroke">̄</g>meth in Fyrſt the one and then the other.</stage>
+            <sp>
+               <speaker>¶ The Mancooke.</speaker>
+               <l>NAke haſt Blaunche Blabbe it out, &amp; come a waye</l>
+               <l>For we haue ynought to do all this whole daye,</l>
+               <l>Why Blaunche blabbe it out, wilt thou not come</l>
+               <l>And knoweſt what buſynes there is to be done?</l>
+               <l>If thou maye be ſet with the pot at thy noſe</l>
+               <l>Thou careſt not how other matters goes,</l>
+               <l>Come a waye I dyd the, and tarye no longer</l>
+               <l>To truſt to thy helpe, I am much the better.</l>
+            </sp>
+            <pb facs="tcp:7833:9"/>
+            <sp>
+               <speaker>¶ The Maydecooke.</speaker>
+               <l>¶ What a Murryn I ſay, what a noyſe doeſt thou make</l>
+               <l>I thynke that thou be not well in the wyrtes</l>
+               <l>I neuer harde man on this ſorte to take</l>
+               <l>With ſuche angry wordes, and haſtie fyttes.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ Why doſt thou remembre, what is to be bought</l>
+               <l>For the great Brydale agaynſt to morowe?</l>
+               <l>The market muſt be in euery place ſought</l>
+               <l>For all kynde of meates, God guye the ſorow.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ What ba<g ref="char:cmbAbbrStroke">̄</g>nyng? what curſynge? Longtong is with the</l>
+               <l>I made as muche ſpede, as I coulde poſſyblye,</l>
+               <l>I wys thou mighteſt haue taryed for me</l>
+               <l>Vntill in all pointes I had ben redye,</l>
+               <l>I haue for thee looked full oft heretofore,</l>
+               <l>And yet for all that ſayde neuer the more.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ Well for this ones, I am with thee content</l>
+               <l>So that hereafter thou make more haſt,</l>
+               <l>Or els I tell thee, thou wylte it repent,</l>
+               <l>To loyter ſo longe, tyll the Market be paſt.</l>
+               <l>For there muſt be bought Byefe, Veale, and Mution,</l>
+               <l>And that euen ſuch as is good and fat</l>
+               <l>With Pigge, Geeſe, Conyes and Capon,</l>
+               <l>Howe ſayeſt thou Blaunch blabbe it out vnto that?</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ I can not tell Lontonge, what I ſhoulde ſaye</l>
+               <l>Of ſuch good cheare I am ſo glad:</l>
+               <l>That if I woulde not eate all that daye</l>
+               <l>My bealy to fyll, I were verye made.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <pb facs="tcp:7833:10"/>
+               <l>There muſt be alſo Feſaunte and Swa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e</l>
+               <l>There muſt be Heronſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, Partic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and Quayle,</l>
+               <l>And therfore I muſt do, what I can,</l>
+               <l>That of none of all theſe the Gente<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an fayle.</l>
+               <l>I da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſaye he lookes for many thinges moe,</l>
+               <l>To be prepared againſt to worne,</l>
+               <l>Wherfore I ſaye, hence let vs goe,</l>
+               <l>My feete do ſtande vpon a thorne.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ Naye good Long tonge, I praye the ones agayne</l>
+               <l>To here yet of m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mynde, a worde or twayne.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ Come of them diſpa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>che, and ſpeake it quicklye</l>
+               <l>For what thynge it is, thou cauſeſt me t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ Of whence is this Gentelman, y<hi rend="sup">t</hi> to morowe is matried</l>
+               <l>Where doth his father and his mother dwell?</l>
+               <l>A boue fourty myles be hath trauayled</l>
+               <l>As yeſter nyght his Seruaunte dyd tell.</l>
+            </sp>
+            <sp>
+               <speaker>Mancooke.</speaker>
+               <l>¶ In verye dede, he commes a great waye,</l>
+               <l>With my Mayſter he maye not longe abyde,</l>
+               <l>It hath coſt hym ſo muche on coſtly araye,</l>
+               <l>That Money out of his purſe apaſe doth ſlyde.</l>
+               <l>They ſaye that his frendes be ryche and wealthy</l>
+               <l>And in the Cytie of London haue their dwellynge,</l>
+               <l>But yet of them all he hath no peny,</l>
+               <l>To ſpends and beſtowe here at his weddynge.</l>
+               <l>And if it be true that his Seruaunte dyd ſaye</l>
+               <l>He hath vtterly loſt his fryndes good wyll</l>
+               <l>Bycauſe he wolde not their counſayle <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haye,</l>
+               <l>And in his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vone Countrey tarye ſtyll.</l>
+               <pb facs="tcp:7833:10"/>
+               <l>As for this woman, which hee ſhall marye</l>
+               <l>At Sainet Albones alwayes, hath ſpent her lyfe</l>
+               <l>I thynke ſhe be a ſhrew, I tell thee playnely,</l>
+               <l>And full of debate, malyce and ſtryfe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ Thoughe I neuer ſawe this woman before</l>
+               <l>Whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he hither with him this Gentelman bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught,</l>
+               <l>Yet neuertheles I haue tokens in ſtore,</l>
+               <l>To iudge of a woman that is frowarde and nought.</l>
+               <l>The typ of her noſe, is as ſharpe as myne</l>
+               <l>Her tonge and her tune is very ſhryll</l>
+               <l>I warraunt her, ſhe commes of an vng<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acius <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yn,</l>
+               <l>And loneth to much her pleaſure and wyll,</l>
+               <l>What thoughe ſhe be now ſo neate and ſo nyce,</l>
+               <l>And ſpeaketh as gentle as euer I hearde:</l>
+               <l>Yet yongmen which be both wyttie and wyſe,</l>
+               <l>Such lookes, and ſuch wordes, ſhulde not regarde.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ Blaunch blabbe it out, thou ſayeſt verye true</l>
+               <l>I thinke thou beginneſt at length to preache</l>
+               <l>This thynge to me is ſtraunge and new,</l>
+               <l>To heare ſuch a foole yongmen to teache.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ A foole mine owne Longtong, why calſt thou me foole</l>
+               <l>Thoughe nowe in the kytchyn I waſte the daye,</l>
+               <l>Yet in tymes paſte I went to Schoole,</l>
+               <l>And of my laten Prymer I tooke aſſaye,</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ Mayſters thys woman dyd take ſuch aſſaye,</l>
+               <l>And then in thoſe dayes ſo applyed her booke,</l>
+               <l>That one worde therof, ſhe carryed not awaye,</l>
+               <l>But then of a Scholer was made a Cooke.</l>
+               <pb facs="tcp:7833:11"/>
+               <l>I dare ſaye ſhe knoweth not, howe her Primer began,</l>
+               <l>Which of her mayſter ſhe learned than.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ I trowe it began with Domine labia aperies.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ What dyd it begyn with butterde peeas?</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ I tell the agayne, with Domine labia aperies,</l>
+               <l>If nowe to heare, it be thyne eaſe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ How, how, with my Madaine laye in the peeas?</l>
+               <l>¶ I thynke thou art mad with Domine labia aperies.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ Yea mary, I iudged it went ſuch wayes,</l>
+               <l>It began with Dor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>the laye vp the keyes.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ Naye then God night, I perceyue by thys geare,</l>
+               <l>That none is ſo deafe, as who wyll not heare,</l>
+               <l>I ſpake as playnely, as I coulde deuiſe,</l>
+               <l>Yet me vnderſtande, thou canſt in no wyſe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ Why yet ones agayne, and I wyll better lyſten</l>
+               <l>And looke vpon the, howe thy lyppes do open.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ Well marke then, and harken ones for all:</l>
+               <l>Or els he are it agayne thou neuer ſhall,</l>
+               <l>My Booke I ſaye, began with Domine labia aperies.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ Fye, fye, howe ſlowe am I of vnderſtandynge<g ref="char:punc">▪</g>
+               </l>
+               <l>Was it all this whyle, Domine labia aperies?</l>
+               <l>Belyke I haue loſt my ſenſe of hearynge,</l>
+               <pb facs="tcp:7833:11"/>
+               <l>With broylynge and burnynge in the kytchyn adyes.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ I promyſſe the thou ſemeſt to haue done lytell bette<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>For that I wote in my lyfe I neuer ſawe,</l>
+               <l>One lyke to thy ſelfe, in ſo eaſye a matter.</l>
+               <l>Unleſſe he were deafe, thus playe the Dawe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ Come on, come on, we haue almoſt forgotten</l>
+               <l>Such plentie of victualles as we ſhulde bye</l>
+               <l>It were almes by my trothe, thou were well beaten</l>
+               <l>Bycauſe ſo longe thou haſt made me tarye.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Maydecooke.</speaker>
+               <l>¶ Tuſſhe tuſſhe, we ſhall come in very good ſeaſon,</l>
+               <l>If ſo be thou goeſt as faſt as I,</l>
+               <l>Take vp thy baſket and quickely haue done</l>
+               <l>We wyll be both there by and by.</l>
+            </sp>
+            <sp>
+               <speaker>¶ Mancooke.</speaker>
+               <l>¶ I for my parte wyll neuer leaue runnynge</l>
+               <l>Untyll that I come to the Signe of the Whitynge.</l>
+            </sp>
+            <stage>¶ Here the two Cookes runne out and in commeth the Yongman and the Yongwoman his Louer.</stage>
+            <sp>
+               <speaker>¶ The Yongwoman.</speaker>
+               <l>WHere is my ſweetynge, whom I do ſeeke</l>
+               <l>He promyſed me to haue mette me here</l>
+               <l>Tyll I ſpeake with him, I thinke it a weeke</l>
+               <l>For he is my Ioye, he is my chere.</l>
+               <l>There is no night, there is no daye</l>
+               <l>But that my thoughtes be all of hym</l>
+               <l>I haue no delyght if he be awaye,</l>
+               <l>Such toyes in my heade do euerſwym.</l>
+               <pb facs="tcp:7833:12"/>
+               <l>But beholde at the laſt, where he doth come</l>
+               <l>For whom my harte deſyred longe,</l>
+               <l>Now ſhall I know all a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome,</l>
+               <l>Orels I woulde ſaye, I had great wronge</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongman.</speaker>
+               <l>¶ My darlynge, my Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye, my Byrde ſo bryght of blee,</l>
+               <l>Sweete hart I ſaye, all haylee to thee</l>
+               <l>How do our Loues, be they faſt a ſleepe</l>
+               <l>Or the olde lynelynes, do to they ſtyll keepe?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongewoman.</speaker>
+               <l>¶ Do ye aſke and my Loue be faſt a ſleepe?</l>
+               <l>O if a womon maye vtter her mynde,</l>
+               <l>My loue had almoſt made me to weepe</l>
+               <l>Bycauſe that euen now I dyd not you fynde</l>
+               <l>I thought it ſurely a whole hundred yere,</l>
+               <l>Tyll in this place I ſawe you here.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongman.</speaker>
+               <l>¶ Alacke, alacke, I am ſorye for this,</l>
+               <l>I had ſuch buſines I myght not come</l>
+               <l>But ye maye perceyue what my wyt is,</l>
+               <l>How ſmall regarde I haue and wiſdome.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongwoman.</speaker>
+               <l>¶ Wheras ye aſke me concernynge my loue</l>
+               <l>I well aſſure you, it doth dayly augment:</l>
+               <l>Nothynge can make me ſtarte or moue</l>
+               <l>You onely to loue is myne intent.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongman.</speaker>
+               <l>¶ And as for my loue doth neuer relente,</l>
+               <l>For of you I do dreame, of you I do thynke:</l>
+               <l>To dy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ner and ſupper, I neuer went,</l>
+               <l>But of Beere and Wyne to you I dyd drinke.</l>
+               <pb facs="tcp:7833:12"/>
+               <l>Now of ſuch thynhes therfore to make an ende</l>
+               <l>Which pytyfull louees do cruelly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orment,</l>
+               <l>To Maryage in Goddes name, let vs diſcende</l>
+               <l>As vnto this houre we haue bene bente.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongwoman.</speaker>
+               <l>¶ Your wyll to accomplyſſhe I am as redye,</l>
+               <l>As any woman, beleue me truelye.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongman.</speaker>
+               <l>¶ This Rynge then I gyne you as a token ſure,</l>
+               <l>Wherby our loue ſhall alwayes endure.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongwoman.</speaker>
+               <l>¶ With a pure pretence your pledge I take gladly</l>
+               <l>For a Signe of our loue, fayth and fydelytie.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongman.</speaker>
+               <l>¶ Nowe I am ſafe, nowe I am glad,</l>
+               <l>Nowe I do lyue, nowe I do ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>Me thought tyll now I was to ſad,</l>
+               <l>Wherfore ſadnes flye hence agayne.</l>
+               <l>I waye with thoſe words which my father brought out</l>
+               <l>A waye with his ſaigenes and exhortacion</l>
+               <l>He coulde not make me his foole or his lowte,</l>
+               <l>And put me veſydes this delectacion.</l>
+               <l>Dyd he iudge that I would<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> go to the Schoole,</l>
+               <l>And might my tyme ſpende after this ſorte<g ref="char:punc">▪</g>
+               </l>
+               <l>I am not his Calſe, nor yet his foole,</l>
+               <l>This Uirgin I kyſſe, is my comforte.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongwoman.</speaker>
+               <l>¶ Well than I praye you let vs be maryed</l>
+               <l>For me thynke from it we haue longe taryed.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongman.</speaker>
+               <l>¶ Agreed my Sweetynge, it ſhalve then done,</l>
+               <l>Synce that thy good wyll I haue goten and wone.</l>
+            </sp>
+            <pb facs="tcp:7833:13"/>
+            <sp>
+               <speaker>¶ The yongwoman.</speaker>
+               <l>¶ There wolde this daye be very good theare</l>
+               <l>That euery one his vealy maye fyll.</l>
+               <l>And thre or foure Minſtrelles wolde be here</l>
+               <l>That none in the houſe ſyt idle or ſtyll.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongman.</speaker>
+               <l>¶ Take ye no thought for abundaunce of meate</l>
+               <l>That ſhoulde be ſpent at our Brydale,</l>
+               <l>For there ſhalbe ynought for all men to eate</l>
+               <l>And Minſtrelles beſydes therto ſhall not ſayle.</l>
+               <l>The Cookes I dare ſaye, a good whyle a gone</l>
+               <l>With ſuch kynde of fleſſhe as I dyd them tell</l>
+               <l>Are from the market both come home</l>
+               <l>Or els my owne Conye they do not well.</l>
+               <l>I knewe before that I come to this place</l>
+               <l>We ſhoulde be maryed togyther thys daye</l>
+               <l>Which cauſed me then forth with in this caſe</l>
+               <l>To ſende for victualles or I came awaye.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongwoman.</speaker>
+               <l>Wher fore then (I praye ye) ſhall we go to our Inne,</l>
+               <l>And looke that euery thinge be made redye,</l>
+               <l>Or els all is not worth a Braſſe pynne,</l>
+               <l>Such haſt is requyred in matry monye.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The yongman.</speaker>
+               <l>¶ I thinke ſixe a clocke it is, not much paſſed</l>
+               <l>But yet to the prieſt we wyll make haſt</l>
+               <l>That accordynge to cuſtome we maye be both coupled</l>
+               <l>And with a ſtronge knot for euer bounde faſt.</l>
+               <l>Yet ere I departe, ſome ſonge I wyll ſynge,</l>
+               <l>To the intent to derlare my Ioye without feare</l>
+               <l>And in the meane fyme you maye my ſwetynge,</l>
+               <l>Reſt your ſelfe in this lytell chayre.</l>
+               <lg>
+                  <pb facs="tcp:7833:13"/>
+                  <head>¶ The Songe.</head>
+                  <lg>
+                     <l>SPyte of his ſpyte, which that in vayne.</l>
+                     <l>Doth ſeeke to force my fantaſye,</l>
+                     <l>I am profeſt for loſſe or gayne,</l>
+                     <l>To be thyne owne aſſucedlye:</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore let my father ſpyte and ſpurne,</l>
+                     <l>My fantaſye wyil neuer turne.</l>
+                  </lg>
+                  <lg>
+                     <l>¶ Although my father <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f buſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e wy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>te,</l>
+                     <l>Doth babble ſtyll. I care not tho,</l>
+                     <l>I haue no fear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, nor yet wyll flytte,</l>
+                     <l>As doth the water to and fro,</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore let my father ſpyte and ſpurur,</l>
+                     <l>My fantaſye wyll neuer turne.</l>
+                  </lg>
+                  <lg>
+                     <l>¶ For I am ſet and wyll not ſwerue,</l>
+                     <l>Whom ſpytefull ſpeache remoueth nought</l>
+                     <l>And ſynce that I thy grace deſerue,</l>
+                     <l>I count it is not derely bought,</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore let my father ſpyte and ſpurne,</l>
+                     <l>My fantaſie wyll neuer turne.</l>
+                  </lg>
+                  <lg>
+                     <l>¶ Who is afrayde<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>let you hym flye,</l>
+                     <l>For I ſhall well abyde the brunte:</l>
+                     <l>Mangre to bys lyppes that lyſteth to lye</l>
+                     <l>Of buſye braynes as is the wonte.</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore let my father ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yte and ſpurne,</l>
+                     <l>My fantaſye wyll neuer turne.</l>
+                  </lg>
+                  <lg>
+                     <l>¶ Who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yſteth therat to laugh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> or loure</l>
+                     <l>I am not be that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ught doth retche</l>
+                     <l>There is no payue that hath the power,</l>
+                     <l>Out of my oreſt your loue to fetche,</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore let my father ſpyte and ſpurne,</l>
+                     <l>My fantaſye wyll neuer turue.</l>
+                  </lg>
+                  <pb facs="tcp:7833:14"/>
+                  <lg>
+                     <l>¶ for wheras he moued me to the Schoole,</l>
+                     <l>And onely to folowe my Booke and learnenynge:</l>
+                     <l>He coulde neuer make me ſuch a foole,</l>
+                     <l>With all his ſofte woordes, and fayre ſpeakynge.</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore let my father ſpyte and ſpurne,</l>
+                     <l>My f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſye wyll neuer turne.</l>
+                  </lg>
+                  <lg>
+                     <l>¶ This Mynion here, this myneing Trull,</l>
+                     <l>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe me wore a thouſande folde:</l>
+                     <l>Then all the earthe that is ſo full.</l>
+                     <l>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f precious ſtones, Soluer and Golde.</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore let my father ſpyre and ſpurne,</l>
+                     <l>My fantaſye wyll neuer turne.</l>
+                  </lg>
+                  <lg>
+                     <l>¶ What ſoeuer I dyd, it was for her ſak</l>
+                     <l>It was for her ſoue, and onely pleaſure,</l>
+                     <l>I counte it no laboure, ſuch laboure to take,</l>
+                     <l>In gettynge to me ſo hyghe a treaſure.</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore let my father ſpyte and ſpurne,</l>
+                     <l>My fantaſie wyll neuer turne.</l>
+                  </lg>
+                  <lg>
+                     <l>¶ This daye I intended for to be mery,</l>
+                     <l>Althoughe my harde Father be farre hence.</l>
+                     <l>I knowe no cauſe for to be beuye,</l>
+                     <l>For all this coſte and great expence.</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore let my father ſpyte and ſpurne,</l>
+                     <l>My fantaſye wyll neuer turne.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>¶ How lyke ye this ſonge, my owne ſwete Roſe,</l>
+                  <l>Is it well made for our purpoſe?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>¶ The yong woman.</speaker>
+               <l>¶ I neuer harde in all my lyfe a better,</l>
+               <l>More pleaſmante, more meete for the matter,</l>
+               <l>Now let vs go then, the mornynge is nye gone</l>
+               <l>We can not any longer here remaine:</l>
+               <pb facs="tcp:7833:14"/>
+               <l>Farewell good Maſters eueryechone,</l>
+               <l>Tyll from the Churche we come agayne.</l>
+               <stage>¶ Here they go out, and in commeth the Prieſt along.</stage>
+               <l>Syrs, by my trouthe it is a worlde to ſee,</l>
+               <l>The excedynge negligence of euery one.</l>
+               <l>Euen from the hyeſt to the loweſt degree,</l>
+               <l>Both goodnes and conſcience is cleane gone.</l>
+               <l>There is a youge gentelman in this towne,</l>
+               <l>Who this ſame daye now muſt be maryed:</l>
+               <l>Yet thoughe I woulde beſtowe a Crowne,</l>
+               <l>That knaue the Clarke can not be ſpyed.</l>
+               <l>For he is ſafe if that in the Alehouſe,</l>
+               <l>He maye ſyt typlyng of Nut browne Ale:</l>
+               <l>That oft be commes foorth as dronke as Mouſe,</l>
+               <l>With a noſe of his owne not greatly pale,</l>
+               <l>And this is not once, but euery daye,</l>
+               <l>Almoſt of my faith, throughe out the whole yeare,</l>
+               <l>That he theſe trickes doth vſe to playe,</l>
+               <l>Without all ſhame, dreable and feare.</l>
+               <l>He knoweh him ſelfe that yeſter nyghte,</l>
+               <l>The ſayde yonge gentelman came to me,</l>
+               <l>And then deſyred, that he myght</l>
+               <l>This mornynge beiymes maryed be.</l>
+               <l>But now I doubte it wyll be hye noone,</l>
+               <l>Ere that this bufynes be quite ended:</l>
+               <l>Vnleſſe the knauyſ ſhe foole come very ſoone,</l>
+               <l>That this ſame thinge maye be diſpatched,</l>
+               <l>And therfore ſynce that this noughty pache,</l>
+               <l>Hath at this preſent me thus ſerued.</l>
+               <pb facs="tcp:7833:15"/>
+               <l>He is like hence forwarde my good wyll to lacke</l>
+               <l>Orels b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wyſs I myght be iudged.</l>
+               <l>I am taught hereafter, howe ſuch a one to truſt,</l>
+               <l>In day matter concernynge the Churche,</l>
+               <l>For if I ſhulde, I perceyue that I muſt,</l>
+               <l>Of my<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e owne honeſtie looſe verye much.</l>
+               <l>And yet for all this, from weeke to weeke,</l>
+               <l>For his ſtypende and wages he neuer cryeth,</l>
+               <l>And for the ſame contynually doth ſeeke,</l>
+               <l>As from tyme to tyme playnely appeareth,</l>
+               <l>But whyther his wages he hath deſerued,</l>
+               <l>Vnto you all I do me reporte,</l>
+               <l>Since that his duetie he hath not fulfylled,</l>
+               <l>Nor to the Churche wyll ſcant reſorte.</l>
+               <l>That many a tyme and oft, I am fayne</l>
+               <l>To playe the Prieſt, Clarke, and all</l>
+               <l>Thoughe thus to do, it is great payne,</l>
+               <l>And myre warde but very ſmall,</l>
+               <l>Wherfore (God wyllynge) I wyll ſuch order take,</l>
+               <l>Before thou I be many dayes elder,</l>
+               <l>That he ſhalbe glad this towne to forſake</l>
+               <l>And learne euermore to pleaſe his better.</l>
+               <l>And in ſuch wyſe all they ſhall be vſed,</l>
+               <l>Which in this pacyſſhe entende to be Clarkes,</l>
+               <l>Great pyt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e it were, the Churche ſhoulde be diſordered</l>
+               <l>Bycauſe that ſuch Swylbowles do not their warkes.</l>
+               <l>And to ſaye trueth, in many a place,</l>
+               <l>And other great townes beſyde this ſame,</l>
+               <l>The Prieſtes and Pariſhioners be in the lyke caſe,</l>
+               <l>Which to the Church wardens maye be a ſhame.</l>
+               <l>Haw ſhulde the Prieſt his offyce fulfyll,</l>
+               <l>Accordyngly as in dede he ought?</l>
+               <pb facs="tcp:7833:15"/>
+               <l>When that the Clarke wyll haue a ſelfe wyll</l>
+               <l>And alwayes in Seruice tyme muſt be ſought?</l>
+               <l>Notwithſtandynge at this preſent there is no remedy</l>
+               <l>But to take tyme, as it doth fall,</l>
+               <l>Wherfore I wyll go hence and make me ready</l>
+               <l>For it helpeth not to chafe or brall.</l>
+            </sp>
+            <stage>¶ Here the Prieſt goeth out, and in commethe the rych man.</stage>
+            <sp>
+               <speaker>¶ The Ryche man.</speaker>
+               <l>LOmmynae this daye foorth of my Chambre,</l>
+               <l>Euen as for water to waſſhe I dyd call,</l>
+               <l>By chaunce I eſpyed a certayne ſtraunger,</l>
+               <l>Standynge beneath within my Hall.</l>
+               <l>Who in very deede came from the Inholder</l>
+               <l>Wheras for a tyme my Sonne dyd lye,</l>
+               <l>And ſayde that his mayſter had ſent me a letter</l>
+               <l>And bade hym to brynge it with all ſpede poſſyblye.</l>
+               <l>Wherin he did write that as this daye</l>
+               <l>That vnthr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fre my Sonne to a certein Mayde,</l>
+               <l>Shoulde then be wedded, without further delaye,</l>
+               <l>And bath borowed more than wyll be payde.</l>
+               <l>And ſynce that he harde, he was my Sonne,</l>
+               <l>By a Gentelman or two, this other daye:</l>
+               <l>He thought that it ſhoulde be very well done,</l>
+               <l>To let me haue knowledge therof by the waye.</l>
+               <l>And wylled me if that I woulde any thynge</l>
+               <l>Of hym to be done of me in this matter:</l>
+               <l>That then he his Seruaunt ſuch worde ſhulde brynge</l>
+               <l>As at his commynge he might do hereafter.</l>
+               <l>I bade hym thanke his Mayſter moſt hattelye</l>
+               <l>And ſent hym, by hym a peece of Veniſon:</l>
+               <pb facs="tcp:7833:16"/>
+               <l>For that he voucheſaued to wryte ſo gentely,</l>
+               <l>Touchynge the marying and ſtate of my Sonne,</l>
+               <l>But notwithſtandynge I ſent hym no Money,</l>
+               <l>To paye ſuch Dettes as my Sonne dyd owe,</l>
+               <l>Becauſe he had me forſaken vtterly,</l>
+               <l>And mee for his good Father wolde not knowe,</l>
+               <l>And ſayde that with hym I woulde not make,</l>
+               <l>From that daye forwarde, burynge my life</l>
+               <l>But as he had brewed, that ſo be ſhulde bake,</l>
+               <l>Synce of l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ys owne chooſynge, he gat him a wife.</l>
+               <l>Thus wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Seruaunte from the departed</l>
+               <l>Into my Chambre I went agayne,</l>
+               <l>And there a great whyle I pitterly weeped,</l>
+               <l>This <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewes to me was ſo great payne:</l>
+               <l>And thus with theſe wordes I began to mone,</l>
+               <l>Lamentynge and mournynge my ſelfe all a lone.</l>
+               <l>O wadnes, O dotynge of thoſe yonge folke</l>
+               <l>O my <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es without wytte, aduyſe, and diſcretion,</l>
+               <l>With whom their par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntes can beare no ſtroke</l>
+               <l>In th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe firſt Matrimoniall coniunction</l>
+               <l>They knowe not what myſerye griefe and vnquietnes</l>
+               <l>Wyll hereafter enſue, of their extreme foolyſſhenes,</l>
+               <l>Of all ſuch laboures, they be cleane ignorant,</l>
+               <l>Which in the nouryſſhynge and kepynge of Chyldren</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their great charges, it is conuenient</l>
+               <l>Either of them hencefoorth to ſuſtayne:</l>
+               <l>Concernynge expences beſtowed in a howſe</l>
+               <l>They per<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eyue as lyttell as doth the Mowſe.</l>
+               <l>On the one ſyde, the wyfe wyll brall and ſcolde,</l>
+               <l>On the other ſide the Infant wyll crye in the Cradell:</l>
+               <l>Anone when the Chylde wareth ſomwhat olde,</l>
+               <l>For meate and drynke, he begynnes to babbell.</l>
+               <pb facs="tcp:7833:16"/>
+               <l>Herevpon commeth it, that at markettes and fayres</l>
+               <l>A Huſbande is forced to bye many wares.</l>
+               <l>Yet for all this hath my foolyſſhe Sonne</l>
+               <l>As wyſe a Wodcocke, without any wytte,</l>
+               <l>Deſpyſynge his Fathers mynde and opynion,</l>
+               <l>Maryed a wyfe for hym moſt vnfyete,</l>
+               <l>Suppoſynge that myrth to be eueciaſtynge,</l>
+               <l>Which then at the fyrſte was greatly pleaſynge.</l>
+               <l>How they two wyll lyue, I can not tell,</l>
+               <l>Wherto they maye truſt, they haue nothynge</l>
+               <l>My mynde <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yueth me, that they wyll come dwell,</l>
+               <l>At length by their father for wante of lyuings,</l>
+               <l>But my Sonne doubtles, for any thynge that I know<g ref="char:punc">▪</g>
+               </l>
+               <l>Shall reape in ſuch wyſe as he dyd ſowe,</l>
+               <l>True he ſhall fynde, that Hippon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtes dyd wryte</l>
+               <l>Who ſayde with a wyfe are two dayes of pleaſure</l>
+               <l>The firſt is the ioye of the Maryage daye and nyght</l>
+               <l>The ſeconde to be at the wyfes Sepulture:</l>
+               <l>And this by experience he ſhall proue true,</l>
+               <l>That of his Brydale great euyiles do enſue.</l>
+               <l>And (as I ſuppoſe,) it wyll proue in his l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe,</l>
+               <l>When he ſhall wyſſhe that to him it maye chaunce,</l>
+               <l>Which vnto Eupolis and alſo his wife,</l>
+               <l>The nyght they were wedded, fell for a vengeaunce</l>
+               <l>Who with the heuy thyne of the Gedde were ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayne,</l>
+               <l>As the Poet Ouid in theſe two Uerſes makes playne,</l>
+               <q>
+                  <l>¶ Si tibi coniugii nox prima, nouiſſima vite,</l>
+                  <l>Eupolis, hoc periit, &amp; noua nupta modo.</l>
+               </q>
+               <l>Ouidius wrytinge agaynſt one Ibis his enemye</l>
+               <l>That the fyrſt night of his Maryage dyd wyſſhe</l>
+               <l>The laſt of his lyfe myght be certenly.</l>
+               <l>For ſo (quod he) dyd Eupolis and hys wife peryſſhe.</l>
+               <pb facs="tcp:7833:17"/>
+               <l>Yet to my Soone I praye God to ſende</l>
+               <l>Becauſe thervnto me Nature doth bynde:</l>
+               <l>Thoughe he hath offended, a better ende,</l>
+               <l>Then Eupolis and his wyfe dyd fynde.</l>
+               <l>And nowe I ſhall longe euer anone,</l>
+               <l>Tyll ſome of thoſe quarters come rydynge hyther,</l>
+               <l>Vnto the which my Sonne is gone,</l>
+               <l>To knowe how they do lyue togyther.</l>
+               <l>But I am faſtynge, and it is almoſt noone</l>
+               <l>And more than tyme that I had dyned:</l>
+               <l>Wherfore from hence I wyll go ſoone,</l>
+               <l>I thinke by this tyme, my meate is burned.</l>
+            </sp>
+            <stage>¶ Here the Ryche man goeth out, and in co<g ref="char:cmbAbbrStroke">̄</g>meth the yongman his ſonne with the yong woman, beynge both maryed.</stage>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <p>O My ſweete wyfe, my pretye Conye.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <p>¶ O my Huſbande, as pleaſaunte as Honnye.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ O Lorde wath pleaſures and great commodytie,</l>
+               <l>Are heaped togyther in Matrimonye?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Howe vehement, howe ſtronge a thynge loue is?</l>
+               <l>Howe many ſmyrkes, and dulſome kyſſes?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ What ſmylynge: what laughyng?</l>
+               <l>What ſporte, paſtyme, and playenge?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ What ticklynge: what toyinge,</l>
+               <l>What dalyenge, what ioyenge?</l>
+            </sp>
+            <pb facs="tcp:7833:17"/>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ The man with the wyfe is wholly delyghted</l>
+               <l>And with many cauſes to laughter enforced.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Whan they two drynke, they drynke togyther</l>
+               <l>They neuer eate, but one wyth another.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Somtymes to their Garden foorth they walke</l>
+               <l>And into the fyeldes ſomtymes they go,</l>
+               <l>With mery trickes, and geſtures they talke</l>
+               <l>As they do moue their feete to and fro.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Somtymes they ryde into the Countrey</l>
+               <l>Paſſynge the tyme wyth mirth and ſporte,</l>
+               <l>And when with their fryndes, they haue ben merye<g ref="char:punc">▪</g>
+               </l>
+               <l>Home to their owne houſe they do reſorte.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Somtymes abrode they go, to ſee playes,</l>
+               <l>And other trym ſyghtes, for to be holde:</l>
+               <l>When often they meete in the hye wayes</l>
+               <l>Muche of their aquaintaunce they knewe of olde.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Sometymes to the Churche, they do repayre</l>
+               <l>To here the Sermon that ſhalbe made:</l>
+               <l>Thoughe it to remembre, they haue ſmall care,</l>
+               <l>For why? they be now, but fewe of that trade.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Somtymes at home, at cardes they playe</l>
+               <l>Somtymes at this game ſomtymes at that</l>
+               <l>They nede not with ſadnes to paſſe the daye</l>
+               <l>Nor yet to ſyt ſtyll, or ſtande in one plat.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <pb facs="tcp:7833:18"/>
+               <l>¶ And as for vs wyfes, occaſions do mone,</l>
+               <l>Somtymes with our Goſſyppes to make good cheare</l>
+               <l>Or els we dyd not, as dyd vs behoue,</l>
+               <l>For certayne daies and weekes in the years.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ I thynke that a man might ſpende a whole daye</l>
+               <l>Declarynge the Ioyes, and endles blys:</l>
+               <l>Which maryed perſones receyue alwaye,</l>
+               <l>If they loue faythfullye, as meete it is.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Wyues can not chooſe, but loue earneſtlye</l>
+               <l>If that their Huſbandes do all thynges well</l>
+               <l>Or eies my ſweete harte, we ſhall eſpye,</l>
+               <l>That in quietnes they can not dwell.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ If they do not, it maye be a ſhame</l>
+               <l>For I loue you hartele I you aſſure:</l>
+               <l>Or els I were truely greatly to blame</l>
+               <l>Ye are ſo louynge, ſo kynde, and demure.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ I truſt that with neither hande or foote,</l>
+               <l>Ye ſhall ſee any occaſion by mee:</l>
+               <l>But that I loue you euen from the harte roote</l>
+               <l>And durynge my lyfe ſo intende to be,</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Who then merye Maryage can diſco<g ref="char:cmbAbbrStroke">̄</g>mende</l>
+               <l>And wyll not with Ariſtotle in his Ethickes agree<g ref="char:punc">▪</g>
+               </l>
+               <l>But wyll ſaye, that myſerye is the ende</l>
+               <l>When otherwyſe I fynde it to be:</l>
+               <l>A polyt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que man wyll marye a wyfe</l>
+               <l>As the Phyloſopher makes declaration,</l>
+               <l>Not onely to haue chyldren by his lyfe,</l>
+               <l>But alſo for lyuynge, helpe, &amp; ſuſtentacion.</l>
+            </sp>
+            <pb facs="tcp:7833:18"/>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Who wyll not with Herocles playntly confeſſe,</l>
+               <l>That Mankynde to Societie is wholly adioynyng<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And in this Societie neuertheleſſe:</l>
+               <l>Of worthy Wedlocke tooke the begynnynge.</l>
+               <l>Without the which, no Cytie can ſtande</l>
+               <l>Nor Houſholde be perfecte in any lande.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Pythagoras, Socrates, and Crates alſo</l>
+               <l>Whiche truely were men of very ſmall Subſtaunce</l>
+               <l>As I harde my father tell longe ago,</l>
+               <l>Dyd take them wyfes with a ſafe conſcience:</l>
+               <l>And dwelled togyther, ſuppoſynge that they</l>
+               <l>Were vnto Philoſophy, nother ſtoppe nor ſtaye.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ yea what can be more accordynge to kynde</l>
+               <l>Then a man to a woman hym ſelfe to bynde?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Awaye with thoſe therfore that Mariage deſpyſt</l>
+               <l>And of daungers therof inuent many lyes.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ But what is he that commeth yonder,</l>
+               <l>Do ye not thinke it is our man?</l>
+               <l>Somewhat there is that he haſteth hyther,</l>
+               <l>For he makes aſmuche ſpeed as he can.</l>
+            </sp>
+            <stage>¶ Here the Seruaunte of the Kyche mannes Sonne co<g ref="char:cmbAbbrStroke">̄</g>meth in, with an errande to his Mayſter.</stage>
+            <sp>
+               <speaker>¶ Seruaunte.</speaker>
+               <l>¶ Mayſter there is a Straunger at home</l>
+               <l>He wolde very fayne with you talke:</l>
+               <pb facs="tcp:7833:19"/>
+               <l>For vntyll that to hym you do come</l>
+               <l>Forth of the doores he wyll not walke.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Come on then my wyfe, if it be ſo,</l>
+               <l>Let vs departe hence for a ſeaſon:</l>
+               <l>For I am not well tyll I do knowe</l>
+               <l>Of that mannes commynge the very reaſon.</l>
+            </sp>
+            <stage>¶ Here they both go out, and their Seruaunt doth tary behind alone.</stage>
+            <sp>
+               <speaker>¶ Seruaunte.</speaker>
+               <l>¶ Let them go bothe, and do what they wyll</l>
+               <l>And with communicacion fyll their bealy:</l>
+               <l>For I by Sainct George wyll tary here ſtyll,</l>
+               <l>In all my lyfe I was neuer ſo werye.</l>
+               <l>I haue this daye fylled ſo many Pottes</l>
+               <l>With all maner wyne, Ale, and Beere:</l>
+               <l>That I wyſſhed their bealyes full of Bottes</l>
+               <l>Longe of whom was made ſuche cheare.</l>
+               <l>What kyndes of meate, both fleſſhe and fyſhe</l>
+               <l>Haue I poore knaue to the table caryed?</l>
+               <l>From tyme to tyme dyſſhe after dyſſhe,</l>
+               <l>My legges from goynge neuer ceaſed.</l>
+               <l>What runnynge had I for Apples and Nuttes?</l>
+               <l>What callyng for Biſkettes, Cumfettes and Caroweies?</l>
+               <l>A vengeaunce ſayde I, lyght on their guttes</l>
+               <l>That makes me to turne ſo many wayes.</l>
+               <l>What cryinge was there for Cardes and Dice?</l>
+               <l>What coyſtynge, what rufflynge made they within?</l>
+               <l>I counted them all not greatly wyfe.</l>
+               <l>For my head dyd almoſt ake with dyn.</l>
+               <pb facs="tcp:7833:19"/>
+               <l>What bablyng, what ianglynge was in the houſe?</l>
+               <l>What quaffyng, what bybbyng with many a Cuppe?</l>
+               <l>That ſome laye alonge as dronke as a Mouſe</l>
+               <l>Not able ſo much as their heades to holde vp.</l>
+               <l>What daunſynge, what leapyng, what iumpyng about</l>
+               <l>From benche to benche, and ſtoole to ſtoole?</l>
+               <l>That I wondered their braynes dyd not fall out</l>
+               <l>When they ſo out ragiouſly playde the foole.</l>
+               <l>What iuglyng was there vpon the boordes?</l>
+               <l>What thruſtyng of knyues throughe many a noſe</l>
+               <l>What bearinge of Formes? what holdinge of Swordes?</l>
+               <l>And puttynge of Botkyns throughe legge and hoſe?</l>
+               <l>Yet for all that they called for dryncke,</l>
+               <l>And ſayde that they coulde not playe for drye</l>
+               <l>That many at me dyd nodde and wynke</l>
+               <l>Bycauſe I ſhoulde brynge it by and by,</l>
+               <l>How ſo euer they ſported the pot dyd ſtyll walke</l>
+               <l>If that were awaye, then all was loſt:</l>
+               <l>For euer anone the Iugge was their talke,</l>
+               <l>They paſte not who bare ſuch charge and coſte.</l>
+               <l>Therfore let hym looke his Purſe be ryght good,</l>
+               <l>That it may diſcharge all that is ſpente,</l>
+               <l>Or els it wyll make hys haere growe through his hood</l>
+               <l>There was ſuche hauocke made at this preſent,</l>
+               <l>But I am afearde my maiſter be angrye</l>
+               <l>That I dyd abyde thus longe behynde:</l>
+               <l>Yet for his angre I paſſe not greatly,</l>
+               <l>His wordes they be but onely wynde,</l>
+               <l>Now that I haue reſted ſo longe in this place</l>
+               <l>Home warde agayne. I wyll bye me apaſe.</l>
+            </sp>
+            <stage>¶ Here the Seruaunte goeth out, and in co<g ref="char:cmbAbbrStroke">̄</g>meth fyrſt the Wyfe, and ſhortely after the Huſbande.</stage>
+            <pb facs="tcp:7833:20"/>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>WHere is my Huſbande, was he not here?</l>
+               <l>I meruayle much whyther he is gone</l>
+               <l>Than I perceyue I am much the nere,</l>
+               <l>But lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, where he commeth hyther alone.</l>
+               <l>Wot ye what Huſband, from daye to daye,</l>
+               <l>With dayntye dyſſhes, our bodyes haue bene fylled:</l>
+               <l>What meate to morow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nexte ſhall we aſſaye?</l>
+               <l>Wherby we may then be both refreſihed.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Do ye nowe prouyde and gyue a regarve</l>
+               <l>For Victualles hereafter to be preparde?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ But that I knowe Huſbande, it lyeth vs in hande</l>
+               <l>Of thynges to come to haue a conſyderation</l>
+               <l>I would not ones wyll you to vnderſtande</l>
+               <l>Aboute ſuch buſynes my carefull prouiſion:</l>
+               <l>It is nedefull therfore to worke we make haſt</l>
+               <l>That to get both our lyuynges we may knowe the caſt.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ To trouble me nowe, and make me vexed,</l>
+               <l>This miſchieuous meane haſt thou inuented.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ What trouble for thee? what kynde of vexation?</l>
+               <l>Have I to diſquiet thee, cauſed at this preſent?</l>
+               <l>My onely mynde is, thou make expedycion</l>
+               <l>To ſeke for our profyte as is conuenient.</l>
+               <l>Wherfore to thee I ſaye ones agayne,</l>
+               <l>Bycauſe to take paynes thou art ſo lothe,</l>
+               <l>By Chriſt it were beſt, with might and mayne</l>
+               <l>To fall to ſome worke, I ſweare a great othe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <pb facs="tcp:7833:20"/>
+               <l>¶ Yet for a tyme, if it maye thee pleaſe</l>
+               <l>Let me be quit, and take myne eaſe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <p>¶ Wilt thou haue vs then throughe hungre he ſtarued:</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <p>¶ I woulde not we ſhulde for hungre be kylled.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Then I ſaye then, this geare go about,</l>
+               <l>And looke that thou laboure diligently:</l>
+               <l>Or els thou ſhalt ſhortly proue without doubt,</l>
+               <l>Thy ſluggyſſhnes wyll not pleaſe me greatly.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Begynneſt thou euen now to be paynefull &amp; greuous</l>
+               <l>And to thy Huſbande, a woman ſo troublous?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ What wordes haue we here thou miſbegotten,</l>
+               <l>Is there not alredy ynoughe to the ſpoken?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ O myrth, O Ioye, O paſtyme and pleaſure,</l>
+               <l>How lyttell a ſpace, do you endure?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ I ſee my co<g ref="char:cmbAbbrStroke">̄</g>maundement can take no place,</l>
+               <l>Thou ſhalt abye therfore, I ſweare by the Maſſe.</l>
+            </sp>
+            <stage>¶ Here the Wyfe muſt ſtryke her Huſbande handeſomlye aboute the Shoulders with ſome thyng.</stage>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Alas good wyfe, good wyfe, alas, alas,</l>
+               <l>Stryke not ſo harde, I praye thee hartelye,</l>
+               <l>Whatſoeuer thou wylte haue brought to paſſe</l>
+               <l>It ſhalbe done with all ſpede poſſyblye.</l>
+            </sp>
+            <pb facs="tcp:7833:21"/>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Laye theſe Faggottes man vpon thy ſhoulder</l>
+               <l>And carye thys wood from ſtreete to ſtrete:</l>
+               <l>To ſell the ſame, that we both togyther,</l>
+               <l>Our lyuynge may get, as is moſt mete.</l>
+               <l>Hence Nidiot hence, without more delaye</l>
+               <l>What meaneſt thou thus, to ſtagger and ſtaye?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ O Lorde what howe myſerable men be thoſe</l>
+               <l>Whiche to their wyfes as wretches be wedded</l>
+               <l>And haue them conty nually their mort all foes</l>
+               <l>Seruynge them thus, as Slaues that he hyred.</l>
+               <l>Nowe by experience true I do fynde,</l>
+               <l>Whiche oftentymes vnto me heretofore</l>
+               <l>My father dyd ſaye, declarynge his mynde</l>
+               <l>That in Matrymonie was payne euermore,</l>
+               <l>What ſhall I do moſt pityfull Creature?</l>
+               <l>Iuſte cauſe I haue alas to lament:</l>
+               <l>That franticke woman my death wyll procure</l>
+               <l>If ſo he this daye without gayne be ſpent</l>
+               <l>For vnleſſe for my wood ſom Money be taken</l>
+               <l>Lyke a dogge, with a Cudgell I ſhalbe beaten.</l>
+               <l>Ho thou good felowe which ſtandeſt ſo nye</l>
+               <l>Of theſe heauy bundelles eaſe my ſore backe:</l>
+               <l>And ſomewhat therfore gyue me by and by</l>
+               <l>Or els I dye, for Syluer I do lacke.</l>
+               <l>Nowe that I haue ſome Monye receyued</l>
+               <l>For this my burden home I wyll go:</l>
+               <l>And leſt that my wyfe be diſcontented,</l>
+               <l>What I haue take, I wyll her ſhowe.</l>
+               <l>Wyfe I am come, I went a longe waye</l>
+               <l>And here is the profyte, and gaynes of this daye.</l>
+            </sp>
+            <pb facs="tcp:7833:21"/>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Why thou Lowte, thou foole, thou horſon folte,</l>
+               <l>Is this thy wood money, thou peuiſſhe Dolte?</l>
+               <l>Thou ſhalt ſmart for this geare, I make God a vowe</l>
+               <l>Thou knoweſt no more to ſell wood, then doth the ſowe</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ By Goddes precious I wyll not vnwyſely ſuffes</l>
+               <l>To do as I haue done, any longer.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Why doeſt thou ryſe againſt me Villayne?</l>
+               <l>Take hede I ſcrache not out thy eyes twayne.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Scratche and thou dare, for I haue a knyfe,</l>
+               <l>Perchaunce I wyll ryd the of thy lyfe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Slaye me with thy knyfe, thou ſhytten Daſtarde?</l>
+               <l>Doeſt thou thinke to fynde me ſuche a Diſſarde?</l>
+               <l>By Coxe bones I wyll make thy ſkyn to rattell,</l>
+               <l>And the braynes in thy S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull more depely to ſattell.</l>
+            </sp>
+            <stage>¶ Here the wyfe muſt laye on lode vppon her Huſbande.</stage>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Good wyfe be content, forgeue my this faulte</l>
+               <l>I wyll neuer agayne do that which is naught.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Go to foolyſſhe Calfe, go to, and vpryſe,</l>
+               <l>And put vp thy knyfe, I the aduiſe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <p>¶ I wyll do your co<g ref="char:cmbAbbrStroke">̄</g>maun dementes whatſoeuer.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <p>¶ Hence awaye then, and fyll this with water.</p>
+            </sp>
+            <pb facs="tcp:7833:22"/>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>O mercyfull God, in what lamentable ſtate</l>
+               <l>Is he, of whom the wyfe is the mayſter?</l>
+               <l>Wolde God I had bene predeſtinate,</l>
+               <l>On my Maryage daye, to haue dyed wyth a Feuer.</l>
+               <l>O wretched creature, what maye I do?</l>
+               <l>My grieuous wyfe ſhall I returne vnto?</l>
+               <l>Lo wyfe beholde without further delaye</l>
+               <l>The water ye ſent for, here I do brynge.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ What I ſay<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what meaneth this weepynge?</l>
+               <l>What ayleth the to make all this cryinge?</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <p>¶ I weepe not forſothe, not crye not as yet.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ No, nor thou wilte not, if thou haſte any wye,</l>
+               <l>It is not thy weepynge, that can ought auayle,</l>
+               <l>And therfore this matter no longer be wayle.</l>
+               <l>Come of I ſaye, and runne to the Ryuer</l>
+               <l>And waſſhe theſe clothes in the water.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <p>¶ Wyfe I wyll thyther hye me faſte.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <p>¶ Yet I aduyſe the, thou Cullyon make haſt.</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ O howe vnhappye and eke vnfortunate</l>
+               <l>Is the moſte parte of maryed mennes condytion?</l>
+               <l>I woulde to death I had bene agate</l>
+               <l>When my Mother in be arynge me made lamentation.</l>
+               <l>What ſhall I do whyther ſhall I turne,</l>
+               <l>Moſt carefull man nowe vnder the Skye?</l>
+               <l>In the flamynge fyre, I had rather burne,</l>
+               <pb facs="tcp:7833:22"/>
+               <l>Then with extreme payne, lyue ſo heauylye,</l>
+               <l>There is no wyfte, to my wyfe I muſt go</l>
+               <l>Whom that I dyd wed, I am full<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o.</l>
+               <l>Where are ye wyfe, your clothes are waſhte cleane</l>
+               <l>Is whyte as a lylly without ſpot or ueyne.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Thou thefe, thou caytyfe, why is not this place,</l>
+               <l>Waſſhed as fayre as all the reſt,</l>
+               <l>Thou ſhalt for this geare now ſmoke apaſe</l>
+               <l>By gys I ſweare, thou brutyſſhe Beaſte.</l>
+            </sp>
+            <stage>¶ Here ſhee muſt knocke her Huſbande.</stage>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ Alas, alas, I am almoſt quyte dead,</l>
+               <l>My wyfe ſo pytyfully hath broken my head.</l>
+            </sp>
+            <stage>¶ Here her Huſbande muſt lye alongs on the grounde as thoughe hee were fore beaten and wounded.</stage>
+            <sp>
+               <speaker>¶ The Wyfe.</speaker>
+               <l>¶ Well I perceyue, the ryme wyll awaye</l>
+               <l>And into the Countrey to go I haue promyſed</l>
+               <l>Looke therfore thou go not from hence to days</l>
+               <l>Tyll home agayne I am returned.</l>
+               <l>Take hede I ſaye, this Howſe thee retayne,</l>
+               <l>And ſtyrre not for any thynge out of my doore:</l>
+               <l>Vntill that I come hyther agayne,</l>
+               <l>As thou wylte be rewarded therfore.</l>
+            </sp>
+            <stage>¶ Here his Wyfe goeth out, and the Huſbande taryeth behinde alone.</stage>
+            <pb facs="tcp:7833:23"/>
+            <sp>
+               <speaker>¶ The Huſbande.</speaker>
+               <l>¶ The ſlyinge and fiende go with my wyfe</l>
+               <l>And in her Iourney ill maye ſhe ſpeede:</l>
+               <l>I praye God almighty to ſhorten her lyfe</l>
+               <l>The earth at no tyme doth beare ſuche a weede.</l>
+               <l>Althoughe that I be a Gentelman borne</l>
+               <l>And come by my Auncetours of a good blood,</l>
+               <l>Yet am I lyke to weare a Cote torne</l>
+               <l>And hither and thither go catye wood.</l>
+               <l>But rather then I this lyfe wyll abyde</l>
+               <l>To morowe mornynge I do intende,</l>
+               <l>Home to my Father agayne to ryde,</l>
+               <l>If ſome man to me his Horſe wyll lende.</l>
+               <l>She is to her Goſſypes gone to make mery,</l>
+               <l>And there ſhe wyll be for three or foure dayes:</l>
+               <l>She cares not thoughe I do nowe miſcarye</l>
+               <l>And ſuffre ſuch payne and ſorowe alwayes.</l>
+               <l>She leaueth to me neyther Breade nor drynke</l>
+               <l>But ſuch as I iugde no bodye wolde eate:</l>
+               <l>I myght by the wailes lye dead and ſtynke</l>
+               <l>For any great holſomnes in my meate.</l>
+               <l>She walketh a brode, and taketh her pleaſure</l>
+               <l>Her ſelfe to cheryſſhe is all her care:</l>
+               <l>She paſſeth not what griefs I endure,</l>
+               <l>Or howe I can lyue with noughty fare:</l>
+               <l>And ſynce it is ſo, without further delaye</l>
+               <l>To my father to morowe I wyll awaye.</l>
+            </sp>
+            <stage>¶ Here he goeth out, and in co<g ref="char:cmbAbbrStroke">̄</g>meth the Deuyll.</stage>
+            <pb facs="tcp:7833:23"/>
+            <sp>
+               <speaker>¶ Satan the Deuyll.</speaker>
+               <l>HO, ho, ho, what a felowe am I?</l>
+               <l>Geue row me I ſaye both more and leſſe:</l>
+               <l>⸬ ⸬ My ſtrength and power hence to the Skye</l>
+               <l>No eacthly tonge can well expreſſe.</l>
+               <l>Oh what inuencious, craftes and wiles,</l>
+               <l>Is there conteyned within this head?</l>
+               <l>I knowe that he is within fewe myles</l>
+               <l>Which of the ſame is throughly ſped.</l>
+               <l>Oh, it was all my ſtudye daye and nyght</l>
+               <l>Co<g ref="char:cmbAbbrStroke">̄</g>nyngly to brynge this matter to paſſe:</l>
+               <l>In all the earth, there is no wighte</l>
+               <l>But I can make to crye alas.</l>
+               <l>This man and wyfe, that not longe agoe</l>
+               <l>Fell in this place togyther by the eares:</l>
+               <l>It was onely I that this ſtryfe dyd ſowe</l>
+               <l>And haue bene aboute it certayne yeares.</l>
+               <l>For after that I had taken a ſmall:</l>
+               <l>Of their good wyll and feruent loue,</l>
+               <l>My thought I ſhulde not tary in hell</l>
+               <l>But vnto debate them ſhortely moue,</l>
+               <l>Oh it was I that made hym to deſpyſe</l>
+               <l>All wiſdome, goodnes, vertue and learnynge</l>
+               <l>That be afterwarde coulde in no wiſe</l>
+               <l>Ones in his harte fancie teachynge.</l>
+               <l>Oh it was I, that made hym refuſe</l>
+               <l>The holſome menytion of his Father dere</l>
+               <l>And cauſed hym ſtyll of a wyfe to muſe</l>
+               <l>As thoughe ſhe ſhoulde be his ioye and there.</l>
+               <l>Oh it was I, that made hym goe hence,</l>
+               <l>And ſuppoſe that his father was verye vnkynde,</l>
+               <l>It was I, that dyd oryue hym to ſuch expence,</l>
+               <pb facs="tcp:7833:24"/>
+               <l>And made hym as bare, as an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pe is behynde.</l>
+               <l>And nowe that I haue this buſynes ended</l>
+               <l>And ioyned hym and his wiſe togyther:</l>
+               <l>I thynke that I haue my part well played,</l>
+               <l>None of you all wolde do it better.</l>
+               <l>Ho, ho, ho, this well fauoured heads of myne</l>
+               <l>What thynge ſoeuer it hath in hande:</l>
+               <l>Is neuer troubled with Ale or Wyne,</l>
+               <l>Neyther by Sea, nor yet by lande.</l>
+               <l>I tell you I am a meruaylous bodye,</l>
+               <l>As any is at this daye lyuynge:</l>
+               <l>My head doth deuyſe eche thynge ſo trymly,</l>
+               <l>That all men maye wonder of the endynge,</l>
+               <l>Oh I haue ſuch fetches, ſuch toyes in this head</l>
+               <l>Such crafty deuyſes and ſubtyll trayne:</l>
+               <l>That whom ſo euer of you I do wed,</l>
+               <l>ye are lyke at my handes to take ſmall gayne.</l>
+               <l>There is no gentelman, knyght, or Lorde:</l>
+               <l>There is no Duke, Earle, or kynge:</l>
+               <l>But if I lyſt, I can with one worde,</l>
+               <l>Shortly ſende vnto their lodgynge.</l>
+               <l>Some I diſquiet with Coueitouſnes,</l>
+               <l>Some with wrath, pryde and lecherye,</l>
+               <l>And ſome I do thruſte into ſuche diſtreſſe</l>
+               <l>That he feeleth onely payne and myſerye.</l>
+               <l>Some I allure to haue theire delyght</l>
+               <l>Alwayes in Glotonye, Enuye and murdre:</l>
+               <l>And thoſe thynges to praciſe with all theyr might</l>
+               <l>Either by lande, or els by water.</l>
+               <l>Ho, ho, ho, there is none to be compared,</l>
+               <l>To me I tell you, in any poynte:</l>
+               <l>With a great ſorte my ſelfe I haue tryed,</l>
+               <pb facs="tcp:7833:24"/>
+               <l>That boldly ventured many a ioynt.</l>
+               <l>And when for a longe tyme we had wreſtled</l>
+               <l>And ſhewed our ſtrength on eyther ſyde,</l>
+               <l>Yet often tymes a fall they receyued,</l>
+               <l>When throughe my Polycye their feefe dyd ſlyde.</l>
+               <l>Wherfore (my dere children) I warne ye all,</l>
+               <l>Take hede, take hede of my temptation:</l>
+               <l>For co<g ref="char:cmbAbbrStroke">̄</g>menly at the laſt y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> haue the fall</l>
+               <l>And alſo brought to Deſperacion.</l>
+               <l>Oh it is a forye for many to ſtryue</l>
+               <l>And thynke of me to get the vpper hande:</l>
+               <l>For vnleſſe that God make them to thryue</l>
+               <l>They can not agaynſt me ſticke or ſtande.</l>
+               <l>And thoughe that God on hy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> haue his domynion</l>
+               <l>And ruleth the worlde euery where:</l>
+               <l>Yet by your leaue, I haue a porcion,</l>
+               <l>Of this ſame earth that ſtandeth here.</l>
+               <l>The kyngdome of God is aboue in Heauen</l>
+               <l>And myne is I tell you beneth in Hell:</l>
+               <l>But yet a greater place if he had delt euen</l>
+               <l>He ſhulde haue gyuen me and myne to dwell,</l>
+               <l>For to my Palace of euery Nation</l>
+               <l>Of what degree or birth ſo euer they be.</l>
+               <l>Come runnynge in with ſuch feſtination,</l>
+               <l>That other whyles they amaſed me,</l>
+               <l>Oh all the Iewes, and all the Turkes,</l>
+               <l>Yea and a great parte of Chriſten dome</l>
+               <l>When they haue done my wyll, and my workes</l>
+               <l>In the ende they flye hither all and ſome.</l>
+               <l>There is no miunte of the daye</l>
+               <l>There is no minute of the nyghte:</l>
+               <l>But that in my Palace there is alwaye</l>
+               <pb facs="tcp:7833:25"/>
+               <l>Crowdynge togither a meruaylous ſighte,</l>
+               <l>They come on thicker, then ſwarmes of Bees,</l>
+               <l>And make ſuch a noyſe and cryinge out:</l>
+               <l>That many a one lyeth on his knees,</l>
+               <l>With thouſandes kept vnder, and cloſed about</l>
+               <l>Not ſo much as my parlours, halles, and euery chamber</l>
+               <l>By Porches, my galeryes, and my courte:</l>
+               <l>My entryes, my kytchyn, and my Larder,</l>
+               <l>But with all maner people be fylled throughout.</l>
+               <l>What ſhall I ſaye more, I can not tell,</l>
+               <l>But of this (my chyldren) I am certayne,</l>
+               <l>There comes more in one houre vnto Hell,</l>
+               <l>Then vnto Heauen, in a moneth or twayne.</l>
+               <l>And yet for all this, my Nature is ſuch</l>
+               <l>That I am not pleaſed with this company,</l>
+               <l>But out of my kyngdome I muſt walke muche</l>
+               <l>That one or other I maye take tardye,</l>
+               <l>Ho, ho, ho, I am neuer ones afrayde</l>
+               <l>With theſe my Clawes you for to touche,</l>
+               <l>For I wyll not leaue tyll you be payde,</l>
+               <l>Suche treaſure, as is within my Pouche.</l>
+               <l>The worlde is my Sonne, and I ame his Father</l>
+               <l>And alſo the fleſſhe, is a doughter of myne</l>
+               <l>It is I alone, that taught them to gather,</l>
+               <l>Both Golde and Syluer that is ſo fyne.</l>
+               <l>Wherfore I ſuppoſe that they loue me well</l>
+               <l>And my Co<g ref="char:cmbAbbrStroke">̄</g>maun dementes gladly obaye,</l>
+               <l>That at the laſt then vnto Hell,</l>
+               <l>They maye come all the redy waye.</l>
+               <l>But now (I knowe) ſynce I came hither</l>
+               <l>There is ſuch a multitude at my gate,</l>
+               <pb facs="tcp:7833:25"/>
+               <l>¶ That I muſt agaynt repayre downe thyther</l>
+               <l>After myne olde maner and rate.</l>
+            </sp>
+            <stage>¶ Here the Deuyll goeth out, and in co<g ref="char:cmbAbbrStroke">̄</g>meth the Rychmans Sonne alone.</stage>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>HOwe glad am I, that my iourney is ended,</l>
+               <l>Which I was about this whole dare?</l>
+               <l>⸬ ⸬ My Horſe to ſtande ſtyll I neuer ſufferd,</l>
+               <l>Becauſe I woulde come to the ende of my waye,</l>
+               <l>But yet I am ſorye that I can not fynde,</l>
+               <l>My louynge Father at home at hys place:</l>
+               <l>That vnto hym I maye breake my mynde,</l>
+               <l>And let hym knowe my myſerable caſe.</l>
+               <stage>¶ Here he confeſſeth his noughtynes vitring the ſame with a pitifull voi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</stage>
+               <l>¶ I haue ben wylde, I haue ben wanton,</l>
+               <l>I haue euer folowed my fancye and wyll:</l>
+               <l>I haue ben to my Father a frowarde Sonne</l>
+               <l>And from daye to daye contynued ſtyll.</l>
+               <l>I haue alwayes proudlye dyſdayned thoſe</l>
+               <l>That in my madnes gaue me good counſell</l>
+               <l>I counted them moſt my mortall foes,</l>
+               <l>And ſtowtely agaynſt them dyd rebell.</l>
+               <l>The thynge that was good, I greatly hated</l>
+               <l>As one which lacked both wytte and reaſon,</l>
+               <l>The thyng that was euyll I euer loued</l>
+               <l>Which now I ſee is my confuſyon.</l>
+               <l>I coulde not abyde of the Schole to heare</l>
+               <l>Mayſters and teachers my harte abborred,</l>
+               <pb facs="tcp:7833:26"/>
+               <l>We thought the Booke was not fyt geare,</l>
+               <l>For my tendeer fyngers to haue handled,</l>
+               <l>I counted it a pleaſure to be daintely fed</l>
+               <l>And to be clothed to coſtly artaye:</l>
+               <l>I woulde moſt co<g ref="char:cmbAbbrStroke">̄</g>monly ſlugge in my bed,</l>
+               <l>Vntyll it were verye farre forth daye.</l>
+               <l>And to be ſhorte, anone after this,</l>
+               <l>Ther came ſuch fanſies in my brayne:</l>
+               <l>That to haue a wyfe whom I might kyſſe</l>
+               <l>I rekened to be the greateſt gaine.</l>
+               <l>But yet alas I was quyte deceyued</l>
+               <l>The thynge it ſelfe doth eaſely appeare:</l>
+               <l>I woulde alas I had ben buryeb,</l>
+               <l>When to my Father, I gaue not eare.</l>
+               <l>That which I had, I haue cleane ſpent,</l>
+               <l>And kept ſo much ryot with the ſame:</l>
+               <l>That now I am fayne, a Cote that is rent</l>
+               <l>At as to weare for verye ſhame.</l>
+               <l>I haue not a croſſe lefte in my purſe,</l>
+               <l>To helpe my ſelfe nowe in my nede:</l>
+               <l>That well I am worthye of Goddes curſe,</l>
+               <l>And of my Father to haue ſmall mede.</l>
+               <stage>THere the Ryche man muſt be as it were co<g ref="char:cmbAbbrStroke">̄</g>mynge in.</stage>
+               <l>But excepte m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e eyes do we beguyle,</l>
+               <l>That man is my Father, whom I do ſee:</l>
+               <l>And now that he comes, without crafte or wyle,</l>
+               <l>To hym I will hende on eyther knee.</l>
+               <l>Ah Father, Father, my Father moſt dere,</l>
+            </sp>
+            <sp>
+               <speaker>¶ The father.</speaker>
+               <p>¶ Ah myne owne chylde, with the what there?</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Sone.</speaker>
+               <l>¶ All ſuch ſayinges as in my mynde,</l>
+               <pb facs="tcp:7833:26"/>
+               <l>At the fyrſt tyme ye ſtudied to ſattell,</l>
+               <l>Moſt true alas, I do them fynde,</l>
+               <l>As thoughe they were written in the Goſpell.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ Thoſe wordes my Sonne, I haue almoſt forgotten,</l>
+               <l>Stande vp therfore, and kneele no longer:</l>
+               <l>And what it was I ſpake ſo often,</l>
+               <l>At two or there wordes, recyte to thy Father.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ If that ye be Father well remembred</l>
+               <l>As the ſame I beleue ye can not forget:</l>
+               <l>You ſayde that ſo ſoone as I were maryed,</l>
+               <l>Much payne and trouble therby I ſhoulde get.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <p>¶ Haſte thou by proofe ſoone, this thynge tryed?</p>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Yea, alas to much I haue experyenced:</l>
+               <l>My wife, I dyd wed, all full of frenſye,</l>
+               <l>My ſelye poore ſhoulders, hath now ſo brouſed,</l>
+               <l>That lyke to a Creple, I mone me weakly,</l>
+               <l>Beynge full often with the ſtaffe thwacked:</l>
+               <l>She ſpareth no more my fleſſhe and bone,</l>
+               <l>Than if my bodye were made of Stone,</l>
+               <l>Her wyll, her mynde, and her Co<g ref="char:cmbAbbrStroke">̄</g>maundement,</l>
+               <l>From that daye hyther, I haue fulfylled:</l>
+               <l>Which if I dyd not, I was bytterly ſhent,</l>
+               <l>And with many ſtrokes grenouſly punyſſhed:</l>
+               <l>That woulde God the houre when I was maryed,</l>
+               <l>In the midſte of the Church I might haue fynked.</l>
+               <l>I thynke ther is no man vnder the Sonne</l>
+               <l>That here on the earth beareth lyfe:</l>
+               <l>Which wolde do ſuch drudgerye, as I haue done,</l>
+               <pb facs="tcp:7833:27"/>
+               <l>At the vnkynde wordes of ſuche a wyfe,</l>
+               <l>For howe I was vſed, and in what wyſe</l>
+               <l>A daye to declare wyll not ſuffyſe.</l>
+               <l>Yf this be not true, as I haue ſpoken</l>
+               <l>To my good neyghbours I me reporte,</l>
+               <l>Who ether whyles when I was ſmytten</l>
+               <l>My wyfe to be gentle, dyd then exhorte:</l>
+               <l>For glad I was to abyde all laboure</l>
+               <l>Wherby the leſſe might be my doloure.</l>
+               <l>Wherfore good Father I you humblye deſyre</l>
+               <l>To haue pitye of me and ſome compaſſion?</l>
+               <l>Or els I am lyke to lye faſt in the myre,</l>
+               <l>Without any ſuccoure or conſolation:</l>
+               <l>For at this houre I haue not a peny,</l>
+               <l>My ſelfe to helpe in this great myſerye.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ For ſo muche as by my aduyſe and counſell</l>
+               <l>In no maner wyſe thou woldeſt be ruled:</l>
+               <l>Therfore to the I can not do well,</l>
+               <l>But let the ſtyll ſuffre, as thou haſte deſerued</l>
+               <l>For that thou haſt ſuffred, is yet nothynge</l>
+               <l>To that trybulation which is behinde co<g ref="char:cmbAbbrStroke">̄</g>mynge.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Alas Father, what ſhall I do?</l>
+               <l>My wyttes of them ſelues can not deuyſe,</l>
+               <l>What thynge I were beſt to goe vnto,</l>
+               <l>Wherof an honeſt lyuynge maye aryſe:</l>
+               <l>Wherfore gentle Father in this diſtreſſe,</l>
+               <l>Somewhat aſwage myne heuynes.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ What ſhoulde I do I can not tell,</l>
+               <l>For now that thou haſt taken a wyfe</l>
+               <pb facs="tcp:7833:27"/>
+               <l>With me thy father thou mayſt not dwell,</l>
+               <l>But alwayes with her ſpende thy lyfe.</l>
+               <l>Thou mayſt not agayne thy wyfe forſake,</l>
+               <l>Which durynge lyfe to the thou dydſt take.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ Alas I am not able thus to endure</l>
+               <l>Thoughe therunto I were neuer ſo wyllynge:</l>
+               <l>For my wyfe is of ſuch a crooked nature</l>
+               <l>As no woman els, is this daye lyuynge,</l>
+               <l>And if the verye trueth I ſhall confeſſe</l>
+               <l>She is to me an euyll that is endleſſe.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ If that thou thinkeſt thy ſelfe alone</l>
+               <l>Onely to leade this yrkeſome lyfe.</l>
+               <l>Thou maieſt learne what griefe, ſorowe and mone,</l>
+               <l>Socrates had with Xantippa his wyfe.</l>
+               <l>Her Huſbande full ofte ſhe tawnted and checked</l>
+               <l>And as the Booke ſaythe vnhoneſtly mocked.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ I can not tell, what was Socrates wyfe</l>
+               <l>But myne I do knowe alas to well,</l>
+               <l>She is one that is euermore full of ſtryfe</l>
+               <l>And of all Scolders beareth the Bell.</l>
+               <l>When ſhe ſpeaketh beſt, then brawleth her tonge</l>
+               <l>When ſhe is ſtyll ſhe fyghteth apace:</l>
+               <l>She is an olde Witch thoughe ſhe be yonge,</l>
+               <l>No mirth with her, no ioye or ſolace.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ I can not my Sonne thy ſtate redreſſe,</l>
+               <l>Me thy Father thou dydſt refuſe:</l>
+               <l>Wherfore now helpe thy owne fooly ſhenes,</l>
+               <l>And of thy wyfe no longer muſe.</l>
+            </sp>
+            <pb facs="tcp:7833:28"/>
+            <sp>
+               <speaker>¶ The Sonne.</speaker>
+               <l>¶ My wyfe went foorth n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the Countrey</l>
+               <l>With certayne Goſſyppes to make good chere,</l>
+               <l>And bad me at home ſtyll to be,</l>
+               <l>That at her returne, ſhe might fynde me there:</l>
+               <l>And if that ſhe do take me from home,</l>
+               <l>My bones alas ſhee wyll make to crackell:</l>
+               <l>And me her Huſbande as a ſtarke mome,</l>
+               <l>With knockyng and mockynge ſhe wyll handell.</l>
+               <l>And therfore if I maye not here remayne,</l>
+               <l>Yet louynge Father, geue me your rewarde,</l>
+               <l>That I may with ſpeede ride haue againe,</l>
+               <l>That to my wyfes wordes, haue ſome regarde.</l>
+            </sp>
+            <sp>
+               <speaker>¶ The Father.</speaker>
+               <l>¶ If that at the fyrſt thou woldeſt haue bene ordered.</l>
+               <l>And done as thy Father counſayled the:</l>
+               <l>So wretched a lyfe had neuer chaunced</l>
+               <l>Wherof at this preſent thou complayneſt to me.</l>
+               <l>But yet come on, to my houſe wee wyll be goynge</l>
+               <l>And ther thou ſhalt ſee, what I wyll gyue:</l>
+               <l>A lytell to helpe thy nedye lyuynge:</l>
+               <l>Synce that in ſuch penurye thou doeſt lyue,</l>
+               <l>And that once done, thou muſt hence agayne</l>
+               <l>For I am not he, that wyll the retayne.</l>
+            </sp>
+            <stage>¶ Here the Ryche man and his Sonne go out, and in co<g ref="char:cmbAbbrStroke">̄</g>meth the Peroratour.</stage>
+            <sp>
+               <speaker>¶ The Peroratour.</speaker>
+               <pb facs="tcp:7833:28"/>
+               <l>THis Interlude here good gentle audience,</l>
+               <l>Which preſently before you we haue played:</l>
+               <l>⸬ ⸬ Was ſet foorth with ſuch care and diligence,</l>
+               <l>As by vs truely myght well be ſhewed.</l>
+               <l>Shorte it is I denye not, and full of breuitie</l>
+               <l>But if ye marke therof the matter,</l>
+               <l>Then chooſe ye can not, but ſee playnely</l>
+               <l>How payne and pleaſure be knyt togyther.</l>
+               <l>By this lytell playe, the Father is taught,</l>
+               <l>After what maner his Chylde to vſe:</l>
+               <l>Leaſt that throughe cockerynge at length he be brought</l>
+               <l>His Fathers Co<g ref="char:cmbAbbrStroke">̄</g>maundement to refuſe,</l>
+               <l>Here ye maye learne a wyttie leſſon,</l>
+               <l>Betymes to correcte his Sonne beynge tender:</l>
+               <l>And not let hym be loſt and vndone,</l>
+               <l>With wantonnes of miſchiefe the Mother,</l>
+               <l>For as longe as the twygge is gentell and plyent</l>
+               <l>(Euery man knoweth this by experience:)</l>
+               <l>With ſmall force and ſtrength it maye be bent</l>
+               <l>Puttynge therto but lytell dylygence.</l>
+               <l>But after that it waxeth ſomewhat digger</l>
+               <l>And to eaſt his braunches largely begynneth,</l>
+               <l>It is ſcant the myght of all thy power,</l>
+               <l>That one kowghe therof<g ref="char:punc">▪</g> eaſely bendeth,</l>
+               <l>This twygge to a chylde maye well be applyed</l>
+               <l>Which in his childehoode, and age of Infancie:</l>
+               <l>With ſmall correction maye be amended,</l>
+               <l>Emoracynge the Schole with harte and bodie.</l>
+               <l>Who afterwarde with ouer much lybertye,</l>
+               <l>And rangynge abrobe with the Brydell of wyll.</l>
+               <pb facs="tcp:7833:29"/>
+               <l>Deſpyſeth all vertue, ſearnyuge and honeſtys,</l>
+               <l>And alſo his Fathers mynde to fullfyll.</l>
+               <l>Wherby at the length it ſo falleth out</l>
+               <l>That this the yonge Stryplynge after that daye:</l>
+               <l>Runnes into confuſyon without any doubte</l>
+               <l>And lyke for euermore quyte to decaye.</l>
+               <l>Wherfore take hede all ye that be parentes</l>
+               <l>And ſolowe a parte after my counſell,</l>
+               <l>Inſtructe your Chyldren and make them ſtudentes</l>
+               <l>That vnto all goodnes they do not rebell</l>
+               <l>Remember what writeth Salomon the wyſe,</l>
+               <l>Oui parcit Virgae, odith filium.</l>
+               <l>¶ Therfore for aſmuche as ye can deuyſe</l>
+               <l>Spare not the Rodde, but folowe wiſdome.</l>
+               <l>Further ye yonge men and Chyldren alſo</l>
+               <l>Lyſten to me and harken a whyle,</l>
+               <l>What in fewe wordes for you I wyll ſhowe,</l>
+               <l>Without any ſlatterye, fraude, or guyle.</l>
+               <l>This Richemans Sonne whome we dyd ſet foorth,</l>
+               <l>Here euidently before your eyes:</l>
+               <l>Was (as it chaunced) nothinge worth,</l>
+               <l>Gyuen to all noughtynes, vyce, and lyes.</l>
+               <l>The cauſe wherof was this for a trueth</l>
+               <l>His tyme full idlely he dyd ſpende,</l>
+               <l>And woulde not ſtudye in his youth,</l>
+               <l>Which might haue brought him to a good ende.</l>
+               <l>His fathers co<g ref="char:cmbAbbrStroke">̄</g>maundement he wolde not obaye,</l>
+               <l>But wantouly folowed his fantaſye:</l>
+               <l>For nothynge that he coulde do or ſaye,</l>
+               <l>Woulde brynge this Chylde to honeſtie.</l>
+               <l>And at the laſt (as here ye myght ſee:)</l>
+               <l>Upon a wyfe he fired his mynde,</l>
+               <pb facs="tcp:7833:29"/>
+               <l>Thynkynge the ſame to be felicitie,</l>
+               <l>When in dede myſerye came bebynde.</l>
+               <l>For by this wyfe be carefully lyued,</l>
+               <l>Who vnder his Father did want nothinge:</l>
+               <l>And in ſuche ſorte was hereby tormented</l>
+               <l>That euer a none, he went lamentynge.</l>
+               <l>His Father dyd wyll him lyghtnes to leaue</l>
+               <l>And onely to gyue him ſelfe vnto ſtudye:</l>
+               <l>But yet vnto vertue he would dot cleaue,</l>
+               <l>Which is co<g ref="char:cmbAbbrStroke">̄</g>modious for ſoule and bodye.</l>
+               <l>You hearde that by Sentences auncient and olde</l>
+               <l>He ſtyrred his Sonne as he beſt thought:</l>
+               <l>But he as an vnthryfe ſtowte and bolde,</l>
+               <l>His bolſome counſell dyd ſet at nought.</l>
+               <l>And ſynce that he deſpyſed his Father</l>
+               <l>God vnto hym dyd ſodeynly then ſende:</l>
+               <l>Such pouertie with a wyfe, and griefe togyther</l>
+               <l>That ſhame and ſorowe was his ende.</l>
+               <l>Wherfore to conclude, I warne you all</l>
+               <l>By your louynge parentes, alwayes be ruled:</l>
+               <l>Or els be well aſſured of ſuche a fall?</l>
+               <l>As vnto this yongman worthely channced.</l>
+               <l>Worſhyp God dayly whiche is the chiefe thynge</l>
+               <l>And his holy lawes do not offende:</l>
+               <l>Looke that ye truely ſerue the kynge,</l>
+               <l>And all your faultes be glad to amende.</l>
+               <l>Moreouer, be true of hande and tonge,</l>
+               <l>And learne to do all thynges that be honeſt,</l>
+               <l>For no tyme ſo fytte, as when ye be yonge,</l>
+               <l>Becauſe that age onely is the apteſt.</l>
+               <l>I haue no more, to ſpeake at this ſeaſon,</l>
+               <l>F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ye good wyll theſe thynges I dyd ſaye.</l>
+               <pb facs="tcp:7833:30"/>
+               <l>Bycauſe I do ſee that vertue is geaſon,</l>
+               <l>With moſt men and chyldren, at this daye.</l>
+            </sp>
+            <stage>¶ Here the reſt of the Players come in and kneels downe all togyther, eche of them ſayinge one of theſe Verſes.</stage>
+            <lg>
+               <l>And laſt of all, to make an ende,</l>
+               <l>O God to the we moſt humblye praye:</l>
+               <l>That to Queene Elizabeth thou do ſende</l>
+               <l>Thy lyuely pathe, and perfecte waye,</l>
+            </lg>
+            <lg>
+               <l>Graunte her in health to raygne.</l>
+               <l>With vs many yeares moſt proſperouſtye:</l>
+               <l>And after this lyfe for to attayne,</l>
+               <l>The eternall blyſſe, Ioye, and felycytie.</l>
+            </lg>
+            <lg>
+               <l>Our Byſſhoppes, paſtoures, and Myniſters alſo</l>
+               <l>The true vnderſtandynge of thy worde,</l>
+               <l>Both nyght and daye, nowe mercyfully ſhowe,</l>
+               <l>That their lyfe and preachynge maye godly accorde,</l>
+            </lg>
+            <lg>
+               <l>The Lordes of the Counſell, and the Nobylytie,</l>
+               <l>Moſt heauenly Father, we thee deſyre:</l>
+               <l>With grace, wiſdome, and godly polycie,</l>
+               <l>Their hartes and myndes, alwayes inſpyre.</l>
+            </lg>
+            <lg>
+               <l>And that we thy people duelye conſyderynge</l>
+               <l>The power of our Queene and great auctorytie,</l>
+               <l>Maye pleaſe thee and ſerue her without faynynge,</l>
+               <l>Lyuynge in peace, reſt, and tranquilytie.</l>
+            </lg>
+            <trailer>¶ God ſaue the Queene.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <pb facs="tcp:7833:30"/>
+            <head>¶ A Songe.</head>
+            <lg>
+               <l>WHy doth the worlde ſtudye vaynglory to aff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yne</l>
+               <l>The proſperytye wherof is ſhorte and tranſitory</l>
+               <l>Whoſe mighty power, doth fall downe agayne,</l>
+               <l>Lyke earthen portes, that breaketh ſo daynly.</l>
+            </lg>
+            <lg>
+               <l>¶ Beleue rather wordes that be wrytten in Ice</l>
+               <l>Then the wretched world with his ſubtylytie:</l>
+               <l>Diſceytfull in Gi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces, men onelie to entyce,</l>
+               <l>Deſtytute of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſure credence and fydelytie.</l>
+            </lg>
+            <lg>
+               <l>¶ Gyne credyt more to men of true Iudgementes</l>
+               <l>Then to the worldly renowne and ioyes:</l>
+               <l>Replenyſ ſhed with dreames and vayne intentes,</l>
+               <l>Aboun dynge in wicked and noughtye toyes.</l>
+            </lg>
+            <lg>
+               <l>¶ Where is now Salomon in wiſdome ſo excellence</l>
+               <l>Where is now Samyſon, in battell ſo ſtronge?</l>
+               <l>Where is now A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſolo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in Beantie reſplendent?</l>
+               <l>Where is now good Iousthas hyd ſo longe?</l>
+            </lg>
+            <lg>
+               <l>¶ Where is now Ceſar in victorye tryumphynge?</l>
+               <l>Where is now Tines, in diſſhes ſo dayntie?</l>
+               <l>Where is now Tully in Gloquence excedynge?</l>
+               <l>Where is now Ar<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>le, learned ſo depe<g ref="char:EOLunhyphen"/>ly?</l>
+            </lg>
+            <lg>
+               <l>¶ What Emperoues, kyngs, and Dukes in times paſt?</l>
+               <l>What Earies and Lordes, and Captaynes of warre?</l>
+               <l>What Popes and Byſſhoppes, all at the laſt,</l>
+               <l>In the twy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>kynge of an eye are fled ſo farre?</l>
+            </lg>
+            <lg>
+               <l>¶ Howe ſhorte a Feaſte is this worldly ioyenge?</l>
+               <l>Euen as it ſhadewe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> paſſeth awaye,</l>
+               <l>Depry<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of by<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes euerlaſtynge</l>
+               <l>Leadynge to da<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not to daye.</l>
+            </lg>
+            <pb facs="tcp:7833:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:7833:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:7833:32"/>
+            <lg>
+               <l>¶ O meate of wormes, O heape of duſte,</l>
+               <l>O lyke to dewe clyme not to hye:</l>
+               <l>To lyue to morowe, thou canſt not truſte,</l>
+               <l>Therfore now betyme helpe the nedye</l>
+            </lg>
+            <lg>
+               <l>¶ The fleſ ſhely Beautie, wherat thou doeſt wondre,</l>
+               <l>In holy Scripture is lykened to Haye:</l>
+               <l>And as a Leafe in a ſtormye weather,</l>
+               <l>So is mannes lyfe blowen cleane a waye,</l>
+            </lg>
+            <lg>
+               <l>¶ Calle nothynge thyne that maye be loſt,</l>
+               <l>The worlde doth gyue and take agayne:</l>
+               <l>But ſet thy mynde on the holy Ghoſte,</l>
+               <l>Deſpyſe the worlde that is ſo vayne.</l>
+            </lg>
+            <trailer>¶ Finis.</trailer>
+         </div>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <head>S. Iohn Euangeliſt.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:7833:32"/>
+         </div>
+      </back>
+   </text>
+</TEI>

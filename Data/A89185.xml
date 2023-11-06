@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mistris Parliament brought to bed of a monstrous childe of reformation. With her seven years teeming, bitter pangs, and hard travaile, that she hath undergone in bringing forth her first-borne, (being a precious babe of grace.) VVith the cruelty of Mistris London her midwife; and great affection of Mrs. Synod her nurse, Mrs. Schisme, Mrs. Priviledge, Mrs. Ordinance, Mrs. Universall Toleration, and Mrs. Leveller her gossips. / By Mercurius Melancholicus.</title>
+            <author>Mercurius Melancholicus, fl. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89185</idno>
+            <idno type="STC">Wing M2281</idno>
+            <idno type="STC">Thomason E437_24</idno>
+            <idno type="STC">ESTC R14013</idno>
+            <idno type="EEBO-CITATION">99859594</idno>
+            <idno type="PROQUEST">99859594</idno>
+            <idno type="VID">111686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111686)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mistris Parliament brought to bed of a monstrous childe of reformation. With her seven years teeming, bitter pangs, and hard travaile, that she hath undergone in bringing forth her first-borne, (being a precious babe of grace.) VVith the cruelty of Mistris London her midwife; and great affection of Mrs. Synod her nurse, Mrs. Schisme, Mrs. Priviledge, Mrs. Ordinance, Mrs. Universall Toleration, and Mrs. Leveller her gossips. / By Mercurius Melancholicus.</title>
+                  <author>Mercurius Melancholicus, fl. 1648.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the yeer of the Saints fear,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition, line 5 of title reads: "travaile"; line 6 reads: "first-borne"; imprint reads: "Printed in the yeer of our Saints fear."</note>
+                  <note>Imperfect: staining.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111686:1" rendition="simple:additions"/>
+            <p>Miſtris PARLIAMENT Brought to Bed of a Monſtrous Childe of Reformation. With her 7 Yeers Teeming, bitter Pangs, and hard Travaile, that ſhe hath undergone in bringing forth her firſt-borne, (<hi>Being a Precious Babe of Grace.</hi>)</p>
+            <p>
+               <hi>VVith the cruelty of Miſtris</hi> London <hi>her Midwife; and great Affection of Mrs.</hi> Synod <hi>her Nurſe, Mrs.</hi> Schiſme, <hi>Mrs.</hi> Priviledge, <hi>Mrs.</hi> Ordinance, <hi>Mrs.</hi> Univerſall Toleration, <hi>and Mrs.</hi> Level<g ref="char:EOLhyphen"/>ler <hi>her</hi> Goſſips.</p>
+            <lg>
+               <l>Ring the Bells backwards; luſty bonfires make</l>
+               <l>Of pureſt ſtraw that from piſt beds you take;</l>
+               <l>Your muſick be the ſcreeking of a Cart,</l>
+               <l>And your ſhrill Songs, ſound ſweeter then a—</l>
+               <l>For joy that Miſtris <hi>Parliament's</hi> brought a bed;</l>
+               <l>Pray ſee the <hi>Iſſue</hi> of her <hi>Maiden-head:</hi>
+               </l>
+               <l>'Tis but 3 half-pence in: The <hi>Sight</hi> will pleaſe ye.</l>
+               <l>And of your <hi>Grief</hi> and <hi>melancholly</hi> eaſe you.</l>
+            </lg>
+            <p>
+               <hi>BY Mercurius Melancholicus:</hi>
+            </p>
+            <p>Printed in the Yeer of the Saints fear. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111686:2"/>
+            <pb n="3" facs="tcp:111686:2"/>
+            <head>Mrs. PARLIAMENT BROUGHT TO BID Of the Precious Babe of REFORMATION.</head>
+            <lg>
+               <l>The <hi>Parliament</hi> in ſtrong labour is,</l>
+               <l>pray Women come away,</l>
+               <l>Leaſt <hi>Reformation</hi> we doe miſs,</l>
+               <l>
+                  <hi>alack and well-aday.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Call Miſtris <hi>London</hi> the Mid-wife,</l>
+               <l>call Miſtris <hi>Lent-all</hi> too,</l>
+               <l>That if the Firſt can't ſave her life</l>
+               <l>the laſt may ſee her goe.</l>
+            </lg>
+            <lg>
+               <l>Bid <hi>Rainsborough</hi> to Rigg his Sipps</l>
+               <l>with all convenient ſpeed,</l>
+               <l>Leſt <hi>Gregory</hi> doe fit his ſlips,</l>
+               <l>and then wee <hi>Saints</hi> muſt bleed.</l>
+            </lg>
+            <lg>
+               <l>Blow, blow ſtrong <hi>Windes,</hi> lend one ſtiff blaſt,</l>
+               <l>and ſend her quick to hell,</l>
+               <l>Our miſeries then ſhall ſoon be paſt,</l>
+               <l>and our ſick land be well.</l>
+            </lg>
+            <stage>Enter <hi>Mrs. Synod,</hi> an old dry Nurſe.</stage>
+            <p>
+               <seg rend="decorInit">R</seg>Ide, run, goe, with all celerity, and fetch hither Miſtris <hi>London</hi> the Midwife; tell her that Mrs. <hi>Par<g ref="char:EOLhyphen"/>liament</hi> deſires her to come away preſently, for ſhe is in ſtrong labour, and hath moſt miſerable pangs and throwes that come thick upon her; pray heavens ſhe hath
+<pb n="4" facs="tcp:111686:3"/>
+not taken ſome fright; I heard her the other day complaine of a <hi>Scotchman,</hi> and of an <hi>Iriſhman,</hi> and a <hi>Welchmen;</hi> Well, well, 'twas ill done, Ile beſworne, to fright a Gentlewoman of her quallity and breeding, one that came of ſo ancient and Hono<g ref="char:EOLhyphen"/>rable a Family too, as the <hi>Parliaments of England?</hi> Who is it al<g ref="char:EOLhyphen"/>moſt that has not known the <hi>Parliaments</hi> to be as honourable as ever was any Family in <hi>England</hi> (next the King, God bleſs him) and hath done as much good for the Kingdome: and now to be deſpiſed by every ſauſe-boxe boy, and looſe fellow to make Rimes as they call them, and ſing-ſongs of her, ma<g ref="char:EOLhyphen"/>king of her a Whore, and no better then the arranteſt Strum<g ref="char:EOLhyphen"/>pet that ever went upon two ſhooes, telling her, that ſhe hath impriſoned her Husband, and proſtituted her body to a very <hi>Eunuch,</hi> that had nothing to help himſelf withall; and ſince, hath followed the <hi>Camp,</hi> &amp; became an Amunition-W, and turn'd up her tayle to every lowſy <hi>Ill-dependent</hi> Raſcall in the <hi>Army;</hi> Sir <hi>Thomas</hi> himſelf, and king <hi>Cromwall</hi> too, a very Town-Bull, and committed flat fornication with <hi>Broom-men, Tinkers,</hi> and <hi>Chan<g ref="char:EOLhyphen"/>nell-rakers,</hi> and hath learnt to murder, Rob, take Purſes, pick pockets; but ſhe is not the firſt Woman that hath done amiſs, Theſe are but ſlips occaſioned by the weakneſs of her ſex; Ile in and make her a <hi>Spirituall Cawdle</hi> to comfort her weak back; for I promiſe you, I doubt that ſhe will have but an ill bargain on't. Mrs. Parliament; why Mrs. Parliament I ſay; how doe ye Mrs. Parliament; Will ye have a little Strong-waters, or a Cawdle to comfort ye?</p>
+            <sp>
+               <speaker>Mr. <hi>Parl.</hi>
+               </speaker>
+               <p>Oh ſick, ſick; I muſt caſt Nurſe; pray reach me a bowle: 〉<hi>hawe 〉hawe.</hi>〉....</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Well ſaid Miſtris, fetch it up; up with it: Heaven bleſs me! What is't that looks ſo red Miſtris?</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Parl.</hi>
+               </speaker>
+               <p>Oh 'tis <hi>Blood,</hi> innocent blood, that hath lain in clodds congealed at my ſtomack this full 7 yeers; harke how lowd it cryes for vengeance? I never felt it before I came to <hi>Strafford,</hi> onely once ſince, at <hi>Canterbury;</hi> O <hi>Tomkins,</hi> O <hi>Challoner, Burley,</hi> &amp;c. too well I underſtand that you ſuffered by my cruelty unjuſt deaths. 〈<hi>awe.</hi>〉</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>'Tis well tis up; caſt againe Miſtris.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:111686:3"/>
+               <speaker>Mrs. <hi>Parl.</hi>
+               </speaker>
+               <p>J will Nurſe. 〈<hi>awe, awe.</hi>〉 Oh, Oh, my heart is burſt.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Lord Miſtris, What is't that looks ſo yellow? is it Choller?</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Parl.</hi>
+               </speaker>
+               <p>No Nurſe, 'tis <hi>Gold,</hi> accurſed gold; For the love of this J ſold my God, my King, my Soul, committed Sacriledge, murder, and all manner of miſchief. <hi>Awe...</hi>.....</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>What's this Mrs. that looks like Paper?</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Par.</hi>
+               </speaker>
+               <p>Oh Nurſe, thoſe are Ordinances, Votes, and De<g ref="char:EOLhyphen"/>clarations; Pray hold my back hard Nurſe, my heart will ſhiver to pieces elſe. <hi>awe, awe,</hi> ſick ſick.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>What's this that comes ſo ſtrongly up? Foh, how it ſtinks all the Kingdome over.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Parl.</hi>
+               </speaker>
+               <p>Oh Nurſe! This is the accurſed Declaration a<g ref="char:EOLhyphen"/>gainſt my King, wherein He is ſo falſely flandered and re<g ref="char:EOLhyphen"/>proach'd; Pray fling ſome hot Embers on't, and make all the haſte you can to call Mrs. <hi>Sedition,</hi> Mrs. <hi>Schiſme,</hi> Mrs. <hi>Tolera<g ref="char:EOLhyphen"/>tion,</hi> and Mrs. <hi>Leveller,</hi> tell them, That if they come not pre<g ref="char:EOLhyphen"/>ſently, J ſhall miſcarry of the ſweet Babe of <hi>Reformation,</hi> that hath coſt England ſo much money, blood and ſweat.</p>
+            </sp>
+            <sp>
+               <speaker>Nurs.</speaker>
+               <p>J am gone: Here's the Midwiſe forſooth, miſtris <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Par.</hi>
+               </speaker>
+               <p>Oh miſtris <hi>London,</hi> helpe me now or J die; never did Parliament endure ſuch bitter pangs; Oh, oh; J am rea<g ref="char:EOLhyphen"/>dy to depart.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. Lon.</speaker>
+               <p>Depart in the Devills Name if thou wilt; thou ſhalt have no helpe of mind; J come to laugh at thy ſorrow, more then to helpe thee; thou haſt had too much of my helpe already, and that hath imboldened thee the more to play the Strumpet with ſecurity, and to proſtitute thy Members to all manner of Wickedneſs and Uncleanneſs: No, languiſh ſtill, till thou haſt brought forth the baſtard Jſſue of thy own Luſt thy own ſelf, which was begot in obſcenity, and ſhall be brought forth in iniquity for me; and may it prove as mon<g ref="char:EOLhyphen"/>ſtrous in its birth, and as fatall to it ſelf, as it hath been omin<g ref="char:EOLhyphen"/>ous to others.</p>
+            </sp>
+            <p>
+               <pb n="6" facs="tcp:111686:4"/>As ſoon ſhe had made an end of ſpeaking, in came ruſhing Mrs. <hi>Priviledge,</hi> Mrs. <hi>Ordinance,</hi> Mrs. <hi>Schiſme,</hi> Mrs. <hi>Sedition,</hi> and Mrs. <hi>Toleration,</hi> who preſently fell about their buſineſs; one held her hands, another her back, and a third her members<g ref="char:punc">▪</g> She being in this grievous agony (having no hopes to ſcape with life) deſired Mrs. <hi>Truth</hi> to indite a bill to have her pray'd for; and that it be ſpeedily ſent by the Lord Mayjor to the ſe<g ref="char:EOLhyphen"/>verall Congregations within every their reſpective Pariſhes for her ſafe Deliverance, which moſt accurately ſhe penned in form of a Declaration, in theſe word following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>
+                           <hi>The</hi> Declaration <hi>of</hi> Mrs. Parliament, lying very weak, and in moſt grievous pangs of child-bearing; and cannot be delivered.</head>
+                        <p>WHatſoever dangers are threatned or feared, either by the great perplexity I am at this preſent in (or by rea<g ref="char:EOLhyphen"/>ſon of my manyfold ſins that now in my weakneſs lie heavie upon my Conſcience,) yet I have aſſurance, that if I confeſs and forſake them, I ſhall finde mercy;</p>
+                        <p>Therefore I confeſs and acknowledge (<hi>though not from the bot<g ref="char:EOLhyphen"/>tom of my heart</hi>) that for the ſpace of theſe 7. Yeers I have been a moſt cruell murderer, not onely of bodyes but of ſoules; that I have perjur'd my ſelf, firſt by my Oath of <hi>Allegiance,</hi> and ſecondly by my Solemne <hi>Covenant,</hi> wherein (<hi>as in Hoſ.</hi> 1. 9.) I have ſpoken words <hi>ſwearing falſly in making a Covenant; And now Iudgement ſpingeth up</hi> (againſt me) <hi>like Hemlock in the furrows of the field;</hi> that I have moſt trayterouſly betrayed, and impri<g ref="char:EOLhyphen"/>ſoned my lawfull King, the Anointed of the Lord; that I have corrupted his Lawes, and turned <hi>iudgement to wormwood;</hi> that I have made Gods Houſe and the Kings Houſe a <hi>Den of thieves;</hi> that I have loved wickedneſs, and practiſed it; that no fear hath dehorted me from doing any thing (<hi>but juſtice</hi>) that I have Robbed both God, and the King, and have not feared the one, nor honoured the other<g ref="char:punc">▪</g> that I have uſed all manner of Jugglings, Couſenage, Contradictions, and Equivocations; that my Religion hath been Rebellion, Murder, and Rapine; that I have, not onely <hi>coveted,</hi> but (by the inſtigation of the Devil, and
+<pb n="7" facs="tcp:111686:4"/>
+againſt the Lawes of our Soveraign Lord King CHARLES) taken Stole and forceably carried away the Goods and Chat<g ref="char:EOLhyphen"/>tells of many thouſands of his Majeſties Loyall and obedient ſubjects; that I have made this <hi>Canaan</hi> of all happineſs, a <hi>Gol<g ref="char:EOLhyphen"/>gotha,</hi> and field of <hi>Blood,</hi> and yoaked my fellow ſubjects to the pride, tyranny and Opreſſion of my own Luſt, and Ambition; in ſtead of <hi>Reforming</hi> J have <hi>Deformed,</hi> and in ſtead of repairing J have pulled down; Which hath occaſioned all theſe miſeries to fall upon me; My greateſt grief of all being, that I know J have committed all this, and much more, but cannot Repent for the ſame; therefore the ſeverall Miniſters within the Cities of <hi>London</hi> and <hi>Weſtminſter<g ref="char:punc">▪</g>
+                           </hi> and the late Lines of Communicati<g ref="char:EOLhyphen"/>ons, are deſired upon the ſeventh day of May, (being <hi>Rogation</hi> Sunday) if I ſhall not be delivered before, to keep a Day of Humiliation, and Prating, that the heavy judgements that ſo inevitably threaten me, may be diverted: That ſo I may ſtill Rule Reigne and Tyranniſe over you, <hi>Parliament everlaſting,</hi> Impoſitions, Aſſeſſments and Taxations without end.</p>
+                        <closer>Amen.
+<signed>Your deſpiſed Friend, Mrs. <hi>TR<g ref="char:V">Ʋ</g>TH.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>But in the time this was witing, Miſtris Parliament grew ſtill worſe and worſe, and the good Wives made account ſhe hand been <hi>drawing on,</hi> therefore Miſtis <hi>Priviledge</hi> ſtepped unto her and ſpake as followeth.</p>
+            <p>Mrs. <hi>Pri.</hi> Dear Daughter, I perceive by thy Pulſe beating, and by ſo much <hi>blood</hi> comming in thy face, that thou art not long liv'd; and it is a queſtion whether the child thou now art in travell with, ever come forth in its right ſhape, or live to receive its Chriſtendom; and although I have been the ſuppor<g ref="char:EOLhyphen"/>ter and upholder of thee this 7 years day, and Priviledg'd thee in all thy Actions, though contrary to Truth<g ref="char:punc">▪</g> Religion, Law or Reaſon, yet I cannot priviledge thee from Diſſolution; Therfore I deſire thee to make thy Peace with God, and thy Conſci<g ref="char:EOLhyphen"/>ence, which I perceive is much troubled; next I adviſe thee to reſtore all that thou haſt fraudulently taken away, either from God, thy King, or thy Neighbour, and to repent of thy <hi>Periury</hi>
+               <pb n="8" facs="tcp:111686:5"/>
+and blod-ſhed, and heartily bewail thy ſelf for the ſame, deli<g ref="char:EOLhyphen"/>ver thy Lord and Maſter out of Priſon, and preſerve him from the treacherous deſignes of <hi>Fairfax, Cromell, Ireton, Hammond, Rainsbrough, Ioyes,</hi> &amp;c. (ſetting the firſt aſide, who is neither fiſh, nor fleſh, nor good red herring) a company of Schiſmat<g ref="char:EOLhyphen"/>ticall, broaken, Rakehells, Mechanicks, and looſe fellows, that will have no Rule for their lives or Actions and yet muſt be Lords of Miſ-rule, and have the Perſons and Eſtates of a free<g ref="char:EOLhyphen"/>bron People at the mercy of their helliſh wills; O Mrs. Par<g ref="char:EOLhyphen"/>liament, here is Mrs. <hi>Schiſm,</hi> and Mrs. <hi>Sedition</hi> hath too much miſlead thee, and hath brought thee to all this ſhame and ig<g ref="char:EOLhyphen"/>nominy that is now juſtly fallen upon thee, and diſgraced both thee, and thy Honourable <hi>Houſe</hi> for ever, and how ugly will it appear in the Chronicles of after times? The Commons Houſe of Parliament (that ſhould be the Fountaine of Juſtice) a Common Bawdy houſe, to proſtitute her members to all man<g ref="char:EOLhyphen"/>ner of uncleanneſs, Murder, Theft, Treaſon &amp;c. that ſhould be the members of Chriſt, pure, holy and undefiled, and blame<g ref="char:EOLhyphen"/>leſs before <hi>God</hi> and man, which is now hatefull and odious to both; that whoſoever, (whether Miniſter or other) doth but ſpeak truth, or tell you of your faults, muſt be worried to the death by your Blood-hounds, and <hi>Walkers</hi> bitch <hi>Ione Ruggles,</hi> and the reſt of the damn'd crue of Jaylors, Purſuivants, Roagus and Judaſes, that care not whom they betray for money:—</p>
+            <p>Whil'ſt ſhe was ſpeaking<g ref="char:punc">▪</g> the room was ſtrangely overſpread with darkneſs, the candles went out of themſelves, and there was ſmelt noyſome ſmells, and heard terrible thunderings, in<g ref="char:EOLhyphen"/>termix'd with wawling of Catts, howling of Doggs, and bark<g ref="char:EOLhyphen"/>ing of Wolves againſt the windows flew ill-boading ſcreetch-Owles, Ravens and other ominous Birds of night, that ſtrook a great terrour to the hearers; at the ſame time Mrs. <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> was miraculouſly delivered of a <hi>Monſter</hi> of a deformed ſhape, without a head great goggle eyes, bloody hands growing out of both ſides of its devouring panch, under the belly hung a large bagge, and the feet are like the feet of a Beare; if you purpoſe to ſee it, you muſt make haſte; for it is now ready to adjourn to a new <hi>Plantation.</hi>
+            </p>
+            <closer>God ſave the King.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

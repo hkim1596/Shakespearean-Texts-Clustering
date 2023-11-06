@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The disease of the House: or, the state mountebanck: administring physick to a sick Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81546</idno>
+            <idno type="STC">Wing D1667</idno>
+            <idno type="STC">Thomason E571_12</idno>
+            <idno type="STC">ESTC R204633</idno>
+            <idno type="EEBO-CITATION">99864098</idno>
+            <idno type="PROQUEST">99864098</idno>
+            <idno type="VID">116317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116317)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The disease of the House: or, the state mountebanck: administring physick to a sick Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the health, of the Common-wealth,</publisher>
+                  <pubPlace>Nod-nol [i.e. London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A political satire in the form of a play.</note>
+                  <note>Annotation on Thomason copy: "Aug. 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Satire, English --  17th Century.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116317:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <head>THE Diſeaſe of the Houſe: <hi>Or, the</hi> STATE MOUNTEBANCK: Adminiſtring <hi>Phyſick</hi> To a Sick Parliament.</head>
+            <head type="sub">With the <hi>Merry Conceits</hi> of JOHN CAPON, his Antidotes Playſters and Salves to cure <hi>Rebellion.</hi>
+            </head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prologue">
+                        <head>His Prologue on the Stage.</head>
+                        <l>Come, come, Me have an <hi>Antidote</hi> can Cure</l>
+                        <l>Your <hi>Body;</hi> me mak't <hi>n<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>w head,</hi> ſet it on ſure</l>
+                        <l>One, two, dree, four, five <hi>Generation,</hi>
+                        </l>
+                        <l>This <hi>Paper</hi> here, help your ſick <hi>Nation.</hi>
+                        </l>
+                        <l>Pa, pa, Ne <hi>Purge</hi> ne more, begar tis ill—</l>
+                        <l>And to let <hi>Blood</hi> will de whole <hi>Body</hi> kill:</l>
+                        <l>Me have a <hi>precious Drugge</hi> in this ſame <hi>Box,</hi>
+                        </l>
+                        <l>Will Cure a <hi>Rebels Itch,</hi> and help de <hi>Pox,</hi>
+                        </l>
+                        <l>
+                           <hi>Conſumption</hi> of de <hi>State,</hi> and <hi>Common-weale,</hi>
+                        </l>
+                        <l>Back of mine hand, me can it preſant heal.</l>
+                        <l>If <hi>guilty Conſcience</hi> trouble you for <hi>blood,</hi>
+                        </l>
+                        <l>Take me dis <hi>Pill,</hi> begar 'tis very good:</l>
+                        <l>For <hi>Perjury,</hi> for <hi>Steal,</hi> for want of <hi>Grace,</hi>
+                        </l>
+                        <l>Me can you <hi>Cure</hi> in dis very place:</l>
+                        <l>Come <hi>Fairfax, N<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ll,</hi> come <hi>Bradſhaw</hi> and de reſt,</l>
+                        <l>Here is a <hi>Medicine,</hi> gives you preſant reſt;</l>
+                        <l>The <hi>price</hi> is ſmall; one <hi>penny,</hi> two, or dree,</l>
+                        <l>To <hi>Cure</hi> you all; and eaſe your <hi>Miſerie.</hi>
+                        </l>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <add>Aug. 21</add>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>NOD-NOL,</hi> Printed for the <hi>Health,</hi> Of the Common<hi>-wealth. 1649.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116317:2"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="3" facs="tcp:116317:2"/>
+            <!-- PDF PAGE 74 -->
+            <head>THE Diſeaſe of the Houſe: <hi>Or, the</hi> STATE MOUNTEBANCK: Admmiſtring <hi>Phyſick</hi> To a Sick Parliament.</head>
+            <head type="sub">With the <hi>Merry Conceits</hi> of JOHN CAPON, his Antidotes Playſters and Salves to cure <hi>Rebellion.</hi>
+            </head>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>ME f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el de <hi>Pulſe</hi> of de <hi>State,</hi> begar ſick, ſick, ſick; deſparate ſick; no <hi>Head</hi> at all; it ſwoons in mine hand; mafoy me have <hi>Antidote</hi> me apply to de <hi>Neck</hi> will cure preſant; this is a <hi>Grand diſtemper</hi> in the <hi>Brain;</hi> begar all mad mad, mad, all <hi>England</hi> be very Lunatick; you find your ſelf not well; you give your <hi>Money</hi> to Knave, Jack a nape, Committee, Rogue, Thief, Cheat you, Cozen you, Gull you, make you beleeve de <hi>Moon is green Ch<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſe;</hi> le Rogue, le Tray<g ref="char:EOLhyphen"/>tor, le Thief; Fy fy, fy! I <hi>Cure</hi> you for <hi>half-penny</hi> value; apply
+<pb n="4" facs="tcp:116317:3"/>
+                  <!-- PDF PAGE 75 -->mine <hi>Playſter</hi> to your <hi>Neck</hi> and heal you preſant: Where is my man <hi>Capon</hi> there, why <hi>Capon</hi> I ſay; bring hither the <hi>Receit</hi> for <hi>Rebels;</hi> begar me Caſt her <hi>Water,</hi> find every <hi>Member</hi> in her <hi>Bo<g ref="char:EOLhyphen"/>dy Diſeaſed,</hi> full of <hi>Malignant humour;</hi> be predominant in de <hi>Li<g ref="char:EOLhyphen"/>ver;</hi> make her <hi>fume</hi> and <hi>light-headed, inconſtant, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap>ing, and given to change, and m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tability.</hi> Fy, fy, fy; Why C<gap reason="illegible: bleedthrough" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, bring hither the <hi>Antidote.</hi>
+               </p>
+            </sp>
+            <stage>Enter <hi>Capon</hi> with a <hi>Halter.</hi>
+            </stage>
+            <sp>
+               <speaker>Capon.</speaker>
+               <p>Here Maſter, here's that Cures all <hi>Diſeaſes</hi> in the curning of a hand: there can be no better <hi>cure</hi> for Rebellion, Regicide, and a guilty Conſcience; I am ſure <hi>Iudas</hi> 
+                  <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as as holy a man as any <hi>Parliament-man</hi> of them all, and as <hi>thriving</hi> a man, and he made uſe of this <hi>Medicine;</hi> Nay, I'le beſworn upon a Book, I have known it Cure a hundred; Apply it but under your <hi>Eares,</hi> in a morning, or evening, you will with one <hi>ſnick-up</hi> find eaſe preſantly: I am a <hi>Doctor</hi> my ſelf, and have Traveled Eaſt, Weſt, North, South, in all Forraign parts for my <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xpe<g ref="char:EOLhyphen"/>rience, know the Nature of all Diſeaſes in all the Countries and Common-wealths in the World: This is <hi>Probati<gap reason="illegible: bleedthrough" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> eſt;</hi> 'tis a precious <hi>Drugge,</hi> good for any thing: 'twill Cure an <hi>Apoſtatiz<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Achitophel,</hi> and divers others have made ſpecial uſe thereof, and found <hi>eaſe</hi> preſently. Come away Cuſtomers, you know not the <hi>Vertue</hi> of this; it will Cure the <hi>rottenneſſe</hi> of your <hi>members;</hi> eaſe a <hi>guilty conſcience;</hi> or the <hi>aking</hi> of your <hi>hearts;</hi> the <hi>bloody-iſſue;</hi> the <hi>conſumption,</hi> and <hi>dizzineſſe</hi> in your <hi>heads;</hi> 'twill allay the <hi>heat</hi> of your <hi>inordinate affections,</hi> the <hi>luſt</hi> of your <hi>eyes,</hi> the <hi>evil diſpoſitions</hi> of your <hi>ſouls,</hi> the <hi>perfidiouſneſſe</hi> of your <hi>hearts,</hi> the <hi>cove<g ref="char:EOLhyphen"/>touſneſſe</hi> of your <hi>minds,</hi> and all <hi>ill quallities;</hi> this helps the <hi>tooth<g ref="char:EOLhyphen"/>ach,</hi> the lying of the <hi>tongue, equivocations, oathes,</hi> and <hi>perjuries,</hi> and all the properties of an <hi>evil infected</hi> and <hi>ſeared conſcience;</hi> this is a <hi>Medicine</hi> for a <hi>troubled mind,</hi> and helpeth <hi>rebellion, aches, hu<g ref="char:EOLhyphen"/>mours inflamations, botches, ſcabbs, plurifies,</hi> and the <hi>kings-evil;</hi> and all other <hi>infections</hi> of the <hi>State,</hi> or any <hi>member</hi> thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Mountebanuk.</speaker>
+               <p>Run my man <hi>Ian,</hi> fetch me de Viol Cure de <hi>head</hi> of Madam le Parlament; Diſeaſe be predominant; muſt
+<pb n="5" facs="tcp:116317:3"/>
+                  <!-- PDF PAGE 75 -->
+                  <hi>vomit</hi> up all; begar me will fetch up all preſant? de <hi>wombe</hi> con<g ref="char:EOLhyphen"/>tain all de malignant <hi>humour,</hi> devil and all; ſwell, ſwell, a pox all de Treaſon and Villany, begar ſhe ſhall diſgorge all: Foh, foh, foh; mafoy, ſhe ſtink all de World over: Run my man <hi>Ian,</hi> in the Shamber, bring de <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> de <hi>purge,</hi> de <hi>plaiſter,</hi> de <hi>in<g ref="char:EOLhyphen"/>ſtrument;</hi> begar me diſſect her, me open all her villany leaſt ſhe infect all de World with plague, peſtilence, war, famine, dearth, heavy judgment; Sin be de grand Cauſe, Hereſie, Ido<g ref="char:EOLhyphen"/>latry, Sacriledge, Covetouſneſſe, Perjury, Oppreſſion, Cruelty, Murder, be de reaſon to mine all de Land; hang up <hi>Cromwel,</hi> hang up <hi>Ireton,</hi> hang up <hi>Bradſhaw,</hi> hang up <hi>Cooke, Harriſon, &amp;c.</hi> Begar, all Rogue, all Shack-nape, Shark-dogge, be de father of her <hi>deſtruction,</hi> kill de King, rob de Shurch, wrong de People, Pill, Poll, Seſs, Exciſe; begar, be all their Trade, nothing but Rob, Steal, Theive: all Knave, all Knave, no honeſt, ne Religi<g ref="char:EOLhyphen"/>on, ne Juſtice, ne Truth, ne Love, ne Sharity, all be bad, bad, bad, baſe begar, very baſe; Me try one, two, three <hi>Potion</hi> for recover her <hi>health,</hi> me make her <hi>spur;</hi> begar, her ſpur nothing but <hi>blood;</hi> me give her a <hi>Purgs,</hi> begar, her ſhite <hi>yellow</hi> as <hi>Gold;</hi> Foh, foh, foh, me give her another <hi>ſtool,</hi> begar, her ſhite <hi>Silver;</hi> give her another <hi>Pill,</hi> ſquitter, ſquitter, ſquitter, <hi>free-quarter, ex<g ref="char:EOLhyphen"/>ciſe, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, ſeſſement,</hi> nothing but <hi>ſlavery:</hi> Me bid her ſpeak, begar her ſpeak nothing but de <hi>Lie equivocate, forſwear;</hi> ne ſaith, ne belief at all; me think her do as her ſay, begar, her do nothing but <hi>deceive;</hi> her tell me of <hi>Liberty,</hi> her mean <hi>Slavery, bondager cheat, theive, lie, deceive,</hi> fy, fy, fy! Me tell her that her be very ſick, bid her pray, her pray to de God of dis World, de Devil: begar, her have all the tricks of de baſe Whore, me ſquirt <hi>phy<g ref="char:EOLhyphen"/>ſic</hi> in her Breech, begar, ſhe let her tayſe flie in mine face; Me tell her what is good for her health to Cure her, her ſend de <hi>Purſuivant</hi> vvith Warrant ſeal with bees-turd, her ſend de File of Musketeer, lay me faſt by de heel in Newgate, me Petition, petition, petition, one, two, dree, four month, her ne hear, ne conſider, ne ſharity, baſe, baſe, baſe, nothing but <hi>lie;</hi> Mafoy <hi>vous <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Larron,</hi> grand Rebelle <hi>Anglatear,</hi> Traytor, Tyrant, Deif Diſſembler, Eypocrit, Shanging; ne peace, ne quiet, ne Reli<g ref="char:EOLhyphen"/>gion, ne Law; begar, not ſo much <hi>grace</hi> as will ſerve for <hi>prologu<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> to roaſted <hi>Turnip,</hi> be baggage-ſhade, biſh-whore, wit<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>, ſor<g ref="char:EOLhyphen"/>ceror,
+<pb n="6" facs="tcp:116317:4"/>
+                  <!-- PDF PAGE 76 -->
+                  <hi>I<gap reason="illegible: bleedthrough" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>zab<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l,</hi> ſta<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve de poor people, <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e made, <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tr<gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, worſe and worſe, and none; rich but <gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; begar, have all <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Goods, dy Goods, Kings Goods, Queens Goods, <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſe, Land, Shurch, all, all, all, be ſtill co<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etous more and more; Me can no live, come to mine houſe, take mine money, <gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke mine horſe vorde States vat <hi>State<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> a po<gap reason="illegible: bleedthrough" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of dat State; one, two, dree, vou<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rogues be de State, de <hi>Commons of England;</hi> begar, be Com<g ref="char:EOLhyphen"/>mon cheat, thief, pick-pocket; Why <hi>Ian Capon,</hi> where be de In<g ref="char:EOLhyphen"/>ſtrument? begar, me will rip up her <hi>bowel,</hi> ſhew you all her garbage of iniquity; do make God do wat ſhe liſt; do make <gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hak-fool of de Common; pretend one ding, do anoder<g ref="char:punc">▪</g> Why <hi>Ian Capon,</hi> Where is <hi>Ian Capon</hi> there?</p>
+               <stage>Enter <hi>John Capon</hi> with Inſtruments.</stage>
+               <p>Now <hi>Ian Capon,</hi> where have you been ſo long?</p>
+            </sp>
+            <sp>
+               <speaker>Capon.</speaker>
+               <p>O Maſter! I have been a hearing News; I met with them addeſt blade that ever you knew; I asked him, What News from <hi>Weſtminſter?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mountebanck.</speaker>
+               <p>Wat did he ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Capon.</speaker>
+               <p>Why a ſaid they were all Knaves; nay worſe, I dare not ſpeak the words I heard him ſay, for fear of <hi>Reaſon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mounteb.</speaker>
+               <p>
+                  <hi>Treaſon</hi> thou wouldſt ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Capon.</speaker>
+               <p>I ſay <hi>Reaſon</hi> Maſter; What is Reaſon with other then, is Treaſon with them; the 7 <hi>deadly ſins</hi> are become their <hi>Vertues</hi> and all the Ancient <hi>modern vertues,</hi> whether Moral or Divine, are become their <hi>vices;</hi> the Divil's turn'd looſe, and all is topſie-turvy; there be them now, that can preach, cry, and turn up their eyes with ſuch pretended Devotion and Sanctity, that the very Elect themſelves ſtagger in their judgments; they make no more with diſſembling with God himſelf, lying, cozen<g ref="char:EOLhyphen"/>ing, and cheating one another, then I do to ſell <hi>Antiables,</hi> 'tis but a folly to ſeek to cure her; for there is no hopes, God hath given her over, the <hi>prince</hi> of the Aire rules her, and reaches her all Evill, Rebellion, Murder, Robbery, and the like; hell's broke looſe with her; nay, the Devil is ſo powerful in her, that he intends to deſtroy Monarchy all Chriſtendom over, and pre<g ref="char:EOLhyphen"/>tend <hi>Liberty; liberty</hi> to bring filly ones into <hi>bondage</hi> and <hi>slavery,</hi> and tye, and bind them faſt unto them with the Chains of their own Sins, that ſo they may bring in Confuſion, till all becomes
+<pb n="7" facs="tcp:116317:4"/>
+                  <!-- PDF PAGE 76 -->a Chaos, and fire <gap reason="illegible: bleedthrough" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s own Frame, or Neſt, as it has formerly deſtroyed others; and then they will run to the hills, and wiſh them to fall on them, to hide them from vengeance, but all in vain: <hi>Bradſhaw</hi> then will be deceived; <hi>Cromwel</hi> at a loſs; <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> rue his former ſimplicity; and <hi>Cook</hi> roaſt himſelf without any CHARGE of the <hi>Commons</hi> of England: Can your <hi>Wills</hi> be Laws then? what <hi>prerogative?</hi> what <hi>power?</hi> what <hi>common<g ref="char:EOLhyphen"/>right, liberty,</hi> or <hi>juſtice</hi> can be expected then? what peace of the people, when they have turned all the Land into a conſuming malignant flame about their own eares; Now <hi>Iack Cook,</hi> what ſaieſt thou to this? this may be thought a Fable; <hi>Bradſhaw,</hi> this will one day make a greater noiſe then thy Drum in <hi>Grayes-Inn</hi> to waken your ſeared Conſcience; then <hi>Cromwel,</hi> how ſoon will thy <hi>Noſe</hi> be conſumed, when the fire is in't already? and how juſt will it be, that it ſhould burn thee downwards, as far as thy rotten diſſembling heart; when thou haſt unheaded thy King, and deſtroyed that Scepter held in the hand of God: pri<g ref="char:EOLhyphen"/>thee, who ſhall anſwer for all the Treaſons, Murders, Rapines, Burnings, Spoyles, Deſolations, Dammage and miſchief of this Nation then? CHARLS STUART, or <hi>Noll Crumwell</hi> and his Agents; the <hi>Evill Counſellors,</hi> or the <hi>treacherous Eſtates?</hi> Who muſt anſwer for all and every the <hi>Premiſes</hi> then? there needs none to cry <hi>juſtice, juſtice,</hi> there; no falſe Witneſſes need to be hired; no proceedings, examinations; all will be laid as open as the Sun; and you muſt expect (without your ſudden and true Repentance) no better Judgement, nor Sentence, but <hi>Go ye cur<g ref="char:EOLhyphen"/>ſed Hypocrites into everlaſting Flames, prepared for the</hi> firſt Rebel, <hi>and all his Angels.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mountebanck.</speaker>
+               <p>
+                  <hi>Ian Capon</hi> my man, make no more Sermons, but truſs up de <hi>Antidotes;</hi> begar, me have no <hi>Cure,</hi> de Diſeaſe be deſperate, wicked, abominable; Me go to <hi>France</hi> agaen; for<g ref="char:EOLhyphen"/>warn mine own Countree; this be dying Nation, loſt, loſt, be<g ref="char:EOLhyphen"/>gar utterly loſt, lie in a deep <hi>Lethargy,</hi> be uncapable of her own good or recovery: Farewel, farewel, me have no more to do here: Truſs up <hi>Ian Capon,</hi> truſs up de Inſtrument, de Playſter, preſant.</p>
+            </sp>
+            <sp>
+               <speaker>Capon.</speaker>
+               <p>As ſoon as you will Maſter, for methinks I ſmell fire and brimſtone already, lets away for heavens ſake; From the <hi>Devil</hi> and the <hi>Round-head,</hi> Good Lord deliver us.</p>
+            </sp>
+            <pb n="6" facs="tcp:116317:5"/>
+            <!-- PDF PAGE 77 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:116317:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 77 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <sp>
+               <pb n="8" facs="tcp:116317:6"/>
+               <!-- PDF PAGE 78 -->
+               <speaker>Mountebank.</speaker>
+               <p>Aloon; aloon; a pox de Devil is here, me po longer ſtay, me take no Money here to day.</p>
+            </sp>
+            <stage>Iohn Capons <hi>EPILOGUE,</hi> and laſt Farewell to the perfidious<hi>JUNCTO.</hi>
+            </stage>
+            <sp>
+               <speaker>Capon.</speaker>
+               <lg>
+                  <l>FArewel dull Commons, for evermore farewel,</l>
+                  <l>I cannot ſtay; <hi>theſe</hi> have made <hi>England hell:</hi>
+                  </l>
+                  <l>I am in torments, whilſt I here do ſtay</l>
+                  <l>'Mongſt thoſe whoſe luſt doth bear the greateſt ſway.</l>
+               </lg>
+               <lg>
+                  <l>May pox and plague, and <hi>Egypts Furyes</hi> ceaſe</l>
+                  <l>On all their bodies, and ſome worſe diſeaſe</l>
+                  <l>Hunt their red Souls, and their high pride fling down,</l>
+                  <l>That murder'd <hi>Charles,</hi> and trampl'd on his <hi>Crown,</hi>
+                  </l>
+                  <l>May agues, aches, gowts, and burning-ſeavers</l>
+                  <l>Conſume their <hi>members,</hi> and do their endeavours</l>
+                  <l>To rot their <hi>fleſh,</hi> till blaynes and ſores grow in't,</l>
+                  <l>That they may ſpend all their wives Smocks in <hi>lint;</hi>
+                  </l>
+                  <l>Let no Phyſition, or learned Doctor ſpend</l>
+                  <l>A Pill, but what may ſend them to their end:</l>
+                  <l>May all their <hi>Acts</hi> (like Almanacks out of date)</l>
+                  <l>Find no ſooner Birth, but ſudden Fate;</l>
+                  <l>Furniſh the <hi>Privies,</hi> or <hi>Tobacco</hi> light,</l>
+                  <l>To ſave the peoples fingers when they S—</l>
+                  <l>Serving for <hi>Plaiſters</hi> to lay o're their ſores;</l>
+                  <l>Eate through their <hi>fleſh,</hi> and glue up all their <hi>pores:</hi>
+                  </l>
+                  <l>Some <hi>new diſeaſe,</hi> that breeds good ſtore of <hi>Lice;</hi>
+                  </l>
+                  <l>Devour their <hi>bodies;</hi> may their <hi>bones</hi> make <hi>Dice,</hi>
+                  </l>
+                  <l>For their own Children, to <hi>Game</hi> away their M<gap reason="illegible: bleedthrough" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>And the Re-mainder let them ſpend on Queans<g ref="char:punc">▪</g>
+                  </l>
+                  <l>And when they begge their <hi>bread</hi> from door to door.</l>
+                  <l>Meet with that <hi>Charity,</hi> themſelves have to the poor:</l>
+                  <l>And when they <hi>die,</hi> 'cauſe they were never true,</l>
+                  <l>Pray God forſake them; Devil claim thy due.</l>
+               </lg>
+            </sp>
+            <signed>Your Friend and Serv<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, <hi>John Capon,</hi> Doctor of Phyſick.</signed>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

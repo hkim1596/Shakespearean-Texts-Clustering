@@ -1,0 +1,659 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new bull-bayting: or, A match play'd at the tovvn-bull of Ely. By twelve mungrills. Viz. 4 English 4 Irish 4 Scotch doggs. Iohn Lilburn, Richard Overton, Thomas Prince, and William Walwyn, to stave and nose. With his last will and testament, and several legacies bequeathed to the Iuncto, the Councel of State, and army. Too him my dogge; ha-loe there; now hee's down: bayted to death, and forfeit to the Crown.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90241</idno>
+            <idno type="STC">Wing O630B</idno>
+            <idno type="STC">Thomason E568_6</idno>
+            <idno type="STC">ESTC R34538</idno>
+            <idno type="EEBO-CITATION">99872380</idno>
+            <idno type="PROQUEST">99872380</idno>
+            <idno type="VID">124813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124813)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E568[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new bull-bayting: or, A match play'd at the tovvn-bull of Ely. By twelve mungrills. Viz. 4 English 4 Irish 4 Scotch doggs. Iohn Lilburn, Richard Overton, Thomas Prince, and William Walwyn, to stave and nose. With his last will and testament, and several legacies bequeathed to the Iuncto, the Councel of State, and army. Too him my dogge; ha-loe there; now hee's down: bayted to death, and forfeit to the Crown.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the sign of the [Bull] by the hill on the whim-wham side of the Beare-Garden, for the good of the State,</publisher>
+                  <pubPlace>Nod-nol [i.e. London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Overton.</note>
+                  <note>The word "Bull" in imprint is represented by the astrological symbol for Taurus.</note>
+                  <note>Annotation on Thomason copy: "Aug: 7".</note>
+                  <note>Identified as Wing N587 on UMI microfilm set "Early English Books, 1641-1700".</note>
+                  <note>Reproductions of the originals in the British Library and the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Drama.</term>
+               <term>Lilburne, John, 1614?-1657 --  Drama --  Early works to 1800.</term>
+               <term>Overton, Richard, fl. 1646 --  Drama --  Early works to 1800.</term>
+               <term>Prince, Thomas --  Drama --  Early works to 1800.</term>
+               <term>Walwyn, William, 1600-1681 --  Drama --  Early works to 1800.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124813:1" rendition="simple:additions"/>
+            <p>A New Bull-Bayting: OR, A Match Play'd at the TOWN-BULL OF ELY. BY TWELVE MUNGRILLS. <hi>VIZ.</hi> 4 ENGLISH 4 IRISH 4 SCOTCH <hi>DOGGS.</hi> Iohn Lilburn, Richard Overton, Thomas Prince, and William Walwyn, to <hi>Stave</hi> and <hi>Noſe.</hi> With his laſt <hi>Will</hi> and <hi>Testament,</hi> and ſeveral <hi>Legacies</hi> bequeath<g ref="char:EOLhyphen"/>ed to the <hi>Iuncto,</hi> the <hi>Councel of State,</hi> and <hi>Army.</hi>
+            </p>
+            <l>Too him my Dogge; ha—loo there; now hee's down:</l>
+            <l>Bayted to death, and forfeit to the <hi>Crown.</hi>
+            </l>
+            <p>NOD-NOL. Printed at the ſign of the ♉ by the
+<hi>Hill</hi> on the whim-wham ſide of the <hi>Beare-Garden,</hi> for the good of the State. 1649.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:124813:2"/>
+            <head>The Actors Names.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Engliſh</cell>
+                     <cell>
+                        <hi>Waller</hi> and
+<hi>Brown.</hi>
+                     </cell>
+                     <cell>with 4 Maſtiffs;</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Prynne,</hi>
+                           </item>
+                           <item>
+                              <hi>Burges,</hi>
+                           </item>
+                           <item>
+                              <hi>Love,</hi> and</item>
+                           <item>
+                              <hi>Poynze.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Scotch</cell>
+                     <cell>
+                        <hi>Londen</hi> and
+<hi>Leiſly.</hi>
+                     </cell>
+                     <cell>with 4 Maſtiffs;</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Sybalds,</hi>
+                           </item>
+                           <item>
+                              <hi>Helderſham,</hi>
+                           </item>
+                           <item>
+                              <hi>Fleming,</hi> and</item>
+                           <item>
+                              <hi>Archy.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Iriſh</cell>
+                     <cell>
+                        <hi>Ormond</hi> and
+<hi>Inchiquin.</hi>
+                     </cell>
+                     <cell>with 4 Maſtiffs;</cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Owen Roe,</hi>
+                           </item>
+                           <item>Yong <hi>Coot,</hi>
+                           </item>
+                           <item>
+                              <hi>Mack-O-Neal,</hi>
+                           </item>
+                           <item>And <hi>Towzer,</hi> The Man in the <hi>Moons Dogge.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Overton, Lilburn, Prince,</hi> and <hi>Walwyn, Bear-wards.</hi>
+            </p>
+            <p>Theſe to be Courſed Three ſeveral times, fairly at the
+<hi>Noſe</hi> of <hi>NOL,</hi> the Town <hi>BULL;</hi> for 3
+<hi>Crowns.</hi>
+            </p>
+         </div>
+         <div type="notice">
+            <p>It is deſired that all Gentlemen, Citizens and others that ſhall come to ſee this <hi>Bull-bayting,</hi> come n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t within the compaſſe of his <hi>Roape</hi> for fear of a <hi>miſchief,</hi> for this <hi>Beaſt</hi> is ſo <hi>bloody</hi> and
+<hi>dangerous;</hi> that he hath with his <hi>powrfull hornes</hi> goared divers to death; therefore if they preſume to come within his Reach, (and have a faire warning before hand;) the <hi>Bear-wards</hi> are blameleſs.</p>
+            <trailer>Vivat Rex.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:124813:2"/>
+            <head>A New Bull-Baiting: OR, A Match Play'd at the TOWN-BULL OF ELY.</head>
+            <stage>Enter <hi>Noll,</hi> drawn to the <hi>Stake</hi> by the four
+<hi>Bear-wards;</hi> his Horns all bloudy, and a Garland on his Head; with Carnati<g ref="char:EOLhyphen"/>on, Scarlet, and other Changable Colours.</stage>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>COme along <hi>Taurus;</hi> Now you ſhall anſwer for all your <hi>Villanies:</hi> Be ſure to <hi>tye</hi> him faſt, that he get not
+<hi>looſe;</hi> for 'tis a dangerous Beaſt that has goar'd to death the beſt men in <hi>England;</hi> nay, in the world. Which Dog has the firſt Courſe?</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:124813:3"/>
+               <speaker>Overton.</speaker>
+               <p>The <hi>Man in the Moon's Dogge,</hi> they ſay he is
+<hi>Old,</hi> and bites ſore.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>Set him on fair, and let him do his beſt; Ha—looe, ha—looe <hi>Towzer;</hi> he has him by the <hi>Noſe</hi> already: Hold thy hold <hi>Towzer,</hi> hold thy hold <hi>Towzer;</hi> O brave
+<hi>Towzer,</hi> uds<g ref="char:EOLhyphen"/>futt, he makes him <hi>Roare,</hi> and <hi>Shite,</hi> as if the Devil were in him: So, ſo, enough; ſtave him off, ſtave him off, we ſhall looſe our <hi>Bull</hi> elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Walwyn.</speaker>
+               <p>Let him alone Brethren; <hi>Towzer</hi> does bravely; he holds his hold for a <hi>Crown;</hi> lugge him ſoundly: he has him down of his knees as if he were begging for his life; O brave <hi>Towzer!</hi> he ſhall have a <hi>Sea-green Ribband</hi> in his eare, and turn <hi>Levelier:</hi> if
+<hi>Lockier</hi> had had but half the Mettel in him, he had been a living man to this day: he holds him ſtill, as if he would make him anſwer for all his
+<hi>Murders,</hi> his <hi>Roberies,</hi> and <hi>Perju<g ref="char:EOLhyphen"/>ries;</hi> how he
+<hi>pawes</hi> and <hi>dungs,</hi> as if he would diſ-gorge himſelfe of all his Vilanies; and driviling at the mouth, as if he were <hi>watering</hi> all his Equivocations, Oathes, and Perjuries, through the Arches of his pocky NOSE, with his owne ſnot, and ſnivel.</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>No matter; mad him throughly: here's a <hi>Nettle</hi> to put under his tayle; perhaps it will make him void Gold, for he hath devoured a whole <hi>Myne</hi> within this 7 yeers, and yet is now in as much want as ever he was; ſtill hungery, though he has fed on the fleſh of King and Nobles, and drunk their <hi>bloud;</hi> has devoured a Crown, a Kingdom, a People, whole Chur<g ref="char:EOLhyphen"/>ches, Chanſels, Steeples at a <hi>morſel;</hi> and now would have us pay him <hi>Tythes,</hi> in ſtead of the <hi>Prieſts;</hi> a pox on him, he is tangl'd in his <hi>own roape;</hi> 'tis no matter, we muſt have an end of him, better here then at a worſe place.</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>Let him have <hi>roape enough,</hi> and hee'l hang himſelf, and ſave the Kingdom a <hi>labour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>It had been good he had gone to the Butchers ſo ſoon as he had been <hi>Calv'd,</hi> for he has ſo <hi>Bull'd</hi> poor
+<hi>England,</hi> that ſhe lies <hi>calving</hi> and <hi>labouring</hi> in moſt bitter <hi>panges</hi> of <hi>Calami<g ref="char:EOLhyphen"/>ty</hi> and <hi>Poverty,</hi> whilſt he Junkets, Feaſts, and Kings it in his Char<g ref="char:EOLhyphen"/>riot with ſix
+<hi>Flanders Mares,</hi> and ruffl's in Suits of 500 pounds a piece; ſhe languiſhes and mourns in Sack-cloth, and yet I ſee<pb n="5" facs="tcp:124813:3"/>no hopes of her recovery; her <hi>people</hi> denied their juſt and rea<g ref="char:EOLhyphen"/>ſonable <hi>Petitions;</hi> their <hi>Agreement</hi> ſlighted by a bloudy <hi>Iuncto;</hi> and a Tyranical Councel of Eſtate erected, more unjuſt then e<g ref="char:EOLhyphen"/>ver was the <hi>Star-chamber; High-commiſſion,</hi> or
+<hi>Spaniſh Inquiſition;</hi> that knows to do no <hi>right,</hi> nor will take no <hi>wrong;</hi> theſe are all <hi>Calves</hi> of this Town-Bulls begettting; that by uſurping <hi>ſway</hi> to themſelves, do what their luſt prompts them to, though never ſo much againſt <hi>Sence</hi> and
+<hi>Reaſon:</hi> Now Stave off <hi>Towzer,</hi> he hath done well for one
+<hi>courſe;</hi> I never ſaw a Dogge do better: he has brought away a piece of his <hi>Noſe; w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll done Towzer;</hi> Spit in his mouth, and ſtroak him on the back.</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>What are thoſe that creep with ſuch <hi>black heads</hi> in his bloud?</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>An Army of <hi>Maggots,</hi> that took a pocky delight to live in the warmth of his <hi>Snowt;</hi> and when he breath'd out his Hypocriſies and Blaſphemies, then theſe <hi>Cattel</hi> went to dinner; Foh, what a breath he has? 'twill infect the whole Kingdome with plagues, and his
+<hi>Noſe</hi> ſet fire to it, till it becomes more miſerable then
+<hi>Sodome</hi> and <hi>Gomorah: Cain</hi> was the firſt Gentle<g ref="char:EOLhyphen"/>man of his Family; <hi>Iudas</hi> was the ſecond that bore Arms <hi>(three Elder-trees, and a Halter;) Corah, Dathan,</hi> and <hi>Abiram,</hi> his Uncles by the Mothers ſide; <hi>Achan</hi> his God-father; <hi>Abſalom</hi> his School-maſter; the two wicked <hi>Elders</hi> his Tutors; <hi>Machia<g ref="char:EOLhyphen"/>vel</hi> his Counſellor; <hi>Faux</hi> and <hi>Fairfaux</hi> his Companions in evil: He was begotten by the <hi>Spirit</hi> in a Brewers <hi>Stoke-hole;</hi> Concei<g ref="char:EOLhyphen"/>ved by a <hi>Witch;</hi> brought forth about the time the
+<hi>Globe:</hi> was a <hi>fire,</hi> got the <hi>ſulphire</hi> into his
+<hi>Noſe</hi> by his inordinate devouring his fathers <hi>new Wort,</hi> coming to <hi>London,</hi> got the <hi>Naples ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>bb,</hi> and the <hi>looſeneſs</hi> of his joynts; having got his Fathers Maide with Child, he was forced to Marry her, which made him bear a deadly hate againſt the <hi>high Commiſſion:</hi> he had left him by his Father ſome 12 Acres of Fee Simple, which formerly belonging to the Crown, made him caſt about how he might murder his King; he brewed
+<hi>Smal-beer</hi> in the Iſle of <hi>Ely,</hi> till he had ſix Wenches with Child at one time; from whom he run, becauſe he would break and cozen the <hi>Malt-men<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> who curſe him to this day, becauſe by his perfidious dealings, he ſo broke them, that they were never able to trade in <hi>Malt</hi> to this very day:
+<pb n="6" facs="tcp:124813:4"/>His firſt begotten he put out to live with an
+<hi>Vſurer</hi> in <hi>Fetter-laue;</hi> who keeping him <hi>hungry,</hi> made him caſt about, how he might <hi>poyſon</hi> his Maſter to rob him of his <hi>Money;</hi> which he happily ef<g ref="char:EOLhyphen"/>fected, and eaſed the Kingdom of two plagues, an <hi>Vſurer,</hi> and a <hi>Thief:</hi> before his Execution he conveyed his Father a conſider<g ref="char:EOLhyphen"/>able Sum of his Maſters <hi>Money,</hi> which he imployed ſo warily, that he became <hi>rich,</hi> and was at laſt choſen for a Parliament<g ref="char:EOLhyphen"/>man, in hopes he would have been warn'd by his Sonne to be more honeſt: no ſooner was he in the Houſe of <hi>Commons,</hi> but he was <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ike <hi>Belzebubb</hi> amongſt the inferior <hi>Devils,</hi> and ſent out his <hi>Agents</hi> and
+<hi>spies</hi> to work <hi>miſchief;</hi> he firſt got the Earl of
+<hi>Eſſex</hi> to be poyſoned, and wone <hi>Fairfax</hi> to be <hi>Head of his Facti<g ref="char:EOLhyphen"/>on,</hi> till he had brought his <hi>Plots</hi> to perfection; he hath taken the Oath of his Allegiance, Supremacy, the Solemn League and Co<g ref="char:EOLhyphen"/>venant; look'd up to Heaven, call'd God to behold his Hypo<g ref="char:EOLhyphen"/>criſie, and the Angels to witneſs his perjury; he hath broken all Oaths himſelf, and cauſed others to do the like; he cauſed the King to be ſeized on at
+<hi>Holmby,</hi> where he made Proteſtations, <hi>That what he did, was for the good of the King and Country; and that he would bring him to Weſtminſter, and Eſtabliſh him in his Throne in Peace:</hi> At
+<hi>Hampton-Court</hi> by his Jeſuitical policy, he juggled his Majeſty into the <hi>Iſle of Wight,</hi> where he hired <hi>Rolf</hi> to Murder him; which being diſcovered, and finding his <hi>Plot</hi> like to faile, and a
+<hi>Treaty</hi> to take effect with his Majeſty at <hi>London,</hi> and ſo his Majeſty like to come into other mens power; made him ſet all his Enginers of miſchief a <hi>working;</hi> took Counſel of <hi>lack Brad<g ref="char:EOLhyphen"/>ſhaw,</hi> as arrant a Villain as himſelf: one that when he was a boy, run from his Father, and followed a Pedlar to ſell Laces and Points, where he learnt to <hi>Can't,</hi> creep in at windows, and rob Hen-rooſts; returning home full fraught with Villany; his fa<g ref="char:EOLhyphen"/>ther kept him at School, and with a little Scholar-ſhip and ro<g ref="char:EOLhyphen"/>guery together, thought him a fit inſtrument to make a knaviſh Lawyer; and ſent him up to <hi>Grayes-Inne,</hi> where he frequented on Sundayes <hi>Hollands Leaguer,</hi> and in the week dayes
+<hi>Blooms<g ref="char:EOLhyphen"/>bury;</hi> would Drum with his fiſts till he Carrowſed healths on his knees to him he afterwards murdered; biting in too every Claſs, and flinging it to the Wals; would familiarly let out his Blood to write <hi>Love Letters</hi> to his Whores; his great Grand-Father <pb n="7" facs="tcp:124813:4"/> lay with his own <hi>Daughter,</hi> committed Inceſt, got her with Child, and then with advice of his Wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, poyſoned her, and was himſelf hang'd in Chains on a Heath in <hi>Cheſhire,</hi> and his Wiſe executed for conſenting to the murder: this precious Counſellor was hired and bribed by the Bull of <hi>Ely,</hi> and brought in to aſſiſt them in the Confederacy, <hi>Dorrislaw, Aske,</hi> and
+<hi>Cook,</hi> who were all ſworn to ſecrecy: A Letter is directed from
+<hi>Crom<g ref="char:EOLhyphen"/>wel</hi> to the <hi>General,</hi> and another to the <hi>Iuncto</hi> for <hi>Iuſtice</hi> on ſome <hi>Capital Offenders;</hi> whereof the King muſt be one; a party ſent to ſeize on him; fruſtrate the
+<hi>Treaty;</hi> and commit his Majeſty cloſe Priſoner to
+<hi>Hurſt</hi> Caſtle; the Army muſt advance to <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> ſeized on thirty Members of <hi>Parliament</hi> at one time, and Secluded a hundred more; ſet a Guard upon the <hi>Juncto;</hi> put in, and thruſt out whom he liſt; forced them to ſit, vote, make Laws, and give Judgement on whom he liſt; called a Court of <hi>Mock-juſtice</hi> by his own Authority, againſt the peoples will, or advice: and hired knaves to cry <hi>Iuſtice, juſtice;</hi> directly againſt the Law of God, and his own former Oathes and Proteſtations, took off the Kings head, aboliſhed Monarchy, erected a Popu<g ref="char:EOLhyphen"/>lar Government of himſelf, his hired Servants, and combined Creatures; beſides the infringment of the <hi>Fundamental Law,</hi> of the Kingdom, the juſt Rights of the <hi>Crown,</hi> and <hi>Liberty</hi> and
+<hi>Pro<g ref="char:EOLhyphen"/>priety</hi> of the <hi>Subjects;</hi> broken ſeveral <hi>Orders, Ordinances, Prote<g ref="char:EOLhyphen"/>ſtations, Covenants, and Oathes</hi> which he fi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt thruſt upon the pro<g ref="char:EOLhyphen"/>ple, and forced them to take; yet afterwards, (as his Deſignes ripened) not only brook them himſelf, but compell'd, hired, and corrupted other knaves and Traytors to do the like: and this he hath done in diſpight of Goſpel or Law, firſt commanding or cauſing that to be done, directly forbidden, and not to do that was injoyned and commanded therein; and ſo having uſurped <hi>Gods Authority,</hi> as well as the <hi>Kings,</hi> hath eſtabliſht a Monſtrous <hi>Government,</hi> without <hi>head</hi> or <hi>tayle; rule</hi> or <hi>Preſident; law</hi> or <hi>Reaſon;</hi> and commanded all
+<hi>People</hi> under pain of <hi>high treaſon,</hi> to acknowledge juſt, and be ſubject unto it; aboliſh the King<g ref="char:EOLhyphen"/>ly Office and proclaimed the undoubted Heir to the Crown, (with the Duke of <hi>York</hi> his Brother) Traytors.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>This you have ſaid Mr. <hi>Overton</hi> is true; but your ſelf at firſt held with his <hi>Wayes,</hi> and ſtiled him <hi>Faithful Cromwel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:124813:5"/>
+               <speaker>Overton.</speaker>
+               <p>I profeſs I did; but he has (by ſwerving from his firſt principles) deceived me, and thouſands more; and there<g ref="char:EOLhyphen"/>fore Ile have one
+<hi>courſe</hi> more at him hit or miſs; A Dogge, a Dogge, a Dogge; a Kingdom for a good Dogge: Hy—day! Whoſe <hi>Crop-ear'd</hi> Curr is this? O he was bred up at <hi>Lincolns-Inne;</hi> I know him of old; they ſay his teeth be <hi>poyſon</hi> by rea<g ref="char:EOLhyphen"/>ſon of an <hi>Asp,</hi> that lies under his tongue.</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>No matter, ſo much the better; let him ſlip, Ha—looe—<hi>Crap;</hi> A pox take him for a Curre, he has him by the <hi>Genitals;</hi> they'l burn his <hi>mouth;</hi> pull him off by the
+<hi>tayle,</hi> and ſet him on fair; Ha—looe—<hi>Crap</hi> for a ſecond <hi>Courſe,</hi> for thy Maſter <hi>Iack Presbyters</hi> credit: Alas poor <hi>Crap;</hi> he has him on his <hi>horns;</hi> Save him for pitty: Foh, how he ſtinks! Oh, he has beſhitt my fingers; give me ſome of his
+<hi>Waſte Paper</hi> to wipe them; the <hi>Popiſh Royal Favourite</hi> will do the deed: Hang him, this is a Cur, and looks like one of <hi>En<g ref="char:EOLhyphen"/>vies</hi> whelps; tis pitty to ſave him; pull off his Coller, and ſet him going.</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>Let him gore his gutts out; hang him for a Cur; he is not worth the ſaving.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>O ſave him for Mercies ſake; Pray Col. <hi>Lilburn</hi> ſtave him off for old <hi>acquaintance ſake,</hi> he hath had puniſhment e<g ref="char:EOLhyphen"/>nough by looſing his Eares, and being marked for a <hi>Cur.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>For your ſake Ile take him off.</p>
+            </sp>
+            <sp>
+               <speaker>Walwyn.</speaker>
+               <p>Try another; this <hi>Crap</hi> is a Dogge that will bite the
+<hi>hand</hi> that ſeeds him; give him two or three kicks and ſend him going.</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>Here's another grizly Cur of the ſame <hi>breed;</hi> Set him on: This Dogge was ty'de up in the Pulpit in <hi>Pauls</hi> when the Army came in; he looks as if he were got between a Dog-Fox, and a Spannel Bitch; a
+<hi>Laodicean</hi> whelp, neither hote, norcold; he looks as if he were going rather to hanging, then to a Match; ſure he hath loſt his 400l. <hi>per annum:</hi> draw him <hi>forward;</hi> Come along <hi>Good-Cole;</hi> how he ſawns, as if he would ſuck Eggs; this <hi>Tyke,</hi> when he perceives you
+<hi>going,</hi> will run at you as fierce as if he would eate you: but ſtand but ſtill, and he Retires back; run from him, and he will follow you, barking, bawling, and ſnarling, and perchance give you a bite behinde.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:124813:5"/>
+               <speaker>Lilburn.</speaker>
+               <p>On with him, let him be what he will; he <hi>bawles</hi> as if he were wondrous eager.</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>Hang him, hee'l ſnarle againſt the <hi>Moon,</hi> yet keep
+<hi>his bone;</hi> they ſay <hi>he</hi> will run at <hi>Sheep:</hi> lets preſerve <hi>him</hi> from <hi>hanging,</hi> becauſe <hi>he</hi> will give warning; <hi>he</hi> firſt bawld at the <hi>Bi<g ref="char:EOLhyphen"/>ſhops,</hi> to ſet us on.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>I, that was becauſe <hi>they</hi> had <hi>him</hi> up in the
+<hi>bawdy-Court,</hi> and put <hi>him</hi> to <hi>his Compurgators.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Walwyn.</speaker>
+               <p>
+                  <hi>He</hi> dares not ſo much as touch the <hi>Bulls-tayle; hee</hi>'s good for nothing; give <hi>him</hi> a cruſt, and let <hi>him</hi> ſeek a Maſter; you know not but a mangy Curre may in the end prove a good
+<hi>Dogge.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>Lets ſet on another, this is a <hi>lovely Dogge</hi> with a thin pair of <hi>Chaps;</hi> another of Sir <hi>Iohn Presbyters</hi> breed, better to <hi>hang</hi> then to <hi>keep;</hi> how <hi>he</hi> drivels out
+<hi>Nonſcence</hi> and <hi>Tautoligies;</hi> ſure <hi>he</hi> has waſted his <hi>Lungs</hi> in conſuting a <hi>May-pole,</hi> and entered in<g ref="char:EOLhyphen"/>to a
+<hi>dispute</hi> with the <hi>Maid-marrian</hi> in a <hi>Morrice-dance,</hi> about the unlawfulneſs of that <hi>innocent</hi> paſtime; till the
+<hi>Hobby-horſe</hi> confuted <hi>him</hi> with his <hi>tayle,</hi> and retorted <hi>his rebuke</hi> with his <hi>heels.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Walwyn.</speaker>
+               <p>Stroke <hi>him</hi> and <hi>LOVE him;</hi> methinks 'twould make a pretty <hi>foyſting-hound</hi> for an <hi>Aldenmans daughter; he</hi> can turn af<g ref="char:EOLhyphen"/>ter <hi>his tayle;</hi> take a <hi>Tythe-pigge</hi> by the <hi>eare, fawn</hi> on any body, and <hi>bark</hi> when <hi>his</hi> Maſters bids
+<hi>him;</hi> ſtand up on <hi>his</hi> hind-leggs, or do any thing Sir
+<hi>Iohn Presbyter</hi> will have <hi>him; he</hi> was once in
+<hi>requeſt</hi> with the <hi>Iuncto,</hi> though now <hi>he</hi> be out of ſervice.</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>Do they not <hi>feed him; he</hi> muſt do tricks or ſomething for it; do ye think they'l keep a Dogge and <hi>bark</hi> themſelves? or <hi>maintain</hi> a Dogge that will <hi>bark</hi> againſt themſelves? that were the way to make the People miſtruſt them for
+<hi>Thieves: he</hi> was counted a good <hi>houſe.</hi> Dogge when
+<hi>he</hi> came from <hi>Vxbridge,</hi> but now <hi>he fawns</hi> not ſo much as formerly, that makes <hi>him</hi> out of <hi>requeſt,</hi> and miſs of their <hi>LOVE.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>Try another; if <hi>they</hi> all prove ſuch Curs, no matter if <hi>they</hi> were all <hi>hangd; they</hi> are fitter for a
+<hi>Wood-yard,</hi> then a <hi>Bear-Garden:</hi> Set on <hi>Poynze,</hi> and ſee what <hi>he</hi> will do.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>He has ſlipt <hi>his</hi> Coller, and run away we know not whether.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:124813:6"/>
+               <speaker>Overton.</speaker>
+               <p>Bring a Northren <hi>Trundle-tayle;</hi> Are they of the ſame mettle?</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>All Curs, all Curs; try them on, and if a Dogge faſtens, Ile eate him whole; they'l <hi>bark</hi> and <hi>bawle</hi> as the other, but will be hang'd before they'l <hi>faſten.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>I have heard that your <hi>Engliſh</hi> Maſtiffs have been the beſt mettle in the World, and would beat all Countries.</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>They are ſo good mettle, that if it were poſſible, they would pull God out of heaven, and murder him as they have worried and killed their King, and moſt of the true hearted No<g ref="char:EOLhyphen"/>bility of the Land; they make no more to pull out the throats of their own <hi>Dammes,</hi> or worry their own
+<hi>Litter,</hi> then the <hi>Man in the Moon's</hi> Dogge does to ſnap a
+<hi>Rebel</hi> by the ſhins, or to lap Milk when he is a hungry; they can find none elſe to ſight with that can maſter them, and that makes them to kill and devour one another.</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>Theſe Curs are not of the <hi>right breed</hi> then.</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>No, hang them, theſe are but <hi>Mungerills</hi> that
+<hi>bawle</hi> to ſet on the reſt to ſight, and that's all they can do;
+<hi>bark</hi> for the <hi>Cauſe;</hi> the bleſſed <hi>work</hi> of
+<hi>Reformation;</hi> the godly Army, the ſelf-denying Army; the holy Army; and pronounce <hi>Damnati<g ref="char:EOLhyphen"/>on</hi> on them that did not come out, and fight for the <hi>Cauſe</hi> of the <hi>Lawrd,</hi> though it was but to <hi>kill</hi> and <hi>rob</hi> one another; and this was all the <hi>Cauſe,</hi> and bleſſed <hi>reformation,</hi> that the <hi>Cornelian</hi> Ca<g ref="char:EOLhyphen"/>thedral-Keeper prayed <hi>might be carried on in their Iunctoes hands ſo long as the San and Moon endured.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>A good Prayer Ile promiſe you, and deſerves a 500 pounds
+<hi>per annum,</hi> and ſome three or four hundred Acres of Deanes and Chapters Lands beſides: But did they not <hi>re<g ref="char:EOLhyphen"/>ward</hi> him?</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>Yes, with 400 pounds <hi>per annum,</hi> and the Dean of
+<hi>Pauls</hi> his houſe, beſides the <hi>ſtones</hi> that he plundered out of the Walks, enough to build himſelf a Pallace.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>No marvel, that the <hi>people</hi> be ſo fooliſh as to
+<hi>bite</hi> one another (when ſuch <hi>bawling Curs</hi> ſet them on) but I hope now they will learn the wiſdom to agree together, fear <hi>God,</hi> and love their <hi>Prince;</hi> and for theſe <hi>Changelings,</hi> hang them up, that <hi>Eng<g ref="char:EOLhyphen"/>land</hi> may no more be called, <hi>The Kingdom of blind men,</hi> becauſe<pb n="11" facs="tcp:124813:6"/>they cannot diſcern a <hi>Head</hi> from a <hi>Noſe:</hi> but now I talk of <hi>Noſes,</hi> our <hi>Bull</hi> expects another Dogge.</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>Put on another; let looſe all the <hi>Scotch-breed</hi> on him at <hi>once.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>He has ſo <hi>toſs'd</hi> them lately, that they dare not come neer him; yet wee'l try them, Ha—loo—<hi>Trundle<g ref="char:EOLhyphen"/>tayles;</hi> I tould you ſo; not a Dogge will <hi>faſten,</hi> only <hi>Archy</hi> has him by the <hi>Tayle;</hi> Has kick'd out his <hi>teeth;</hi> how he
+<hi>howles,</hi> as if he mourn'd for the breach of their Covenant, or to call in his <hi>dear Brethren</hi> for the reſt of our <hi>Guds;</hi> ſure they have nere ano<g ref="char:EOLhyphen"/>ther <hi>King</hi> to ſell, have they?</p>
+            </sp>
+            <sp>
+               <speaker>Lilburn.</speaker>
+               <p>No, he is too wiſe for them, and will keep out of their
+<hi>Market-place;</hi> truſt a <hi>Scot,</hi> and truſt the <hi>Devil;</hi> they were perfidious from the beginning; it would not ask much labour to prove
+<hi>Noll</hi> a right <hi>Scot,</hi> that the like <hi>Camelian</hi> can change his h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w to what colour and ſhape he liſt: in the Parliament-Houſe he is a <hi>fawning Spannel;</hi> in the
+<hi>Church,</hi> the picture of a <hi>Saint;</hi> In <hi>Counſel,</hi> a deep diſſembling <hi>Hypocrite;</hi> in the <hi>Field,</hi> a <hi>Caine;</hi> in the <hi>Court,</hi> a <hi>Iudas;</hi> as barren of all <hi>charity,</hi> as
+<hi>hell</hi> is of <hi>honeſty;</hi> as malitious as <hi>miſchief</hi> can make him; his <hi>eares</hi> bigger then <hi>Mi<g ref="char:EOLhyphen"/>das;</hi> a double
+<hi>face</hi> like <hi>Ianus,</hi> one looking to the <hi>people,</hi> the other after his own <hi>gain</hi> and <hi>profit,</hi> picking the peoples
+<hi>purſes,</hi> whi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt he ſtares them in the <hi>faces:</hi> What is become think you of all the
+<hi>Contributions, Subſidies, Twentieth-Parts, L<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ans, Meale-money, Exciſe, Biſhops-Lands,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eans and Chapters-Lands, Compoſition-M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nies, Sequeſtrations,</hi> and now the <hi>Kings Navy, Cuſtoms and Revenues, Honors, Manners, Caſtles, Houſes, Meſſuages, Parks, Lands, Tenements, and Hereditaments, Royalties, Priviledges, Fran<g ref="char:EOLhyphen"/>chiſes, and Immunities belonging to the late King,</hi> the <hi>Dutchy</hi> of <hi>Lancaſter,</hi> all the <hi>Goods</hi> and <hi>Land</hi> belonging to the <hi>Queen,</hi> the
+<hi>Prince,</hi> and <hi>Duke of York,</hi> the Dukedom of <hi>Cornwal,</hi> or Earldom of <hi>Cheſter;</hi> beſides what they have retained to
+<hi>them<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elves,</hi> and yet not
+<hi>ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f enough;</hi> a hundred th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and pound ſent f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r more in his late Letter from <hi>Briſtol</hi> and the Continuation of the Aſſeſſe<g ref="char:EOLhyphen"/>ment o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 90000 pounds
+<hi>p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m,</hi> notwithſtanding <hi>Exciſe,</hi> and all this before mentioned;
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure this <hi>Bull</hi> has a better ſtomack then <hi>Bell</hi> and the <hi>Dragon,</hi> to devour a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l this, and yet be hungry: Set on all the <hi>Iriſh Pack</hi> on him at once; if they will not do it,
+<pb n="12" facs="tcp:124813:7"/>wee'l knock him down with our Clubbs, Pronge, and Staves.</p>
+            </sp>
+            <sp>
+               <speaker>Overton.</speaker>
+               <p>Sir <hi>William</hi> and <hi>Brown</hi> have fairly loſt;
+<hi>Jockey</hi> is Bull'd with an Urchin; the <hi>Iriſh</hi> will be the death of them; <hi>Ormond</hi> and <hi>Inchiquin</hi> have Dundalk and Dublin already, which makes him <hi>paw</hi> with his Cloven-hoffe, as if he intended to fill the Boggs up with <hi>Gravil;</hi> 40000 <hi>Iriſh</hi> are in a readineſs to wait <hi>his</hi> landing; <hi>he</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lyes to the <hi>Welch mountaines,</hi> and wiſhes them to fall on <hi>him,</hi> to bury
+<hi>his</hi> Infamy.</p>
+            </sp>
+            <sp>
+               <speaker>Prince.</speaker>
+               <p>This is the laſt <hi>Courſe</hi> ſhall ſpeed him; Ha—looe <hi>Towzer;</hi> he <hi>Noſes</hi> again; they have
+<hi>him</hi> with <hi>his</hi> heels upwards; <hi>his</hi> Puddings come forth; ſend for a Scrivener preſently to make <hi>his Will;</hi> in manner and form following;</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="mock_will_and_testament">
+            <head>His laſt Will <hi>and Teſtament.</hi>
+            </head>
+            <opener>In the Name of <hi>Pluto,</hi> Amen.</opener>
+            <p>I <hi>Noll.</hi> Cromwel, alias, the Town Bull of Ely, Lord Chiefe Governor of Ireland; Grand Plotter and Contriver of all Miſchiefs in England; Lord of Miſ-rule; Knight of the Order of Regicides; Thief-tenant General of the Rebels at Weſtmin<g ref="char:EOLhyphen"/>ſter; Duke of Deviliſhneſs; Enſigne of Evil; Scout-Maſter-General to his Infernal Majeſty; being wickedly diſpoſed in Minde; of abhorred Memory; do make this My Laſt <hi>VVill</hi> and
+<hi>Teſtament,</hi> in manner and form following;</p>
+            <p>
+               <hi>INprimis,</hi> I give my <hi>Soule</hi> to the Father of
+<hi>Rebels;</hi> and my <hi>Body</hi> to be diſpoſed of for the ſeveral uſes of theſe perſons follow<g ref="char:EOLhyphen"/>ing;</p>
+            <p>I give my <hi>Braines</hi> to the Order of <hi>Jeſuites,</hi> that with them they may Contrive the Ruine of Princes, the over-throw of Kingdoms, and Subverſion of States.</p>
+            <p>I give my <hi>Skin</hi> to the <hi>Aldermen</hi> of the
+<hi>City</hi> to make them <hi>Night-<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ownes;</hi> provided, that they wear them on Feſtival-Dayes, on forfeiture (of every <hi>Alderman,</hi> that has them not on, according to
+<pb n="13" facs="tcp:124813:7"/>the true intent and meaning of this <hi>Will</hi>) one hundred pounds.</p>
+            <p>I give my <hi>Horns</hi> to the <hi>Councel of State,</hi> to preſerve them from their <hi>Enemies,</hi> which are likely to be many; provided that they <hi>Goare</hi> with them to death <hi>Charles</hi> the Second, and his Brother the Duke of <hi>York:</hi> And likewiſe, that they may be added to the Arms of the <hi>Common-wealth;</hi> and quartered in the new <hi>Coyne,</hi> or fairly placed on the top of their <hi>new Mace.</hi>
+            </p>
+            <p>I give my <hi>Eares</hi> to all the <hi>Brethren</hi> of the
+<hi>Separation,</hi> that they may <hi>hear</hi> of nothing but what is for the benefit of <hi>themſelves</hi> and <hi>Faction:</hi> Provided, That they may be <hi>ſtop'd</hi> againſt all the juſt Complaints, and Grievances of the People.</p>
+            <p>I give my <hi>Eyes</hi> to the <hi>New Keepers</hi> of the peoples Liberties, that with <hi>them</hi> they may <hi>ſee</hi> to receive their Money; as Taxes, Ex<g ref="char:EOLhyphen"/>cize, &amp;c. and <hi>fore-ſee</hi> to prevent what their own perficiouſneſs is bringing upon them; and that they may <hi>ſee</hi> to ſuppreſs all Tu<g ref="char:EOLhyphen"/>mults, Inſurrections, and Riſings of the People, that they may no more be like <hi>the blind leading the blind, tell they all tumble in the ditch.</hi>
+            </p>
+            <p>I give my <hi>NOSE,</hi> that it may be a <hi>Light</hi> to the
+<hi>Councel of State,</hi> and the <hi>Iuncto,</hi> that they may hold it up in the <hi>Winde</hi> to <hi>ſmell</hi> out all <hi>Plots</hi> and
+<hi>Conſpiracies</hi> that ſhall be hatch'd or contriv'd a<g ref="char:EOLhyphen"/>gainſt the
+<hi>preſent Government.</hi>
+            </p>
+            <p>I give my <hi>Breath</hi> to all <hi>Flatterers</hi> and
+<hi>Paraſites</hi> in the Houſe of <hi>Commons,</hi> that with it they may
+<hi>breath</hi> out <hi>new Oathes, Cove<g ref="char:EOLhyphen"/>nants, Proteſtations,</hi> and
+<hi>Vows;</hi> and abrogate and break them at pleaſure.</p>
+            <p>I give my <hi>Tongue</hi> to all <hi>Detractors</hi> and
+<hi>Paraſites</hi> in the <hi>Supreame Authority,</hi> to bewitch the poor people withal; and perſwade them to their Ruine; but eſpecially, to
+<hi>Iohn Bradſhaw</hi> Eſquire, <hi>Rogue Preſident</hi> of the
+<hi>Councel of State,</hi> that with it he may pro<g ref="char:EOLhyphen"/>nounce Sentence on any that ſhall be more honeſt, more wiſe, or richer then himſelf, that ſo there may be ſtore of <hi>new Delin<g ref="char:EOLhyphen"/>quents;</hi> and by that means, more Lands and Monies fall to the uſe of the <hi>State:</hi> provided, that before
+<hi>his</hi> death, <hi>he</hi> blaſpheme <hi>God,</hi> as <hi>he</hi> hath pronounced Death to <hi>his King;</hi> and that it may anſwer in part for the ſame here, by rotting out of <hi>his</hi> mouth; and hereafter be dried in
+<hi>Dives</hi> Chimney, till it alwayes <hi>plead,</hi> and be <hi>denied</hi> the leaſt drop to cool it.</p>
+            <p>
+               <pb n="14" facs="tcp:124813:8"/>I give my <hi>Winde-pipe</hi> and
+<hi>Lungs</hi> to all zealous <hi>Levites</hi> of the <hi>Presbytery,</hi> that have waſted their <hi>owne,</hi> by crying out for the <hi>Cauſe.</hi>
+            </p>
+            <p>I give my <hi>Liver</hi> to <hi>Towzer</hi> the <hi>Man of the Moons Dogge,</hi> that he may become hear<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to bayte all the <hi>Regicides</hi> and <hi>Knaves</hi> in the
+<hi>Iuncto,</hi> as he hath done me.</p>
+            <p>I give my <hi>Heart</hi> to the Fraternity in Iniquity, the Common-Traytors Convened at <hi>Weſtminſter,</hi> that it may be preſerved as a holy <hi>Relique</hi> to ſwear by, and lay their hands on when they Conſpire miſcheif againſt <hi>Gods Anointed,</hi> or any of his faithful <hi>Subjects</hi> or <hi>Servants.</hi>
+            </p>
+            <p>I give my <hi>P<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>le</hi> to the Lord General <hi>Fairfax,</hi> to beat his Wife into more <hi>honeſty.</hi>
+            </p>
+            <p>I give my <hi>Stones</hi> to <hi>Harry Martin,</hi> to <hi>tabor the pouches</hi> of all his Worſhips ſinners in the Suburbs; provided, that firſt they be imployed for the ſervice of my Wife, or the Wife of any Mem<g ref="char:EOLhyphen"/>ber of <hi>Parliament.</hi>
+            </p>
+            <p>I give my <hi>Bladder</hi> to the <hi>City,</hi> to ſee if they can keep the Re<g ref="char:EOLhyphen"/>mainder of their <hi>Gold</hi> in it; and in caſe it be too little, that they make uſe of <hi>Colon,</hi> or that <hi>Gutt</hi> commonly called <hi>Tom of towns<g ref="char:EOLhyphen"/>end,</hi> or the <hi>Arſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-gutt;</hi> Provided, If there be to ſpare, that their Wives have the Remainder to make them Pudding-Baggs.</p>
+            <p>I give my <hi>Joule</hi> with the <hi>hair</hi> on it, to make the City a new Cap of <hi>MAINTENANCE</hi> againſt the next Lord-Mayors Day.</p>
+            <p>I give my <hi>Leggs</hi> and <hi>Hooffs</hi> to <hi>Thomas</hi> Lord <hi>Fairfax,</hi> that when the <hi>Gowt,</hi> and the <hi>Morbus</hi> have devoured his <hi>own,</hi> he may make uſe of theſe at pleaſure.</p>
+            <p>I give the lowermoſt <hi>Tip</hi> of my <hi>Tayle</hi> to my beloved <hi>Wife,</hi> to make her a <hi>Fanne</hi> to keep the Flies from her
+<hi>painted face:</hi> The upper-part I Ordain, ſhall go to the Beaſt called the <hi>Juncto</hi> at <hi>Weſtminſter;</hi> that though it has no
+<hi>head,</hi> yet it may be ſaid to have the more <hi>tayle;</hi> and have this <hi>property</hi> to draw the third part of this City after it, to their own deſtruction.</p>
+            <p>I give my <hi>Midri<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e</hi> to make my Lord Mayor of <hi>London</hi> a <hi>Ru<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e</hi> to wear to the
+<hi>Spittle.</hi>
+            </p>
+            <p>I give my <hi>Cheeks</hi> to Feaſt all thoſe at
+<hi>Chriſtmaſſe</hi> that I have<pb n="15" facs="tcp:124813:8"/>made poor, undone, and cauſed to go a begging for want of ſuſtinance.</p>
+            <p>I give my <hi>Teeth</hi> to the devouring <hi>Catterpillors</hi> of the Common-Wealth, <hi>viz.</hi> Committees, Sequeſtrators, and Excize-men; that as they have begun, they may make a quick diſpatch, ti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l they have devoured us; becauſe the expectation of evil, is in many, more then the evil it ſelf.</p>
+            <p>I give my <hi>Neck</hi> to all <hi>Citizens &amp; Merchants</hi> to ſeed their Ser<g ref="char:EOLhyphen"/>vants withal.</p>
+            <p>I give my <hi>Mary-bones</hi> to the <hi>Regenerate Siſters,</hi> that they may thereby be made the <hi>ſtronger</hi> to
+<hi>bear, encreaſe,</hi> and <hi>multiply;</hi> and the <hi>luſtier</hi> to
+<hi>exeaciſe</hi> their <hi>bodily Gifts,</hi> and ſo bring forth the
+<hi>fruits</hi> of the <hi>Spirit.</hi>
+            </p>
+            <p>I give my <hi>Chines</hi> to the <hi>Commanders</hi> of the Army, to make them hearty to fight againſt <hi>Ormond</hi> and <hi>Inchiquin;</hi> and to im<g ref="char:EOLhyphen"/>ploy the remainder of their ſtrength on ſtrange women.</p>
+            <p>For all my <hi>good Qualities</hi> (which I profeſſe are but a few) I de<g ref="char:EOLhyphen"/>ſire they may be <hi>Regiſtered</hi> in the <hi>Chronicle</hi> of the <hi>Free-States</hi> of <hi>England;</hi> to be had in perpetual
+<hi>remembrance,</hi> ti<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l King
+<hi>Charles</hi> the Second ſhall come to the Crown.</p>
+            <p>I give my <hi>Faith</hi> to the <hi>Common-Councel,</hi> that they may look up and beleeve, when the <hi>Iuncto</hi> and <hi>Councel</hi> of
+<hi>State</hi> wants more <hi>Money.</hi>
+            </p>
+            <p>I give my <hi>Religion</hi> to the Fraternity of <hi>Ignatius Loyalla,</hi> from whence it was at firſt deriv'd; provided, that the Brethren of the <hi>Separation</hi> act thoſe <hi>Tenants</hi> on
+<hi>biſhops</hi> and <hi>Kings</hi> which the <hi>Jeſuites</hi> do inſtruct them in, for the propagation of Hereſie and Rebellion.</p>
+            <p>I give my <hi>Bellowing</hi> to <hi>Hugh Peters</hi> to pronounce
+<hi>Damnation</hi> with; and my <hi>Inwards</hi> to the <hi>Butchers</hi> wife that robb'd her good man, to relieve him.</p>
+            <p>I leave all my <hi>Children</hi> to the Tuition of <hi>William Loe,</hi> to ſee them brought up to <hi>read</hi> their
+<hi>Neck-verſe,</hi> and to Commence at <hi>Doctor Stories Cap,</hi> receiving firſt the Ceremony of their Order in their <hi>hands.</hi>
+            </p>
+            <p>I give the <hi>Roape</hi> that I am bayted with, to hang up all
+<hi>Traytors</hi> and <hi>Regicides;</hi> provided, that <hi>Iohn Bradſhaw</hi> have the firſt uſe of it, and after him, <hi>Cook, Aſke, Steele,</hi> and all and every Mem<g ref="char:EOLhyphen"/>ber<pb n="16" facs="tcp:124813:9" rendition="simple:additions"/>of the High Court of mock-Juſtice, by what means or Titles ſoever diſtinguiſhed; and afterwards to come to <hi>Teuch, Tue,</hi> and the reſt of the Rogues that were hired to cry Juſtice againſt the King.</p>
+            <p>Laſtly, I will and Ordain my <hi>Off all</hi> to be buried in the <hi>Abby</hi> of <hi>Weſtminſter,</hi> and to have a <hi>Tombe</hi> raiſed over them with my ſta<g ref="char:EOLhyphen"/>tue; and underneath theſe <hi>Verſes</hi> following:</p>
+            <p>And this my laſt <hi>VVill</hi> and <hi>Teſtament</hi> to ſtand in full Force and Vertue, Renouncing all former Wills, Bills, Bonds, Promiſes, Grants; or the like, in any wiſe not withſtanding.</p>
+            <closer>
+               <signed>Oliver Crum-Well.</signed>
+               <signed>Witneſſes,<hi>Tho. L. Fairfax. Joh. Bradſhaw, Phil. Pembroke. Hen. Mildmay.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="epitaph">
+            <head>His EPITAPH.</head>
+            <lg>
+               <l>HEre lies (the Devil take his Soul)</l>
+               <l>One, for whom no Bell would towl:</l>
+               <l>He liv'd a Murderer, dy'd a Knave;</l>
+               <l>Deſerv'd a Halter, not a Grave.</l>
+               <l>Some call'd him <hi>Noll,</hi> ſome the Town-<hi>bull,</hi>
+               </l>
+               <l>Or Iron-ſides, that the Land fill'd full</l>
+               <l>Of Athieſts, Shiſmaitcks, and Hereticks,</l>
+               <l>That Ruin'd Kingdoms; undid Biſhopricks,</l>
+               <l>Deſpis'd his God, kill'd his King, broke th' Laws,</l>
+               <l>Eate up our labours with devouring jawes;</l>
+               <l>Cozen'd the People, ſpoyl'd all the Land;</l>
+               <l>Had Lives and Goods at his Command.</l>
+            </lg>
+            <lg>
+               <l>You that Make<g ref="char:punc">▪</g> water, pray now ſtay,</l>
+               <l>Piſs on his Grave, and go away.</l>
+               <l>That they that purge, may for his grace</l>
+               <l>Un-truſs, and S— upon his face.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124813:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>

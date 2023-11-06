@@ -1,0 +1,3076 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ane verie excellent and delectabill treatise intitulit Philotus Quhairin we may persave the greit inconveniences that fallis out in the mariage betvvene age and zouth [sic].</title>
+            <title>Philotus.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A09613</idno>
+            <idno type="STC">STC 19888</idno>
+            <idno type="STC">ESTC S100477</idno>
+            <idno type="EEBO-CITATION">99836317</idno>
+            <idno type="PROQUEST">99836317</idno>
+            <idno type="VID">579</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A09613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 579)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1356:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ane verie excellent and delectabill treatise intitulit Philotus Quhairin we may persave the greit inconveniences that fallis out in the mariage betvvene age and zouth [sic].</title>
+                  <title>Philotus.</title>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>Be Robert Charteris,</publisher>
+                  <pubPlace>Imprinted at Edinburgh :</pubPlace>
+                  <date>1603.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-F⁴.</note>
+                  <note>Printer's device (McKerrow 307) on title page.</note>
+                  <note>Imperfect; cropped and stained with some loss of print.</note>
+                  <note>Reproduction of original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="sco">sco</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marriage --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:579:1"/>
+            <pb facs="tcp:579:1"/>
+            <pb facs="tcp:579:2"/>
+            <pb facs="tcp:579:2" rendition="simple:additions"/>
+            <p>Ane verie excellent and delecta<g ref="char:EOLhyphen"/>bill Treatiſe intitulit PHILOTVS.</p>
+            <p>QVHAIRIN WE MAY PERSAVE THE greit inconveniences that fallis out in the <hi>Mariage betvvene age and ȝouth.</hi>
+            </p>
+            <q>
+               <bibl>Ovid.</bibl>
+               <p>Siqua velis aptè, nubere, nube pari.</p>
+            </q>
+            <figure>
+               <figDesc>printer's device of Henry Charteris</figDesc>
+               <head>IVSTITIA. RELIGIO;</head>
+               <p>
+                  <hi>Beati qui in Domino moriuntur.</hi>
+               </p>
+               <p>SVVM CVIQVE</p>
+               <p>DEVM COLE</p>
+               <p>
+                  <hi>Si Deus pro nobis, quis contra nos?</hi>
+               </p>
+               <p>HIS SVFFVL<g ref="char:EOLhyphen"/>TA DVRANT.</p>
+               <p>H C</p>
+            </figure>
+            <p>IMPRINTED AT EDINBVRGH be Robert Charteris. 1603.</p>
+            <p>CVM PRIVILEGIO REGALI.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:579:3"/>
+            <head>THE NAMES OF THE INTER<g ref="char:EOLhyphen"/>LOQVITORS.</head>
+            <list>
+               <item>Philotus, the auld man. verſe 1</item>
+               <item>The Pleſant. verſe 4</item>
+               <item>Emilie, the Madyn. verſe 6</item>
+               <item>The Marcell. verſe 8</item>
+               <item>Alberto the Madynis father. verſe 45</item>
+               <item>Flavius, ane ȝoung man. verſe 55</item>
+               <item>Stephano, Alberto is ſervant. verſe 81</item>
+               <item>Philerno Albertois ſone. verſe 88</item>
+               <item>Briſilla, Philotus his Dochter. verſe 102</item>
+               <item>The Miniſter. verſe 117</item>
+               <item>The Huir. verſe 139</item>
+               <item>The Meſſinger. verſe 169</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:579:3"/>
+            <head>Ane verie excellent and delecta<g ref="char:EOLhyphen"/>bill Treatiſe intitulit PHILOTVS.</head>
+            <sp>
+               <stage>Philotus directis his ſpeich to Emilie.</stage>
+               <lg>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">O</seg> Luſtie luifſome lamp of licht,</l>
+                     <l>Ȝour bonynes ȝour bewtie bricht</l>
+                     <l>Ȝour ſtaitly ſtature trym &amp; ticht</l>
+                     <l>With geſture grave and gude:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝour countenance, ȝour cullour cleir</l>
+                     <l>Ȝour lauching lips, ȝour ſmyling cheir,</l>
+                     <l>Ȝour properties dois all appeir,</l>
+                     <l>My ſenſes to illude.</l>
+                  </lg>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <lg>
+                     <l>Quhen I ȝour bewtie do behald,</l>
+                     <l>I man vnto ȝour fairnes fald:</l>
+                     <l>I dow not flie howbeit I wald,</l>
+                     <l>Bot bound I man be ȝouris:</l>
+                  </lg>
+                  <lg>
+                     <l>For ȝow ſweit hart I wald forſaik,</l>
+                     <l>The Empryce for to be my maik,</l>
+                     <l>Thairfoir deir dow ſum pitie tak,</l>
+                     <l>And ſaif mee fra the ſchowres.</l>
+                  </lg>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <lg>
+                     <l>Deme na ill of my age my dow,</l>
+                     <l>I ſe play the ȝonkeris part to ȝow.</l>
+                     <l>Firſt try the treuth, then may ȝe trow,</l>
+                     <l>Gif I mynd to deſaue:</l>
+                  </lg>
+                  <lg>
+                     <l>For Gold nor geir ȝe ſall not want.</l>
+                     <l>Sweit hart with me thairs be na ſcant,</l>
+                     <l>Thairfoir ſome grace vnto me grant,</l>
+                     <l>For courteſie I craue.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Pleſant.</speaker>
+               <lg>
+                  <pb facs="tcp:579:4"/>
+                  <lg>
+                     <l>Ha, ha quha brocht thir bittocks hither</l>
+                     <l>The mekill feind reſaue the fithir:</l>
+                     <l>I trow ȝe was not al together,</l>
+                     <l>This twel-month at ane preiching.</l>
+                  </lg>
+                  <lg>
+                     <l>Allace I lauch for lytill lucke,</l>
+                     <l>I lauch to ſie ane auld Carle gucke:</l>
+                     <l>Wow wow ſa fame as he wald f<gap reason="blank" resp="#UOM" extent="4 letters">
+                           <desc>____</desc>
+                        </gap>,</l>
+                     <l>Fra he fall till his fleitching.</l>
+                  </lg>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <lg>
+                     <l>Now wallie as the Carle he caiges.</l>
+                     <l>Gudeman quha hes maid ȝour muſtages?</l>
+                     <l>Lo as the bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of foureſcoir ages,</l>
+                     <l>As he micht not be biddin:</l>
+                  </lg>
+                  <lg>
+                     <l>Came ȝe to wow our Laſſe, now lachter,</l>
+                     <l>Ȝe ar ſa raſch thair will be ſlachter,</l>
+                     <l>Ȝe will not ſpair nor ſpeir quhais aucht hir,</l>
+                     <l>Ȝe ar ſa raſchlie riddiu.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="6">
+                  <head>6</head>
+                  <lg>
+                     <l>I wait not weill ſir quhat ȝe meine,</l>
+                     <l>Bot ſuirlie I haue ſeindill ſeine,</l>
+                     <l>Ane wower of ȝour ȝeirs ſa keine,</l>
+                     <l>As ȝe appeir to be:</l>
+                  </lg>
+                  <lg>
+                     <l>I think ane man ſir, of ȝour ȝeiris.</l>
+                     <l>Sould not be blyndit with the bleiris,</l>
+                     <l>Ga ſeik ane partie of ȝour peires,</l>
+                     <l>For ȝe get nane of mee.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <stage>The auld man ſpeikis to the Macrell to allure the Madyn.</stage>
+               <lg n="7">
+                  <head>7</head>
+                  <lg>
+                     <l>Gude Dame, I haue ȝow to imploy.</l>
+                     <l>Sa ȝe my purpoſe can convoy:</l>
+                     <l>And that ȝon Laſſe I micht inioy,</l>
+                     <l>Ȝe ſould not want rewaird:</l>
+                  </lg>
+                  <lg>
+                     <l>Giue hir this Tablet and this King,</l>
+                     <l>This Purſſe of gold and ſpair nathing:</l>
+                     <l>Sa ȝe about all weill may bring,</l>
+                     <pb facs="tcp:579:4"/>
+                     <l>Of gold tak na regaird.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Macrell.</speaker>
+               <lg n="8">
+                  <head>8</head>
+                  <lg>
+                     <l>Na ſir, let me and that allane,</l>
+                     <l>Suppoſe ſcho war maid of a ſtane,</l>
+                     <l>I ſe gar hir grant or all be gane,</l>
+                     <l>To be at ȝour command:</l>
+                  </lg>
+                  <lg>
+                     <l>Thocht ſcho be ſtrange, I think na wonder,</l>
+                     <l>Blait things is ſone brocht in ane blunder,</l>
+                     <l>Scho is not the firſt ſir, of ane hunder,</l>
+                     <l>That I haue had in hand.</l>
+                  </lg>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <lg>
+                     <l>I am ane Fiſche I am ane Eile,</l>
+                     <l>Can ſteir my toung and tayle richt weill,</l>
+                     <l>I giue me to the mekill Deill,</l>
+                     <l>Gif onie can do mair:</l>
+                  </lg>
+                  <lg>
+                     <l>I can with fair anis fleitch and flatter,</l>
+                     <l>And win ane Crown bot with ane clatter,</l>
+                     <l>That gars me drink gude wyne for watter,</l>
+                     <l>Suppois my back ga bair.</l>
+                  </lg>
+               </lg>
+               <stage>The Macrell intends to allure the Madyn.</stage>
+               <lg n="10">
+                  <head>10</head>
+                  <lg>
+                     <l>God blis ȝow Maiſtres with ȝour Buik,</l>
+                     <l>Leiſe me thay lips that I on luik:</l>
+                     <l>I hope in God to ſie ȝow bruik,</l>
+                     <l>Ane nobill houſe at hame:</l>
+                  </lg>
+                  <lg>
+                     <l>I ken ane Man into this toun,</l>
+                     <l>Of hyeſt honour and renoun,</l>
+                     <l>That wald be glaid to giue his Gowne,</l>
+                     <l>For to haue ȝow his Dame.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="11">
+                  <head>11</head>
+                  <l>Now be my ſaull I can not lie,</l>
+                  <l>That thair ſik vertew is in me,</l>
+                  <l>Gudwyfe, I pray ȝow quhat is he,</l>
+                  <l>That man quhome of ȝe meine?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Macrell</speaker>
+               <lg>
+                  <l> Philotus is the man a faith,</l>
+                  <l>Ane ground-riche man and full of graith:</l>
+                  <pb facs="tcp:579:5"/>
+                  <l>He wantis na jewels claith nor waith,</l>
+                  <l>Bot is baith big and beine.</l>
+               </lg>
+               <lg n="21">
+                  <head>21</head>
+                  <lg>
+                     <l>Weill war the woman all hir lyfe,</l>
+                     <l>Had hap to be his weddit wyfe,</l>
+                     <l>Scho micht haue gold and geir als ryfe,</l>
+                     <l>As Copper in hir Riſt:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, no<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> a Ladie in all this Land,</l>
+                     <l>I wait micht haue mair wealth in hand,</l>
+                     <l>Nor m<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>t haue mair at hir command,</l>
+                     <l>To do with quhat ſcho liſt.</l>
+                  </lg>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <lg>
+                     <l>Fair floure, now ſen ȝe may him fang,</l>
+                     <l>It war not gude to let him gang,</l>
+                     <l>Vnto ȝour ſelf ȝe'ile <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o greit wrang,</l>
+                     <l>Sweit hart now and ȝe ſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p him:</l>
+                  </lg>
+                  <lg>
+                     <l>Now thair is twentie i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>o this toun,</l>
+                     <l>Of greiteſt riches and renoun,</l>
+                     <l>That wald be glaid for to ſit doun,</l>
+                     <l>Vpon thair kneis to grip him.</l>
+                  </lg>
+               </lg>
+               <lg n="14">
+                  <head>14</head>
+                  <lg>
+                     <l>Thocht he be auid my joy, quhat reek,</l>
+                     <l>Quhen he is gaue giue him ane geek,</l>
+                     <l>And tak another be the neck,</l>
+                     <l>Quhen ȝe the graith haue gottin:</l>
+                  </lg>
+                  <lg>
+                     <l>Schaw me ȝour mynd and quhat ȝe meine,</l>
+                     <l>I fall conuoy all this ſa clein<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</l>
+                     <l>That me ȝee fall eſteme ane freine,</l>
+                     <l>Q<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>en I am deid and rottin.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emilie.</speaker>
+               <lg n="15">
+                  <head>15</head>
+                  <lg>
+                     <l> I grant gude-wyfe he is richt gude,</l>
+                     <l>Ane man of wealth and nobill blude,</l>
+                     <l>Bot hes mair uniter of ane Hude,</l>
+                     <l>And Mittanes till his handis:</l>
+                  </lg>
+                  <lg>
+                     <l>Nor of ane bairnelie Laſſe lyke mee,</l>
+                     <l>Mair meit his Oy nor wyfe to be:</l>
+                     <pb facs="tcp:579:5"/>
+                     <l>His age and myne cannot agrie,</l>
+                     <l>Quhill that the warld ſtandis.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Macrell.</speaker>
+               <lg n="16">
+                  <head>16</head>
+                  <lg>
+                     <l>Let that allane he is not ſa auld,</l>
+                     <l>Nor ȝit of curage half ſa cald,</l>
+                     <l>Bot gif ȝe war his wyfe, ȝe wald,</l>
+                     <l>Be weill aneuch concent:</l>
+                  </lg>
+                  <lg>
+                     <l>With him mair treitment on ane day,</l>
+                     <l>And get mair making off ȝe may,</l>
+                     <l>Nor with ane Wamſter ſuith to ſay,</l>
+                     <l>Quhen twentie ȝeiris ar ſpent.</l>
+                  </lg>
+               </lg>
+               <lg n="17">
+                  <head>17</head>
+                  <lg>
+                     <l>Ȝe neyther mell with lad nor loun,</l>
+                     <l>Bot with the beſt in all this toun,</l>
+                     <l>His wyfe may ay ſit formeſt doun,</l>
+                     <l>At eyther burde or bink:</l>
+                  </lg>
+                  <lg>
+                     <l>Gang formeſt in at dure or ȝet,</l>
+                     <l>And ay the firſt gude-day wald get,</l>
+                     <l>With all men honourit and weill tret,</l>
+                     <l>As onie hart wald think.</l>
+                  </lg>
+               </lg>
+               <lg n="18">
+                  <head>18</head>
+                  <lg>
+                     <l>Se quhat a womans mynde may meiſe</l>
+                     <l>And heir quhat honour, wealth and eiſe,</l>
+                     <l>Ȝe may get with him and ȝe pleiſe,</l>
+                     <l>To do as I deuyſe:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝour fyre ſall firſt be birnand cleir,</l>
+                     <l>Ȝour Madynis than ſall haue ȝour geir,</l>
+                     <l>Put in gude or dour and effeir,</l>
+                     <l>Ilk morning or ȝow ryſe.</l>
+                  </lg>
+               </lg>
+               <lg n="19">
+                  <head>19</head>
+                  <lg>
+                     <l>And ſay, lo Maiſtres heir ȝour Muillis,</l>
+                     <l>Put on ȝour Wylicote for it cuillis,</l>
+                     <l>Lo, heir ane of ȝour Veluote ſtuillis,</l>
+                     <l>Quhairon ȝe ſall ſit doun:</l>
+                  </lg>
+                  <lg>
+                     <l>Than twaſum cummis to cambe ȝour hair,</l>
+                     <l>Put on ȝour heidgeir ſoft and fair,</l>
+                     <pb facs="tcp:579:6"/>
+                     <l>Tak thair ȝour glaſſe ſie all be clair,</l>
+                     <l>And ſa gais on ȝour Goun.</l>
+                  </lg>
+               </lg>
+               <lg n="20">
+                  <head>20</head>
+                  <lg>
+                     <l>Than tak to ſtanchethe morning drouth.</l>
+                     <l>Ane cup of Maueſie for ȝour mouth,</l>
+                     <l>For fame caſt ſucker in at fouth,</l>
+                     <l>Togidder with a Toiſt:</l>
+                  </lg>
+                  <lg>
+                     <l>Thrie Garden gowps tak of the Air,</l>
+                     <l>And bid ȝour Page in haiſt prepair,</l>
+                     <l>For ȝour Diſione ſum daintie fair,</l>
+                     <l>And cair not for na coiſt.</l>
+                  </lg>
+               </lg>
+               <lg n="21">
+                  <head>21</head>
+                  <lg>
+                     <l>Ane pair of Pleuaris pypping hait,</l>
+                     <l>Ane Pertrick and ane Quailȝie get,</l>
+                     <l>Ane cup of Sack, ſweit and weill ſet,</l>
+                     <l>May for ane breckfaſt gaine.</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝour Cater he may cair for ſyne,</l>
+                     <l>Su undelicate agane ȝe dyne,</l>
+                     <l>Ȝour Cuke to ſeaſoun all ſa fyne,</l>
+                     <l>Than dois imploy his paine.</l>
+                  </lg>
+               </lg>
+               <lg n="22">
+                  <head>22</head>
+                  <lg>
+                     <l>To ſie ȝour ſeruantes may ȝe gang,</l>
+                     <l>And luke ȝour Madynis all amang,</l>
+                     <l>And gif thair onie wark be wrang,</l>
+                     <l>Than bitterne them blame,</l>
+                  </lg>
+                  <lg>
+                     <l>Than may ȝe haue baith Quaiffis and Kellis,</l>
+                     <l>Hich Candie Ruffes and Barlet Bellis,</l>
+                     <l>All for ȝour weiring and not ellis,</l>
+                     <l>Maid in ȝour hous at hame.</l>
+                  </lg>
+               </lg>
+               <lg n="23">
+                  <head>23</head>
+                  <lg>
+                     <l>And now quhen all thir warks is done,</l>
+                     <l>For ȝour refreſching eftern one,</l>
+                     <l>Gar bring vnto ȝour chalmer ſone,</l>
+                     <l>Sum danitie diſche of meate:</l>
+                  </lg>
+                  <lg>
+                     <l>Ane cup or twa with Muſcadall,</l>
+                     <l>Sum vther licht thing thairwithall,</l>
+                     <pb facs="tcp:579:6"/>
+                     <l>For Raſins or for Capers call,</l>
+                     <l>Gif that ȝe pleaſe to eate,</l>
+                  </lg>
+               </lg>
+               <lg n="24">
+                  <head>24</head>
+                  <lg>
+                     <l>Till ſuppertyme then may ȝe chois,</l>
+                     <l>Vnto ȝour Garden to repois,</l>
+                     <l>Or merelie to tak ane glois,</l>
+                     <l>Or tak ane buke and reid on:</l>
+                  </lg>
+                  <lg>
+                     <l>Syne to ȝour ſupper ar ȝe brocht,</l>
+                     <l>Till fair full far that hes bene ſocht,</l>
+                     <l>And daintie diſches deirlie bocht,</l>
+                     <l>That Ladies loues to feid on.</l>
+                  </lg>
+               </lg>
+               <lg n="25">
+                  <head>25</head>
+                  <lg>
+                     <l>The Organes than into ȝour hall,</l>
+                     <l>With Schalme and Tymbrell ſound thay ſall,</l>
+                     <l>The Vyole and the Lute with all,</l>
+                     <l>To gar ȝour meate diſgeſt:</l>
+                  </lg>
+                  <lg>
+                     <l>The ſupper done than vp ȝe ryſe,</l>
+                     <l>To gang ane quhyle as is the gyfe,</l>
+                     <l>Be ȝe haue rowmit ane Alley thryſe,</l>
+                     <l>It is ane myle almaiſt.</l>
+                  </lg>
+               </lg>
+               <lg n="26">
+                  <head>26</head>
+                  <lg>
+                     <l>Than may ȝe to ȝour Chalmer gang,</l>
+                     <l>Begyle the nicht gif it be lang,</l>
+                     <l>With talk and merie mowes amang,</l>
+                     <l>To eleuate the ſplene:</l>
+                  </lg>
+                  <lg>
+                     <l>For ȝour Collation tak and taiſt,</l>
+                     <l>Sum lytill licht thing till diſgeſt,</l>
+                     <l>At nicht vſe Renſe wyne ay almaiſt,</l>
+                     <l>For it is could and clene.</l>
+                  </lg>
+               </lg>
+               <lg n="27">
+                  <head>27</head>
+                  <lg>
+                     <l>And for ȝour back I dar be bould,</l>
+                     <l>That ȝe fall weir euen as ȝe would,</l>
+                     <l>With doubill Garniſchings of gould,</l>
+                     <l>And Craip aboue ȝour hair:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝour Veluote hat, ȝour Hude of Stait,</l>
+                     <l>Ȝour Myſſell quhen ȝe gang to gait,</l>
+                     <pb facs="tcp:579:7"/>
+                     <l>Fra Sone and wind baith air and lait.</l>
+                     <l>To keip that face ſafair.</l>
+                  </lg>
+               </lg>
+               <lg n="28">
+                  <head>28</head>
+                  <lg>
+                     <l>Of Pareis wark wrocht by the laif,</l>
+                     <l>Ȝour fyne Half-cheinzeis ȝe ſall haue,</l>
+                     <l>For to decoir ane Carkat craif</l>
+                     <l>That cumlie Collour bane:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝour greit gould Cheinzie for ȝour neck,</l>
+                     <l>Be bowſum to the Carle and beck,</l>
+                     <l>For he hes gould aneuch, quhat reck?</l>
+                     <l>It will not ſtand on nane.</l>
+                  </lg>
+               </lg>
+               <lg n="29">
+                  <head>29</head>
+                  <lg>
+                     <l>And for ȝour Gownes ay the new guyſe,</l>
+                     <l>Ȝe with ȝour Tailȝeours may deuyſe,</l>
+                     <l>To haue them louſe with plets and plyis,</l>
+                     <l>Or claſped clois behind:</l>
+                  </lg>
+                  <lg>
+                     <l>The ſtuffe my hart ȝe neid not haine,</l>
+                     <l>Pan Veluot, rayſde figurit or plaine,</l>
+                     <l>Silk, Satyne, Damayſe or Grograine,</l>
+                     <l>The fyneſt ȝe can find.</l>
+                  </lg>
+               </lg>
+               <lg n="30">
+                  <head>30</head>
+                  <lg>
+                     <l>Ȝour claithes on cullouris cuttit out,</l>
+                     <l>And all Paſmentit round about,</l>
+                     <l>My bleſſing on that ſemelie ſnout,</l>
+                     <l>Sa weill I trow ſall ſet them:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝour ſchankis of ſilk ȝour veluot ſchone,</l>
+                     <l>Ȝour borderit Wylicote abone,</l>
+                     <l>As ȝe deuyſe all ſall be done,</l>
+                     <l>Vncraifit quhen ȝe get them.</l>
+                  </lg>
+               </lg>
+               <lg n="31">
+                  <head>31</head>
+                  <lg>
+                     <l>Ȝour Tablet be ȝour hals that hinges</l>
+                     <l>Gould bracelets and all vther things,</l>
+                     <l>And all ȝour fingers full of Rings,</l>
+                     <l>With Pearle and precious ſtanes:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝe ſall haue ay quhill ȝe cry ho,</l>
+                     <l>Rickillis of gould and jewellis jo,</l>
+                     <pb facs="tcp:579:7"/>
+                     <l>Quhat reck to tak the Bogill-bo,</l>
+                     <l>My bonie burd for anis.</l>
+                  </lg>
+               </lg>
+               <lg n="32">
+                  <head>32</head>
+                  <lg>
+                     <l>Sweit hart quhat farther wald ȝe haue.</l>
+                     <l>Quhat greiter pleſour wald ȝe craue,</l>
+                     <l>Now be my ſaull ȝow will de ſaue,</l>
+                     <l>Ȝour ſelf and ȝe forſaik him:</l>
+                  </lg>
+                  <lg>
+                     <l>Thairfoir ſweit honie I ȝow pray,</l>
+                     <l>Tak tent in tyme and nocht delay,</l>
+                     <l>Sweit ſucker, neck me not with nay,</l>
+                     <l>Bot be content to tak him.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Pleſant.</speaker>
+               <lg n="33">
+                  <head>33</head>
+                  <lg>
+                     <l> The deuill cum lick that beird auld rowan</l>
+                     <l>Now ſie the trottibus and trowane,</l>
+                     <l>Sa buſilie as ſho is wowane,</l>
+                     <l>Sie as the carling craks:</l>
+                  </lg>
+                  <lg>
+                     <l>Begyle the barne ſho is bot ȝoung,</l>
+                     <l>Foull fall thay lips, God nor that toung,</l>
+                     <l>War doubill gilt with Nuriſch doung,</l>
+                     <l>And ill cheir on thay cheikis.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="33">
+                  <head>33</head>
+                  <lg>
+                     <l> Gude-wyfe all is bot gude I heir,</l>
+                     <l>For weill I lufe to mak gude cheir,</l>
+                     <l>For honouris, gould, and vther geir,</l>
+                     <l>Thay can not be refuſit:</l>
+                  </lg>
+                  <lg>
+                     <l>I grant indeid, my daylie fair,</l>
+                     <l>Will be ſufficient and mair,</l>
+                     <l>Bot be it gude ȝe do not ſpair,</l>
+                     <l>As royallie to ruſe it.</l>
+                  </lg>
+               </lg>
+               <lg n="35">
+                  <head>35</head>
+                  <lg>
+                     <l>I grant all day to be weill tret,</l>
+                     <l>Honours anew and hicht vpſet,</l>
+                     <l>Bot quhat intreatment ſall I get,</l>
+                     <l>I pray ȝow in my bed?</l>
+                  </lg>
+                  <lg>
+                     <l>Bot with ane lairbair for to ly,</l>
+                     <l>Ane auld deid ſtock, baith cauld and dry,</l>
+                     <pb facs="tcp:579:8"/>
+                     <l>And all my dayes heir I deny,</l>
+                     <l>That he my ſchankes ſched,</l>
+                  </lg>
+               </lg>
+               <lg n="36">
+                  <head>36</head>
+                  <lg>
+                     <l>His eine half ſunkin in his heid,</l>
+                     <l>His Lyre far caulder than the leid,</l>
+                     <l>His froſtie fleſch as he war deid,</l>
+                     <l>Will for na happing heit:</l>
+                  </lg>
+                  <lg>
+                     <l>Vnhealthſum hoſting euer mair,</l>
+                     <l>His filthſum flewme is nathing fair,</l>
+                     <l>Ay rumiſching with rift and rair,</l>
+                     <l>Now, wow gif that be ſweit,</l>
+                  </lg>
+               </lg>
+               <lg n="37">
+                  <head>37.</head>
+                  <lg>
+                     <l>His skynne hard clappit to the bane,</l>
+                     <l>With Gut and Grauell baith ouirgane,</l>
+                     <l>Now quhen thir troubles hes him tane,</l>
+                     <l>His wyfe gets all the wyte:</l>
+                  </lg>
+                  <lg>
+                     <l>For Venus gaines I let them ga,</l>
+                     <l>I geſſe hee be not gude of thay,</l>
+                     <l>I could weill of his maners ma,</l>
+                     <l>Gif I liſt till indyte.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Macrell.</speaker>
+               <lg n="38">
+                  <head>38</head>
+                  <lg>
+                     <l> For Venus game cure not a cuit,</l>
+                     <l>Waill me ane Wamfler that can do' it,</l>
+                     <l>Sen thair may be na vther buit,</l>
+                     <l>Plat on his head ane horne:</l>
+                  </lg>
+                  <lg>
+                     <l>Handill me that with wit and skill,</l>
+                     <l>Ȝe may haue eaſments at ȝour will,</l>
+                     <l>At nicht gar ȝoung men cum ȝow till,</l>
+                     <l>Put them away at morne.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="39">
+                  <head>39</head>
+                  <lg>
+                     <l> Gude-wyfe, all is bot vaine ȝe ſeik,</l>
+                     <l>To mee of ſik maters to ſpeik,</l>
+                     <l>Ȝour purpois is not worth ane leik,</l>
+                     <l>I will heir ȝow na mair:</l>
+                  </lg>
+                  <lg>
+                     <l>Mark Dame, and this is all and ſum,</l>
+                     <l>If euer ȝe this earand cum,</l>
+                     <pb facs="tcp:579:8"/>
+                     <l>Or of ȝour head I heir ane mum,</l>
+                     <l>Ȝea ſall repent it fair.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Macrell.</speaker>
+               <lg n="40">
+                  <head>40</head>
+                  <lg>
+                     <l> Ȝon daintie Dame ſcho is ſa nyce</l>
+                     <l>Sche'ill nocht be win be na deuyce,</l>
+                     <l>For nouther prayer nor for pryce,</l>
+                     <l>For gould nor vther gaine.</l>
+                  </lg>
+                  <lg>
+                     <l>Scho is ſa ackwart and ſa thra,</l>
+                     <l>That with refuſe I come hir fra,</l>
+                     <l>Scho, be Sanct Marie ſaynde mee ſa,</l>
+                     <l>I dar not ga agane,</l>
+                  </lg>
+               </lg>
+               <stage>Philotus enteris in conference with the Madynis father.</stage>
+               <lg n="41">
+                  <head>41.</head>
+                  <lg>
+                     <l>Gude Goſſe, ſen ȝe haue euer bene,</l>
+                     <l>My trew and auld familiar freind,</l>
+                     <l>To mak mair quentance vs betwene,</l>
+                     <l>I glaidly could agrie:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝe haue ane douchter quhome vntill,</l>
+                     <l>I beare ane paſſing grit gude will,</l>
+                     <l>Quhais Phiſnomie prefigures skill,</l>
+                     <l>With wit and honeſtie.</l>
+                  </lg>
+               </lg>
+               <lg n="42">
+                  <head>42</head>
+                  <lg>
+                     <l>Gif mee that Laſſe to be my wyfe,</l>
+                     <l>For Tocher-gude ſall be na ſtryfe,</l>
+                     <l>Beleiue mee ſcho ſall haue ane lyfe,</l>
+                     <l>And for ȝour geir I cair not:</l>
+                  </lg>
+                  <lg>
+                     <l>Faith ȝe ȝour ſelf ſall modifie,</l>
+                     <l>Hir Lyfe, Rent, Land and Coniunct fie,</l>
+                     <l>And Goſſop, quhair thay ſame ſall be,</l>
+                     <l>Appoynt the place and ſpair not.</l>
+                  </lg>
+               </lg>
+               <lg n="43">
+                  <head>43</head>
+                  <lg>
+                     <l>Betwixt vs twa the Heyris-maill,</l>
+                     <l>Sall bruik my heritage all haill,</l>
+                     <l>Quhilks gif that thay happen to faill,</l>
+                     <l>To her Heyris quhat ſaeuer:</l>
+                  </lg>
+                  <lg>
+                     <l>My moueables I will deuyde,</l>
+                     <pb facs="tcp:579:9"/>
+                     <l>Ane pairt my Douchter to prouyde,</l>
+                     <l>Ane pairt to leaue ſum freind aſyde,</l>
+                     <l>Quhen deith ſall vs diſſeuer.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="44">
+                  <head>44</head>
+                  <lg>
+                     <l> Gude ſir, and goſſop I am glaid,</l>
+                     <l>That all be done as ȝe haue ſaid,</l>
+                     <l>Tak baith my bliſſing and the Mayd,</l>
+                     <l>Hame to ȝour hous togidder:</l>
+                  </lg>
+                  <lg>
+                     <l>And gif that ſcho play not hir pairt,</l>
+                     <l>In onie lawfull honeſt airt,</l>
+                     <l>And honour ȝow with all hir hairt,</l>
+                     <l>I wald ſho gaid not thither.</l>
+                  </lg>
+               </lg>
+               <stage>Alberto ſpeiks to his Dochter.</stage>
+               <lg n="45">
+                  <head>45</head>
+                  <lg>
+                     <l>For the ane man I haue foreſeine,</l>
+                     <l>Ane man of micht and welth I meine,</l>
+                     <l>That ſtaitlier may the ſuſteine,</l>
+                     <l>Nor ony of all thy kin:</l>
+                  </lg>
+                  <lg>
+                     <l>Ane man of honour and renoun,</l>
+                     <l>Ane of the Potentes of the toun:</l>
+                     <l>Quhair nane may beinlier ſit doun,</l>
+                     <l>This Citie all within.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="46">
+                  <head>46</head>
+                  <lg>
+                     <l> God and gude nature dois allow,</l>
+                     <l>That I obedient be to ȝow,</l>
+                     <l>And father hithertils I trow,</l>
+                     <l>Ȝe haue nane vtherſeine:</l>
+                  </lg>
+                  <lg>
+                     <l>And als eſtemis ȝow for to be,</l>
+                     <l>Ane louing father vnto mee,</l>
+                     <l>Thairfoir deir father let mee ſee,</l>
+                     <l>The man of quhome ȝe meine.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="47">
+                  <head>47</head>
+                  <lg>
+                     <l> Philotus is the man indeid,</l>
+                     <l>Quhair thow ane nobill lyfe may leid,</l>
+                     <l>With quhome I did ſa far proceid,</l>
+                     <l>Wee want bot thy gude will:</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:579:9"/>
+                     <l>Now giue thy frie conſent thairfoir,</l>
+                     <l>Deck vp and do thy ſelf decoir,</l>
+                     <l>Gang quickly to and ſay no moir,</l>
+                     <l>Thow man agrie thairtill.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emilie.</speaker>
+               <lg n="48">
+                  <head>48</head>
+                  <lg>
+                     <l> Gif ȝe fra furie wald refraine,</l>
+                     <l>And patientlie heir me agane,</l>
+                     <l>I ſould ȝow ſchaw in termis plane,</l>
+                     <l>With reaſon ane excuſe:</l>
+                  </lg>
+                  <lg>
+                     <l>Sen Mariage bene but thraldome free,</l>
+                     <l>God and gude nature dois agree,</l>
+                     <l>That I quhair as it lykes not mee,</l>
+                     <l>May lawfullie refuſe.</l>
+                  </lg>
+               </lg>
+               <lg n="49">
+                  <head>49</head>
+                  <lg>
+                     <l>I am fourtene, and hee foureſcoir,</l>
+                     <l>I haill and ſound, hee ſeik and ſoir,</l>
+                     <l>How can I giue conſent thairfoir,</l>
+                     <l>Or ȝit till him agree?</l>
+                  </lg>
+                  <lg>
+                     <l>Iudge gif Philotus be diſcreit,</l>
+                     <l>To ſeik ane match ſa far vnmeit,</l>
+                     <l>Thocht I refuſe him father ſweit,</l>
+                     <l>I pray ȝow pardon nice.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="50">
+                  <head>50</head>
+                  <lg>
+                     <l> How durſt thow trumper be ſa bald</l>
+                     <l>To rant or tell, that he was ald?</l>
+                     <l>Or durſt refuſe ocht that I wald,</l>
+                     <l>Haue bidden the obey:</l>
+                  </lg>
+                  <lg>
+                     <l>Bot ſen ȝe ſtand ſa lytill aw,</l>
+                     <l>Iſe gar ȝow Maiſtres for to knaw,</l>
+                     <l>The Impyre Parents hes belaw,</l>
+                     <l>Abuif thair Children ay.</l>
+                  </lg>
+               </lg>
+               <lg n="51">
+                  <head>51</head>
+                  <lg>
+                     <l>And heir to God I mak ane vow,</l>
+                     <l>Bot gif thow at my bidding bow,</l>
+                     <l>I ſall the dreſſe and harkin how,</l>
+                     <l>And ſyne aduyſe the better:</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:579:10"/>
+                     <l>I ſall thee caſt intill ane pit,</l>
+                     <l>Quhair thow for ȝeir and day ſall ſit,</l>
+                     <l>With breid and water ſurely knit</l>
+                     <l>Hard boundintill ane fetter.</l>
+                  </lg>
+               </lg>
+               <lg n="52">
+                  <head>52</head>
+                  <lg>
+                     <l>Thow ſat ſa ſoft vpon thy ſtuill.</l>
+                     <l>That making off maid the ane fuill,</l>
+                     <l>Bot I ſall mak thy curage euill,</l>
+                     <l>For all thy ſtomack ſtout:</l>
+                  </lg>
+                  <lg>
+                     <l>That efterwards quhill that thow leif,</l>
+                     <l>Thou's be agaſt mee for to greif.</l>
+                     <l>Perchance thow greines that play to preif,</l>
+                     <l>Aduyſe thee and ſpeik out.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="53">
+                  <head>53</head>
+                  <lg>
+                     <l> Sweit father, mitigate ȝour rage,</l>
+                     <l>Ȝour wraith and anger ſir, aſſwage,</l>
+                     <l>Haue pitie on my ȝouthlie age,</l>
+                     <l>Ȝour a win fleſch and ȝour blude:</l>
+                  </lg>
+                  <lg>
+                     <l>Gif in ȝour yre I be ouerthrawin.</l>
+                     <l>Quhome haue ȝe wraikit bot ȝour awin,</l>
+                     <l>Sik creweltie hes not bene knawin,</l>
+                     <l>Amang the Turkes ſa rude.</l>
+                  </lg>
+               </lg>
+               <lg n="54">
+                  <head>54</head>
+                  <lg>
+                     <l>The ſauage beiſts into thair kynde,</l>
+                     <l>Thair ȝoung to pitie ar inclynde,</l>
+                     <l>Let mercie thairfoir muif ȝour mynde,</l>
+                     <l>To her that humblie cryis:</l>
+                  </lg>
+                  <lg>
+                     <l>Tak vp and lenifie ȝour yre,</l>
+                     <l>Suſpend the furie of ȝour fyre.</l>
+                     <l>And grant me layſer, I deſyre,</l>
+                     <l>Ane lytill to aduyſe.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <stage>Heir followis the Oratioun of the ȝonker Flavius to the Madyn, hir anſwer and conſent, The convoying of her from her father: her father and the auld wower follow is, and finds Philerno the Madyns brother laitlie arryued, quhome thay tak to be the Madyn, and of his deceit.</stage>
+               <lg>
+                  <pb facs="tcp:579:10"/>
+                  <l>THe raging low, the feirce and flaming fyre</l>
+                  <l>That dois my breiſt and body al combure</l>
+                  <l>Iucendit with the dart of grit deſyre,</l>
+                  <l>Fra force of theſe twa ſparking eyis ful ſure,</l>
+                  <l>Hes me conſtraynit to cum and ſeik my cure</l>
+                  <l>Of her, fra quhom proceidit hes my wound,</l>
+                  <l>Quhom neyther Salue nor Syrop can aſſure,</l>
+                  <l>Bot only ſho can mak me ſaif and ſound.</l>
+               </lg>
+               <lg n="56">
+                  <head>56</head>
+                  <l>Lyke as the captiue with ane tyrant taine,</l>
+                  <l>Perforce with promiſe toiſtit to and fro,</l>
+                  <l>Quhen that he ſeis all vther graces gaine,</l>
+                  <l>Man ſuccour ſeik of him that wrocht his wo,</l>
+                  <l>Samon I fald to my maiſt freindly fo,</l>
+                  <l>To ſeik for ſalue of her that gaue the ſair:</l>
+                  <l>To pray for peace, thocht rigour bid me go,</l>
+                  <l>To cry for mercie, quhen as I may na mair.</l>
+               </lg>
+               <lg n="57">
+                  <head>57</head>
+                  <l>Sa ſen ȝe haue me captiuate as thrall,</l>
+                  <l>Sen ȝe preuaill, let pitie now haue place:</l>
+                  <l>Haue mercie ſen ȝe Maiſtres ar of all,</l>
+                  <l>Grudge not to grant ȝour ſupplicant ſum grace</l>
+                  <l>To ſlay ane taine man, war bot lack allace,</l>
+                  <l>Fra that he cum voluntarlie in will:</l>
+                  <l>Sen I am, Miſtres, in the ſelf ſame cace,</l>
+                  <l>Ane thrall conſenting pitie war to ſpill.</l>
+               </lg>
+               <lg n="58">
+                  <head>58</head>
+                  <l>Quhat ferly thocht, puir I with luif oppreſt</l>
+                  <l>Confes the force of the blynd Archer Boy?</l>
+                  <l>How was Appollo for his Daphne dreſt,</l>
+                  <l>And Mars amaſit his Venus to enjoy,</l>
+                  <l>Did not the thundering Iupiter convoy</l>
+                  <l>For Danae him ſelf into ane ſhowre,</l>
+                  <l>The gods aboue ſen luif hath maid them coy,</l>
+                  <l>Vnto his law then quhy ſould I not lowre?</l>
+               </lg>
+               <lg n="59">
+                  <pb facs="tcp:579:11"/>
+                  <head>59</head>
+                  <l>As taine with ane nor Daphne mair decoir</l>
+                  <l>Quhais vult to Venus may compairit be:</l>
+                  <l>And bene in bewtie Danae befoir.</l>
+                  <l>Suppoſe the God on hir did caſt his eye:</l>
+                  <l>Quhais graces to hir bewtie dois agrie,</l>
+                  <l>And in quhais fairnes is no foly found,</l>
+                  <l>Quhat meruell Miſtres than, ſuppoſe ȝe ſe,</l>
+                  <l>With willing band me to ȝour bewtie bound.</l>
+               </lg>
+               <lg n="60">
+                  <head>60</head>
+                  <l>Quhais bricht conteyning bewtie with the beamis</l>
+                  <l>Na les al vther pulchritude dois pas</l>
+                  <l>Nor to compair ane clud w<hi rend="sup">t</hi> glanſing gleames,</l>
+                  <l>Bricht Venus cullour with ane landwart las:</l>
+                  <l>The quhyteſt layke bot with the blackeſt aſſe,</l>
+                  <l>The rubent Rois bot with the wallowit weid</l>
+                  <l>As pureſt gold is preciouſer nor glaſſe,</l>
+                  <l>Ȝour bewtie ſa all vther dois exceid.</l>
+               </lg>
+               <lg n="61">
+                  <head>61</head>
+                  <l>Ȝour hair lyk gold, &amp; lyke the Pole ȝour eye</l>
+                  <l>Ȝour ſnawiſch cheiks lyke quhyteſt Allabaſt,</l>
+                  <l>Ȝour loueſum lips ſad, ſoft, and ſweit wee ſie,</l>
+                  <l>As Roſes red quhen that ane ſhowre is paſt:</l>
+                  <l>Ȝour toung micht mak Demoſthenes agaſt,</l>
+                  <l>Ȝour teith y<hi rend="sup">e</hi> peirls micht of thair place depryue</l>
+                  <l>With Bwillis of Indian Ebur at the laſt</l>
+                  <l>Ȝour Papis for the prioritie dois ſtryue.</l>
+               </lg>
+               <lg n="62">
+                  <head>62</head>
+                  <l>And lyke as quhen the ſtamping ſeale is ſet</l>
+                  <l>In wax weill wrocht, quhill it is ſoft I ſay,</l>
+                  <l>The prent thairof remayning may ȝe get,</l>
+                  <l>Suppois the ſeale it ſelf be tane away,</l>
+                  <l>Ȝour ſemlie ſhaip ſa ſall abyde for ay,</l>
+                  <l>Quhilk throw the ſicht my ſenſis hes reſſaifit,</l>
+                  <l>Thocht abſent ȝe, ȝit I ſall nicht and day,</l>
+                  <l>Ȝour preſence haue as in my hart ingraifit.</l>
+               </lg>
+               <lg n="63">
+                  <pb facs="tcp:579:11"/>
+                  <head>63</head>
+                  <l>Thocht fanſie be bot of ane figure fainit,</l>
+                  <l>Na figure feids quhair thair is na effect:</l>
+                  <l>Euin ſa ſweit ſaull I periſch bot as painit,</l>
+                  <l>With fanſie fed that will na faſting breck,</l>
+                  <l>Suppois I haue the accident quhat reck,</l>
+                  <l>Grant me the ſolide ſubſtance to atteine,</l>
+                  <l>Gif not, quhen ȝe to deith ſall me direct,</l>
+                  <l>Quhom bot ȝour awin haue ȝe co<g ref="char:cmbAbbrStroke">̄</g>foundit clein?</l>
+               </lg>
+               <lg n="64">
+                  <head>64</head>
+                  <l>Laſt, ſen ȝe may my meladie remeid,</l>
+                  <l>Releiue ȝour Syſiphus of his reſtles ſtane:</l>
+                  <l>Ȝour Titius breiſt that dois full ryfely bleid,</l>
+                  <l>Grant grace thairto, befoir the grip be gane,</l>
+                  <l>Cum ſtanche the thriſt of Tantalus anone,</l>
+                  <l>And cure ye wounds geuin with Achilles knyfe</l>
+                  <l>Accept for ȝours fair Maiſtres, ſuch a one,</l>
+                  <l>That for ȝour ſaik dar ſacrifice his lyfe.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="65">
+                  <head>65</head>
+                  <l>
+                     <hi>ȜOVR</hi> Oriſoun ſir ſounds with ſic ſkil</l>
+                  <l>In Cupids Court as ȝe had bene vpbrocht:</l>
+                  <l>Or foſterit in Parnaſſus forkit Hill</l>
+                  <l>Quhair Poetis hes thair flame and furie ſocht</l>
+                  <l>Nocht taiſting of ſweit Helicon for nocht,</l>
+                  <l>As be ȝour pleſant preface dois appeir:</l>
+                  <l>Tending thairby, quhill as we haue na thocht,</l>
+                  <l>To mak vs to ȝour purpois to adheir.</l>
+               </lg>
+               <lg n="66">
+                  <head>66</head>
+                  <l>With louing language tending till allure,</l>
+                  <l>With ſweit diſcourſe the ſimpill till ouirſyle,</l>
+                  <l>Ȝe caſt ȝour craft, ȝour cunning and ȝour cure,</l>
+                  <l>Bot puir Orphanes and Madynis to begyle,</l>
+                  <l>Ȝour waillit out words, inventit for a wyle,</l>
+                  <l>To trap all thoſe that trowis in ȝow na traine</l>
+                  <l>The frute of flattrie is bot to defyle,</l>
+                  <l>And ſpred that wee can neuer get agane.</l>
+               </lg>
+               <lg n="67">
+                  <pb facs="tcp:579:12"/>
+                  <head>67</head>
+                  <l>Ȝe gar vs trow that all our heids be cowit,</l>
+                  <l>In prayſing of our bewtie by the Skyis:</l>
+                  <l>Quhe<g ref="char:cmbAbbrStroke">̄</g> w<hi rend="sup">t</hi> ȝour words we ar na mair bot mowit</l>
+                  <l>This way to ſie gif vs ȝe may ſuppryſe,</l>
+                  <l>Ȝour doubill hart dois euerie day deuyſe,</l>
+                  <l>Ane thowſand ſhifts was neuer in ȝour thocht,</l>
+                  <l>Ȝe labour thus with all that in ȝow lyis,</l>
+                  <l>For till vndo, and bring vs all to nocht.</l>
+               </lg>
+               <lg n="68">
+                  <head>68</head>
+                  <l>And this conceate is common to ȝow all,</l>
+                  <l>For ȝour awin luſt, ȝe ſet not by our ſchame,</l>
+                  <l>Ȝour ſweiteſt word, ar ſeaſonit all with gall,</l>
+                  <l>Ȝour faireſt phraſe, disfigures bot defame,</l>
+                  <l>I think thairfoir thay gritlie ar to blame,</l>
+                  <l>That trowis in ȝow mair nor the thing thay ſe</l>
+                  <l>Bot I, quhill that Emilia is my Name</l>
+                  <l>To trow I ſall lyke to Sanct Thomas be.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flavius.</speaker>
+               <lg n="69">
+                  <head>69</head>
+                  <lg>
+                     <l> For feir ſweit maiſtres quhat remeid</l>
+                     <l>Quha may perſwade quhair thair is dreid:</l>
+                     <l>Ȝit deme ȝe wrangouſlie in deid,</l>
+                     <l>Now be my ſaull I ſweir:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝour honour, not ȝour ſchame I ſeik,</l>
+                     <l>I count not by my luſt ane leik,</l>
+                     <l>It was na ſik thing Maiſtres meik,</l>
+                     <l>That maid me to cum heir.</l>
+                  </lg>
+               </lg>
+               <lg n="70">
+                  <head>70</head>
+                  <lg>
+                     <l>This is my ſute ȝe ſall me truſt,</l>
+                     <l>Iudge ȝe ȝour ſelf gif it be juſt,</l>
+                     <l>In honeſt luif and honeſt luſt,</l>
+                     <l>With ȝow to leid my lyfe:</l>
+                  </lg>
+                  <lg>
+                     <l>This is the treuth of my intent,</l>
+                     <l>In lawfull lufe bot onlie bent,</l>
+                     <l>Aduyſe ȝow gif ȝe can conſent,</l>
+                     <l>To be my weddit wyfe.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="71">
+                  <pb facs="tcp:579:12"/>
+                  <head>71</head>
+                  <lg>
+                     <l> Sir ſurelie gif I vnderſtude,</l>
+                     <l>Ȝour meining for to be as gude,</l>
+                     <l>I think in ane wee ſould conclude,</l>
+                     <l>Befoir that it wer lang:</l>
+                  </lg>
+                  <lg>
+                     <l>I am content to be ȝour wyfe,</l>
+                     <l>To lufe and ſerue ȝow all my lyfe,</l>
+                     <l>Bot rather ſlay me with a knyfe,</l>
+                     <l>Nor offer me ane wrang.</l>
+                  </lg>
+               </lg>
+               <lg n="72">
+                  <head>72</head>
+                  <lg>
+                     <l>Bot ſir, ane thing I haue to ſay,</l>
+                     <l>My father hes this vther day,</l>
+                     <l>In Mariage promiſit me away,</l>
+                     <l>Vpon ane deid auld man:</l>
+                  </lg>
+                  <lg>
+                     <l>With quhome thocht I be not content,</l>
+                     <l>Till nane vther he will conſent,</l>
+                     <l>Mak to thairfoir for till invent</l>
+                     <l>Ane convoy, gif ȝow can.</l>
+                  </lg>
+               </lg>
+               <lg n="73">
+                  <head>73</head>
+                  <lg>
+                     <l>Lykewayis ȝow mon firſt to me ſweir,</l>
+                     <l>That ȝe to me ſall do na deir,</l>
+                     <l>Nor ſall not cum my bodie neir,</l>
+                     <l>For villanie nor ill:</l>
+                  </lg>
+                  <lg>
+                     <l>Ay quhill the Nuptiall day ſall ſtand,</l>
+                     <l>And farther ſir, gif mee ȝour hand,</l>
+                     <l>With me for to compleit the band,</l>
+                     <l>And promeis to fulfill.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flavius.</speaker>
+               <lg n="74">
+                  <head>74</head>
+                  <lg>
+                     <l> Haue thair my hand with al my hart</l>
+                     <l>And faithfull promeis for my part,</l>
+                     <l>Na tyme to change quhill deithis dart,</l>
+                     <l>Put till my lyfe ane end:</l>
+                  </lg>
+                  <lg>
+                     <l>Bot be ane Husband traiſt and trew,</l>
+                     <l>For na ſuſpect that anis ſall rew,</l>
+                     <l>Bot readie ay to do my dew,</l>
+                     <l>And neuer till offend.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="75">
+                  <pb facs="tcp:579:13"/>
+                  <head>75</head>
+                  <lg>
+                     <l> All day quhairto the tr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>th to tell,</l>
+                     <l>I dar nocht with that matter mel,</l>
+                     <l>Bot ȝit I ſall deuyſe my ſell,</l>
+                     <l>Ane ſchift to ſerue our turne:</l>
+                  </lg>
+                  <lg>
+                     <l>For keiping ſtairt baith lait and air,</l>
+                     <l>Vnſend-furth may I neuer fair,</l>
+                     <l>Make I ane mint and do na mair,</l>
+                     <l>I may for euer murne.</l>
+                  </lg>
+               </lg>
+               <lg n="76">
+                  <head>76</head>
+                  <lg>
+                     <l>Quhen I haue vnbethocht me thryſe,</l>
+                     <l>I can na better way deuyſe,</l>
+                     <l>Bot that I man me diſagyſe,</l>
+                     <l>In habite of ane man:</l>
+                  </lg>
+                  <lg>
+                     <l>Thus I but danger or but dout,</l>
+                     <l>This buſines may bring about,</l>
+                     <l>In mans array vnkend pas out,</l>
+                     <l>For ocht my keipars can.</l>
+                  </lg>
+               </lg>
+               <lg n="77">
+                  <head>77</head>
+                  <lg>
+                     <l>Thairfoir ȝe ſall gang and prouyde,</l>
+                     <l>Ane Pages claithis in the meine tyde,</l>
+                     <l>For all occaſions me beſyde,</l>
+                     <l>Againſt I haue ado:</l>
+                  </lg>
+                  <lg>
+                     <l>Let me euin as thay liſt me call,</l>
+                     <l>Or quhat ſumeuer me befall,</l>
+                     <l>I hope within thrie dayis I ſall,</l>
+                     <l>Cum quyetly ȝow to.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flavius.</speaker>
+               <lg n="78">
+                  <head>78</head>
+                  <lg>
+                     <l> Be my awin meins I ſall atteine,</l>
+                     <l>And ſend to ȝow thay claithis vnſene,</l>
+                     <l>Convoy lat ſie all things ſa cleine,</l>
+                     <l>That neuer nane ſuſpeck:</l>
+                  </lg>
+                  <lg>
+                     <l>I will wait on my ſelf and meit ȝow,</l>
+                     <l>To ſe ȝour new claiths as thay ſet ȝow,</l>
+                     <l>The Carle that hecht ſa weill to treit ȝow,</l>
+                     <l>I think ſall get ane geck.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emilie.</speaker>
+               <lg n="79">
+                  <pb facs="tcp:579:13"/>
+                  <head>79</head>
+                  <lg>
+                     <l>I haue won narrowlie away,</l>
+                     <l>Ȝon Carle half put me in effray,</l>
+                     <l>He lay in wait and waiting ay,</l>
+                     <l>In changing aff my claithis:</l>
+                  </lg>
+                  <lg>
+                     <l>Sir, let vs ga out of his ſicht,</l>
+                     <l>Sen I am frie, my freind gude-nicht,</l>
+                     <l>He lukis as all things war not richt,</l>
+                     <l>Lo ȝonder quhair he gais.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flavius.</speaker>
+               <lg n="80">
+                  <head>80</head>
+                  <lg>
+                     <l> My onlie luif and Ladie quhyte,</l>
+                     <l>My darling deir and my delyte,</l>
+                     <l>How ſall I euer the requyte,</l>
+                     <l>This grit gude will let ſee:</l>
+                  </lg>
+                  <lg>
+                     <l>That but reſpect that men callis ſchame,</l>
+                     <l>Nor haȝart of thy awin gude name,</l>
+                     <l>For brute, for blaſphemie nor blame,</l>
+                     <l>Hes venterit all for mee.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Stephano Albertus Servant.</speaker>
+               <lg n="81">
+                  <head>81</head>
+                  <lg>
+                     <l>Maiſter full far I haue ȝow ſocht,</l>
+                     <l>And full ill newes I haue ȝow brocht,</l>
+                     <l>The thing allace, I neuer thocht,</l>
+                     <l>Hes happinnit ȝow this day:</l>
+                  </lg>
+                  <lg>
+                     <l>Ȝour douchter ſir (ȝe had bot ane)</l>
+                     <l>Ane mannis claithis hes on hir tane,</l>
+                     <l>And quyetlie hes hir earand gaue,</l>
+                     <l>I can not tell quhat way.</l>
+                  </lg>
+               </lg>
+               <lg n="82">
+                  <head>82</head>
+                  <lg>
+                     <l>I wonderit firſt and was agaſt,</l>
+                     <l>Bot quhen I ſaw that ſho was paſt,</l>
+                     <l>I followit efter wonder faſt,</l>
+                     <l>Ȝit was I not the better:</l>
+                  </lg>
+                  <lg>
+                     <l>Scho ſchiftit hes hir ſelf aſyde,</l>
+                     <l>And in ſum hous ſho did hir hyde,</l>
+                     <l>Na ſir, quhat euer ſall betyde,</l>
+                     <l>It will be hard to get her.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="83">
+                  <pb facs="tcp:579:14"/>
+                  <head>83</head>
+                  <lg>
+                     <l> Fals pewtene hes ſcho play it that ſport</l>
+                     <l>Hes ſcho me handlit in this ſort?</l>
+                     <l>To God I vow cum I athort,</l>
+                     <l>And lay on hir my handis:</l>
+                  </lg>
+                  <lg>
+                     <l>I ſall hir ane exampill mak,</l>
+                     <l>To trumpers all durſt vndertak,</l>
+                     <l>For to commit ſa foull ane fack,</l>
+                     <l>Quhill that this Citie ſtandis.</l>
+                  </lg>
+               </lg>
+               <lg n="84">
+                  <head>84</head>
+                  <lg>
+                     <l>Vylde vagabound fals harlot hure,</l>
+                     <l>Had ſho na ſchame, tuke ſho na cure,</l>
+                     <l>Of Parentis that hir gat and bure,</l>
+                     <l>Nor blude of quhilk ſho ſprang:</l>
+                  </lg>
+                  <lg>
+                     <l>All honeſt bewtie to diſpyſe,</l>
+                     <l>And lyke ane man hir diſagyſe,</l>
+                     <l>Vnwomanlie in ſik ane wyſe,</l>
+                     <l>As gudget for to gang.</l>
+                  </lg>
+               </lg>
+               <lg n="85">
+                  <head>85</head>
+                  <lg>
+                     <l>Fals miſchant, full of all miſcheif,</l>
+                     <l>Diſſaitfull traitour, commoun theif,</l>
+                     <l>Of all thy kin curit not the greif,</l>
+                     <l>For fleſchly foull delyte:</l>
+                  </lg>
+                  <lg>
+                     <l>Quha ſall into ſik trumpers truſt?</l>
+                     <l>Quhais wickit wayis ar ſa vnjuſt,</l>
+                     <l>And led with lewd licentious luſt,</l>
+                     <l>And beaſtlie appetyte.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="86">
+                  <head>86</head>
+                  <lg>
+                     <l> O ſex vncertaine, frayle and fals,</l>
+                     <l>Diſſimulate and diſſaitfull als,</l>
+                     <l>With honie lips to hald in hals,</l>
+                     <l>Bot with ane wickit mynde:</l>
+                  </lg>
+                  <lg>
+                     <l>Quhome will dois mair nor reaſoun mufe,</l>
+                     <l>Mair lecherie nor honeſt lufe,</l>
+                     <l>Mair harlotrie nor gude behufe,</l>
+                     <l>Vnconſtant and vnkynde.</l>
+                  </lg>
+               </lg>
+               <lg n="87">
+                  <pb facs="tcp:579:14"/>
+                  <head>87</head>
+                  <lg>
+                     <l>In quhome ane ſhaw, bot na ſhame ſinks,</l>
+                     <l>That ane thing ſayis and vther thinks:</l>
+                     <l>Ane eye lukis vp, ane vther winks,</l>
+                     <l>With fair and feinȝe it face:</l>
+                  </lg>
+                  <lg>
+                     <l>Bot Goſſop go, quhill it is greine,</l>
+                     <l>For to ſeik out quha hes hir ſeine,</l>
+                     <l>Gif of hir moyen wee get ane meine,</l>
+                     <l>It war ane happie grace.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg n="88">
+                  <head>88</head>
+                  <lg>
+                     <l> Gude ſirs is nane of ȝow can tell,</l>
+                     <l>In quhat ſtreit dois Alberto dwell,</l>
+                     <l>Or be quhat ſinge Ile knaw my ſell,</l>
+                     <l>Gude brethren all about:</l>
+                  </lg>
+                  <lg>
+                     <l>For thocht I be his Sone and Heyre,</l>
+                     <l>I knaw him not a myte the mair,</l>
+                     <l>And to this Town dois now repair,</l>
+                     <l>My father to find out.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="89">
+                  <head>89</head>
+                  <lg>
+                     <l> Ȝea harlote, trowit thow for to ſkip</l>
+                     <l>Sen I haue gottin of the ane grip,</l>
+                     <l>Be Chriſt I ſall thy nurture nip,</l>
+                     <l>Richt ſcharply or wee ſched:</l>
+                  </lg>
+                  <lg>
+                     <l>For God nor I rax in ane raip,</l>
+                     <l>And euer thow fra my hand eſcaip,</l>
+                     <l>Quhill I haue pullit the lyke ane Paip,</l>
+                     <l>Quhair nane ſall be to red.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="90">
+                  <head>90</head>
+                  <lg>
+                     <l> Rage not gude goſſe, bot hald ȝour toung</l>
+                     <l>The las bot bairnlie is and ȝoung,</l>
+                     <l>I wald be laith to wit hir dung,</l>
+                     <l>Suppoſe ſcho hath offendit:</l>
+                  </lg>
+                  <lg>
+                     <l>Forgiue hir this ane fault for mee,</l>
+                     <l>And I ſall ſouertie for hir bee,</l>
+                     <l>That inſtantly ſho ſall agree,</l>
+                     <l>That this ſlip ſould be mendit.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno</speaker>
+               <lg n="91">
+                  <pb facs="tcp:579:15"/>
+                  <head>91</head>
+                  <lg>
+                     <l> Father I grant my haill offence,</l>
+                     <l>Thir claithes I haue tane till ga hence,</l>
+                     <l>And gif it pleaſe ȝow till diſpence,</l>
+                     <l>With thir things that ar paſt:</l>
+                  </lg>
+                  <lg>
+                     <l>Thir bygane faultes will ȝe forgiue,</l>
+                     <l>And efter father quhili I liue,</l>
+                     <l>Agane I ſall ȝow neuer greiue,</l>
+                     <l>Quhill that my lyfe may laſt.</l>
+                  </lg>
+               </lg>
+               <lg n="92">
+                  <head>92</head>
+                  <l>Schaw me the maner and the way,</l>
+                  <l>And I ȝour bidding ſall obey,</l>
+                  <l>And neuer ſall ȝour will gane ſay,</l>
+                  <l>Bot be at ȝour command:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg>
+                  <l>This fault heir frelie I forgiue thee,</l>
+                  <l>Philotus is the man releiues thee,</l>
+                  <l>Or vtherwayis I had miſcheifit thee,</l>
+                  <l>And now giue mee thy hand.</l>
+               </lg>
+               <lg n="93">
+                  <head>93</head>
+                  <l>This is my ordinance and will,</l>
+                  <l>Giue thy conſent Philotus till,</l>
+                  <l>To marie him and to fulfill,</l>
+                  <l>That godlie bliſſit band:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg>
+                  <l>Father, I hartlie am content,</l>
+                  <l>And heirto giues my full conſent,</l>
+                  <l>For it richt fair wald mee repent,</l>
+                  <l>Gif I ſould ȝow gainſtand.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="94">
+                  <head>94</head>
+                  <lg>
+                     <l>Heir is my hand my darling dow,</l>
+                     <l>To be ane faithfull ſpous to ȝow,</l>
+                     <l>Now be my ſaull Goſſop I trow,</l>
+                     <l>This is ane happie meiting:</l>
+                  </lg>
+                  <lg>
+                     <l>This mater Goſſe, is ſa weill dreſt,</l>
+                     <l>That all things ar cumde for the beſt,</l>
+                     <l>Bot let vs ſet amang the reſt,</l>
+                     <l>Ane day for all compleiting.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="95">
+                  <pb facs="tcp:579:15"/>
+                  <head>95</head>
+                  <l> Ane Moneth and na langer day,</l>
+                  <l>For it requyres na grit delay,</l>
+                  <l>Tak thair ȝour wyfe with ȝow away,</l>
+                  <l>And vſe hir as ȝe will:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg>
+                  <l> Forſuith ȝe ſall ga with me hame,</l>
+                  <l>Quhair I ſall keip ȝow ſaif fra ſchame,</l>
+                  <l>Vnto the day, or than mee blame,</l>
+                  <l>That ſcho ſall haue nane ill.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Pleſant.</speaker>
+               <lg n="96">
+                  <head>96</head>
+                  <lg>
+                     <l> Quha euer ſaw in all thair lyfe,</l>
+                     <l>Twa cappit Cairlis mak ſik ane ſtryfe,</l>
+                     <l>To tak a ȝoung man for his wyfe,</l>
+                     <l>Ȝon cadgell wald be glaid:</l>
+                  </lg>
+                  <lg>
+                     <l>The feind reſaue the feckles frunt,</l>
+                     <l>Put doun thy hand and graip hir cunt,</l>
+                     <l>The Carle kennis not, he is ſa blunt,</l>
+                     <l>Gif ſcho be man or maid.</l>
+                  </lg>
+               </lg>
+               <lg n="97">
+                  <head>97</head>
+                  <lg>
+                     <l>Auld guckis the mundie, ſho is a gillie,</l>
+                     <l>Scho is a Colt-foill, not a fillie,</l>
+                     <l>Scho wants a dow, bot hes a pillie,</l>
+                     <l>That will play the ane paſſe:</l>
+                  </lg>
+                  <lg>
+                     <l>Put doun thy hand vane Carle and graip,</l>
+                     <l>As thay had wont to cheis the Paip,</l>
+                     <l>For thow hes gotten ane joke jaip,</l>
+                     <l>In lykenes of ane Laſſe.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <stage>Philotus ſpeiks to his Dochter Briſila.</stage>
+               <lg n="98">
+                  <head>98</head>
+                  <lg>
+                     <l>Briſilla Dochter myne giue eir,</l>
+                     <l>A Mother I haue brocht the heir,</l>
+                     <l>To mee a wyfe and darling deir,</l>
+                     <l>I the command thairfoir</l>
+                  </lg>
+                  <lg>
+                     <l>Hir honour, ſerue, obey and luif,</l>
+                     <l>Wirk ay the beſt for hir behuif,</l>
+                     <l>To pleis hir ſie thy pairt thow pruif,</l>
+                     <pb facs="tcp:579:16"/>
+                     <l>With wit and all devoit.</l>
+                  </lg>
+               </lg>
+               <stage>Philotus to his new Bryde.</stage>
+               <lg n="99">
+                  <head>99</head>
+                  <l>Vſe hir euen as ȝour awin my dow,</l>
+                  <l>Keip hir, for ſho ſall ly with ȝow,</l>
+                  <l>Quhill I may lawfullie avow,</l>
+                  <l>To lay ȝow be my ſyde:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg>
+                  <l>I ſall ȝour dochter Husband ſweit,</l>
+                  <l>Na les nor my companȝeoun treit,</l>
+                  <l>And follow baith at bed and meit,</l>
+                  <l>Quhill that I be ane bryde.</l>
+               </lg>
+               <stage>Philerno to Briſilla.</stage>
+               <lg n="100">
+                  <head>100</head>
+                  <lg>
+                     <l>How dois the quheill of Fortoun go,</l>
+                     <l>Quhat wickit weird hes wrocht our wo?</l>
+                     <l>Briſilla ȝouris and myne alſo,</l>
+                     <l>Vnhappilie, I ſay:</l>
+                  </lg>
+                  <lg>
+                     <l>Our fathers baith hes done agrie,</l>
+                     <l>That I to ȝouris, euin as ȝe ſie,</l>
+                     <l>And ȝe to myne ſall maryit be,</l>
+                     <l>And all vpon ane day.</l>
+                  </lg>
+               </lg>
+               <lg n="101">
+                  <head>101</head>
+                  <lg>
+                     <l>Hard is our hap and luckles chance.</l>
+                     <l>Quha pities vs ſuppoſe wee pance?</l>
+                     <l>Full oft this mater did I ſkance,</l>
+                     <l>Bot with my ſelf befoir:</l>
+                  </lg>
+                  <lg>
+                     <l>I haue bene threatnit and forflittin,</l>
+                     <l>Sa oft that I am with it bittin,</l>
+                     <l>Invent a way or it be wittin,</l>
+                     <l>And remedie thairfoir.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Briſilla.</speaker>
+               <lg n="120">
+                  <head>120</head>
+                  <lg>
+                     <l>Maiſtres allace for ſik remeid,</l>
+                     <l>That ſik ane purpois ſould proceid,</l>
+                     <l>I wald wiſch rather to be deid,</l>
+                     <l>Nor in that maner matchit:</l>
+                  </lg>
+                  <lg>
+                     <l>Quhat aillit ȝe Parentes to prepair.</l>
+                     <pb facs="tcp:579:16"/>
+                     <l>Ȝour Childrens deip continuall cair,</l>
+                     <l>Ȝour crewell handes quhy did ȝe ſpair,</l>
+                     <l>Firſt vs to haue diſpatchit.</l>
+                  </lg>
+               </lg>
+               <lg n="103">
+                  <head>103</head>
+                  <lg>
+                     <l>Vnnaturall fathers now quhairfoir?</l>
+                     <l>Wald ȝe ȝour dochters thus deuoir?</l>
+                     <l>For ȝour vane fantaſies far moir,</l>
+                     <l>Nor onie gude reſpeck:</l>
+                  </lg>
+                  <lg>
+                     <l>Is it not doittrie hes ȝow dreuin,</l>
+                     <l>Haiknayis to ſeik for haiſt to Heauin?</l>
+                     <l>I trow that all the warld euin,</l>
+                     <l>Sall at ȝour guckrie geck.</l>
+                  </lg>
+               </lg>
+               <lg n="104">
+                  <head>104</head>
+                  <lg>
+                     <l>Solace to ſeik them ſelues to ſla,</l>
+                     <l>Ane myre to miſſe thay fall in ma:</l>
+                     <l>Thay get bot greif quhen as thay ga,</l>
+                     <l>To get thair greiteſt game:</l>
+                  </lg>
+                  <lg>
+                     <l>And wee ȝoung things tormentit to,</l>
+                     <l>Thair daffing dois vs ſwa vndo,</l>
+                     <l>Gif thay be wyſe, thair doings lo,</l>
+                     <l>Will ſignifie the ſame.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg n="105">
+                  <head>105</head>
+                  <lg>
+                     <l> It profeitis not for to compleine,</l>
+                     <l>Let vs forſie our ſelues betwene,</l>
+                     <l>How wee this perrell may preueine,</l>
+                     <l>And ſaif vs fra thair ſnairis:</l>
+                  </lg>
+                  <lg>
+                     <l>Gif that the Goddes, as thay weill can,</l>
+                     <l>Wald mee transforme intill ane man,</l>
+                     <l>Wee twa our ſelues ſould marie than,</l>
+                     <l>And ſaif vs fra thair cairis,</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Briſilla.</speaker>
+               <lg n="106">
+                  <head>106</head>
+                  <l>Mak ȝow a ma<g ref="char:cmbAbbrStroke">̄</g>, that is bot mowis</l>
+                  <l>To think thairon ȝour greif bot growis,</l>
+                  <l>For that deuyſe deuill haid it dowis,</l>
+                  <l>Sen it can neuer be:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg>
+                  <l>Quhy not? gif that with faith we pray</l>
+                  <pb facs="tcp:579:17"/>
+                  <l>For oft the Goddes as I hard ſay,</l>
+                  <l>Hes done the lyke and ȝit thay may,</l>
+                  <l>Perchance till vs agrie.</l>
+               </lg>
+               <lg n="107">
+                  <head>107</head>
+                  <lg>
+                     <l>That Iphis was a Mayd we reid,</l>
+                     <l>And ſwa did for hir prayer ſpeid,</l>
+                     <l>For verie reuth the Goddes indeid,</l>
+                     <l>Tranſformde hir in ane man:</l>
+                  </lg>
+                  <lg>
+                     <l>Pigmaleons prayer purchaſt lyfe,</l>
+                     <l>Vnto his new eburneall wyfe,</l>
+                     <l>Quhais handis had caruit hir with ane knyfe,</l>
+                     <l>With viſage paill and wan.</l>
+                  </lg>
+               </lg>
+               <lg n="108">
+                  <head>108</head>
+                  <lg>
+                     <l>Quhy may not now als weill as than,</l>
+                     <l>The Goddes convert me in ane man,</l>
+                     <l>The lyke gif that my prayer can,</l>
+                     <l>I ſurelie will aſſay:</l>
+                  </lg>
+                  <lg>
+                     <l>Maiſt ſecreit Goddes Celeſtiall,</l>
+                     <l>Ȝe michtie Muifers greit and ſmall,</l>
+                     <l>And Heauinlie powers ane and all,</l>
+                     <l>Maiſt humblie I ȝow pray,</l>
+                  </lg>
+               </lg>
+               <lg n="109">
+                  <head>109</head>
+                  <lg>
+                     <l>Luke doun from ȝour impyre aboue,</l>
+                     <l>And from ȝour heich triumphant Trone,</l>
+                     <l>Till vs puir ſaullis ſend ſuccour ſone,</l>
+                     <l>Of ȝour maiſt ſpeciall grace:</l>
+                  </lg>
+                  <lg>
+                     <l>Behald how wee puir Madynis murne,</l>
+                     <l>For feir and luif how baith wee burne,</l>
+                     <l>Thairfoir intill ane man mee turne,</l>
+                     <l>For till eſchew this cace.</l>
+                  </lg>
+               </lg>
+               <lg n="110">
+                  <head>110</head>
+                  <lg>
+                     <l>Behald our Parents hes oppreſt,</l>
+                     <l>And by all dew thair Dochters dreſt,</l>
+                     <l>With vnmeit matches to moleſt,</l>
+                     <l>Vs ſillie ſaullis ȝe ſie:</l>
+                  </lg>
+                  <lg>
+                     <l>Thairfoir immortall Goddes of grace,</l>
+                     <pb facs="tcp:579:17"/>
+                     <l>Grant that our prayeris may tak place,</l>
+                     <l>Conuert my kynde, this cairfull cace,</l>
+                     <l>With ſolace to ſupplie.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Pleſant.</speaker>
+               <lg n="111">
+                  <head>111</head>
+                  <lg>
+                     <l> Ane faith perfumit with fyne folie,</l>
+                     <l>And monie vane word alla-volie,</l>
+                     <l>Thy prayer is not halfſa holie,</l>
+                     <l>Houſe-lurdane as it ſemis:</l>
+                  </lg>
+                  <lg>
+                     <l>Bot all inventit for a wyle,</l>
+                     <l>Thy bedfallow for to begyle,</l>
+                     <l>The bonie Laſſe bot to defyle,</l>
+                     <l>Na dowbilnes that demes.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Briſilla.</speaker>
+               <lg n="112">
+                  <head>112</head>
+                  <lg>
+                     <l> Maiſtris quhat now? bethink ye dreme.</l>
+                     <l>Or than to be in ſowne ȝe ſeime:</l>
+                     <l>Scho lyis als deid, quhat ſall I deime,</l>
+                     <l>Of this vnhappie chance?</l>
+                  </lg>
+                  <lg>
+                     <l>Scho will not heir me for na cryis,</l>
+                     <l>For plucking on ſcho will not ryis,</l>
+                     <l>Sa larbair-lyke lo as ſcho lyis,</l>
+                     <l>As raueiſt in a trance.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg n="113">
+                  <head>113</head>
+                  <lg>
+                     <l>O bliſfull Deitis diuyne,</l>
+                     <l>Maiſt happie conuent, Court and Tryne,</l>
+                     <l>That dois ȝour glorious eiris inclyne,</l>
+                     <l>Our prayeris to adheir:</l>
+                  </lg>
+                  <lg>
+                     <l>We rander thanks vnto ȝow all,</l>
+                     <l>For heiring vs quhen that wee call,</l>
+                     <l>And ridding vs from bondage thrall,</l>
+                     <l>As plainlie dois appeir.</l>
+                  </lg>
+               </lg>
+               <lg n="114">
+                  <head>114</head>
+                  <lg>
+                     <l>I am ane man Briſilla lo,</l>
+                     <l>And with all neceſſaris thairto,</l>
+                     <l>May all that onie man may do,</l>
+                     <l>I ſall gar ȝow conſidder:</l>
+                  </lg>
+                  <lg>
+                     <l>Now ſen the Goddis abone hes brocht,</l>
+                     <pb facs="tcp:579:18"/>
+                     <l>This wonderous wark, and hes it wrocht,</l>
+                     <l>And grantit all euin as wee ſocht,</l>
+                     <l>Let vs be glaid togidder.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Briſilla.</speaker>
+               <lg n="115">
+                  <head>115</head>
+                  <lg>
+                     <l> Now ſen the Gods hes ſuccour ſent</l>
+                     <l>And done euen as wee did invent,</l>
+                     <l>My joy I hartly am content,</l>
+                     <l>To do as ȝe deuyſe:</l>
+                  </lg>
+                  <lg>
+                     <l>Throw Gods decreit my onlie choyſe,</l>
+                     <l>In mutuall luif wee ſall rejoyſe,</l>
+                     <l>Our furious fathers baith ſuppoſe</l>
+                     <l>Thay wald skip in the Skyis.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="116">
+                  <head>116</head>
+                  <l>My dow ſuppois I did delay,</l>
+                  <l>Now cum is our ſweit Nuptiall day,</l>
+                  <l>Thairfoir mak haiſt ſooa that wee may,</l>
+                  <l>In tyme cum to the Kirk:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno</speaker>
+               <lg>
+                  <l> Ga quhen ȝe liſt ſir, I am readie,</l>
+                  <l>Thair is ane Guſ-heid, for be our Ladie,</l>
+                  <l>I was ȝour Sone, and ȝe my Dadie,</l>
+                  <l>This morning in the mirk.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <lg n="117">
+                  <head>117</head>
+                  <lg>
+                     <l>I dout not bot ȝe vnderſtand,</l>
+                     <l>How God is Authour of this band,</l>
+                     <l>And the actioun that wee haue in hand,</l>
+                     <l>He did himſelf out ſet:</l>
+                  </lg>
+                  <lg>
+                     <l>To that effect all men I meine,</l>
+                     <l>Micht keip thair bodyes puir and cleine,</l>
+                     <l>Fra Fornication till abſteine,</l>
+                     <l>And Children to beget.</l>
+                  </lg>
+               </lg>
+               <lg n="118">
+                  <head>118</head>
+                  <lg>
+                     <l>Bot ſen the mater cums athort,</l>
+                     <l>Ilk vther day, I will be ſchort,</l>
+                     <l>And dois the parties baith exhort,</l>
+                     <l>To charitie and luif:</l>
+                  </lg>
+                  <lg>
+                     <l>Tak heir this woman for your wyfe,</l>
+                     <pb facs="tcp:579:18"/>
+                     <l>Keip, luif and cheriſch hir but ſtryfe,</l>
+                     <l>All vther als terme of your lyfe,</l>
+                     <l>Saif hir ȝe ſall remuif.</l>
+                  </lg>
+               </lg>
+               <lg n="119">
+                  <head>119</head>
+                  <lg>
+                     <l>Tak for ȝour Spous Philotus than,</l>
+                     <l>Obey and luif him as ȝe can,</l>
+                     <l>Forſaik for him all vther man,</l>
+                     <l>Quhill deith do ȝow diſſeuer:</l>
+                  </lg>
+                  <lg>
+                     <l>The Lord to ſanctifie and bleſſe ȝow,</l>
+                     <l>His grace and fauour als I wiſch ȝow,</l>
+                     <l>Let not his luif and mercie miſſe ȝow,</l>
+                     <l>Bot be with ȝow for euer.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <stage>Flavius conjuration.</stage>
+               <lg n="120">
+                  <head>120</head>
+                  <lg>
+                     <l>O mercie God, how may this be?</l>
+                     <l>Ȝon is indeid richt Emilie,</l>
+                     <l>In forme of hir a faith I ſie,</l>
+                     <l>Sum Deuill hes me deſaifit:</l>
+                  </lg>
+                  <lg>
+                     <l>I will in haiſt thairfoir gang hame,</l>
+                     <l>Expell ȝon Spreit for ſin and ſchame,</l>
+                     <l>And to tell me the awin richt Name,</l>
+                     <l>For Gods caus I will craif it.</l>
+                  </lg>
+               </lg>
+               <lg n="121">
+                  <head>121</head>
+                  <lg>
+                     <l>The Croce of God our Sauiour ſweit,</l>
+                     <l>To ſaif and ſane me fra that Spreit,</l>
+                     <l>That thow na hap haue for to meit,</l>
+                     <l>With me in all thy lyfe:</l>
+                  </lg>
+                  <lg>
+                     <l>In Gods behalf I charge the heir,</l>
+                     <l>That thow ſtraik in my hart na feir,</l>
+                     <l>Bot pas thy way and do na deir,</l>
+                     <l>To neyther man nor wyfe.</l>
+                  </lg>
+               </lg>
+               <lg n="122">
+                  <head>122</head>
+                  <lg>
+                     <l>Firſt I conjure the be Sanct Marie,</l>
+                     <l>Be Alriſch King and Queene of Farie,</l>
+                     <l>And be the Trinitie to tarie,</l>
+                     <l>Quhill thow the treuth haue taull:</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:579:19"/>
+                     <l>Be Chriſt and his Apoſtilles twell;</l>
+                     <l>Be Sanctis of Heuin and hewis of Hell,</l>
+                     <l>Be auld Sanct Tuſtian him ſell,</l>
+                     <l>Be Peter and be Paull.</l>
+                  </lg>
+               </lg>
+               <lg n="123">
+                  <head>123</head>
+                  <lg>
+                     <l>Be Mathew, Mark, be Luik and Iohne,</l>
+                     <l>Be Lethe, Stir and Acherone,</l>
+                     <l>Be helliſhe faries euerie one,</l>
+                     <l>Quhair Pluto is the Prince:</l>
+                  </lg>
+                  <lg>
+                     <l>That thow depart and do na wonder,</l>
+                     <l>Be lichtning, quhirle wind, hayle nor thunder,</l>
+                     <l>That beaſt nor bodie get na blunder,</l>
+                     <l>Nor harme quhen thow gais hence.</l>
+                  </lg>
+               </lg>
+               <lg n="124">
+                  <head>124</head>
+                  <lg>
+                     <l>Throw power I charge the of the Paip,</l>
+                     <l>Thow neyther girne, gowl, glowme, nor gaip,</l>
+                     <l>Lyke Anker ſaidell lyke vnſell Aip,</l>
+                     <l>Lyke Owle nor Alriſche Elfe:</l>
+                  </lg>
+                  <lg>
+                     <l>Lyke fyrie Dragon full of feir,</l>
+                     <l>Lyke Warwolf, Lyon, Bull nor Beir,</l>
+                     <l>Bot pas ȝow hence as thow come heir,</l>
+                     <l>In lykenes of thy ſelfe.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="125">
+                  <head>125</head>
+                  <l>Gude-man quhat meine ȝe ocht bot gude</l>
+                  <l>Quha hes ȝow put in ſik ane mude?</l>
+                  <l>Befoir I neuer vnderſtude,</l>
+                  <l>The forme of ȝour conjuring:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flarius.</speaker>
+               <lg>
+                  <l>I charge the ȝit as of befoir,</l>
+                  <l>Pas hence and troubill me no moir,</l>
+                  <l>Trowis thow to draw me ouir the ſcoir,</l>
+                  <l>Fals feind with thy alluring.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="126">
+                  <head>126</head>
+                  <l>Gude-man quhat miſteris all thir mowis?</l>
+                  <l>As ȝe war cumbred with the cowis,</l>
+                  <l>Ȝe ac I think lyke Iohne of Lowis,</l>
+                  <l>Or ane out of his mynde:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flavius.</speaker>
+               <lg>
+                  <pb facs="tcp:579:19"/>
+                  <l>In Gods behalfe I the beſeiche,</l>
+                  <l>Impeſche me not with word nor ſpeiche,</l>
+                  <l>Ill Spreit, to God I me beteiche,</l>
+                  <l>Fra the and al thy kynde.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Pleſant.</speaker>
+               <lg n="127">
+                  <head>127</head>
+                  <lg>
+                     <l>Ha ha, ha ha, ha ha, ha ha,</l>
+                     <l>The feind reſaue the lachters a,</l>
+                     <l>Quhilk is the wyſeſt of vs twa,</l>
+                     <l>Man quhidder thow or I?</l>
+                  </lg>
+                  <lg>
+                     <l>Flemit fuill, hes thow not tint thy feill,</l>
+                     <l>That takis thy wyfe to be ane Deill,</l>
+                     <l>Thow is far vaineſt I wait weill,</l>
+                     <l>Speir at the ſtanders by.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flavius.</speaker>
+               <lg n="128">
+                  <head>128</head>
+                  <lg>
+                     <l>I charge the ȝit as I haue ellis,</l>
+                     <l>Be halie relickis, Beidis and Bellis,</l>
+                     <l>Be Ermeitis that in deſertis dwellis,</l>
+                     <l>Be Lumitoris and Tarlochis:</l>
+                  </lg>
+                  <lg>
+                     <l>Beſweit Sanct Steuin ſtanit to the deid,</l>
+                     <l>And be Sanct Iohne his halie heid,</l>
+                     <l>Be Merling, Rymour and be Beid,</l>
+                     <l>Be witchis and be warlochis.</l>
+                  </lg>
+               </lg>
+               <lg n="129">
+                  <head>129</head>
+                  <lg>
+                     <l>Be Sanct Maloy, be Moyſes Rod,</l>
+                     <l>Be Mahomeit the Turkiſch God,</l>
+                     <l>Be Iulian and Sanct Elous nod,</l>
+                     <l>Be Bernard and be Bryde:</l>
+                  </lg>
+                  <lg>
+                     <l>Be Michaell that the Dragon dang,</l>
+                     <l>Be Gabriell and his auld ſang,</l>
+                     <l>Be Raphaell in tyme of thrang,</l>
+                     <l>That is to be as gyde.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="130">
+                  <head>130</head>
+                  <lg>
+                     <l>My luif, I think it verie lyke,</l>
+                     <l>That ȝe war Licht or Lunatyke,</l>
+                     <l>Ȝe feir, ȝe fray, ȝe fidge, ȝe fyke,</l>
+                     <l>As with a Spreit poſſeſt:</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:579:20"/>
+                     <l>Quhat is the mater that ȝe mene?</l>
+                     <l>Quhat garris ȝow braid? quhair haue ȝe bene?</l>
+                     <l>Quhat aillis ȝow joy? quhat haue ȝe ſene?</l>
+                     <l>To rage with ſik vnreſt.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flavius.</speaker>
+               <lg n="131">
+                  <head>131</head>
+                  <lg>
+                     <l>Quhat haue I ſene fals hound of Hell</l>
+                     <l>I trowit quhen I did with the mell,</l>
+                     <l>Thow was richt Emilie thy ſell,</l>
+                     <l>Not ane incarnate Deuill:</l>
+                  </lg>
+                  <lg>
+                     <l>Bot I richt now with my awin Eine,</l>
+                     <l>Richt Emilie haue maryit ſeine,</l>
+                     <l>Sa thow mon be ane Spreit vncleine,</l>
+                     <l>Lord ſaif me fra thy euill.</l>
+                  </lg>
+               </lg>
+               <lg n="132">
+                  <head>132</head>
+                  <lg>
+                     <l>Be vertew of the halie Ghaiſt,</l>
+                     <l>Depairt out of myne hous in haiſt,</l>
+                     <l>And God quhais power and micht is maiſt,</l>
+                     <l>Conſerue me fra thy cummer:</l>
+                  </lg>
+                  <lg>
+                     <l>Gang hence to Hell or to the Farie,</l>
+                     <l>With me thow may na langer tarie,</l>
+                     <l>For quhy? I ſweir the be Sanct Marie,</l>
+                     <l>Thows be nane of my nummer.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg n="133">
+                  <head>133</head>
+                  <lg>
+                     <l> Gar wſche this hous for it grows lait</l>
+                     <l>Huſband I haue for to debait,</l>
+                     <l>With ȝow a lytill of eſtait,</l>
+                     <l>Befoir wee go to bed:</l>
+                  </lg>
+                  <lg>
+                     <l>Sen I am ȝoung and ȝe ar auld,</l>
+                     <l>My curage kene, and ȝe bot cauld,</l>
+                     <l>The ane mon to the vther fauld,</l>
+                     <l>A faith defoir we ſched.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus,</speaker>
+               <lg n="134">
+                  <head>134</head>
+                  <l> We wil not for the maiſtrie ſtryne,</l>
+                  <l>We mon grie better and we thryue,</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg>
+                  <l> Na be my ſaull we is wit belyue,</l>
+                  <l>Quha gets the vpper hand:</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:579:20"/>
+                  <l>Indeid thow ſall beir mee a beuell,</l>
+                  <l>For with my Neiues I ſall the nauell,</l>
+                  <l>Auld cuſtrone Carle tak thair a reuell,</l>
+                  <l>Than do as I command.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="135">
+                  <head>135</head>
+                  <lg>
+                     <l>I ſie it cummis to cuffis the man,</l>
+                     <l>Ileend the play that thow began,</l>
+                     <l>That victorie thow neuer wan,</l>
+                     <l>That ſall be bocht ſa deir:</l>
+                  </lg>
+                  <lg>
+                     <l>Ha mercie, mercie Emilie,</l>
+                     <l>Tak ȝe the maiſtrie all for me,</l>
+                     <l>For I ſall at ȝour bidding be,</l>
+                     <l>And ſlay me not I ſweir.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Pleſant.</speaker>
+               <lg n="136">
+                  <head>136</head>
+                  <lg>
+                     <l>Wel clappit burd quhan wil ȝe kiſſe?</l>
+                     <l>Auld fuill, the feind reſaue the miſſe,</l>
+                     <l>Ȝe trowit to get ane burd of bliſſe,</l>
+                     <l>To haue ane of thir Maggies:</l>
+                  </lg>
+                  <lg>
+                     <l>Quhat think ȝe now? how is the cace,</l>
+                     <l>Now ȝe'ill all doit, allace, allace,</l>
+                     <l>Now grace and honour on that face,</l>
+                     <l>Quod Robein to the Haggies.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg n="137">
+                  <head>137</head>
+                  <lg>
+                     <l>Than hecht in haiſt thairfoir that thow</l>
+                     <l>Sall readie at my bidding bow,</l>
+                     <l>Quhat euer I do thow ſall allow,</l>
+                     <l>My fanſie to fulfill:</l>
+                  </lg>
+                  <lg>
+                     <l>Sa gang I out, ſa cum I in,</l>
+                     <l>Sa gif I waiſt, ſa gif I win,</l>
+                     <l>Quhat euer I do mak ȝe na din,</l>
+                     <l>Bot let me wirk my will.</l>
+                  </lg>
+               </lg>
+               <lg n="138">
+                  <head>138</head>
+                  <lg>
+                     <l>Thou may not ſpeir the caus, &amp; quhy,</l>
+                     <l>Quhen that I liſt not with ȝow ly,</l>
+                     <l>Quhat I the did, and thow deny,</l>
+                     <l>Wee will not weill agrie:</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:579:21"/>
+                     <l>Quhen that I pleis furth to repair</l>
+                     <l>Speir not the cumpanie, nor quhair:</l>
+                     <l>Content thy ſelf and mak na mair.</l>
+                     <l>I man thy maiſter be.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="139">
+                  <head>139</head>
+                  <l> I am content quhen &amp; how ſone,</l>
+                  <l>All till obey that ȝe inione,</l>
+                  <l>That ȝe command it man be done</l>
+                  <l>Thair is nane vther buit:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg>
+                  <l>Quhat is ȝour pryce Dameſall fair?</l>
+                  <l>Quhat tak ȝe for a nichts lair?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Huir.</speaker>
+               <lg>
+                  <l> Ȝe ſall a Croun vpon me ſpair,</l>
+                  <l>Bot quhom with ſal I do it?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg n="140">
+                  <head>140</head>
+                  <l>Ile get a man, haue heir a Croun,</l>
+                  <l>Bot be weill ſtrange quhen ȝely doun,</l>
+                  <l>Mak nyce and gar the Larbair lowne,</l>
+                  <l>Beleue ȝe be a Mayd:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Huir.</speaker>
+               <lg>
+                  <l>The ȝoungeſt Las in all this Citie,</l>
+                  <l>Sall byde na mair requeiſt nor treitie,</l>
+                  <l>Ile cry as I war huirt for pitie,</l>
+                  <l>Quhen I am with him laid.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg n="141">
+                  <head>141</head>
+                  <lg>
+                     <l>Now ſen my Huſband hes done la</l>
+                     <l>But caus for to put me him fra,</l>
+                     <l>I will vnto my father ga,</l>
+                     <l>Befoir his feit to faid:</l>
+                  </lg>
+                  <lg>
+                     <l>Father ſa far I did offend,</l>
+                     <l>That I may not my mis amend,</l>
+                     <l>And am ouir pert for to pretend</l>
+                     <l>Ȝour dochter to be cald.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="142">
+                  <head>142</head>
+                  <l> Lament not, let that mater be,</l>
+                  <l>Thy faltis ar buriet all with me.</l>
+                  <l>Betwixt thy Huſband now and thee,</l>
+                  <l>Is onie new debait?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg>
+                  <pb facs="tcp:579:21"/>
+                  <l> I know of nane, bot hee indeid,</l>
+                  <l>Hes put mee fra him, quhat remeid?</l>
+                  <l>And will na mair ſik foſteris feid,</l>
+                  <l>He ſayis of myne eſtait?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="143">
+                  <head>143</head>
+                  <lg>
+                     <l>Quhat is the mater that ȝe meine</l>
+                     <l>Againſt all ordour clair and cleine,</l>
+                     <l>Schut hame ȝour wyfe that hes not bene,</l>
+                     <l>Ȝit fyue dayes in ȝour aucht:</l>
+                  </lg>
+                  <lg>
+                     <l>Is this ane pleſant godlie lyfe,</l>
+                     <l>To be in barrace, ſturt and ſtryfe,</l>
+                     <l>The feind wald faine man be ȝour wyfe,</l>
+                     <l>Can neuer ſit in ſaucht.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="144">
+                  <head>144</head>
+                  <l> Knew ȝe the treuth gude-man I trow</l>
+                  <l>Hirlabour ȝe ſould not allow,</l>
+                  <l>Luke all my face, behald my brow,</l>
+                  <l>That is baith blak and bla:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg>
+                  <l>It may weill be, I can not tell,</l>
+                  <l>That ſcho durſt with that mater mell,</l>
+                  <l>Let hir mak anſwer for hir ſell,</l>
+                  <l>To ſie gif it be ſa.</l>
+               </lg>
+               <lg n="145">
+                  <head>145</head>
+                  <l>Dochter gaue I the this commend,</l>
+                  <l>That thow thy Husband ſould ganeſtand,</l>
+                  <l>How durſt thow Huir, him with thy hand,</l>
+                  <l>Put to the point of felling?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg>
+                  <l> That war grit wrang ſir, gif ſa bee,</l>
+                  <l>Bot hee na Husband is to mee,</l>
+                  <l>Than how could wee twa diſagree,</l>
+                  <l>That neuer had na melling.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="146">
+                  <head>146</head>
+                  <l>Na melling Miſtris? wil ȝe than</l>
+                  <l>Deny the Mariage of that man,</l>
+                  <l>In face of holie Kirk quha can,</l>
+                  <l>This open deid deny?</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Emily.</speaker>
+               <lg>
+                  <pb facs="tcp:579:22"/>
+                  <l>Let reſoun ſir with ȝow preuaill,</l>
+                  <l>Condemne mee not firſt in the faill,</l>
+                  <l>Befoir that ȝe haue hard my taill,</l>
+                  <l>The treuth ſyne may ȝe try.</l>
+               </lg>
+               <lg n="147">
+                  <head>147</head>
+                  <lg>
+                     <l>Now this is all that I wald ſay,</l>
+                     <l>That Flavius tuke mee away,</l>
+                     <l>About a Moneth and a day,</l>
+                     <l>Dreſt in a Varlets weid:</l>
+                  </lg>
+                  <lg>
+                     <l>With quhome I haue bene euer ſtill,</l>
+                     <l>Ane vther Emilie ay and quhill,</l>
+                     <l>Hee ſaw ȝow giue Philotus till,</l>
+                     <l>And than in verie deid,</l>
+                  </lg>
+               </lg>
+               <lg n="148">
+                  <head>148</head>
+                  <lg>
+                     <l>Supponing mee ane Deuill of Hell,</l>
+                     <l>With crewell conjuratiounes fell,</l>
+                     <l>Did mee out of his hous expell,</l>
+                     <l>As with a Bogill bazed:</l>
+                  </lg>
+                  <lg>
+                     <l>As ane out of his mynde or marrit,</l>
+                     <l>He hes mee of his hous debarrit,</l>
+                     <l>I can not tell quhat hes him ſkarrit,</l>
+                     <l>Or hes the man amazed<g ref="char:punc">▪</g>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="149">
+                  <head>149</head>
+                  <lg>
+                     <l>This purpois goſſe, appeirs to me</l>
+                     <l>Sa wonder nyce and ſtrange to be,</l>
+                     <l>That wee to wit the veritie,</l>
+                     <l>For Flavius man ſend:</l>
+                  </lg>
+                  <lg>
+                     <l>Sir gif ȝe could declair vs now,</l>
+                     <l>How lang this woman was with ȝow,</l>
+                     <l>And all the maner quhen and how,</l>
+                     <l>Wee wald richt gladlie kend.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flavius.</speaker>
+               <lg n="150">
+                  <head>150</head>
+                  <lg>
+                     <l>Sa far Alberto as I knaw,</l>
+                     <l>I ſell the ſuith vnto ȝow ſchaw.</l>
+                     <l>Quhen I ȝour Douchters bewtie I ſaw,</l>
+                     <l>I offerit hir gude-will:</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:579:22"/>
+                     <l>Accepting than the promiſe maid,</l>
+                     <l>Cled lyke a Boy but mair abaid,</l>
+                     <l>Fra ȝow diſſaitfullie ſcho ſlaid,</l>
+                     <l>And come myne hous vntill.</l>
+                  </lg>
+               </lg>
+               <lg n="151">
+                  <head>151</head>
+                  <lg>
+                     <l>Quhair I hir keipit as my wyfe,</l>
+                     <l>Tret, luifit and chereiſt hir for lyfe,</l>
+                     <l>Quhill efter-ward fell out ane ſtryfe,</l>
+                     <l>Thir maters all amang:</l>
+                  </lg>
+                  <lg>
+                     <l>For plainlie in the Kirk I ſaw,</l>
+                     <l>This man became ȝour Sone in law,</l>
+                     <l>I did thairfoir perfytly knaw,</l>
+                     <l>My Emilie was wrang.</l>
+                  </lg>
+               </lg>
+               <lg n="152">
+                  <head>152</head>
+                  <lg>
+                     <l>And that ſome Spreit hir ſchaip had tane</l>
+                     <l>Sen Emilies thair was bot ane,</l>
+                     <l>I thairfoir to that Ghaiſt haue gane,</l>
+                     <l>Conjuring hir my ſell:</l>
+                  </lg>
+                  <lg>
+                     <l>And fra my hous expellit hir to,</l>
+                     <l>This woman ſeimis for to be ſcho,</l>
+                     <l>Senſyne I had na mair ado,</l>
+                     <l>With that fals feind of Hell.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="153">
+                  <head>153</head>
+                  <lg>
+                     <l>Now Flavius, I wait richt well</l>
+                     <l>Sen ane of them man be a Deill,</l>
+                     <l>My maiglit face maks mee to feill,</l>
+                     <l>That myne man be the ſame:</l>
+                  </lg>
+                  <lg>
+                     <l>For quhy? richt Emilie is ȝouris,</l>
+                     <l>And that incarnate Deuill is ouris,</l>
+                     <l>I gat, ȝe may ſie be my clouris,</l>
+                     <l>A Deill vnto my Dame.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg n="154">
+                  <head>154</head>
+                  <lg>
+                     <l> Heir I am cum to red the ſtryfe,</l>
+                     <l>For I am neyther Deill nor Wyfe,</l>
+                     <l>Bot am ane ȝoung man be my lyfe,</l>
+                     <l>Ȝour Sone ſir, and ȝour Air.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:579:23"/>
+                     <l>Quhome ȝe for Emilie haif tane.</l>
+                     <l>And wald not ſirs let mee allane,</l>
+                     <l>Quhill ȝe ſaw quhat gait it is gane,</l>
+                     <l>I can tell ȝow na mair.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="155">
+                  <head>155</head>
+                  <lg>
+                     <l>A man, allace, and harmiſay,</l>
+                     <l>That with my only Dochter lay,</l>
+                     <l>Syne dang my ſell, quhat ſall I ſay?</l>
+                     <l>Of this vnhappie chance?</l>
+                  </lg>
+                  <lg>
+                     <l>Haue I not maid a berrie block,</l>
+                     <l>That hes for Iennie maryit Iock?</l>
+                     <l>That mowit my Dochter for a mock,</l>
+                     <l>The Deuill be at the dance.</l>
+                  </lg>
+               </lg>
+               <lg n="156">
+                  <head>156</head>
+                  <lg>
+                     <l>Allace, I am for euer ſchamit,</l>
+                     <l>To be thus in my eild defamit,</l>
+                     <l>My Dochter is not to be blamit,</l>
+                     <l>For I had all the wyte:</l>
+                  </lg>
+                  <lg>
+                     <l>Auld men is twyſe bairnis, I perſaif,</l>
+                     <l>The wyſeſt will in wowing raif,</l>
+                     <l>I for my labour with the laif,</l>
+                     <l>Am driuin to this diſpyte.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Alberto.</speaker>
+               <lg n="157">
+                  <head>157</head>
+                  <l>Gude goſſe ȝour wraith to pacifie</l>
+                  <l>Sen that thair may na better bee,</l>
+                  <l>I am content my Sone that hee,</l>
+                  <l>Sall with ȝour Dochter Marie:</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philerno.</speaker>
+               <lg>
+                  <l> I am content with hart and will,</l>
+                  <l>This Mariage father to fulfill,</l>
+                  <l>Quhat neidis Philotus to think ill,</l>
+                  <l>Or ȝit his weird to warie.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Flavius.</speaker>
+               <lg n="158">
+                  <head>158</head>
+                  <lg>
+                     <l>Be frolick Flavius and faine,</l>
+                     <l>To get thy Emilie againe</l>
+                     <l>To deme my dow, was I not vaine,</l>
+                     <l>That thow had bene a Spreit</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:579:23"/>
+                     <l>Now ſen I am fred fra that feir,</l>
+                     <l>And vaine illuſioun did appeir,</l>
+                     <l>Welcum my darling and my deir,</l>
+                     <l>My ſucker and my ſweit.</l>
+                  </lg>
+               </lg>
+               <lg n="159">
+                  <head>159</head>
+                  <lg>
+                     <l>Gude ſirs, quhat is thair mair ado,</l>
+                     <l>Ilk ȝouth his lufe hes gotten lo,</l>
+                     <l>Let vs thairfoir go quicklie to,</l>
+                     <l>And marie with our maitts:</l>
+                  </lg>
+                  <lg>
+                     <l>Let vs foure Lufers now rejoyſe,</l>
+                     <l>Ilk ane for to injoy his choyſe,</l>
+                     <l>Ane meiter matche nor ane of thoſe,</l>
+                     <l>For tender ȝoung eſtaitis.</l>
+                  </lg>
+               </lg>
+               <lg n="160">
+                  <head>160</head>
+                  <lg>
+                     <l>Let vs all foure now with ane ſang,</l>
+                     <l>With mirth and melodie amang,</l>
+                     <l>Giue gloir to God that in this thrang,</l>
+                     <l>Hes bene all our releif:</l>
+                  </lg>
+                  <lg>
+                     <l>That hes fra thraldome ſet vs frie,</l>
+                     <l>And hes vs placit in ſik degrie,</l>
+                     <l>Ilk ane as hee wald wiſch to be,</l>
+                     <l>With glaidnes for his greif.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <lg>
+                  <head>Ane ſang of the foure Lufearis.</head>
+                  <lg>
+                     <l>
+                        <hi>WERE</hi> Iacobs Sones mair joyfull for to ſe,</l>
+                     <l>The waltring wawes king Pharaois Oiſt co<g ref="char:cmbAbbrStroke">̄</g>found</l>
+                     <l>Was Iſrael mair glaid in hart to be</l>
+                     <l>Fred from all feir, befoir in bondage bound?</l>
+                     <l>Quhen God the<g ref="char:cmbAbbrStroke">̄</g> brocht fro<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> Egiptian ground,</l>
+                     <l>Was Mordocheus merier nor wee,</l>
+                     <l>Quhen Artaxerxes alterit his decrie?</l>
+                  </lg>
+                  <lg n="162">
+                     <head>162</head>
+                     <l>Was greiter glaidnes in the land of Greice</l>
+                     <l>Quhen Iaſon come from Colchos hame agane</l>
+                     <l>And conqueiſt had the famous golden Fleis,</l>
+                     <l>With labour lang, with perrell and with pane?</l>
+                     <pb facs="tcp:579:24"/>
+                     <l>The Father <hi>Aeȝon</hi> was not half ſa faine,</l>
+                     <l>To ſie his Sone returning with ſik gloir,</l>
+                     <l>As wee, quhais myndis ar ſatisfyit, and moir.</l>
+                  </lg>
+                  <lg n="163">
+                     <head>163</head>
+                     <l>Gif onie joy into this Earth belaw,</l>
+                     <l>Or warldlie pleſour reput be perfyte,</l>
+                     <l>Quhat greiter ſolace ſall ȝe to mee ſhaw,</l>
+                     <l>Nor till inioy ȝour hartis all haill delyte?</l>
+                     <l>To haue ȝour Lufe and luſtie Ladie quhyte,</l>
+                     <l>In quhome ȝe may baith nicht and day rejoyſe:</l>
+                     <l>In quhome ȝe may ȝour pleſures all repoſe.</l>
+                  </lg>
+                  <lg n="164">
+                     <head>164</head>
+                     <l>Let vs thairfoir ſen euin as we wald wiſſe,</l>
+                     <l>Reciprocklie with leill and mutuall lufe,</l>
+                     <l>As fleitand in the Fludes of joy and bliſſe,</l>
+                     <l>With ſolace ſing and ſorrowes all remufe,</l>
+                     <l>Let vs the fructes of preſent pleſour prufe,</l>
+                     <l>In recompence of all our former pane,</l>
+                     <l>And miſerie, quhairin wee did remane.</l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Philotus.</speaker>
+               <lg n="165">
+                  <head>165</head>
+                  <l>Bot now advert gude bretherin all about,</l>
+                  <l>That of my labour hes the ſucces ſeine:</l>
+                  <l>Ȝe that hes hard this haill diſcourſe throw out,</l>
+                  <l>May knaw how far that I abuſit haue bene,</l>
+                  <l>I grant indeid thair will na man me meine,</l>
+                  <l>For I my ſelf am authour of my greif,</l>
+                  <l>That by my calling ſould be caryit cleine,</l>
+                  <l>With ȝouthlie toyis vnto ſa greit miſcheif.</l>
+               </lg>
+               <lg n="166">
+                  <head>166</head>
+                  <l>Gif I had weyit my grauitie and age,</l>
+                  <l>Rememberit als my firſt and auncient ſait,</l>
+                  <l>I had not ſowmit in ſik vnkyndlie rage,</l>
+                  <l>For to diſgrace mine honour and eſtait,</l>
+                  <l>Quhat had I bocht bot to my ſelf debait,</l>
+                  <l>Suppois the mater had cum than as I meinit:</l>
+                  <pb facs="tcp:579:24"/>
+                  <l>Nay my repentance is not half ſa lait,</l>
+                  <l>As I had gotin the thing quhairfoir I greinit.</l>
+               </lg>
+               <lg n="167">
+                  <head>167</head>
+                  <l>For thocht my folie did the Lord offend,</l>
+                  <l>Ȝit my gude God hes wrocht all for the beſt:</l>
+                  <l>And this rebuik hes thairfoir to me ſend,</l>
+                  <l>All ſik inordinate doings to deteſt,</l>
+                  <l>Quhilk ſweit rebuik I reckin with the reſt,</l>
+                  <l>From fatherlie affection to proceid,</l>
+                  <l>That vthers with lyke paſſiouns poſſeſt,</l>
+                  <l>May leirne be my exampill to tak heid.</l>
+               </lg>
+               <lg n="168">
+                  <head>168</head>
+                  <l>Sen age thairfoir ſuld gouernit be w<hi rend="sup">t</hi> ſkill</l>
+                  <l>Let countenance accord with ȝour gray hairis</l>
+                  <l>Ȝe auncients all, let reſoun rewll ȝour will,</l>
+                  <l>Subdew ȝour ſenſis till eſchew thir ſnairis,</l>
+                  <l>Gif ȝe wald not incombred be with cairis,</l>
+                  <l>Be maiſter ouer ȝour awin affections haill:</l>
+                  <l>For hailillie the praiſe is only thairs,</l>
+                  <l>That may againſt ſik paſſions preuaill.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>The Meſsinger.</speaker>
+               <lg n="169">
+                  <head>169</head>
+                  <l>Gude ſirs, now haue ȝe hard and ſene this ſerſe</l>
+                  <l>Vnworthie of ȝour audience I grant,</l>
+                  <l>Vnformailie ſet out in vulgar verſe,</l>
+                  <l>Of waillit out words and leirnit leid bot ſkant</l>
+                  <l>The Courteours that Princes Hallis do hant,</l>
+                  <l>I wait will neuer for my rudenes ruſe mee:</l>
+                  <l>Ȝit my gude-will for to ſupplie the want,</l>
+                  <l>I hope ſall of ȝour courteſies excuſe mee.</l>
+               </lg>
+               <lg n="170">
+                  <head>170</head>
+                  <l>For paſſing weil I haue imployit my panis</l>
+                  <l>Swa that ȝe can be with the ſame content:</l>
+                  <l>For dew regaird gude acceptiouns gaines,</l>
+                  <l>And parties pleiſit dois mak the tyme wel ſpe<g ref="char:cmbAbbrStroke">̄</g>t</l>
+                  <l>Gif God had greiter leirning to mee lent,</l>
+                  <pb facs="tcp:579:25" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:25" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:26" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:26" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:27"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:27" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:28"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:28"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:29"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:29"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:30"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:30"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:31"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:31"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:32"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:32"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:33"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:33"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:34"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:34"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:35"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:35"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:579:36"/>
+                  <l>I ſuld haue ſchawin the ſame w<hi rend="sup">t</hi> als gude will:</l>
+                  <l>Wyte ignorance that I did not invent.</l>
+                  <l>Ane ſeeſe that micht ȝour fantaſies fulfill.</l>
+               </lg>
+               <lg n="171">
+                  <head>171</head>
+                  <l>Laſt ſirs, now let vs pray with ane accord,</l>
+                  <l>For to preſerue the perſoun of our King:</l>
+                  <l>Accounting ay this gift as of the Lord,</l>
+                  <l>Ane prudent Prince aboue vs for to ring.</l>
+                  <l>Than gloir to God, and prayſis let vs ſing,</l>
+                  <l>The Father, Sone and halie Gaiſt our gyde,</l>
+                  <l>Of his mercies vs to conduct and bring,</l>
+                  <l>To Heuin for ay, in pleſoures to abyde.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <lg>
+               <l>WHAT if a day or a month or a ȝeere</l>
+               <l>Crown thy deſire with a thouſand wiſched contentings</l>
+               <l>Can not the chance of ane nicht or ane houre,</l>
+               <l>Croſſe thy delightes with a thowſand ſad tormentings?</l>
+               <l>Fortune, honour, bewtie, ȝouth are but bloſſomes dying</l>
+               <l>Wanton pleſoures, dotting loue are but ſhadowes flying:</l>
+               <l>All our joyes are but toyes idle thoughtes deceauing,</l>
+               <l>None hes power of an houre in thair lyues bereauing.</l>
+               <l>Earth's but a point of the World, and a man</l>
+               <l>Is but a poynt of the Earths compared centure.</l>
+               <l>Shall than the poynt of a poynt be ſo vaine</l>
+               <l>As to delight in a ſillie poynts aventure?</l>
+               <l>All is hazard that wee haue, here is nothing byding:</l>
+               <l>Dayes of pleaſures ar but ſtremes throgh fair medowes glyding</l>
+               <l>Well or wo tyme dois go, in tyme is no returning,</l>
+               <l>Secreete fates guydes our ſtates, both in mirth and murning.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>The Printer of this preſent Treatiſe hes (according to the Kings Majeſties licence grantit to him) printit ſindrie vther delectabill Diſcourſes vndernamit, ſic as are, Sir Dauid Lyn<g ref="char:EOLhyphen"/>deſayis play, The Preiſtis of Pebles with merie Tailes, The <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:579:36"/>
+            <pb facs="tcp:579:37"/>
+            <pb facs="tcp:579:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>

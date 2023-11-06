@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arch's of triumph erected in honor of the high and mighty prince. Iames. the first of that name. King, of England. and the sixt of Scotland at his Maiesties entrance and passage through his honorable citty &amp; chamber of London. vpon the 15th. day of march 1603. Invented and published by Stephen Harrison ioyner and architect: and graven by William Kip..</title>
+            <author>Harrison, Stephen, joiner and architect.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07722</idno>
+            <idno type="OCLC"> 82474867</idno>
+            <idno type="STC">STC 12863A</idno>
+            <idno type="STC">ESTC S92869</idno>
+            <idno type="EEBO-CITATION">82474867</idno>
+            <idno type="OCLC">ocm 82474867</idno>
+            <idno type="VID">185142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2251:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arch's of triumph erected in honor of the high and mighty prince. Iames. the first of that name. King, of England. and the sixt of Scotland at his Maiesties entrance and passage through his honorable citty &amp; chamber of London. vpon the 15th. day of march 1603. Invented and published by Stephen Harrison ioyner and architect: and graven by William Kip..</title>
+                  <author>Harrison, Stephen, joiner and architect.</author>
+                  <author>Kip, William, engraver.</author>
+               </titleStmt>
+               <extent>[8] leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Are to be sould at the [--] Popes head Alley by John Sudbury [and] George Humble,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1613].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Kip may not have done all the engraving.</note>
+                  <note>The title page is engraved; at head: Exercitationes virtutum in omni ætate minificos [sic] asserunt fructus.</note>
+                  <note>Another issue, of the plates alone, with imprint added to engr. t.p.--Cf. STC (2nd ed.).</note>
+                  <note>Imperfect: defective printing or damage, with loss of text from imprint.</note>
+                  <note>Reproduction of the original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  I, --  King of England, 1566-1625.</term>
+               <term>Triumphal arches --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="engraved_title_page">
+            <pb facs="tcp:185142:1"/>
+            <pb facs="tcp:185142:1"/>
+            <p>
+               <figure>
+                  <figure>
+                     <q xml:lang="lat">Exercitationes Virtutum in om<g ref="char:EOLhyphen"/>ni aetate minifi<g ref="char:EOLhyphen"/>cos afferunt, fructus.</q>
+                  </figure>
+                  <p>THE ARCH'S OF TRIVMPH Erected in honor of the High and mighty prince James the first of that name. King, of England and the ſixt of Scotland at his Maiesties Entrance and paſsage through his Ho<g ref="char:EOLhyphen"/>norable Citty &amp; chamber of London vpon the 15<hi rend="sup">th</hi>. day of march 1603</p>
+                  <p>Invented and publiſhed by Stephen Harriſon. Joyne<g ref="char:cmbAbbrStroke">̄</g>r and Architect and graver by William Kip.</p>
+                  <q xml:lang="lat">Monimentum Aere Perennius.</q>
+                  <p>Are to be ſould at the <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ho<gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> in Popes head Alle<g ref="char:EOLhyphen"/>by by John Sudbury and George Humble.</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:185142:2"/>
+            <pb facs="tcp:185142:2"/>
+            <p>
+               <figure>
+                  <figDesc>engraving of triumphal arch</figDesc>
+                  <head>LONDINIVM</head>
+                  <q xml:lang="lat">PAR DOMVS HAEC COELO SED MINOR EST DOMINO</q>
+                  <q xml:lang="lat">Maximus hic Rex eſt<lb/>
+                     <g ref="char:V">Ʋ</g>luce ſerenior iuſa<lb/>
+Primere quae talem<lb/>
+Cernit in Vrbe ducem<lb/>
+Cuius Fortuna<g ref="char:cmbAbbrStroke">̄</g> ſuperat<lb/>
+ſic <g ref="char:V">Ʋ</g>nica Virtus. &amp;c</q>
+                  <byline>S H. Excud</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:185142:3"/>
+            <p>
+               <pb facs="tcp:185142:3"/>
+               <figure>
+                  <figDesc>engraving of triumphal arch</figDesc>
+                  <figure>
+                     <figDesc>enthroned King receiving message from one on horseback</figDesc>
+                     <sp>
+                        <p>HIC VIR<lb/> HIC EST</p>
+                     </sp>
+                  </figure>
+                  <q xml:lang="lat">IACCBO REGI MAGN</q>
+                  <figure>
+                     <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Scottish unicorn</figDesc>
+                     <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                     <q xml:lang="frm">DIV ET M. DROI<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </q>
+                  </figure>
+                  <q xml:lang="lat">HENRICI VII ABNEP</q>
+                  <q xml:lang="lat">Tu Regere Imperio popules Iacobe memento &amp;</q>
+                  <byline>St<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> H<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> Excu</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:185142:4"/>
+            <p>
+               <pb facs="tcp:185142:4"/>
+               <figure>
+                  <figDesc>engraving of triumphal arch</figDesc>
+                  <q xml:lang="lat">Auſpice me dextra ſolum</q>
+                  <q xml:lang="lat">perfero curarum pondus,</q>
+                  <q xml:lang="lat">Naſcitur in ueſtro Regum</q>
+                  <q xml:lang="lat">Luctus ante al<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> E<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </q>
+                  <q xml:lang="lat">ORBIS RESTITVTOR. PACIS<lb/>
+FVND. RELIG. PROPVG. D. IAC. P.<lb/>
+F. REGI. P. P. D...ANNAE RE<g ref="char:EOLhyphen"/>GIAE<lb/>
+CONIVG. SOR. FIL. NEPTI</q>
+                  <q xml:lang="lat">IACOBO, ANGL. SCOT. FRANC. HIBER. REGI OPT. PRI<g ref="char:cmbAbbrStroke">̄</g>C MAX. BELGAE ded.</q>
+                  <byline>Stephen Hariſon Excude<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </byline>
+               </figure>
+            </p>
+            <pb facs="tcp:185142:5"/>
+            <p>
+               <pb facs="tcp:185142:5"/>
+               <figure>
+                  <figDesc>engraved triumphal arch</figDesc>
+                  <q xml:lang="lat">NON CON<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>N<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>T</q>
+                  <byline>S H. Excudit</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:185142:6"/>
+            <p>
+               <pb facs="tcp:185142:6"/>
+               <figure>
+                  <figDesc>engraved triumphal arch</figDesc>
+                  <p>I R</p>
+                  <byline>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Excud.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:185142:7"/>
+            <p>
+               <pb facs="tcp:185142:7"/>
+               <figure>
+                  <figDesc>engraved triumphal arch</figDesc>
+                  <byline>S. H. Excu.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:185142:8"/>
+            <p>
+               <pb facs="tcp:185142:8"/>
+               <figure>
+                  <figDesc>engraved triumphal arch</figDesc>
+                  <q xml:lang="lat">Iano Quadrifronti ſacrum</q>
+                  <q xml:lang="lat">Et Modo Sacrifico cluſius Ore Vocor</q>
+                  <figure>
+                     <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Scottish unicorn</figDesc>
+                  </figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIV ET MON DROIT</q>
+                  <q xml:lang="lat">Qui duâum <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>guſtis tantum regnauit in oris. Par<gap reason="illegible" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap> Imperio Se toti praebuit Orbi. Eſſe regendo parem<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iria Regna vt nulla deeſſet Virtuti fortuna<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſue feliciter vni. Iuncta ſimul ſenſit. fas vt ſit credere votis. Non <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am ſanguinea. fruitures pace Britannes</q>
+                  <q xml:lang="lat">Iuran<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Suum per nomen ponimus aras. Nil oriturum alios. Mil ortum tale fatentes</q>
+                  <q xml:lang="lat">CONSERVAT<lb/>
+RICI ANNAE<lb/>
+IPSAE PERE<g ref="char:EOLunhyphen"/>NNAE<lb/>
+DEA</q>
+                  <byline>S H Exc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</byline>
+               </figure>
+            </p>
+            <pb facs="tcp:185142:9"/>
+            <pb facs="tcp:185142:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,3585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant conceited comedie, called, A knacke to know an honest man As it hath beene sundrie times plaied about the citie of London.</title>
+            <title>Knack to know an honest man.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 117 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04889</idno>
+            <idno type="STC">STC 15028</idno>
+            <idno type="STC">ESTC S108089</idno>
+            <idno type="EEBO-CITATION">99843778</idno>
+            <idno type="PROQUEST">99843778</idno>
+            <idno type="VID">8534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A04889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 253:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant conceited comedie, called, A knacke to know an honest man As it hath beene sundrie times plaied about the citie of London.</title>
+                  <title>Knack to know an honest man.</title>
+               </titleStmt>
+               <extent>[62] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by T. Scarlet] for Cuthbert Burby, and are to be solde at his shop by the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1596.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-H⁴ (-A1).</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8534:1"/>
+            <pb facs="tcp:8534:1"/>
+            <p>A PLEASANT CONCEITED COME<g ref="char:EOLhyphen"/>die, called, A knacke to know an honeſt Man.</p>
+            <p>As it hath beene ſundrie times plaied about the Citie of London.</p>
+            <figure>
+               <figDesc>scenic illustration of landscape</figDesc>
+               <q>SIC CREDE</q>
+            </figure>
+            <p>LONDON, Printed for Cuthbert Burby, and are to be ſolde at his ſhop by the Royall Exchange. 1596</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:8534:2"/>
+            <pb facs="tcp:8534:2"/>
+            <head>¶A pleaſant conceited Comoedie, called A knacke to know an honeſt Man.</head>
+            <stage>Enter Coridon and Antimon, and Menalchus, three Shepheards.</stage>
+            <sp>
+               <speaker>Coridon.</speaker>
+               <l>HEre walke Menalchus on this graſsie plaine,</l>
+               <l>And while the wanton lambes feed on theſe downes,</l>
+               <l>And hide them in the thickets from the Sunne,</l>
+               <l>That ſhine on Venus ſtately builded towers,</l>
+               <l>Diſcourſe to aged Antimon and me,</l>
+               <l>The dolefull hiſtorie and that drierie tale,</l>
+               <l>That earſt befell in fatall Arcadie,</l>
+               <l>How poore Amintas periſht in his loue.</l>
+            </sp>
+            <sp>
+               <speaker>Menal:</speaker>
+               <l>You will me cal to memorie ſweet friends</l>
+               <l>The countleſſe ſorrowes which wil fetch forth teares</l>
+               <l>From hardeſt rockes, and moue a marble heart,</l>
+               <l>But though my minde in recolecting teares,</l>
+               <l>With horror dumbe, and eke would choake my tong</l>
+               <l>From telling tragike newes, I will begin.</l>
+            </sp>
+            <stage>
+               <pb facs="tcp:8534:3"/>
+               <hi>Enter Lelio and Sempronio to fight.</hi>
+            </stage>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>Stay Menalchus, and hide thee in theſe thickets,</l>
+               <l>For heere come ſtrangers, who with ireful browes,</l>
+               <l>Threatens ſome ſtormie troubles to ſucceed.</l>
+            </sp>
+            <sp>
+               <speaker>Semp.</speaker>
+               <l>Heere is a place conuenient Lelio,</l>
+               <l>Yonder's a plaine whereon our ſteeds may graze,</l>
+               <l>Here is a groue backt with creſſend hils,</l>
+               <l>But ſaue theſe trees none elſe behold our fight.</l>
+            </sp>
+            <sp>
+               <speaker>Lel.</speaker>
+               <l>Haue I retaind thee caitife in my houſe,</l>
+               <l>And made thee Lord of all my beſt delights,</l>
+               <l>And could thy impious heart ſo lewdly thinke,</l>
+               <l>Diſhonor to defile my wedding bed,</l>
+               <l>Had Venus no other ſtrumpet to content</l>
+               <l>Sempronios mind, but thou muſt chooſe my wife,</l>
+               <l>To make a ſtale to thy vnbrideled luſt,</l>
+               <l>Wretch, why doo I thus expoſtulate?</l>
+               <l>Come, come, Ile act reuenge, and talke no more,</l>
+               <l>Euen for our ancient loue Ile giue thee lawe,</l>
+               <l>Diſroabe thee if thou wilt, ſpeake no more,</l>
+               <l>For Lelio hath inexorable eares.</l>
+            </sp>
+            <sp>
+               <speaker>Semp.</speaker>
+               <l>If words mongſt faithfull friends may not be borne,</l>
+               <l>Beleeue me Lelio thou deſerueſt the horne,</l>
+               <l>Come ſir, for kindnes I will let you bloud,</l>
+               <l>And ſeeke to coole your fire of iealouſie.</l>
+            </sp>
+            <stage>Heere fight.</stage>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>And Ile reuenge my mortall iniurie,</l>
+               <l>Now is his luſtfull inſolence,</l>
+               <l>Drownd in the ſea of bloudie tragedie,</l>
+               <l>How now Sempronio?</l>
+            </sp>
+            <sp>
+               <speaker>Semp:</speaker>
+               <l>Flie Lelio, flie, thy iealous furie robs thee of a
+<pb facs="tcp:8534:3"/> friend,</l>
+               <l>I paie thee with my bloud for lewd deſire,</l>
+               <l>Go hie thee hence, preuent purſuit,</l>
+               <l>My miſeries are done, when I am dead,</l>
+               <l>Thy miſeries are too neere.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Too late remorſe, why doeſt thou follow me?</l>
+               <l>Ah ſweet Sempronio, ſpeake but one word more.</l>
+            </sp>
+            <sp>
+               <speaker>Semp:</speaker>
+               <l>I ſpeak theſe few wordes more, flie Lelio flie,</l>
+               <l>Mongſt friends it is too much for one to die.</l>
+            </sp>
+            <sp>
+               <speaker>Menal:</speaker>
+               <l>Murder my friends, purſue the murderer,</l>
+               <l>Haſt Coridon, hie the Antimon.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Flie Lelio flie, and ſaue thy life.
+<stage>Exit Lelio.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Cor:</speaker>
+               <l>Tis Lelio ſhepheards, haſt and follow him.</l>
+            </sp>
+            <sp>
+               <speaker>Anty.</speaker>
+               <l>And Lelios ſworde hath ſlaine Sempronio,</l>
+               <l>Purſue you ſhepheards that lewd murderer,</l>
+               <l>Whileſt I do beare this bloudie garment hence,</l>
+               <l>To Seruio, tutor to this noble man,</l>
+               <l>And giue him notice of his kinſmans death,</l>
+               <l>Downe with the murtherers, fellowes kill his horſe.</l>
+               <stage>Exit.</stage>
+            </sp>
+            <stage>Enter olde Phillip an hermit.</stage>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>What noiſe is this before my hold of peace?</l>
+               <l>A little breach of peace to men of zeale,</l>
+               <l>Is held a world of griefe to croſſe his minde:</l>
+               <l>Behold a young man weltering in his bloud,</l>
+               <l>Hie thee olde Phillip, ſhew thy charitie,</l>
+               <l>Beare him to thy cell, and if thou canſt, recure his wounds,</l>
+               <l>If not, goe burie him, the badge of contemplations charitie.
+<stage>Exit.</stage>
+               </l>
+            </sp>
+            <stage>
+               <pb facs="tcp:8534:4"/>
+               <hi>Enter Lelio with his ſword drawen, hee knockes at his doore.</hi>
+            </stage>
+            <sp>
+               <speaker>Lelio.</speaker>
+               <l>Ho Gnatto open.</l>
+            </sp>
+            <stage>Gnatto within.</stage>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>Open, what ſhould I open, the cupboord.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>No knaue the doore.</l>
+            </sp>
+            <sp>
+               <speaker>Cnat:</speaker>
+               <l>No knaue the doore, what raſcals that?</l>
+               <l>O maſter is it you, I crie you mercie.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Sirra ſpeake, where's your miſtres?</l>
+            </sp>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>Matie ſhee is making wood ſpeake, and guts ſing:</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Wood ſpeake, and guts ſing, how meanſt thou that?</l>
+            </sp>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>Are you ſuch a foole you know not that?</l>
+               <l>Why, ſhe's playing on the lute.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>And where is my daughter Lucida?</l>
+            </sp>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>She is killing a pride.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>As how?</l>
+            </sp>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>She is combing of her head, ſhe will not haue it frizle.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Ieſt not ſirra, but call them hether quickly.</l>
+            </sp>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>Ho miſtres quickly, you muſt come hether</l>
+               <l>quickly, or els my maſter will beat me quickly.</l>
+            </sp>
+            <stage>Enter Annetta and Lucida.</stage>
+            <sp>
+               <speaker>An:</speaker>
+               <l>How now my Lord?</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Annetta call me wretch.</l>
+            </sp>
+            <sp>
+               <speaker>Lu:</speaker>
+               <l>Why what is befalne?</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>The worſt of harmes.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>Where is Sempronio?</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Ah, aske not where he is,</l>
+               <l>Thou muſt be husbandleſſe through my miſdeeds,</l>
+               <pb facs="tcp:8534:4"/>
+               <l>Thou muſt be fatherles through my diſgrace:</l>
+               <l>Farewell, I dare not ſtay to tell my minde,</l>
+               <l>I haue no time Annetta to imbrace thee,</l>
+               <l>Vnles I hazard lyfe to ſtay ſo long,</l>
+               <l>Annetta, in a word Sempronio's dead,</l>
+               <l>His friends purſue me, and to ſaue my life,</l>
+               <l>I needs muſt flie: you for your maintenance</l>
+               <l>Muſt preſently the chiefeſt iewels ſeize,</l>
+               <l>Farewell, my ſighs and teares muſt tell the reſt.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>Whether cruell fortune? my ſweet loue.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Captiues ſweet ſoules, in chaines of miſery.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>Who ſhal releeue me when my husband's fled.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>He that releeues poor ſouls when hope is dead.</l>
+            </sp>
+            <sp>
+               <speaker>Lu:</speaker>
+               <l>Who ſhall indow me in my fathers abſence?</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>True vertue daughter, if he be in preſence:</l>
+               <l>Ah looke on theſe you care deſiring eies,</l>
+               <l>Theſe cannot ſpeake, for wo clogs vp their tongs</l>
+               <l>Thus ſilent miſerie tells mourning griefe,</l>
+               <l>Go to poore ſoules and hide you from a ſtorme,</l>
+               <l>The hands are preſt to rob you of your owne,</l>
+               <l>Go in poore ſoules, weep leſſe, indeuor more,</l>
+               <l>Haſt forceth griefe, danger keepes the doore.
+<stage>Exeunt.</stage>
+               </l>
+            </sp>
+            <stage>Enter Corrodinuo Duke of Venice, his ſonne Fortunio, two ſenators, olde Seruio, and the Shepheard Antimon.</stage>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Seruio ſtand forth, if thy important wronges be ſuch,</l>
+               <l>Diſcourſe to me and to theſe aged peeres,</l>
+               <l>Thy cauſe of griefe, and what thou doeſt require.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Moſt mightie Duke, moſt worthie Senatours,</l>
+               <l>I come before this ſacred iudgement ſeate,</l>
+               <l>Not traind by hate, as many worldlings be,</l>
+               <pb facs="tcp:8534:5"/>
+               <l>But theſe olde yeres inioynd me charitie,</l>
+               <l>But vrg'd by wrongs, compeld by hainous deeds,</l>
+               <l>To quicken iuſtice in your reuerent eares,</l>
+               <l>Call to remembrance Prince and worthie peeres,</l>
+               <l>The faithfull ſeruice for theſe many yeeres,</l>
+               <l>That ſtout Sempronio did vnto the State,</l>
+               <l>In remembrance whereof,</l>
+               <l>Olde Seruio humbling him vpon his knees,</l>
+               <l>Beſeecheth iuſtice gainſt proud Lelio,</l>
+               <l>Who cruelly hath ſlaine in ſingle fight,</l>
+               <l>The ſole and onely heire of that ſtout race.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Seruio come hether and poſſeſſe thy place,</l>
+               <l>We will conſider of thy iniuries.</l>
+            </sp>
+            <sp>
+               <speaker>Seruio.</speaker>
+               <l>Still let theſe knees be wedded to the earth,</l>
+               <l>Still let theſe teares run floud-like from mine eies,</l>
+               <l>Vntill your grace do execute the wretch,</l>
+               <l>That thus hath ſlaine my deare Sempronio.</l>
+            </sp>
+            <sp>
+               <speaker>1. <hi>Sen.</hi>
+               </speaker>
+               <l>Thou doeſt demeane too much intemperance,</l>
+               <l>Thou fooliſh man ariſe, do not ſtain the badge of age</l>
+               <l>And wiſedome by miſgouernment:</l>
+               <l>Our ſenators in Venice are well ſchoold in ſuch haps,</l>
+               <l>And can doome of things, not by thy teares,</l>
+               <l>Or ſorrow working wordes,</l>
+               <l>But by the truth and eſtimate of acts,</l>
+               <l>Thou ſayſt that Lelio ſlew Sempronio,</l>
+               <l>But that aſſertion Seruio muſt not ſerue,</l>
+               <l>To proue him guiltie in theſe reuerend eares.</l>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Sen.</hi>
+               </speaker>
+               <l>What proofes produceth Seruio to the ſtate,</l>
+               <l>To proue Lord Lelio guiltie of the murther,</l>
+               <l>When as through Venice nothing was more found,</l>
+               <l>Then faithfull friendſhip plighted twixt them twain.</l>
+            </sp>
+            <sp>
+               <speaker>Ser:</speaker>
+               <l>That loue which was twixt them before,</l>
+               <pb facs="tcp:8534:5"/>
+               <l>Doth make the murther farre more monſtrous,</l>
+               <l>But princes, in a word, behold the man</l>
+               <l>That ſawe the murder and can witnes it,</l>
+               <l>Examine him, and let his proofes preuaile.</l>
+            </sp>
+            <sp>
+               <speaker>Duke:</speaker>
+               <l>Lords, let not Lelios honor bleare your eies,</l>
+               <l>Speake ſirrha, Did Lelio kill Sempronio.</l>
+            </sp>
+            <sp>
+               <speaker>Shep:</speaker>
+               <l>And ſhal pleaſe your honors grace and worſhips</l>
+               <l>I for fault of a better ſhepheard to Lord Seruio heere,</l>
+               <l>And vpon a time, let me ſee, O twas yeſterday,</l>
+               <l>when my maſters ſheep &amp; I were at breakfaſt together</l>
+               <l>I ſawe Lelio and Sempronio fighting ſo long,</l>
+               <l>That Lelio thruſt his ſword into Sempronios belly,</l>
+               <l>Whereupon he died, and it ſhall pleaſe your worſhip<g ref="char:EOLhyphen"/>full worſhips,</l>
+               <p>All this wil I be forſworne to, with my neighbor Me<g ref="char:EOLhyphen"/>nalchus &amp; good man Coridon, &amp; the reſt that fol<g ref="char:EOLhyphen"/>lowed the crie, with Slip my dog &amp; others forſoth.</p>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>This homely tale doth ſauor of truth.</l>
+            </sp>
+            <sp>
+               <speaker>Ser:</speaker>
+               <l>Truth ſoundeth ſweetly in a ſilly tong.</l>
+            </sp>
+            <sp>
+               <speaker>1. Sen:</speaker>
+               <l>Craft often lurketh in a ſhepheards coate.</l>
+            </sp>
+            <sp>
+               <speaker>Shep:</speaker>
+               <l>Sir you do abuſe our profeſsion,</l>
+               <l>For Craft, goodman Coridons dog</l>
+               <l>Nere wore coate nor breeches, Ile ſtand to it.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>My Lord and father, breake contention off,</l>
+               <l>The proofes are found, then let it not be ſayde,</l>
+               <l>Your mightines ſhould be miſcarried,</l>
+               <l>By contradiction of two Senators.</l>
+            </sp>
+            <sp>
+               <speaker>Duke:</speaker>
+               <l>My ſonne, my ſilence tels me many things,</l>
+               <l>By it I finde the deapth of each mans drifte,</l>
+               <l>And gathering things by certaine circumſtance,</l>
+               <l>Am better able to diſcerne the truth,</l>
+               <pb facs="tcp:8534:6"/>
+               <l>Lordes take your places, and reſolue on this,</l>
+               <l>That Lelio by approued truth is found</l>
+               <l>To be the murtherer of Sempronio,</l>
+               <l>His lands and goods be ſiez'd to publike vſe,</l>
+               <l>We doome him dead. Beſides, whateuer man</l>
+               <l>Can bring his head vnto the Senate houſe,</l>
+               <l>Shall haue a thouſand crownes for recompence,</l>
+               <l>Paid him forth of our treaſurie,</l>
+               <l>Further, leaſt priuate friends ſhould ſuccor him,</l>
+               <l>We do enact that whatſoeuer man,</l>
+               <l>Shall dare conceale or hide the murtherer,</l>
+               <l>Shall be baniſht, and his goods confiſcat.</l>
+               <l>Senators allow you this.</l>
+            </sp>
+            <sp>
+               <speaker>Ser:</speaker>
+               <l>Iuſtice this ſentence great Venetian Duke.</l>
+            </sp>
+            <sp>
+               <speaker>2. Sen:</speaker>
+               <l>Remit thou yet thy ſterne auſteritie,</l>
+               <l>Moſt mightie prince, and be not ſo ſeuere,</l>
+               <l>Though Lelio by the lawe do merit death,</l>
+               <l>There is no lawe that may defraud his wife,</l>
+               <l>Or leaue his daughter without maintenance,</l>
+               <l>O grant thou this iuſt fauor mightie Duke,</l>
+               <l>That they may keepe poſſeſsion of his houſe,</l>
+               <l>Although the common-wealth command his goods.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>A lawfull plea which may not be denide,</l>
+               <l>Thy ſuite is granted, regiſter it downe.</l>
+               <l>Now let our gard beſet the citie round,</l>
+               <l>Search euerie houſe to finde out Lelio:</l>
+               <l>Meane while graue Senators, bethinke your ſelues,</l>
+               <l>Of ſome ſtrict lawe againſt our Seſsions,</l>
+               <l>That may repulſe theſe inſolent debates.
+<stage>Exeunt omnes</stage>
+               </l>
+            </sp>
+            <stage>Enter Briſheo and Franco.</stage>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>Sirrha Franco, what ſayde olde Seruio to my
+<pb facs="tcp:8534:6"/> money.</l>
+            </sp>
+            <sp>
+               <speaker>Fran:</speaker>
+               <l>Mary ſir, as ſoon as his fore eies had ouerlookt it</l>
+               <l>And his fingers trembling had ouertolde it,</l>
+               <l>He tooke it vp, and verie furiouſly caſt it into hell.</l>
+            </sp>
+            <sp>
+               <speaker>Briſh.</speaker>
+               <l>Into hell knaue, what meanſt thou by that?</l>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>Marie ſir, into his cheſt I meane, the verie bot<g ref="char:EOLhyphen"/>tomleſſe pit of vſurie, where I am ſure God neuer came, but the deuil &amp; his angels fil it vp to the brim.</p>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <p>Well ſirrha, leaue your ieaſting, and goe will the maſter of my barke to vnlode the wares, and ſee that at the crane you hoiſe them vp.</p>
+            </sp>
+            <sp>
+               <speaker>Fran:</speaker>
+               <l>I will ſir.
+<stage>Ex. Fran.</stage>
+               </l>
+            </sp>
+            <stage>Enter Lelio.</stage>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Where ſhall I hide me from too ſearching eies?</l>
+               <l>Oh whether may I go to ſaue my life?</l>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>Me thinkes I ſee my Lelio quite diſmaid,</l>
+               <l>What aileth thee my ſonne?</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>O ſtaie me not Briſhio for thy daughters ſake,</l>
+               <l>Be not thou the meanes to bring me to my end.</l>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>Be not ſo fooliſh to miſtruſt thy friend,</l>
+               <l>Thy troubles taint my weale.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Father by marriage, friend in my miſdeed,</l>
+               <l>Thus fortune hath depreſt my weake eſtate,</l>
+               <l>Sempronio found in Venice for my friend,</l>
+               <l>Deare to my ſoule while he held vertue deare,</l>
+               <l>Incenſt thy daughter and my wedded wife,</l>
+               <l>Who ſcorning to defame her ancient ſtocke,</l>
+               <l>Disburdned his lewd ſuit within my eares,</l>
+               <l>Heereon in a rage I drew him to the field,</l>
+               <l>There he lies ſlaine, I flie to ſaue my life.</l>
+               <l>Now as thou art a father, for my ſake</l>
+               <pb facs="tcp:8534:7"/>
+               <l>Pittie thy daughter and my wofull child,</l>
+               <l>For by the law I am condemnd to die:</l>
+               <l>Farewel, the reſt who cannot tel, if you enquire.</l>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>Stay Lelio, ſtay, if for my daughters ſake thou ſleweſt thy friend,</l>
+               <l>I for thy vertues ſake will keepe thee cloſe within my houſe,</l>
+               <l>And ſhip thee priuily this preſent night,</l>
+               <l>So vnperceiu'd thou ſhalt eſcape awaie.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Haſt thou not heard the ſentence of the Duke?</l>
+               <l>That who ſo ſuccors me muſt looſe his goods,</l>
+               <l>And liue a baniſht life.</l>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>Why thinkeſt thou threates ſhall make me leaue my friend?</l>
+               <l>When is the time for friends to ſhew themſelues,</l>
+               <l>But in extremitie.</l>
+               <l>I bleſſe ſweet fortune that giues me ſuch meanes,</l>
+               <l>To ſhew how much I fauor true nobilitie.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>What God wil haue, folly may not withſtand.</l>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>Go in my ſonne, I wil be day, the night, the eue<g ref="char:EOLhyphen"/>ning, the morning to thee my ſonne,</l>
+               <l>The day to helpe thee flie from foes purſuit,</l>
+               <l>The euen to giue thee reſt from all thy toile,</l>
+               <l>No daie nor night ſhall I retaine my reſt,</l>
+               <l>Till Briſhio know that thou art ſafely fled.
+<stage>Exe: omnes.</stage>
+               </l>
+            </sp>
+            <stage>Enter Sempronio diſguiſed with Phillip.</stage>
+            <sp>
+               <speaker>Semp:</speaker>
+               <l>Here leaue me father, walke no further forth,</l>
+               <l>Leaue me ſuppoſed dead, reuiu'd by thee,</l>
+               <l>Hide thou my name, and couer from the world,</l>
+               <l>My fortunes and my birth, and all miſdeeds,</l>
+               <pb facs="tcp:8534:7"/>
+               <l>Here is that Venice that beheld me fond,</l>
+               <l>Here is that Venice that ſhall beholde me wiſe,</l>
+               <l>Looke how thy ſcience hath diſguiſde theſe lookes,</l>
+               <l>So hath thy councell reconcilde my heart,</l>
+               <l>I hate all worldly pompe, I ſcorne lewd luſt,</l>
+               <l>This tongue from tempting in diſhoneſt loue</l>
+               <l>Shall labour to releeue the innocent,</l>
+               <l>Farewell, thou knoweſt my vow,</l>
+               <l>Which I haue ſworne to keepe irreuocable,</l>
+               <l>Neuer to diſcloſe my name,</l>
+               <l>Vntill ſuch time as thou releaſeſt me.</l>
+            </sp>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>I wil conceale thy name, thy fortune &amp; thy birth,</l>
+               <l>Thy friends, and what thou wilt I will conceale,</l>
+               <l>And now redeemed from the iawes of death,</l>
+               <l>Loue deeds of vertue worthie Gentleman,</l>
+               <l>And euerie daie diſcouering of thy wound,</l>
+               <l>Thinke how thy God hath thus preſerued thee.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Phillip farewell, and welcome pouertie,</l>
+               <l>From ſinfull proud, I waxe a cynike pure,</l>
+               <l>Die fortune, flie deceit, floriſh true repent,</l>
+               <l>Sinne folly breeds, a good mans diſcontent.</l>
+            </sp>
+            <stage>Enter Fortunio and Marchetto, with the gard.</stage>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Marchetto, if thou loueſt me, grant me this,</l>
+               <l>That if thou enter Lelios houſe thy ſelfe,</l>
+               <l>I may accompanie or tend on thee.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Your Lordſhip cannot will or wiſh the thing,</l>
+               <l>Wherein Marchetto will not pleaſure you,</l>
+               <l>The gard alreadie hath beſet the houſe,</l>
+               <l>And I will knocke and call for enterance.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Tell me Marchetto ere thou go,</l>
+               <l>What precious thing is hid in Lelios houſe,</l>
+               <pb facs="tcp:8534:8"/>
+               <l>That likes thee beſt.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>I long to be the Lord of all his coine.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>And I long and labour for his daughters loue.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>But by your patience, worthie Lord,</l>
+               <l>I deeme my choice is beſt,</l>
+               <l>For who ſo gaineth wealth,</l>
+               <l>Hath beautie tide as captiue to his coine,</l>
+               <l>And worldly pleaſure tendeth on his traine.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>But in reſpect of beautie, it is vaine,</l>
+               <l>Riches are baites to teach vs nigardines,</l>
+               <l>But beautie to be bountie teacheth meaneſt men.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Ioue firſt wonne Dania in a golden ſhower.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>But Dalia's ouerpreſt with power,</l>
+               <l>Wealth is the bodies ſlaue, but beauty guids the mind</l>
+               <l>And feeds the ſenſe, and animates the wit.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>But wealth by golden gifts commandeth it,</l>
+               <l>The faireſt Ladies for a little bribe,</l>
+               <l>Will let Diogenes diſport awhile,</l>
+               <l>Gold is a God in this deſired age.</l>
+            </sp>
+            <sp>
+               <speaker>Semp:</speaker>
+               <l>The more corrupter men that vſe it ſo.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Why what art thou that liſtens our debate?</l>
+            </sp>
+            <sp>
+               <speaker>Semp.</speaker>
+               <l>Euen he that ſcorns the world, &amp; ſpurns at fates,</l>
+               <l>He that thinkes wealth a burden to the ſoule,</l>
+               <l>And he too fond that fondly vſeth it,</l>
+               <l>He that thinkes beautie but a fraile delight,</l>
+               <l>The nurſe of idleneſſe, a bait for fooles,</l>
+               <l>Vnmeet for Princes, who ſhould onely thinke,</l>
+               <l>To beautifie their ſoules,</l>
+               <l>Not to infect their hearts with outward ſhewes.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>What new bred Cynike doth diſturbe vs thus?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>He that can teach thee how to chouſe thy goods,</l>
+               <pb facs="tcp:8534:8"/>
+               <l>Ioyne both thy hands, and blow them mightily.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>To what intent?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Do what I bid thee man.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>I praie thee pleaſe the cynike, fit his vaine.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Fellow beholde, I will effect thy will.</l>
+            </sp>
+            <stage>Marchetto blowes his hands.</stage>
+            <sp>
+               <speaker>Semp:</speaker>
+               <l>What profit haſt thou by that breath of winde?</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Why, it warmes my hands.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>But now the heate is laide.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>It is.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Such is the golde, and ſo it doth abide,</l>
+               <l>A breath of pleaſure wauering but a ſpace,</l>
+               <l>Maintaind by mightie care, but quickly loſt.</l>
+               <l>Now Fortunio let vs ſee what beautie is,</l>
+               <l>Seeſt thou not this ſprig, iſt not freſh and greene,</l>
+               <l>Now looke againe, a litle violence makes it deform'd:</l>
+               <l>Why ſuch is beautie ſir, a bait wherewith the world</l>
+               <l>Doth angle arts, intangle towardnes,</l>
+               <l>Inforceth reaſon, trauerſeth aduice:</l>
+               <l>I praie thee let me ſerue thee Fortunio.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>To what intent?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Becauſe I hate thy courſe, and will inſtruct thee,</l>
+               <l>If thou be wiſe to marke, and proue, and know an ho<g ref="char:EOLhyphen"/>neſt man.</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>Well, I entertaine thee, thou ſhalt tend on me,</l>
+               <l>But firſt tell me, whence art thou?</l>
+               <l>Where waſt thou borne?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>I firſt was borne to be gentle,</l>
+               <l>Nature inforſt the ſeed of good and bad in me,</l>
+               <l>Till death threatned to whip me for my ſinnes,</l>
+               <l>Mercie ſtept in, Repent ſhed teares and kiſt me,</l>
+               <pb facs="tcp:8534:9"/>
+               <l>Deuotion heald me, and new chriſtned me,</l>
+               <l>In my owne bloud that dropped from this wound,</l>
+               <l>And cald me Penitent experience.</l>
+               <l>
+                  <hi>Eta ſerua voſtra fettiſima ſeruidore ſiniore.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Speakes in parables.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Let him attend, tis time to knocke vp Lelios houſeholde traine.</l>
+            </sp>
+            <stage>He knockes.</stage>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>
+                  <stage>within.</stage> Who knockes there?</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>The princes gard.</l>
+            </sp>
+            <sp>
+               <speaker>Gna:</speaker>
+               <l>Gard, we haue no need of gards, go to the tailors,</l>
+               <l>Keepe out I ſaie.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Sir, if I catch you.</l>
+            </sp>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>I and you can.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>What a foole is this?</l>
+            </sp>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>What an aſſe is that?</l>
+            </sp>
+            <stage>Enter Annetta and Lucida.</stage>
+            <sp>
+               <speaker>An:</speaker>
+               <l>What noiſe is this?</l>
+               <l>What mean this troup of armed men about my dore?</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Madame, the Senate by a late decree,</l>
+               <l>Hath ſent vs to make ſearch for Lelio,</l>
+               <l>And if we finde him not, to ſeize his goods.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>All what is his, my Lord, you may command,</l>
+               <l>The ſcourge which God afflicteth on our heads,</l>
+               <l>Is for our ſinnes, we take our harmes in gree,</l>
+               <l>Go when you will, ſearch where you pleaſe,</l>
+               <l>And leaue the reſt for this poore maid and me.</l>
+            </sp>
+            <stage>Exit Marchetto and the Gard.</stage>
+            <sp>
+               <speaker>Fo:</speaker>
+               <l>Did euer eies behold ſo faire a face?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Looke not Fortunio, eies are arrowes keene,</l>
+               <l>That wounds all vnawares, and are not ſeene.</l>
+               <pb facs="tcp:8534:9"/>
+               <l>Why weeps this tender maid, why grieues the mother</l>
+               <l>Tis I ſhould weepe, and I will weepe for both,</l>
+               <l>Fie on Sempronio that was ſo vnkind.</l>
+            </sp>
+            <sp>
+               <speaker>Fo:</speaker>
+               <l>Fond man, why doeſt thou torment thy ſelfe?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>I beate Sempronio for abuſing thee,</l>
+               <l>Thou looſe vnbridled man, the cauſe of harmes,</l>
+               <l>Pardon Annetta, pardon Lucida.</l>
+            </sp>
+            <sp>
+               <speaker>Luc:</speaker>
+               <l>What ailes this aged man he ſtormeth ſo?</l>
+            </sp>
+            <sp>
+               <speaker>Fo:</speaker>
+               <l>Some lunaſie ſurpriſeth me I feare,</l>
+               <l>Art thou Sempronio?</l>
+            </sp>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>This is Annetta, that Lucida, thou Fortunio,</l>
+               <l>But I am not Sempronio, but penitent experience</l>
+            </sp>
+            <sp>
+               <speaker>Fo:</speaker>
+               <l>Faire Lucida, as bright as is the morning ſtarre.</l>
+               <l>Drie vp thy teares, let not thy fathers fall</l>
+               <l>Depreſſe thy courage, but reuiue thy ſpirits,</l>
+               <l>And think thy beautie ſufficient to wed thee preſently</l>
+            </sp>
+            <sp>
+               <speaker>Lu:</speaker>
+               <l>Fortunio, now my wedding daies be paſt</l>
+               <l>I haue that husband which contents me beſt.</l>
+            </sp>
+            <sp>
+               <speaker>Fo:</speaker>
+               <l>Words ſounding death, may I thy husband know.</l>
+            </sp>
+            <sp>
+               <speaker>Luc:</speaker>
+               <l>Why ſir, I late am wedded to my wo,</l>
+               <l>With him I liue, he doth inioy my heart.</l>
+            </sp>
+            <sp>
+               <speaker>Fo:</speaker>
+               <l>Tuſh madame, that mariage may bee quickly mad,</l>
+               <l>Beautie to dwel with wo were to to bad. <stage>Here whiſper.</stage>
+               </l>
+               <l>Heare me a word.</l>
+            </sp>
+            <stage>Enter Marchetto with the gard.</stage>
+            <sp>
+               <speaker>Ma:</speaker>
+               <l>Madame, I ſee your husband hath pruented vs,</l>
+               <l>Well, let him flie, his cheſts are ſealed vp,</l>
+               <l>The houſe and ſome ſmall helps are left for you,</l>
+               <l>But if in this your extreame miſerie,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou will vouchſafe to follow mine aduice,</l>
+               <l>I will aſſure you good and wealth inough.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:8534:10"/>
+               <speaker>An:</speaker>
+               <l>As how my Lord?</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Forget thy Lelios loue,</l>
+               <l>Grant me poſſeſsion of thy priuate bed.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>Auant vnreuerend pailard, touch me not.</l>
+            </sp>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>Here's firſt a knacke to know an honeſt Lady.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Tis but a tricke of youth, refuſe not me.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>Awaie diſhoneſt man, abuſe not me,</l>
+               <l>My pouertie is happines to me,</l>
+               <l>So long as vertue guides and gouerne it,</l>
+               <l>Come Lucida, beware of ſubtill men.</l>
+               <l>Fly from theſe Sirenes that inchant chaſt hearts,</l>
+               <l>Come let our toiling fingers get vs bread,</l>
+               <l>Before ſuſpect ſhould preiudice our names.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Good madame but a word, and then no more.</l>
+            </sp>
+            <sp>
+               <speaker>Luc:</speaker>
+               <l>Sir, in a word you ſhalt not tempt me more,</l>
+               <l>I am too noble to forget my ſelfe,</l>
+               <l>Too chaſt to be a princes concubine:</l>
+               <l>Offer your lewd aſſaultes among your curtizans,</l>
+               <l>I am no ſtale for your vnhoneſt luſt: and ſo farewell.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Do ſo as thou haſt ſayd,</l>
+               <l>Thou ſhalt be crownd with honor, curteous maid.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Deſpiſde and ſcornd, what ſhould I but deſpaire,</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Vſe force, my Lord, &amp; win what you wold haue.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>
+                  <hi>I,</hi> here's a knacke to know an arrant knaue,</l>
+               <l>Vertue neare taught thee that.</l>
+               <l>She ſets a bit vpon her brideled luſt,</l>
+               <l>She hath a water of a holy zeale,</l>
+               <l>To drowne the ſhame of vaine affection in.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Peace fooliſh foole, thou doeſt abuſe our talke.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>What doo theſe flatterers where free men walke?</l>
+               <l>Hearke my Fortunio, I will tell a tale,</l>
+               <pb facs="tcp:8534:10"/>
+               <l>An oxe in Memphes with his poaring tongue,</l>
+               <l>Licking in doctious weeds did ſo foretell</l>
+               <l>His following death: a wretch like to my ſelfe,</l>
+               <l>Beating Marchettos cloake, doth propheſie</l>
+               <l>His following ſhame, vnles he mend his life.</l>
+            </sp>
+            <stage>Enter Seruio, Franco, and the gard.</stage>
+            <sp>
+               <speaker>Ser:</speaker>
+               <l>Tis true my friends, <hi>I</hi> heard the pullie creake,</l>
+               <l>The ſtirring crane did make a mightie noiſe,</l>
+               <l>And by a rope <hi>I</hi> ſawe deſcending downe,</l>
+               <l>The curſed murderer, Lord Lelio.</l>
+               <l>Tis Briſhio ſuccors Lelio, none elſe.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>What news my friends, what makes Seruio vp?</l>
+            </sp>
+            <sp>
+               <speaker>Ser:</speaker>
+               <l>Captaine, Lorde Lelio hetherto hath kept in Bri<g ref="char:EOLhyphen"/>ſhios houſe,</l>
+               <l>And this night from his lee is ſlipt awaie,</l>
+               <l>
+                  <hi>I</hi> ſawe the ancor fiſht, the ſailes new hoiſt,</l>
+               <l>Aske of this peaſant if <hi>I</hi> tell not true.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Sirrha, didſt thou ſee Lelio?</l>
+            </sp>
+            <sp>
+               <speaker>Fran:</speaker>
+               <l>
+                  <hi>I</hi> marie did <hi>I</hi> ſir.</l>
+            </sp>
+            <sp>
+               <speaker>Ser:</speaker>
+               <l>What need we more?</l>
+            </sp>
+            <sp>
+               <speaker>Fran:</speaker>
+               <l>Marie to know when <hi>I</hi> ſawe him laſt,</l>
+               <l>For the firſt time <hi>I</hi> ſawe him was at his marriage.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Vnbend thy musket ſouldier in the locke.</l>
+               <l>Preſſe me his thumbes, and make the ſlaue confeſſe,</l>
+            </sp>
+            <stage>Here pinch him.</stage>
+            <sp>
+               <speaker>Fran:</speaker>
+               <l>O <hi>I</hi> confeſſe Lelio was ſhipt at our crane this night,</l>
+               <l>My maſter Briſhio tooke him in,</l>
+               <l>
+                  <hi>I</hi> agreed with the ſhipmaſter, made clcane his ſhooes,</l>
+               <l>And ſo laide him in the rope of our crane,</l>
+               <l>And let him downe into the ſhip;</l>
+               <pb facs="tcp:8534:11"/>
+               <l>And he is gone into the Florentine campe.</l>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <l>So now let him looſe, the truth apparant is.</l>
+            </sp>
+            <sp>
+               <speaker>Fo:</speaker>
+               <l>Marchetto, go proſecute the Senates will,</l>
+               <l>Attach Lord Briſhio, ſeize vpon his goods,</l>
+               <l>Come breake vp the doore.</l>
+            </sp>
+            <stage>
+               <hi>Exit omnis, manet</hi> Sempronio <hi>&amp;</hi> Seruio.</stage>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>Soft gentle friend, a word or two with you,</l>
+               <l>From whence proceed theſe troubles that ariſe?</l>
+            </sp>
+            <sp>
+               <speaker>Se:</speaker>
+               <l>For yong Sempronios death, my honeſt friend.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>VVhy gentle ſir, is young Sempronio dead?</l>
+            </sp>
+            <sp>
+               <speaker>Se:</speaker>
+               <l>VVhy doubts thou that, I tell thee I haue ſought and found it ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>VVhere was he buried?</l>
+            </sp>
+            <sp>
+               <speaker>Se:</speaker>
+               <l>VVhy Sepheards brought me tidings of his death</l>
+               <l>Some rauenous beaſt did ſeize him for his praie.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>And what haſt thou loſt or gotten by his death?</l>
+            </sp>
+            <sp>
+               <speaker>Se:</speaker>
+               <l>I haue annuall rents two thouſand pounds,</l>
+               <l>The worth in plate of twice ſo many more,</l>
+               <l>A few ſuch breakfaſts friend, would make me rich,</l>
+               <l>Ile tell thee, euerie daie throughout the yere,</l>
+               <l>Ile looſe a kinſman to poſſeſſe ſo much.</l>
+            </sp>
+            <sp>
+               <speaker>Semp:</speaker>
+               <l>Then not for loue thou beareſt Sempronio,</l>
+               <l>But for a colour of thy honeſt minde,</l>
+               <l>Thou doeſt purſue Lord Lelio in this ſort.</l>
+            </sp>
+            <sp>
+               <speaker>Se:</speaker>
+               <l>A foole were I ſo to accuſe my ſelfe,</l>
+               <l>Thinke like a worldly man, that ſo it is,</l>
+               <l>And ſo it is in deed, who longeth to be rich,</l>
+               <l>Let him forget God but for a dozen yeres,</l>
+               <l>He ſhall be rich, well landed, ſtout, and braue.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m.</hi>
+               </speaker>
+               <l>Wipe out that water from thy eies my friend.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:8534:11"/>
+               <speaker>Se.</speaker>
+               <l>VVhat ayleth me?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>VVhy thou art blind and canſt not ſee.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Thou wilt not make me mad, Ile take my ſpectacles</l>
+            </sp>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>Tuſh they auaile thee not, for thou art blinde in deede,</l>
+               <l>Looke in thy heart and finde an honeſt thought,</l>
+               <l>Then will I ſaie thy eyes are perfect cleere,</l>
+               <l>Looke in thy conſcience, finde it not corrupt,</l>
+               <l>Then thou ſhalt ſee without thy ſpectacles.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Awaie, thou art a knaue I ſaie, tempt me not.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Yes, but thou art an arrant couetous knaue, for all mine vnkle.
+<stage>Exit Seruio.</stage>
+               </l>
+            </sp>
+            <stage>Enter Fortunio and Marchetto, with Briſhio and his two ſonnes.</stage>
+            <sp>
+               <speaker>Bri:</speaker>
+               <l>Tis true my Lord, I fauord Lelios flight,</l>
+               <l>My loue hath croſt the rigor of your lawes.</l>
+            </sp>
+            <sp>
+               <speaker>Fo:</speaker>
+               <l>Did you foreknow the penaltie my Lord,</l>
+               <l>That doomes you baniſhment and loſſe of goods.</l>
+            </sp>
+            <sp>
+               <speaker>Bri:</speaker>
+               <l>All this <hi>I</hi> knew, but none of this <hi>I</hi> feare,</l>
+               <l>True friendſhip lightneth all theſe burdenous harme</l>
+               <l>If Lelio be eſcapt <hi>I</hi> feare no wants,</l>
+               <l>My exile to me is libertie,</l>
+               <l>Go fruites of nature, <hi>I</hi> will leaue you heere,</l>
+               <l>Go toward children, thriue among my friends,</l>
+               <l>Glut you with my exceſſe of Vanities,</l>
+               <l>Feed your vncleane deſires by ſpoiling me,</l>
+               <l>
+                  <hi>I</hi> wreake them not, ſo Lelio liue to me.</l>
+               <pb facs="tcp:8534:12"/>
+               <l>Not irkeſome age, not lims with ſicknes tir'd,</l>
+               <l>Nor you my ſonnes, nor all my other friends,</l>
+               <l>Not fortune nor intreate ſhall keep me backe.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Whence growes thy reſolution ſo auſtere?</l>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>From honeſtie, my friends, which gouernes me,</l>
+               <l>Firſt Lelio mongſt our chiefeſt citizens,</l>
+               <l>Made me his father, and his vowed friend:</l>
+               <l>Next, to defend my daughter from defame.</l>
+               <l>He ventured life, And ſhall a little pelfe,</l>
+               <l>Theſe two yong boyes, make me forget my friend,</l>
+               <l>That ventured life and vertue for my ſake?</l>
+               <l>No, <hi>I</hi> loue my Lelio, do what fortune can.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Why here's a knacke to know an honeſt man,</l>
+               <l>Keepe him in Venice my Fortunio,</l>
+               <l>When he is gone few ſuch will ſtaie behinde,</l>
+               <l>For here our wonted faith is turn'd to fraud,</l>
+               <l>Our periuries are counted policies,</l>
+               <l>Our oaths are gates to catch the ſimple ſort,</l>
+               <l>Our curteſie is but nodding of the head,</l>
+               <l>Diſcouering the cap, or bending of the knee,</l>
+               <l>Swearing <hi>I</hi> loue your honor good my Lord:</l>
+               <l>The beſt diſſembler hath the braueſt wit,</l>
+               <l>Come let me loue thee for thy Lelios ſake,</l>
+               <l>And when <hi>I</hi> meet him next Ile tel him more.
+<stage>Ex. Sem.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Opre:</speaker>
+               <l>Deare father, who ſhall ſuccor vs when you are dead?</l>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>Your diligence, which can command the prou<g ref="char:EOLhyphen"/>deſt miſerie.</l>
+            </sp>
+            <sp>
+               <speaker>Zeph:</speaker>
+               <l>What if your friends repine, and will not giue?</l>
+            </sp>
+            <sp>
+               <speaker>Briſh</speaker>
+               <l>Your hands, my ſons, muſt teach you how to liue</l>
+               <l>Courage and induſtrie can neuer want,</l>
+               <pb facs="tcp:8534:12"/>
+               <l>Vaine idleneſſe growes wretched by itſelfe,</l>
+               <l>But diligence inableth pooreſt men.</l>
+               <l>Well, muſt <hi>I</hi> to priſon Lordes, or muſt <hi>I</hi> hence,</l>
+               <l>Tell me the Senates ſentence ſpeedily.</l>
+            </sp>
+            <sp>
+               <speaker>Fo:</speaker>
+               <l>Hie thee from Venice ſpeedily, for if thou ſtay</l>
+               <l>But two houres ſpace, thou art adiudged death.</l>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>Farewell my Lord, and farewell gentle friend,</l>
+               <l>Adieu my ſonnes nay weepe not,</l>
+               <l>Commend me to your ſiſter, loue her well,</l>
+               <l>Defend her honor as you loue your liues.</l>
+            </sp>
+            <sp>
+               <speaker>Zep:</speaker>
+               <l>Where nature parteth vs, there ſorrow thriues.</l>
+            </sp>
+            <stage>Exit Briſhio.</stage>
+            <sp>
+               <speaker>Ma:</speaker>
+               <l>Come, let vs let the Duke and Senate know,</l>
+               <l>The whole ſucceſſe and fortune we haue had.</l>
+            </sp>
+            <stage>Exit omnis.</stage>
+            <stage>Enter Franco and Gnatto.</stage>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>What Franco, wel met, whether art thou going?</l>
+            </sp>
+            <sp>
+               <speaker>Fran:</speaker>
+               <l>Faith my maſter is gone awaie, and I am going a begging.</l>
+            </sp>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>A begging, why tis the beſt occupation thou canſt vſe,</l>
+               <l>A begger hath fiue of the ſeuen liberall ſciences</l>
+               <p>At his fingers ends: he hath muſike to ſing for his din<g ref="char:EOLhyphen"/>ner, he hath logicke to cauel with the conſtable, he hath rhetorike to perſwade that hee ſhould not go to the ſtockes, he hath Geometrie to meaſure out his bed in the plaine field, and he haſt Aſtronomie to ſhew a warme ſunne from a colde ſhade. Nay, Ile proue that a begger deuours the foure morall vertues at one breakfaſt: he's valiant when he muſt needs fight, he is liberall when he hath anie monie
+<pb facs="tcp:8534:13"/> to ſpend, and he is true if there be nothing to ſteale. A begger, why tis the ancienteſt occupation that is, it be<g ref="char:EOLhyphen"/>gan at Adam, &amp; wil neuer end til doomes day. But ſir<g ref="char:EOLhyphen"/>rha Franco, Ile tell thee what thou ſhalt do, go &amp; pro<g ref="char:EOLhyphen"/>feſſe thine olde occupation againe.</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <l>Whats that?</l>
+            </sp>
+            <sp>
+               <speaker>Gnat.</speaker>
+               <l>O tis the beſt occupation that is for thee.</l>
+            </sp>
+            <sp>
+               <speaker>Fran:</speaker>
+               <l>Why what profit can that yeld?</l>
+            </sp>
+            <sp>
+               <speaker>Gnat.</speaker>
+               <p>Why, by being alwaies dronke thou ſhalt learne neuer to be ſober. O the vertue of a dronkard is much, he ſpeaks little becauſe he ſleeps much, he ſtands not vpon opinion, for euerie litle ſtraw throwes him not downe: he is not proud, for his head is readie to ſalute euerie poaſt: nor hee is not enuious, for hee teares his ſtomacke open to euerie man, and ſleepes as ſoundly on a donghil as on a downe bed. Mary one thing, he is ſubiect to impatience, for once a daie he ſees the deuill.</p>
+            </sp>
+            <sp>
+               <speaker>Fran:</speaker>
+               <l>And truly for that cauſe Ile bleſſe my ſelfe,</l>
+               <l>Ile to the Duke of Millanes campe to my maſter,</l>
+               <l>And there profeſſe beggerie: ſtay thou heere</l>
+               <l>To profeſſe dronkennes: and ſo farewell.
+<stage>Ex: Fran:</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Gnat:</speaker>
+               <l>Go thou to beggerie, Ile to the butcherie,</l>
+               <l>The prouerbe is true that I tell to you,</l>
+               <l>Tis better to be dronken and drouſie,</l>
+               <l>Than hunger ſtarued and louſie.
+<stage>Ex: Gnatto.</stage>
+               </l>
+            </sp>
+            <stage>Enter Annetta and Lucida with their worke in their handes.</stage>
+            <sp>
+               <speaker>An:</speaker>
+               <l>Come Lucida, here let vs ſit a while,</l>
+               <pb facs="tcp:8534:13"/>
+               <l>My father is baniſht, and my husband is fled,</l>
+               <l>And that which grieues my hart, my brethren poore,</l>
+               <l>And we not able for to ſuccor them.</l>
+            </sp>
+            <sp>
+               <speaker>Lu:</speaker>
+               <l>Good mother ceaſe your plaintes, for heere comes one.</l>
+            </sp>
+            <stage>Enter Sempronio.</stage>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Fortunio my maſter mad in loue,</l>
+               <l>Muſt haue this Lucida, or he will die,</l>
+               <l>And I ſuppoſd to be a worldly man,</l>
+               <l>Muſt be a meane, and ſtale to win his loue:</l>
+               <l>But whereas penitent experience pleads for lewd luſt,</l>
+               <l>The lecher neuer thriues,</l>
+               <l>But here bring <hi>I</hi> the ſacred cheſt of gold,</l>
+               <l>Giftes, which if prouerbs lie not, will tempt the Gods:</l>
+               <l>Yonder ſits chaſtitie at beauties feete,</l>
+               <l>Madames, God ſpeed your works, &amp; ſpeed your frinds</l>
+               <l>And ſpeed your foes, but ſpeed your vertues more.</l>
+            </sp>
+            <sp>
+               <speaker>Lu:</speaker>
+               <l>welcome honeſt friend.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>soft, firſt proue mine honeſtie,</l>
+               <l>And heare my meſſage ere you praiſ me much,</l>
+               <l>And this is it, A lewd and luſtie Lord,</l>
+               <l>Traind vp in idlenes, hath late beheld faire Lucida,</l>
+               <l>And longs to lie with her,</l>
+               <l>And hoping by rewards to win her loue,</l>
+               <l>He ſends this caſconet clogd with gold and pearle,</l>
+               <l>Firſt to Annetta to make her a baud,</l>
+               <l>Next to faire Lucida to make her a whoore,</l>
+               <l>But if Annetta be as chaſt and wiſe,</l>
+               <l>As when ſhe countercheckt Sempronio,</l>
+               <l>If Lelios vertue liue in Lucida,</l>
+               <l>Returne me backe with ſtrokes and railing wordes,</l>
+               <l>Scratch out my eies for bringing lewd attempts,</l>
+               <pb facs="tcp:8534:14"/>
+               <l>But if you meane to trie a tricke of youth,</l>
+               <l>And vaine neceſſitie kils honeſtie,</l>
+               <l>Here take this golde, but herewithall receiue</l>
+               <l>A thouſand curſes from Sempronios ghoſt,</l>
+               <l>This halter to diſpatch thee, leaſt thy guilt,</l>
+               <l>Should breed more diſhonor in thy fathers eares.</l>
+            </sp>
+            <sp>
+               <speaker>Luc:</speaker>
+               <l>Who ſent thee fellow, to ſeduce vs thus?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Fortunio Lucida, a mightie man,</l>
+               <l>But if true vertue gouerne thy affects,</l>
+               <l>Make thou a marble rocke of this white breaſt,</l>
+               <l>Againſt the ſea of euerie loued aſſault.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>The ſtrangeſt meſſage that <hi>I</hi> euer heard,</l>
+               <l>Fortunio ſhewed but little wit in this,</l>
+               <l>To truſt his ſecrets with ſo ſeuere a man.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Why <hi>Annetta, I</hi> haue dealt in honeſtie,</l>
+               <l>
+                  <hi>I</hi> haue diſcourſt my maſters minde at large,</l>
+               <l>And therein ſhewed the dutie that <hi>I</hi> owe:</l>
+               <l>Next lyke a councellor and friend beſides,</l>
+               <l>I giue thee this aduice, and therein let thee know,</l>
+               <l>How much I honor noble Lelio.</l>
+               <l>Ah but when I thinke vpon Sempronio.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>Why what of him?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>How imperiouſly he ſought to win thy loue.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>Tell me the reſt.</l>
+            </sp>
+            <sp>
+               <speaker>Stm:</speaker>
+               <l>I cannot chooſe but weepe amaine.</l>
+            </sp>
+            <sp>
+               <speaker>Luc:</speaker>
+               <l>Why dydſt thou know the man?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>O no, not I, for I am penitent Experience,</l>
+               <l>Madames, I know gold cannot conquer you,</l>
+               <l>Faire Lucida doth ſcorne Fortunios luſt,</l>
+               <l>And for that vertue which <hi>I</hi> ſee in both,</l>
+               <l>Receiue the gifts <hi>I</hi> will beſtow on you:</l>
+               <pb facs="tcp:8534:14"/>
+               <l>To thee chaſt madame, Lelios beſt beloued,</l>
+               <l>
+                  <hi>I</hi> giue this ſcalpe, and pray thee euerie daie,</l>
+               <l>Beholding it, to thinke vpon thy end:</l>
+               <l>Which ſight will ſo reſtraine all worldly luſt,</l>
+               <l>As thou ſhalt die to ſin, and liue to God.</l>
+               <l>To thee faire Lucida I do preſent</l>
+               <l>This booke, whereon is written,</l>
+               <l>Thy fathers pedegree and famous line,</l>
+               <l>Each morning when the golden Sunne appeares,</l>
+               <l>And glides the mountaine tops, peruſe it well,</l>
+               <l>There reading marke but honor of thy race,</l>
+               <l>Take heed leaſt lewdnes do thy fame deface,</l>
+               <l>Replie not, get you in, the Crocodile is co<g ref="char:cmbAbbrStroke">̄</g>ming forth</l>
+               <stage>Here put them in at doore.</stage>
+               <l>That weeping will deuour you.</l>
+               <l>This is the feaſtiuall of holy Marke,</l>
+               <l>Yond come the pompious ſhew.</l>
+               <stage>Enter the ſhew on the Stage.</stage>
+               <l>
+                  <hi>Vanitas vanitatum, &amp; omnia vanitas,</hi>
+               </l>
+               <l>Vaine ceremonies, cuſtomes of the world,</l>
+               <l>This daie our Lordes of Venice wonted bee,</l>
+               <l>To ſacrifice in triumph to the ſea,</l>
+               <l>And march in pompe vnto the Arcedan,</l>
+               <l>For this great ſtate built in a ſtarrie nooke,</l>
+               <l>An angle of the Andrie arctike ſea,</l>
+               <l>For happineſſe and long continuance,</l>
+               <l>More bleſt than Rome it ſelfe,</l>
+               <l>Vaine cuſtomes doth obſerue,</l>
+               <l>But yond come my maſter and Marchetto forth,</l>
+               <l>Now you that long to ſee the guiſe of ſinne,</l>
+               <l>How one makes two, and two increaſeth foure,</l>
+               <pb facs="tcp:8534:15"/>
+               <l>And ſinne in gathering head growes infynite,</l>
+               <l>Let him beholde examples in theſe loues.</l>
+            </sp>
+            <stage>Enter Fortunio and Marchetto.</stage>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Here comes my cynicall attendance</l>
+               <l>Wee ſhall haue newes what Lucyda intendes.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Goe caſt thee headlong from a mounttaine top,</l>
+               <l>Or in the deepeſt ſeas goe drowne thy ſelfe,</l>
+               <l>Goe liue thou wretch among the barbarous beaſts,</l>
+               <l>Where Italy may neuer heare thy name.</l>
+               <l>For vertue vowes to laugh in looking on,</l>
+               <l>To ſee you periſh in your peeuiſhnes,</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>A dreadfull enterance to a dolfull tale,</l>
+               <l>Speake man, what newes from Lucyda?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>ſhee ſpyes thy poyſſoned meſſage in thy face,</l>
+               <l>Shee ſcornes thy gyftes, and vowes to hate thee euer,</l>
+               <l>To thee lewd loſſell fayre Annetta ſends,</l>
+               <l>A troope of curſes chayned with bitter ſighes,</l>
+               <l>Come Lordes lets lyghten vs of heauie things,</l>
+               <l>There lies my cloake &amp; cap, now throw your ſwoordes aſide,</l>
+               <l>And let vs three lyke fleeting vnycornes,</l>
+               <l>Runne bluſhing through the ſtreets in to the wood,</l>
+               <l>There let Fortunio cut Marchettos throat,</l>
+               <l>That councelled him to rauiſh chaſtytie,</l>
+               <l>There penitent experience with his bat,</l>
+               <l>Shall beate Fortunios tender wanton ſides,</l>
+               <l>That ſought to ſpoyle holy virginitie,</l>
+               <l>Laſtly my ſelfe will ſyt and teare my haire,</l>
+               <l>And weepe vntil <hi>I</hi> choake my ſelfe with wet,</l>
+               <l>To ſee nobilytie ſo much diſguiſd.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Hence ſorrow, boding meſſenger be gone,</l>
+               <pb facs="tcp:8534:15"/>
+               <l>Rage now ſhall ouer rule diſcretion,</l>
+               <l>Gather thy frends Marchetto follow mee,</l>
+               <l>This nyght wee will ſurpriſe them in their beds,</l>
+               <l>And teach them kyndnes who will learne no loue.</l>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <l>Here is perfect vallour in a noble man,</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>here is perfect villany ſprong from thy lyps.</l>
+            </sp>
+            <stage>Exit omnis, manet Sempronio.</stage>
+            <stage>Enter one of the Senators with Briſhios two ſonnes.</stage>
+            <sp>
+               <speaker>Sen:</speaker>
+               <l>Now gentelmen what ſeeke you at my hands?</l>
+            </sp>
+            <sp>
+               <speaker>Orp.</speaker>
+               <l>My Lord wee hope that for the aunient league,</l>
+               <l>Betwixt our Father and your worthie ſelfe,</l>
+               <l>You will vouchſafe ſomewhat to ſuccour vs.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>What gentelmen and begeres, fye for ſhame,</l>
+            </sp>
+            <sp>
+               <speaker>Sep.</speaker>
+               <l>Pay not our hopes with ſcornes,</l>
+               <l>Our father vſed you better in your wants.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Thou talkeſt of matters fortie yeres ago,</l>
+               <l>The worlde thats now differs from that was then,</l>
+               <l>Men are more neere and deerer to themſelues</l>
+               <l>But if you want a cup of drinke or ſo,</l>
+               <l>Stand at my dore my man ſhall bring it you.</l>
+               <stage>Exit Senator.</stage>
+               <l>Ha ha ha, a worldling ryght, the poets ſong</l>
+               <l>Was well applied in this,</l>
+               <l>For like the antes they eate the gaine of mens wealth,</l>
+               <l>But flye them lyke the fiends when they are falne,</l>
+               <l>Theſe Cicero and Ariſtotle tearm'd a troope of ſeruile</l>
+               <l>Baſe diſhoneſt men,</l>
+               <l>Stay here, here cometh more, ſtand by awhile.</l>
+               <l>VVee ſhall behold the world anatomiz'd,</l>
+               <stage>Enter the other Senator reading a letter.</stage>
+               <l>The Florentiens of late haue fought a field,</l>
+               <pb facs="tcp:8534:16"/>
+               <l>Wherein Lord Lelio hath deſerued well,</l>
+               <l>For why, his countrie ſcornes to ſuccour him,</l>
+               <l>Lord Briſhio tendeth on the Millane camp,</l>
+               <l>And hath atchieued many a worthie deed.</l>
+               <l>I ioy to heare of Briſhios good ſucceſſe,</l>
+               <l>Your marchandiſe are ſolde, and we haue ſent</l>
+               <l>Bils of Exchange to receiue the monie,</l>
+               <l>A merrier heart hath Treuerey for that.</l>
+               <l>How now you ſauſie youths, ſtand backe I ſay,</l>
+               <l>What make you lingering here about my doores?</l>
+            </sp>
+            <sp>
+               <speaker>Zep:</speaker>
+               <l>I hope your Lordſhip knowes vs well.</l>
+            </sp>
+            <sp>
+               <speaker>Senat:</speaker>
+               <l>I would you knew your ſelues as well as I,</l>
+               <l>Go get you he<g ref="char:cmbAbbrStroke">̄</g>ce, it is for yong men to ply their books,</l>
+               <l>To practiſe muſicke, and delight in armes,</l>
+               <l>And not to loiter vp and downe the ſtreets.</l>
+            </sp>
+            <sp>
+               <speaker>Orph.</speaker>
+               <l>Diſhoneſt Lord, our father in thy wants Did vſe thee better,</l>
+               <l>And wilt thou leaue his ſonnes in miſerie?</l>
+            </sp>
+            <sp>
+               <speaker>Senat:</speaker>
+               <l>When Briſhio and <hi>I</hi> meete, wele talke of that?</l>
+               <l>Let him come craue himſelfe, Ile anſwere him.</l>
+            </sp>
+            <sp>
+               <speaker>Zeph:</speaker>
+               <l>Why he is baniſht, and may not returne.</l>
+            </sp>
+            <sp>
+               <speaker>Senat:</speaker>
+               <l>The better cauſe haue I to caſt him off,</l>
+               <l>
+                  <hi>I</hi> will not raſe my houſe to raiſe you vp,</l>
+               <l>Let me ſee, you are two good tall youths,</l>
+               <l>And fit for ſouldiers, goe you to Millane to,</l>
+               <l>VVhere your father is, liue by the warres,</l>
+               <l>And do not vex vs in peace, for you get not a pennie of mee.
+<stage>Exit Senat.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Orph.</speaker>
+               <l>Theſe ſtrange repulſes make me deſperate,</l>
+               <l>Speake brother Zepherus, what ſhall we do?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>How now yong gallants, what diſtempers you?</l>
+               <pb facs="tcp:8534:16"/>
+               <l>But grieue not thus at worldly chances,</l>
+               <l>If ſinne were dead vertue were neuer ſeene.</l>
+               <l>Are you the ſonnes of Briſhio gentle friends?</l>
+            </sp>
+            <sp>
+               <speaker>Zep:</speaker>
+               <l>VVe are the ſonnes of hapleſſe Briſhio.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>And theſe ranke churles whom earſt your father tide,</l>
+               <l>By many great deſerts vnto his houſe,</l>
+               <l>Haue left you thus in your extremities.</l>
+               <l>Giue me your hands you relikes of renowme:</l>
+               <l>Now haue I got an Empire to my minde,</l>
+               <l>A vent for my religious charitie,</l>
+               <l>Hold take theſe iewels, buy you what you want,</l>
+               <l>But heedfully beware of gourmandize,</l>
+               <l>Lead you a ſober decent comely life,</l>
+               <l>Remember truly the effects of things,</l>
+               <l>Before you ſhall affect and make your choice.</l>
+               <l>Heare in a word, who made the planets ſeuen,</l>
+               <l>Firſt ſent downe loue and charitie from heauen,</l>
+               <l>But auarice was chriſtned in hell,</l>
+               <l>Speake holy men, haue I not counceld well?</l>
+            </sp>
+            <sp>
+               <speaker>Orp:</speaker>
+               <l>What man art thou that fauourſt miſerie?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Euen he that thankes my God,</l>
+               <l>That ſends mee ought whereby to ſuccour you,</l>
+               <l>And call me Penitent experience,</l>
+               <l>Who giues thee thankes for what thy father did,</l>
+               <l>VVho giues thee thankes for what thy brother did.</l>
+               <l>And charge you both, as you are noble borne,</l>
+               <l>To let me ſee your weapons preſently.</l>
+            </sp>
+            <sp>
+               <speaker>Zep..</speaker>
+               <l>Take them and vſe them gentle minded man.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Here are the blades well poliſht faire and bryght.</l>
+               <l>Were it not pittie Sirs that theſe ſwordes</l>
+               <pb facs="tcp:8534:17"/>
+               <l>Should ruſt within their ſheathes of bliſſe?</l>
+               <l>While ſome Venetian letcher and his mate,</l>
+               <l>Should rauiſh thy ſiſter and deflower thy neece.</l>
+            </sp>
+            <sp>
+               <speaker>Orp:</speaker>
+               <l>What ſwords are theſe frind, reporte the truth?</l>
+            </sp>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>This night Annetta, and faire Lucida,</l>
+               <l>If gods and frindes forſake them in their wantes:</l>
+               <l>By lawleſſe rauiſhers will be ſurpriſed:</l>
+               <l>
+                  <hi>I</hi> meane to ſuccour them, if you refuſe</l>
+               <l>Giue me my Iewels, for I will ſuccour none</l>
+               <l>That leaues their ſiſters in extremitie.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>God leaue vs, if we forſake our frindes,</l>
+               <l>Or leaue our ſiſter in extremitie.</l>
+            </sp>
+            <sp>
+               <speaker>Semp.</speaker>
+               <l>Then take more Iewels, heire tall men:</l>
+               <l>And vnderneath this wall, watch all this night:</l>
+               <l>If any man ſhall attempt to breake your ſiſters doore,</l>
+               <l>Be ſtout, aſſaile him, kill him, for his cauſe is bad.</l>
+            </sp>
+            <sp>
+               <speaker>Zep:</speaker>
+               <l>Lead vs the way, and we will follow thee,</l>
+               <l>For in our ſiſters cauſe wele ſpend our blood.</l>
+            </sp>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>The gaine is yours, the glory muſt be Gods,</l>
+               <l>Who made you to defend the innocenets.
+<stage>Exit omnis.</stage>
+               </l>
+            </sp>
+            <stage>Enter Forſa Duke of Myllan, with Briſhio and his traine.</stage>
+            <stage>Enter Medeſa Duke of Florence, with Lelio and his traine at the other doore.</stage>
+            <sp>
+               <speaker>For.</speaker>
+               <l>Now Briſhio, ſince thy country Venice ſcorneth thee.</l>
+               <l>And thou an abiect wretch exild from thence:</l>
+               <l>Yet I haue made thee champion of my right,</l>
+               <l>If thou expect the cauſe, it is for dowrie,</l>
+               <l>The which the Florentines denies to pay:</l>
+               <l>In right of marriage, with faire Orrelio my wedded wife.</l>
+               <pb facs="tcp:8534:17"/>
+               <l>For this thou fightes, now get the victory,</l>
+               <l>And thou haſt purchaſt Country, lyfe and friends,</l>
+            </sp>
+            <sp>
+               <speaker>Br.</speaker>
+               <l>Reaſon no more my Lord,</l>
+               <l>For vertue plucketh occaſio<g ref="char:cmbAbbrStroke">̄</g> ere he draweth his ſword.</l>
+               <l>Look on great Princes, and ſee an old man fight.</l>
+               <l>Euen as the candel falling downe aſide,</l>
+               <l>Then burneth brighteſt when it gins to fayle,</l>
+               <l>In age, ſo I will ſhewe greate valor,</l>
+               <l>And will not now ſubmit,</l>
+            </sp>
+            <sp>
+               <speaker>Fo.</speaker>
+               <l>
+                  <hi>I</hi> take thy word, God mantaine now the right,</l>
+            </sp>
+            <sp>
+               <speaker>Me.</speaker>
+               <l>Now Lelio <hi>I</hi> haue laid the burden of my warre on thee:</l>
+               <l>Thou art the champion of my weale or woe:</l>
+               <l>Deceiue not my firme hope, but in a manly fight?</l>
+               <l>Attempt the winning of this happie day,</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>By thoſe moyſt teares which with a mournful hart,</l>
+               <l>I often ſhed vpon Sempronios herſt:</l>
+               <l>And by the loue I beare Annetta faire:</l>
+               <l>Naught but my death, ſhall make me loſe thy right,</l>
+               <l>More then my life, I cannot hazard mighty Florentine</l>
+            </sp>
+            <sp>
+               <speaker>Mede.</speaker>
+               <l>I like thy courage gentleman: charge the com<g ref="char:EOLhyphen"/>batants.
+<stage>Here ſound Trompets:</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Whom doe my eyes behold, art thou not Briſhio my father?</l>
+               <l>Who forſaking weale and friends,</l>
+               <l>Madeſt thy choyſe of baleful baniſhment,</l>
+               <l>Rather then liue and ſeeme baniſht.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Art not thou Lelio whom my zealous prayers,</l>
+               <l>Haue alwaies wiſht, and wild thy greateſt good,</l>
+               <l>Ceaſe trumpets ceaſe, we two muſt neuer fight.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>What meaneth thy champion Medeſa to faynt.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:8534:18"/>
+               <speaker>Me.</speaker>
+               <l>What meanes thy champion <hi>Forſa</hi> that he faints.</l>
+            </sp>
+            <sp>
+               <speaker>Briſh.</speaker>
+               <l>To combate with my ſonne were worſe then death.</l>
+            </sp>
+            <sp>
+               <speaker>Lelio.</speaker>
+               <l>To combate with my father were my death?</l>
+            </sp>
+            <sp>
+               <speaker>Forſa.</speaker>
+               <l>Father and ſonnes, both champions in our wars.</l>
+            </sp>
+            <sp>
+               <speaker>Mede.</speaker>
+               <l>Brother and brother, cauſer of the ſame</l>
+            </sp>
+            <sp>
+               <speaker>Forſa.</speaker>
+               <l>What fauor merit they, who loue ſo well?</l>
+            </sp>
+            <sp>
+               <speaker>Med.</speaker>
+               <l>What infamy deſerue we that contend?</l>
+               <l>See <hi>Forſa</hi> theſe champions are ſo kinde they cannot fight.</l>
+               <l>Shall wee contend for tytles wretchedly,</l>
+               <l>While meaner men contend in perfectt loue.</l>
+            </sp>
+            <sp>
+               <speaker>Lelio:</speaker>
+               <l>A pardon <hi>Medeſa</hi> all the world beſide.</l>
+               <l>Had not this man, this father of my wife:</l>
+               <l>Incountred me, I would haue died and periſht in thy cauſe.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>A pardon <hi>Forſa,</hi> had not this vertuous husband of my child.</l>
+               <l>Incountred me, I would haue died and periſht in thy cauſe.</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>Riſe combatants, you teach vs what to do,</l>
+               <l>Come <hi>Medeſa,</hi> Ioyne you hands,</l>
+               <l>And let theſe two which loue ſo well,</l>
+               <l>Be Iudges of our warres, and let it end.</l>
+            </sp>
+            <sp>
+               <speaker>Me.</speaker>
+               <l>Brother content. Now champions end debate:</l>
+               <l>What you conclude, ſhall make a peace with vs:</l>
+            </sp>
+            <sp>
+               <speaker>Briſ:</speaker>
+               <l>See ſee, my ſonne, our loue hath well nigh made their peace.</l>
+               <l>Princes, are you agreed to determine warre by vs?</l>
+            </sp>
+            <sp>
+               <speaker>Forſ.</speaker>
+               <l>I <hi>Briſhio,</hi> now we are agreed.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Then tell me mightie Duke, but dally not.</l>
+               <pb facs="tcp:8534:18"/>
+               <l>Loueſt thou <hi>Orelio</hi> as a husband ſhould?</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>I loue and honour her in word and ſoule</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Then nothing is to deare for her my leech.</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>Ile hazard life, and all to doe her good.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Performe hir Ioynter then, and keepe thy worde.</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>Then let the Florentine pay me her dowrie.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Feare not my Lord, the Florentines are men that honor right.</l>
+               <l>Speake great Italian Duke, ſhall it be bruted in the eares of men?</l>
+               <l>That <hi>Forſa</hi> graunts all dewtie vnto thee,</l>
+               <l>And thou denie her right of marriage.</l>
+            </sp>
+            <sp>
+               <speaker>Me.</speaker>
+               <l>Tis pitty that gold ſhould part two noble minds,</l>
+               <l>Here <hi>Forſa</hi> take my hand, this night one tent</l>
+               <l>Shall lodge vs both, &amp; here a legare, ſhal my mony lie,</l>
+               <l>Vntill my treaſurer hath brought thy dew.</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>Then march in peace, here endeth all our hate.</l>
+               <l>Thus poore mens loue, doth great mens harmes de<g ref="char:EOLhyphen"/>bate.
+<stage>Exit omnis.</stage>
+               </l>
+            </sp>
+            <stage>Enter Zepheron and Orphinio with the Souldiers.</stage>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>This is the place now fellowes, ſtand cloſe a while,</l>
+               <l>If any ſhall attempt to ſcale theſe walles,</l>
+               <l>Aſſault him, and kill him if you can,</l>
+               <l>For death is too good an end for him that fauours di<g ref="char:EOLhyphen"/>ſhoneſtie.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>I heare them comming: brother now ſtand cloſe.</l>
+            </sp>
+            <stage>Enter Fortunio and Marchetto and Sempronio.</stage>
+            <sp>
+               <speaker>Fo.</speaker>
+               <l>Now ſleepes the Sunne in Thetis lickored lap:</l>
+               <l>And watery eyes are pleaſed with pleaſant reſt:</l>
+               <l>Now playes the ſiluer Moone vpon the Sea,</l>
+               <l>And all the traine of twinckling ſtarres adorne:</l>
+               <pb facs="tcp:8534:19"/>
+               <l>The hollow compaſſe of our heauens ſpheare,</l>
+               <l>This is the place where I muſt purchaſe life, or end my dayes.</l>
+               <l>Marchetto boldly knocke, to ſee if by permiſsion</l>
+               <l>We may enter in, leſt rumor will bewraye vs this dark<g ref="char:EOLhyphen"/>ſome night.</l>
+            </sp>
+            <stage>Here Marchetto knockes.</stage>
+            <sp>
+               <speaker>Gnat.</speaker>
+               <p>
+                  <stage>within.</stage> How nowe what ſcabis at the doore at this time of the night.</p>
+            </sp>
+            <sp>
+               <speaker>Mo.</speaker>
+               <p>Sirra, tel thy miſtreſſe Fortunio is at hand to ſpeake with her.</p>
+            </sp>
+            <sp>
+               <speaker>Gna.</speaker>
+               <p>
+                  <stage>within.</stage> Soft ſir, keepe out I ſay, leaſt I make garters of your guttes, foote balles of your faces, ho let forth the dogges there.</p>
+            </sp>
+            <sp>
+               <speaker>Fo.</speaker>
+               <l>Sirra diſpatch, and call your Myſtreſſe foorth,</l>
+               <l>Or with my Sword Ile ſend thy ſoule to hell.</l>
+            </sp>
+            <sp>
+               <speaker>Gnat.</speaker>
+               <p>Way way, you may carry the meſſage thether your ſelfe, for poore mens ſoules were made for heauen, and the rich for hell.</p>
+            </sp>
+            <stage>Enter Annetta and Lucyda.</stage>
+            <sp>
+               <speaker>Annetta</speaker>
+               <p>What noyſe is this, what meaneth you thus to aſſault a hapleſſe Ladies houſe?</p>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <l>Annetta my faire loue, my hartes ſole Queene,</l>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <l>Auaunt diſhoneſt man, diſturber of the poore:</l>
+               <l>I know thy drift, I know Fortunio comes,</l>
+               <l>To heape diſhonor on my hapleſſe houſe:</l>
+               <l>But you may be gone and get you to your reſt,</l>
+               <l>For no man entreth theſe doores this night.</l>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <l>Seize I this haggard Ile make her ſtoope.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:8534:19"/>
+               <speaker>Fo</speaker>
+               <l>Heaue me the doores from of the hinges ſtraight.</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>VVho liftes his handes to force theſe barred doores.</l>
+               <l>Shall buy his raſhnes with his deareſt blood.</l>
+            </sp>
+            <sp>
+               <speaker>Fo.</speaker>
+               <l>VVhat hath ſhe champions to reſiſt vs then?</l>
+            </sp>
+            <sp>
+               <speaker>Orphi.</speaker>
+               <l>
+                  <hi>I,</hi> ſuch as ſcorne to be diſgrac'd by thee:</l>
+            </sp>
+            <sp>
+               <speaker>Fo.</speaker>
+               <l>Downe with the ſlaues, fellowes beat them down. Giue light.</l>
+            </sp>
+            <sp>
+               <speaker>Marchet.</speaker>
+               <l>Fortunio is ſlayne Souldiers, goe rayſe the watch.</l>
+            </sp>
+            <sp>
+               <speaker>Semp.</speaker>
+               <l>The Prince is hurt, Zepheronus and Orphinio flye a pace.</l>
+            </sp>
+            <sp>
+               <speaker>Fo.</speaker>
+               <l>My ſences fayles, O helpe me to my bed.</l>
+            </sp>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>Leane on my ſhoulder and let vs goe.</l>
+            </sp>
+            <stage>Exit Sempronio and Fortunio.</stage>
+            <stage>Enter Marchetto and Seruio.</stage>
+            <sp>
+               <speaker>Marchet.</speaker>
+               <l>Theſe are the Traitors Seruio, laie hands on them.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>VVhoes this, Orphinio and Zepheronus.,</l>
+               <l>The ſonnes of Briſhio, performers of this deede.</l>
+            </sp>
+            <sp>
+               <speaker>Ma.</speaker>
+               <l>Goe Seruio keepe them cloſe, tell <hi>I</hi> enforme the Duke.</l>
+               <l>And viſit young Fortunio in his bed.
+<stage>Exit Marchetto.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>VVhat ho Phillyda my gerle come forth here.</l>
+            </sp>
+            <stage>Enter Phillida.</stage>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>VVhat would my father?</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Go take theſe priſoners, &amp; ſee thou keep them cloſe</l>
+               <l>Locke them in the vpper loft till I returne.</l>
+            </sp>
+            <sp>
+               <speaker>Orph.</speaker>
+               <l>Vſe vs like gentlemen we craue no more.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Vſe you like knaues, for you deſerue no leſſe, go get you hence.
+<stage>Exit omnis: manet Seruio.</stage>
+               </l>
+               <pb facs="tcp:8534:20"/>
+               <l>So now ſhall I ſee the end of Briſhioes race,</l>
+               <l>Now ſhal Sempronioes death be well reuenged.</l>
+               <l>Firſt will I goe to the Duke, and there procure their death,</l>
+               <l>And haſt againe to ſee their execution done.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>Enter Phtllida with the keyes.</stage>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Whether will loue and dewtie lead me now?</l>
+               <l>To whom ſhall I ſubmit in theſe extreames.</l>
+               <l>If to my father, then my Lord muſt die:</l>
+               <l>Louely <hi>Orphinio,</hi> and young <hi>Zepheronio:</hi>
+               </l>
+               <l>My cruell father now, doth ſeeke their deathes:</l>
+               <l>And now in haſt is gone vnto the Duke,</l>
+               <l>That both of them this morne may loſe their heaads.</l>
+               <l>But Ile preuent him, for here Ile ſet them free,</l>
+               <l>And hazard all their perill on my ſelfe.</l>
+            </sp>
+            <stage>Here open the doore, and Enter the two brethren.</stage>
+            <sp>
+               <speaker>Phi.</speaker>
+               <l>
+                  <hi>Orphinio</hi> come foorth.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>What ſeeks thou louely maide, amongſt wretched men?</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>I ſeeke for loue, ſaw you not him of late.</l>
+            </sp>
+            <sp>
+               <speaker>Ophi.</speaker>
+               <l>He neuer keepes, where wretched men abide.</l>
+            </sp>
+            <sp>
+               <speaker>Pdil.</speaker>
+               <l>Yes, yes <hi>Orphinio</hi> down in thy eyes he keepes:</l>
+               <l>But now to tell you dangers that are preſt,</l>
+               <l>And you muſt ſeeke preuention out of hand,</l>
+               <l>For Corrodino by Marchettoes mouth,</l>
+               <l>Hath taken order that to morrow morne,</l>
+               <l>Young Zepheronio and you ſhall loſe your heads.</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>O cruell ſentence vpon Innocents,</l>
+               <l>For what we did was in our ſiſters cauſe.</l>
+            </sp>
+            <sp>
+               <speaker>Orph.</speaker>
+               <l>How doth Fortunio?</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:8534:20"/>
+               <speaker>Phil.</speaker>
+               <l>Like the dying man: but greeue not Orphinio:</l>
+               <l>Hardeſt not thou what loue did promiſe late:</l>
+               <l>Wilt thou proteſt if I do ſet thee free,</l>
+               <l>And thou returne to Venice ſafe againe,</l>
+               <l>Vouchſafe to take me to thy wedded wife.</l>
+            </sp>
+            <sp>
+               <speaker>Orp.</speaker>
+               <l>I vow before the mighty God of heauen,</l>
+               <l>To wed and honor none but Phillida.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>I take thy word, and ſoone ſhall ſet thee free:</l>
+               <l>Here take my fathers ſignet,</l>
+               <p>Giue it to the Porter of the gates, and hee will let you paſſe: and ſo farewell my ſweete Orphinio: I cannot ſtay, and in thy Iorney thinke on Phil<g ref="char:EOLhyphen"/>lyda.
+<stage>Exit Phillida.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>Danger then muſt haſten our departure:</l>
+               <l>Farewell ſweet Phillida, Queene of my heart.
+<stage>Exit.</stage>
+               </l>
+            </sp>
+            <stage>Enter Seruio ſolus.</stage>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Welcom ſweet morne, the meanes of my delight:</l>
+               <l>God and my induſtrie hath wrought thus much:</l>
+               <l>In iuſt reuenge of my Sempronios death.</l>
+               <l>Firſt Lelio baniſht, next Briſhio to liue in miſery:</l>
+               <l>And laſt, his ſonnes to day muſt ſuffer death:</l>
+               <l>Haue I not foure for one.
+<stage>Enter the Porter.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Por.</speaker>
+               <l>Good morrow, and good fortune to my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>How now Porter, what newes?</l>
+            </sp>
+            <sp>
+               <speaker>Por.</speaker>
+               <l>I bring your honors ſignet backe againe,</l>
+               <l>Which gaue me warrant for two gentlemen.</l>
+               <l>To paſſe the gate &amp; watch ſome two howres ſince.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>My ſignet knaue, to paſſe two gentlemen:</l>
+               <l>Alas poore ſlaue haſt thou been ouer watcht?</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>Why looke on the ring my Lord?</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Why thou wilt not make me madde I am ſure?</l>
+               <pb facs="tcp:8534:21"/>
+               <l>Come let me ſee, the marke is mine:</l>
+               <l>I feare me heers ſome villanie.</l>
+               <l>What Phillida come forth, my heart miſgiues,</l>
+               <l>I pray thee hold my head.</l>
+            </sp>
+            <stage>Enter Phillida.</stage>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Father did you call?</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Thou Challet carrine drab, who tooke this ſignet from my finger, ſpeake?</l>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <l>You aske me queſtions paſt my knowledge.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Where are the keyes that lockt the vpper loft?</l>
+            </sp>
+            <sp>
+               <speaker>Ph.</speaker>
+               <l>Faſt vnderneath the pillow where you ſleepe.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Go fetch them hether, lets ſee them ſtraight,</l>
+               <l>Goe call vp my neighbors: Fayries haunt my houſe.</l>
+            </sp>
+            <stage>Exit Phillida.</stage>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>This ring was yeſterday night vpon this thumbe,</l>
+               <l>Yet hath two deuils gotten it abroad:</l>
+               <l>And gotten paſſage through my caſtell gates:</l>
+               <l>And here a worſe then Lucifer him ſelfe,</l>
+               <l>Doth bring it backe, to haunt me with ſuſpect.</l>
+            </sp>
+            <stage>Enter Annetta, Lucida and Gnatto.</stage>
+            <sp>
+               <speaker>An.</speaker>
+               <l>Hie thee good Gnatto, bring vs to the houſe,</l>
+               <l>If yet my brothers bide with Seruio:</l>
+               <l>Ile to the Duke and moue Fortunio,</l>
+               <l>For what they did was in my honors right.</l>
+               <l>See where old Seruio ſits.</l>
+            </sp>
+            <sp>
+               <speaker>Gnat.</speaker>
+               <l>Tis ſuch a wold fraud foole, I am loth to ſpeake</l>
+            </sp>
+            <stage>Enter Phillida with the keies.</stage>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>Father heere are the keies.</l>
+               <l>Fetch forth the priſoners let me ſee their lookes,</l>
+            </sp>
+            <stage>Exit Phillyda.</stage>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n:</hi>
+               </speaker>
+               <p>God ſpeed you Sir in the way of honiſtie. My mi<g ref="char:EOLhyphen"/>ſtreſſe
+<pb facs="tcp:8534:21"/> would know, whether her brethren bee priſoners in your houſe, or no.</p>
+            </sp>
+            <sp>
+               <speaker>Seruio,</speaker>
+               <l>I, tell her, and I hope ere noone to ſee them hanged.</l>
+            </sp>
+            <sp>
+               <speaker>Gnat.</speaker>
+               <l>I told you what would come out,</l>
+               <l>He ſpake as though hee would ſpit his ſtomp in my mouth.
+<stage>Enter Phillida.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Alas alas father, we are all vndone,</l>
+               <l>Orphinio and Zepherius are fled.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Tell me that my ſoule hathe left my fleſh:</l>
+               <l>How, when, where, whether, howe ſhould they bee gone?</l>
+            </sp>
+            <sp>
+               <speaker>Gna.</speaker>
+               <l>Fine and braue miſtreſſe, your brethren are gone.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Villaine why did they paſſe, you minkes, you</l>
+               <l>Minion, you haue let them looſe.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Good father do not cenſure me amiſſe.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Hence callet, harlot, worſe then nought:</l>
+               <l>For thou haſt loſt me and my priſoners:</l>
+               <l>I am vndon, my credit's crackt, my honor's loſt &amp; gone</l>
+               <l>I am a reprobate and caſt away, Ile to the Duke,</l>
+               <l>Packe thou to hell thou wretch, come not in my ſight,</l>
+               <l>But get thee gone.</l>
+            </sp>
+            <stage>Exit Seruio and Phillida.</stage>
+            <sp>
+               <speaker>An,</speaker>
+               <l>How glad am I my brethren are eſcapt,</l>
+               <l>Come ſirra, vex the ſilly wretch no more.</l>
+            </sp>
+            <stage>Exit omnis.</stage>
+            <stage>Enter Orphinio, Zepherius and Lelio.</stage>
+            <sp>
+               <speaker>Zeph.</speaker>
+               <l>Good fortune to our brother Lelio.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>O happie relickes of a worthy man,</l>
+               <l>Young Zepherius, and kinde Orphinio.</l>
+               <pb facs="tcp:8534:22"/>
+               <l>How wends the word, in Venice with our frends:</l>
+               <l>How fares Annetta, how liues Lucida.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>The worſe doth ſtill preuaile,</l>
+               <l>Marchetto hath attempted thy faire wife.</l>
+               <l>Fortunio ſought, to rauiſh Lucida:</l>
+               <l>And we reſcuing them haue hardely ſcapt with lyfe,</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Like as the Palme vnto the Egyptian ſagges,</l>
+               <l>That in three hundred daies, and ſixtie fiue:</l>
+               <l>Is ſeemlieſt and fully brought to paſſe,</l>
+               <l>Euen ſo your tydings to ſad Lelio,</l>
+               <l>Importeth my excreding yeare of griefe.</l>
+               <l>That hath three hundred woes and ſixtie fiue,</l>
+               <l>And ſixtie fiue, three hundred ſorrowes more.</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>To greeue thy ſorrowes without mending them is vanitie,</l>
+               <l>Lelio, behold occaſion fauoures thee.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Why are your ſwords vnſheathd you noble frinds?</l>
+               <l>Doth pittie moue you by a bleſſed death to ende my wooes.</l>
+               <l>O welcome is that ſword that ſlyts this hart.</l>
+            </sp>
+            <sp>
+               <speaker>Orp.</speaker>
+               <l>Tho u ſeeſt our Father in declyning age,</l>
+               <l>Is baniſht quite for ſauing of thy life,</l>
+               <l>And we his ſonnes, vnleſſe he doth returne,</l>
+               <l>Are neuer like to viſit Venice more:</l>
+               <l>Reſolue you then to hye you backe againe,</l>
+               <l>And by thy head, reuoke our exiled Sire,</l>
+               <l>Or by our ſwords, prepare thy ſelfe to dye.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Is this the cauſe that makes you ſo vnkinde:</l>
+               <l>Will Lelios head, or heart, or any part,</l>
+               <l>Be comforters to Briſhio and his ſonnes?</l>
+               <l>Put vp your ſwords, wee will not ſquare for this.</l>
+               <pb facs="tcp:8534:22"/>
+               <l>That I may ſee my father ere I go,</l>
+               <l>And thank him for his many curteſies.</l>
+            </sp>
+            <stage>Enter Briſhio.</stage>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>See where he comes, occaſion fauours thee.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>God bleſſe my ſonnes, ryſe ryſe, &amp; ſpeake to me:</l>
+               <l>Haue you not ſome Venetian frinds vnkinde.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>Their friendſhip, with thy fortunes tooke an end.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>I thought on leſſe, but why is Lelio ſo diſcontent:</l>
+               <l>Tut giue ouer man, the ſtreame wil run with vs at laſt.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>I come to thanke my father for his loue,</l>
+               <l>And pray him by thoſe armes he honors moſt,</l>
+               <l>To daigne my dutiful and kind adew.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Why whether goes my ſonne ſo ſuddenly?</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>To Venice father, to redeeme your baniſhment.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>I am not baniſht, you wrong my fames?</l>
+               <l>Liuing for him, I liue at libertie.</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>But Lelio muſt not liue, vnleſſe he be reſolu'd</l>
+               <l>To hie to Venice, that thou maieſt returne.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Theſe are thy children Briſhio, theſe exceede</l>
+               <l>In kindneſſe towards thee, and towards mee.</l>
+               <l>Oh honors to your father and to mee:</l>
+               <l>Let me imbrace you for your curteſie.</l>
+               <l>Briſhio fare well, accept a thouſand thankes.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Why, who willes thee hence?</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>Father, they will him hence, that will be actors</l>
+               <l>In his Tragedie, vnleſſe he to Venice go ſpeedily,</l>
+               <l>And quit thee from this exile with his head,</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Theſe are not Briſhios ſonnes, bids Lelio hence:</l>
+               <l>Theſe are not Briſhios ſonnes that draw their ſwords:</l>
+               <l>Thou art my ſonne, theſe two are fortunes ſlaues;</l>
+               <l>Avant vaine boyes, come not in my ſight,</l>
+               <pb facs="tcp:8534:23"/>
+               <l>By heauen and heauens adorning ſunne,</l>
+               <l>Theſe are no ſonnes of mine that ſinne ſo much.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>Aſhamd, we beg a pardon at thy hands,</l>
+            </sp>
+            <sp>
+               <speaker>Br.</speaker>
+               <l>Aſhamd, I beg a pardon at thy handes,</l>
+               <l>In rendring nature, that hath loſt thy power,</l>
+               <l>To breed ſuch manſlayers in an honeſt ſtocke.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>O bend not thoſe knees, to which nature bends.</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>O Lelio ſue our pardons, plead for vs,</l>
+               <l>Our iudgements were diſgraced by our loues.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Ryſe father of kinde ſonnes, ſonnes kinde to father,</l>
+               <l>Brothers vnkinde, in kindneſſe to your brother:</l>
+               <l>I kind to churliſh of my kinde,</l>
+               <l>Do yeeld kind death, to ſaue your liues</l>
+            </sp>
+            <sp>
+               <speaker>Br</speaker>
+               <l>Sweare puytence, lewd boyes,</l>
+               <l>Submit to Lelio humbly on your knee,</l>
+               <l>Elſe will I neuer bleſſe you graceleſſe youthes.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>We humbly craue ſubmiſsion of our brother.</l>
+            </sp>
+            <sp>
+               <speaker>Br.</speaker>
+               <l>And thou my ſonne, nay more then ſonne my frind</l>
+               <l>Here plight thy fayth to bide and ſtay with me,</l>
+               <l>Or <hi>I</hi> ſhall thinke my loue but ſpent in vaine.</l>
+            </sp>
+            <sp>
+               <speaker>Le,</speaker>
+               <l>I vow to be as ſequeſt to my Father,</l>
+               <l>And with my heart I do forgiue my brothers.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Then will <hi>I</hi> now incorporate theſe Lads,</l>
+               <l>And hug them in my arme, and hold them deare.</l>
+               <l>Now wil <hi>I</hi> hold a feſtiuall to day,</l>
+               <l>For Lelio, Zepherius and Orphinio:</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>And I with fauour of my noble Lord,</l>
+               <l>Will firſt giue order to my ſouldiers,</l>
+               <l>And then returne to Briſhio in his tent.</l>
+            </sp>
+            <sp>
+               <speaker>Br.</speaker>
+               <l>Be carefull of thy charge my noble ſonne,</l>
+               <l>I will not hinder thee in vertuous things,</l>
+               <pb facs="tcp:8534:23"/>
+               <l>But let vs meete againe before we march,</l>
+               <l>For I haue many things for to impart to thee.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>My buſines paſt <hi>I</hi> will reuiſit thee.</l>
+            </sp>
+            <stage>Exit omnes, manit Lelio.</stage>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>In what a world of troubles am I toſt,</l>
+               <l>To Venice Lelio, rid thy fathers cares:</l>
+               <l>
+                  <hi>I</hi> but Briſhio will accuſe thy breach of faith.</l>
+               <l>But while I heere remayne his griefes increaſe,</l>
+               <l>
+                  <hi>I</hi> am reſolud, father, frinds, farewell,</l>
+               <l>
+                  <hi>I</hi> will to Venice with a merry hart.</l>
+               <l>And in what eare diſguiſe I can prouide,</l>
+               <l>Viſit Annetta my diſtreſſed wife,</l>
+               <l>And ſo redeeme my fathers baniſhment.
+<stage>Exit Lelio.</stage>
+               </l>
+            </sp>
+            <stage>Enter the Duke of Venice with the Senator &amp; Seruio bound.</stage>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Bring tortors forth, bring me a cord,</l>
+               <l>Stretch me the villanes lymes, force him to confeſſe.</l>
+               <l>What, haue <hi>I</hi> made thee the marqueſſe of Saint Marks</l>
+               <l>And gaue thee charge of all the Citie keyes,</l>
+               <l>And haſt thou playd me ſuch a part,</l>
+               <l>To let thoſe caitiue boyes eſcape my hands.</l>
+            </sp>
+            <sp>
+               <speaker>Ser,</speaker>
+               <l>Iuſt God great Duke, can witneſſe it with me,</l>
+               <l>With what great griefes <hi>I</hi> loſt the priſoners.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Who doubtes but God beholds thy treachery,</l>
+               <l>And therefore the miniſter of God,</l>
+               <l>Will puniſh thee and make thee to confeſſe</l>
+               <l>Whether corruption or affliction</l>
+               <l>Made thee diſcharge the priſoners of my wrath.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Racke me to death, ſhew all extremities,</l>
+               <l>You ſhall but wrecke your wrathes on Innocenſe.</l>
+            </sp>
+            <sp>
+               <speaker>Duke:</speaker>
+               <l>This is but delaying, racke him I ſay.
+<stage>Ent. Phil.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Worke no iniuſtice great Venetian Duke,</l>
+               <pb facs="tcp:8534:24"/>
+               <l>Vnbind my aged father cruell man,</l>
+               <l>Theſe pangs belongs to none but guiltie ſoules:</l>
+               <l>Inflict them then on thoſe that merit them.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>What art thou that hinders Iuſtice ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>The hapleſſe daughter, of this hapleſſe man:</l>
+               <l>I ſtole my fathers keyes by night:</l>
+               <l>I freed Orphinio, and Zepheronio.</l>
+               <l>And if this deed doe meryt death my Lord,</l>
+               <l>Let loſe my father, wrecke your hate on mee.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>If you be ſhe that ſet my priſoners free,</l>
+               <l>I am the Iudge, and ſentence thee to dye:</l>
+               <l>Slaues ſtrangle her, let Seruio be releaſt.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Oh pardon the daughter, let the father dye,</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Why ſtay you miniſters, is not the ſentence paſt,</l>
+               <l>Muſt I not dye?</l>
+            </sp>
+            <stage>Enter Sempronio, with Fortunio bound.</stage>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>No marry muſt you not you fooliſh girle.</l>
+               <l>Good Lord how apt the world is now adaies,</l>
+               <l>To finde inuention to deſtroy a man:</l>
+               <l>VVhen as the greateſt arts of our age,</l>
+               <l>Can neuer make or hardely mend a man.</l>
+               <l>Great Corridino, let me councell thee,</l>
+               <l>If thou wilt puniſh damned and wretched men:</l>
+               <l>Put me theſe gray beards quickly from their ſeates,</l>
+               <l>And racke them ſoundly, and they will confeſſe,</l>
+               <l>How they preferre their gold before their God,</l>
+               <l>Their lands and honors, before their honeſtie,</l>
+               <l>Or if thou wilt conceiue the truth of things,</l>
+               <l>See here the man, who drawne by lawleſſe luſt:</l>
+               <l>Did ſeeke ſiniſterly in time of night,</l>
+               <l>In company of that lewd letcher there,</l>
+               <pb facs="tcp:8534:24"/>
+               <l>To rauiſh Lucida Lord Lelios daughter,</l>
+               <l>And force the mother, in whoſe iuſt defence,</l>
+               <l>Orphinio and Zepherius drew their ſwordes.</l>
+               <l>Then were theſe young men Iuſtifiers of right:</l>
+               <l>And this lewd man, was he deſerued death.</l>
+               <l>Looke on this priſoners face, you know him well,</l>
+               <l>The world eſteemes him next a kin to you.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Fortunio what my ſonne, what meanes theſe bands?</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>What elſe but bandes belong to guilty men,</l>
+               <l>Why ſhould my greatnes couer my miſſe deeds?</l>
+               <l>Or poore men ſuffer for a great mans ſinne?</l>
+               <l>O Father roote from forth your royall Court,</l>
+               <l>This curſed flatterer, that ſeduced me:</l>
+               <l>We two deſerue to die.</l>
+               <stage>Releaſing Zepherionio and Orphinio.</stage>
+               <l>Theſe priſoners haue done thee honor, for by wounding me</l>
+               <l>They haue preſerud their ſiſter from a rape,</l>
+               <l>Me from perpetual ſhame, thee from much griefe:</l>
+               <l>Therefore if Iuſtice puniſh any one, begin with vs:</l>
+               <l>Elſe wil the prouerb hold, ſmaleſt flies are tangled in thy twiſt</l>
+               <l>When greater far breakes through and force the web.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Seruio and Phillida, your iudgement is,</l>
+               <l>To looſe Fortunios bandes:</l>
+               <l>Fortunios paines is to embrace old Corodinos necke:</l>
+               <l>I thanke my God that hath reclaymed thee,</l>
+               <l>And made thee flye the vanities of youth,</l>
+               <l>Now without feare ſhall I incounter death,</l>
+               <l>When <hi>I</hi> am ſure thy wanton daies are paſt.</l>
+               <l>But thou vngratious man, paſſe from my Court,</l>
+               <l>And exild to the world:</l>
+               <l>Come my Fortunio let vs enter in</l>
+               <pb facs="tcp:8534:25"/>
+               <l>And eſtabliſh this perpetual law hence forth,</l>
+               <l>That but in cauſes meerely capitall,</l>
+               <l>A noble man ſubmitting of him ſelfe,</l>
+               <l>And after being reconciled to God,</l>
+               <l>Shall haue his pardon without preiudice.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>This likes me well, now growes the world to frame,</l>
+               <l>Fortunio now hath learnd to know a knaue:</l>
+               <l>And is expert to prooue an honeſt man.
+<stage>Exit omnis.</stage>
+               </l>
+            </sp>
+            <stage>Enter Lelio like a Colliar.</stage>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>VVill you buy any Coles, fine ſmall Coles.</l>
+               <l>Thus haue I entred Venice in diſguiſe,</l>
+               <l>And through the ſtreets haue gotten vneſpied,</l>
+               <l>Silence Lelio, my thinkes my doore doth ope,</l>
+               <l>Ah yonder comes my wife and daughter forth,</l>
+               <l>How fares Annetta, how doth Lucida.</l>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <l>VVhat Lelio, my Lord in this diſguiſe?</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>A happie ſight to, ſee my fathers face.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>O comfort of my erſt eſtemed life:</l>
+               <l>How do your ſighes reuiue my drouping minde?</l>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <l>But wherefore doth my Lord thus venture life?</l>
+               <l>And come to Venice for to fetch his death?</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>
+                  <hi>I</hi> come to rid thy father from his baniſhment,</l>
+               <l>And to endow my daughter Lucida.</l>
+               <l>come reſelud to Venice here to die:</l>
+               <l>Come hether daughter, thou knowſt it is proclaym'd,</l>
+               <l>That who ſo brings me to the Senate houſe,</l>
+               <l>Shall haue a thouſand Crownes for recompence.</l>
+               <l>Now therefore Lucida I yeeld to thee:</l>
+               <l>Take thou the gold, and yeeld me to them ſtraight,</l>
+               <l>And let my death, end all your myſeries.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>Curſed be that gold that's bought with blood.</l>
+               <pb facs="tcp:8534:25"/>
+               <l>Happie be that death that doth ſo many good.</l>
+            </sp>
+            <stage>Enter Seruio and the Garde.</stage>
+            <sp>
+               <speaker>An.</speaker>
+               <l>Ah Lelio, we are betrayd, heere commeth the Garde.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Buy anie Coles, ſmall Cooles, fine Cooles.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>How now, who walkes heere in this diſguiſe?</l>
+               <l>Let's ſee thy face?</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>This is our Collier.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <p>This is a Courtiers feate: what Lelio, you are welcome Sir, you come in happie time to bring me Crownes.</p>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>Sir I am Lelio, Ile not deny my name,</l>
+               <l>And <hi>I</hi> am priſoner to my Lucida,</l>
+               <l>To her belongs the ranſome of my head,</l>
+               <l>Not to thee ſonne of hate and nygardie.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Well Sir, whoſoeuer clayme you,</l>
+               <l>I ſeiſe thee for my priſoner.</l>
+               <l>Who will preſent thee to the Senators.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>Ah gentle Seruio grant me but one thing,</l>
+               <l>Then take all the profit if thou wilt for mee.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>What ſounds of profite pleaſeth Seruio:</l>
+               <l>Speake gentle maide, I like thy manners well.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>Reſerue my father in thy priſon cloſe,</l>
+               <l>But three daies ſpace, and I aske no more.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Well I grant thy ſute, it ſhalbe ſo:</l>
+               <l>Come beare him in hence.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>Father time ſhall diſcouer all, till then farewell.
+<stage>Ex. om.</stage>
+               </l>
+            </sp>
+            <stage>Enter Briſhio and his two Sonnes.</stage>
+            <sp>
+               <speaker>Br.</speaker>
+               <l>Come murderers of my ioy, goe flie my ſight:</l>
+               <l>Bring me my Lelio or you both ſhall die.</l>
+            </sp>
+            <sp>
+               <speaker>Ze.</speaker>
+               <l>Father, the Souldiers tending in his tent,</l>
+               <l>Reports that he is gone to Venice,</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:8534:26"/>
+               <speaker>Sem.</speaker>
+               <l>Ha ha, mideſt all theſe melancolly griefes.</l>
+               <l>And with reſolued minde to end his daies.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Ah traiterous boyes, tis you haue driuen him hence,</l>
+               <l>Thus villaines haue you coſſened mee of fame.</l>
+               <l>And made him conquere me in curteſie,</l>
+               <l>Runne poſt, hie with ſpeed, bring him to me:</l>
+               <l>Redeeme my Lelio though you looſe your liues,</l>
+               <l>Or I will hate the ground where on you tread,</l>
+               <l>And curſe the wombe that brought me forth ſuch ſonnes.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>If we retorne to Venice we are but dead.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Tut villanes, tell not me of death.</l>
+               <l>Ile loſe you both to haue my friend againe:</l>
+               <l>Stay but on mynute, we are mortall foes,</l>
+               <l>This ſword ſhall ſoone reuenge me on your heads.</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>Wee goe, but father.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>What wilt thou dally yet?</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>Kill vs before we periſh by your foes?</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>O myſery of man, you will not goe,</l>
+               <l>Then ſtay and ſee your father with his ſword?</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>We goe my Lord, O ſpare your reuerent age.</l>
+            </sp>
+            <sp>
+               <speaker>Bri.</speaker>
+               <l>Nay ſpare your words, and ſpend your feete with haſt.</l>
+               <stage>Exit the two ſonnnes.</stage>
+               <l>What are they gone, ah cruel and vnkinde,</l>
+               <l>In ſeeking to ſaue my friend, I looſe my ſonnes:</l>
+               <l>Stay, ſtay my ſonnes, leaue me ſome comfort in my age:</l>
+               <l>Whether wilt thou tranſport my zealous minde,</l>
+               <l>Let me ſurfeit in the ſinne of loue:</l>
+               <l>They ſhall not die, if all muſt periſh, I muſt periſh too.</l>
+               <l>I will to Venice and redeeme their liues,</l>
+               <l>Elſe father, friends, and ſonnes will die togither.
+<stage>Exit Bri.</stage>
+               </l>
+            </sp>
+            <stage>Enter the Duke, Fortunio and the Senators.</stage>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Vſher let thoſe that ſeeke for audience</l>
+               <l>Enter the Court, and moue the Senators.</l>
+            </sp>
+            <stage>
+               <pb facs="tcp:8534:26"/>
+               <hi>Enter Seruio and the Garde with Lelio bound and Sempronio.</hi>
+            </stage>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>Moſt mighty Duke, moſt worthy Senators,</l>
+               <l>Walking abroad as is my vſuall wont:</l>
+               <l>I found Lelio clothed in a baſe diſguiſe:</l>
+               <l>Him when I ſaw, <hi>I</hi> ſeazd and ſeazing brought,</l>
+               <l>To be preſented to your honors heere:</l>
+               <l>And in humble wiſe requeſt the largis which the ſtate alowes</l>
+               <l>Which is a thouſand Crowns to him that brings</l>
+               <l>The head of Lelio to the Senators.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>The Treaſorer ſhall pay thee ſtrayght:</l>
+               <l>Scribe giue him a warrant, let him be diſpatched:</l>
+               <l>Lelio ſtand forth, art thou the haples man that ſlew Sem<g ref="char:EOLhyphen"/>pronio</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <p>My Lord <hi>I</hi> confeſſe the fault, and am willing with my death to recompence the deed.</p>
+            </sp>
+            <sp>
+               <speaker>Sem.</speaker>
+               <l>I cry in all mens eares with egar words,</l>
+               <l>That many ſeeke their danger by diſpayre,</l>
+               <l>That many die for murders yet vndone,</l>
+               <l>I ſpeake to thee, alas that men were wiſe,</l>
+               <l>To know their good, as their infirmitie.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Tell me Lelio, what moueth thee free from Iuſtice hands</l>
+               <l>To ſeeke out death with deſperate intent?</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>That which would moue the beſt and wiſeſt man</l>
+               <l>Had he but ſelfe ſame cauſes as I had.</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>Diſcourſe and let theſe aged fathers know them all.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>What ſhall they know, in knowing my miſhappe,</l>
+               <l>That will not molifie their marble mindes,</l>
+               <l>Who firſt hauing ſlayne his deareſt friend?</l>
+               <l>Next cauſed his fathers baniſhment,</l>
+               <l>And laſt his wife to liue in miſery,</l>
+               <l>And would not ſeeke eaſe for their diſgrace,</l>
+               <l>Firſt pay his ſlaughtered friend with deareſt blood,</l>
+               <pb facs="tcp:8534:27"/>
+               <l>Next call his father home from baniſhment,</l>
+               <l>And ſeeing his wife and daughter once oppreſt,</l>
+               <l>To get indowment and reliefe for both:</l>
+               <l>But all my hope is loſt, I die in vaine,</l>
+               <l>VVhich yeelds a double torment to my payne.</l>
+               <l>Giue ſentence Prince, delay not by my death,</l>
+               <l>To rid me from a world of miſeries.</l>
+            </sp>
+            <sp>
+               <speaker>Du.</speaker>
+               <l>Law muſt haue courſe, though pittie plead for thee:</l>
+               <l>Scribe read the ſentence.</l>
+            </sp>
+            <sp>
+               <speaker>Cla.</speaker>
+               <l>VVhereas by ſufficient teſtimonie &amp; publicke confeſſio<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>Lord Lelio is founde guilty for the murder of Sempronio,</l>
+               <l>It is adiudged and ratified by the noble Duke of Venice,</l>
+               <l>And the moſt worthy Senators his aſſiſtantes,</l>
+               <l>That for his offence in publicke place of Iuſtice,</l>
+               <l>Lord Lelio ſhall looſe his head.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Seruio take the briefe, ſee execution doone.</l>
+            </sp>
+            <stage>Enter Annetta and Lucyda.</stage>
+            <sp>
+               <speaker>An.</speaker>
+               <l>Stay cruell man, traynd vp in cruelty,</l>
+               <l>Annetta wofull wife, with earneſt teares,</l>
+               <l>Publiſh ſome ſorrow for her zealous minde:</l>
+               <l>Great Iudges of the ſtate, heare me but ſpeake:</l>
+               <l>Pyttie for Lelio, grant my husband life.</l>
+            </sp>
+            <sp>
+               <speaker>Du.</speaker>
+               <l>It may not be, Iuſtice will haue no pauſe.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>Yet mercy Prince, ſhould moderate the Lawes.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>VVho ſpares the guyltie, anymates the bad.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>VVho ſpareth none, doth hate to Iuſtice adde.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Pittie with Iuſtice neuer wel agrees.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>Yes when it moderates ſeuere decrees.</l>
+            </sp>
+            <sp>
+               <speaker>Du.</speaker>
+               <l>VVhat cauſe of plea hath this audacious mayde?</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>Such cauſe as vertuous men may wonder at:</l>
+               <l>I clayme the penſion of a thouſand crownes,</l>
+               <l>For <hi>I</hi> my Lords preſent my fathers head.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:8534:27"/>
+               <speaker>An.</speaker>
+               <l>
+                  <hi>I</hi> clayme a reuocation noble Lords,</l>
+               <l>For Briſhio, for he doth merit it,</l>
+               <l>By ſending Lelio home to you aliue,</l>
+               <l>And tendring him to Iuſtice by our meanes.</l>
+               <l>So then vnleſſe you ratifie your lawes,</l>
+               <l>And call my father home from baniſhment,</l>
+               <l>And pay the thouſand Crownes to Lucida.</l>
+               <l>Ad this to your Iuſtice cruell Lords:</l>
+               <l>That both the wife and daughter may be lead,</l>
+               <l>To die with him that doth vniuſtly die.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Seruio preſented Lelio vnto vs,</l>
+               <l>And hee deſerues the penſion of the ſtate.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>Lelio diſcouered vnto vs,</l>
+               <l>And we deſerue the penſion of the ſtate.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>Lelio firſt diſcouered vnto vs,</l>
+               <l>And we deſerue the penſion of the ſtate:</l>
+               <l>He to indow me, ſought his danger forth.</l>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <l>Hee to redeeme his father did returne.</l>
+            </sp>
+            <sp>
+               <speaker>Lu.</speaker>
+               <l>The iſſue of his forwardnes was zeale:</l>
+               <l>And Seruioes ſeruice was but treachery:</l>
+               <l>Your lawes command, that on the firſt ſurpryſe,</l>
+               <l>VVho met with Lelio ſhould diſcloſe him ſtrayght,</l>
+               <l>But Seruio three daies ſpace did keepe him cloſe.</l>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <l>And therefore Seruio merits not the gold.</l>
+            </sp>
+            <sp>
+               <speaker>Du.</speaker>
+               <l>This was the certayne hope of my deſire:</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>And didſt thou Seruio keepe him three daies cloſe.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>I did my lord vpon Annettas humble ſute.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>I, ſo the Foxe was taken in the net,</l>
+               <l>And nygardnes was caught by ſutteltie.</l>
+            </sp>
+            <sp>
+               <speaker>Du,</speaker>
+               <l>Then do the Senate preſently decree,</l>
+               <l>That Lucida ſhall haue the promiſt coine,</l>
+               <l>And Seruio for breaking of the law,</l>
+               <l>Shall be impriſoned for a twelue-month ſpace.</l>
+               <pb facs="tcp:8534:28"/>
+               <l>This pretty accident doth make me laugh.</l>
+               <l>Now Seruio you haue good time to caſt account,</l>
+               <l>What intereſt and profit you haue rayſd,</l>
+               <l>By yong Sempronios plate and coine.</l>
+            </sp>
+            <sp>
+               <speaker>Ser.</speaker>
+               <l>I hope your grace will pardon this miſdeed.</l>
+            </sp>
+            <sp>
+               <speaker>Duke</speaker>
+               <l>A way with him, I will not heare him ſpeak.
+<stage>Ex. Ser.</stage>
+               </l>
+            </sp>
+            <stage>Enter Orphinio and Zepherius.</stage>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>Shall innocenth great Lords kill guilty men?</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>Lead me to death, and if my brother dye.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>No man ſhall lead my Lelio to his death,</l>
+               <l>Except by ſelfe ſame ſword we periſh too.</l>
+            </sp>
+            <sp>
+               <speaker>Le.</speaker>
+               <l>O life thou feedſt me with continuall death,</l>
+               <l>When wilt thou end and eaſe my heinous harmes?</l>
+            </sp>
+            <sp>
+               <speaker>For.</speaker>
+               <l>What men are theſe that hinder Iuſtice ſo?</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>The men that had thy life and ſought thy death.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>Theſe are old Briſhios ſonnes I know them well.</l>
+            </sp>
+            <sp>
+               <speaker>Duke</speaker>
+               <l>Lay hands on them and bynd the fugitiues.</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>Bynd, breake our bones, ſpare neither life nor lims,</l>
+               <l>We come to die, and merit not to liue,</l>
+               <l>We bend no knees, for mercy mighty Duke,</l>
+               <l>Only our ſute is for our brothers life,</l>
+               <l>Whoſe danger we vnhappie men haue wrought.</l>
+            </sp>
+            <sp>
+               <speaker>Se.</speaker>
+               <l>How wrought you Lelios danger, tell vs true?</l>
+            </sp>
+            <sp>
+               <speaker>Or.</speaker>
+               <l>When from the Citie ſpeedily we fled,</l>
+               <l>Werey to ſee our fathers hard diſtreſſe,</l>
+               <l>We hied vs to the Duke of Florentines campe,</l>
+               <l>And ſought out Lelio, and with naked ſwords,</l>
+               <l>Forſt him to hie to Venice and redeeme our ſier.</l>
+               <l>Hereon through feare of vs he came,</l>
+               <l>And in his reſcue both of vs wil die.</l>
+            </sp>
+            <sp>
+               <speaker>Zep.</speaker>
+               <l>Take two for one great Duke it is enough,</l>
+               <pb facs="tcp:8534:28"/>
+               <l>Bloud ſhall haue bloud, then be thou ſatisfied.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>You wrong me brothers. Voluntarie intent</l>
+               <l>Brought me to Venice, not your wordes.</l>
+            </sp>
+            <sp>
+               <speaker>Orp:</speaker>
+               <l>Thou art too pitious to ingratefull men,</l>
+               <l>We forſt thee hether, we muſt ranſome thee,</l>
+               <l>If Lelio die, our father will not liue,</l>
+               <l>He priſeth Lelio more than both his ſonnes.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Go, ſince you long to die, diſpach them two,</l>
+               <l>Lelio for murther cenſurd by himſelfe,</l>
+               <l>Theſe for aſſalting my Fortunio.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Fit we to cenſure wrongs done to our ſelues,</l>
+               <l>Ile be their aduocate, they muſt not die,</l>
+               <l>Whom hath they wrongd? not law, for none is ſlayne.</l>
+               <l>They did but puniſh me,</l>
+               <l>If anie wrong were done, twas done to theſe,</l>
+               <l>If anie death be due, tis due to me.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>By breach of priſon they haue forfeted.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>No my Lord, for they were vniuſtly puniſhed.</l>
+            </sp>
+            <sp>
+               <speaker>An:</speaker>
+               <l>I pardon thee Fortunio for all thy wrongs,</l>
+               <l>For pleading zealouſly for innocents.</l>
+            </sp>
+            <sp>
+               <speaker>Lu:</speaker>
+               <l>But if thou keepe my father from the ſword,</l>
+               <l>Ile paie thee further kindnes than I owe.</l>
+            </sp>
+            <stage>Enter Briſhio.</stage>
+            <sp>
+               <speaker>Bri:</speaker>
+               <l>Preuent not zealous faith you angrie heauens,</l>
+               <l>Let raging rigor ſtay till Briſhio come,</l>
+               <l>What liue they yet, liues Lelio, liue my ſonnes,</l>
+               <l>Bound, cenſured, preſt to die, the heads-man heere,</l>
+               <l>Come let me make the fourth, thou miniſter,</l>
+               <l>Leade me to death with theſe, if theſe muſt die.</l>
+            </sp>
+            <sp>
+               <speaker>Duke:</speaker>
+               <l>How dares thy child Briſhio viſit vs?</l>
+               <l>Feareſt thou not law?</l>
+            </sp>
+            <sp>
+               <speaker>Briſh:</speaker>
+               <l>Yes prince I honor law,</l>
+               <pb facs="tcp:8534:29"/>
+               <l>And for the loue <hi>I</hi> beare to iuſtice now,</l>
+               <l>I come to paie my ranſome of contempt,</l>
+               <l>And leaue my life in Venice for my crime.</l>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Sen:</hi>
+               </speaker>
+               <l>Thy fault deſerues not death,</l>
+               <l>The law requires a hundred crowns for penalty fro<g ref="char:cmbAbbrStroke">̄</g> thee</l>
+            </sp>
+            <sp>
+               <speaker>Bri:</speaker>
+               <l>
+                  <hi>I</hi> haue no crownes, my head muſt be my coine,</l>
+               <l>
+                  <hi>I</hi> had one friend, and you will rob me of him,</l>
+               <l>I haue two ſonnes, and they are bound to die,</l>
+               <l>Thus all my wealth is in your hands my Lords</l>
+               <l>Giue theſe to me, giue me theſe liuing ioyes,</l>
+               <l>For whom <hi>I</hi> haue aduentured breach of law,</l>
+               <l>Then take this hand, cut it off for one,</l>
+               <l>And take this other, cut it off for him,</l>
+               <l>But take for this my bodie, hart, and all,</l>
+               <l>Ah Lelio, Lelio, couldſt thou ſerue me ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Sen:</speaker>
+               <l>We looke for monie Briſhio, not for plaints.</l>
+            </sp>
+            <sp>
+               <speaker>Lu:</speaker>
+               <l>You ſhall haue monie, heere receiue my dowrie,</l>
+               <l>Ile paie my grandſires penaltie my ſelfe.</l>
+            </sp>
+            <sp>
+               <speaker>Bri:</speaker>
+               <l>No, no, redeeme the yonger ſort, let me die.</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Mightie, magnificent, and gracious lord,</l>
+               <l>Why ſtaie you ſilly ſoules with dalliance,</l>
+               <l>Command theſe murdering hands to cut my throate,</l>
+               <l>And if that iuſtice floriſh in this ſtate,</l>
+               <l>Pittie my father, friend, my ioy and weale.</l>
+            </sp>
+            <sp>
+               <speaker>Bri:</speaker>
+               <l>Call not for death my ſonne, he cals not thee,</l>
+               <l>For pittie Corrodino cenſure me,</l>
+               <l>For if I looſe theſe, I muſt looſe my lyfe,</l>
+               <l>And if I looſe him, <hi>I</hi> looſe my ſoule,</l>
+               <l>Then let vs all haue lyfe, or lets all die,</l>
+               <l>Taxing this ſtate with inhumanitie.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Drawe all theſe ſouldiers preſently apart,</l>
+               <l>The Senators will counſell of theſe euents.</l>
+            </sp>
+            <stage>
+               <pb facs="tcp:8534:29"/>
+               <hi>Enter Sempronio.</hi>
+            </stage>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Let vertue liue, let villanie be ſlaine,</l>
+               <l>let Lelio liue, for vertue liues in him,</l>
+               <l>O pittie thy campe is pitched heere,</l>
+               <l>But griefe and ſorrow that remaineth here,</l>
+               <l>But faith and honeſtie that remaineth here,</l>
+               <l>Come Charitie and lend to me a tong,</l>
+               <l>Elſe Penitent Experience is quite vndone.</l>
+            </sp>
+            <sp>
+               <speaker>Bri:</speaker>
+               <l>Thou haſt a tongue, then raue not ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>
+                  <hi>I</hi> haue no tongue becauſe <hi>I</hi> cannot ſhew,</l>
+               <l>Nor tell to thee the ſecrets of my thoughts,</l>
+               <l>I haue no ſpeech but ſuch as helpe me not,</l>
+               <l>But ſuch as ſings thy vertue, thy deſerts,</l>
+               <l>Thy bountie, thy true heart, thy honeſtie,</l>
+               <l>O were there one could find Sempronio out,</l>
+               <l>How might we make a famous comedie.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Shall this concluſion ſtand, you noble peeres?</l>
+            </sp>
+            <sp>
+               <speaker>Sen:</speaker>
+               <l>Wee ratifie the ſame by our conſent.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Bring forth the priſoners, Briſhio march thou forth,</l>
+               <l>Waying the wondrous working of the heauens,</l>
+               <l>We thus conclude,</l>
+               <l>That Briſhio ſhall be free from his ſuppoſd exile:</l>
+               <l>and inioy the goods and fortune he inioyd before,</l>
+               <l>We likewiſe doo releaſe his forward ſonnes,</l>
+               <l>and pardon their defaults what ere they be,</l>
+               <l>We grant the penſion of a thouſand crownes</l>
+               <l>To Lucida, as we haue promiſed,</l>
+               <l>Onely in this our iuſtice ſtands in force,</l>
+               <l>That Lelio muſt for murther ſuffer death.</l>
+            </sp>
+            <sp>
+               <speaker>Bri:</speaker>
+               <l>Nay my lorde, ſpare all or none, wee craue no fur<g ref="char:EOLhyphen"/>ther grace.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Let Fortune ſpite, or hate do what ſhe can,</l>
+               <pb facs="tcp:8534:30"/>
+               <l>Here is a knacke to know an honeſt man,</l>
+               <l>Not age, not life, not ſonnes, not wealth, nor friend,</l>
+               <l>Can drawe thee from affecting thy deare friend,</l>
+               <l>O let me make the third, if Lelio die,</l>
+               <l>Hie thee kind charitie, lend me a tongue.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Beare hence the priſoner, we diſſolue the court.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Stay &amp; ſuffer Penitent Experience inioy one boone</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Diſpatch then and tell vs what it is.</l>
+            </sp>
+            <sp>
+               <speaker>Se:</speaker>
+               <l>Let none but I be executioner to cut off Lelios head.</l>
+            </sp>
+            <sp>
+               <speaker>Duke:</speaker>
+               <l>We grant thy ſute.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Then giue me this keene ſword</l>
+               <l>Since none but Experience</l>
+               <l>Hath power to cut off vertues noble head,</l>
+               <l>Thou ſhalt not die.</l>
+            </sp>
+            <sp>
+               <speaker>For:</speaker>
+               <l>Do not delude our truſt.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Nor do you condemne a guiltles man.</l>
+               <l>O Charitie is come, I ſee him now.</l>
+            </sp>
+            <stage>Enter olde Phillip.</stage>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Heads-man diſpatch, except Sempronio liue, Lelio muſt die.</l>
+            </sp>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>Sempronio liues, my Lord, ſee where he ſtands.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Hermit why dallieſt thou?</l>
+               <l>Sempronio was yong, but this is olde,</l>
+               <l>Sempronio was dead, but he doth liue:</l>
+            </sp>
+            <sp>
+               <speaker>Her:</speaker>
+               <l>Old Sempronio now is young againe,</l>
+               <l>And dead Sempronio now doth liue,</l>
+               <l>Beholde him Lelio, doſt thou know him now?</l>
+            </sp>
+            <sp>
+               <speaker>Lel:</speaker>
+               <l>Sempronio.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Ah deare Lelio.</l>
+            </sp>
+            <sp>
+               <speaker>Her:</speaker>
+               <l>This Lord left dead by ſhepheards in the field,</l>
+               <l>Was found againe, and healed thus by me,</l>
+               <l>And by my art hauing his haire diſguiſde,</l>
+               <pb facs="tcp:8534:30"/>
+               <l>He paſt a ſolemne oath to hide his name,</l>
+               <l>And doo good deeds where he had liued looſe,</l>
+               <l>Since when, cald Penitent Experience,</l>
+               <l>He hath remaind, and liu'd a penſiue life.</l>
+               <l>Speake my Sempronio, for I diſcharge thy vow,</l>
+               <l>Tell thou the reſt, for why my viſion</l>
+               <l>Foretolde and promiſt ſuch an accident,</l>
+               <l>As neuer Venice had, or ſawe the like.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Sempronio liues, and Lelio now muſt liue,</l>
+               <l>Greeu'd for my breach of faith, greeu'd for my crime,</l>
+               <l>Heere are the tokens of my fatall wounds,</l>
+               <l>Which when <hi>I</hi> eyed Annetta, <hi>I</hi> haue wept,</l>
+               <l>To thinke vpon my looſe vnbrideled loue.</l>
+               <l>Let vs not ioy in words, but ioy in hearts,</l>
+               <l>And let our armes our tongues diſcourſe imbrace,</l>
+               <l>Where our three liues are heard of agen,</l>
+               <l>Call them three knackes to finde out honeſt men.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>God wrought theſe things, we do applaud his works</l>
+               <l>See how by mute imbrace theſe friends imbrace,</l>
+               <l>Marke how they whiſper in each others eares,</l>
+               <l>Their troublous fortunes, cares, &amp; diſcontents,</l>
+               <l>And now loue workes, ſee how Lelio hand in hand</l>
+               <l>Ioynes Sempronio with his Lucida,</l>
+               <l>The holy hermit knitteth vp the knot,</l>
+               <l>And all applaud this vnitie of peace.</l>
+               <l>How now? what ſeekes this maide?</l>
+            </sp>
+            <stage>Enter Phillidae.</stage>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Pardon for my father.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Comſt thou to plead for Seruio Phillida?</l>
+               <l>Go fetch him forth, ioy ſhall haue fulnes now:</l>
+               <l>Sempronio ſtand aſide, wele make ſome ſport.</l>
+            </sp>
+            <stage>Exit Phillida.</stage>
+            <stage>
+               <pb facs="tcp:8534:31"/>
+               <hi>Enter Phillida with her father Seruio.</hi>
+            </stage>
+            <sp>
+               <speaker>Duke</speaker>
+               <l>Now Seruio, for thy forfeit to the ſtate,</l>
+               <l>What fine wilt thou affoord for libertie.</l>
+            </sp>
+            <sp>
+               <speaker>Ser:</speaker>
+               <l>Dread Lord, thoſe lands and profits fell to me,</l>
+               <l>By deare Sempronios death, my neere a kin,</l>
+               <l>
+                  <hi>I</hi> frankly giue in lieu of my contempt.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>What wilt thou make bequeath of others lands:</l>
+               <l>Why man he liues againe.</l>
+            </sp>
+            <sp>
+               <speaker>Ser:</speaker>
+               <l>Firſt tell me <hi>I</hi> am dead my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Thou muſt reſtore to him his goods againe.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r:</hi>
+               </speaker>
+               <l>O miſery, Is he reſtord to life, to take away my goods</l>
+               <l>Command me death, nay priſonment, and what ye wil,</l>
+               <l>So he reuiue not, ſo I meet him not.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>See here the picture of true auarice,</l>
+               <l>Where men preferre their goods before their friends,</l>
+               <l>How fare you vnkle?</l>
+            </sp>
+            <sp>
+               <speaker>Ser:</speaker>
+               <l>Ieſus bleſſe me, a ſpirit. What coſin?</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>
+                  <hi>I</hi> vnkle, the ſame, and grieue not to yeeld your kinſ<g ref="char:EOLhyphen"/>man his right.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Nay force perforce he ſhall reſtore thy owne.</l>
+               <l>Phillida behold, thy vnkle liues:</l>
+               <l>See my Lords, no care of kindred holdeth her,</l>
+               <l>She runs to meet Orphinio, loue conducteth her.</l>
+            </sp>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>Are you returnd my Lord, what ſafe returnd?</l>
+            </sp>
+            <sp>
+               <speaker>Orp:</speaker>
+               <l>Returnd to keepe my faith with Phillida.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Knit vp that knot within with iollitie,</l>
+               <l>And Regiſter record this commoditie.</l>
+            </sp>
+            <sp>
+               <speaker>Sem:</speaker>
+               <l>Nay ſtay my Lord, before this comicke end,</l>
+               <l>Let, meaſure knackes to finde out honeſt men,</l>
+               <l>For all theſe liſtning eares would finde them out.</l>
+               <l>Who liſt to know a perfect honeſt man,</l>
+               <l>Shall ſee his purſe ſtill open to the poore,</l>
+               <pb facs="tcp:8534:31"/>
+               <l>His tongue deteſting lewd detractions,</l>
+               <l>He ſcornes to grieue the needfull heart with griefe,</l>
+               <l>But liues as borne to euerie mans releefe:</l>
+               <l>A knaue will gaine by all vnlawfull meanes,</l>
+               <l>But good men ſtill their goods by vertue gleanes.</l>
+               <l>A knaue makes ſhift his thrift, forſweares and lies,</l>
+               <l>An honeſt man on loue and faith relyes:</l>
+               <l>A knaue makes luſt his loue, reſpects no friend,</l>
+               <l>An honeſt man for friendſhip life will ſpend.</l>
+               <l>Oh how <hi>I</hi> ſhould tire both tong, thought, and pen,</l>
+               <l>To ſcan out knaues from perfect honeſt men:</l>
+               <l>Point where <hi>I</hi> liſt, if ſo my finger light</l>
+               <l>On honeſtie, I ſweare I point aright.</l>
+            </sp>
+            <sp>
+               <speaker>Du:</speaker>
+               <l>Thankes good Sempronio for this worthie skill,</l>
+               <l>To regiſter the memorie of this,</l>
+               <l>Henceforth where ere this hiſtorie is heard,</l>
+               <l>The worlde ſhall praiſe thee, in whoſe life began,</l>
+               <l>The perfect knacke to knowe an honeſt man.</l>
+            </sp>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

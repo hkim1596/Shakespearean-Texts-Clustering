@@ -1,0 +1,3496 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasaunt conceited historie, called The taming of a shrew As it hath beene sundry times acted by the right Honourable the Earle of Pembrooke his Seruants.</title>
+            <title>Taming of a shrew.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A13360</idno>
+            <idno type="STC">STC 23669</idno>
+            <idno type="STC">ESTC S111131</idno>
+            <idno type="EEBO-CITATION">99846545</idno>
+            <idno type="PROQUEST">99846545</idno>
+            <idno type="VID">11521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A13360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11521)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1118:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasaunt conceited historie, called The taming of a shrew As it hath beene sundry times acted by the right Honourable the Earle of Pembrooke his Seruants.</title>
+                  <title>Taming of a shrew.</title>
+               </titleStmt>
+               <extent>[52] p.   </extent>
+               <publicationStmt>
+                  <publisher>By V[alentine] S[immes] for Nicholas Ling, and are to be sold at his shop in Saint Dunstons Church-yard in Fleetstreet,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-F⁴ G² .</note>
+                  <note>The connection with Shakespeare's play is obscure.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.  the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11521:1"/>
+            <pb facs="tcp:11521:1" rendition="simple:additions"/>
+            <p>A
+Pleaſaunt Conceited
+Hiſtorie, called
+<hi>The Taming of a Shrew.</hi> As it hath beene ſundry times acted by the right
+Honourable the Earle of <hi>Pembrooke</hi>
+his Seruants.</p>
+            <figure>
+               <p>G. STEEVENS.</p>
+            </figure>
+            <p>Printed at London by <hi>V. S.</hi> for <hi>Nicholas Ling,</hi>
+and are to be ſold at his ſhop in Saint
+Dunſtons Church yard in
+Fleetſtreet. 1607.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:11521:2"/>
+            <pb facs="tcp:11521:2"/>
+            <head>G. STEEVENS
+<g ref="char:leaf">❧</g> A pleaſant conceited Hiſtorie,
+called,
+The Taming of a Shrew.</head>
+            <stage>Enter a Tapſter, beating out of his doores
+<hi>Slie</hi> drunken.</stage>
+            <sp>
+               <speaker>Tapſter.</speaker>
+               <l>YOu whoreſon drunken ſlaue you had beſt be gone,</l>
+               <l>And empty your drunken panch ſomewhere elſe,</l>
+               <l>For in this houſe thou ſhalt not reſt to night.</l>
+            </sp>
+            <stage>Exit Tapſter.</stage>
+            <sp>
+               <speaker>Slie</speaker>
+               <l>Tilly vally, by criſee Tapſter Ile feſe you anone,</l>
+               <l>Fills the tother pot, and all's paid for: looke you,</l>
+               <l>I doe drinke it of mine owne inſtigation,</l>
+               <stage>Omne bene.</stage>
+               <l>Heere Ile lie awhile: why Tapſter I ſay,</l>
+               <l>Fills a freſh cuſhen heere,</l>
+               <l>Heigh ho, heere's good warme lying.</l>
+            </sp>
+            <stage>He falles aſleepe.</stage>
+            <stage>Enter a noble man and his men from hunting.</stage>
+            <sp>
+               <speaker>Lord</speaker>
+               <l>Now that the gloomy ſhadow of the night,</l>
+               <l>Longing to view <hi>Orions</hi> driſling lookes,</l>
+               <l>Leapes from th'antarticke world vnto the skie,</l>
+               <l>And dims the welkin with her pitchie breath,</l>
+               <l>And darkeſome night oreſhades the criſtall heauens,</l>
+               <l>Heere breake we off our hunting for to night.</l>
+               <l>
+                  <pb facs="tcp:11521:3"/>
+Couple vppe the hounds and let vs <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And bid the huntſman lee them <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>For they haue all deſeru'd it well to daie.</l>
+               <l>But ſoft, what ſleepie fellow is this <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res heere?</l>
+               <l>Or is he dead, ſee one what he <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Seruing man.</speaker>
+               <l>My Lord, tis nothing but a drunken ſleepe</l>
+               <l>His head is too heauie for his bodie,</l>
+               <l>And he hath drunke ſo much that he can go no furder.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Fie, how the ſlauiſh villaine ſtinkes of drinke.</l>
+               <l>Ho, ſirha ariſe. What ſo found aſleepe?</l>
+               <l>Goe take him vp, and beare him to my houſe,</l>
+               <l>And beare him eaſily for feare he wake,</l>
+               <l>And in my faireſt chamber make a fire,</l>
+               <l>And ſet a ſumptuous banquet on the boord,</l>
+               <l>And put my richeſt garments on his backe,</l>
+               <l>Then ſet him at the Table in a chaire:</l>
+               <l>When tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> done, againſt he ſhall awake,</l>
+               <l>Let heaue<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y muſicke play about him ſtill,</l>
+               <l>Go two of you away, and beare him hence,</l>
+               <l>And then Ile tell you what I haue deuiſde,</l>
+               <l>But ſee in any caſe you wake him not.</l>
+               <stage>Exeunt two with <hi>Slie.</hi>
+               </stage>
+               <l>Now take my cloke, and giue me one of yours,</l>
+               <l>All fellowes now, and ſee you take me ſo:</l>
+               <l>For we will waite vpon this drunken man,</l>
+               <l>To ſee his countenance when he doth awake,</l>
+               <l>And find himſelfe clothed in ſuch attire,</l>
+               <l>With heauenly muſicke ſounding in his eares,</l>
+               <l>And ſuch a banquet ſet before his eyes,</l>
+               <l>The fellow ſure will thinke he is in heauen,</l>
+               <l>But we will about him when he wakes,</l>
+               <l>And ſee you call him Lord at euery word,</l>
+               <l>And offer thou him his horſe to ride abroad,</l>
+               <l>
+                  <pb facs="tcp:11521:3"/>
+And thou his hawkes and houndes to hunt the deere<g ref="char:punc">▪</g>
+               </l>
+               <l>And I will aske what ſutes he meanes to weare,</l>
+               <l>And what ſo ere he ſaith ſee you doo not laugh,</l>
+               <l>But ſtill perſwade him that he is a Lord.</l>
+            </sp>
+            <stage>Enter one.</stage>
+            <sp>
+               <speaker>Meſ.</speaker>
+               <l>And it pleaſe your honour your plaiers be come</l>
+               <l>And doo attend your honours pleaſure here.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>The fitteſt time they could haue choſen out,</l>
+               <l>Bid one or two of them come hither ſtraight,</l>
+               <l>Now will I fit my ſelfe accordinglie,</l>
+               <l>For they ſhall play to him when he awakes.</l>
+               <stage>Enter two of the plaiers with packs at their
+backs, and a boy.</stage>
+               <l>Now ſirs, what ſtore of plaies haue you?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Mary my lord you may haue a Tragicall,</l>
+               <l>Or acommoditie, or what you will.</l>
+            </sp>
+            <stage>
+               <hi>The others</hi> A Comedie thou ſhouldſt ſay, ſouns
+thou'lt ſhame vs all.</stage>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>And whats the name of your Comedie?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Marrie my lord tis calde The taming of a Shrew.</l>
+               <l>Tis a good leſſon for vs my L. for vs that are maried men</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>The taming of a ſhrew, thats excellent ſure,</l>
+               <l>Go ſee that you make you readie ſtraight,</l>
+               <l>For you muſt plaie before a lord to night,</l>
+               <l>Say you are his men and I your fellow,</l>
+               <l>Hee's ſomething fooliſh, but what ſo ere he ſaies,</l>
+               <l>See that you be not daſht out of countenance.</l>
+               <l>And ſirha, go you make you readie ſtraight,</l>
+               <l>And dreſſe your ſelfe like ſome louelie ladie,</l>
+               <l>And when I cal, ſee that you come to me,</l>
+               <l>For I will ſay to him thou art his wife,</l>
+               <l>Dally with him and hug him in thine armes,</l>
+               <l>And if he deſire to got to bed with thee,</l>
+               <l>
+                  <pb facs="tcp:11521:4"/>
+Then faine ſome ſcuſe and ſay thou wilt anon.</l>
+               <l>Be gone I ſay, and ſee thou dooſt it well.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Feare not my Lord, Ile handle him well enough</l>
+               <l>And make him thinke I loue him mightilie.</l>
+            </sp>
+            <stage>
+               <hi>Ex.</hi> boy</stage>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Now ſirs, go you and make you ready too,</l>
+               <l>For you muſt play aſſoone as he doth wake.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>O braue, ſirha Tom, we muſt play before</l>
+               <l>A fooliſh Lord, come lets go make vs ready<g ref="char:punc">▪</g>
+               </l>
+               <l>Go get a diſhclout to make cleane your ſhooes,</l>
+               <l>And Ile ſpeake for the properties, My Lord, we muſt</l>
+               <l>Haue a ſhoulder of mutton for a propertie,</l>
+               <l>And a little vinegre to make our Diuell rore.</l>
+            </sp>
+            <sp>
+               <speaker>Lord</speaker>
+               <l>Very well ſirha, ſee that they want nothing.</l>
+            </sp>
+            <stage>Exeunt Omnes.</stage>
+            <stage>Enter two with a table and a banquet on it, and two
+other, with <hi>Slie,</hi> aſleepe in a chaire, richlie
+apparelled &amp; the muſick plaieng.</stage>
+            <sp>
+               <speaker>One.</speaker>
+               <l>So ſirha, now go call my Lord,</l>
+               <l>And tell him that all things are ready as he willd it.</l>
+            </sp>
+            <sp>
+               <speaker>Another</speaker>
+               <l>Set thou ſome wine vpon the boord,</l>
+               <l>And then Ile go fetch my Lord preſently.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>Enter the Lord, and his men.</stage>
+            <sp>
+               <speaker>Lord</speaker>
+               <l>How now, what is all things readie?</l>
+            </sp>
+            <sp>
+               <speaker>One</speaker>
+               <l>Yea my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Lord</speaker>
+               <l>Then ſound the muſicke and Ile wake him ſtrait,</l>
+               <l>And ſee you doe as earſt I gaue in charge.</l>
+               <l>My Lord, my Lord, he ſleepes ſoundly, my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Slie</speaker>
+               <l>Tapſter, giues alittle ſmal ale: Heigh ho.</l>
+            </sp>
+            <sp>
+               <speaker>Lord</speaker>
+               <l>Heere's wine, my Lord, the pureſt of the grape.</l>
+            </sp>
+            <sp>
+               <speaker>Slie</speaker>
+               <l>For which Lord?</l>
+            </sp>
+            <sp>
+               <speaker>Lord</speaker>
+               <l>For your honor, my Lord.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:4"/>
+               <speaker>Slie.</speaker>
+               <l>Who I, am I a Lord? Ieſus what fine apparell
+haue I got.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>More richer far your honour hath to weare,</l>
+               <l>And if it pleaſe you I will fetch them ſtraight.</l>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <l>And if your honour pleaſe to ride abroad,</l>
+               <l>Ile fetch your luſtie ſteedes more ſwift of pace</l>
+               <l>Then winged <hi>Pegaſus</hi> in all his pride,</l>
+               <l>That ran ſo ſwiftlie ouer <hi>Perſian</hi> plaines.</l>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <l>And if your honour pleaſe to hunt the deere,</l>
+               <l>Your hounds ſtands readie cuppled at the doore,</l>
+               <l>Who in running will oretake the Row,</l>
+               <l>And make the long breathde Tygre broken winded.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>By the maſſe I thinke I am a Lord indeed,</l>
+               <l>Whats thy name?</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>
+                  <hi>Simon</hi> and if it pleaſe your honour.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>
+                  <hi>Sim,</hi> thats as much to ſay <hi>Simion</hi> or <hi>Simon</hi>
+               </l>
+               <l>Put forth thy hand and fill the pot.</l>
+               <l>Giue me thy hand, <hi>Sim</hi> am I a lord indeed?</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>I my gracious Lord, and your louely ladie</l>
+               <l>Long time hath mourned for your abſence heere.</l>
+               <l>And now with ioy behold where ſhe dooth come</l>
+               <l>To gratulate your honours ſafe returne.</l>
+            </sp>
+            <stage>Enter the boy in Womans attire.</stage>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>
+                  <hi>Sim.</hi> Is this ſhe?</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>I my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>Maſſe tis a prettie wench, whats her name?</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Oh that my louelie Lord would once vouchſafe</l>
+               <l>To looke on me, and leaue theſe frantike fits,</l>
+               <l>Or were I now but halfe ſo eloquent,</l>
+               <l>To paint in words what Ile performe in deedes,</l>
+               <l>I know your honour then would pittie me.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>Harke you miſtreſſe, will you eate a peece of
+bread?</l>
+               <l>
+                  <pb facs="tcp:11521:5"/>
+Come ſit downe on my knee, <hi>Sim</hi> drinke to hir <hi>Sim,</hi>
+               </l>
+               <l>For ſhe and I will go to bed anon.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>May it pleaſe you, your honors plaiers be come</l>
+               <l>To offer your honour a plaie.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>
+                  <hi>A</hi> plaie <hi>Sim,</hi> O braue, be they my plaiers?</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>I my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>Is there not a foole in the plaie?</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Yes my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>When will they plaie <hi>Sim?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Euen when it pleaſe your honor, they be readie.</l>
+            </sp>
+            <sp>
+               <speaker>Boy</speaker>
+               <l>My Lord, Ile go bid them begin their plaie.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>Doo, but looke that you come againe.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>I warrant you my lord, I will not leaue you thus.</l>
+            </sp>
+            <stage>
+               <hi>Exit</hi> boy.</stage>
+            <sp>
+               <speaker>Slie</speaker>
+               <l>Come <hi>Sim,</hi> where be the plaiers? <hi>Sim</hi> ſtand by me,</l>
+               <l>And weele flowt the plaiers out of their coates.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Ile cal them my lord. Ho where are you there?</l>
+               <l>Sound Trumpets.</l>
+            </sp>
+            <stage>Enter two yoong Gentlemen, and a man,
+and a boy.</stage>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Welcome to <hi>Athens</hi> my beloued friend,</l>
+               <l>To <hi>Platoes</hi> ſchoole and <hi>Ariſtotles</hi> walks,</l>
+               <l>Welcome from <hi>Ceſtus</hi> famous for the loue</l>
+               <l>Of good <hi>Leander</hi> and his Tragedie,</l>
+               <l>For whome the <hi>Heleſpont</hi> weepes briniſh teares,</l>
+               <l>The greateſt griefe is I cannot as I would</l>
+               <l>Giue entertainment to my deereſt friend.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Thankes noble <hi>Polidor</hi> my ſecond ſelfe,</l>
+               <l>The faithfull loue which I haue found in thee</l>
+               <l>Hath made me leaue my fathers princelie court,</l>
+               <l>The <hi>Duke</hi> of <hi>Ceſtus</hi> thriſe renowmed ſeate,</l>
+               <l>To come to <hi>Athens</hi> thus to find thee out,</l>
+               <l>
+                  <pb facs="tcp:11521:5"/>
+Which, ſince I haue ſo happily attaind,</l>
+               <l>My fortune now I do account as great</l>
+               <l>As earſt did <hi>Caeſar</hi> when he conquered moſt,</l>
+               <l>But tel me noble friend, where ſhal we lodge,</l>
+               <l>For I am vnacquainted in this place.</l>
+            </sp>
+            <sp>
+               <speaker>Poli.</speaker>
+               <l>My Lord, if you vouchſafe of ſchollers fare,</l>
+               <l>My houſe, my ſelfe, and al is yours to vſe,</l>
+               <l>You and your men ſhall ſtaie and lodge with me.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>With all my heart, I wil requite thy loue.</l>
+               <stage>Enter <hi>Simon, Alphonſus,</hi> and his
+three daughters.</stage>
+               <l>But ſtaie; what dames are theſe ſo bright of hew</l>
+               <l>Whoſe eies are brighter than the lampes of heauen?</l>
+               <l>Fairer then rocks of pearle and pretious ſtone,</l>
+               <l>More louely far then is the morning ſunne,</l>
+               <l>When firſt ſhe opes hir oriental gates.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Daughters, be gone, and hie you to the church,</l>
+               <l>And I will hie me downe vnto the key</l>
+               <l>To ſee what marchandiſe is come aſhore.</l>
+            </sp>
+            <stage>Ex. Omn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</stage>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Why how now my Lord, what, in adumpe,</l>
+               <l>To ſee theſe damſels paſſe away ſo ſoone?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Truſt me my friend I muſt confeſſe to thee,</l>
+               <l>I tooke ſo much delight in theſe faire dames</l>
+               <l>As I do wiſh they had not gone ſo ſoone:</l>
+               <l>But if thou canſt, reſolue me what they be,</l>
+               <l>And what old man it was that went with them,</l>
+               <l>For I do long to ſee them once againe.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>I cannot blame your honor, good my Lorde,</l>
+               <l>For they are both louely, wiſe, faire, and yong,</l>
+               <l>And one of them, the yongeſt of the three</l>
+               <l>I long haue lou'd (ſweet frind) and ſhe lou'd me,</l>
+               <l>But neuer yet we could not find a meanes</l>
+               <l>How we might compaſſe our deſired ioyes.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:6"/>
+               <speaker>Aurel.</speaker>
+               <l>Why, is not her father willing to the match?</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Yes truſt me, but he hath ſolemnly ſworne,</l>
+               <l>His eldeſt daughter firſt ſhall be eſpowſde,</l>
+               <l>Before he grants his yongeſt leaue to loue:</l>
+               <l>And therefore he that meanes to get their loues<g ref="char:punc">▪</g>
+               </l>
+               <l>Muſt firſt provide for her, if he wil ſpeed,</l>
+               <l>And he that hath her ſhall be fretted ſo,</l>
+               <l>As good be wedded to the diuell himſelfe,</l>
+               <l>For ſuch a skould as ſhe did neuer liue,</l>
+               <l>And til that ſhe be ſped, none elſe can ſpeede:</l>
+               <l>Which makes me thinke, that all my labors loſt,</l>
+               <l>And who ſoere can get hir firme good will,</l>
+               <l>A large dowrie he ſhall be ſure to haue,</l>
+               <l>For hir father is a man of mightie wealth,</l>
+               <l>And an antient Citizen of the towne,</l>
+               <l>And that was he that went along with them.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>But he ſhall keepe hir ſtil by my aduiſe,</l>
+               <l>And yet I needes muſt loue his ſecond daughter</l>
+               <l>The image of honor and nobility,</l>
+               <l>In whoſe ſweet perſon is compriſde the ſumme</l>
+               <l>Of Natures skill and heauenly maieſty.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>I like your choiſe, and glad you choſe not mine,</l>
+               <l>Then if you like to follow on your loue,</l>
+               <l>We muſt deuiſe a meanes to find ſome one</l>
+               <l>That will attempt to wed this deuiliſh skould,</l>
+               <l>And I do know the man. Come hither boy,</l>
+               <l>Go your waies ſirha, to <hi>Ferandoes</hi> houſe,</l>
+               <l>Deſire him to take the paines to come to me,</l>
+               <l>For I muſt ſpeake with him immediatly.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>I will ſir, and fetch him preſently.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>A man I thinke will fit hir humour right,</l>
+               <l>As blunt in ſpeech as ſhe is ſharpe in tongue,</l>
+               <l>And he I thinke will match hir euery way,</l>
+               <l>And yet he is a man of wealth ſufficient,</l>
+               <l>
+                  <pb facs="tcp:11521:6"/>
+And for his perſon worth as good as ſhe:</l>
+               <l>And if he compaſſe hir to be his wife,</l>
+               <l>Then may we freely viſit both our loues.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>O might I ſee the cenſer of my loule</l>
+               <l>Whoſe ſacred beauty hath inchanted me,</l>
+               <l>More faire then was the Grecian <hi>Helena</hi>
+               </l>
+               <l>For whoſe ſweet ſake ſo many princes dide;</l>
+               <l>That came with thouſand ſhips to <hi>Tenedos.</hi>
+               </l>
+               <l>But when we come vnto hir fathers houſe,</l>
+               <l>Tel him I am a Merchants ſonne of <hi>Ceſtus,</hi>
+               </l>
+               <l>That comes for trafficke vnto <hi>Athens</hi> here,</l>
+               <l>And here ſirha, I wil change with you for once,</l>
+               <l>And now be thou the Duke of <hi>Ceſtus</hi> ſonne,</l>
+               <l>Reuel and ſpend as if thou wert my felfe,</l>
+               <l>For I will court thy loue in this diſguiſe.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>My Lord, how if the Duke your father ſhould</l>
+               <l>By ſome meanes come to <hi>Athens</hi> for to ſee</l>
+               <l>How you do profit in theſe publike ſchooles,</l>
+               <l>And find me clothed thus in your attire,</l>
+               <l>How would he take it then thinke you my Lord?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Tuſh feare not <hi>Valeria,</hi> let me alone,</l>
+               <l>But ſtay, here comes ſome other company.</l>
+            </sp>
+            <stage>Enter <hi>Ferando</hi> and his man <hi>Sander</hi>
+with a blew coate.</stage>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Here comes them an that I did tel you of.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Good morrow gentleman to al at once.</l>
+               <l>How now <hi>Polidor,</hi> what man ſtill in loue?</l>
+               <l>Euer wooing and canſt thou neuer ſpeed?</l>
+               <l>God ſend me better lucke when I ſhal woo.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I warrant you maſter and you take my councel.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Why ſirha, are you ſo cunning?</l>
+            </sp>
+            <sp>
+               <speaker>San</speaker>
+               <l>Who I  twere better for you by ſiue ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>And you could tel how to do it as wel os I.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:7"/>
+               <speaker>Pol.</speaker>
+               <l>I would thy <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſter once were in the vaine,</l>
+               <l>To trie himſelfe how he could woo a wench.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Faith I am euen now a going.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I faith ſir, my maſter's going to this geere now</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Whither in faith <hi>Ferando?</hi> tel me true.</l>
+            </sp>
+            <sp>
+               <speaker>Fera.</speaker>
+               <l>To bonie <hi>Kate,</hi> the patientſt wench aliue,</l>
+               <l>The Diuel himſelfe dares ſcarce venture to woo her,</l>
+               <l>Seignior <hi>Alfonſos</hi> eldeſt daughter,</l>
+               <l>And he hath promiſde me ſix thouſand crownes</l>
+               <l>If I can win her once to be my wife,</l>
+               <l>And ſhe and I muſt woo with skoulding ſure,</l>
+               <l>And I will hold hir too't til ſhe be wearie,</l>
+               <l>Or elſe ile make her yeeld to grant me loue.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>How like you this <hi>Aurelius,</hi> I thinke he knew</l>
+               <l>Our minds before we ſent to him,</l>
+               <l>But tell me, when do ye meane to ſpeake with hir?</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Faith preſently, do you but ſtand aſide,</l>
+               <l>And I will make hir father bring hir hither:</l>
+               <l>And ſhe, and I, and he, will talke alone.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>With all my heart, come <hi>Aurelius,</hi>
+               </l>
+               <l>Let vs be gone and leaue him here alone.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Ho Seignior <hi>Alfonſo,</hi> who's within there?</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Seignior <hi>Ferando</hi> y'are welcome hartily,</l>
+               <l>You are a ſtranger ſir vnto my houſe,</l>
+               <l>Harke you ſir, looke what I did promiſe you</l>
+               <l>Ile performe, if you get my daughters loue.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Then when I haue talke a word or two with hir,</l>
+               <l>Do you ſtep in and giue her hand to me,</l>
+               <l>And tell hir when the mariage day ſhall be,</l>
+               <l>For I do know ſhe would be maried faine,</l>
+               <l>And When our nuptiall rites be once performde</l>
+               <l>Let me alone to tame hir well inough,</l>
+               <l>Now <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll her forth that I may ſpeake with hir.</l>
+            </sp>
+            <stage>Enter <hi>Kate.</hi>
+            </stage>
+            <sp>
+               <pb facs="tcp:11521:7"/>
+               <speaker>Alfon.</speaker>
+               <l>Ha <hi>Kate,</hi> Come hither wench and liſt to me,</l>
+               <l>Vſe this gentleman friendly as thou canſt.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Twenty good morrows to my louely <hi>Kate.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>You jeaſt I am ſure, is ſhe yours already?</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>I tel thee <hi>Kate</hi> I know thou lou'ſt me wel.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>The Diuel you do, who told you ſo?</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>My mind ſweet <hi>Kate</hi> doth ſay I am the man,</l>
+               <l>Muſt wed, and bed, and marrie bonnie <hi>Kate.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Was euer ſeene ſo groſſe an aſſe as this.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>I, to ſtand ſo long and neuer get a kiſſe.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Hands off I ſay, and get you from this place;</l>
+               <l>Or I will ſet my ten commandements in your face.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>I prithy do <hi>Kate,</hi> they ſay thou art a ſhrew.</l>
+               <l>And I like thee the better, for I would haue thee ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Let go my hand, for feare it reach your eare.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>No <hi>Kate,</hi> this hand is mine, and I thy loue.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Y faith ſir no, the woodcoke wants his taile.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>But yet his bil will ſerue, if the other faile,</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>How now <hi>Feranda,</hi> what, my daughter?</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Shee's willing ſir, and loues me as hir life.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Tis for your skin then, but not to be your wife.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Come hither <hi>Kate,</hi> and let me giue thy hand</l>
+               <l>To him that I haue choſen for thy loue,</l>
+               <l>And thou to morrow ſhalt be wed to him.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Why father, what do you mean to do with me,</l>
+               <l>To giue me thus vnto this brainſicke man,</l>
+               <l>That in his mood cares not to murder me?</l>
+               <stage>ſhe turnes aſide and ſpeaks.</stage>
+               <l>But yet I will conſent and marry him,</l>
+               <l>(For I me thinkes haue liu'de too long a maide,)</l>
+               <l>And match him too, or elſe his manhood a good.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Giue me thy hand, <hi>Ferando</hi> loues thee well,</l>
+               <l>And will with wealth and eaſe maintaine thy ſtate.</l>
+               <l>Here <hi>Ferando,</hi> take her for thy wiſe.</l>
+               <l>
+                  <pb facs="tcp:11521:8"/>
+And ſunday next ſhall be our wedding day.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Why ſo, did I not tel thee I ſhould be the man?</l>
+               <l>Father, I leaue my louely <hi>Kate</hi> with you,</l>
+               <l>Prouide your ſelues againſt our mariage day,</l>
+               <l>For I muſt hie me to my country houſe</l>
+               <l>In haſte, to ſee prouiſion may be made,</l>
+               <l>To entertaine my <hi>Kate</hi> when ſhe doth come.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Do ſo, come <hi>Kate,</hi> why doſt thou looke</l>
+               <l>So ſad? be mery wench, thy wedding daie's at hand,</l>
+               <l>Sonne, fare you wel, and ſee you keepe your promiſe</l>
+            </sp>
+            <stage>Exit Alfonſo <hi>and</hi> Kate.</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>So, al thus far goes well. Ho <hi>Sander.</hi>
+               </l>
+            </sp>
+            <stage>Enter <hi>Sander</hi> laughing</stage>
+            <sp>
+               <speaker>San.</speaker>
+               <l>
+                  <hi>Sander,</hi> I faith you are a beaſt, I crie God hartilie</l>
+               <l>mercy, my harts ready to run out of my belly with</l>
+               <l>laughing, I ſtood behinde the doore al this while,</l>
+               <l>And heard what you ſaid to hir.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Why, dooſt thou thinke that I did not ſpeake wel to hir?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>You ſpoke like an aſſe to hir, ile tell you what,</l>
+               <l>And I had been there to haue woo'd hir, and had this</l>
+               <l>Cloke that you haue, chud haue had hir before ſhe</l>
+               <l>Had gone a foot furder, and you talke of Woodcoks for al this.</l>
+               <l>With hir, and I cannot tell you what.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Well ſirha, and yet thou ſeeſt I haue got hir</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I mary, twas more by hap then any good cunning,</l>
+               <l>I hope ſheele make you one of the head men of the
+pariſh ſhortly.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Wel ſirha, leaue your ieaſting and go to <hi>Polidors</hi> houſe,</l>
+               <l>The yong gentleman that was here with me,</l>
+               <l>And tel him the circumſtance of al thou knowſt,</l>
+               <l>Tel him on ſunday next we muſt be married,</l>
+               <l>And if he aske thee whither I am gone,</l>
+               <l>Tel him into the countrey to my houſe,</l>
+               <l>And vpon Sunday ile be here againe.</l>
+            </sp>
+            <stage>Ex. Ferando.</stage>
+            <sp>
+               <pb facs="tcp:11521:8"/>
+               <speaker>San.</speaker>
+               <l>I warrant you maiſter, feare not me<g ref="char:punc">▪</g>
+               </l>
+               <l>For doing of my buſineſſe.</l>
+               <l>Now hang him that has not a liuery cote</l>
+               <l>To ſlaſh it out and ſwaſh it out amongſt the prowdeſt</l>
+               <l>On them. Why looke you now, ile ſcarce put vp</l>
+               <l>Plaine <hi>Sander</hi> now at any of their hands, for and any</l>
+               <l>Body haue any thing to do with my maſter, ſtraight</l>
+               <l>They come crouching vpon me, I beſeech you good M.</l>
+               <l>
+                  <hi>Sander</hi> ſpeake a good word for me, and then I am ſo</l>
+               <l>Stowt and take it vpon me, and ſtand vpon my pantofles</l>
+               <l>To them out of all crie, why I haue a life like a giant</l>
+               <l>Now, but that my maſter hath ſuch a peſtilent mind</l>
+               <l>To a woman now of late, and I haue a prety wench</l>
+               <l>To my ſiſter, and I had thought to haue preferred my</l>
+               <l>Maſter to hir, and that would haue bin a good</l>
+               <l>Deale in my way, but that hees ſped already.</l>
+            </sp>
+            <stage>Enter <hi>Polidors</hi> boy.</stage>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Friend, well met.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Souns friend, well met. I hold my life he <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>not my maſters liuery coate,</l>
+               <l>Plaine friend hop of my thum, know you who we are?</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Truſt me ſir it is the vſe where I was borne,</l>
+               <l>To ſalute men after this manner, yet notwithſtanding</l>
+               <l>If you be angry with me for calling of you friend,</l>
+               <l>I am the more ſorry for it, hoping the ſtile</l>
+               <l>Of a Foole wil make you amends for all.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>The ſlaue is ſorie for his fault, now we cannot be</l>
+               <l>angry, well whats the matter that you would do with vs?</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Marry ſir, I heare you pertaine to ſeignior
+<hi>Ferando.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I and thou beeſt not blind thou maiſt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee,</l>
+               <l>Ecce ſignum, <hi>here.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Shal I intreat you to do me a meſſage to your
+Maſter?</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:9"/>
+               <speaker>San.</speaker>
+               <l>I, it may be, &amp; you tell vs from whence you come.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Marrie ſir I ſerue young <hi>Polidor</hi> your maiſters
+friend</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Do you ſerue him, and whats your name?</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>My name ſirha? I tel the ſirha is cald Catapie.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Cake and pie, O my teeth waters to haue a peece
+of thee.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Why ſlaue, wouldſt thou eate me?</l>
+               <l>
+                  <hi>San</hi> Eate thee, who would not eate Cake and pie?</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Why villaine my name is Catapie,</l>
+               <l>But wilt thou tel me where thy maiſter is.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Nay thou muſt firſt tel me where thy maiſter is.</l>
+               <l>For I haue good newes for him, I can tel thee.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Why ſee where he comes.</l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Polidor, Aurelius, <hi>and</hi> Valeria.</stage>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Come ſweet <hi>Aurelius</hi> my faithfull friend,</l>
+               <l>Now wil we go to ſee thoſe louely dames,</l>
+               <l>Richer in beauty then the orient pearle,</l>
+               <l>Whiter than is the Alpine Chriſtall mould,</l>
+               <l>And far more louely than the terrene plant,</l>
+               <l>That bluſhing in the aire turnes to a ſtone.</l>
+               <l>What <hi>Sander,</hi> what newes with you?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Marry ſir my maiſter ſends you word</l>
+               <l>That you muſt come to his wedding to morrow.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>What, ſhal he be married then?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Faith I, you thinke he ſtandes as long about it as
+you do.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Whither is thy maiſter gone now?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Marry hee's gone to our houſe in the Countrey</l>
+               <l>To make al things in a readineſſe againſt my new</l>
+               <l>Miſtriſſe comes thither, but heele come againe to
+morrow.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>This is ſuddainly diſpatcht belike:</l>
+               <l>Wel, ſirha boy, take <hi>Sander</hi> in with you,</l>
+               <l>
+                  <pb facs="tcp:11521:9"/>
+And haue him to the buttrey preſentlie.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>I will ſir: come <hi>Saunder.</hi>
+               </l>
+            </sp>
+            <stage>Exit Sander <hi>and the</hi> Boy.</stage>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>
+                  <hi>Valeria,</hi> as erſt wee did deuiſe,</l>
+               <l>Take thou thy lute and go to <hi>Alfonſos</hi> houſe,</l>
+               <l>And ſay that <hi>Polidor</hi> ſent thee thither.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>I <hi>Valeria,</hi> for he ſpoke to me,</l>
+               <l>To helpe him to ſome cunning Muſition,</l>
+               <l>To teach his eldeſt daughter on the lute,</l>
+               <l>And thou I know wilt fitte his turne ſo well,</l>
+               <l>As thou ſhalt get great fauour at his hands,</l>
+               <l>Be gone <hi>Valeria,</hi> and ſay I ſent thee to him.</l>
+            </sp>
+            <sp>
+               <speaker>Valer.</speaker>
+               <l>I will ſir, and ſtay your comming at <hi>Alfonſos</hi>
+houſe.</l>
+            </sp>
+            <stage>Exit Valeria.</stage>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Now ſweet <hi>Aurelius,</hi> by this deuiſe</l>
+               <l>Shal we haue leiſure for to court our loues,</l>
+               <l>For whilſt that ſhe is learning on the lute,</l>
+               <l>Hir ſiſters may take time to ſteale abrode,</l>
+               <l>For otherwiſe ſheele keepe them both within.</l>
+               <l>And make them worke whilſt ſhe herſelfe doth play.</l>
+               <l>But come, lets go vnto <hi>Alfonſos</hi> houſe,</l>
+               <l>And ſee how <hi>Valeria</hi> and <hi>Kate</hi> agrees</l>
+               <l>I doubt his muſicke ſcarce will pleaſe his skoller,</l>
+               <l>But ſtay, heere comes <hi>Alfonſo.</hi>
+               </l>
+            </sp>
+            <stage>Enter <hi>Alfonſo.</hi>
+            </stage>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>What M. <hi>Polidor!</hi> you are wel met,</l>
+               <l>I thanke you for the man you ſent to me,</l>
+               <l>A good Muſition I thinke he is;</l>
+               <l>I haue ſet my daughter and him togither,</l>
+               <l>But is this gentleman a friend of yours?</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>He is, I pray you ſir bid him welcome,</l>
+               <l>He's a wealthy Marchants ſon of <hi>Ceſtus.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Y'are welcome ſir, and if my houſe afforde</l>
+               <l>
+                  <pb facs="tcp:11521:10"/>
+You any thing that may content your mind,</l>
+               <l>I pray you ſir make bold with me.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>
+                  <hi>I</hi> thanke you ſir, and if what <hi>I</hi> haue got</l>
+               <l>By marchandiſe or trauel on the ſeas,</l>
+               <l>Sattins, or lawnes, or azure coloured ſilke,</l>
+               <l>Or pretious fiery pointed ſtones of Indy,</l>
+               <l>You ſhall command, both them, my ſelf, and all.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Thanks gentle ſir, <hi>Polidor</hi> take him in,</l>
+               <l>And bid him welcome vnto my houſe,</l>
+               <l>For thou <hi>I</hi> thinke muſt be my ſecond ſonne;</l>
+               <l>
+                  <hi>Ferando, Polidor</hi> dooſt thou not know</l>
+               <l>Muſt marry <hi>Kate,</hi> and to morrow is the day.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Such newes <hi>I</hi> heard, and <hi>I</hi> came now to know.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>
+                  <hi>Polidor</hi> tis true, go let me alone,</l>
+               <l>For <hi>I</hi> muſt ſee againſt the bridegroome come,</l>
+               <l>That al things be according to his mind,</l>
+               <l>And ſo ile leaue you for an houre or two.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Come then <hi>Aurelius,</hi> come in with me,</l>
+               <l>And weele go ſit a while and chat with them,</l>
+               <l>And after bring them forth to take the aire.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>Then <hi>Slie</hi> ſpeakes.</stage>
+            <sp>
+               <speaker>Sli.</speaker>
+               <l>
+                  <hi>Sim,</hi> when will the foole come againe?</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Heele come againe my Lord anon.</l>
+            </sp>
+            <sp>
+               <speaker>Sil.</speaker>
+               <l>Gis ſome more drinke here, ſouns where's</l>
+               <l>The Tapſter, here <hi>Sim,</hi> eate ſome of theſe things.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>So <hi>I</hi> do my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>Heere <hi>Sim, I</hi> drinke to thee.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>My Lord heere comes the Plaiers againe.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>O braue, heers two fine gentlewomen.</l>
+            </sp>
+            <stage>Enter <hi>Valeria</hi> with a Lute and <hi>Kate</hi>
+with him.</stage>
+            <sp>
+               <speaker>Vale.</speaker>
+               <l>The ſenceleſſe trees by muſick haue bin mou'd,</l>
+               <l>And at the ſound of pleſant tuned ſtrings,</l>
+               <l>
+                  <pb facs="tcp:11521:10"/>
+Haue ſauage beaſts hung downe their liſtning heads,</l>
+               <l>As though they had beene caſt into a traunce.</l>
+               <l>Then it may be, that ſhe to whome naught can pleaſe,</l>
+               <l>With Muſickes ſound, in time may be ſurpriſde.</l>
+               <l>Come louely Miſtris, will you take your lute,</l>
+               <l>And play the leſſon that I taught you laſt?</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>It is no matter whether I doe, or no,</l>
+               <l>For truſt me, I take no great delight in it.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>I would, ſweete Miſtris, that it lay in me,</l>
+               <l>To helpe you to that thing that's your delight.</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>In you with a peſtlence, are you ſo kind?</l>
+               <l>Then make a night-cap of your fiddles caſe,</l>
+               <l>To warme your head, and hide your filthy face.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>If that (ſweet Miſtris) were your harts content,</l>
+               <l>You ſhould commaund a greater thing than that,</l>
+               <l>Although it were ten times to my diſgrace.</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Y'are ſo kind t'were pittie you ſhould be hang'd,</l>
+               <l>And yet me thinkes the foole doth looke aſquint.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Why Miſtris, doe you mocke me?</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>No, but I meane to mooue thee.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Well, will you play alittle?</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Yea, giue me the Lute.</l>
+            </sp>
+            <stage>Shee playes.</stage>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>That ſtop was falſe, play it againe.</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Then mend it thou, thou filthy aſſe.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>What, doe you bid me kiſſe your arſe?</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>How now jacke ſawce? y'are a jolly mate,</l>
+               <l>Y'are beſt be ſtill leſt I croſſe your pate,</l>
+               <l>And make your muſicke flie about your cares<g ref="char:punc">▪</g>
+               </l>
+               <l>Ile make it and your coxcombe meet.</l>
+            </sp>
+            <stage>She offers to ſtrike him with the Lute.</stage>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Hold Miſtris, ſowns will you breake my Lute?</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Yea on thy head and if thou ſpeake to me,</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:11"/>
+               <l>There, take it vp, and fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dle ſomewhere elſe,</l>
+               <stage>She throwes it downe.</stage>
+               <l>And ſee you come no more into this place,</l>
+               <l>Leſt that I clap your fiddle on your face.</l>
+            </sp>
+            <stage>Exit Kate</stage>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Sowns, teach her to play on the Lute?</l>
+               <l>The diuell ſhall teach her firſt, I am glad ſhee's gone,</l>
+               <l>For I was ne're ſo fraid in all my life,</l>
+               <l>But that my Lute ſhould flie about mine eares:</l>
+               <l>My maiſter ſhall teach her himſelfe for me,</l>
+               <l>For Ile keepe me farre enough without her reach,</l>
+               <l>For he and <hi>Polidor</hi> ſent me before,</l>
+               <l>To be with her, and teach her on the Lute,</l>
+               <l>Whilſt they did court the other gentle women,</l>
+               <l>And heere me thinkes they come together.</l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Aurelius, Polidor, Emelia, <hi>and</hi> Philena.</stage>
+            <sp>
+               <speaker>Pol:</speaker>
+               <l>How now <hi>Valeria,</hi> where's your Miſtris?</l>
+            </sp>
+            <sp>
+               <speaker>Val:</speaker>
+               <l>At the vengeance, I thinke, and no where elſe.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Why <hi>Valeria,</hi> will ſhe not learne apace?</l>
+            </sp>
+            <sp>
+               <speaker>Val:</speaker>
+               <l>Yes berladie, ſhe haz learn'd too much alreadie,</l>
+               <l>And that I had felt, had I not ſpoke her faire,</l>
+               <l>But ſhe <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all ne're be learnt for me againe.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel:</speaker>
+               <l>Well <hi>Valeria</hi> go to my chamber,</l>
+               <l>And beare him companie that came to daie</l>
+               <l>From <hi>Ceſtus,</hi> where our aged father dwelles.</l>
+            </sp>
+            <stage>Exit Valeria.</stage>
+            <sp>
+               <speaker>Pol:</speaker>
+               <l>Come faire <hi>Emelia,</hi> my louely loue,</l>
+               <l>Brighter than the burniſht pallace of the Sunne,</l>
+               <l>The eie-<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight of the glorious firmament,</l>
+               <l>In whoſe bright lookes ſparkles the radiant fire.</l>
+               <l>Wilie <hi>Prometheus</hi> ſlily ſtole from <hi>Ioue,</hi>
+               </l>
+               <l>Infuſing breath, life, motion, ſoul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>To euerie object ſtricken by thine eies.</l>
+               <l>Oh faire <hi>Emelia,</hi> I pine for thee,</l>
+               <l>And, either muſt enjoy thy loue, or die.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:11"/>
+               <speaker>Emel:</speaker>
+               <l>Fie man, I know you will not die for loue,</l>
+               <l>Ah <hi>Polider,</hi> thou need'ſt not to complaine,</l>
+               <l>Eternall heauen ſooner be diſſolu'd,</l>
+               <l>And all that pierceth <hi>Phoebus</hi> ſiluer eie,</l>
+               <l>Before ſuch hap befall to <hi>Polidor.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pol:</speaker>
+               <l>Thankes faire <hi>Emelia</hi> for theſe ſweet words:</l>
+               <l>But what ſaith <hi>Philena</hi> to her friend?</l>
+            </sp>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>Why I am buying marchandiſe of him.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel:</speaker>
+               <l>Miſtris, you ſhall not neede to buy of me:</l>
+               <l>For when I croſs'd the bubbling Canibey,</l>
+               <l>And ſailde along the criſtall <hi>Helliſpont,</hi>
+               </l>
+               <l>I fill'd my coffers of the wealthy mines,</l>
+               <l>Where I did cauſe millions of labouring Moores</l>
+               <l>To vndermine the cauerns of the earth,</l>
+               <l>To ſeeke for ſtrange and new found pretious ſtones,</l>
+               <l>And diue into the Sea to gather pearle,</l>
+               <l>As faire as <hi>Iuno</hi> offred <hi>Priams</hi> ſonne,</l>
+               <l>And you ſhall take your liberall choice of all.</l>
+            </sp>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>I thanke you ſir, and would <hi>Philena</hi> might</l>
+               <l>In any curteſie requite you ſo,</l>
+               <l>As ſhe with willing heart could well beſtow.</l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Alfonſo.</stage>
+            <sp>
+               <speaker>Alfon:</speaker>
+               <l>How now daughters, is <hi>Ferando</hi> come?</l>
+            </sp>
+            <sp>
+               <speaker>Eme:</speaker>
+               <l>Not yet father, I wonder he ſtaies ſo long.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon:</speaker>
+               <l>And where's your ſiſter that ſhe is not here?</l>
+            </sp>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>She is making of her ready, father,</l>
+               <l>To goe to church, and if that he were come.</l>
+            </sp>
+            <sp>
+               <speaker>Pol<g ref="char:punc">▪</g>
+               </speaker>
+               <l>I warrant you hee'l not be long away.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon:</speaker>
+               <l>Go daughters, get you in, and bid your</l>
+               <l>Siſter prouide her ſelfe againſt that we do come,</l>
+               <l>And ſee you goe to church along with vs.</l>
+               <stage>
+                  <hi>Exit</hi> Philena <hi>and</hi> Emelia.</stage>
+               <l>I maruell that <hi>Ferando</hi> comes not away.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:12"/>
+               <speaker>Pol.</speaker>
+               <l>His Tailor, it may be, hath bin too ſlacke</l>
+               <l>In his apparrell which he meanes to weare:</l>
+               <l>For no queſtion but ſome fantaſtike ſutes</l>
+               <l>He is determined to weare to day,</l>
+               <l>And richly powdered with pretious ſtones,</l>
+               <l>Spotted with liquide golde, thicke ſet with pearle,</l>
+               <l>And ſuch he meanes ſhall be his wedding ſutes.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>I car'd not I, what coſt he did beſtow,</l>
+               <l>In golde, or ſilke, ſo he himſelfe were here,</l>
+               <l>For I had rather loſe a thouſand crownes,</l>
+               <l>Than that he ſhould deceiue vs heere to day:</l>
+               <l>But ſoft, I thinke I ſee him come.</l>
+            </sp>
+            <stage>Enter <hi>Ferando</hi> baſely attired, and a red Cap on his head.</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Good morrow father: <hi>Polidor</hi> well met,</l>
+               <l>You wonder, I know, that I haue ſtaide ſo long.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Yea mary ſonne, we were almoſt perſwaded,</l>
+               <l>That we ſhould ſcarce haue had our Bridegroome heere:</l>
+               <l>But ſay, why art thou thus baſely attired?</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Thus richly father you ſhould haue ſaide,</l>
+               <l>For when my wife and I are married once,</l>
+               <l>Shee's ſuch a ſhrew, if we ſhould once fall out,</l>
+               <l>Sheele pull my coſtly ſutes ouer mine eares,</l>
+               <l>And therefore am I thus attir'd a while:</l>
+               <l>For many things I tell you's in my head,</l>
+               <l>And none muſt know thereof, but <hi>Kate</hi> and I:</l>
+               <l>For we ſhall liue like Lambes and Lions ſure,</l>
+               <l>Nor Lambs to Lions neuer were ſo tame,</l>
+               <l>If once they be within the Lions pawes,</l>
+               <l>As <hi>Kate</hi> to me, if we were married once,</l>
+               <l>And therefore, come, le<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to church preſently.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Fie <hi>Ferando,</hi> not thus attired for ſhame,</l>
+               <l>Come to my Chamber, and there <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy ſelfe,</l>
+               <l>
+                  <pb facs="tcp:11521:12"/>
+Of twenty ſutes that I did neuer weare.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Tuſh <hi>Polidor,</hi> I haue as many ſutes</l>
+               <l>Fantaſtike made to fit my humor ſo,</l>
+               <l>As any in Athens, and as richly wrought</l>
+               <l>As was the Maſsie Robe that late adorn'd</l>
+               <l>The ſtately legat of the Perſian King,</l>
+               <l>And this from them haue <hi>I</hi> made choiſe to weare.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>
+                  <hi>I</hi> prethee <hi>Ferando</hi> let me intreat</l>
+               <l>Before thou go'ſt vnto the church with vs,</l>
+               <l>To put ſome other ſute vpon thy backe.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Not for the world, if <hi>I</hi> might gaine it ſo,</l>
+               <l>And therefore take me thus, or not at al.</l>
+               <stage>Enter <hi>Kate.</hi>
+               </stage>
+               <l>But ſoft, ſee where my <hi>Kate</hi> doth come,</l>
+               <l>
+                  <hi>I</hi> muſt ſalute hir: how fares my louely <hi>Kate,</hi>
+               </l>
+               <l>What, art thou ready? ſhal we go to church?</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Not <hi>I</hi> with one ſo mad, ſo baſely tir'd,</l>
+               <l>To marry ſuch a filthy ſlauiſh groome,</l>
+               <l>That as it ſeemes ſometimes is from hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wits,</l>
+               <l>Or el<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e he would not thus haue come to vs.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Tuſh <hi>Kate</hi> theſe words adde greater loue in me,</l>
+               <l>And makes me thinke thee fairer then before:</l>
+               <l>Sweet <hi>Kate,</hi> thou louelier then Dianas purple to be,</l>
+               <l>Whiter then are the ſnowie Apenis,</l>
+               <l>Or icie haire that growes on Boreas chin.</l>
+               <l>Father, <hi>I</hi> ſweare by <hi>Ibis</hi> golden beale,</l>
+               <l>More faire and Radiant is my bony Kate,</l>
+               <l>Then ſiluer Zanthus when he doth imbrace</l>
+               <l>The ruddie Simies at <hi>Id<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> feete,</l>
+               <l>And care not thou, ſweet <hi>Kate,</hi> how <hi>I</hi> be clad,</l>
+               <l>Thou ſhalt haue garments wrought of Median <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Enchac'd with pretious iewels fetcht from far,</l>
+               <l>By Italian marchants that with Ruſsian ſtemes,</l>
+               <l>Plowes vp huge furrowes in the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>
+                  <pb facs="tcp:11521:13"/>
+And better far my louely <hi>Kate</hi> ſhal weare:</l>
+               <l>Then come ſweet loue, and let vs to the church,</l>
+               <l>For this I ſweare ſhal be my wedding ſute.</l>
+            </sp>
+            <stage>Exeunt omnes</stage>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Come gentlemen go along with vs,</l>
+               <l>For thus, do what we can, he will be wed.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <stage>Enter <hi>Polidors</hi> Boy and <hi>Sander.</hi>
+            </stage>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Come hither ſirha, boy.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Boy, oh diſgrace to my perſon! ſounes, boy</l>
+               <l>Of your face, you haue many boyes with ſuch</l>
+               <l>Pickadenaunts <hi>I</hi> am ſure, ſouns would you</l>
+               <l>Not haue a bloudy noſe for this?</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Come, come, <hi>I</hi> did but ieſt, where is that</l>
+               <l>Same peece of pie that <hi>I</hi> gaue thee to keepe?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>The pie? I, you haue more mind of your belly</l>
+               <l>Then to go ſee what your maiſter dooes.</l>
+            </sp>
+            <sp>
+               <speaker>Boy</speaker>
+               <l>Tuſh, tis no matter man, <hi>I</hi> prethee giue it me,</l>
+               <l>
+                  <hi>I</hi> am very hungry <hi>I</hi> promiſe thee.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Why you may take it, and the diuel burſt</l>
+               <l>You with it, one cannot ſaue a bit after ſupper,</l>
+               <l>But you are alwaies ready to munch it vp.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Why come man, we ſhall haue good cheere</l>
+               <l>Anon at the bridehouſe, for your maiſter's gone to</l>
+               <l>Church to be married already, and theres</l>
+               <l>Such cheere as paſſeth.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>O braue, I would I had eate no meate this weeke,</l>
+               <l>For I haue neuer a corner left in my belly</l>
+               <l>To put a venſon paſtie in, I thinke I ſhall burſt my ſelfe</l>
+               <l>With eating, for ile ſo cram me down the tarts</l>
+               <l>And the marchpanes out of all crie.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>I, but how wilt thou do now thy maiſter's</l>
+               <l>Maried, thy miſtres is ſuch a diuel, as ſheele make</l>
+               <l>Thee forget thy eating quickely, ſhee'le beate thee ſo.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:13"/>
+               <speaker>San.</speaker>
+               <l>Let my maſter alone with her for that, for</l>
+               <l>Heele make hir tame wel inongh ere long I warrant thee,</l>
+               <l>For he's ſuch a churle waxen now of late, that and he be</l>
+               <l>Neuer ſo little angry he thums me out of all cry,</l>
+               <l>But in my mind ſirha, the yongeſt is a very</l>
+               <l>Prety wench, and if I thought thy maſter would</l>
+               <l>Not haue hir, Ide haue a fling at hir</l>
+               <l>My ſelfe, ile ſee ſoone whether twill be a match</l>
+               <l>Or no: and it will not, ile ſet the matter</l>
+               <l>Hard for my ſelfe I warrant thee.</l>
+            </sp>
+            <sp>
+               <speaker>Boy</speaker>
+               <l>Souns you ſlaue, wil you be a Riuall with</l>
+               <l>My maſter in his loue? ſpeake but ſuch</l>
+               <l>Another word and ile cut off one of thy legs.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Oh cruel iudgement, nay then ſirha,</l>
+               <l>My tongue ſhal talke no more to you, marry my</l>
+               <l>Timber ſhal tell the truſty meſſage of his maiſter</l>
+               <l>Euen on the very forehead on thee, thou abuſious</l>
+               <l>Villaine, therefore prepare thy ſelfe.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Come hither thou imperfectious ſlaue, in</l>
+               <l>Regard of thy beggery, hold thee, theres</l>
+               <l>Two ſhillings for thee, to pay for the</l>
+               <l>Healing of thy left leg which I meane</l>
+               <l>Furiouſly to inuade, or to maime at the leaſt.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>O ſupernodical foole! wel, ile take your</l>
+               <l>Two ſhillings, but ile bar ſtriking at legs.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Not I, for ile ſtrike any where.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Here take your two ſhillings againe,</l>
+               <l>Ile ſee thee hangd ere ile fight with thee,</l>
+               <l>I gat a broken ſhin the other day,</l>
+               <l>Tis not whole yet, and therefore ile not fight.</l>
+               <l>Come, come, why ſhould we fal out?</l>
+            </sp>
+            <sp>
+               <speaker>Boy,</speaker>
+               <l>Wel ſirha, your faire words haue ſomething</l>
+               <l>Alaid my choler: I am content for this once</l>
+               <l>To put it vp, and be friends with thee,</l>
+               <l>
+                  <pb facs="tcp:11521:14"/>
+But ſoft, ſee where they come al from church,</l>
+               <l>Belike they be married already.</l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Ferando and Kate, and Alfonſo, and Polidor,
+and Emilia, and Aurelius, and Phylema</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Father farewel, my <hi>Kate</hi> and I muſt home,</l>
+               <l>Sirha, go make ready my horſe preſently.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Your horſe! what ſon, I hope you do but ieſt,</l>
+               <l>I am ſure you wil <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> go ſo ſuddainely.</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Let him go or tarry, I am reſolu'd to ſtay.</l>
+               <l>And not to trauel on my wedding day.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Tut <hi>Kate</hi> I tel thee we muſt needes go home,</l>
+               <l>Vilaine, haſt thou ſadled my horſe?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Which horſe, your c<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all?</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Souns you flaue, ſtand you prating here?</l>
+               <l>Saddle the bay gelding for your miſtris.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Not for me, for I wil not go.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>The Oſtler wil not let me haue him, you owe ten pence</l>
+               <l>For his meate and 6 pence for ſtuffing my miſtris ſaddle.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Here villaine, goe pay him ſtrait.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Shal I giue them another pecke of lauender?</l>
+            </sp>
+            <sp>
+               <speaker>Fera.</speaker>
+               <l>Out ſlaue, and bring them preſently to the dore.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Why ſon, I hope at leaſt youle dine with vs.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I pray you maſter lets ſtay til dinner be done.</l>
+            </sp>
+            <sp>
+               <speaker>Fera.</speaker>
+               <l>Souns vilaine, art thou here yet?</l>
+               <stage>Exit Sander</stage>
+               <l>Come <hi>Kate,</hi> our dinner is prouided at home.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>But not for me, for here I meane to dine:</l>
+               <l>Ile haue my wil in this as wel as you,</l>
+               <l>Though you in madding mood would leaue your frinds,</l>
+               <l>Deſpite of you ile tarry with them ſtill.</l>
+            </sp>
+            <sp>
+               <speaker>Fera.</speaker>
+               <l>I <hi>Kate</hi> ſo thou ſhalt, but at ſome other time,</l>
+               <l>Whenas thy ſiſters here ſhall be eſpouſd,</l>
+               <l>Then thou and I wil keepe our wedding day,</l>
+               <l>In better ſort then now we can prouide,</l>
+               <l>
+                  <pb facs="tcp:11521:14"/>
+For heere I promiſe thee before them all,</l>
+               <l>We will ere long returne to them againe:</l>
+               <l>Come <hi>Kate,</hi> ſtand not on termes, we will away,</l>
+               <l>This is my day, to morrow thou ſhalt rule,</l>
+               <l>And I will doe what euer thou commandes.</l>
+               <l>Gentlemen, farewell, wee'l take our leaues,</l>
+               <l>It will be late before that we come home.</l>
+            </sp>
+            <stage>Exeunt Ferando and Kate.</stage>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Farewell <hi>Ferando,</hi> ſince you will be gone.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>So mad a couple did I neuer ſee.</l>
+            </sp>
+            <sp>
+               <speaker>Emel.</speaker>
+               <l>Thei're euen aſwel matcht as I would wiſh.</l>
+            </sp>
+            <sp>
+               <speaker>Phile:</speaker>
+               <l>And yet I hardly thinke that he can tame her:</l>
+               <l>For when he haz done, ſhe will do what ſhe liſt.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel:</speaker>
+               <l>Her manhoode then is good I do beleeue.</l>
+            </sp>
+            <sp>
+               <speaker>Pol:</speaker>
+               <l>
+                  <hi>Aurelius,</hi> or elſe I miſſe my marke:</l>
+               <l>Her tongue will walke, if ſhe doe holde her hands.</l>
+               <l>I am in doubt ere halfe a month be paſt</l>
+               <l>Hee'l curſe the Prieſt that married him ſo ſoone,</l>
+               <l>And yet it may be ſhe will be reclaimde,</l>
+               <l>For ſhe is very patient growne of late.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>God hold it, that it may continue ſtill,</l>
+               <l>I would be loath that they ſhould diſagree,</l>
+               <l>But he (I hope) will hold her in a while.</l>
+            </sp>
+            <sp>
+               <speaker>Pol:</speaker>
+               <l>Within theſe two daies I will ride to him,</l>
+               <l>And ſee how louingly they do agree.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon:</speaker>
+               <l>Now Aurelius, what ſay you to this?</l>
+               <l>What, haue you ſent to <hi>Ceſtus</hi> as you ſaid?</l>
+               <l>To certifie your father of your loue,</l>
+               <l>For I would gladly he would like of it,</l>
+               <l>And if he be the man you tell to me,</l>
+               <l>I gheſſe he is a Merchant of great wealth:</l>
+               <l>And I haue ſeene him oft at Athens here,</l>
+               <l>And for his ſake aſſure thee thou art welcome.</l>
+            </sp>
+            <sp>
+               <speaker>Pol:</speaker>
+               <l>And ſo to me whilſt <hi>Polidor</hi> doth liue.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:15"/>
+               <speaker>Aurel:</speaker>
+               <l>I find it ſo, right worthy gentlemen,</l>
+               <l>And of that woorth your friendſhip I eſteeme,</l>
+               <l>I leaue cenſure of your ſeuerall thoughts,</l>
+               <l>But for requitall of your fauours paſt</l>
+               <l>Reſts yet behinde, which when occaſion ſerues,</l>
+               <l>I vow ſhal be remembred to the full,</l>
+               <l>And for my fathers comming to this place,</l>
+               <l>I do exſpect within this weeke at moſt.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Enough Aurelius: but we forget</l>
+               <l>Our marriage dinner now the Bride is gone,</l>
+               <l>Come, let vs ſee what there they left behind.</l>
+            </sp>
+            <stage>Exeunt
+omnes</stage>
+            <stage>Enter <hi>Sander</hi> with two or three Seruing men.</stage>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Come ſirs, prouide all things as faſt as you can,</l>
+               <l>For my maiſter's hard at hand, and my new miſtris</l>
+               <l>And all, and he ſent me before to ſee all things ready.</l>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Welcome home <hi>Sander:</hi> ſirrha how lookes our
+new miſtris, they ſay ſhee's a plaguy ſhrew?</p>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <p>Yea and that thou ſhalt find, I can tell thee and if
+thou doſt not pleaſe her wel: why my maſter haz ſuch ado
+with her, as it paſſeth, and hee's euen like a mad man.</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <l>Why <hi>Sander,</hi> what doth he ſay?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Why Ile tell you what: when they ſhould</l>
+               <l>Goe to church to be married, he puts on an olde</l>
+               <l>Ierkin, and a paire of canuaſſe breeches downe to the</l>
+               <l>Small of his leg, and a red cap on his head, and he</l>
+               <l>Lookes as thou wouldſt burſt thy ſelfe with laughing</l>
+               <l>When thou ſeeſt him: hee's ee'n as good as a</l>
+               <l>Foole for me: and then when they ſhould goe to dinner,</l>
+               <l>He made me ſaddle the horſe, and away he came,</l>
+               <l>And ne'r tarried for dinner, and therefore you had beſt</l>
+               <l>Get ſupper ready againſt they come, for</l>
+               <l>
+                  <pb facs="tcp:11521:15"/>
+They be hard at hand I am ſure by this time.</l>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <l>Sowns, ſee where they be already.</l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Ferando <hi>and</hi> Kate.</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Now welcome <hi>Kate.</hi> Where's theſe villaines</l>
+               <l>Heere? what, not ſupper yet vpon the boord?</l>
+               <l>Nor table ſpread, nor nothing done at all,</l>
+               <l>Where's that villaine that I ſent before?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Now, <hi>adſum,</hi> ſir.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Come hither you villaine, Ile cut your noſe,</l>
+               <l>You rogue, help me off with my bootes: wil't pleaſe</l>
+               <l>You to lay the cloth? Sowns the villaine</l>
+               <l>Hurts my foote: pull eaſily I ſay, yet againe?</l>
+               <stage>He beates them all.</stage>
+               <stage>They couer the boord, and fetch in the meate.</stage>
+               <l>Sowns, burnt and ſcorch't, who dreſt this meate?</l>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <l>
+                  <hi>Forſooth</hi> Iohn Cooke.</l>
+            </sp>
+            <stage>He throwes downe the table and meate, and all,
+and beates them all.</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Goe you villaines, bring me ſuch meate?</l>
+               <l>Out of my ſight I ſay, and beare it hence:</l>
+               <l>Come <hi>Kate,</hi> wee'l haue other meate prouided,</l>
+               <l>Is there a fire in my chamber ſir?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I forſooth.</l>
+            </sp>
+            <stage>
+               <hi>exeunt</hi> Ferando <hi>and</hi> Kate</stage>
+            <sp>
+               <speaker>Manent</speaker>
+               <l>Seruingmen and eate vp all the meate.</l>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <l>Sownes, I thinke of my conſcience my maiſter's
+madde ſince he was married.</l>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <l>I laft what a boxe he gaue <hi>Sander</hi>
+               </l>
+               <l>For pulling off his bootes.</l>
+            </sp>
+            <stage>Enter <hi>Ferando</hi> againe.</stage>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I hurt his foote for the nonce man.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Did you ſo, you damned villaine?</l>
+               <stage>He beates them all out againe.</stage>
+               <l>This humour muſt I holde me to a while,</l>
+               <l>
+                  <pb facs="tcp:11521:16"/>
+To bridle and hold backe my head ſtrong wife,</l>
+               <l>With curbes of hunger, eaſe, and want of ſleepe:</l>
+               <l>Nor ſleepe, nor meate ſhall ſhe enjoy to night,</l>
+               <l>Ile mew her vp as men doe mew their Hawkes,</l>
+               <l>And make her gently come vnto the Lewre,</l>
+               <l>Were ſhe as ſtubborne, or as full of ſtrength,</l>
+               <l>As was the Thracian Horſe Alcides tamde,</l>
+               <l>That king <hi>Egeus</hi> fed with fleſh of men,</l>
+               <l>Yet would I pull her downe, and make her come,</l>
+               <l>As hungry Hawkes doe flie vnto their Lewre.</l>
+            </sp>
+            <stage>exit.</stage>
+            <stage>
+               <hi>Enter</hi> Aurelius <hi>and</hi> Valeria.</stage>
+            <sp>
+               <speaker>Aurel:</speaker>
+               <l>
+                  <hi>Valeria</hi> attend, I haue a louely loue,</l>
+               <l>As bright as is the heauen criſtalline,</l>
+               <l>As faire as is the milke white way of <hi>Ioue,</hi>
+               </l>
+               <l>As chaſte as <hi>Phoebe,</hi> in her ſummer ſports,</l>
+               <l>As ſoft and tender as the azure dowlne,</l>
+               <l>That circles <hi>Cithereas</hi> ſiluer Doues.</l>
+               <l>Her doe I meane to make my louely Bride,</l>
+               <l>And in her bed to breathe the ſweete content,</l>
+               <l>That I, thou know'ſt, long time haue aimed at.</l>
+               <l>Now <hi>Valeria,</hi> it reſts in thee to helpe</l>
+               <l>To compaſſe this, that I might gaine my loue,</l>
+               <l>Which eaſily thou maiſt performe at will,</l>
+               <l>If that the merchant which thou told'ſt me of,</l>
+               <l>Will (as he ſaide) goe to Alfonſoes houſe,</l>
+               <l>And ſay he is my father, and therewithall</l>
+               <l>Paſſe ouer certaine deedes of land to me,</l>
+               <l>That I thereby may gaine my hearts deſire,</l>
+               <l>And he is promiſed reward of me.</l>
+            </sp>
+            <sp>
+               <speaker>Val:</speaker>
+               <l>Feare not my Lord, Ile fetch him ſtrait to you,</l>
+               <l>For hee'l doe any thing that you commaund,</l>
+               <l>But tell me, my Lord, is <hi>Ferando</hi> married then?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel:</speaker>
+               <l>He is, and Polidor ſhortly ſhalbe wed,</l>
+               <l>And he meanes to tame his wife ere long.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:16"/>
+               <speaker>Val.</speaker>
+               <l>Hee ſaies ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Faith he's gon vnto the taming ſchoole.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>The taming ſchoole! why is there ſuch a place?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>I: and <hi>Ferando</hi> is the maiſter of the ſchoole.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>That's rare: but what <hi>decorum</hi> doth he vſe?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Faith I know not: but by ſome odde deuiſe</l>
+               <l>Or other, but come <hi>Valeria</hi> I long to ſee the man,</l>
+               <l>By whom we muſt compriſe our plotted drift,</l>
+               <l>That I may tel him what we haue to do.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Then come my Lord and I will bring you to him
+ſtraight.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Agreede then, lets go.</l>
+            </sp>
+            <stage>Exeunt</stage>
+            <stage>
+               <hi>Enter</hi> Sand<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and his miſtris.</stage>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Come miſtris.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>
+                  <hi>Sander</hi> I prethee helpe me to ſome meat,</l>
+               <l>I am ſo faint that I can ſcarcely ſtand.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I marry miſtris, but you know my maiſter</l>
+               <l>Has giuen me a charge that you muſt eat nothing,</l>
+               <l>But that which he himſelfe giueth you.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Why man, thy maſter needs neuer know it.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>You ſay true indeed. Why looke you miſtris,</l>
+               <l>What ſay you to a pece of bieffe and muſtard now?</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Why I ſay tis excellent meat, canſt thou
+helpe me to ſome?</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I, <hi>I</hi> could helpe you to ſome, but that</l>
+               <l>I doubt the muſtard is too chollerick for you.</l>
+               <l>But what ſay you to a ſheepes head and garlicke?</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Why any thing, I care not what it be</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I but the garlicke I doubt will make your breath</l>
+               <l>Stincke, and then my maſter wil courſe me for letting</l>
+               <l>You eate it But what ſay you to a fat Capon?</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>That's meat for a king, ſweete <hi>Sander</hi> help
+me to ſome of it.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Nay berlady then tis too deere for vs, we muſt</l>
+               <l>
+                  <pb facs="tcp:11521:17"/>
+Not meddle with the Kings meate.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Our villaine, doſt thou mocke me,</l>
+               <l>Take that for thy ſawſineſſe.</l>
+            </sp>
+            <stage>ſhe beates him.</stage>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Sounes are you ſo light fingred with a murrin,</l>
+               <l>Ile keepe you faſting for it theſe two daies.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>I tel thee villaine, ile teare the fleſh off</l>
+               <l>Thy face and eate it, and thou prate to me thus.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Here comes my maſter now, heele courſe you.</l>
+               <l>Enter <hi>Ferando</hi> with a peece of meate vpon his.
+dagger point and <hi>Polidor</hi> with him.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>See heere <hi>Kate,</hi> I haue prouided meat for thee,</l>
+               <l>Here take it: what, iſt not worthy thanks?</l>
+               <l>Go ſirha, take it away againe, you ſhall be</l>
+               <l>Thankful for the next you haue.</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Why I thanke you for it.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Nay now tis not worth a pin, go ſirha and take
+it hence I ſay.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Yes ſir ile carrie it hence: Maſter let hir</l>
+               <l>Haue none, for ſhe can fight as Hungry as ſhe is.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>I pray you ſir let it ſtand, for ile eate</l>
+               <l>Some with her my ſelfe.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Wel ſirha, ſet it downe againe.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Nay nay I pray you let him take it hence,</l>
+               <l>And keepe it for your owne diet, for ile none,</l>
+               <l>Ile ne're be beholding to you for your meat,</l>
+               <l>I tel thee flatly here vnto thy teeth,</l>
+               <l>Thou ſhalt not keepe me nor feed me as thou liſt,</l>
+               <l>For I will home againe vnto my fathers houſe.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>I, when ya're meeke and gentle, but not</l>
+               <l>Before, I know your ſtomacke is not yet come downe.</l>
+               <l>Therefore, no maruel thou canſt not eat,</l>
+               <l>And I will go vnto your Fathers houſe,</l>
+               <l>Come <hi>Polidor</hi> let vs go in againe,</l>
+               <l>
+                  <pb facs="tcp:11521:17"/>
+And <hi>Kate</hi> come in with vs, I know ere long,</l>
+               <l>That thou and I ſhall louingly agree.</l>
+            </sp>
+            <stage>Exit Omnes.</stage>
+            <stage>
+               <hi>Enter</hi> Aurelius, Valeria and Phylotus
+<hi>the Merchant.</hi>
+            </stage>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Now Seignior <hi>Phylotus,</hi> we wil go</l>
+               <l>Vnto <hi>Alfonſos</hi> houſe, and be ſure you ſay</l>
+               <l>As I did tel you, concerning the man</l>
+               <l>That dwels at <hi>Ceſtus,</hi> whoſe ſon I ſaid I was,</l>
+               <l>For you do very much reſemble him,</l>
+               <l>And feare not: you may be bold to ſpeake your mind.</l>
+            </sp>
+            <sp>
+               <speaker>Phylo.</speaker>
+               <l>I warrant you ſir, take you no care,</l>
+               <l>Ile vſe my ſelfe ſo cunning in the cauſe,</l>
+               <l>As you ſhall ſoone inioy your harts delight.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Thanks ſweet <hi>Phylotus,</hi> then ſtay you here,</l>
+               <l>And I will go and fetch him hither ſtrait.</l>
+               <l>Ho, Seignior <hi>Alfonſo:</hi> a word with you.</l>
+            </sp>
+            <stage>Enter <hi>Alfonſo.</hi>
+            </stage>
+            <sp>
+               <speaker>Alfonſo.</speaker>
+               <l>Who's there? what <hi>Aurelius</hi> what's the matter</l>
+               <l>That you ſtand ſo like a ſtranger at the doore?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>My father ſir is newly come to towne,</l>
+               <l>And I haue brought him here to ſpeake with you,</l>
+               <l>Concerning theſe matters that I told you of,</l>
+               <l>And he can certifie you of the truth.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>is this your father? you are welcome ſir.</l>
+            </sp>
+            <sp>
+               <speaker>Phylo.</speaker>
+               <l>Thanks <hi>Alfonſo,</hi> for thats your name I geſſe,</l>
+               <l>I vnderſtand my ſon hath ſet his mind</l>
+               <l>And bent his liking to your daughters loue,</l>
+               <l>And for becauſe he is my only ſon,</l>
+               <l>And I would gladly that he ſhould do well,</l>
+               <l>I tel you ſir, I not miſlike his choiſe,</l>
+               <l>If you agree to giue him your conſent,</l>
+               <l>He ſhall haue liuing to maintaine his eſtate,</l>
+               <l>
+                  <pb facs="tcp:11521:18"/>
+Three hundred pounds a yeare, I will aſſure</l>
+               <l>To him and to his heyres, and if they do ioyne,</l>
+               <l>And knit themſelues in holy wedlocke band,</l>
+               <l>A thouſand maſsie ingots of pure gold,</l>
+               <l>And twiſe as many bars of ſiluer plate,</l>
+               <l>I freely giue him, and in writing ſtraight</l>
+               <l>I wil confirme what I haue ſaid in words.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Truſt me, I muſt commend your liberal mind,</l>
+               <l>And louing care you beare vnto your ſon,</l>
+               <l>And here I giue him freely my conſent.</l>
+               <l>As for my daughter, I thinke he knowes her mind,</l>
+               <l>And I will inlarge her dowry for your ſake,</l>
+               <l>And ſolemniſe with ioy your nuptial rites.</l>
+               <l>But is this gentleman of <hi>Ceſtus</hi> too?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>He is the <hi>Duke</hi> of <hi>Ceſtus</hi> thriſe renowmed ſon,</l>
+               <l>Who for the loue his honor beares to me,</l>
+               <l>Hath thus accompanied mee to this place.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>You were too blame you tolde me not before,</l>
+               <l>Pardon me my Lord, for if I had knowne</l>
+               <l>Your honor had bin here in place with me,</l>
+               <l>I would haue don my duty to your honor.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Thanks good <hi>Alfonſo.</hi> but I did come to ſee</l>
+               <l>When theſe marriage rites ſhould be performed.</l>
+               <l>And if in theſe nuptials you vouchſafe,</l>
+               <l>To honor thus the prince of <hi>Ceſtus</hi> friend,</l>
+               <l>In celebration of his ſpouſal rites,</l>
+               <l>He ſhal remaine a laſting friend to you,</l>
+               <l>What ſaies <hi>Aurelius</hi> father?</l>
+            </sp>
+            <sp>
+               <speaker>Phylo.</speaker>
+               <l>I humbly thanke your honor, good my Lord,</l>
+               <l>And ere we part, before your honor here,</l>
+               <l>Shal articles of ſuch content be drawne,</l>
+               <l>As twixt our houſes and poſterities,</l>
+               <l>Eternally this league of peace ſhall laſt</l>
+               <l>Inuiolate and pure on either part.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:18"/>
+               <speaker>Alfonſo.</speaker>
+               <l>With al my heart, and if your honor pleaſe</l>
+               <l>To walke along with vs vnto my houſe,</l>
+               <l>We wil confirme theſe leagues of laſting loue.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Come then <hi>Aurelius</hi> I wil go with you.</l>
+            </sp>
+            <stage>Ex. Omnes.</stage>
+            <stage>
+               <hi>Enter</hi> Ferando and Kate, and Sander.</stage>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Maſter, the Haberdaſher has brought my</l>
+               <l>Miſtris home hir cap here.</l>
+            </sp>
+            <sp>
+               <speaker>Feran</speaker>
+               <l>Come hither ſirha: what haue you there?</l>
+            </sp>
+            <sp>
+               <speaker>Haber.</speaker>
+               <l>A veluet cap ſir, and it pleaſe you.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Who ſpoke for it? didſt thou <hi>Kate?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>What if I did? come hither ſirha, giue me</l>
+               <l>The cap, ile ſee if it wil fit me.</l>
+            </sp>
+            <stage>She ſets it on her head.</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>O monſtrous: why it becomes thee not,</l>
+               <l>Let me ſee it <hi>Kate:</hi> here ſirha take it hence,</l>
+               <l>This cap is out of faſhion quite.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>The faſhion is good inough: belike you</l>
+               <l>Meane to make a foole of me.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Why true, he meanes to make a foole of thee,</l>
+               <l>To haue thee put on ſuch a curtald cap:</l>
+               <l>Sirha, be gone with it.</l>
+            </sp>
+            <stage>Enter the <hi>Taylor</hi> with a gowne.</stage>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Here is the <hi>Taylor</hi> too with my miſtris gowne.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Let me ſee it <hi>Taylor:</hi> what, with cuts and jags?</l>
+               <l>Sounes thou vilaine, thou haſt ſpoil'd the gowne.</l>
+            </sp>
+            <sp>
+               <speaker>Taylor</speaker>
+               <l>Why ſir, I made it as your man gaue me direc<g ref="char:EOLhyphen"/>tion,</l>
+               <l>You may read the note here</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Come hither ſirha: <hi>Taylor</hi> read the note.</l>
+            </sp>
+            <sp>
+               <speaker>Taylor.</speaker>
+               <l>Item a faire round compaſſd cape.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I thats true.</l>
+            </sp>
+            <sp>
+               <speaker>Taylor.</speaker>
+               <l>And a large truncke ſleeue.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:19"/>
+               <speaker>San.</speaker>
+               <l>That's a lie maiſter, I ſaid two truncke ſleeues.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Wel ſir, go forward.</l>
+            </sp>
+            <sp>
+               <speaker>Taylor.</speaker>
+               <l>Item a looſe bodied gowne,</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Maiſter if euer I ſaid looſe bodies gowne,</l>
+               <l>Sew me in a ſeame, and beat me to death</l>
+               <l>With a bottome of browne thred.</l>
+            </sp>
+            <sp>
+               <speaker>Taylor.</speaker>
+               <l>I made it as the note bade me.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I ſay the note lies in his throate and thou too,</l>
+               <l>And thou ſaiſt it.</l>
+            </sp>
+            <sp>
+               <speaker>Tailor</speaker>
+               <l>Nay, nay, ne'r be ſo hot ſirha, for I feare you not.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Dooſt thou heare <hi>Tailor,</hi> thou haſt braued</l>
+               <l>Many men: braue not me.</l>
+               <l>Th'aſt fac'd many men.</l>
+            </sp>
+            <sp>
+               <speaker>Tailor.</speaker>
+               <l>Wel ſir.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Face not me, i'le neither be fac'd nor braued</l>
+               <l>At thy hands I can tell thee.</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Come, come, I like the faſhion of it wel inough,</l>
+               <l>Heere's more adoe than needes, I'le haue it, I,</l>
+               <l>And if you doe not like it, hide your eies,</l>
+               <l>I thinke I ſhall haue nothing by your will.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Go I ſay, and take it vp for your maiſters vſe.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>Souns villaine, not for thy life, touch it not:</l>
+               <l>Souns, take vp my miſtris gowne to his</l>
+               <l>Maiſters vſe!</l>
+            </sp>
+            <sp>
+               <speaker>Feran:</speaker>
+               <l>Well ſir, what's your conceit of it?</l>
+            </sp>
+            <sp>
+               <speaker>San:</speaker>
+               <l>I haue a deeper conceit in it than you</l>
+               <l>Thinke for, take vp my miſtris gowne</l>
+               <l>To his maiſters vſe.</l>
+            </sp>
+            <sp>
+               <speaker>Feran:</speaker>
+               <l>Tailer, come hither, for this time make it:</l>
+               <l>Hence againe, and Ile content thee for thy paines.</l>
+            </sp>
+            <sp>
+               <speaker>Tailor</speaker>
+               <l>I thanke you ſir.</l>
+            </sp>
+            <stage>exit Tailer</stage>
+            <sp>
+               <speaker>Feran:</speaker>
+               <l>Come <hi>Kate,</hi> wee now will goe ſee thy fathers house,</l>
+               <l>Euen in theſe honeſt meane abiliments,</l>
+               <l>Our purſes ſhalbe rich, our garments plaine,</l>
+               <l>
+                  <pb facs="tcp:11521:19"/>
+To ſhrowd our bodies from the winter rage,</l>
+               <l>And that's inough, what ſhould we care for more?</l>
+               <l>Thy ſiſters, Kate, to morrow muſt be wed.</l>
+               <l>And I haue promiſed them thou ſhould'ſt be there,</l>
+               <l>The morning is well, vp, lets haſte away,</l>
+               <l>It wil be nine aclocke ere we come there.</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Nine aclocke, why tis already paſt two</l>
+               <l>In the afternoone by al the clockes in the towne.</l>
+            </sp>
+            <sp>
+               <speaker>Feran:</speaker>
+               <l>I ſay tis but nine aclocke in the morning.</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>I ſay tis two aclocke in the afternoone.</l>
+            </sp>
+            <sp>
+               <speaker>Fera:</speaker>
+               <l>It ſhal be nine then ere you go to your fathers:</l>
+               <l>Come backe againe, we will not goe to day:</l>
+               <l>Nothing but croſſing me ſtil?</l>
+               <l>Ile haue you ſay as I doe ere I goe.</l>
+            </sp>
+            <stage>exeunt omnes.</stage>
+            <stage>
+               <hi>Enter</hi> Polidor, Emelia, Aurelius, <hi>and</hi> Philema.</stage>
+            <sp>
+               <speaker>Pol:</speaker>
+               <l>Faire <hi>Emelia,</hi> ſummers bright ſun Queene,</l>
+               <l>Brighter of hew than is the burning clime,</l>
+               <l>Where <hi>Phoebus</hi> in his bright Aequator ſits,</l>
+               <l>Creating golde and pretious mineralls,</l>
+               <l>What would <hi>Emelia</hi> doe if I were forc'd</l>
+               <l>To leaue faire Athens, and to range the world?</l>
+            </sp>
+            <sp>
+               <speaker>Emel:</speaker>
+               <l>Should thou aſſay to ſcale the feare of <hi>Ioue,</hi>
+               </l>
+               <l>Mounting the ſuttle airie regions,</l>
+               <l>Or be ſnatcht vp as erſt was <hi>Ganimede,</hi>
+               </l>
+               <l>Loue ſhould giue wings vnto my ſwift deſires,</l>
+               <l>And prune my thoughts that I would follow thee,</l>
+               <l>Or fall and periſh as did <hi>Icarus.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Aurel:</speaker>
+               <l>Sweetly reſolued, faire <hi>Em<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lia,</hi>
+               </l>
+               <l>But would <hi>Philema</hi> ſay as much to me,</l>
+               <l>If I ſhould aske a queſtion now of thee?</l>
+               <l>What if the Duke of <hi>Ceſtus</hi> onely ſonne,</l>
+               <l>Which came with me vnto your fathers houſe,</l>
+               <l>Should ſeeke to get <hi>Philemas</hi> loue from me,</l>
+               <l>
+                  <pb facs="tcp:11521:20"/>
+And make thee Dutcheſſe of that ſtately towne,</l>
+               <l>Would'ſt thou not then forſake me for his loue?</l>
+            </sp>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>Not for great <hi>Neptune,</hi> no not <hi>Ioue</hi> himſelfe,</l>
+               <l>Will <hi>Philema</hi> leaue <hi>Aurelius</hi> loue,</l>
+               <l>Could he enſtall me Empreſſe of the world,</l>
+               <l>Or make me Queene and guidreſſe of the heauen,</l>
+               <l>Yet would I not exchange my loue for his,</l>
+               <l>Thy company is poore <hi>Phylemaes</hi> heauen,</l>
+               <l>And without thee, heauen were hell to me.</l>
+            </sp>
+            <sp>
+               <speaker>Emel:</speaker>
+               <l>And ſhould my loue, as earſt did <hi>Hercules,</hi>
+               </l>
+               <l>Attempt the burning vaults of hell,</l>
+               <l>I would with pitteous lookes, and pleaſing words,</l>
+               <l>As once did <hi>Orpheus</hi> with his harmony,</l>
+               <l>And rauiſhing ſound of his mellodious Harpe,</l>
+               <l>Intreate grimme <hi>Pluto,</hi> and of him obtaine</l>
+               <l>That thou might'ſt goe, and ſafe returne againe.</l>
+            </sp>
+            <sp>
+               <speaker>Phil:</speaker>
+               <l>And ſhould my loue as erſt <hi>Leander</hi> did,</l>
+               <l>Attempt to ſwimme the boyling <hi>H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lliſpont</hi>
+               </l>
+               <l>For <hi>Heros</hi> loue: no Towers of braſſe ſhould hold,</l>
+               <l>But I would follow thee through thoſe raging flouds,</l>
+               <l>With lockes diſ-ſheuered, and my breaſt all bare,</l>
+               <l>With bended knees vpon <hi>Abidaes</hi> ſhore,</l>
+               <l>I would with ſmokie ſighs and briniſh teares,</l>
+               <l>Importune <hi>Neptune</hi> and the warry gods,</l>
+               <l>To ſend a guard of ſiluer ſcaled Dolphins,</l>
+               <l>With ſounding <hi>Tritons</hi> to be our conuoy,</l>
+               <l>And to tranſport vs ſafe vnto the ſhore,</l>
+               <l>Whilſt I would hang about thy louely necke,</l>
+               <l>Redoubling kiſſe on kiſſe vpon thy cheekes,</l>
+               <l>And with our paſtime ſtill the ſwelling waues.</l>
+            </sp>
+            <sp>
+               <speaker>Emel:</speaker>
+               <l>Should <hi>Polidor</hi> as <hi>Aehilles</hi> did,</l>
+               <l>Onely imploy himſelfe to follow Armes,</l>
+               <l>Like to the warlike Amazonian Queene,</l>
+               <l>Pentheſelea Hectors <hi>paramour,</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:11521:20"/>
+Who foild the bloudy <hi>Pirrhus</hi> murd'rous Greeke,</l>
+               <l>Ile thruſt my ſelfe amongſt the thickeſt throngs,</l>
+               <l>And with my vtmoſt force aſſiſt my loue.</l>
+            </sp>
+            <sp>
+               <speaker>Phyle.</speaker>
+               <l>Let <hi>Eole</hi> ſtorme: be mild and quiet thou,</l>
+               <l>Let <hi>Neptune</hi> ſwel, be <hi>Aurelius</hi> calme and pleaſed,</l>
+               <l>I care not, I, betide what may betide,</l>
+               <l>Let fates and fortune do the worſt they can,</l>
+               <l>I recke them not: they not diſcord with me,</l>
+               <l>Whileſt that my loue and I do well agree.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Sweet <hi>Phylema</hi> bewties minerall,</l>
+               <l>From whence the ſun exhales his glorious ſhine,</l>
+               <l>And clad the heauen in thy reflected raies,</l>
+               <l>And now my liefeſt loue, the time drawes nie,</l>
+               <l>That <hi>Himen</hi> mounted in his ſaffron robe,</l>
+               <l>Muſt with his torches waite vpon thy traine,</l>
+               <l>As <hi>Hellens</hi> brothers on the horned moone.</l>
+               <l>Now <hi>Iuno</hi> to thy number ſhal I adde,</l>
+               <l>The faireſt bride that euer marchant had.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Come faire <hi>Emelia,</hi> the prieſt is gon,</l>
+               <l>And at the church your father and the reſt</l>
+               <l>Do ſtay to ſee our marriage rites perform'd,</l>
+               <l>And knit in ſight of heauen this <hi>Gordian</hi> knot,</l>
+               <l>That teeth of fretting Time may ne'r vntwiſt,</l>
+               <l>Then come faire loue and gratulate with me</l>
+               <l>This daies content and ſweet ſolemnity.</l>
+            </sp>
+            <stage>Exeunt omnes</stage>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>
+                  <hi>Sim,</hi> muſt they be married now?</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>I my Lord.</l>
+            </sp>
+            <stage>
+               <hi>Enter</hi> Ferando and Kate and Sander.</stage>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>Looke <hi>Sim,</hi> the foole is come againe now.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Sirha, go fetch our horſes forth, and bring</l>
+               <l>Them to the backe gate preſently.</l>
+            </sp>
+            <sp>
+               <speaker>San.</speaker>
+               <l>I will ſir I warrant you.</l>
+            </sp>
+            <stage>exit Sander.</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Come <hi>Kate,</hi> the moone ſhines cleere to night,
+me thinkes.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:21"/>
+               <speaker>Kate.</speaker>
+               <l>The moone? why husband you are deceiu'd,</l>
+               <l>It is the ſun.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Yet againe, come backe againe, it ſhal be</l>
+               <l>The moone ere we come at your fathers.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Why ile ſay as you ſay, it is the moone.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Ieſus, ſaueth glorious moone.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Ieſus, ſaue the glorious moone.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>I am glad <hi>Kate</hi> your ſtomacke is come downe,</l>
+               <l>I know it well thou knowſt it is the ſun,</l>
+               <l>But I did trie to ſee if thou wouldſt ſpeake,</l>
+               <l>And croſſe me now as thou haſt done before,</l>
+               <l>And truſt me <hi>Kate</hi> hadſt thou not namde the moone,</l>
+               <l>We had gone backe againe as ſure as death.</l>
+               <l>But ſoft, who's this thats comming here?</l>
+            </sp>
+            <stage>Enter the <hi>Duke</hi> of <hi>Ceſtus</hi> alone</stage>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Thus al alone from <hi>Ceſtus</hi> am I come,</l>
+               <l>And left my princely court and nobl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> traine,</l>
+               <l>To come to <hi>Athens,</hi> and in this diſguiſe,</l>
+               <l>To ſee what courſe my ſon <hi>Aurelius</hi> takes.</l>
+               <l>But ſtay, heres ſome it may be trauels thither,</l>
+               <l>Good ſir can you direct me the way to <hi>Athens?</hi>
+               </l>
+               <stage>
+                  <hi>Ferando</hi> ſpeakes to the old man,</stage>
+               <l>Faire louely maide, yong and affable,</l>
+               <l>More cleere of hew and far more beautifull</l>
+               <l>Then pretious <hi>Sardonix</hi> or purple rockes,</l>
+               <l>Of <hi>Amitheſts</hi> or gliſtering <hi>Hiaſinth,</hi>
+               </l>
+               <l>More amiable far then is the plain,</l>
+               <l>Where gliſtering <hi>Cepherus</hi> in ſiluer boures,</l>
+               <l>Gaſeth vpon the Giant <hi>Andromede,</hi>
+               </l>
+               <l>Sweet <hi>Kate</hi> entertaine this louely woman.</l>
+            </sp>
+            <sp>
+               <speaker>Duke</speaker>
+               <l>I thinke the man is mad he cals me a woman.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:21"/>
+               <speaker>Kate.</speaker>
+               <l>Faire louely lady, bright and Chriſtaline,</l>
+               <l>Bewteous and ſtately as the eie-traind bird,</l>
+               <l>As glorious as the morning waſht with dew,</l>
+               <l>Within whoſe eies ſhe takes her dawning beames,</l>
+               <l>And golden ſommer ſleepes vpon thy cheekes,</l>
+               <l>Wrapt vp thy radiations in ſome cloud,</l>
+               <l>Leſt that thy bewty make this ſtately towne</l>
+               <l>Inhabitable like the burning Zone,</l>
+               <l>With ſweet reflections of thy louely face.</l>
+            </sp>
+            <sp>
+               <speaker>Duke</speaker>
+               <l>What is ſhe mad too? or is my ſhape transformd</l>
+               <l>That both of them perſwade me I am a woman,</l>
+               <l>But they are mad ſure, and therefore ile be gone,</l>
+               <l>And leaue their companies for feare of harme,</l>
+               <l>And vnto Athens haſte to ſeeke my ſon.</l>
+            </sp>
+            <stage>Exit Duke.</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Why ſo, <hi>Kate,</hi> this was friendly done of thee,</l>
+               <l>And kindly too<g ref="char:punc">▪</g> why thus muſt we two liue,</l>
+               <l>One minde, one heart, and one content for both,</l>
+               <l>This good old man dos thinke that we are mad,</l>
+               <l>And glad is he I am ſure, that he is gone,</l>
+               <l>But come ſweet <hi>Kate,</hi> for we will after him,</l>
+               <l>And now perſwade him to his ſhape againe.</l>
+            </sp>
+            <stage>Ex. Omnes.</stage>
+            <stage>
+               <hi>Enter</hi> Alfonſo and Phylotus and Valeria,
+Polidor, Emelia, Aurdius and Phylema.</stage>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Come louely ſonnes, your marriage rites</l>
+               <l>Performed,</l>
+               <l>Lets hie vs home to ſee what cheere we haue,</l>
+               <l>I wonder that <hi>Ferando</hi> and his wife</l>
+               <l>Come not to ſee this great ſolemnity.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>No maruel of <hi>Ferando</hi> be away,</l>
+               <l>His wife I thinke hath troubled ſo his wits,</l>
+               <l>
+                  <pb facs="tcp:11521:22"/>
+That he remaines at home to keepe them warme,</l>
+               <l>For forward wedlocke as the prouerbe ſayes,</l>
+               <l>Hath brought him to his nightcap long ago.</l>
+            </sp>
+            <sp>
+               <speaker>Phylo.</speaker>
+               <l>But <hi>Polidor,</hi> let my ſon and you take heed,</l>
+               <l>That <hi>Ferando</hi> ſay not ere long as much to you.</l>
+               <l>And now <hi>Alfonſo,</hi> more to ſhew my loue,</l>
+               <l>If vnto <hi>Ceſtus</hi> you do ſend your ſhips,</l>
+               <l>My ſelfe wil fraught them with <hi>Arabian</hi> ſilkes,</l>
+               <l>Rich Affricke ſpices, Arras counter pointes,</l>
+               <l>Muske, Casſia, ſweet ſmelling Ambergreece,</l>
+               <l>Pearle, curtol, Chriſtal, jet, and iuory,</l>
+               <l>To gratulate the fauors of my ſon,</l>
+               <l>And friendly loue that you haue ſhewne to him.</l>
+            </sp>
+            <sp>
+               <speaker>Vale.</speaker>
+               <l>And for to honor him and his faire bride.</l>
+               <stage>Enter the <hi>Duke</hi> of <hi>Ceſtus.</hi>
+               </stage>
+               <l>Ile yeerely ſend you from your fathers court,</l>
+               <l>Cheſts of refind ſugar ſeuerally,</l>
+               <l>Ten tun of tunis wine, ſucket, ſweet drugs,</l>
+               <l>To celebrate and ſolemnize this day,</l>
+               <l>And cuſtom-free, your marchants ſhal commerce</l>
+               <l>And interchange the profits of your land,</l>
+               <l>Sending you gold for braſſe, ſiluer for lead,</l>
+               <l>Caſſes of ſilke for packes of wol and cloth,</l>
+               <l>To bind this friendſhip and confirme this league.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>I am glad ſir that you would be ſo franke</l>
+               <l>Are you become the <hi>Duke</hi> of <hi>Ceſtus</hi> ſon,</l>
+               <l>And reuels with my treaſure in the towne,</l>
+               <l>Baſe villaine that thus diſhonereſt me?</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>Sounes it is the <hi>Duke,</hi> what ſhall I do?</l>
+               <l>Diſhonor thee? why knowſt thou what thou ſaiſt?</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Her's no villaine: he will not know me now,</l>
+               <l>But what ſay you? haue you forgot me too?</l>
+            </sp>
+            <sp>
+               <speaker>Phylo.</speaker>
+               <l>Why ſir, are you acquainted with my ſon?</l>
+            </sp>
+            <sp>
+               <speaker>Duke</speaker>
+               <l>With thy ſon? no truſt me, if he be thine,</l>
+               <l>
+                  <pb facs="tcp:11521:22"/>
+I pray you ſir, who am I?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Pardon me father, humbly on my knees</l>
+               <l>I do intreat your grace to heare me ſpeake.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Peace villaine, lay hands on th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>And ſend them to priſon ſtraight.</l>
+            </sp>
+            <stage>
+               <hi>Phylotus</hi> and <hi>Valeria</hi> runnes away</stage>
+            <stage>Then <hi>Slie</hi> ſpeakes.</stage>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>I ſay weele haue no <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nding to priſon.</l>
+            </sp>
+            <sp>
+               <speaker>Lord</speaker>
+               <l>My Lord this is but the play, the'yre but in ieſt.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>I tel thee <hi>Sim</hi> weele haue no ſending,</l>
+               <l>To priſon thats flat: why <hi>Sim,</hi> am not I <hi>Don Chriſto Vari?</hi>
+               </l>
+               <l>Therefore I ſay, they ſhal not goe to priſon.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>No more they ſhal not, my Lord,</l>
+               <l>They be runne away.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>Are they run away <hi>Sim?</hi> thats wel,</l>
+               <l>Then gis ſome more drinke, and let them play againe.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Here my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Slie.</speaker>
+               <l>drinkes and then fals aſleepe.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Ah trecherous boy that durſt preſume,</l>
+               <l>To wed thy ſelfe without thy fathers leaue,</l>
+               <l>I ſweare by faire <hi>Cintheas</hi> burning raies,</l>
+               <l>By <hi>Merops</hi> head, and by ſeuen mouthed <hi>Nile,</hi>
+               </l>
+               <l>Had I but known ere thou hadſt wedded her,</l>
+               <l>Were in thy breſt the worlds immortal ſoule,</l>
+               <l>This Angry ſworde ſhould rip thy hateful cheſt,</l>
+               <l>And hewd thee ſmaller then the <hi>Libian</hi> ſandes,</l>
+               <l>Turne hence thy face, oh cruel impious boy.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>I did not thinke you would preſume,</l>
+               <l>To match your daughter with my princely houſe,</l>
+               <l>And ne'r make mee acquainted with the cauſe.</l>
+            </sp>
+            <sp>
+               <speaker>Alfo.</speaker>
+               <l>My Lord, by heauens I ſweare vnto your grace,</l>
+               <l>I knew none other but <hi>Valeria</hi> your man,</l>
+               <l>Had bin the <hi>Duke</hi> of <hi>Ceſtus</hi> noble ſon,</l>
+               <l>
+                  <pb facs="tcp:11521:23"/>
+Nor did my daughter I dare ſware for her.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>That damned villaine that hath deluded me,</l>
+               <l>Whom I did ſend for guide vnto my ſon,</l>
+               <l>Oh that my furious force could cleaue the earth,</l>
+               <l>That I might muſter bands of helliſh feends,</l>
+               <l>To racke his heart and teare his impious ſoule.</l>
+               <l>The ceaſeleſſe turning of celeſtial orbes,</l>
+               <l>Kindles not greater flames in flitting aire,</l>
+               <l>Then paſsionate anguiſh of my raging breſt.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Then let my death ſweet father end your griefe,</l>
+               <l>For I it is that thus haue wrought your woes,</l>
+               <l>Then be reuengd on me, for here I ſweare</l>
+               <l>That they are innocent of what I did,</l>
+               <l>Oh had I charge to cut off <hi>Hydraes</hi> head,</l>
+               <l>To make the to pleſſe <hi>Alpes</hi> a champaine field,</l>
+               <l>To kil vntamed monſters with my ſword,</l>
+               <l>To trauel daily in the hotteſt ſun,</l>
+               <l>And watch in winter when the nights be cold.</l>
+               <l>I would with gladnes vndertake them all,</l>
+               <l>And thinke the paine but pleaſure that I felt,</l>
+               <l>So that my noble father at my return,</l>
+               <l>Would but forget and pardon me my offence.</l>
+            </sp>
+            <sp>
+               <speaker>Phyle.</speaker>
+               <l>Let me intreat your grace vpon my knees,</l>
+               <l>To pardon him and let my death diſcharge</l>
+               <l>The heauy wrath your grace hath vowd againſt him.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>And good my Lord, let vs intreat your grace</l>
+               <l>To purge your ſtomacke of this Melancoly,</l>
+               <l>Taint not your princely mind with griefe my Lord,</l>
+               <l>But pardon and forgiue theſe louers faults,</l>
+               <l>That kneeling craue your gratious fauor here.</l>
+            </sp>
+            <sp>
+               <speaker>Emel.</speaker>
+               <l>Great prince of <hi>Ceſtus,</hi> let a womans words</l>
+               <l>Intreat a pardon in your Lordly breſt,</l>
+               <l>Both for your princely ſon, and vs my Lord.</l>
+            </sp>
+            <sp>
+               <speaker>Duke</speaker>
+               <l>
+                  <hi>Aurelius</hi> ſtand vp, I pardon thee,</l>
+               <l>
+                  <pb facs="tcp:11521:23"/>
+I ſee that vertue wil haue enemies,</l>
+               <l>And fortune wil be thwarting honor ſtil.</l>
+               <l>And you faire virgin too, I am content</l>
+               <l>To accept you for my daughter ſince tis don,</l>
+               <l>And ſee you princely vſde in <hi>Ceſtus</hi> court.</l>
+            </sp>
+            <sp>
+               <speaker>Phyle.</speaker>
+               <l>Thanks good my Lord, and I no longer liue,</l>
+               <l>Then I obey and honor you in al.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon</speaker>
+               <l>Let me giue thanks vnto your royall grace,</l>
+               <l>For this great honor done to mee and mine,</l>
+               <l>And if your grace wil walke vnto my houſe,</l>
+               <l>I wil in humbleſt maner I can, ſhew</l>
+               <l>The eternall ſeruice I do owe your grace.</l>
+            </sp>
+            <sp>
+               <speaker>Duke.</speaker>
+               <l>Thankes good <hi>Alfonſo:</hi> but I came alone,</l>
+               <l>And not as did beſeeme the <hi>Ceſtian</hi> Duke,</l>
+               <l>Nor would I haue it knowne within the towne,</l>
+               <l>That I was here, and thus, without my traine:</l>
+               <l>But as I came alone, ſo wil I go,</l>
+               <l>And leaue my ſon to ſolemniſe his feaſt,</l>
+               <l>And ere't be long Ile come againe to you,</l>
+               <l>And do him honor as beſeemes the ſon</l>
+               <l>Of mighty <hi>Ierobel</hi> the <hi>Ceſtian</hi> Duke,</l>
+               <l>Til when ile leaue you, farewel <hi>Aurelius.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Not yet my Lord, ile bring you to your ſhip.</l>
+            </sp>
+            <stage>Exeunt Omnes.</stage>
+            <stage>
+               <hi>Slie</hi> ſleepes.</stage>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Who's within there? come hither ſirs, my Lords</l>
+               <l>Aſleepe againe, go take him eaſily vp,</l>
+               <l>And put him in his own apparel againe,</l>
+               <l>And lay him in the place where we did find him,</l>
+               <l>Iuſt vnderneath the alehouſe ſide below,</l>
+               <l>But ſee you wake him not in any caſe.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>It ſhalbe done my Lord, come help to beare him
+hence.</l>
+            </sp>
+            <stage>Exit</stage>
+            <pb facs="tcp:11521:24"/>
+            <stage>
+               <hi>Enter</hi> Ferando Aurelius and Polidor
+and his boy, and Valeria and Sander.</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Come Gentlemen, nowe that ſupper's done,</l>
+               <l>How ſhall we ſpend the time til we go to bed?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Faith if you wil, in trial of our wiues</l>
+               <l>Who wil come ſooneſt at their husbands cal.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Nay then <hi>Ferando</hi> he muſt needes ſit out,</l>
+               <l>For he may cal I thinke til he be weary,</l>
+               <l>Before his wife wil come before ſhe liſt.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Tis wel for you that haue ſuch gentle wiues,</l>
+               <l>Yet in this trial wil I not ſit out,</l>
+               <l>It may be <hi>Kate</hi> wil come as ſoone as I do ſend.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>My wife comes ſooneſt for a hundred pound.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>I take it. Ile lay as much to yours,</l>
+               <l>That my wife comes as ſoone as I do ſend.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>How now <hi>Ferando,</hi> you dare not lay belike.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Why true, I dare not lay indeed:</l>
+               <l>But how, ſo little mony on ſo ſure a thing,</l>
+               <l>A hundred pound: why I haue laid as much</l>
+               <l>Vpon my Dog, in running at a Deere,</l>
+               <l>She ſhal not come ſo far for ſuch a trifle,</l>
+               <l>But wil you lay fiue hundred markes with me,</l>
+               <l>And whoſe wife ſooneſt comes when he doth cal,</l>
+               <l>And ſhewes her ſelfe moſt louing vnto him,</l>
+               <l>Let him inioy the wager I haue laid,</l>
+               <l>Now what ſay you? dare you aduenture thus?</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>I, were it a thouſand pounds I durſt preſume</l>
+               <l>On my wiues loue: and I wil lay with thee.</l>
+            </sp>
+            <stage>Enter <hi>Alfonſo.</hi>
+            </stage>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>How now ſons, what in conference ſo hard,</l>
+               <l>May I without offence, know where about?</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:24"/>
+               <speaker>Aurel.</speaker>
+               <l>Faith father a waighty cauſe, about our wiues,</l>
+               <l>Fiue hundred markes already we haue laid,</l>
+               <l>And he whoſe wife doth ſhew moſt loue to him,</l>
+               <l>He muſt inioy the wager to himſelfe.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Why then <hi>Ferando</hi> he is ſure to loſe it,</l>
+               <l>I promiſe thee ſon, thy wife wil hardly come,</l>
+               <l>And therefore I would not wiſh thee lay ſo much.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Tuſh father, were it ten times more</l>
+               <l>I durſt aduenture on my louely <hi>Kate,</hi>
+               </l>
+               <l>But if I loſe ile pay, and ſo ſhal you.</l>
+            </sp>
+            <sp>
+               <speaker>Aur.</speaker>
+               <l>Vpon mine honor, if I loſe Ile pay.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>And ſo wil I vpon my faith I vow.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Then ſit we downe and let vs ſend for them:</l>
+            </sp>
+            <sp>
+               <speaker>Alf.</speaker>
+               <l>I promiſe thee <hi>Ferando</hi> I am afraid thou wilt loſe.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Ile ſend for my wife firſt, <hi>Valeria,</hi>
+               </l>
+               <l>Go bid your miſtris come to me.</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>I wil my Lord.</l>
+            </sp>
+            <stage>Exit Valeria.</stage>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Now for my hundred pound,</l>
+               <l>Would any lay ten hundred more with me</l>
+               <l>I know I ſhould obtaine it by her loue.</l>
+            </sp>
+            <sp>
+               <speaker>Fera.</speaker>
+               <l>I pray God you haue not laid too much already.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Truſt me <hi>Ferando</hi> I am ſure you haue,</l>
+               <l>For you I dare preſume haue loſt it al.</l>
+               <stage>Enter <hi>Valeria</hi> againe.</stage>
+               <l>Now ſir ha, what ſaies your miſtris?</l>
+            </sp>
+            <sp>
+               <speaker>Val.</speaker>
+               <l>She is ſomthing buſie but ſheele come anone.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Why ſo, did not I tel you this before,</l>
+               <l>She was buſie and cannot come.</l>
+            </sp>
+            <sp>
+               <speaker>Aur.</speaker>
+               <l>I pray God your wife ſend you ſo good an an<g ref="char:EOLhyphen"/>ſwere</l>
+               <l>She may be buſie, yet ſhe ſaies ſheele come.</l>
+            </sp>
+            <sp>
+               <speaker>Fera.</speaker>
+               <l>Wel, wel: <hi>Polidor,</hi> ſend you for your wife.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:25"/>
+               <speaker>Poli.</speaker>
+               <l>Agreed, <hi>Boy</hi> deſire your miſtris to come hither.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>I wil ſir.</l>
+            </sp>
+            <stage>exit Boy</stage>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>I, ſo, ſo, he deſires hir to come.</l>
+            </sp>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>
+                  <hi>Polidor,</hi> I dare preſume for thee,</l>
+               <l>I thinke thy wife wil not denie to come,</l>
+               <l>And I do maruel much <hi>Aurelius,</hi>
+               </l>
+               <l>That your wife came not when you ſent for her.</l>
+            </sp>
+            <stage>Enter the <hi>Boy</hi> againe.</stage>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Now, wher's your miſtris?</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>She bade mee tell you that ſhee will not come,</l>
+               <l>And you haue any buſineſſe, you muſt come to hir.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>O monſtrous intollerable preſumption,</l>
+               <l>Worſe then a blaſing ſtar, or ſnow at Midſummer,</l>
+               <l>Earthquakes, or any thing vnſeaſonable,</l>
+               <l>She will not come: but he muſt come to hir.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Wel ſir, I pray you lets heare what</l>
+               <l>Anſwere your wife will make.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>ſirha, command your miſtris to come</l>
+               <l>To me preſently.</l>
+            </sp>
+            <stage>Exit Sander</stage>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>I thinke my wife for all ſhe did not come,</l>
+               <l>Wil proue moſt kind, for now I haue no feare,</l>
+               <l>For I am ſure <hi>Ferandos</hi> wife, ſhe will not come.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>The more's the pitty, then I muſt loſe.</l>
+               <stage>Enter <hi>Kate</hi> and <hi>Sander</hi>
+               </stage>
+               <l>But I haue won, for ſee where <hi>Kate</hi> doth come.</l>
+            </sp>
+            <sp>
+               <speaker>Kate</speaker>
+               <l>Sweete husband did you ſend for me.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>I did my loue, I ſent for thee to come,</l>
+               <l>Come hither <hi>Kate,</hi> whats that vpon thy head?</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Nothing husband but my cap I thinke.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Pul it off and tread it vnder thy feet,</l>
+               <l>Tis fooliſh, I wil not haue thee weare it.</l>
+               <l>She takes off her cap and treads on it.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:25"/>
+               <speaker>Pol.</speaker>
+               <l>Oh wonderful metamorphoſis.</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>This is a wonder, almoſt paſt beleefe.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>This is a token of her true loue to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And yet Ile try her further you ſhall ſee,</l>
+               <l>Come hither <hi>Kate,</hi> where are thy ſiſters?</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>They be ſitting in the bridal chamber.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Fetch them hither, and if they wil not come,</l>
+               <l>Bring them perforce and make them come with thee.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>I will.</l>
+            </sp>
+            <sp>
+               <speaker>Alſon.</speaker>
+               <l>I promiſe thee <hi>Ferando</hi> I would haue ſworne,</l>
+               <l>Thy wife would ne'r haue done ſo much for thee.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>But you ſhal ſee ſhe wil do more then this,</l>
+               <l>For ſee where ſhe brings her ſiſters forth by force.</l>
+            </sp>
+            <stage>Enter <hi>Kate</hi> thruſting <hi>Phylema</hi> and <hi>Emelia</hi> before her,
+and makes them come vnto their husbands cal.</stage>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>See husband, I haue brought them both.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Tis wel done <hi>Kate.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Eme.</speaker>
+               <l>I ſure, and like a louing peece, your worthy</l>
+               <l>To haue great praiſe for this attempt.</l>
+            </sp>
+            <sp>
+               <speaker>Phyle.</speaker>
+               <l>I for making a foole of her ſelfe and vs,</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Beſhrew thee <hi>Phylema</hi> thou haſt</l>
+               <l>Loſt me a hundred pound to night,</l>
+               <l>For I did lay that thou wouldſt firſt haue come.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>But thou <hi>Emelia</hi> haſt loſt me a great deale more.</l>
+            </sp>
+            <sp>
+               <speaker>Eme.</speaker>
+               <l>You might haue kept it better then,</l>
+               <l>Who bade you lay?</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Now louely <hi>Kate,</hi> before their husbands here,</l>
+               <l>I prethee tel vnto theſe head-ſtrong women,</l>
+               <l>What dewty wiues do owe vnto their Husbands.</l>
+            </sp>
+            <sp>
+               <speaker>Kate.</speaker>
+               <l>Then you that liue thus by your pampered wils,</l>
+               <l>Now liſt to me, and marke what I ſhal ſay,</l>
+               <l>Th'eternal power that with his only breath,</l>
+               <l>
+                  <pb facs="tcp:11521:26"/>
+Shall cauſe this end, and this beginning frame,</l>
+               <l>Not in time, nor before time, but with time confus'd,</l>
+               <l>For al the courſe of yeares, of ages, months,</l>
+               <l>Of ſeaſons temperate, of dayes and houres,</l>
+               <l>Are tun'd and ſtopt by meaſure of his hand,</l>
+               <l>The firſt world was, a forme without a forme,</l>
+               <l>A heape confus'd, a mixture al deform'd,</l>
+               <l>A gulfe of gulfes, a body bodileſſe.</l>
+               <l>Where al the elements were orderleſſe,</l>
+               <l>Before the great Commander of the world.</l>
+               <l>The King of kings, the glorious God of heauen,</l>
+               <l>Who in ſix daies did frame his heauenly worke,</l>
+               <l>And made al things to ſtand in perfect courſe,</l>
+               <l>Then to his image he did make a man</l>
+               <l>Olde <hi>Adam,</hi> and from his ſide aſleepe</l>
+               <l>A rib was <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, of which the Lord did make</l>
+               <l>The woe of man ſo termd by <hi>Adam</hi> then,</l>
+               <l>Woman, for that by her <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſinne to vs,</l>
+               <l>And for her ſinne was <hi>Adam</hi> doom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to die.</l>
+               <l>As <hi>Sara</hi> to her husband ſo ſhould we,</l>
+               <l>Obey them, loue them, keepe and nouriſh them,</l>
+               <l>If they by any meanes do want our helpes,</l>
+               <l>Laying our hands vnder their feet to tread,</l>
+               <l>If that by that we might procure their eaſe,</l>
+               <l>And for a preſident Ile firſt begin;</l>
+               <l>And lay my hand vnder my husbands feet.</l>
+               <l>She laies her hand vnder her husbands feet.</l>
+            </sp>
+            <sp>
+               <speaker>Feran.</speaker>
+               <l>Inough ſweet, the wager thou haſt won,</l>
+               <l>And they I am ſure cannot deny the ſame.</l>
+            </sp>
+            <sp>
+               <speaker>Alfo.</speaker>
+               <l>I <hi>Ferando,</hi> the wager thou haſt won,</l>
+               <l>And for to ſhew thee how I am pleaſd in this,</l>
+               <l>A hundred pounds I freely giue thee more.</l>
+               <l>Another dowry for another daughter,</l>
+               <l>For ſhe is not the ſame ſhe was before.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:26"/>
+               <speaker>Feran.</speaker>
+               <l>Thanks, ſweet father, gentlemen, good night,</l>
+               <l>For <hi>Kate</hi> and I will leaue you for to night,</l>
+               <l>Tis <hi>Kate</hi> and I am wed, and you are ſped:</l>
+               <l>And ſo farewell, for we will to our beds.</l>
+            </sp>
+            <stage>
+               <hi>Exit</hi> Ferando, Kate, <hi>and</hi> Sander.</stage>
+            <sp>
+               <speaker>Alfon.</speaker>
+               <l>Now Aurelius, what ſay you to this?</l>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <l>Beleeue me father, I rejoyce to ſee</l>
+               <l>Ferando and his wife ſo louingly agree.</l>
+            </sp>
+            <stage>
+               <hi>Exeunt</hi> Aurelius, <hi>and</hi> Philema, <hi>and</hi> Alfonſo,
+<hi>and</hi> Valeria.</stage>
+            <sp>
+               <speaker>Emel.</speaker>
+               <l>How now Polidor? in a dumpe? what ſaiſt thou man?</l>
+            </sp>
+            <sp>
+               <speaker>Phi.</speaker>
+               <l>I ſay thou arte a ſhrew.</l>
+            </sp>
+            <sp>
+               <speaker>Emel:</speaker>
+               <l>That's better than a ſheepe.</l>
+            </sp>
+            <sp>
+               <speaker>Pol.</speaker>
+               <l>Well, ſince tis done, come, lets goe.</l>
+            </sp>
+            <stage>
+               <hi>Exeunt</hi> Polidor <hi>and</hi> Emelia<g ref="char:punc">▪</g>
+            </stage>
+            <stage>Then enter two bearing of <hi>She</hi> in his owne apparrell
+againe, and leaues him where they found him, and
+then goes out: then enters the Tapſter.</stage>
+            <sp>
+               <speaker>Tapſter</speaker>
+               <l>Now that the darkeſome night is ouerpaſt,</l>
+               <l>And dawning day appeares in criſtall skie,</l>
+               <l>Now muſt I haſte abroade: but ſoft, who's this?</l>
+               <l>What <hi>Slie,</hi> O wondrous! hath he laine heere all night?</l>
+               <l>Ile wake him, I thinke hee's ſtarued by this,</l>
+               <l>But that his belly was ſo ſtufft with ale:</l>
+               <l>What now <hi>Slie,</hi> awake for ſhame.</l>
+            </sp>
+            <sp>
+               <speaker>Slie</speaker>
+               <p>
+                  <hi>Sim,</hi> giues ſome more wine, what all the Players
+gone? am not I a Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Tapſter</speaker>
+               <p>A Lord with a murrin: come, art thou drun<g ref="char:EOLhyphen"/>ken
+ſtill?</p>
+            </sp>
+            <sp>
+               <speaker>Slie</speaker>
+               <p>Who's this? <hi>Tapſter,</hi> O Lord ſirrha, I haue had the
+braueſt dreame to night, that euer thou heardeſt in all
+thy life.</p>
+            </sp>
+            <sp>
+               <speaker>Tapſter</speaker>
+               <p>Yea mary, but you had beſt get you home,
+For your wife will courſe you for dreaming heere to
+night.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:11521:27"/>
+               <speaker>Slie.</speaker>
+               <l>Wil ſhe? I know now how to tame a ſhrew,</l>
+               <l>I dreamt vpon it all this night till now,</l>
+               <l>And thou haſt wakt me out of the beſt dreame</l>
+               <l>That euer I had in my life: but Ile to my wife preſently,
+and tame her too if ſhe anger me.</l>
+            </sp>
+            <sp>
+               <speaker>Tapſter</speaker>
+               <l>Nay tarry <hi>Slie,</hi> for Ile goe home with thee,</l>
+               <l>And heare the reſt that thou haſt dreamt to night.</l>
+            </sp>
+            <stage>Exeunt omnes.</stage>
+            <closer>
+               <signed>G. STEEVENS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:11521:27"/>
+         </div>
+      </body>
+   </text>
+</TEI>

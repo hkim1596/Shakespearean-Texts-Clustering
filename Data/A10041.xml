@@ -1,0 +1,2747 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentable tragedy mixed ful of pleasant mirth, conteyning the life of Cambises king of Percia from the beginning of his kingdome vnto his death, his one good deed of execution, after that many wicked deeds and tirannous murders, committed by and through him, and last of all, his odious death by Gods iustice appointed. Doon in such order as foloweth. By Thomas Preston. The diuision of the partes. ...</title>
+            <title>Cambyses, King of Persia</title>
+            <author>Preston, Thomas, 1537-1598.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A10041</idno>
+            <idno type="STC">STC 20287</idno>
+            <idno type="STC">ESTC S110547</idno>
+            <idno type="EEBO-CITATION">99846069</idno>
+            <idno type="PROQUEST">99846069</idno>
+            <idno type="VID">11007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A10041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 349:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentable tragedy mixed ful of pleasant mirth, conteyning the life of Cambises king of Percia from the beginning of his kingdome vnto his death, his one good deed of execution, after that many wicked deeds and tirannous murders, committed by and through him, and last of all, his odious death by Gods iustice appointed. Doon in such order as foloweth. By Thomas Preston. The diuision of the partes. ...</title>
+                  <title>Cambyses, King of Persia</title>
+                  <author>Preston, Thomas, 1537-1598.</author>
+               </titleStmt>
+               <extent>[46] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Allde,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[1570?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Printer's name and place of publication from colophon; publication date conjectured by STC.</note>
+                  <note>Signatures: A-F⁴ (-F4).</note>
+                  <note>Running title reads: A comedy of King Cambises.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cambyses --  II, --  King of Persia, d. 522 B.C. --  Drama --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11007:1"/>
+            <pb facs="tcp:11007:1"/>
+            <p>
+               <hi>A lamentable tragedy <hi>mixed ful of pleaſant mirth, conteyning the life of CAMBISES</hi> king of <hi>PERCIA,</hi> from the beginning <hi>of his kingdome vnto his death, his one good deed of</hi> ex<g ref="char:EOLhyphen"/>ecution, after that many wicked deeds</hi> and tirannous murders, committed by and <hi>through him, and laſt of all, his odious death by Gods Iuſtice appoin<g ref="char:EOLhyphen"/>ted. Doon in ſuch order as foloweth. By <hi>Thomas Preston.</hi>
+               </hi>
+            </p>
+            <div type="dramatis_personae">
+               <p>
+                  <g ref="char:leaf">❧</g> 
+                  <hi>The diuiſion of the partes.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Councel.</cell>
+                        <cell rows="6">
+                           <hi>For one man.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Huf.</cell>
+                     </row>
+                     <row>
+                        <cell>Praxaſpes.</cell>
+                     </row>
+                     <row>
+                        <cell>Murder.</cell>
+                     </row>
+                     <row>
+                        <cell>Lob,</cell>
+                     </row>
+                     <row>
+                        <cell>the 3. Lord.</cell>
+                     </row>
+                     <row>
+                        <cell>Lord.</cell>
+                        <cell rows="6">
+                           <hi>For one man.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Ruf,</cell>
+                     </row>
+                     <row>
+                        <cell>Commons cry,</cell>
+                     </row>
+                     <row>
+                        <cell>Co<g ref="char:cmbAbbrStroke">̄</g>mo<g ref="char:cmbAbbrStroke">̄</g>s co<g ref="char:cmbAbbrStroke">̄</g>plaint</cell>
+                     </row>
+                     <row>
+                        <cell>Lord ſmirdis.</cell>
+                     </row>
+                     <row>
+                        <cell>Venus.</cell>
+                     </row>
+                     <row>
+                        <cell>Knight,</cell>
+                        <cell rows="7">
+                           <hi>For one man.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Snuf.</cell>
+                     </row>
+                     <row>
+                        <cell>Small habilitie.</cell>
+                     </row>
+                     <row>
+                        <cell>Proof.</cell>
+                     </row>
+                     <row>
+                        <cell>Execution.</cell>
+                     </row>
+                     <row>
+                        <cell>Attendance.</cell>
+                     </row>
+                     <row>
+                        <cell>ſecond Lord,</cell>
+                     </row>
+                     <row>
+                        <cell>Cambiſes.</cell>
+                        <cell rows="2">
+                           <hi>For one man.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Epilogus.</cell>
+                     </row>
+                     <row>
+                        <cell>Prologue.</cell>
+                        <cell rows="7">
+                           <hi>For one man.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Siſamnes.</cell>
+                     </row>
+                     <row>
+                        <cell>Diligence.</cell>
+                     </row>
+                     <row>
+                        <cell>Crueltie.</cell>
+                     </row>
+                     <row>
+                        <cell>Hob.</cell>
+                     </row>
+                     <row>
+                        <cell>Preparatio<g ref="char:cmbAbbrStroke">̄</g>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>the 1. Lord.</cell>
+                     </row>
+                     <row>
+                        <cell>Ambidexter </cell>
+                        <cell rows="2">
+                           <hi>For one man.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Triall.</cell>
+                     </row>
+                     <row>
+                        <cell>Meretrix.</cell>
+                        <cell rows="6">
+                           <hi>For one man.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Shame.</cell>
+                     </row>
+                     <row>
+                        <cell>Otian.</cell>
+                     </row>
+                     <row>
+                        <cell>Mother.</cell>
+                     </row>
+                     <row>
+                        <cell>Lady.</cell>
+                     </row>
+                     <row>
+                        <cell>Queene.</cell>
+                     </row>
+                     <row>
+                        <cell>Yung childe</cell>
+                        <cell rows="2">
+                           <hi>For one man</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Cupid.</cell>
+                     </row>
+                  </table> 
+               </p>
+            </div>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:11007:2"/>
+            <pb facs="tcp:11007:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> The Prologue Entreth.</head>
+            <l>
+               <hi>AGathon</hi> he whoſe counſail wiſe, to princes wele exte<g ref="char:cmbAbbrStroke">̄</g>ded:</l>
+            <l>by good aduice vnto a Prince iij. things he hath co<g ref="char:cmbAbbrStroke">̄</g>mended</l>
+            <l>Firſt, is that he hath gouernment and ruleth ouer men:</l>
+            <l>Secondly, to rule with lawes, eke Iuſtice (ſaith he) then.</l>
+            <l>Thirdly, that he muſt wel conceiue, he may not alwaies reign:</l>
+            <l>Lo, thus the rule vnto a Prince, <hi>Agathon</hi> ſquared plaine.</l>
+            <l>
+               <hi>Tully</hi> the wiſe whoſe ſapience, in volumes great dooth tel:</l>
+            <l>Who in wiſdome, in that time did many men excel.</l>
+            <l>A Prince (ſaith he) is of him ſelf, a plain and ſpeaking law:</l>
+            <l>The law, a Schoole maiſter deuine, this by his rule I draw.</l>
+            <l>The ſage and witty <hi>Seneca,</hi> his woords therto did frame:</l>
+            <l>The honeſt exerciſe of Kings, men wil inſue the ſame.</l>
+            <l>But contrary wiſe if that a King, abuſe his kingly ſeat:</l>
+            <l>His ignomy and bitter ſhame, in fine ſhalbe more great.</l>
+            <l>¶ In <hi>Percia</hi> there reignd a king, who <hi>Cirus</hi> hight by name:</l>
+            <l>Who did deſerue as I doo read, the laſting blaſt of Fame.</l>
+            <l>But he, when ſiſters three had wrought, to ſhere his vitall thred:</l>
+            <l>As heire due to take the crown, <hi>Cambices</hi> did procéed.</l>
+            <l>He in his youth was trained vp, by trace of vertues lore:</l>
+            <l>Yet (béeing king) did clene forget, his perfect race before.</l>
+            <l>Then cleuing more vnto his wil ſuch vice did immitate:</l>
+            <l>As one of <hi>Icarus</hi> his kinde, for warning then did hate.</l>
+            <l>Thinking that none could him diſmay, ne none his fact? could ſée</l>
+            <l>Yet at the laſt a fall he took, like <hi>Icarus</hi> to bée.</l>
+            <l>Els as the fiſh which oft had take, the pleaſant bait from hook:</l>
+            <l>In ſafe did ſpring &amp; pearce the ſtremes whe<g ref="char:cmbAbbrStroke">̄</g> fiſher faſt did looke.</l>
+            <l>To hoiſt vp from the watry waues, vnto the dryed land:</l>
+            <l>Then ſcaept, at laſt by ſuttle baight, come to the fiſhers hand.</l>
+            <l>Ene ſo this king <hi>Cambices</hi> héer, when he had wrought his wil:</l>
+            <l>Taking delight the Innocent, his giltleſſe blood to ſpil.</l>
+            <l>Then mightie <hi>Ioue</hi> would not permit, to procé offence:</l>
+            <l>But what meaſure y<hi rend="sup">e</hi> king did meat, y<hi rend="sup">e</hi> ſame did <hi>Ioue</hi> co<g ref="char:cmbAbbrStroke">̄</g>mence.</l>
+            <l>To bring to end w<hi rend="sup">t</hi> ſhame his race, two yéeres he did not reign:</l>
+            <l>His crueltie we wil dilate, and make the matter plain.</l>
+            <l>Crauing that this may ſuffiſe now, your patience to win:</l>
+            <l>I take my way, beholde I ſee, the players comming in.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:11007:3"/>
+            <head>
+               <hi>A Commedy of</hi> Firſt enter Cambiſes the King, Knight and <hi>Councellor.</hi>
+            </head>
+            <sp>
+               <speaker>Cambiſes.</speaker>
+               <l>MY Counſaile graue &amp; ſapient with lords of legal train:</l>
+               <l>Attentiue eares towards bend &amp; mark what ſhalbe ſain.</l>
+               <l>So you likewiſe my valia<g ref="char:cmbAbbrStroke">̄</g>t knight whoſe ma<g ref="char:cmbAbbrStroke">̄</g>ly acts doth fly</l>
+               <l>By brute of fame y<hi rend="sup">e</hi> ſounding trump dooth perſe y<hi rend="sup">e</hi> azure ſky.</l>
+               <l>My ſapient woords I ſay perpend and ſo your ſkil delate:</l>
+               <l>You knowe that <hi>Mors</hi> vanquiſhed hath <hi>Cirus</hi> that king of ſtate</l>
+               <l>And I by due inheritance poſſeſſe that Princely crown:</l>
+               <l>Ruling by ſwoord of mightie force in place of great renown.</l>
+               <l>You knowe and often haue heard tel my fathers worthy facts.</l>
+               <l>A manly <hi>Marſis</hi> hart he bare appéering by his acts.</l>
+               <l>And what? ſhall I to ground let fall my fathers golden praiſe?</l>
+               <l>No, no, I meane for to attempt, this fame more large to raiſe,</l>
+               <l>In that that I his ſonne ſuccéed his kingly ſeat as due:</l>
+               <l>Extend your councel vnto me in that I aſke of you.</l>
+               <l>I am the king of <hi>Perſia,</hi> a large and fertil ſoil:</l>
+               <l>The <hi>Egiptians</hi> againſt vs repunge, as verlets ſlaue and vile.</l>
+               <l>Therfore I meane w<hi rend="sup">t</hi> 
+                  <hi>Marſis</hi> hart, with warres the<g ref="char:cmbAbbrStroke">̄</g> to frequent</l>
+               <l>Them to ſubdue as captiues mine this is my harts intent.</l>
+               <l>So ſhall I win honors delight, and praiſe of me ſhall go:</l>
+               <l>My Councel ſpeak, and Lordings eke, is it not beſt doo ſo?</l>
+            </sp>
+            <sp>
+               <speaker>Councel.</speaker>
+               <l>Oh puſant king, your blifful woordꝭ, deſerues abundant praiſe</l>
+               <l>That you in this doo go about, your fathers ſame to raiſe.</l>
+               <l>Oh blifful day that king ſo yung, ſuch profit ſhould conceiue:</l>
+               <l>His fathers praiſe &amp; his to win, from thoſe that would deceiue.</l>
+               <l>Sure my true and ſouerain king, I fall before you preſt:</l>
+               <l>Anſwere to giue as duty mine, in that your grace requeſt.</l>
+               <l>If that your hart adicted be, the <hi>Egiptians</hi> to conuince:</l>
+               <l>Through <hi>Marſis</hi> and the co<g ref="char:cmbAbbrStroke">̄</g>queſt wun, then déed of happy prince</l>
+               <l>Shall pearce the ſkyes vnto the throne of the ſupernall ſeat:</l>
+               <l>And merit there a iuſt rewarde, of <hi>Iupiter</hi> the great.</l>
+               <l>But then your grace muſt not turn back, from this pretenced wil</l>
+               <l>For to procéed in vertuous life, imploy indeuour ſtil.</l>
+               <l>Extinguiſh vice, and in that cup, to drink haue no delight.</l>
+               <l>To martiall feats and kingly ſporte, fix all your whole delight.</l>
+            </sp>
+            <pb facs="tcp:11007:3"/>
+            <sp>
+               <speaker>King.</speaker>
+               <l>My Councel graue a thouſand thanks, with hart I doo you ren<g ref="char:EOLhyphen"/>der</l>
+               <l>That you my caſe ſo proſperouſe, intierly doo tender.</l>
+               <l>I wil not ſwarue fro<g ref="char:cmbAbbrStroke">̄</g> thoſe your ſteps, wherto you wold me trau<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>But now my Lord &amp; valia<g ref="char:cmbAbbrStroke">̄</g>t knight, w<hi rend="sup">t</hi> woordꝭ giue anſwer plain</l>
+               <l>Are you content with me to go, the <hi>Marſis</hi> games to try?</l>
+            </sp>
+            <sp>
+               <speaker>Lord,</speaker>
+               <p>Yea péerleſſe Prince to aid your grace, my ſelf wil liue and dye.</p>
+            </sp>
+            <sp>
+               <speaker>Knight.</speaker>
+               <l>And I for my habilitie, for feare wil not turn back:</l>
+               <l>But as the ſhip againſt the rocks, ſuſtain and bide the wrack.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Oh willing harts, a thouſand thanks I render vnto you:</l>
+               <l>Strik vp your drummes w<hi rend="sup">t</hi> courage great, we wil march foorth euen now.</l>
+            </sp>
+            <sp>
+               <speaker>Councel.</speaker>
+               <l>Permit (O king) few woords to héer, my duty ſerues no leſſe:</l>
+               <l>Therfore giue leaue to councel thine, his minde for to expreſſe.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Speake on my Councel what it be, you ſhall haue ſauour mine</p>
+            </sp>
+            <sp>
+               <speaker>Councel.</speaker>
+               <l>Then wil I ſpeake vnto your grace, as duty dooth me binde.</l>
+               <l>Your grace dooth meane for to attempt of war the manly art:</l>
+               <l>Your grace therin may bap receiue with others for your parte.</l>
+               <l>The dent of death in thoſe affaires, all perſons are alike:</l>
+               <l>The hart couragious often times, his detryment dooth ſéek.</l>
+               <l>Its beſt therfore for to permit, a Ruler of your land:</l>
+               <l>To ſit and iudge with equitie, when things of right are ſcand.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>My grace dooth yéeld to this your talk, tobe thus now it ſhall:</l>
+               <l>My Knight therfore prepare your ſelf, Siſamnes for to call.</l>
+               <l>A Iudge he is of prudent ſkil, euen he ſhall beare the ſway:</l>
+               <l>In abſence mine, when from the land I doo departe my way.</l>
+            </sp>
+            <sp>
+               <speaker>knight.</speaker>
+               <l>Your Knight befor your grace eue<g ref="char:cmbAbbrStroke">̄</g> héer, him ſelf hath redy preſt:</l>
+               <l>With willing hart for to fulfil as your grace made requeſt.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Councel.</speaker>
+               <l>Pleaſeth your grace I iudge of him to be a man right fit:</l>
+               <l>For he is learned in the Law hauing the gift of wit.</l>
+               <pb facs="tcp:11007:4"/>
+               <l>In your graces preſinct, I doo not view for it a méeter man:</l>
+               <l>His learning is of good effect. bring proof therof I can.</l>
+               <l>I doo not knowe what is his life, his conſcience hid from me:</l>
+               <l>I dout not but the feare of God, before his eyes to be.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Reporte declares, he is a man that to him ſelf is nye:</l>
+               <l>One that fa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ureth much the world, and to much ſets therby.</l>
+               <l>But this I ſay of certaintie, if he your grace ſucceed:</l>
+               <l>In your abſence but for a while, he wil be warnd indéed:</l>
+               <l>No iniuſtice for to frequent, no partiall Judge to prooue:</l>
+               <l>But rule all things with equitie, to win your graces looue.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Of that he ſhall a warning haue, my heaſts for to obay:</l>
+               <l>Great puniſhment for his offence againſt him wil I lay.</l>
+            </sp>
+            <sp>
+               <speaker>Councel.</speaker>
+               <p>Beholde I ſée him now agreſſe and enter into place:</p>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <l>Oh puiſant Prince &amp; mightie king, y<hi rend="sup">e</hi> gods preſerue your grace.</l>
+               <l>Your graces meſſage came to me, your wil purporting foorth:</l>
+               <l>With grateful minde I it receiued, according to mine othe.</l>
+               <l>Erecting then myſelf with ſpéed, before your graces eyes:</l>
+               <l>The tenor of your Princely wil, from you for to agniſe.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>
+                  <hi>Siſamnes,</hi> this the whole effect, the which for you I ſent:</l>
+               <l>Our minde it is to eleuate, you to great preferment<g ref="char:punc">▪</g>
+               </l>
+               <l>My grace and gratious cou<g ref="char:cmbAbbrStroke">̄</g>cel eke hath choſe you for this cauſe:</l>
+               <l>In iudgment you doo office beare, which haue the ſkil in lawes,</l>
+               <l>We think that you accordingly, by Iuſtice rule wil deale:</l>
+               <l>that for offence none ſhall haue cauſe (of wro<g ref="char:cmbAbbrStroke">̄</g>g) you to appeale.</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <l>Abundant thanks vnto your grace for this benignitie:</l>
+               <l>To you his councel in like caſe, with Lords of clemency.</l>
+               <l>What ſo your grace to me permits, if I therin offend:</l>
+               <l>Such erecution then commence, and vſe it to this end.</l>
+               <l>That all other (by that my déed) example ſo may take:</l>
+               <l>To admoniſh them to flée the ſame, by fear it may them make.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Then according to your woords, if you therin offend:</l>
+               <pb facs="tcp:11007:4"/>
+               <l>I aſſure you euen from my breſt, correction ſhall extend,</l>
+               <l>From <hi>Perſra</hi> I meane to go into the <hi>Egipt</hi> land:</l>
+               <l>Them to conuince by force of armes, and win the vpper hand.</l>
+               <l>While I therfore abſent ſhalbe, I doo you ful permit:</l>
+               <l>As gouernour in this my right, in that eſtate to ſit.</l>
+               <l>For to detect and eke correct, thoſe that abuſe my grace:</l>
+               <l>This is the totall of my wil, giue anſwere in this caſe.</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <l>Vnworthy much (O prince) am I, and for this gift vnfit:</l>
+               <l>But ſith that it hath pleaſd your grace, that I in it muſt ſit.</l>
+               <l>I doo auouch vnto my death, according to my ſkil:</l>
+               <l>With equitie for to obſerue, your graces minde and wil.</l>
+               <l>And nought from it to ſwarue indéed, but ſincerely to ſtay:</l>
+               <l>Els let me taſte the penaltie, as I before did ſay.</l>
+            </sp>
+            <sp>
+               <speaker>King,</speaker>
+               <p>Wel then of this authoritie, I giue you you ful poſſeſſion:</p>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <p>And I wil it fulfil alſo, as I haue made profeſſion.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>By councel, then let vs departe, a finall ſtay to make:</l>
+               <l>To <hi>Egit</hi> land now foorth with ſpéed, my voiage I wil take.</l>
+               <l>Strike vp your dru<g ref="char:cmbAbbrStroke">̄</g>mes vs to reioyce, to hear the warlike ſound</l>
+               <l>Stay you héer <hi>Siſamnes</hi> Iudge, and looke wel to your bound.</l>
+            </sp>
+            <stage>¶ <hi>Exeunt King, Lord and Councel.</hi>
+            </stage>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <l>Euen now the King hath me extolde, and ſet me vp aloft.</l>
+               <l>Now may I were the brodered garde and lye in down bed ſoft.</l>
+               <l>Now may I purchaſe houſe and land, and haue all at my wil:</l>
+               <l>Now may I build a princely place, my minde for to fulfil.</l>
+               <l>Now may I abrogate the Law, as I ſhall think it good:</l>
+               <l>If any one me now offend, I may demaund his blood.</l>
+               <l>According to the Prouerb olde, my mouth I wil vp make:</l>
+               <l>Now it dooth lye all in my hand, to leaue or els to take.</l>
+               <l>To deale with Iuſtice to my bound, and ſo to liue in hope:</l>
+               <l>But ofte<g ref="char:cmbAbbrStroke">̄</g>times the birds be gone, while one for neſt dooth grope.</l>
+               <l>Doo wel or il, I dare auouch, ſome euil on me wil ſpeake:</l>
+               <l>No truely yet I doo not meane, the kings precepte to breake,</l>
+               <l>To place I meane for to return my duty to fulfil.</l>
+               <stage>Exit.</stage>
+               <pb facs="tcp:11007:5"/>
+               <stage>¶ <hi>Enter the Vice with an olde Capcaſe on his hed, an olde pail about his hips for harnes, a Scu<g ref="char:cmbAbbrStroke">̄</g>mer &amp; a potlid by his ſide &amp; a rake on his shhulder.</hi>
+               </stage>
+               <stage>¶ <hi>Ambidexter.</hi>
+               </stage>
+               <l>Stand away, ſtand away for the paſſion of God,</l>
+               <l>Harneſſed I am prepared to the feeld:</l>
+               <l>I would haue been content at home to haue bod,</l>
+               <l>But I am ſent foorth with my ſpeare and ſhéeld.
+<note place="margin">⁂</note>
+               </l>
+               <l>I am appointed to fight againſt a Snail,</l>
+               <l>And Wilkin Wren the ancient ſhall beare:</l>
+               <l>I dout not but againſt him to preuail,</l>
+               <l>To be a man my déeds ſhall declare.</l>
+               <l>If I ouercome him, then a Butter flye takes his parte,</l>
+               <l>His weapon muſt be a blew ſpeckled Hen:</l>
+               <l>But you ſhall ſée me ouer throwe him with a fart,</l>
+               <l>So without conqueſt he ſhall go home again.</l>
+               <l>If I ouercame him, I muſt fight with a flye,</l>
+               <l>And a black pudding the flyes weapon muſt be:</l>
+               <l>At the firſt blowe on the ground he ſhall lye,</l>
+               <l>I wil be ſure to thruſt him through the mouth to the knée.</l>
+               <l>To conqueſt theſe fellowes the man I wil play,</l>
+               <l>Ha, ha, ha, now ye wil make me to ſmile:</l>
+               <l>To ſée if I can all men begile.</l>
+               <l>Ha, my name, my name would you ſo fain knowe?</l>
+               <l>Yea iwis ſhall ye, and that with all ſpeed:</l>
+               <l>I haue forgot it therfore I cannot ſhowe,</l>
+               <l>A, A, now I haue it, I haue it in déed.</l>
+               <l>My name is <hi>Ambidexter</hi> I ſignifie one,
+<note place="margin">
+                     <g ref="char:dtristar">*⁎*</g>
+                  </note>
+               </l>
+               <l>That with bothe hands finely can play:</l>
+               <l>Now with king <hi>Cambices</hi> and by and by gone,</l>
+               <l>Thus doo I run this and that way,</l>
+               <l>For while I meane with a Souldier to be,</l>
+               <l>Then giue I a leape to <hi>Siſamnes</hi> the Iudge:</l>
+               <l>I dare auouch, ye ſhall his deſtruction ſee,</l>
+               <l>To all kinde of eſtates I meane for to trudge.</l>
+               <l>
+                  <hi>Ambidexter,</hi> nay he is a fellow if ye knew all:</l>
+               <stage>¶ <hi>Enter three Ruſſians, Huf, Ruf and Snuf ſinging. Huf,</hi>
+               </stage>
+               <pb facs="tcp:11007:5"/>
+               <l>Gogs fleſh and his wounds theſe warres reioyce my hart:</l>
+               <l>By his wounds I hope to doo wel for my parte.</l>
+               <l>By Gods hart the world ſhall go euil if I doo not ſhift:</l>
+               <l>At ſome olde Carles bouget I meane for to lift.</l>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <l>By his Fleſh, noſe, Eyes and Eares,</l>
+               <l>I wil venter void of all cares.</l>
+               <l>He is not a Souldier that dooth feare any dout:</l>
+               <l>If that he would bring his purpoſe about.</l>
+            </sp>
+            <sp>
+               <speaker>Snuf.</speaker>
+               <l>Feare that feare liſt, it ſhall not be I:</l>
+               <l>By Gogs wounds I wil make ſome neck ſtand awry.</l>
+               <l>If I loſe my ſhare, I ſweare by Gogs hart:</l>
+               <l>Then let an other take vp my parte.</l>
+            </sp>
+            <sp>
+               <speaker>Huf.</speaker>
+               <p>Yet I hope to come the richeſt Souldier away:</p>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <p>If a man aſke ye, ye may hap to ſay nay.</p>
+            </sp>
+            <sp>
+               <speaker>Snuf.</speaker>
+               <p>If a man aſke ye, ye may hap to ſay nay.</p>
+            </sp>
+            <sp>
+               <speaker>Snuf.</speaker>
+               <l>Let all men get what they can, not to léeſe I hope:</l>
+               <l>Where ſoeuer I go in eche corner I wil grope.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <p>What &amp; ye run into the Corner of ſome prety maid?</p>
+            </sp>
+            <sp>
+               <speaker>Snuf.</speaker>
+               <p>To grope there good fellow I wil not be a fraid.</p>
+            </sp>
+            <sp>
+               <speaker>Huf.</speaker>
+               <l>Gogs wounds what art thou that with vs dooſt mel?</l>
+               <l>T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou ſéemeſt to be a Souldier the trueth to tel,</l>
+               <l>Thou ſéemeſt to be harneſſed. I cannot tel how:</l>
+               <l>I think he <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame lately from riding ſome Cow.</l>
+               <l>Such a deformed ſlaue did I neuer ſee:</l>
+               <l>
+                  <hi>Ruf</hi> dooſt thou knowe him? I pray thée tel mée.</l>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <p>No by my troth fellow <hi>Huf</hi> I neuer ſée him before.</p>
+            </sp>
+            <sp>
+               <speaker>Snuf.</speaker>
+               <l>As for me I care not if I neuer ſée him more.</l>
+               <l>Come let vs run his Arſe againſt the poſte:</l>
+               <pb facs="tcp:11007:6"/>
+               <l>A ye: ſlaues, I wil be with you at the ofts.</l>
+               <stage>heer let him ſwinge the<g ref="char:cmbAbbrStroke">̄</g> ahout.</stage>
+               <l>A ye knaues, I wil teach ye how ye ſhal me deride,</l>
+               <l>Out of my ſight I can ye not abide.</l>
+               <l>Now goodman pouchmouth I am a ſlaue with you:</l>
+               <l>Now haue at ye a freſh again euen now.</l>
+               <l>Mine Arſſe againſt the poſte you wil run:</l>
+               <l>But I wil make ye from that ſaying to turn.</l>
+            </sp>
+            <sp>
+               <speaker>Huf.</speaker>
+               <p>I beſéech ye hartely to be content:</p>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <l>I inſure you by mine honeſty no hurt we ment.</l>
+               <l>Beſide that again we doo not knowe what ye are:</l>
+               <l>Ye knowe that Souldiers their ſtoutnes wil declare,</l>
+               <l>Therfore if we haue any thing offended:</l>
+               <l>Pardon our rudenes and it ſhalbe amended.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Yea Gods pitie, begin ye to intreate me?</l>
+               <l>Haue at ye once again by the maſſe I wil beat ye.</l>
+            </sp>
+            <sp>
+               <speaker>Huf.</speaker>
+               <stage>fight again</stage>
+               <p>Gogs hart let vs kil him, ſuffer no longer:</p>
+            </sp>
+            <sp>
+               <speaker>Snuf.</speaker>
+               <stage>Draw their ſwords.</stage>
+               <p>Thou ſlaue we wil ſée if thou be the ſtrongar.</p>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <l>Strike of his hed at one blowe:</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we be Souldiers, Gogs hart let him knowe.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>O the paſſion of God, I haue doon by mine honeſty:</l>
+               <l>I wil take your parte héeraſter verily.</l>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>Then content let vs agree:</p>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Shake hands with me, I ſhake hands with thée.</l>
+               <l>Ye are ful of curteſye, that is the beſt:</l>
+               <l>And you take great pain, ye are a mannerly geſt.</l>
+               <l>Why maiſters doo you not knowe me? the trueth to me tel:</l>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>No truſt vs, not very wel.</p>
+            </sp>
+            <pb facs="tcp:11007:6"/>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <p>Why I am <hi>Ambidexter</hi> who many ſouldiers doo loue</p>
+            </sp>
+            <sp>
+               <speaker>Huf.</speaker>
+               <l>Gogs hart to haue thy co<g ref="char:cmbAbbrStroke">̄</g>pany néeds we muſt prooue.</l>
+               <l>We muſt play with bothe hands with our hoſtes &amp; hoſt</l>
+               <l>Play with bothe hands and ſcore on the poſte.</l>
+               <l>Now and then with our Captain for many a delay?</l>
+               <l>We wil not ſtick with bothe hands to play.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>The honeſter man ye, ye may me truſt.</l>
+               <l>¶ <hi>Enter Meretrix with a ſtaf on her shoulder.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <l>What? is there no lads heer that hath a luſt:</l>
+               <l>To haue a paſſing Trul to help at their néed?</l>
+            </sp>
+            <sp>
+               <speaker>Huf,</speaker>
+               <l>Gogs hart ſhe is come indéed.</l>
+               <l>What miſtres <hi>Meretrix</hi> by his wou<g ref="char:cmbAbbrStroke">̄</g>ds welcome to me:</l>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <p>What wil ye giue me I pray you let me ſée?</p>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <p>By his hart ſhe lookes for gifts by and by.</p>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <l>What maiſter <hi>Ruf,</hi> I cry you mercy.</l>
+               <l>The laſt time I was with you I got a broken hed.</l>
+               <l>And lay in the ſtréet all night for want of a bed.</l>
+            </sp>
+            <sp>
+               <speaker>Snuf.</speaker>
+               <l>Gogs wounds kiſſe me my Trul ſo white:</l>
+               <l>In thee I ſweare is all my delight.</l>
+               <l>If thou ſhouldeſt haue had a broken bed for my ſake:</l>
+               <l>I would haue made his hed to ake.</l>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <l>What maiſter <hi>Ambidexter,</hi> who looked for you?</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Miſtres <hi>Meretrix</hi> I thought not to ſee you héer now.</l>
+               <l>There is no remedy at meeting I muſt haue a kiſſe:</l>
+            </sp>
+            <sp>
+               <speaker>Meretrix,</speaker>
+               <p>What man? I wil not ſtick for that by giſſe.</p>
+            </sp>
+            <stage>Kiſſe</stage>
+            <sp>
+               <speaker>Ambidexter,</speaker>
+               <pb facs="tcp:11007:7"/>
+               <p>So now gramercy, I pray thée be gone:</p>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <l>Nay ſoft my fréend I meane to haue one.</l>
+               <l>Nay ſoft I ſwere, and if ye were my brother:</l>
+               <l>Before I let go I wil haue an other.</l>
+            </sp>
+            <stage>kiſſe, kiſſe, kiſſe.</stage>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <p>Gogs hart the whore would not kiſſe me yet:</p>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <p>If I be a whore. thou art a knaue then it is quit.</p>
+            </sp>
+            <sp>
+               <speaker>Huf,</speaker>
+               <p>But hearſt thou <hi>Meretrix,</hi> with who this night wilt y<hi rend="sup">e</hi> lyee</p>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <p>With him that giueth the moſte monye.</p>
+            </sp>
+            <sp>
+               <speaker>Huf.</speaker>
+               <p>Gogs hart, I haue no money in purſſe, ne yet in clout:</p>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <p>Then get thée hence and pack like a Lout.</p>
+            </sp>
+            <sp>
+               <speaker>Huf.</speaker>
+               <p>Adieu like a Whore.</p>
+            </sp>
+            <stage>Ezit Huf,</stage>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <p>Farwel like a knaue.</p>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <l>Gogs Nailes, Miſtres <hi>Meretrix</hi> now he is gone:</l>
+               <l>A match ye ſhall make ſtraight with me:</l>
+               <l>I wil giue thee ſixpence to lye one night with thée.</l>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <l>Gogs hart ſlaue dooſt thou think I am a ſix peny Iug:</l>
+               <l>No wis ye Iack I look a little more ſmug.</l>
+            </sp>
+            <sp>
+               <speaker>ſnuf.</speaker>
+               <p>I wil giue her xviij. pnce to ſerue me firſt:</p>
+            </sp>
+            <sp>
+               <speaker>Meretrix</speaker>
+               <p>Gramercy Snuf, thou art not the wurſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <p>By Gogs hart ſhe were better be hanged, to forſake me and take this</p>
+            </sp>
+            <sp>
+               <speaker>Snuf.</speaker>
+               <p>Were ſhe ſo? that ſhall we ſée.</p>
+            </sp>
+            <sp>
+               <speaker>Ruf,</speaker>
+               <p>By Gogs hart my Dagger into her I wil thruſt.</p>
+            </sp>
+            <pb facs="tcp:11007:7"/>
+            <sp>
+               <speaker>Snuf.</speaker>
+               <p>A ye boy, ye would doo it and ye durſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ambidexter,</speaker>
+               <l>Peace my maiſters ye ſhall not fight:</l>
+               <l>He that drawes firſt I wil him ſmite.</l>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <p>Gogs wounds Maiſter Snuf are ye ſo luſty?</p>
+            </sp>
+            <sp>
+               <speaker>ſnuf.</speaker>
+               <p>Gogs ſides maiſter <hi>Ruf</hi> are ye ſo cruſty?</p>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <p>You may happen to ſée:</p>
+            </sp>
+            <sp>
+               <speaker>Snuf,</speaker>
+               <p>Doo what thou dareſt to me.</p>
+            </sp>
+            <stage>Heere draw and fight. ¶ Heere she muſt lay on and coyle them bothe, the Vice muſt run his way for feare, ſnuf fling down his ſwoord and buckler, and run his vvay.</stage>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <l>Gogs ſides knaues, ſéeing to fight ye be ſo rough</l>
+               <l>Defend your ſelues for I wil giue ye bothe inough.</l>
+               <l>I wil teach ye how ye ſhall fall out for me:</l>
+               <l>Yea thou ſlaue Snuf, no more blowes wilt thou bide?</l>
+               <l>To take thy héeles a time haſte thou ſpied?</l>
+               <l>Thou Villain ſéeing Snuf is gone away:</l>
+               <l>A little better I meane thée to pay.</l>
+            </sp>
+            <stage>¶ He falleth down, she falleth vpon him and beat him and taketh away his weapon,</stage>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <l>Alas good miſtres <hi>Meretrix</hi> no more:</l>
+               <l>My legs, ſides, and armes with beating be ſore.</l>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <l>Thou a Souldier and looſe thy weapon?</l>
+               <l>Go hence Sir boy. ſay a woman hath thée beaten.</l>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <l>Good Miſtres <hi>Meretrix</hi> my weapon let me haue:</l>
+               <l>Take pitie on me mine honeſtie to ſaue.</l>
+               <l>If it be knowen this repulle I ſuſtain:</l>
+               <pb facs="tcp:11007:8"/>
+               <l>It wil redound to my ignomy and ſhame.</l>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <l>If thou will be my man and wait vpon mée:</l>
+               <l>This Swoord and Buckler I wil giue thee.</l>
+            </sp>
+            <sp>
+               <speaker>Ruf.</speaker>
+               <l>I wil doo all at your commaundement:</l>
+               <l>As ſeruant to you I wil be obedient</l>
+            </sp>
+            <sp>
+               <speaker>Meretrix.</speaker>
+               <l>Then let me ſée how before me ye can go:</l>
+               <l>When I ſpeake to you ye ſhall doo ſo.</l>
+               <l>Of with your cap at place and at boord:</l>
+               <l>Forſooth miſtres Meretrix at euery woord.</l>
+               <l>Tut, tut, in the Camp ſuch Souldiers there be:</l>
+               <l>One good woman would beat a way two or thrée.</l>
+               <l>Wel I am ſure Cuſtomers tary at home:</l>
+               <l>Manerly before and let vs be gone.</l>
+            </sp>
+            <stage>Exeunt. Enter Ambidex.</stage>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>O the paſſion of God, be they héer ſtil or no?</l>
+               <l>I durſt not abide to ſée her heat them ſo.</l>
+               <l>I may ſay to you I was in ſuch a flight:</l>
+               <l>Body of me I ſée the heare of my hed ſtand vpright.</l>
+               <l>When I ſaw her ſo hard vpon them lay on:</l>
+               <l>O y<hi rend="sup">e</hi> paſſio<g ref="char:cmbAbbrStroke">̄</g> of God thought I, ſhe wil be with me anon</l>
+               <l>I made no more a doo but auoided the thruſt:</l>
+               <l>And to my legges began for to truſt.</l>
+               <l>And fel a laughing to my ſelf when I was once gone:</l>
+               <l>It is wiſdome (quoth I) by the maſſe to ſaue one.</l>
+               <l>Then into this place I intended to trudge:</l>
+               <l>Thinking to meet Siſamnes the Iudge.</l>
+               <l>Beholde where he commeth I wil him méet:</l>
+               <l>And like a gentleman I meane him to gréet</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <stage>Enter Siſamnes.</stage>
+               <l>Since that the Kings graces maieſtie in office did me ſet:</l>
+               <l>What abundance of welth to me might I get.</l>
+               <l>Now &amp; the<g ref="char:cmbAbbrStroke">̄</g> ſo<g ref="char:cmbAbbrStroke">̄</g>e vantage I atchiue, much more yet may I take:</l>
+               <l>But that I fear vnto the king, that ſome, complaint wil make</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <p>Ieſu maiſter Siſamnes you are vnwiſe.</p>
+            </sp>
+            <pb facs="tcp:11007:8"/>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <l>Why ſo? I pray ye let me agniſe.</l>
+               <l>What maiſter <hi>Ambidexter,</hi> is it you?</l>
+               <l>Now welcome to me I make God avow.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Ieſu maiſter Siſamnes with me you are wel acquainted:</l>
+               <l>By me rulers may be trimly painted.</l>
+               <l>Ye are vnwiſe if ye take not time while ye may:</l>
+               <l>If ye wil not now when ye would ye ſhall haue nay.</l>
+               <l>What is he that of you dare make exclamation:</l>
+               <l>Of your wrong dealing to make explication?</l>
+               <l>Can you not play with bothe hands and turn with the winde?</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <l>Beléeue me your woords draw déep in my minde.</l>
+               <l>In colloure wiſe vnto this day to bribes I haue inclyned:</l>
+               <l>More the ſame for to frequent of trueth I am now minded.</l>
+               <l>Beholde euen now vnto me Suters doo procéed.</l>
+            </sp>
+            <sp>
+               <speaker>Small habilitie.</speaker>
+               <l>I beſéech you héer good maiſter iudge, a poor mans cauſe to téder</l>
+               <l>Condemne me not in wro<g ref="char:cmbAbbrStroke">̄</g>gful wiſe, that neuer was offender.</l>
+               <l>You knowe right wel my right it is, I haue not for to giue:</l>
+               <l>You take away from me my due, that ſhould my corps reléeue.</l>
+               <l>The Commons of you doo complain, from them you deuocate:</l>
+               <l>with anguiſh great &amp; greeuoꝰ words, their harts doo penetrate.</l>
+               <l>The right you ſel vnto the wrong, your priuate gain to win:</l>
+               <l>You violate the ſimple man, and count it for no ſin:</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes,</speaker>
+               <l>Holde thy tung thou pratling knaue, and giue to me reward</l>
+               <l>Els in this wiſe I tel thée trueth, thy tale wil not be heard.</l>
+               <l>
+                  <hi>Ambidexter,</hi> let vs go hence, and let the knaue alone.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter</speaker>
+               <l>Farwel Small habilitis for help now get ye none.</l>
+               <l>Bribes hath corrupt him, good Lawes to pollute:</l>
+               <stage>Exeunt.</stage>
+            </sp>
+            <sp>
+               <speaker>small habillitie.</speaker>
+               <l>A naughtie man that wil not obay the Kings conſtitute.</l>
+               <l>with heuy hart I wil return til Ged redreſſe my pain.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Shame.</speaker>
+               <stage>Enter shame with a trump black</stage>
+               <l>From among y<hi rend="sup">e</hi> griſly goſts I come, from tirants teſty train.</l>
+               <pb facs="tcp:11007:9"/>
+               <l>Vnſéemly <hi>ſhame</hi> of ſooth I am procured to make plain,</l>
+               <l>The odious facts &amp; ſhameleſſe dée vs y<hi rend="sup">t</hi>
+                  <hi>Cambiſes</hi> king dooth vſe.</l>
+               <l>All pietie and vertuouſe life, he dooth it clene refuſe.</l>
+               <l>Lechery and drunkennes, he dooth it much frequent:</l>
+               <l>The Tigers kinde to immitate, he hath giuen ful conſent.</l>
+               <l>He nought eſtéemes his councel graue, ne vertuous briging vp</l>
+               <l>But dayly ſtil receiues the drink, of damned vices cup.</l>
+               <l>He can bide no inſtruction, he takes ſo great delight:</l>
+               <l>In working of iniquitie, for to frequent his ſpight.</l>
+               <l>As Fame dooth ſound y<hi rend="sup">e</hi> royall trump of worthy men and frim:</l>
+               <l>So ſha<g ref="char:cmbAbbrStroke">̄</g>e dooth blowe w<hi rend="sup">e</hi> ſtrained blaſt, y<hi rend="sup">e</hi> trump of ſhame on him.</l>
+            </sp>
+            <stage>¶ <hi>Enter the king, Lord, Praxaſpes, and Siſamnes. (Exit.</hi>
+            </stage>
+            <sp>
+               <speaker>King,</speaker>
+               <l>My Iudge ſince my departure hence, haue you vſed Iudgeme<g ref="char:cmbAbbrStroke">̄</g>t right?</l>
+               <l>If faithful ſtuard I ye finde, the ſame I wil requite.</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <l>No dout your grace ſhall not once hear, that I haue doon a mis.</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <l>I much reioyce to heare, ſo good newes as this.</l>
+            </sp>
+            <sp>
+               <speaker>Co<g ref="char:cmbAbbrStroke">̄</g>mons cry.</speaker>
+               <stage>Enter co<g ref="char:cmbAbbrStroke">̄</g>mons cry running in ſpeak this verſe, go out again haſtely.</stage>
+               <l>Alas, alas, how are y<hi rend="sup">e</hi> Co<g ref="char:cmbAbbrStroke">̄</g>mons oppreſſed,</l>
+               <l>By that vile Iudge Siſamnes by name?</l>
+               <l>I doo not knowe how it ſhould be redreſſed.</l>
+               <l>To amend his life no whit he dooth frame.</l>
+               <l>We are vndoon and thrown out of doore,</l>
+               <l>His damnable dealing dooth vs ſo torment:</l>
+               <l>At his hand we can finde no reléef nor ſuccoure,</l>
+               <l>God graunt him grace for to repent.</l>
+            </sp>
+            <stage>Run away crying</stage>
+            <sp>
+               <speaker>king.</speaker>
+               <l>What doleful cryes be theſe my lord, y<hi rend="sup">t</hi> ſound doo in mine eare?</l>
+               <l>Intelligence if you can giut, vnto your king declare.</l>
+               <l>To me it ſéemeth my Commons all, they doo lament &amp; cry:</l>
+               <l>Out of Siſamnes Iudge moſte chéef, euen now ſtanding vs by.</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <l>Euen ſo (O king) it ſéemd to me, as you reherſall made:</l>
+               <l>I dout the Iudge culpable be, in ſome reſpect or trade.</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes,</speaker>
+               <l>Redouted king haue no miſtruſt, no whit your minde diſmay:</l>
+               <pb facs="tcp:11007:9"/>
+               <l>There is not one that can me charge or ought againſt me lay</l>
+            </sp>
+            <stage>¶ <hi>Enter Commons complain<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with Proof &amp; Triall.</hi>
+            </stage>
+            <sp>
+               <speaker>Commons complaint.</speaker>
+               <l>Commons complaint I repreſent, with thrall of dolful ſtate:</l>
+               <l>By vrgent cauſe erected foorth, my gréef for to dilate.</l>
+               <l>Vnto the king I wil prepare, my miſery to tell</l>
+               <l>To haue reléef of this my gréef, and fettered feet ſo fel.</l>
+               <l>Redouted Prince &amp; mightie King, my ſelf I proſtrate héer</l>
+               <l>Vouchſafe (O King) with me to beare, for this that I appéer.</l>
+               <l>With humble ſute I pardon craue, of
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> moſte royall grace</l>
+               <l>To giue me leaue my minde to breke, before you in this place</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Commons co<g ref="char:cmbAbbrStroke">̄</g>plaint kéep nothing back, foar not thy tale to tel</l>
+               <l>What ere he be within this land, that hath not vſed thee wel.</l>
+               <l>As Princes mouth ſhall ſentence giue, he ſhall receiue y<hi rend="sup">e</hi> ſame</l>
+               <l>Vnfolde the ſecrets of thy breſt, for I extinguiſh blame.</l>
+            </sp>
+            <sp>
+               <speaker>Commons complaint.</speaker>
+               <l>God preſerue your royall grace, and ſend you bliſful dayes:</l>
+               <l>That all your déeds might ſtil accord, to giue the God y<hi rend="sup">e</hi> praiſe.</l>
+               <l>My complaint is (O mightie king) againſt that Iudge you by:</l>
+               <l>Whoſe careles déeds, gain to receiue, hath made y<hi rend="sup">e</hi> co<g ref="char:cmbAbbrStroke">̄</g>mons cry</l>
+               <l>He, by taking bribes and gifts, the poore he dooth oppreſſe:</l>
+               <l>Taking rebeef from Infants yung, widowes and fatherleſſe.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Vntruſtful traitor &amp; corrupt Iudge, how likeſt y<hi rend="sup">u</hi> this co<g ref="char:cmbAbbrStroke">̄</g>plaint</l>
+               <l>Forewarning I to thée did giue, of this to make reſtraint.</l>
+               <l>And haſt thou doon this diueliſh dée, mine ire for to augment?</l>
+               <l>I ſentence giue, thou Iudas iudge, thou ſhalt thy déed repent.</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <p>O puſant Prince it is not ſo, his complaint I deny:</p>
+            </sp>
+            <sp>
+               <speaker>Commons complaint.</speaker>
+               <l>If it be not ſo (moſte mightie King) in place then let me dye</l>
+               <l>Beholde that I haue brought wine, bothe <hi>Proof &amp; I ryall true</hi>
+               </l>
+               <l>To ſtand euen heer and ſentence giue, what by him did inſue.</l>
+            </sp>
+            <sp>
+               <speaker>Proof.</speaker>
+               <l>I <hi>Proof</hi> doo him in this appeal, he did the Commons wrong:</l>
+               <l>Vniuſtly he will them hath delt, his gréedy was ſo ſtrong.</l>
+               <l>His hart did couet in to get, be cared not which way:</l>
+               <pb facs="tcp:11007:10"/>
+               <l>The poor did léeſe their due and right, becauſe they want to pay</l>
+               <l>Vnto him for bribes indéed, this was his wunted vſe:</l>
+               <l>wheras you grace good lawes did make, he did y<hi rend="sup">e</hi> ſame abuſe.</l>
+            </sp>
+            <sp>
+               <speaker>Tryall.</speaker>
+               <l>I <hi>Tryall</hi> héerto verify, what <hi>Proof</hi> dooth now vnfolde:</l>
+               <l>To ſtand againſt him in his wrong, as now I dare be bolde.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <p>How likeſt y<hi rend="sup">e</hi> this, thou caitiue vile, canſt thou the ſame deny?</p>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <p>O noble king forgiue my fact, I yéeld to thy mercy.</p>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Complaints and Proof, redreſſe wil I, all this your miſery:</l>
+               <l>Departe w<hi rend="sup">t</hi> ſpeed from whence you came, &amp; ſtraight co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>d by me</l>
+               <l>The Executio<g ref="char:cmbAbbrStroke">̄</g> man to come, before my grace with haſte.</l>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>For to fulfil this your requeſt, no time we meane to waſte.</p>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <stage>Exeunt they three.</stage>
+               <l>My Lord, before my grace go call, <hi>Otian</hi> this Iudges Sonne:</l>
+               <l>And he ſhall heare and alſo ſée: what his father hath doon.</l>
+               <l>The Father he ſhall ſuffer death, the Sonne his roume ſuccéed</l>
+               <l>And if that he no better prooue, ſo likewiſe ſhall he ſpéed.</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <p>As your grace hath co<g ref="char:cmbAbbrStroke">̄</g>maundment giuen, I meane for to fulfil:</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <stage>ſtep aſide &amp; fetch him.</stage>
+               <l>Accurſed Judge couldſt thou conſent, to doo this curſed il?</l>
+               <l>According vnto thy dentaund, thou ſhalt for this thy gilt:</l>
+               <l>Receiue thy death before mine eyes, thy blood it ſhalbe ſpilt.</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <p>Beholde (O King) <hi>Siſamnes</hi> Sonne, before you dooth appéere.</p>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>
+                  <hi>Otian</hi> this is my minde, therfore to me come néer.</l>
+               <l>Thy father heer for Iudgme<g ref="char:cmbAbbrStroke">̄</g>t wrong procured hath his death:</l>
+               <l>And thou his ſonne ſhalt him ſuccéed, whe<g ref="char:cmbAbbrStroke">̄</g> he hath loſt his breth</l>
+               <l>And if that thou dooſt once offend, as thou ſéeſt thy father haue:</l>
+               <l>In likewiſe thou ſhalt ſuffer death, no mercy ſhall thée ſaue.</l>
+            </sp>
+            <sp>
+               <speaker>Otian.</speaker>
+               <l>O mightie King, vouchſafe your grace, my father to remit:</l>
+               <l>Forgiue his fault, his pardon I doo aſke of your as yet.</l>
+               <pb facs="tcp:11007:10"/>
+               <l>Alas although my father hath your Princely hart offended:</l>
+               <l>Amends for miſſe he wil now make<g ref="char:punc">▪</g> &amp; faults ſhalbe amended.</l>
+               <l>In ſted of his requeſted life, pleaſeth your grace take mine:</l>
+               <l>This offer I as tender Childe, ſo duty dooth me binde.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Doo not intreat my grace no more, for he ſhall dye the death,</l>
+               <l>Where is the Execution man, him to bercaue of breath.</l>
+            </sp>
+            <sp>
+               <speaker>Execution.</speaker>
+               <stage>Enter Execution.</stage>
+               <l>At hand and if it like your grace, my duty to diſpatch:</l>
+               <l>In hope that I when déed is doon, a good rewarde ſhall catch.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Diſpatch w<hi rend="sup">c</hi> ſwoord this Iudges life, extinguiſh fear and cares:</l>
+               <l>So doon, draw thou his curſed ſkin, ſtrait ouer bothe his eares.</l>
+               <l>I wil ſée the office doon, and that before mine eyes.</l>
+            </sp>
+            <sp>
+               <speaker>Execution</speaker>
+               <p>To doo the thing my king commaunds, I giue the enterpriſe.</p>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <l>Otian my ſonne the king to death (by law hath me condemned</l>
+               <l>And you in roume and office mine, his graces wil hath placed.</l>
+               <l>Vſe Iuſtice therfore in this caſe, and yéeld vnto no wrong:</l>
+               <l>Leſt thou doo purchaſe the like death, or euer it be long.</l>
+            </sp>
+            <sp>
+               <speaker>Otian.</speaker>
+               <l>O father déer, theſe words to hear, that you muſt dye by force</l>
+               <l>Bedewes my chéeks w<hi rend="sup">c</hi> ſtilled teares, y<hi rend="sup">e</hi> King hath no remorce.</l>
+               <l>the gréeudꝰ gréefꝭ &amp; ſtrained ſighes, my hart doth breke in twain</l>
+               <l>And I deplore moſte woful childe, that I ſhould ſée you ſlain.</l>
+               <l>O falſe and fickle frowning Danie, that turneth as the winde:</l>
+               <l>Is this the ioy in fathers age, thou me aſſigneſt to finde?</l>
+               <l>O dole ful day, vnhappy houre, that loouing childe ſhould ſée:</l>
+               <l>His Father déer before his face, thus put to death ſhould bée.</l>
+               <l>Yet Father giue me bleſſing thine, and let me once imbrace:</l>
+               <l>Thy comely corps in foulded armes, &amp; kiſſe thy ancient face.</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes,</speaker>
+               <l>O childe thou makes mine eyes to run, as riuers doo by ſtreme:</l>
+               <l>My leaue I take of thee my Sonne beware of this my beame.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <p>Diſpatch euen now thou man of death, no longer ſéeme to ſtay:</p>
+            </sp>
+            <sp>
+               <speaker>Execution.</speaker>
+               <l>Come M. <hi>Siſamnes,</hi> came on your way, my office I muſt pay.</l>
+               <pb facs="tcp:11007:11"/>
+               <l>Forgiue therfore my déed.</l>
+            </sp>
+            <sp>
+               <speaker>Siſamnes.</speaker>
+               <l>I doo forgiue it thée my fréend, diſpatch therfore with ſpéed.</l>
+               <l>
+                  <hi>ſmite him in the neck with a ſwoord to ſignify his death</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <p>Beholde (O king) how he dooth bléed, béeing of life bereft:</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>In this wiſe, he ſhall not yet be left.</l>
+               <l>Pul his ſkin ouer his eares, to make his death more vile:</l>
+               <l>A wretch he was, a cruel théef my commons to begile.</l>
+            </sp>
+            <stage>Flea him with a falſe ſkin.</stage>
+            <sp>
+               <speaker>Otian.</speaker>
+               <l>What childe is he of natures mould, could bide the ſame to ſée</l>
+               <l>His Father fleaed in this wiſe? Oh how it gréeueth me.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>
+                  <hi>Otian,</hi> thou ſéeſt thy father dead, and thou art in his roume:</l>
+               <l>if thou béeſt proud as be hath béen, euen therto ſhalt thou come.</l>
+            </sp>
+            <sp>
+               <speaker>Otian.</speaker>
+               <l>O King, to me this is a glaſſe, with gréef in it I view:</l>
+               <l>Example that vnto your grace, I doo not prooue vntrue.</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <p>
+                  <hi>Otian,</hi> conuay your Father hence, to Tomb where be ſhall lye</p>
+            </sp>
+            <sp>
+               <speaker>Otian.</speaker>
+               <l>And if it pleaſe your Lordſhip, if ſhallbe doon by and by.</l>
+               <l>Good Execution man for néed, help me with him away:</l>
+            </sp>
+            <sp>
+               <speaker>Execution.</speaker>
+               <p>I will fulfil, as you to me did ſay.</p>
+            </sp>
+            <stage>They take him away</stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>My Lord now that my grace hath ſéen, that finiſht is this déed,</l>
+               <l>To queſtion mine giue tentiue eare, &amp; anſwere make w<hi rend="sup">c</hi> ſpeed.</l>
+               <l>Haue not I doon a gratious déed, to redreſſe my commons wo?</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <l>Yea truely if it pleaſe your grace, ye haue indéed doon ſo.</l>
+               <l>But now (O King) in fréendly wiſe, I councel you in this:</l>
+               <l>Certain vices for to leaue, that in you placed is.</l>
+               <l>The viſe of drunkennes (Oh king) which dooth you ſore infect:</l>
+               <l>With other great abuſes, which I wiſh you to detect.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <pb facs="tcp:11007:11"/>
+               <l>Peace my Lord, what néedeth this? of this I wil not hear,</l>
+               <l>To Pallaice now I wil return, and there to make good chéer.</l>
+               <l>God <hi>Baccus</hi> he beſtowes his giftꝭ, we haue good ſtore of wine:</l>
+               <l>And alſo that the Ladyes be, both paſſing braue and fine.</l>
+               <l>But ſtay, I ſée a Lord now come, and eke a valiant knight:</l>
+               <l>What newes my Lord? to ſée you héer my hart it dooth delight</l>
+            </sp>
+            <stage>¶ <hi>Enter Lord, and Knight to meet the King.</hi>
+            </stage>
+            <sp>
+               <speaker>Lord.</speaker>
+               <p>Nonewes (O king) but of duty come, to wait vpon your grace:</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>I thank you my Lord &amp; loouing knight, I pray ye with me trace</l>
+               <l>My Lords and Knight I pray ye tel, I wil not be offended:</l>
+               <l>Am I worthy of any crime once to be reprehended?</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <l>The <hi>Perſians</hi> much praiſe your grace, but one thing diſco<g ref="char:cmbAbbrStroke">̄</g>me<g ref="char:cmbAbbrStroke">̄</g>d:</l>
+               <l>In that to Wine ſubiect you be, wherin you doo offend.</l>
+               <l>Sith that the might of wines effect, dooth oft ſubdue your brain</l>
+               <l>My councel is to pleaſe their harts, from it you would refrain.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>No, no, my Lord, it is not ſo, for this of Prince they tel:</l>
+               <l>For vertuous proof and Princely facts, <hi>Cirus</hi> he dooth excel.</l>
+               <l>By that his grace by conqueſt great, the <hi>Egiptians</hi> did co<g ref="char:cmbAbbrStroke">̄</g>uince</l>
+               <l>Of him reporte abrode dooth paſſe, tobe a worthy Prince.</l>
+            </sp>
+            <sp>
+               <speaker>knight.</speaker>
+               <l>In perſo<g ref="char:cmbAbbrStroke">̄</g> of <hi>Creſus</hi> I anſwer make, we may not his grace com<g ref="char:EOLhyphen"/>pare</l>
+               <l>in whole reſpect for to be like, <hi>Cirus</hi> the kings father.</l>
+               <l>In ſo much your grace hath yet no childe, as <hi>Cirus</hi> left behinde</l>
+               <l>Euen you I meane, <hi>Cambiſes</hi> king, in whome I fauour finde.</l>
+            </sp>
+            <sp>
+               <speaker>King,</speaker>
+               <l>
+                  <hi>Creſus</hi> ſaid wel in ſaying ſo, but
+<hi>Praxaſpes</hi> tel me why:</l>
+               <l>That to my mouth in ſuch a ſort, thou ſhould auouch a lye.</l>
+               <l>Of drunkennes me thus to charge, but thou with ſpéed ſhalt ſée</l>
+               <l>Whether that I a ſober King, or els a drunkard bée.</l>
+               <l>I knowe thou haſte a bliſful babe, wherin thou dooſt delight:</l>
+               <l>Me to reuenge of theſe thy woords, I wil go wreke this ſpight.</l>
+               <l>When I the moſte haue taſted wine, my Bowe it ſhalbe bent</l>
+               <l>At hart of him euen then to ſhoot, is now my whole intent.</l>
+               <l>And if that I his hart can hit, the King no drunkard is:</l>
+               <pb facs="tcp:11007:12"/>
+               <l>It hart of his I doo not kil, I yéeld to thée in this.</l>
+               <l>Therfore <hi>Praxaſpes</hi> fetch to me, thy yungeſt ſonne with ſpéed:</l>
+               <l>There is no way I tel thee plain, but I wil doo this déed.</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <l>Redouted Prince ſpare my ſweet Childe, he is mine only ioy:</l>
+               <l>I truſt your grace to Infants hart, no ſuch thing wil imploy.</l>
+               <l>If that his mother hear of this, ſhe is ſo nigh her flight:</l>
+               <l>In clay her corps wil ſoon be ſhrinde, to paſſe fro<g ref="char:cmbAbbrStroke">̄</g> worlds delight</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>No more adoo, go fetch me him, it ſhalbe as I ſay:</l>
+               <l>And if that I doo ſpeak the woord, how dare ye once ſay nay?</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes</speaker>
+               <p>I wil go fetch him to your grace, but ſo I truſt it ſhall not be:</p>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>For feare of my diſpleaſure great, go fetch him vnto me.</l>
+               <l>Is he gone? now by the Gods I wil doo as I ſay:</l>
+               <l>My Lord therfore fil me ſome wine, I hartely you pray.</l>
+               <l>For I muſt drink to make my brain ſomwhat intoxicate:</l>
+               <l>When that the wine is in my hed, oh trimly I can prate.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <p>Héere is the cup with filled wine, therof to take repaſte:</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Giue it me to drink it of, and ſée no wine be waſte.</l>
+               <stage>Drink</stage>
+               <l>Once again in large this Cup, for I muſt taſte it ſtil:</l>
+               <stage>Drink</stage>
+               <l>By the Gods I think of pleaſant wine, I cannot take my fil.</l>
+               <l>Now drink is in giue me my bowe, and arrowes fro<g ref="char:cmbAbbrStroke">̄</g> ſir Knight</l>
+               <l>At hart of Childe I meane to ſhoot, hoping to cleue it right.</l>
+            </sp>
+            <sp>
+               <speaker>knight.</speaker>
+               <p>Beholde (O King) wher he dooth come, his infant yung in hand</p>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <l>O mightie King your grace beheſt, with ſorow I haue ſcand.</l>
+               <l>And brought my Childe fro mothers knée, before you to appeer:</l>
+               <l>And ſhe therof no whit dooth knowe that he in place is héer.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <p>Set him vp my mark to be, I wil ſhoot at his hart:</p>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <l>I beſéech your grace not ſo to doo, ſet this pretence a parte.</l>
+               <l>Farewel my déer and loouing babe, come kiſſe thy father déer:</l>
+               <pb facs="tcp:11007:12"/>
+               <l>A gréeuous ſight to me it is, to ſée thée ſlain euen héer.</l>
+               <l>Is this the gain now from the King for giuing councel good:</l>
+               <l>Before my face with ſuch deſpight, to ſpil my ſonnes hart blood?</l>
+               <l>O heuy day to me this is, and mother in like caſe.</l>
+            </sp>
+            <sp>
+               <speaker>Yung childe</speaker>
+               <l>O Father, Father, wipe your face.</l>
+               <l>I ſée the teares run from your eye:</l>
+               <l>My mother is at home ſowing of a band:</l>
+               <l>Alas déer father, why doo you cry?</l>
+            </sp>
+            <sp>
+               <speaker>King,</speaker>
+               <p>Before me as mark now let him ſtand, I wil ſhoot at him my minde to fulfil</p>
+            </sp>
+            <sp>
+               <speaker>Yung childe.</speaker>
+               <l>Alas, alas, Father wil you me kil?</l>
+               <l>Good maſter king doo not ſhoot at me, my mother looues me beſt of all</l>
+            </sp>
+            <sp>
+               <speaker>king</speaker>
+               <l>I haue diſpatched him, down he dooth fall,</l>
+               <stage>Shoot</stage>
+               <l>As right as a line his hart I haue hit:</l>
+               <l>Nay thou ſhalt ſée <hi>Praxaſpes,</hi> ſtraunger newes yet.</l>
+               <l>My Knight with ſpéed his hart cut out, and giue it vnto me.</l>
+            </sp>
+            <sp>
+               <speaker>knight.</speaker>
+               <p>It ſhalbe doon (O mightie king) with all ſeleritie.</p>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>My Lord <hi>Praxaſpes,</hi> this had not béen, but your tung muſt be walking</l>
+               <l>To the King of correction, you muſt néeds be talking.</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes</speaker>
+               <p>No correction (my Lord) but councel for the beſt:</p>
+            </sp>
+            <sp>
+               <speaker>knight.</speaker>
+               <p>Héere is the hart, according to your graces beheſt.</p>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>Beholde <hi>Praxaſpes</hi> thy Sonnes owne hart, Oh how wel y<hi rend="sup">e</hi> ſame was hit</l>
+               <l>After this wine to doo this déed, I thought it very fit.</l>
+               <l>Eſtéeme thou maiſt right wel therby, no dru<g ref="char:cmbAbbrStroke">̄</g>kard is the king:</l>
+               <l>That in the midſt of all his cups, could doo this valiant thing.</l>
+               <l>My Lord and knight on me attend, to Pallaice we wil go:</l>
+               <l>And leaue him héer to take his ſonne, whe<g ref="char:cmbAbbrStroke">̄</g> we are gone him fro.</l>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>With all our harts we giue conſent, to wait vpon your grace:</p>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes</speaker>
+               <pb facs="tcp:11007:13"/>
+               <l>A woful man (O Lord) am I, to ſee him in this caſe.</l>
+               <l>My dayes I déem deſires their end, this déed wil help me he<g ref="char:cmbAbbrStroke">̄</g>ce:</l>
+               <l>To haue the bloſſoms of my féeld, deſtroyd by violence.</l>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <stage>Enter Mother</stage>
+               <l>Alas, Alas I doo heare tel, the King hath kild my Sonne:</l>
+               <l>If it be ſo, wo worth the déed, that euer it was doon.</l>
+               <l>It is euen ſo, my Lord I ſee, how by him he dooth wéep</l>
+               <l>What ment I y<hi rend="sup">t</hi> from hands of him, this childe I did not kéep?</l>
+               <l>Alas huſband and Lord, what did you meane,</l>
+               <l>to fetch this Child away?</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <p>O Lady wife I little thought for to háue ſéen this day.</p>
+            </sp>
+            <sp>
+               <speaker>Mother.</speaker>
+               <l>O bliſful babe, O ioy of womb, harts comfort and delight:</l>
+               <l>For Councel giuen vnto the King, is this thy iuſt requite?</l>
+               <l>O heuy day and doleful time, theſe mourning tunes to make</l>
+               <l>With blubred eyes into mine armes, fro<g ref="char:cmbAbbrStroke">̄</g> earth I wil thee take.</l>
+               <l>And wrap thée in mine apron white, but oh my heuy hart:</l>
+               <l>The ſpightful pangs y<hi rend="sup">t</hi> it ſuſtains, wold make it in two to part.</l>
+               <l>The death of this my Sonne to ſée, O heuy mother now?</l>
+               <l>That from thy ſwéet and ſugred ioy, to ſorow ſo ſhouldſt bow,</l>
+               <l>What gréef in womb did I retain, before I did thée ſée?</l>
+               <l>Yet at y<hi rend="sup">e</hi> laſt when ſmart was gone, what ioy wert thou to mée</l>
+               <l>How tender was I of thy food, for to preſerue thy ſtate?</l>
+               <l>How ſtilled I thy tender hart, at times earely and late?</l>
+               <l>With veluet Papꝭ I gaue thée ſuck with iſſue from my breſt:</l>
+               <l>And daunced thée, vpon my knee, to bring thée vnto reſt.</l>
+               <l>Is this the ioy of thée I reap (O king) of Tigers brood?</l>
+               <l>Oh tigers whelp hadſt thou y<hi rend="sup">e</hi> hart, to ſée this childes hart blood?</l>
+               <l>Nature inforſeth me alas, in this wiſe to deplore:</l>
+               <l>To wring my ha<g ref="char:cmbAbbrStroke">̄</g>ds O wele away, that I ſhould ſée this houre.</l>
+               <l>Thy mother yet wil kiſſe thy lips, ſilk ſoft and pleaſant white:</l>
+               <l>With wringing hands, lamenting for to ſée thee in this plight.</l>
+               <l>My Lording deer let vs go home, our mourning to augment:</l>
+            </sp>
+            <sp>
+               <speaker>Praxaſpes.</speaker>
+               <l>My Lady déer with heuy hart, to it I doo conſent.</l>
+               <l>Betwéen vs bothe y<hi rend="sup">e</hi> childe to bere vnto our lordly place, <hi>Exeu<g ref="char:cmbAbbrStroke">̄</g>t</hi>
+               </l>
+               <stage>¶ <hi>Enter Ambidexter.</hi>
+               </stage>
+            </sp>
+            <sp>
+               <speaker>Ambidexter</speaker>
+               <pb facs="tcp:11007:13"/>
+               <l>In déed as ye ſay I haue béen abſent a long ſpace.</l>
+               <l>But is not my coſin Cutpurſe, w<hi rend="sup">c</hi> you in y<hi rend="sup">e</hi> mene time?</l>
+               <l>To it, to it Coſin and doo your office fine.</l>
+               <l>How like you <hi>Siſamnes</hi> for vſing of me?</l>
+               <l>He plaid with bothe hands, but he ſped il fauouredly.</l>
+               <l>The King him ſelf was godly vp trained:</l>
+               <l>He profeſſed vertue, but I think it was fained.</l>
+               <l>He playes with bothe hands good déeds and il:</l>
+               <l>But it was no good déed, <hi>Praxaſpes</hi> ſonne for to kil.</l>
+               <l>As he for the good déed, on the Iudge was commended:</l>
+               <l>For all his déeds els he is reprehended.</l>
+               <l>The moſte euil diſpoſed perſon, that euer was:</l>
+               <l>All the ſtate of his life he would not let paſſe.</l>
+               <l>Some good déeds he wil doo, though they be but few:</l>
+               <l>The like things this tirant <hi>Cambices</hi> dooth ſhew.</l>
+               <l>No goodnes from him, to none is exhibited:</l>
+               <l>But ſtil malediction, abrode is diſtributed.</l>
+               <l>And yet ye ſhall ſée in the reſt of his race:</l>
+               <l>What infamy he wil woork againſt his owne grace.</l>
+               <l>Whiſt, no more woords héer comes the kings brother.</l>
+            </sp>
+            <stage>Enter Lord Smirdis with Attendance &amp; Diligence.</stage>
+            <sp>
+               <speaker>Smirdis.</speaker>
+               <l>The Kings brother by birth am I, iſſued from <hi>Cirus</hi> loynes:</l>
+               <l>A gréef to me it is to hear, of this the kings repines.</l>
+               <l>I like not wel of thoſe his déeds, that he dooth ſtil frequent:</l>
+               <l>I wiſh to God that other waies, his minde he could content.</l>
+               <l>Yung I am and next to him, no mo of vs there be:</l>
+               <l>I would be glad a quiet Realme in this his reign to ſée.</l>
+            </sp>
+            <sp>
+               <speaker>Attendance.</speaker>
+               <l>My Lord your good awilling hart, the Gods wil recompence:</l>
+               <l>In that your made ſo penſife is, for thoſe his great offence.</l>
+               <l>My Lord, his grace ſhall haue a time to pair and to amend:</l>
+               <l>Happy is he that can eſcape, and not his grace offend.</l>
+            </sp>
+            <sp>
+               <speaker>Diligence.</speaker>
+               <l>If that wicked vice he could refrain, from waſting wine forbere</l>
+               <l>A moderate life he would frequent, amending this his ſquare.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>My Lord, and if your honor it ſhall pleaſe:</l>
+               <pb facs="tcp:11007:14"/>
+               <l>I can informe you what is beſt for your eaſe.</l>
+               <l>Let him alone of his déeds doo not talke:</l>
+               <l>Then by his ſide: ye may quietly walke.</l>
+               <l>After his death you ſhalbe King:</l>
+               <l>Then may you reforme eche kinde of thing.</l>
+               <l>In the meane time liue quietly, doo not with him deale:</l>
+               <l>So ſhall it redownd much to your weale.</l>
+            </sp>
+            <sp>
+               <speaker>Smirdis.</speaker>
+               <l>Thou ſaiſt true my fréend, that is the beſt:</l>
+               <l>I knowe not whether he looue me, or doo me deteſt.</l>
+            </sp>
+            <sp>
+               <speaker>Attendance.</speaker>
+               <l>Leane from his company, all that you may:</l>
+               <l>I faithful Attendance wil your honor obay.</l>
+               <l>If againſt your honor he take any ire:</l>
+               <l>His grace is as like, to kindle his fire.</l>
+               <l>To your honors deſtruction, as otherwiſe:</l>
+            </sp>
+            <sp>
+               <speaker>Diligence.</speaker>
+               <l>Therfore my Lord take good aduiſe.</l>
+               <l>And I Diligence, your caſe wil ſo tender:</l>
+               <l>That to his grace your honor ſhalbe none offender.</l>
+            </sp>
+            <sp>
+               <speaker>Smirdis.</speaker>
+               <p>I thank you bothe intire fréends, with my honor ſtil remain:</p>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <p>Beholde where the King dooth come with his train.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <stage>Enter king &amp; 1. Lord</stage>
+               <l>O Lording déer and brother mine, I ioy your ſtate to ſée:</l>
+               <l>Surmiſing much what is the cauſe, you abſent thus from mée.</l>
+            </sp>
+            <sp>
+               <speaker>Smirdis.</speaker>
+               <l>Pleaſeth your grace no abſence I, but redy to fulfil:</l>
+               <l>At all aſſayes my Prince and king, in that your grace me wil.</l>
+               <l>What I can doo in true defence, to you my Prince aright:</l>
+               <l>In redynes I alwaies am, to offer foorth my might.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <p>And I the like to you again doo héer auouch the ſame:</p>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <p>For this your good agréement héer, now praiſed be Gods name.</p>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>But hear ye noble Prince, hark in you eare.</l>
+               <pb facs="tcp:11007:14"/>
+               <l>It is beſt to doo as I did declare.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <l>My Lord and brother <hi>Smirdis</hi> now, this is my minde and wil:</l>
+               <l>That you to Court of mine return, and there to tary ſtil.</l>
+               <l>Til my return within ſhort ſpace, your honor for to gréet:</l>
+            </sp>
+            <sp>
+               <speaker>Smirdis.</speaker>
+               <l>At your beheſt ſo wil I doo, til time again wée méet.</l>
+               <l>My leaue I take from you (O King) euen now I doo departe.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <stage>Exeu<g ref="char:cmbAbbrStroke">̄</g>t Smirdis, attendance &amp; diligence</stage>
+               <l>Farwel Lord and Brother mine, farwel with all my hart.</l>
+               <l>My Lord, my brother Smirdis is, of youth and manly might:</l>
+               <l>And in his ſwéet and pleaſant face, my hart dooth take delight.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Yea noble Prince if that your grace, before his honor dye:</l>
+               <l>He wil ſucceed a vertuous King, and rule with equitie.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>As you haue ſaid my Lord, he is chéef heire next my grace:</l>
+               <l>And if I dye to morrow next he ſhall ſuccéed my place.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter</speaker>
+               <l>And if it pleaſe your grace (O king) I herd him ſay:</l>
+               <l>For your death vnto the God, day and night he did pray.</l>
+               <l>He would liue ſo vertuouſly, and get him ſuch a praiſe:</l>
+               <l>That <hi>Fame</hi> by trump his due deſerts, his honor ſhould vp raiſe.</l>
+               <l>He ſaid your grace deſerued had, the curſing of all men:</l>
+               <l>That ye ſhould neuer after him, get any praiſe agen.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Did he ſpeake thus of my grace, in ſuch diſpightful wiſe?</l>
+               <l>Or els dooſt thou preſume to fil my princely eares with lyes?</l>
+            </sp>
+            <sp>
+               <speaker>Lord</speaker>
+               <p>I connot think it in my hart, that he would report ſo,</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>How ſayſt thou? ſpeake the trueth, was it ſoor no?</p>
+            </sp>
+            <sp>
+               <speaker>Ambidexter</speaker>
+               <p>I think ſo if it pleaſe your grace, but I cannot tel:</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Thou plaiſt with bothe hands, now I perceiue wel:</l>
+               <l>But for to put all doutes aſide, and to make him léeſe his hope:</l>
+               <l>He ſhall dye by dent of Swoord, or els by choking Rope.</l>
+               <pb facs="tcp:11007:15"/>
+               <l>Shall he ſuccéed when I am gone, to haue more praiſe then I?</l>
+               <l>Were he Father as brother mine, I ſwere that he ſhall dye.</l>
+               <l>To pallaice mine I wil therfore, his death for to purſue.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Are ye gone? ſtraight way I wil followe you.</l>
+               <l>How like ye now my maiſters? dooth not this géer cotton?</l>
+               <l>The prouerb olde is verified, ſoon ripe and ſoon rotten.</l>
+               <l>He will not be quiet, til his Brother be kild:</l>
+               <l>His delight is wholly to haue his blood ſpild.</l>
+               <l>Mary Sir I tolde him a notable lye:</l>
+               <l>If it were to doo again man, I durſt doo it I.</l>
+               <l>Mary when I had doon, to it I durſt not ſtand:</l>
+               <l>Therby you may perceiue I vſe to play with eche hand.</l>
+               <l>But how now Coſin Cutpurſſe with whome play you?</l>
+               <l>Take héed for his hand is groping euen now.</l>
+               <l>Coſin take héed, if ye doo ſecretly grope:</l>
+               <l>If ye be taken Coſin, ye muſt looke through a rope.</l>
+            </sp>
+            <stage>Exit.</stage>
+            <sp>
+               <speaker>Smirdis.</speaker>
+               <stage>Enter Lord Smirdis alone</stage>
+               <l>I am wandring alone héer and there to walke,</l>
+               <l>The Court is ſo vnquiet, in it I take no ioy:</l>
+               <l>Solitary to my ſelf now I may talke,</l>
+               <l>If I could rule I wiſt what to ſay.</l>
+            </sp>
+            <sp>
+               <speaker>Crueltie.</speaker>
+               <stage>Enter Crueltie and Murder with bloody hands.</stage>
+               <l>My coequall partner <hi>Murder,</hi> come away.</l>
+               <l>From me, long thou maiſt not ſtay.</l>
+            </sp>
+            <sp>
+               <speaker>Murder.</speaker>
+               <l>Yes from thée I may ſtay, but not thou from me:</l>
+               <l>Therfore I haue a prerogatiue abooue thée.</l>
+            </sp>
+            <sp>
+               <speaker>Crueltie.</speaker>
+               <l>But in this caſe we muſt togither abide:</l>
+               <l>Come, come, Lord <hi>Smirdis</hi> I haue ſpide.</l>
+               <l>Lay hands on him with all feſtination:</l>
+               <l>That on him we may woork our indignation.</l>
+            </sp>
+            <sp>
+               <speaker>Smirdis.</speaker>
+               <p>How now my freends? what haue you to doo with me?</p>
+            </sp>
+            <sp>
+               <speaker>Murder.</speaker>
+               <l>King <hi>Cambiſes</hi> hath ſent vs vnto thée.</l>
+               <l>Commaunding vs ſtraightly, with out mercy or fauour:</l>
+               <pb facs="tcp:11007:15"/>
+               <l>Upon thée to beſtow our behauiour.</l>
+               <l>With Crueltie to murder you, and make you away.</l>
+            </sp>
+            <sp>
+               <speaker>Smirdis.</speaker>
+               <stage>ſtrike him in diuers places</stage>
+               <l>Yet pardon me I hartely you pray:</l>
+               <l>Conſider the King is a tirant tirannious:</l>
+               <l>And all his dooings be damnable and parnitious.</l>
+               <l>Fauour me therfore, I did him neuer offend:</l>
+            </sp>
+            <sp>
+               <speaker>Crueltie.</speaker>
+               <stage>A little bladder of Vineger prikt.</stage>
+               <l>No fauour at all, your life is at an end.</l>
+               <l>Euen now I ſtrike his body to wound:</l>
+               <l>Beholde now his blood ſprings out on the ground,</l>
+            </sp>
+            <sp>
+               <speaker>Murder.</speaker>
+               <p>Now he is dead, let vs preſent him to the King:</p>
+            </sp>
+            <sp>
+               <speaker>Crueltie.</speaker>
+               <p>Lay to your hand, away him to bring.</p>
+            </sp>
+            <stage>Exeunt</stage>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <stage>Enter Ambidexter.</stage>
+               <l>O the paſſion of God, yunder is a heuy Court:</l>
+               <l>Some wéeps, ſome wailes, and ſome make great ſport.</l>
+               <l>Lord <hi>Smirdis,</hi> by Crueltie and Murder is ſlain:</l>
+               <l>But Ieſus for want of him, how ſome doo complain.</l>
+               <l>If I ſhould haue had a thouſand pound, I could not forbeare wéeping</l>
+               <l>Now Ieſus haue his bleſſed ſoule in kéeping.</l>
+               <l>Ah, good Lord, to think on him, how it dooth me gréeue:</l>
+               <l>I can not forbeare wéeping, ye may me beléeue.</l>
+               <stage>VVeep,</stage>
+               <l>O my hart, how my pulſes doo beat:</l>
+               <l>With ſorowful lamentations, I am in ſuch a heat.</l>
+               <l>Ah my hart, how for him it dooth ſorow:</l>
+               <l>Nay I haue doon in faith now, and God giue you good morow.</l>
+               <l>Ha, ha, wéep nay laugh, with both hands to play:</l>
+               <l>The king througe his crueltie, hath made him away,</l>
+               <l>But hath not he wrought, a moſte wicked déed:</l>
+               <l>Becauſe king after him he ſhould not procéed.</l>
+               <l>His owne naturall brother and hauing no more:</l>
+               <l>To procure his death by violence ſore.</l>
+               <l>In ſpight becauſe his brother ſhould neuer be King:</l>
+               <l>His hart béeing wicked conſented to this thing.</l>
+               <l>Now he hath no more Brothers nor kinred aliue:</l>
+               <l>If the King vſe this géer ſtil, he cannot long thriue.</l>
+            </sp>
+            <pb facs="tcp:11007:16"/>
+            <sp>
+               <speaker>Hob,</speaker>
+               <stage>Enter Hob and Lob.</stage>
+               <p>Gods hat Naibor come away, its time to market to go</p>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <l>Gods Vaſt Naybor zay ye zo?</l>
+               <l>The Clock hath ſtriken viue ich think by laken:</l>
+               <l>Bum Vay vrom ſléep cham not very wel waken.</l>
+               <l>But Naybor Hoh, Naybor Hob, what haue ye to zel?</l>
+            </sp>
+            <sp>
+               <speaker>Hob</speaker>
+               <l>Bum troth Naybor Lob to you I chil tel.</l>
+               <l>Chaue twoo Goſlings, and a Chine of good Porke:</l>
+               <l>There is no vatter betwéen this and Yorke.</l>
+               <l>Chaue a pot of Strawberyes and a Calues hed:</l>
+               <l>A zennight zince to morrow it hath béen dead.</l>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <l>Chaue a ſcore of Egges, and of Butter a pound:</l>
+               <l>Yeſterday a neſt of goodly yung Rabits I bound.</l>
+               <l>Chaue vorty things mo, of more and of leſſe:</l>
+               <l>My brain is not very good them to expreſſe.</l>
+               <l>But Gods Hat Naybor, wotſt what?</l>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <p>No not wel Naybor. whats that?</p>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <l>Bum vay Naybor, maiſter king is a zhrode lad</l>
+               <l>Zo God help me and holidam, I think the vool he mad.</l>
+               <l>Zome zay he deale cruelly his Brother he did kil:</l>
+               <l>And alſo a goodly yung lads hart blood, he did ſpil,</l>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <p>Vorbod of God naibor, has he plaied zuch a voliſh déed?</p>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Goodman Hob and goodman Lob, God be your ſpéed.</l>
+               <l>As you twoo towards market doo walke:</l>
+               <l>Of the Kings crueltie I did hear you talke.</l>
+               <l>I inſure you, he is a King moſte vile and parnitious:</l>
+               <l>His dooings and life are odious and vicious.</l>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <p>It were a good déed zome body would breke his hed:</p>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <p>Bum vay Naybor Lob. I chouſd he were dead.</p>
+            </sp>
+            <pb facs="tcp:11007:16"/>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>So would I Lob and Hob with all my hart:</l>
+               <l>Now with bothe hands, wil ye ſée me play my parte?</l>
+               <l>A ye Whorſon traitorly Knaues:</l>
+               <l>Hob and Lob out vpon you ſlaues.</l>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <l>And thou calſt me knaue thou art an other:</l>
+               <l>My name is Lob and Hob my next Naybor.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Hob and Lob, a ye cuntry Patches:</l>
+               <l>A ye fooles ye haue made wrong matches.</l>
+               <l>Ye haue ſpoken treaſon againſt the kings grace:</l>
+               <l>For it I wil accuſe ye before his face.</l>
+               <l>Then for the ſame ye ſhalbe martered:</l>
+               <l>At the leaſt ye ſhall be hangd, drawn and quartered:</l>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <p>O gentleman ye ſhall haue two Peare pyes and tel not of me.</p>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <l>By God a vat Gooſe chil giue thée.</l>
+               <l>I think no hurt by my Vathers ſoule I zweare:</l>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <l>Chaue liued wel all my life time my naybors among:</l>
+               <l>And now chould be lothe to come to zuch wrong.</l>
+               <l>To be hanged and quartered the gréef would be great:</l>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <l>A foule euil on thée Hob, who bid thée on it treat?</l>
+               <l>Vor it was thou that firſt did him name.</l>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <l>Thou lyeſt like a varlet, and thou zaiſt the ſame,</l>
+               <l>It was zuch a vooliſh Lob as thou:</l>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <l>Speake many woords and by cods nailes I vow:</l>
+               <l>Vpon thy pate my ſtaffe I wil lay.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>By the Maſſe I wil cauſe them to make a fray.</l>
+               <l>Yea Lob thou ſayeſt true, all came through him.</l>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <l>Bum vay thou Hob. a little would make me ye trim.</l>
+               <l>Giue thée a zawp on thy noſe til thy hart ake:</l>
+            </sp>
+            <pb facs="tcp:11007:17"/>
+            <sp>
+               <speaker>Hob.</speaker>
+               <l>If thou dareſt doo it, els man cry creke.</l>
+               <l>I truſt before thou hurt me:</l>
+               <l>With my ſtaffe chil make a Lob of thée.</l>
+            </sp>
+            <stage>¶ <hi>Heer let them fight with their ſlaues, not come neer an other by three or foure yardes, the Vice ſet the<g ref="char:cmbAbbrStroke">̄</g> on as hard as he can one of their wiues come out and all to beat the Vice, he run avvay</hi>
+            </stage>
+            <stage>¶ <hi>Enter Marian may be good, Hobs wife run<g ref="char:EOLhyphen"/>ning in with a Broome and parte them.</hi>
+            </stage>
+            <sp>
+               <speaker>Marian.</speaker>
+               <l>O the body of me huſband Hob, what meane you to fight:</l>
+               <l>For the paſſion of God, no more blowes ſmite.</l>
+               <l>Neighbours and fréends ſo long, and now to fall out:</l>
+               <l>What? in your age to ſeeme ſo ſtout?</l>
+               <l>If I had not parted ye, one had kild another:</l>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <p>I had not cared I ſwere by Gods mother.</p>
+            </sp>
+            <sp>
+               <speaker>Marian,</speaker>
+               <l>Shake hands again at the requeſt of me:</l>
+               <l>As ye haue béen fréends, ſo fréends ſtil be.</l>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <p>Bum troth cham content, and zaiſt woord neigbor
+<hi>Lob:</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lob.</speaker>
+               <p>I am content agréed neighbor <hi>Hob.</hi>
+               </p>
+            </sp>
+            <stage>Shake hands and laugh hartely one at an other.</stage>
+            <sp>
+               <speaker>Marian.</speaker>
+               <l>So, get you to market, no longer ſtay.</l>
+               <l>And with yonder knaue let me make a fray.</l>
+            </sp>
+            <sp>
+               <speaker>Hob.</speaker>
+               <l>Content wife <hi>Marian,</hi> chil doo as thou dooſt ſay:</l>
+               <l>But buſſe me ich pray thée at going away.</l>
+            </sp>
+            <stage>Exeu<g ref="char:cmbAbbrStroke">̄</g>t Hob. Lob.</stage>
+            <sp>
+               <speaker>Marian.</speaker>
+               <l>Thou whorſon knaue &amp; prickeard boy, why didſt y<hi rend="sup">u</hi> let them fight?</l>
+               <l>If one had kild another héer, couldſt thou their deaths requite?</l>
+               <l>It beares a ſigne by this thy déed, a cowardly knaue thou art:</l>
+               <l>Els wouldſt thou draw y<hi rend="sup">e</hi> weapon thine, like a man them to parte</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter,</speaker>
+               <l>What <hi>Marian</hi> may be good, are you come pratling?</l>
+               <pb facs="tcp:11007:17"/>
+               <l>Ye may hap get a box on the eare, with your talking.</l>
+               <l>If they had kilde one another, I had not cared a peaſe:</l>
+            </sp>
+            <stage>Heer let her ſwinge him in her brome, she gets him down, &amp; he her down, thus one on the top of an other make paſtime</stage>
+            <sp>
+               <speaker>Marian.</speaker>
+               <l>A villain, my ſelf on thée I muſt eaſe.</l>
+               <l>Giue me a box on the eare? that wil I try:</l>
+               <l>Who ſhalbe Maiſter thou ſhalt ſee by and by.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>O no more, no more I beſeech you hartely:</l>
+               <l>Euen now I yéeld, and giue you the maiſtery.</l>
+            </sp>
+            <stage>Run his way out while she is down,</stage>
+            <sp>
+               <speaker>Marian</speaker>
+               <l>A thou knaue, dooſt thou throw<g ref="char:cmbAbbrStroke">̄</g> me down and run thy way?</l>
+               <l>If he were heer again, oh how I would him pay.</l>
+               <l>I wil after him, and if I can him méet:</l>
+               <l>With theſe my nailes, his face I wil gréet.</l>
+            </sp>
+            <stage>¶ <hi>Enter Venus leading out her ſone Cupid blinde, he muſt haue a bowe and two shafts, one hedded with golde and th'other hedded with lead.</hi>
+            </stage>
+            <sp>
+               <speaker>Venus.</speaker>
+               <l>Come foorth my ſonne, vnto my woords attentiue eares reſigne</l>
+               <l>What I pretend ſée you frequent, to force this game of mine.</l>
+               <l>The King a kinſwoman hath, adornd with beautie ſtore:</l>
+               <l>And I wiſh that <hi>Dianas</hi> gifts, they twain ſhall kéep no more.</l>
+               <l>But vſe my ſiluer ſugred game, their ioyes for to augment:</l>
+               <l>When I doo ſpeake to wound his hart, <hi>Cupid</hi> my ſonne conſet.</l>
+               <l>And ſhoot at him the ſhaft of looue, that beares the hed of Golde:</l>
+               <l>To wound his hart in loouers wiſe, his gréef for to vnfolde.</l>
+               <l>Though kin ſhe be vnto his grace, that nature me expel:</l>
+               <l>Againſt the courſe therof he may, in my game pleaſe me wel.</l>
+               <l>Wherfore my ſonne doo not forget, foorthwith purſue the déed:</l>
+            </sp>
+            <sp>
+               <speaker>Cupid.</speaker>
+               <l>Mother I meane for to obay, as you haue whole decréed.</l>
+               <l>But you muſt tel me mother deer, when I ſhall arrow draw:</l>
+               <l>Els your requeſt to be attaind, wil not be worth a ſtraw.</l>
+               <l>I am blinde and cannot ſee, but ſtil doo ſhoot by geſſe:</l>
+               <l>The Poets wel in places ſtore, of my might doo expreſſe.</l>
+            </sp>
+            <sp>
+               <speaker>Venus.</speaker>
+               <pb facs="tcp:11007:18"/>
+               <l>
+                  <hi>Cupid</hi> my ſonne whe<g ref="char:cmbAbbrStroke">̄</g> time ſhall ſerue, y<hi rend="sup">e</hi> thou ſhalt doo this déed,</l>
+               <l>Then warning I to thee wil giue, but ſée thou ſhoot, with ſpeed.</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <stage>Lord Lady, waiting maid</stage>
+               <l>Lady déer to King a kin, foorthwith let vs procéed:</l>
+               <l>To trace abrode the beauty féelds, as erſt we had decréed.</l>
+               <l>The blowing buds whoſe ſauery ſents our ſence wil much</l>
+               <l>The ſwéet ſmel of muſk white roſe, to pleſe y<hi rend="sup">e</hi> appetite.</l>
+               <l>The chirpig birds whoſe pleſant tunes, therin ſhall hear record delight</l>
+               <l>That our great ioy we ſhall it finde, in féeld to walke a brode.</l>
+               <l>On Lute and Cittern there to play a heauenly hermony:</l>
+               <l>Our eares ſhall heare, hart to content, our ſports to beautie.</l>
+            </sp>
+            <sp>
+               <speaker>Lady.</speaker>
+               <l>Vnto your woords moſte comely Lord, my ſelf ſubmit doo I:</l>
+               <l>To trace with you in féeld ſo green, I meane not to deny.</l>
+            </sp>
+            <sp>
+               <speaker>Maid</speaker>
+               <stage>heer trace vp &amp; down playing</stage>
+               <l>And I your waiting maid at hand, with diligence wil be:</l>
+               <l>For to fulfil w<hi rend="sup">t</hi> hart and hand, when you ſhall commaund me.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <stage>Enter king. Lord &amp; knight.</stage>
+               <l>Come on my Lord and knight abrode, our mirth let vs imploy</l>
+               <l>Since he is dead this hart of mine, in corps I féel it ioy.</l>
+               <l>Should brother mine haue reigned King, when I had yéelded breth</l>
+               <l>A thouſand brothers I rather had, to put them all to death.</l>
+               <l>But oh, beholde where I doo ſée, a Lord and Lady fair:</l>
+               <l>For beauty ſhe moſte worthy is, to ſit in Princes chaire.</l>
+            </sp>
+            <sp>
+               <speaker>Venus.</speaker>
+               <p>Shoot forth my ſo<g ref="char:cmbAbbrStroke">̄</g>ne now is the time, y<hi rend="sup">e</hi> thou muſt wou<g ref="char:cmbAbbrStroke">̄</g>d his hart</p>
+            </sp>
+            <sp>
+               <speaker>Cupid</speaker>
+               <p>Content you Mother I wil doo my parte.</p>
+               <stage>Shoot there and go out Venus and Cupid.</stage>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Of trueth my Lord in eye of mine, all Ladyes ſhe dooth excel:</l>
+               <l>Can none reporte what dame ſhe is, and to my grace it tel?</l>
+            </sp>
+            <sp>
+               <speaker>Lord.</speaker>
+               <l>Redouted Prince pleaſeth your grace, to you ſhée is a kin:</l>
+               <l>Coſin Iarmin nigh of birth, by mothers ſide come in.</l>
+            </sp>
+            <sp>
+               <speaker>knight.</speaker>
+               <l>And that her waiting maiden is attending her vpon:</l>
+               <l>He is a Lord of Princes Court, and wil be there anon.</l>
+               <pb facs="tcp:11007:18"/>
+               <l>They ſport them ſelues in pleaſant féeld, to former vſed vſe:</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>My Lord &amp; knight of trueth I ſpeake, my hart it cannot chuſe.</l>
+               <l>But with my Lady I muſt ſpeake and ſo expreſſe my minde:</l>
+               <l>My Lord and Ladyes walking there, if you wil fauour finde.</l>
+               <l>Preſent your ſelues vnto my grace, &amp; by my ſide come ſtand:</l>
+            </sp>
+            <sp>
+               <speaker>firſt Lord.</speaker>
+               <p>We wil fulfil moſte mightie king, as your grace doth co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>d.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Lady déer intelligence, my grace hath got of late:</l>
+               <l>You iſſued out of mothers ſtock, and kin vnto my ſtate.</l>
+               <l>According to rule of birth you are, Coſin iarmin mine:</l>
+               <l>Yet doo I wiſh that farther of, this kinred I could finde.</l>
+               <l>For <hi>Cupid</hi> he that eyeleſſe boy, my hart hath ſo inflamed:</l>
+               <l>With beauty you me to content, the like cannot be named.</l>
+               <l>For ſince I entred in this place and on you fixt mine eyes:</l>
+               <l>Moſte burning fits about my hart in ample wiſe did riſe.</l>
+               <l>The heat of the<g ref="char:cmbAbbrStroke">̄</g> ſuch force dooth yéeld, my corps they ſcorch alas:</l>
+               <l>And burnes y<hi rend="sup">e</hi> ſame with waſting heat, as <hi>Titan</hi> dooth the graſſe</l>
+               <l>And ſith this heat is kindled ſo, and freſh in hart of me:</l>
+               <l>There is no way but of the ſame, the quencher you muſt be.</l>
+               <l>My meaning is y<hi rend="sup">t</hi> beauty yours, my hart with looue dooth wou<g ref="char:cmbAbbrStroke">̄</g>d:</l>
+               <l>To giue me looue, minde to content my hart hath you out found.</l>
+               <l>And you are ſhée muſt be my wife, els ſhall I end my dayes:</l>
+               <l>Conſent to this and be my Quéen, to were y<hi rend="sup">e</hi> crown with praiſe.</l>
+            </sp>
+            <sp>
+               <speaker>Lady.</speaker>
+               <l>If it pleaſe your grace (O mightie king) you ſhall not this re<g ref="char:EOLhyphen"/>queſt</l>
+               <l>It is a thing that natures courſe, dooth vtterly deteſt.</l>
+               <l>And high it would the God diſpleaſe, of all that is the wurſt:</l>
+               <l>To graunt your grace to marry ſo, it is not I that durſt.</l>
+               <l>Yet humble thanks I render now vnto you mightie King:</l>
+               <l>That you vouchſafe to great eſtate, ſo gladly would me bring.</l>
+               <l>Were it not it were offence, I would it not deny:</l>
+               <l>But ſuch great honor to atchiue, my hart I would apply.</l>
+               <l>Therfore (O king) with humble hart, in this I pardon craue:</l>
+               <l>Mine anſwere is in this requeſt: your minde ye may not haue.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>May I not? nay then I wil by all the Gods I vow:</l>
+               <pb facs="tcp:11007:19"/>
+               <l>And I wil mary thée as wife, this is mine anſwere now:</l>
+               <l>Who dare ſay nay what I prete<g ref="char:cmbAbbrStroke">̄</g>d, who dare the ſame w<hi rend="sup">t</hi>ſtand?</l>
+               <l>Shall loſe his hed and haue reporte, as traitor through my la<g ref="char:cmbAbbrStroke">̄</g>d.</l>
+               <l>There is no nay I wil you haue, and you my Quéen ſhalbe:</l>
+            </sp>
+            <sp>
+               <speaker>Lady.</speaker>
+               <l>Then mightie King I craue your grace, to hear y<hi rend="sup">e</hi> words of me</l>
+               <l>Your councel take of Lordings wit, the lawes aright peruſe:</l>
+               <l>If I with ſafe may graunt this déed, I wil it not refuſe.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>No, no, what I haue ſaid to you. I meane to haue it ſo:</l>
+               <l>For counſel theirs I meane not I, in this reſpect to go.</l>
+               <l>But to my Pallaice let vs go, the mariage to prepare:</l>
+               <l>For to auoid my wil in this, I can it not forbeare.</l>
+            </sp>
+            <sp>
+               <speaker>Lady.</speaker>
+               <l>O God forgiue me if I doo amiſſe:</l>
+               <l>The king by compultion, inforſeth me this.</l>
+            </sp>
+            <sp>
+               <speaker>Maid</speaker>
+               <l>Vnto the Gods for your eſtate, I wil not ceaſe to pray:</l>
+               <l>That you may be a happy Quéen. and ſée moſte ioyful day.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Come on my Lords with gladſome harts, let vs reioice w<hi rend="sup">t</hi> glée:</l>
+               <l>Your Muſick ſhowe to ioy this déed, at the requeſt of me.</l>
+            </sp>
+            <sp>
+               <speaker>Bothe.</speaker>
+               <p>For to obey your graces woords our honours doo agrée.</p>
+            </sp>
+            <stage>Exeu<g ref="char:cmbAbbrStroke">̄</g>t</stage>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <stage>Enter Ambidexter</stage>
+               <l>O the Paſſion of me, mary as ye ſay, yonder is a royal court</l>
+               <l>There is triumphing and ſport vpon ſporte.</l>
+               <l>Such loyall Lords, with ſuch Lordly exerciſe:</l>
+               <l>Frequenting ſuch paſtime as they can deuiſe.</l>
+               <l>Running at tilt, Iuſting, with running at the King:</l>
+               <l>Maſking and mumming, with eche kinde of thing,</l>
+               <l>Such dauncing, ſuch ſinging, with muſicall hermony:</l>
+               <l>Beleeue me I was lothe to abſent their company.</l>
+               <l>But wil you beleue? Ieſu what haſte they made til they were maried?</l>
+               <l>Not for a Milio<g ref="char:cmbAbbrStroke">̄</g> of pou<g ref="char:cmbAbbrStroke">̄</g>ds one day longer they would haue taried</l>
+               <l>Oh there was a banquet royall and ſuperexelent:</l>
+               <l>Thouſands, and thouſands at that banquit was ſpent.</l>
+               <l>I muſe of nothing but how they can be maried ſo ſoon:</l>
+               <pb facs="tcp:11007:19"/>
+               <l>I care not if I be maried before to morow at noone.</l>
+               <l>If mariage be a thing that ſo may be had:</l>
+               <l>How ſay you maid? to mary me wil ye be glad?</l>
+               <l>Out of dout I beléeue it is ſome excellent treaſure:</l>
+               <l>Els to the ſame belongs abundant pleaſure.</l>
+               <l>Yet with mine eares I haue heard ſome ſay:</l>
+               <l>That euer I was maried, now curſed be the day.</l>
+               <l>Thoſe be they, that with curſe wiues be matched:</l>
+               <l>That huſband for hankes meat, of the<g ref="char:cmbAbbrStroke">̄</g> is vp ſnatched.</l>
+               <l>Hed broke with a bedſtaf, face all to be ſcratched.</l>
+               <l>Knaue ſlaue and villain, a coild cote now and than:</l>
+               <l>Whe<g ref="char:cmbAbbrStroke">̄</g> the wife hath giue<g ref="char:cmbAbbrStroke">̄</g> it, ſhe wil ſay alas good man.</l>
+               <l>Such were better vnmaried my maiſters I trowe:</l>
+               <l>Then all their life after to be matched with a ſhrowe.</l>
+            </sp>
+            <sp>
+               <speaker>Preparation.</speaker>
+               <stage>Enter Preparation.</stage>
+               <l>With ſpéed I am ſent all things to prepare:</l>
+               <l>My meſſage to doo as the king did declare.</l>
+               <l>His grace dooth meane a banquit to make:</l>
+               <l>Meaning in this place repaſte for to take.</l>
+               <l>Wel the cloth ſhalbe laid and all things in redynes:</l>
+               <l>To court to return when doon is my buſines.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>A proper man and alſo a fit.</l>
+               <l>For the Kings eſtate to prepare a banquit.</l>
+            </sp>
+            <sp>
+               <speaker>Preparation.</speaker>
+               <l>What <hi>Ambidexter?</hi> thou art not vnknowen:</l>
+               <l>A wiſchéef on all good faces, ſo that I curſe not mine owne.</l>
+               <l>Now in the knaues name ſhake hands with me.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Wel ſaid goodman pouchmouth your reuerence I ſée.</l>
+               <l>I will teach ye, if your manners no better be.</l>
+               <l>A yée ſlaue, the king dooth me a gentleman alow:</l>
+               <l>Therfore I look, that to me ye ſhall how.</l>
+            </sp>
+            <stage>Fight</stage>
+            <sp>
+               <speaker>Preparation.</speaker>
+               <l>Good Maiſter <hi>Ambidexter,</hi> pardon my behauiour:</l>
+               <l>For this your déeds, ye are a knaue for your labour.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <p>Why ye ſtale counterly vaillain, nothing but Knaue?</p>
+            </sp>
+            <stage>Fight</stage>
+            <pb facs="tcp:11007:20"/>
+            <sp>
+               <speaker>Preparation.</speaker>
+               <l>I am ſory your maiſterſhip offended I haue.</l>
+               <l>Shake hands that betwéen vs agréement may bée:</l>
+               <l>I was ouer ſhot with my ſelf, I doo ſee.</l>
+               <l>Let me haue your help, this furniture to prouide:</l>
+               <l>The King from this place wil not long abide.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <stage>ſet the frute on the bord</stage>
+               <l>Content, it is the thing that I would wiſh:</l>
+               <l>I my ſelf wil go fetch on Diſh.</l>
+            </sp>
+            <stage>¶ <hi>Let the Vice fet a dish of nuts and let them fall in the bringing of them in.</hi>
+            </stage>
+            <sp>
+               <speaker>Preparation.</speaker>
+               <p>Clenly maiſter <hi>Ambidexter,</hi> for fair on the ground they lye:</p>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <p>I will haue them vp again by and by.</p>
+            </sp>
+            <sp>
+               <speaker>Preparation.</speaker>
+               <l>To ſée all in redynes I wil put you in truſt:</l>
+               <l>There is no nay to the Court néeds I muſt.</l>
+            </sp>
+            <stage>Exit Prepartion</stage>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Haue ye no dout but all ſhalbe wel:</l>
+               <l>Mary Sir as you ſay, this geer dooth excel.</l>
+               <l>All things is in a redynes, when they come hether:</l>
+               <l>The kings grace and the Quéen bothe togither.</l>
+               <l>I beſéech ye my maiſters tel me is it not beſt:</l>
+               <l>That I be ſo bolde to bid a geſt?</l>
+               <l>He is as honeſt a man as euer ſpurd Cow:</l>
+               <l>My Coſin cutpurſe I meane, I beſéech ye iudge you:</l>
+               <l>Beléeue me Coſin if to be the Kings geſt, ye could be taken:</l>
+               <l>I truſt that offer would not be forſaken.</l>
+               <l>But Coſin becauſe to that office ye are not like to co<g ref="char:cmbAbbrStroke">̄</g>e:</l>
+               <l>Frequent your exerſiſes, a horne on your Thumb.</l>
+               <l>A quick eye, a ſharp knife, at hand a receiuer:</l>
+               <l>But then take héed Coſin ye be a clenly conuayour.</l>
+               <l>Content your ſelf Coſin, for this banquit you are vnfit:</l>
+               <l>When ſuch as I at the ſame am not worthy to ſit.</l>
+            </sp>
+            <stage>Enter</stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>My Quéen and Lords to take repaſt, let vs attempt the ſame</l>
+               <l>Héer is the place delay no time, but to our purpoſe frame.</l>
+            </sp>
+            <pb facs="tcp:11007:20"/>
+            <sp>
+               <speaker>Queene.</speaker>
+               <p>With willing harts your whole beheſt, we minde for to obay:</p>
+            </sp>
+            <sp>
+               <speaker>All</speaker>
+               <p>And we the reſt of Princes train, wil doo as you doo ſay.</p>
+            </sp>
+            <sp>
+               <speaker>king</speaker>
+               <stage>Sit at the banquit.</stage>
+               <l>Me think mine eares dooth wiſh the ſou<g ref="char:cmbAbbrStroke">̄</g>d, of muſicks hermony:</l>
+               <l>Héer for to play before my grace, in place I would them ſpy:</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <stage>Play at the banquet</stage>
+               <l>They be at hand Sir with ſtick and fidle:</l>
+               <l>They can play a new daunce called hey didle didle.</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>By Quéen parpend what I pronounce I wil not violate:</l>
+               <l>But one thing which my hart makes glad. I minde to explicate</l>
+               <l>You knowe in Court by trained is, a Lyon very yung:</l>
+               <l>Of on litter two whelps beſide, as yet not very ſtrong.</l>
+               <l>I did requeſt one whelp to ſee, and this yung Lion fight:</l>
+               <l>But Lion did the whelp conuince, by ſtrength of force a might.</l>
+               <l>His brother welp perceiuing that the Lion was to good:</l>
+               <l>And he by force was like to ſée, the other whelp his blood.</l>
+               <l>With force to Lyon he did run, his brother for to help:</l>
+               <l>A wunder great it was to ſée that fréendſhip in a whelp.</l>
+               <l>So then the the whelpes betwéen them both y<hi rend="sup">e</hi> Lion did co<g ref="char:cmbAbbrStroke">̄</g>uince</l>
+               <l>Which thing to ſee before mine eyes, did glad y<hi rend="sup">t</hi> hart of Prince.</l>
+            </sp>
+            <stage>¶ <hi>At this tale tolde let the Queene vveep.</hi>
+            </stage>
+            <sp>
+               <speaker>Queene.</speaker>
+               <p>Theſe woords to hear makes ſtilling teares, iſſue from Chriſtal eyes</p>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <p>What dooſt thou meane my ſpouſe to wéep, for loſſe of any priſe</p>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <l>No, no (O King) but as you ſee, fréendſhip in brothers whelp:</l>
+               <l>When one was like to haue repulſe, the other yéelded help.</l>
+               <l>And was this fauour ſhowd in dogs to ſhame of royall king:</l>
+               <l>Alack I wiſh theſe eares of mine, had not once heard this thing</l>
+               <l>Euen ſo ſhould you (O mightie King) to brother béen a ſtay:</l>
+               <l>And not without offence to you, in ſuch wiſe him to ſlay.</l>
+               <l>In all aſſayes it was your parte, his cauſe to haue defended:</l>
+               <l>And who ſo euer had him miſuſed, to haue them reprehended.</l>
+               <l>But faithful looue was more in Dog, then it was in your grace:</l>
+            </sp>
+            <pb facs="tcp:11007:21"/>
+            <sp>
+               <speaker>king.</speaker>
+               <l>O curſed caitiue vicious vile, I hate thée in this place.</l>
+               <l>This banquit it is an end, take all theſe things away:</l>
+               <l>Before my face thou ſhalt repent, the woords that thou dooſt ſay</l>
+               <l>O wretch moſte vile, didſt y<hi rend="sup">u</hi> the cauſe of brother mine ſo te<g ref="char:cmbAbbrStroke">̄</g>der:</l>
+               <l>The loſſe of him ſhould gréeue thy hart, he beeing none offender</l>
+               <l>It did me good his death to haue, ſo wil it to haue thine:</l>
+               <l>What freendſhip he had at my hands, y<hi rend="sup">e</hi> ſame euen y<hi rend="sup">t</hi> ſhalt finde</l>
+               <l>I giue conſent and make a vow, that thou ſhalt dye the death:</l>
+               <l>By Cruels ſwoord &amp; Murder fel, euen thou ſhalt dye the breth.</l>
+               <l>
+                  <hi>Ambidexter,</hi> ſee with ſpéed, to Crueltie ye go:</l>
+               <l>Cauſe him hether to approch, Murder with him alſo.</l>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <p>I redy am for to fulfil, if that it be your graces wil.</p>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <p>Then nought oblight my meſſage giuen, abſent thy ſelf away:</p>
+            </sp>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>Then in this place, I wil no longer ſtay:</l>
+               <l>If that I durſt, I would mourne your caſe:</l>
+               <l>But alas, I dare not for feare of his grace.</l>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <stage>Exit Ambidexter.</stage>
+               <l>Thou curſed Iil, by all the Gods, I take an othe and ſwete:</l>
+               <l>that fleſh of thine theſe ha<g ref="char:cmbAbbrStroke">̄</g>ds of mine, in péeces ſmall could tere.</l>
+               <l>But thou ſhalt dye by dent of ſwoord, there is no fréend ne f ee:</l>
+               <l>Shall finde remorce at Princes hand, to ſaue the life of thee.</l>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <l>Oh mightle King &amp; huſband mine, vouchſafe to héer me ſpeke:</l>
+               <l>And licence giue to ſpouſe of thine, her patient minde to breke.</l>
+               <l>For tender looue vnto your grace, my woords I did ſo frame:</l>
+               <l>For pure looue dooth hart of king, me violate and blame.</l>
+               <l>And to your grace is this offence, that I ſhould purchaſe death:</l>
+               <l>Then curſed time that I was Quéen, to ſhorten this my breth.</l>
+               <l>your grace doth know by mariage true, I am your wife &amp; ſpouſe</l>
+               <l>And one to ſaue a<g ref="char:cmbAbbrStroke">̄</g>others helth (at troth plight) made our vowes</l>
+               <l>Therfore O king let loouing Quéen, at thy hand finde remorſe</l>
+               <l>Let pi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e be a meane to quench, that cruel raging force.</l>
+               <l>And pardon plight from princes mouth, yéeld grace vnto your queen:</l>
+               <l>That amitie w<hi rend="sup">t</hi> faithful zeal, may euer be vs betwéen.</l>
+            </sp>
+            <pb facs="tcp:11007:21"/>
+            <sp>
+               <speaker>king.</speaker>
+               <l>A caitiue vile to pitie thée, my hart it is not bent:</l>
+               <l>Ne yet to pardon your offence, it is not mine intent.</l>
+            </sp>
+            <sp>
+               <speaker>firſt Lord.</speaker>
+               <l>Our mightie prince w<hi rend="sup">t</hi> humbe ſute of your grace this I craue:</l>
+               <l>That this requeſt it may take place, your fauour for to haue.</l>
+               <l>Let mercy yet abundantly the life of Queen preſerue:</l>
+               <l>Sith ſhée in moſte obedient wiſe, your graces wil dooth ſerue.</l>
+               <l>As yet your grace but while with her, hath had cohabitation:</l>
+               <l>And ſure this is no deſert why, to yeeld her indiguation.</l>
+               <l>Therfore (O King) her life prolong, to ioy her dayes in bliſſe:</l>
+            </sp>
+            <sp>
+               <speaker>ſecond Lord.</speaker>
+               <l>Your grace ſhall win immortall fame, in graunting vnto this.</l>
+               <l>She is a Queene whoſe goodly hue, excelles the royall Roſe:</l>
+               <l>For beautie bright dame nature ſhe, a large gift did dipoſe.</l>
+               <l>For comelynes who may compare? of all ſhe beares the bet:</l>
+               <l>This ſhould giue cauſe to mooue your grace, to looue her very wel.</l>
+               <l>Her ſiluer breſt in thoſe your armes, to ſing the ſongs of looue:</l>
+               <l>Fine quallities moſte excellent to be in her you prooue.</l>
+               <l>A preciouſe pearle of priſe to Prince, a Iewel paſſing all:</l>
+               <l>Therfore (O king to beg remorce on bothe my knées I fall.</l>
+               <l>To graunt her grace to haue her life, with hart I doo deſire:</l>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <l>You villaines twain, with raging force, ye ſet my hart on fire.</l>
+               <l>If I conſent that ſhe ſhall dye, how dare ye craue her life?</l>
+               <l>You two to aſke this at my hand, dooth much inlarge my ſtrife.</l>
+               <l>Were it not for ſhame you two ſhould dye, that for her life doo ſue</l>
+               <l>But fauour mine from you is gone, my Lords Itel you true.</l>
+               <l>I ſent for Crueltie of late, if he would come away:</l>
+               <l>I would commit her to his hands, his cruel parte to play.</l>
+               <l>Euen now I ſee where he dooth come, it dooth my hart delight:</l>
+            </sp>
+            <stage>¶ <hi>Enter Crueltie and Murder.</hi>
+            </stage>
+            <sp>
+               <speaker>Crueltie,</speaker>
+               <l>Come Murder, come, let vs go foorth with might.</l>
+               <l>Once again the Kings commaundement we muſt fulfil</l>
+            </sp>
+            <sp>
+               <speaker>Murder.</speaker>
+               <p>I am contented to doo it with a good wil.</p>
+            </sp>
+            <sp>
+               <speaker>king.</speaker>
+               <pb facs="tcp:11007:22"/>
+               <l>Murder and Crueltie, for bothe of you I ſent:</l>
+               <l>With all feſtination, your offices to frequent.</l>
+               <l>Lay holde on the Quéen, take her to your power:</l>
+               <l>And make her away with in this houre.</l>
+               <l>Spare for no feare I doo you ful permit:</l>
+               <l>So I from this place, doo meane for to flit.</l>
+            </sp>
+            <sp>
+               <speaker>Bothe.</speaker>
+               <p>With couragious harts (O King) we will obey:</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Then come my Lords let vs departe away.</p>
+            </sp>
+            <sp>
+               <speaker>Bothe the Lords.</speaker>
+               <p>With heuy harts we wil doo all, your grace dooth ſay,</p>
+            </sp>
+            <sp>
+               <speaker>Crueltie.</speaker>
+               <stage>Exeunt king, &amp; Lords</stage>
+               <l>Come Lady and Quéen now are you in our haudling:</l>
+               <l>In faith with you we wil vſe no dandling.</l>
+            </sp>
+            <sp>
+               <speaker>Murder.</speaker>
+               <l>With all expedition, I Murder wil take place:</l>
+               <l>Though thou be a Quéene, ye be vnder my grace.</l>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <p>With patience I wil you bothe obey:</p>
+            </sp>
+            <sp>
+               <speaker>Crueltie.</speaker>
+               <p>No more woords but go with vs away.</p>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <p>Yet before I dye ſome Pſalme to God let me ſing:</p>
+            </sp>
+            <sp>
+               <speaker>Bothe.</speaker>
+               <p>We be content to permit you that thing.</p>
+            </sp>
+            <sp>
+               <speaker>Queene.</speaker>
+               <l>Farwel you Ladyes of the Court, with all your maſking hew:</l>
+               <l>I doo forſake theſe brodered gardes, and all the facions new.</l>
+               <l>The Court and all the courtly train, wherin I had delight:</l>
+               <l>I baniſhed am from happy ſporte and all by ſpightful ſpight.</l>
+               <l>Yet with a ioyful hart to God a Pſalme I meane to ſing:</l>
+               <l>Forgiuing all &amp; the king, of eche kinde of thing.</l>
+            </sp>
+            <stage>ſing &amp; Exeu<g ref="char:cmbAbbrStroke">̄</g>t</stage>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <stage>Enter Ambidexter weping</stage>
+               <l>A, A, A. A, I cannot chuſe but wéep for the Quéene:</l>
+               <l>Nothing but mourning now at the Court there is ſéen.</l>
+               <l>Oh, oh, my hart, my hart, Oh my bum wil break:</l>
+               <l>Very gréef ſo torments me that ſcarce I can ſpeake.</l>
+               <pb facs="tcp:11007:22"/>
+               <l>Who could but wéep for the loſſe of ſuch a Lady?</l>
+               <l>That can not I doo, I ſweare by mine honeſty.</l>
+               <l>But Lord ſo the Ladyes mourn crying a lack:</l>
+               <l>Nothing is worne now but onely black.</l>
+               <l>I beleeue all cloth in walling ſtreet, to make gownes would not ſerue</l>
+               <l>If I make a lye, the Deuil let ye ſterue.</l>
+               <l>All Ladyes mourne bothe yung and olde:</l>
+               <l>There is not one that weareth a points worth of Gold</l>
+               <l>There is a ſorte for feare, for the King doo pray:</l>
+               <l>That would haue him dead, by the maſſe I dare ſay.</l>
+               <l>What a King was he that hath vſed ſuch tiranny?</l>
+               <l>He was a kin to Biſhop Bonner, I think verely,</l>
+               <l>For bothe their delights was to ſhed blood:</l>
+               <l>But neuer intended to doo any good.</l>
+               <l>
+                  <hi>Cambiſes</hi> put a Iudge to death, that was a good deed:</l>
+               <l>But to kil the yung Childe was worſe to procéed.</l>
+               <l>To murder his Brother, and then his owne wife:</l>
+               <l>So help me God and holidom, it is pitie of his life</l>
+               <l>Heare ye? I wil lay twentie thouſand pound:</l>
+               <l>That the king him ſelf dooth dye by ſome wound.</l>
+               <l>He hath ſhed ſo much blood that his wil be ſhed:</l>
+               <l>If it come ſo to paſſe infaith then he is ſped.</l>
+            </sp>
+            <stage>¶ <hi>Enter the king vvithout a gown, a ſwoord thruſt vp into his ſide bleeding.</hi>
+            </stage>
+            <sp>
+               <speaker>King.</speaker>
+               <l>Out alas what ſhall I doo? my life is finiſhed.</l>
+               <l>Wounded I am by ſudain chaunce, my blood is m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niſhed.</l>
+               <l>Gogs hart what meanes might I make, my life to preſerue?</l>
+               <l>Is there nought to be my help: nor is their nought to ſerue?</l>
+               <l>Out vpon the Court, and Lords that there remain:</l>
+               <l>To help my gréef in this my caſe, wil none of them take pain?</l>
+               <l>Who but I in ſuch a wiſe his deaths wound could haue got:</l>
+               <l>As I on horſe back vp did leape, my ſwoord from ſcabard ſhot.</l>
+               <l>And ran me thus into the ſide, as you right wel may ſee:</l>
+               <l>A meruels chaunce vnfortunate, that in this wiſe ſhould bée.</l>
+               <l>I feele my ſelf a dying now, of life bereft am I:</l>
+               <l>And death hath caught me with his dart, for want of blood I ſpy.</l>
+               <l>Thus gaſping héer on ground I lye, for nothing I doo care:</l>
+               <pb facs="tcp:11007:23"/>
+               <l>A iuſt rewad for my miſdeeds, my death dooth plain declare.</l>
+            </sp>
+            <stage>¶ <hi>Heer let him quake and ſtir,</hi>
+            </stage>
+            <sp>
+               <speaker>Ambidexter.</speaker>
+               <l>How now noble King? pluck vp your hart:</l>
+               <l>What wil you dye, and from vs departe?</l>
+               <l>Speake to me, and you be aliue:</l>
+               <l>He cannot ſpeake, but beholde how with death he dooth ſtriue.</l>
+               <l>Alas good King, alas he is gone,</l>
+               <l>The Deuil take me, if for him I make any mone.</l>
+               <l>I did prognoſticate of his end by the Maſſs:</l>
+               <l>Like as I did ſay ſo is it come to paſſe.</l>
+               <l>I wil be gone, if I ſhould be found héer:</l>
+               <l>That I ſhould kil him it would appéer.</l>
+               <l>For feare with
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is death they doo me charge:</l>
+               <l>Farewel my maiſters I wil go take barge.</l>
+               <l>I meane to be packing now is the tide:</l>
+               <l>Farewel my maiſters I wil no longer abide.</l>
+            </sp>
+            <stage>Exit Ambidexter.</stage>
+            <stage>¶ <hi>Enter three Lords</hi>
+            </stage>
+            <sp>
+               <speaker>firſt Lord.</speaker>
+               <l>Beholde my Lords it is euen ſo, as he to vs did tel:</l>
+               <l>His grace is dead vpon the ground, by dent of ſwoord moſte fel.</l>
+            </sp>
+            <sp>
+               <speaker>ſecond Lord.</speaker>
+               <l>As he in ſaddle would haue lept, his ſword from ſheath did go:</l>
+               <l>Coring him vp into the ſide, his life was ended ſo.</l>
+            </sp>
+            <sp>
+               <speaker>third Lord.</speaker>
+               <l>His blood ſo faſt did iſſue out, that nought could him prolong:</l>
+               <l>Yet before he yéelded vp the ghoſt, his hart was very ſtrong.</l>
+            </sp>
+            <sp>
+               <speaker>firſt Lord.</speaker>
+               <l>A iuſt rewarde for his miſdeeds, the God abooue hath wrought:</l>
+               <l>For certainly the life he led, was to be counted nought.</l>
+            </sp>
+            <sp>
+               <speaker>ſecond Lord.</speaker>
+               <l>Yet a <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rincely buriall he ſhall haue, according his eſtate:</l>
+               <l>And more of him heer at this time, we haue not to dilate.</l>
+            </sp>
+            <sp>
+               <speaker>third Lord</speaker>
+               <p>My Lord let vs take him vp, to cary him away.</p>
+            </sp>
+            <sp>
+               <speaker>Bothe.</speaker>
+               <p>Content we are with one accord, to doo as you doo ſay.</p>
+            </sp>
+            <stage>Exeu<g ref="char:cmbAbbrStroke">̄</g>t. All</stage>
+         </div>
+         <div type="epilogue">
+            <head>¶ Epilogus.</head>
+            <pb facs="tcp:11007:23"/>
+            <lg>
+               <l>
+                  <seg rend="decorInit">R</seg>Ight gentle Andience, héere haue you peruſed,</l>
+               <l>The tragicall Hiſtory of this wicked king:</l>
+               <l>According to our duety we haue not refuſed,</l>
+               <l>But to our beſt intent expreſt euery thing.</l>
+               <l>We truſt none is offended for this our dooing,</l>
+               <l>Our Author craues likewiſe if he haue ſquared amiſſe:</l>
+               <l>By gentle admonicion to knowe where the fault is.</l>
+            </lg>
+            <lg>
+               <l>¶ His good wil ſhall not be neglected to amend the ſame,</l>
+               <l>Praying all to beare therfore with his ſimyte déed:</l>
+               <l>Vntil the time ſerue a
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tter he may frame,</l>
+               <l>Thus yéelding you
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to end we decreed.</l>
+               <l>That you ſo gentlely
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>red vs to proceed,</l>
+               <l>In ſuch patien<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as to hear and ſée:</l>
+               <l>We can but thank ye therfore, we can doo no more</l>
+            </lg>
+            <lg>
+               <l>¶ As duty bindes vs for our noble Quéene let vs pray,</l>
+               <l>And for her honorable Councel the trueth y<hi rend="sup">t</hi> they may b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>To practiſe Iuſtice and defend her grace eche day,</l>
+               <l>To maintain Gods woord they may not refuſe.</l>
+               <l>To correct all thoſe, that would her grace &amp; graces lawes abuſe,</l>
+               <l>Beſeeching God ouer vs, ſhe may reign long:</l>
+               <l>To be guided by trueth and defended from wrong.</l>
+            </lg>
+            <bibl>
+               <hi>Thomas Preſton.</hi>
+            </bibl>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Iohn Allde.</p>
+         </div>
+      </back>
+   </text>
+</TEI>

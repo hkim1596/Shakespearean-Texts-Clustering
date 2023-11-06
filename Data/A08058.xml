@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deuice of the pageant set forth by the vvorshipfull companie of the fishmongers, for the right honorable Iohn Allot: established Lord Maior of London, and Maior of the staple for this present yeere of our Lord 1590. By T. Nelson.</title>
+            <author>Nelson, Thomas, fl. 1580.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1590</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A08058</idno>
+            <idno type="STC">STC 18423</idno>
+            <idno type="STC">ESTC S120997</idno>
+            <idno type="EEBO-CITATION">99856188</idno>
+            <idno type="PROQUEST">99856188</idno>
+            <idno type="VID">21715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A08058)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1636:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deuice of the pageant set forth by the vvorshipfull companie of the fishmongers, for the right honorable Iohn Allot: established Lord Maior of London, and Maior of the staple for this present yeere of our Lord 1590. By T. Nelson.</title>
+                  <author>Nelson, Thomas, fl. 1580.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>S.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A play in verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21715:1" rendition="simple:additions"/>
+            <p>THE DEVICE OF the Pageant: Set forth by the VVorſhipfull Companie of the Fiſhmongers, for the right honora<g ref="char:EOLhyphen"/>ble <hi>Iohn Allot:</hi> eſtabliſhed Lord Maior of <hi>London,</hi> and Maior of the Staple for this preſent yeere of our Lord 1590.</p>
+            <p>By T. Nelſon.</p>
+            <p>London. 1590.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poems">
+            <pb facs="tcp:21715:2"/>
+            <pb facs="tcp:21715:2"/>
+            <div type="poem">
+               <head>The Speech ſpoken by him that rideth on the Merman, viz.</head>
+               <lg>
+                  <l>ATtend my Lord, and marke the tale I tell,</l>
+                  <l>Whoſe forme you ſée is monſtrous, ſtrange and rare.</l>
+                  <l>Before a manlike ſhape, behinde a fiſhes fell,</l>
+                  <l>this ſtrange diſguiſe doth make full many ſtare,</l>
+                  <l>And ſince they preaſe to know why I come here,</l>
+                  <l>Let them be ſtill, the cauſe ſhall ſoone appeare.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <lg>
+                  <l>
+                     <seg rend="decorInit">W</seg>Ithin this co<g ref="char:cmbAbbrStroke">̄</g>mon wealth (my Lord) all thoſe y<hi rend="sup">e</hi> liue in awe</l>
+                  <l>Do ſéeke each-daie for to performe &amp; kéep the ſtabliſht law,</l>
+                  <l>Yea ſuch do keep y<hi rend="sup">e</hi> ſabboth day in reuerence as they ought</l>
+                  <l>And fiſh dais too as wel as fleſh, which many ſet at naught</l>
+                  <l>Yet if the ſame were well obſerude, fleſh ſeldome would be déere,</l>
+                  <l>And fiſh abound at each mans boord more plentie in each yéere,</l>
+                  <l>Then Englands ſtore would be increaſt with butter, chéeſe &amp; béefo</l>
+                  <l>And thouſands ſet to worke for fiſh, that now beg for reléefe.</l>
+                  <l>This ſhape ſo ſtrange, ſhew they are ſtrange, &amp; do digres fro<g ref="char:cmbAbbrStroke">̄</g> reaſon</l>
+                  <l>That ſhun in eating fiſh and fleſh, to kéepe both time and ſeaſon,</l>
+                  <l>Which fault reformd, our co<g ref="char:cmbAbbrStroke">̄</g>mon wealth would floriſh in ſuch wiſe,</l>
+                  <l>As neuer anie did beholde the like with mortall eies.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The ſpeech ſpoken by him that rideth on the Vnicorne.</head>
+               <lg>
+                  <l>OH worthie Citie now reioyce in Chriſt,</l>
+                  <l>for through his grace with peace he hath thée bleſſ</l>
+                  <l>Hée ſends thée ſtill ſuch godly magiſtrates,</l>
+                  <l>as dailie ſéekes to keepe thée from vnreſt.</l>
+               </lg>
+               <lg>
+                  <l>Muſe not my Lord, to ſée the Sunne doth ſhine</l>
+                  <l>on Englands peace, who ſits in princely throne,</l>
+                  <l>It doth preſage her Sunne ſhine ſtill ſhall laſt,</l>
+                  <l>and make her foes afeard at euerie blaſt.</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:21715:3"/>
+                  <l>So long as peace directed is by truth,</l>
+                  <l>and Gods pure word receiued as it ought,</l>
+                  <l>So long the Lord will bleſſe this little land,</l>
+                  <l>and make it flow with plentie in each place.</l>
+               </lg>
+               <lg>
+                  <l>Rule now my Lord and keepe this Citie well,</l>
+                  <l>reforme abuſes crept into the ſame,</l>
+                  <l>So ſhall your fame eternizde be for aie,</l>
+                  <l>and London ſtill preſerued from decaie.</l>
+                  <l>And I that do ſupport the Goldſmiths armes,</l>
+                  <l>which long in loue to you haue bin vnited,</l>
+                  <l>Will do my beſt to ſhadow you from harmes,</l>
+                  <l>and finde the meanes your loues may be requighted.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Fame ſounding a Trumpet ſaith.</head>
+               <lg>
+                  <l>THe bleſſed peace which England doth poſſeſſe,</l>
+                  <l>and ſo hath done this thirtie two yeres ſpace.</l>
+                  <l>I Fame am ſent and chargde to do no leſſe,</l>
+                  <l>with trumpets ſound, but ſpread it in each place.</l>
+                  <l>That all may wiſh with hearts which do not faine,</l>
+                  <l>our roiall peace in England ſtill may raine.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>The peace of England.</head>
+               <lg>
+                  <l>I Repreſent your peace and chiefeſt good,</l>
+                  <l>that euerie houre doth praie for your defence,</l>
+                  <l>I ſit as ſhadow for that roiall bloud,</l>
+                  <l>whoſe life is pure, and ſtill hath this pretence,</l>
+                  <l>That whileſt ſhe liues euen with her heart and might,</l>
+                  <l>ſhe ſeekes in peace for to defend your right.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Wiſedome on one ſide ſupporting the State, ſaith.</head>
+               <lg>
+                  <l>VVIſedome ſupporteth ſtill the publike ſtate,</l>
+                  <l>Wiſedome foreſeeth ere it be too late.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Pollicie on the other ſide ſupporting the State, ſaith.</head>
+               <lg>
+                  <l>YEa pollicie preuents each traiterous fact,</l>
+                  <l>And doth performe full many a famous act,</l>
+                  <l>
+                     <pb n="5" facs="tcp:21715:3"/>Both Pollicie and Wiſedome will not ceaſe,</l>
+                  <l>Each night and daie for to preſerue this peace.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Gods Truth.</head>
+               <lg>
+                  <l>GOds ſacred truth loe here I repreſent,</l>
+                  <l>whom Englands peace doth ſtil maintain in place,</l>
+                  <l>I bring you comfort for your ſoules content,</l>
+                  <l>which Englands peace doth willingly imbrace:</l>
+                  <l>And for her ſake by whom Gods truth doth ſtand,</l>
+                  <l>the God of heauen doth bleſſe this little land.</l>
+               </lg>
+               <lg>
+                  <l>Prudence and vertue ſhades our peace each daie,</l>
+                  <l>chaſt is her life, and therewith reſts content,</l>
+                  <l>In vaine delights ſhe ſhuns to runne aſtraie,</l>
+                  <l>her vertues are moſt rare and excellent.</l>
+                  <l>Long may ſhe liue ſtill to preſerue this peace,</l>
+                  <l>Lord ſtill I pray her health and ioyes increaſe.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Plentie.</head>
+               <lg>
+                  <l>THis famous fléece doth ſo adorne our land,</l>
+                  <l>which daily doth with milke and honie flow,</l>
+                  <l>That Fame doth make all nations vnderſtand,</l>
+                  <l>like peace and plentie neuer man did know,</l>
+                  <l>For wool and lead, for tin, corne, béere and béefe,</l>
+                  <l>Of Chriſtian nations England is the chéefe.</l>
+               </lg>
+               <lg>
+                  <l>Muſe not to ſée this famous fléece doth ſtand</l>
+                  <l>vpon a wooll packe, fixt at peaces féete,</l>
+                  <l>The reaſon is, as you may vnderſtand,</l>
+                  <l>worthie <hi>Iohn Allot</hi> for his place moſt méete.</l>
+                  <l>Is Maior of London and the Staple too,</l>
+                  <l>And will performe in both what hée ſhould doo.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Loialtie and Concord.</head>
+               <lg>
+                  <l>Faithfull and loyall are hir ſubiects ſeene,</l>
+                  <l>Concord vnites them ſtill in loyall bands,</l>
+                  <l>Their tender hearts is linked to our Queene,</l>
+                  <l>and concord craues no other at their hands,</l>
+                  <l>Thus loyaltie and concord doth agree,</l>
+                  <l>That London ſtill therein ſhall famous bee,</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="6" facs="tcp:21715:4"/>
+               <head>Ambition.</head>
+               <lg>
+                  <l>AMbition ſtill p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t vp with hate and pride,</l>
+                  <l>Doth dailie ſéeke to worke ſwéete Englands fall,</l>
+                  <l>He neuer reſts, but ſéekes each time and tide,</l>
+                  <l>How Englands peace might ſoone be brought in thrall.</l>
+                  <l>And common wealth plungde into ciuill broiles,</l>
+                  <l>That forraine foes might triumph in our ſpoiles.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Common wealth.</head>
+               <lg>
+                  <l>OUr Senates graue and worthie magiſtrates,</l>
+                  <l>Shall ſtill indeuor to maintaine our peace,</l>
+                  <l>By baniſhing ambition from our gates,</l>
+                  <l>And ſeeking meanes this peace may neuer ceaſe:</l>
+                  <l>Yea vertue ſo by him aduanſt ſhall be,</l>
+                  <l>That vice ſhall flie and not be ſeene in me.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Science and Labour.</head>
+               <lg>
+                  <l>SCience ſtill ſéekes thoſe things we dailie wiſh,</l>
+                  <l>and Labour toiles to bring vs fleſh and fiſh,</l>
+                  <l>Yea Science ſure doth practiſe euerie daie,</l>
+                  <l>that Labor might kéepe England from decaie,</l>
+                  <l>Science and Labour ſtill preſerues mans health,</l>
+                  <l>and are chiefe props of this our common wealth.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Richard the ſecond.</head>
+               <lg>
+                  <l>HElpe <hi>Walworth</hi> now to dant this rebels pride.</l>
+                  <l>Aſke what thou wilt thou ſhalt not be denide.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Iacke Straw.</head>
+               <lg>
+                  <l>
+                     <hi>IAcke Straw</hi> the rebell I preſent, Wat Tyler was my aide,</l>
+                  <l>Hob Carter and Tom Miller too; we all were not afraid,</l>
+                  <l>For to depriue our ſoueraigne king, Richard the ſecond namde,</l>
+                  <l>Yet for our bad ambitious mindes by Walworth we were tamde,</l>
+                  <l>He being Maior of London then, ſoone danted all our pride,</l>
+                  <l>He ſlew me firſt, the reſt ſoone fled, and then like traitors dide.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Common wealth.</head>
+               <lg>
+                  <l>I Repreſent ſir William Walworths place,</l>
+                  <l>A fiſhmonger, and Maior of London twice,</l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:21715:4"/>
+                  <l>I ſlew Iacke Straw, who ſought my kings diſgrace,</l>
+                  <l>and for my act reapt honors of great price,</l>
+                  <l>Firſt Knight was I of London you may reade,</l>
+                  <l>and ſince each Maior gaines knighthood by my déede.</l>
+               </lg>
+               <lg>
+                  <l>Yea for that déede to London I did gaine,</l>
+                  <l>this dagger here in armes giuen as you ſée,</l>
+                  <l>I won my companie this creaſt which doth remaine,</l>
+                  <l>this to my ſelfe and my poſteritie.</l>
+                  <l>Thus did the King with honors me adore,</l>
+                  <l>and Fame her ſelfe ſtill laudeth me therefore.</l>
+               </lg>
+               <p>It is to be vnderſtood that ſir William Walworth pointeth to the honors wherewith the king did endue him, which were pla<g ref="char:EOLhyphen"/>ced néere about him in the Pageant.</p>
+               <p>The firſt was the dagger giuen in the ſhield to the Citie of Lon<g ref="char:EOLhyphen"/>don, the ſecond was the Creaſt giuen to the Companie, namely two armes bearing vp a crowne, and the third was to the ſaid Wal<g ref="char:EOLhyphen"/>worth and his poſterity for euer, two armes bearing vp a milſtone, ſhewing thereby that the ſaid ſir William Walworth performed a matter ſo vnpoſſible, as it is for a man to holde vp a milſtone be<g ref="char:EOLhyphen"/>twéene both his armes.</p>
+               <epigraph>
+                  <q>
+                     <lg>
+                        <l>Time.</l>
+                        <l>Time ſerues for all things,</l>
+                        <l>Time runneth faſt,</l>
+                        <l>VVe craue your patience, for the time is paſt.</l>
+                     </lg>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>

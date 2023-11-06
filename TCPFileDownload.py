@@ -8,10 +8,10 @@ if not os.path.exists('Data'):
     os.makedirs('Data')
 
 # Read the matched_plays.csv
-df = pd.read_csv('matched_plays.csv')
+df = pd.read_csv('Metadata/PlayMetadata.csv')
 
 # Define the base URL and headers
-base_url = "https://github.com/textcreationpartnership/"
+base_url = "https://raw.githubusercontent.com/textcreationpartnership/"
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0'
 }
@@ -20,7 +20,7 @@ headers = {
 downloaded_files = 0
 for tcp in df['TCP']:
     # Construct the URL
-    url = base_url + tcp + "/blob/master/" + tcp + ".xml"
+    url = base_url + tcp + "/master/" + tcp + ".xml"
     
     # Fetch the file
     response = requests.get(url, headers=headers)

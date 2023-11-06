@@ -1,0 +1,3699 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pompey the Great, his faire Corneliaes tragedie effected by her father and husbandes downe-cast, death, and fortune. Written in French, by that excellent poet Ro: Garnier; and translated into English by Thomas Kid.</title>
+            <title>Cornélie. English</title>
+            <author>Garnier, Robert, 1544-1590.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1595</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A01501</idno>
+            <idno type="STC">STC 11622A</idno>
+            <idno type="STC">ESTC S105700</idno>
+            <idno type="EEBO-CITATION">99841426</idno>
+            <idno type="PROQUEST">99841426</idno>
+            <idno type="VID">6007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A01501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 6007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 544:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pompey the Great, his faire Corneliaes tragedie effected by her father and husbandes downe-cast, death, and fortune. Written in French, by that excellent poet Ro: Garnier; and translated into English by Thomas Kid.</title>
+                  <title>Cornélie. English</title>
+                  <author>Garnier, Robert, 1544-1590.</author>
+                  <author>Kyd, Thomas, 1558-1594.</author>
+               </titleStmt>
+               <extent>[96] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by James Roberts] for Nicholas Ling,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1595.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Cornélie.</note>
+                  <note>A reissue of "Cornelia", 1594, with cancel a1.4. The first issue had James Roberts's name in the imprint.</note>
+                  <note>Signatures: a⁴ A-L⁴.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:6007:1"/>
+            <pb facs="tcp:6007:1"/>
+            <p>Pompey the Great, his faire <hi>Corneliaes Tragedie:</hi> Effected
+by her Father and Huſ<g ref="char:EOLhyphen"/>bandes downe-caſt, death, and fortune.</p>
+            <p>Written in French, by that excellent Poet Ro: Garnier; and
+tran<g ref="char:EOLhyphen"/>ſlated into Engliſh by Thomas Kid.</p>
+            <p>AT LONDON Printed for Nicholas Ling. 1595.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:6007:2"/>
+            <pb facs="tcp:6007:2"/>
+            <head>To the vertuouſly No<g ref="char:EOLhyphen"/>ble, and rightly honoured Lady, the
+<hi>Counteſſe of Suſsex.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Auing no leyſure (moſt noble Lady) but ſuch as euermore is
+traueld with th'afflictions of the minde, then which the world affoords no
+greater miſery, it may bee wondred at by ſome, how I durst vndertake a
+mat<g ref="char:EOLhyphen"/>ter of this moment: which both re<g ref="char:EOLhyphen"/>quireth cunning, rest and oportunity; but
+chiefely, that I would attempt the dedication of ſo rough vnpollished a
+worke, to the ſuruey of your ſo worthy ſelfe.</p>
+            <p>But beeing well instructed in your noble and heroick
+diſpoſitions, and perfectly aſſur'd of your honourable fa<g ref="char:EOLhyphen"/>uours past,
+(though neyther making needles glozes of the one, nor ſpoyling paper with the
+others Phariſaical embro<g ref="char:EOLhyphen"/>derie,) I haue preſum'd vpon your true conceit and
+enter<g ref="char:EOLhyphen"/>tainement of theſe ſmall endeuours, that thus I purpoſed to make
+known, my memory of you and them to be immortall.</p>
+            <p>A fitter preſent for a Patroneſſe ſo well accomplished, I
+could not finde, then this faire preſident of honour, mag<g ref="char:EOLhyphen"/>nanimitie,
+<pb facs="tcp:6007:3"/>and loue. VVherein, what grace that excellent <hi>GARNIER</hi> hath
+lost by my defaulte, I shall beſeech your Honour to repaire, with the regarde
+of thoſe ſo bitter times, and priuie broken paſsions that I endured in
+the wri<g ref="char:EOLhyphen"/>ting it.</p>
+            <p>And ſo vouchſafing but the poſsing of a VVinters weeke with
+deſolate <hi>Cornelia,</hi> I will aſſure your Ladiship my next Sommers
+better trauell, with the Tragedy of <hi>Portia.</hi> And euer ſpend one howre
+of the day in ſome kind ſeruice to your Honour, and another of the night in
+wishing you all happines. Perpetually thus deuoting my poore ſelfe</p>
+            <closer>
+               <signed>Your Honors in all humblenes. <hi>T.
+K.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="argument">
+            <pb facs="tcp:6007:3"/>
+            <head>The Argument.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>ORNELIA</hi> the Daughter of <hi>Metellus Scipio,</hi> a
+young Ro<g ref="char:EOLhyphen"/>maine Lady, (as much accom<g ref="char:EOLhyphen"/>pliſht with the graces of the bo<g ref="char:EOLhyphen"/>die,
+&amp; the vertues of the minde as euer any was,) was firſt mar<g ref="char:EOLhyphen"/>ried to young
+<hi>Craſsus,</hi> who died with his Father, in the diſconfiture of the
+Romains a<g ref="char:EOLhyphen"/>gainſt the Parthians; Afterward ſhe tooke to ſecond husbande
+<hi>Pompey</hi> the great, who (three yeeres after) vpon the firſt fiers of
+the ciuill warres betwixt him &amp; <hi>Caeſar,</hi> ſent her fro thence to
+<hi>Mitilen,</hi> there to attende the incertaine ſucceſſe of thoſe
+affaires. And when he ſawe that hee was vanquiſht at <hi>Pharſalia,</hi>
+returnd to find her out, &amp; carrie her with him into Egipt, where his
+purpoſe was to haue re-enforc'd a newe Armie, and giue a ſecond aſſault
+to <hi>Caeſar.</hi>
+            </p>
+            <p>In this voyage, hee was murdred by <hi>Achillas</hi> and
+<hi>Septimius</hi> the Romaine before her eyes, and in the preſence of his
+young Sonne <hi>Sextus,</hi> and ſome other Senators his friends. After
+which, ſhee retyred her<g ref="char:EOLhyphen"/>ſelfe to Rome. But <hi>Scipio</hi> her Father,
+(beeing made <pb facs="tcp:6007:4"/>Generall of thoſe that ſuruiued after the
+battaile) aſ<g ref="char:EOLhyphen"/>ſembled new forces, and occupied the greater part of Afrique,
+allying himſelfe to <hi>Iuba</hi> King of <hi>Numidia.</hi> A<g ref="char:EOLhyphen"/>gainſt all
+who<g ref="char:cmbAbbrStroke">̄</g>, <hi>Caeſar</hi> (after he had ordied the affayres of Egipt and the
+ſtate of Rome) in the end of VVin<g ref="char:EOLhyphen"/>ter marched. And there (after many light
+encoun<g ref="char:EOLhyphen"/>ters) was a fierce and furious battaile giuen amongſt them, neere the
+walls of <hi>Tapſus.</hi> Where <hi>Scipio</hi> ſeeing himſelfe
+ſubdued, and his Armie ſcattered, he betooke himſelfe with ſome ſmall
+troope, to certaine ſhippes which he had cauſed to ſtay for him.</p>
+            <p>Thence he ſailed towarde <hi>Spayne,</hi> where <hi>Pompeys</hi>
+Faction commaunded, and where a ſuddaine tem<g ref="char:EOLhyphen"/>peſt tooke him on the Sea,
+that draue him backe to Hippon a Towne in Affrique at the deuotion of
+<hi>Cae<g ref="char:EOLhyphen"/>ſar,</hi> where (lying at anchor) he was aſsailed, beaten &amp;
+aſſaulted by the aduerſe Fleete; And for hee woulde not fall aliue into
+the hands of his ſo mightie Enemie, hee ſtabd himſelfe, and ſuddainly
+leapt ouer boorde into the Sea, and there dyed.</p>
+            <p>
+               <hi>Caeſar</hi> (hauing finiſhed theſe warres, and quietly
+reduc'd the Townes and places there-about to his o<g ref="char:EOLhyphen"/>bedience) return'd to Rome
+in tryumph for his vic<g ref="char:EOLhyphen"/>tories; Where this moſt faire and miſerable Ladie,
+hauing ouer-mour'd the death of her deere husband, <pb facs="tcp:6007:4"/>and
+vnderſtanding of theſe croſſe euents and hapleſſe newes of
+Affrique, together with the pitteous man<g ref="char:EOLhyphen"/>ner of her Fathers end, ſhe tooke
+(as ſhe had cauſe) occaſion to redouble both her teares and
+lamenta<g ref="char:EOLhyphen"/>tions: wherewith ſhee cloſeth the Cataſtrophe of this their
+Tragedic.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:6007:5"/>
+            <head>
+               <g ref="char:leaf">❧</g> INTERLOCV<g ref="char:EOLhyphen"/>TORES.</head>
+            <list>
+               <item>M. Cicero.</item>
+               <item>Phillip.</item>
+               <item>Deci. Brutus.</item>
+               <item>M. Anthony.</item>
+               <item>Cornelia.</item>
+               <item>C. Caſsius.</item>
+               <item>Iulius Caeſar.</item>
+               <item>The meſſenger</item>
+               <item>CHORVS.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="tcp:6007:5"/>CORNELIA.</head>
+         <div n="1" type="act">
+            <head>ACTVS. PRIMVS.</head>
+            <stage> 
+               <list>
+                  <item>CICERO.</item>
+               </list>
+            </stage>
+            <sp>
+               <l>VOuchſafe Immortals, and (aboue the reſt)</l>
+               <l>Great <hi>Iupiter,</hi> our Citties ſole Protector,</l>
+               <l>That if (prouok'd againſt vs by our euils,)</l>
+               <l>You needs wil plague vs with your ceaſles wroth,</l>
+               <l>At leaſt to chuſe thoſe forth that are in fault,</l>
+               <l>And ſaue the reſt in theſe tempeſtious broiles:</l>
+               <l>Els let the miſchiefe that ſhould them befall,</l>
+               <l>Be pour'd on me, that one may die for all.</l>
+               <l>Oft hath ſuch ſacrafice appeas'd your ires,</l>
+               <l>And oft yee haue your heauie hands with-held</l>
+               <l>From this poore people, when (with one mans loſſe,)</l>
+               <l>Your pittie hath preſeru'd the reſt vntucht:</l>
+               <l>But we diſloiall to our owne defence,</l>
+               <l>Faint-harted do thoſe liberties enthrall,</l>
+               <l>Which (to preſerue vnto our after good)</l>
+               <l>Our fathers hazarded their dereſt blood.</l>
+               <l>Yet <hi>Brutus Manlius,</hi> hardie <hi>Sceuola,</hi>
+               </l>
+               <l>And ſtout <hi>Camillus,</hi> are returned fro <hi>Stix,</hi>
+               </l>
+               <l>Deſiring Armes to ayde our Capitoll.</l>
+               <l>Yea, come they are, and fiery as before,</l>
+               <l>
+                  <pb facs="tcp:6007:6"/>Vnder a Tyrant ſee our baſtard harts</l>
+               <l>Lye idely ſighing, while our ſhamefull ſoules</l>
+               <l>Endure a million of baſe controls.</l>
+               <l>Poyſoned Ambition (rooted in high mindes)</l>
+               <l>T'is thou that train'ſt vs into all theſe errors:</l>
+               <l>Thy mortall couetize peruerts our lawes,</l>
+               <l>And teares our freedom from our franchiz'd harts.</l>
+               <l>Our Fathers found thee at their former walls;</l>
+               <l>And humbled to theyr of-ſpring left thee dying.</l>
+               <l>Yet thou reuiuing, foyl'dſt our Infant Towne,</l>
+               <l>With guiltles blood by brothers hands out-lanched.</l>
+               <l>And hongſt (O Hell) vpon a Forte halfe finiſht,</l>
+               <l>Thy monſtrous murder for a thing to marke.</l>
+               <l>"But faith continues not where men command.</l>
+               <l>"Equals are euer bandying for the beſt:</l>
+               <l>"A ſtate deuided cannot firmely ſtand.</l>
+               <l>"Two Kings within one realme could neuer reſt.</l>
+               <l>Thys day we ſee, the Father and the ſonne,</l>
+               <l>Haue fought like foes Pharſalias miſerie;</l>
+               <l>And with their blood made marsh the parched plaines,</l>
+               <l>While th'earth that gron'd to beare theyr carkaſses,</l>
+               <l>Bewail'd th'inſatiat humors of them both;</l>
+               <l>That as much blood in wilfull follie ſpent,</l>
+               <l>As were to tame the world ſufficient.</l>
+               <l>Now Parthia feare no more, for <hi>Craſsus</hi> death</l>
+               <l>That we will come thy borders to beſiege:</l>
+               <l>
+                  <pb facs="tcp:6007:6"/>Nor feare the darts of our couragious troopes.</l>
+               <l>For thoſe braue ſouldiers that were (ſometime) wont</l>
+               <l>To terrifie thee with their names, are dead.</l>
+               <l>And ciuill furie, fiercer then thine hoſts,</l>
+               <l>Hath in a manner this great Towne ore-turn'd;</l>
+               <l>That whilom was the terror of the world.</l>
+               <l>Of whom ſo many Nations ſtood in feare,</l>
+               <l>To whom ſo many Nations proſtrate ſtoopt,</l>
+               <l>Ore whom (ſaue heauen) nought could ſignorize,</l>
+               <l>And whom (ſaue heauen) nothing could afright.</l>
+               <l>Impregnable, immortall, and whoſe power,</l>
+               <l>Could neuer haue beene curb'd, but by it ſelfe.</l>
+               <l>For neither could the flaxen-haird high Dutch,</l>
+               <l>(A martiall people madding after Armes,)</l>
+               <l>Nor yet the fierce and fiery humor'd French,</l>
+               <l>The More that trauels to the Lybian ſands,</l>
+               <l>The Greek, Th'Arabian, Macedons or Medes,</l>
+               <l>Once dare t'aſſault it, or attempt to lift</l>
+               <l>Theyr humbled heads, in preſence of proud Rome.</l>
+               <l>But by our Lawes from libertie reſtraynd,</l>
+               <l>Like Captiues lyu'd eternally enchaynd.</l>
+               <l>But Rome (alas) what helps it that thou ty'dſt</l>
+               <l>The former World to thee in vaſſalage?</l>
+               <l>What helps thee now t'haue tam'd both land and Sea?</l>
+               <l>What helps it thee that vnder thy controll,</l>
+               <l>The Morne and Mid-day both by Eaſt and Weſt,</l>
+               <l>
+                  <pb facs="tcp:6007:7"/>And that the golden Sunne where ere he driue</l>
+               <l>His glittring Chariot, findes our Enſignes ſpred?</l>
+               <l>Sith it contents not thy poſteritie;</l>
+               <l>But as a bayte for pride (which ſpoiles vs all,)</l>
+               <l>Embarques vs in ſo perilous a way,</l>
+               <l>As menaceth our death, and thy decay.</l>
+               <l>For Rome thou now reſembleſt a Ship,</l>
+               <l>At random wandring in a boiſtrous Sea,</l>
+               <l>When foming billowes feele the Northern blaſts:</l>
+               <l>Thou toyl'ſt in perrill, and the windie ſtorme,</l>
+               <l>Doth topſide-turuey toſſe thee as thou floteſt.</l>
+               <l>Thy Maſt is ſhyuer'd, and thy maine-ſaile torne,</l>
+               <l>Thy ſides ſore beaten, and thy hatches broke.</l>
+               <l>Thou want'ſt thy tackling, and a Ship vnrig'd</l>
+               <l>Can make no ſhift to combat with the Sea.</l>
+               <l>See how the Rocks do heaue their heads at thee,</l>
+               <l>Which if thou ſholdſt but touch, thou ſtraight becomſt</l>
+               <l>A ſpoyle to <hi>Neptune,</hi> and a ſportfull praie</l>
+               <l>Toth' Glauc's and Trytons, pleaſd with thy decay.</l>
+               <l>Thou vaunt'ſt not of thine Aunceſtors in vaine,</l>
+               <l>But vainely count'ſt thine owne victorious deeds.</l>
+               <l>What helpeth vs the things that they did then,</l>
+               <l>Now we are hated both of Gods and men?</l>
+               <l>"Hatred accompanies proſperitie,</l>
+               <l>"For one man grieueth at anothers good,</l>
+               <l>"And ſo much more we thinke our miſerie,</l>
+               <l>
+                  <pb facs="tcp:6007:7"/>"The more that Fortune hath with others ſtood:</l>
+               <l>"So that we ſild are ſeene as wiſedom would,</l>
+               <l>"To brydle time with reaſon as we ſhould.</l>
+               <l>"For we are proude when Fortune fauours vs,</l>
+               <l>"As if inconſtant Chaunce were alwaies one,</l>
+               <l>"Or ſtanding now, ſhe would continue thus.</l>
+               <l>"O fooles looke back and ſee the roling ſtone,</l>
+               <l>"Whereon ſhe blindly lighting ſets her foote,</l>
+               <l>"And ſlightly ſowes that ſildom taketh roote.</l>
+               <l>Heauen heretofore (enclinde to do vs good,)</l>
+               <l>Did fauour vs, with conquering our foes,</l>
+               <l>When iealous Italie (exaſperate,</l>
+               <l>With our vp-riſing) ſought our Citties fall.</l>
+               <l>But we, ſoone tickled with ſuch flattring hopes,</l>
+               <l>Wag'd further warre with an inſatiate hart,</l>
+               <l>And tyerd our neighbour Countries ſo with charge,</l>
+               <l>As with their loſſe, we did our bounds enlarge.</l>
+               <l>Carthage and Sicily we haue ſubdude,</l>
+               <l>And almoſt yoked all the world beſide:</l>
+               <l>And ſoly through deſire of publique rule,</l>
+               <l>Rome and the earth are waxen all as one:</l>
+               <l>Yet now we liue deſpoild and robd by one,</l>
+               <l>Of th'ancient freedom wherein we were borne.</l>
+               <l>And euen that yoke that wont to tame all others,</l>
+               <l>Is heauily return'd vpon our ſelues.</l>
+               <l>
+                  <pb facs="tcp:6007:8"/>"A note of Chaunce that may the proude controle,</l>
+               <l>"And ſhew Gods wrath againſt a cruell ſoule.</l>
+               <l>"For heauen delights not in vs, when we doe</l>
+               <l>"That to another, which our ſelues dyſdaine:</l>
+               <l>"Iudge others as thou wouldſt be iudg'd againe.</l>
+               <l>"And do but as thou wouldſt be done vnto.</l>
+               <l>"For ſooth to ſay (in reaſon) we deſerue,</l>
+               <l>"To haue the ſelfe-ſame meaſure that we ſerue.</l>
+               <l>What right had our ambitious aunceſtors,</l>
+               <l>(Ignobly iſſued from the Carte and Plough,)</l>
+               <l>To enter Aſia? What, were they the heires</l>
+               <l>To Perſia or the Medes, firſt Monarchies?</l>
+               <l>What intereſt had they to Afferique?</l>
+               <l>To Gaule or Spaine? Or what did <hi>Neptune</hi> owe
+<hi>vs</hi>
+               </l>
+               <l>Within the bounds of further Brittanie?</l>
+               <l>Are we not thieues and robbers of thoſe Realmes</l>
+               <l>That ought vs nothing but reuenge for wrongs?</l>
+               <l>What toucheth vs the treaſure or the hopes,</l>
+               <l>The lyues or lyberties of all thoſe Nations,</l>
+               <l>Whom we by force haue held in ſeruitude?</l>
+               <l>Whoſe mournfull cryes and ſhreekes to heauen aſcend,</l>
+               <l>Importuning both vengeance and defence</l>
+               <l>Againſt this Citty, ritch of violence.</l>
+               <l>"T'is not enough (alas) our power t'extend,</l>
+               <l>"Or ouer-runne the world from Eaſt to Weſt,</l>
+               <l>"Or that our hands the Earth can comprehend,</l>
+               <l>
+                  <pb facs="tcp:6007:8"/>"Or that we proudly doe what lyke vs beſt.</l>
+               <l>"He lyues more quietly whoſe reſt is made,</l>
+               <l>"And can with reaſon chaſten his deſire,</l>
+               <l>"Then he that blindly toyleth for a ſhade,</l>
+               <l>"And is with others Empyre ſet on fire.</l>
+               <l>"Our blyſſe conſiſts not in poſseſsions,</l>
+               <l>"But in commaunding our affections</l>
+               <l>"In vertues choyſe, and vices needfull chace</l>
+               <l>"Farre from our harts, for ſtayning of our face.</l>
+            </sp>
+            <sp>
+               <speaker>CHORVS.</speaker>
+               <lg>
+                  <l>
+                     <hi>VPpon thy backe (where miſerie doth ſit)</hi>
+                  </l>
+                  <l>
+                     <hi>O Rome, the heauens with their wrathful hand,</hi>
+                  </l>
+                  <l>
+                     <hi>Reuenge the crymes thy fathers did commit.</hi>
+                  </l>
+                  <l>
+                     <hi>But if (their further furie to withstand,</hi>
+                  </l>
+                  <l>
+                     <hi>VVhich ore thy walls thy wrack ſets menacing)</hi>
+                  </l>
+                  <l>
+                     <hi>Thou dost not ſeeke to calme heauens ireful king,</hi>
+                  </l>
+                  <l>
+                     <hi>A further plague will pester all the land.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>The wrath of heauen (though vrg'd,) we ſee is
+ſlow</hi>
+                  </l>
+                  <l>"<hi>In punishing the euils we haue done:</hi>
+                  </l>
+                  <l>"<hi>For what the Father hath deſeru'd, we know</hi>
+                  </l>
+                  <l>"<hi>Is ſpar'd him, and punisht in the ſonne.</hi>
+                  </l>
+                  <l>"<hi>But to forgiue the apter that they be,</hi>
+                  </l>
+                  <l>"<hi>They are the more displeaſed when they ſee,</hi>
+                  </l>
+                  <l>"<hi>That we continue our offence begunne.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:6007:9"/>
+                  <l>"<hi>Then from her lothſome Caue doth Plague repaire,</hi>
+                  </l>
+                  <l>"<hi>That breaths her beauie poiſons downe to hell:</hi>
+                  </l>
+                  <l>"<hi>VVhich with their noiſome fall corrupt the ayre,</hi>
+                  </l>
+                  <l>"<hi>Or maigre famin, which the weake foretell,</hi>
+                  </l>
+                  <l>"<hi>Or bloody warre, (of other woes the worst,)</hi>
+                  </l>
+                  <l>"<hi>VVhich where it lights doth show the Land accurst,</hi>
+                  </l>
+                  <l>"<hi>And nere did good where euer it befell.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>VVarre that hath ſought Th'Auſonian fame to
+reare,</hi>
+                  </l>
+                  <l>
+                     <hi>In warlike Emonye, (now growne ſo great</hi>
+                  </l>
+                  <l>
+                     <hi>VVith Souldiers bodies that were buried there,)</hi>
+                  </l>
+                  <l>
+                     <hi>VVhich yet to ſack vs toyles in bloody ſweat:</hi>
+                  </l>
+                  <l>
+                     <hi>T'enlarge the bounds of conquering Theſſalie,</hi>
+                  </l>
+                  <l>
+                     <hi>Through murder, diſcord, wrath, and enmitie,</hi>
+                  </l>
+                  <l>
+                     <hi>Euen to the peacefull Indians pearled ſeate.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>VVhoſe entrails fyerd with rancor, wrath and
+rage,</hi>
+                  </l>
+                  <l>
+                     <hi>The former petty combats did diſplace,</hi>
+                  </l>
+                  <l>
+                     <hi>And Campe to Campe did endleſſe baticites mage:</hi>
+                  </l>
+                  <l>
+                     <hi>VVhich on the Mountaine tops of worlike Thrace,</hi>
+                  </l>
+                  <l>
+                     <hi>Made thundring</hi> Mars <hi>(Diſſentions common
+friend,)</hi>
+                  </l>
+                  <l>
+                     <hi>Amongst the forward Souldiers first diſcend,</hi>
+                  </l>
+                  <l>
+                     <hi>Arm'd with his blood-beſmeard keene Coutelace.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>VVho first attempted to excite to Armes,</hi>
+                  </l>
+                  <l>
+                     <hi>The troopes enraged with the Trumpets ſound,</hi>
+                  </l>
+                  <l>
+                     <pb facs="tcp:6007:9"/>
+                     <hi>Head-long to runne and reck no after
+harmes,</hi>
+                  </l>
+                  <l>
+                     <hi>VVhere in the flowred Meades dead men were found;</hi>
+                  </l>
+                  <l>
+                     <hi>Falling as thick (through warlike crueltie,)</hi>
+                  </l>
+                  <l>
+                     <hi>As eares of Corne for want of husbandry;</hi>
+                  </l>
+                  <l>
+                     <hi>That (wastfull) shed their graine vppon the ground.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Owarre, if thou wert ſubiect but to death,</hi>
+                  </l>
+                  <l>
+                     <hi>And by deſert mighst fall to Phlegiton,</hi>
+                  </l>
+                  <l>
+                     <hi>The torment that</hi> Ixion <hi>ſuffereth,</hi>
+                  </l>
+                  <l>
+                     <hi>Or his whoſe ſoule the Vulter ſeazeth on,</hi>
+                  </l>
+                  <l>
+                     <hi>VVere all too little to reward thy wrath:</hi>
+                  </l>
+                  <l>
+                     <hi>Nor all the plagues, that fierie</hi> Pluto
+<hi>hath</hi>
+                  </l>
+                  <l>
+                     <hi>The most outragious ſinners layd vpon.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Accurſed Catiues, wretches that wee are,</hi>
+                  </l>
+                  <l>
+                     <hi>Perceiue we not that for the fatall dombe,</hi>
+                  </l>
+                  <l>
+                     <hi>The Fates make bast enough: but we (by warre)</hi>
+                  </l>
+                  <l>
+                     <hi>Must ſeeke in Hell to haue a haples roome.</hi>
+                  </l>
+                  <l>
+                     <hi>Or fast enough doe foolish men not die,</hi>
+                  </l>
+                  <l>
+                     <hi>But they (by murther of themſelues) must hie,</hi>
+                  </l>
+                  <l>
+                     <hi>Hopeles to hide them in a haples tombe?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>All ſad and deſolate our Citty lyes,</hi>
+                  </l>
+                  <l>
+                     <hi>And (for faire Corne-ground are our fields
+ſurcloid)</hi>
+                  </l>
+                  <l>
+                     <hi>VVith worthles Gorſe, that yerely fruitles dyes;</hi>
+                  </l>
+                  <l>
+                     <hi>And choakes the good which els we had enioy'd.</hi>
+                  </l>
+                  <l>
+                     <pb facs="tcp:6007:10"/>
+                     <hi>Death dwels within vs, and if gentle
+Peace</hi>
+                  </l>
+                  <l>
+                     <hi>Diſcend not ſoone, our ſorrowes to
+ſurceaſe,</hi>
+                  </l>
+                  <l>Latium <hi>(alreadie quaild) will be destroyd.</hi>
+                  </l>
+               </lg>
+            </sp>
+         </div>
+         <div n="2" type="act">
+            <head>ACTVS SECVNDVS.</head>
+            <stage> 
+               <list>
+                  <item>Cornelia.</item>
+                  <item>Cicero.</item>
+               </list>
+            </stage>
+            <sp>
+               <l>AND wil ye needs bedew my dead-grown ioyes,</l>
+               <l>And nouriſh ſorrow with eternall teares?</l>
+               <l>O eyes, and will yee (cauſe I cannot dry</l>
+               <l>Your ceaſeleſſe ſprings) not ſuffer me to die?</l>
+               <l>Then make the blood fro forth my branch-like vaines,</l>
+               <l>Lyke weeping Riuers trickle by your vaults;</l>
+               <l>And ſpunge my bodies heate of moiſture ſo,</l>
+               <l>As my diſpleaſed ſoule may ſhunne my hart.</l>
+               <l>Heauens let me dye, and let the Deſtinies,</l>
+               <l>Admit me paſſage to th'infernall Lake;</l>
+               <l>That my poore ghoſt, may reſt where powerfull fate,</l>
+               <l>In Deaths ſad kingdom hath my husband lodg'd.</l>
+               <l>Fayne would I die, but darkſome vgly Death,</l>
+               <l>With-holds his darte, and in diſdaine doth flye me,</l>
+               <l>Malitiouſly knowing that hels horror,</l>
+               <l>Is mylder then mine endles diſcontent.</l>
+               <l>And that if Death vpon my life ſhould ſeaze,</l>
+               <l>The payne ſuppoſed would procure mine eaſe.</l>
+               <l>
+                  <pb facs="tcp:6007:10"/>But yee ſad Powers that rule the ſilent
+deepes,</l>
+               <l>Of dead-ſad Night, where ſinnes doe maske vnſeene:</l>
+               <l>You that amongſt the darkſome manſions</l>
+               <l>Of pyning ghoſts, twixt ſighes, and ſobs and teares,</l>
+               <l>Do exerciſe your mirthleſſe Empory.</l>
+               <l>Yee gods (at whoſe arbitrament all ſtand,)</l>
+               <l>Diſlodge my ſoule, and keepe it with your ſelues,</l>
+               <l>For I am more then halfe your pryſoner.</l>
+               <l>My noble husbands (more then noble ſoules,)</l>
+               <l>Already wander vnder your commaunds.</l>
+               <l>O then ſhall wretched I, that am but one,</l>
+               <l>(Yet once both theyrs,) ſuruiue now they are gone?</l>
+               <l>Alas thou ſhouldſt, thou ſhouldſt <hi>Cornelia,</hi>
+               </l>
+               <l>Haue broke the ſacred thred that tyde thee heere,</l>
+               <l>When as thy husband <hi>Craſſus</hi> (in his flowre)</l>
+               <l>Did firſt beare Armes, and bare away my loue.</l>
+               <l>And not (as thou haſt done) goe break the bands,</l>
+               <l>By calling <hi>Hymen</hi> once more back againe.</l>
+               <l>Leſſe haples, and more worthily thou might'ſt,</l>
+               <l>Haue made thine aunceſters and thee renound:</l>
+               <l>If (like a royall Dame) with faith faſt kept,</l>
+               <l>Thou with thy former husbands death hadſt ſlept.</l>
+               <l>But partiall Fortune, and the powerful Fates,</l>
+               <l>That at their pleaſures wield our purpoſes,</l>
+               <l>Bewitcht my life, and did beguile my loue.</l>
+               <l>
+                  <hi>Pompey,</hi> the fame that ranne of thy frayle honors,</l>
+               <l>
+                  <pb facs="tcp:6007:11"/>Made me thy wife, thy loue, and (like a thiefe)</l>
+               <l>From my firſt husband ſtole my faithles griefe.</l>
+               <l>But if (as ſome belieue) in heauen or hell,</l>
+               <l>Be heauenly powers, or infernall ſpirits,</l>
+               <l>That care to be aueng'd of Louers othes;</l>
+               <l>(Oathes made in marriage, and after broke.)</l>
+               <l>Thoſe powers, thoſe ſpirits (mou'd with my light faith,)</l>
+               <l>Are now diſpleas'd with <hi>Pompey</hi> and my ſelfe.</l>
+               <l>And doe with ciuill diſcord (furthering it)</l>
+               <l>Vntye the bands, that ſacred <hi>Hymen</hi> knyt.</l>
+               <l>Els onely I, am cauſe of both theyr wraths,</l>
+               <l>And of the ſinne that ceeleth vp thine eyes;</l>
+               <l>Thyne eyes (O deplorable <hi>Pompey</hi>) I am ſhee,</l>
+               <l>I am that plague, that ſacks thy houſe and thee.</l>
+               <l>For t'is not heauen, nor <hi>Craſſus</hi> (cauſe hee
+ſees</l>
+               <l>That I am thine) in iealoſie purſues vs.</l>
+               <l>No, t'is a ſecrete croſſe, an vnknowne thing,</l>
+               <l>That I receiu'd, from heauen at my birth,</l>
+               <l>That I should heape misfortunes on theyr head,</l>
+               <l>Whom once I had receiu'd in marriage bed.</l>
+               <l>Then yee the noble <hi>Romulists</hi> that reſt,</l>
+               <l>Hence-forth forbeare to ſeeke my murdring loue,</l>
+               <l>And let theyr double loſſe that held me deere,</l>
+               <l>Byd you beware for feare you be beguild.</l>
+               <l>Ye may be ritch and great in Fortunes grace,</l>
+               <l>And all your hopes with hap may be effected,</l>
+               <l>
+                  <pb facs="tcp:6007:11"/>But if yee once be wedded to my loue:</l>
+               <l>Clowdes of aduerſitie will couer you.</l>
+               <l>So (peſtilently) fraught with change of plagues,</l>
+               <l>Is mine infected boſome from my youth.</l>
+               <l>Like poyſon that (once lighting in the body)</l>
+               <l>No ſooner tutcheth then it taints the blood;</l>
+               <l>One while the hart, another while the liuer,</l>
+               <l>(According to th'encountring paſſages)</l>
+               <l>Nor ſpareth it what purely feeds the hart,</l>
+               <l>More then the moſt infected filthieſt part.</l>
+               <l>
+                  <hi>Pompey</hi> what holpe it thee, (ſay deereſt life,)</l>
+               <l>Tell mee what holpe thy warlike valiant minde</l>
+               <l>T'encounter with the leaſt of my miſhaps?</l>
+               <l>What holpe it thee that vnder thy commaund</l>
+               <l>Thou ſaw'ſt the trembling earth with horror mazed?</l>
+               <l>Or (where the ſunne forſakes th'Ocean ſea,)</l>
+               <l>Or (watereth his Courſers in the Weſt)</l>
+               <l>Thaue made thy name by farre more fam'd and feard,</l>
+               <l>Then Summers thunder to the ſilly Heard?</l>
+               <l>What holpe it, that thou ſaw'ſt when thou wert young,</l>
+               <l>Thy Helmet deckt with coronets of Bayes?</l>
+               <l>So many enemies in battaile rang'd</l>
+               <l>Beate backe like flyes before a ſtome of hayle?</l>
+               <l>T'haue lookt a-skance and ſee ſo many Kings</l>
+               <l>To lay their Crownes and Scepters at thy feete?</l>
+               <l>
+                  <pb facs="tcp:6007:12"/>T'embrace thy knees, and humbled by theyr fate,</l>
+               <l>T'attend thy mercy in this morneful ſtate?</l>
+               <l>Alas and here-withall, what holpe it thee,</l>
+               <l>That euen in all the corners of the earth,</l>
+               <l>Thy wandring glory, was ſo greatly knowne?</l>
+               <l>And that Rome ſaw thee while thou tryumph'dſt thrice</l>
+               <l>O're three parts of the world that thou hadſt yok'd?</l>
+               <l>That <hi>Neptune</hi> weltring on the windie playnes,</l>
+               <l>Eſcapt not free fro thy victorious hands?</l>
+               <l>Since thy hard hap, ſince thy fierce deſtinie,</l>
+               <l>(Enuious of all thine honors) gaue thee mee.</l>
+               <l>By whom the former courſe of thy faire deeds,</l>
+               <l>Might (with a byting brydle) bee reſtraind;</l>
+               <l>By whom the glorie of thy conqueſts got,</l>
+               <l>Might die diſgrac'd with mine vnhappines.</l>
+               <l>O haples wife, thus ominous to all,</l>
+               <l>Worſe then <hi>Megera,</hi> worſe then any plague.</l>
+               <l>What foule infernall, or what ſtranger hell,</l>
+               <l>Hence-forth wilt thou inhabite, where thy hap,</l>
+               <l>None others hopes, with miſchiefe may entrap.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>What end (O race of <hi>Scipio,</hi>) will the Eates</l>
+               <l>Afford your teares? Will that day neuer come</l>
+               <l>That your deſaſtrous griefes ſhall turne to ioy,</l>
+               <l>And we haue time to burie our annoy?</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:12"/>
+               <speaker>Cornelia.</speaker>
+               <l>Ne're ſhall I ſee that day, for Heauen and Time,</l>
+               <l>Haue faild in power to calme my paſsion.</l>
+               <l>Nor can they (ſhould they pittie my complaints)</l>
+               <l>Once eaſe my life, but with the pangs of death.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"The wide worlds accidents are apt to change.</l>
+               <l>"And tickle Fortune ſtaies not in a place.</l>
+               <l>"But (like the Clowdes) continuallie doth range,</l>
+               <l>"Or like the Sunne that hath the Night in chace.</l>
+               <l>"Then as the Heauens (by whom our hopes are guided)</l>
+               <l>"Doe coaſt the Earth with an eternall courſe,</l>
+               <l>"We muſt not thinke a miſerie betided,</l>
+               <l>"Will neuer ceaſe, but ſtill grow worſe and worſe.</l>
+               <l>"When Iſie Winter's paſt, then comes the ſpring,</l>
+               <l>"Whom Sommers pride (with ſultrie heate) purſues;</l>
+               <l>"To whom mylde Autumne doth earths treaſure bring,</l>
+               <l>"The ſweeteſt ſeaſon that the wiſe can chuſe.</l>
+               <l>"Heauens influence was nere ſo conſtant yet,</l>
+               <l>"In good or bad as to continue it.</l>
+               <l>When I was young, I ſaw againſt poore <hi>Sylla,</hi>
+               </l>
+               <l>Proud <hi>Cynna, Marius,</hi> and <hi>Carbo</hi> fleſh'd,</l>
+               <l>So long, till they gan tiranize the Towne,</l>
+               <l>And ſpilt ſuch ſtore of blood in euery ſtreet,</l>
+               <l>As there were none but dead-men to be ſeene.</l>
+               <l>Within a while, I ſaw how Fortune plaid,</l>
+               <l>
+                  <pb facs="tcp:6007:13"/>And wound thoſe Tyrants vnderneath her wheele,</l>
+               <l>Who loſt theyr liues, and power at once by one,</l>
+               <l>That (to reuenge himſelfe) did (with his blade)</l>
+               <l>Commit more murther then Rome euer made.</l>
+               <l>Yet <hi>Sylla,</hi> ſhaking tyrannie aſide,</l>
+               <l>Return'd due honors to our Common-wealth,</l>
+               <l>Which peaceably retain'd her auncient ſtate,</l>
+               <l>Growne great without the ſtrife of Cittizens.</l>
+               <l>Till thys ambitious Tyrants time, that toyld</l>
+               <l>To ſtoope the world, and Rome to his deſires.</l>
+               <l>But flattring Chaunce that trayn'd his firſt designes,</l>
+               <l>May change her lookes, and giue the Tyrant ouer,</l>
+               <l>Leauing our Cittie, where ſo long agoe,</l>
+               <l>Heauens did theyr fauors lauiſhly beſtow.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>T'is true, the Heauens (at leaſt-wiſe if they pleaſe)</l>
+               <l>May giue poore Rome her former libertie.</l>
+               <l>But (though they would,) I know they cannot giue</l>
+               <l>A ſecond life to <hi>Pompey,</hi> that is ſlaine.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>Mourne not for <hi>Pompey, Pompey</hi> could not die</l>
+               <l>A better death, then for his Countries weale.</l>
+               <l>For oft he ſearch't amongſt the fierce allarms,</l>
+               <l>But (wiſhing) could not find ſo faire an end;</l>
+               <l>Till fraught with yeeres, and honor both at once,</l>
+               <l>Hee gaue his bodie (as a Barricade)</l>
+               <l>
+                  <pb facs="tcp:6007:13"/>For Romes defence, by Tyrants ouer-laide.</l>
+               <l>Brauely he died, and (haplie) takes it ill,</l>
+               <l>That (enuious) we repine at heauens will.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>Alas, my ſorrow would be ſo much leſſe,</l>
+               <l>If he had died (his fauchin in his fiſt.)</l>
+               <l>Had hee amidſt huge troopes of Armed men</l>
+               <l>Beene wounded, by another any waie,</l>
+               <l>It would haue calmed many of my ſighes.</l>
+               <l>For why, t'haue ſeene his noble Roman blood</l>
+               <l>Mixt with his enemies, had done him good.</l>
+               <l>But hee is dead, (O heauens) not dead in fight,</l>
+               <l>With pike in hand vpon a Forte beſieg'd</l>
+               <l>Defending of a breach, but baſely ſlaine:</l>
+               <l>Slaine trayterouſlie, without aſſault in warre.</l>
+               <l>Yea, ſlaine he is, and bitter chaunce decreed</l>
+               <l>To haue me there, to ſee this bloody deed.</l>
+               <l>I ſaw him, I was there, and in mine armes</l>
+               <l>He almoſt felt the poygnard when he fell.</l>
+               <l>Whereat, my blood ſtopt in my ſtragling vaines,</l>
+               <l>Mine haire grew briſtled, like a thornie groue:</l>
+               <l>My voyce lay hid, halfe dead within my throate.</l>
+               <l>My frightfull hart (ſtund in my ſtone-cold breaſt)</l>
+               <l>Faintlie redoubled eu'ry feeble ſtroke.</l>
+               <l>My ſpirite (chained with impatient rage,)</l>
+               <l>Did rauing ſtriue to breake the priſon ope,</l>
+               <l>
+                  <pb facs="tcp:6007:14"/>(Enlarg'd,) to drowne the payne it did abide,</l>
+               <l>In ſolitary <hi>Lethes</hi> ſleepie tyde.</l>
+               <l>Thrice (to abſent me from thys hatefull light,)</l>
+               <l>I would haue plund'd my body in the Sea.</l>
+               <l>And thrice detaind, with dolefull ſhreeks and cryes,</l>
+               <l>(With armes to heauen vprea'd) I gan exclaime</l>
+               <l>And bellow forth againſt the Gods themſelues,</l>
+               <l>A bedroll of outragious blaſphemies.</l>
+               <l>Till (griefe to heare, and hell for me to ſpeake,)</l>
+               <l>My woes waxt ſtronger, and my ſelfe grew weake.</l>
+               <l>Thus day and night I toyle in diſcontent,</l>
+               <l>And ſleeping wake, when ſleepe it ſelfe that rydes</l>
+               <l>Vpon the myſts, ſcarce moyſteneth mine eyes.</l>
+               <l>Sorrow conſumes mee, and in ſteed of reſt,</l>
+               <l>With folded armes I ſadly ſitte and weepe.</l>
+               <l>And if I winck, it is for feare to ſee,</l>
+               <l>The fearefull dreames effects that trouble mee.</l>
+               <l>O heauens, what ſhall I doe? alas muſt I,</l>
+               <l>Muſt I my ſelfe, be murderer of my ſelfe?</l>
+               <l>Muſt I my ſelfe be forc'd to ope the way,</l>
+               <l>Whereat my ſoule in wounds may ſally forth?</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>Madam, you muſt not thus tranſpoſe your ſelfe.</l>
+               <l>VVe ſee your ſorrow, but who ſorrowes not?</l>
+               <l>The griefe is common. And I muſe, beſides</l>
+               <l>The ſeruitude that cauſeth all our cares,</l>
+               <l>
+                  <pb facs="tcp:6007:14"/>Beſides the baſenes wherein we are yoked,</l>
+               <l>Beſides the loſſe of good men dead and gone,</l>
+               <l>What one he is that in this broile hath bin</l>
+               <l>And mourneth not for ſome man of his kin?</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>If all the world were in the like diſtreſſe,</l>
+               <l>My ſorrow yet would neuer ſeeme the leſſe.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"O, but men beare miſ-fortunes with more eaſe,</l>
+               <l>"The more indifferently that they fall,</l>
+               <l>"And nothing more (in vprores) men can pleaſe,</l>
+               <l>"Then when they ſee their woes not worſt of all.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>"Our friendes miſ-fortune dooth increaſe our owne.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"But ours of others will not be acknowne.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>"Yet one mans ſorrow will another tutch.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"I when himſelfe will entertaine none ſuch.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>"Anothers teares, draw teares fro forth our eyes.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"And choyce of ſtreames the greateſt Riuer dryes.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>VVhen ſand within a VVhirle-poole lyes vnwet,</l>
+               <l>
+                  <pb facs="tcp:6007:15"/> My teares ſhall dry, and I my griefe forget.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>What boote your teares, or what auailes your forrow</l>
+               <l>Againſt th'ineuitable dart of Death?</l>
+               <l>Thinke you to moue with lamentable plaints</l>
+               <l>
+                  <hi>Perſiphone,</hi> or <hi>Plutos</hi> gaſtlie ſpirits,</l>
+               <l>To make him liue that's locked in his tombe,</l>
+               <l>And wandreth in the Center of the earth?</l>
+               <l>"No, no, <hi>Cornelia, Caron</hi> takes not paine,</l>
+               <l>"To ferry thoſe that muſt be fetcht againe.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>
+                  <hi>Proſerpina</hi> indeed neglects my plaints,</l>
+               <l>And hell it ſelfe is deafe to my laments;</l>
+               <l>Vnprofitably ſhould I waſte my teares,</l>
+               <l>If ouer <hi>Pompey</hi> I ſhould weepe to death;</l>
+               <l>With hope to haue him be reuiu'd by them.</l>
+               <l>Weeping auailes not, therefore doe I weepe.</l>
+               <l>Great loſſes, greatly are to be depror'd,</l>
+               <l>The loſſe is great that cannot be reſtor'd.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"Nought is immortall vnderneath the Sunne,</l>
+               <l>"All things are ſubiect to Deaths tiranny:</l>
+               <l>"Both Clownes &amp; Kings one ſelfe-ſame courſe muſt
+run,</l>
+               <l>"And what-ſoeuer liues, is ſure to die.</l>
+               <l>Then wherefore mourne you for your husbands death,</l>
+               <l>Sith being a man, he was ordain'd to die?</l>
+               <l>
+                  <pb facs="tcp:6007:15"/>Sith <hi>Ioues</hi> ownes ſonnes, retaining humane
+ſhape,</l>
+               <l>No more then wretched we their death could ſcape.</l>
+               <l>Braue <hi>Scipio,</hi> your famous aunceſtor,</l>
+               <l>That Romes high worth to Affrique did extend;</l>
+               <l>And thoſe two <hi>Scipios</hi> (that in perſon fought,</l>
+               <l>Before the fearefull Carthagenian walls,)</l>
+               <l>Both brothers, and both warrs fierce lightning fiers;</l>
+               <l>Are they not dead? Yes, and their death (our dearth)</l>
+               <l>Hath hid them both embowel'd in the earth.</l>
+               <l>And thoſe great Citties, whoſe foundations reacht</l>
+               <l>From deepeſt hell, and with their tops tucht heauen:</l>
+               <l>Whoſe loftie Towers, (like thorny-pointed ſpeares)</l>
+               <l>Whoſe Temples, Pallaces, and walls emboſt,</l>
+               <l>In power and force, and fiercenes, ſeem'd to threat</l>
+               <l>The tyred world, that trembled with their waight;</l>
+               <l>In one daies ſpace (to our etornall mones)</l>
+               <l>Haue we not ſeene them turn'd to heapes of ſtones?</l>
+               <l>Carthage can witnes, and thou heauens hand-work</l>
+               <l>Faire Ilium, razed by the conquering Greekes;</l>
+               <l>Whoſe auncient beautie, worth and weapons, ſeem'd</l>
+               <l>Sufficient t'haue tam'd the Mermidons.</l>
+               <l>"But whatſo'ere hath been begun, muſt end.</l>
+               <l>"Death (haply that our willingnes doth ſee)</l>
+               <l>"With brandiſht dart, doth make the paſſage free;</l>
+               <l>"And timeles doth our ſoules to <hi>Pluto</hi> ſend.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:16"/>
+               <speaker>Cornelia.</speaker>
+               <l>Would Death had ſteept his date in <hi>Lerna-s</hi> blood,</l>
+               <l>That I were drown'd in the Tartarean deepes.</l>
+               <l>I am an offring fit for <hi>Acheron.</hi>
+               </l>
+               <l>A match more equall neuer could be made,</l>
+               <l>Then I, and <hi>Pompey,</hi> in th'Eliſian ſhade.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"Death's alwaies ready, and our time is knowne</l>
+               <l>"To be at heauens diſpoſe, and not our owne.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>Can wee be ouer-haſtie to good hap?</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>What good expect wee in a fiery gap?</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>To ſcape the feares that followes Fortunes glaunces.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"A noble minde doth neuer feare miſchaunces.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>"A noble minde diſdaineth ſeruitude.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>Can bondage true nobility exclude?</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>How if I doe, or ſuffer that I would not?</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"True nobleſſe neuer doth the thing it ſhould not.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:16"/>
+               <speaker>Cornelia.</speaker>
+               <l>Then muſt I dye.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>Yet dying thinke this ſtil;</l>
+               <l>"No feare of death ſhould force vs to doe ill.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>If death be ſuch, why is your feare ſo rife?</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>My works will ſhew I neuer feard my life.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>And yet you will not that (in our diſtreſſe,)</l>
+               <l>We aske Deaths ayde to end lifes wretchednes.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>"We neither ought to vrge nor aske a thing,</l>
+               <l>"VVherein we ſee ſo much aſſuraunce lyes.</l>
+               <l>"But if perhaps ſome fierce offended King,</l>
+               <l>"(To fright vs) ſette pale death before our eyes,</l>
+               <l>"To force vs doe that goes againſt our hart;</l>
+               <l>"T'were more then baſe in vs to dread his dart.</l>
+               <l>"But when for feare of an enſuing ill,</l>
+               <l>"We ſeeke to ſhorten our appointed race,</l>
+               <l>"Then t'is (for feare) that we our felues doe kill,</l>
+               <l>"So fond we are to feare the worlds diſgrace.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>T'is not for frailtie or faint cowardize,</l>
+               <l>That men (to ſhunne miſchaunces) ſeeke for death.</l>
+               <l>
+                  <pb facs="tcp:6007:17"/>But rather he that ſeeks it, ſhowes
+himſelfe,</l>
+               <l>Of certaine courage, gainſt incertaine chaunce.</l>
+               <l>"He that retyres not at the threats of death,</l>
+               <l>"Is not as are the vulgar, ſlightly faied.</l>
+               <l>"For heauen it ſelfe, nor hels infectious breath,</l>
+               <l>"The reſolute at any time haue ſtayed.</l>
+               <l>"And (ſooth to ſay) why feare we when we ſee,</l>
+               <l>"The thing we feare, leſſe then the feare to be.</l>
+               <l>Then let me die my libertie to ſaue,</l>
+               <l>For t'is a death to lyue a Tyrants ſlaue.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>Daughter, beware how you prouoke the heauens,</l>
+               <l>Which in our bodies (as a tower of ſtrength)</l>
+               <l>Haue plac'd our ſoules, and fortefide the ſame;</l>
+               <l>As diſcreet Princes ſette theyr Garriſons,</l>
+               <l>In ſtrongeſt places of theyr Prouinces.</l>
+               <l>"Now, as it is not lawfull for a man,</l>
+               <l>"At ſuch a Kings departure or deceaſe,</l>
+               <l>"To leaue the place, and falſefie his faith,</l>
+               <l>"So in this caſe, we ought not to ſurrender</l>
+               <l>"That deerer part, till heauen it ſelfe commaund it.</l>
+               <l>"For as they lent vs life to doe vs pleaſure,</l>
+               <l>"So looke they for returne of ſuch a treaſure.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:17"/>
+               <speaker>CHORVS.</speaker>
+               <lg>
+                  <l>"<hi>WHat e're the maſsie Earth hath fraight,</hi>
+                  </l>
+                  <l>"<hi>Or on her nurſe-like backe ſustaines,</hi>
+                  </l>
+                  <l>"<hi>Vpon the will of Heauen doth waite,</hi>
+                  </l>
+                  <l>"<hi>And doth no more then it ordaynes.</hi>
+                  </l>
+                  <l>"<hi>All fortunes, all felicities,</hi>
+                  </l>
+                  <l>"<hi>Vpon their motion doe depend.</hi>
+                  </l>
+                  <l>"<hi>And from the starres doth still ariſe,</hi>
+                  </l>
+                  <l>"<hi>Both their beginning and their end.</hi>
+                  </l>
+                  <l>"<hi>The Monarchies that couer all</hi>
+                  </l>
+                  <l>"<hi>This earthly round with Maiestie,</hi>
+                  </l>
+                  <l>"<hi>Haue both theyr riſing and theyr fall,</hi>
+                  </l>
+                  <l>"<hi>From heauen and heauens varietie.</hi>
+                  </l>
+                  <l>"<hi>Fraile men, or mans more fraile defence,</hi>
+                  </l>
+                  <l>"<hi>Had neuer power, to practiſe ſtayes</hi>
+                  </l>
+                  <l>"<hi>Of this celestiall influence,</hi>
+                  </l>
+                  <l>"<hi>That gouerneth and guides our dayes.</hi>
+                  </l>
+                  <l>"<hi>No clowde but will be ouer-cast.</hi>
+                  </l>
+                  <l>"<hi>And what now florisheth, must fade.</hi>
+                  </l>
+                  <l>"<hi>And that that fades, reuiue at last,</hi>
+                  </l>
+                  <l>"<hi>To florish as it first was made.</hi>
+                  </l>
+                  <l>"<hi>The formes of things doe neuer die,</hi>
+                  </l>
+                  <l>"<hi>becauſe the matter that remaines,</hi>
+                  </l>
+                  <l>"<hi>Reformes another thing thereby,</hi>
+                  </l>
+                  <l>"<hi>That ſtill the former shape retaines.</hi>
+                  </l>
+                  <l>
+                     <pb facs="tcp:6007:18"/>"<hi>The roundnes of two boules
+croſſ-cast,</hi>
+                  </l>
+                  <l>"<hi>(ſo they with equall pace be aim'd,)</hi>
+                  </l>
+                  <l>"<hi>Showes their beginning by their last,</hi>
+                  </l>
+                  <l>"<hi>which by old nature is new-fram'd,</hi>
+                  </l>
+                  <l>"<hi>So peopled citties that of yore</hi>
+                  </l>
+                  <l>"<hi>were deſert fields where none would byde,</hi>
+                  </l>
+                  <l>"<hi>Become forſaken as before,</hi>
+                  </l>
+                  <l>"<hi>yet after are re-edified.</hi>
+                  </l>
+                  <l>"<hi>Perceiue we not a petty vaine,</hi>
+                  </l>
+                  <l>"<hi>cut from a ſpring by chaunce or arte,</hi>
+                  </l>
+                  <l>
+                     <hi>Engendreth fountaines, whence againe,</hi>
+                  </l>
+                  <l>
+                     <hi>thoſe fountaines doe to floods conuart?</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe floods to waues, thoſe waues to ſeas,</hi>
+                  </l>
+                  <l>
+                     <hi>that oft exceede their wonted bounds:</hi>
+                  </l>
+                  <l>
+                     <hi>And yet thoſe ſeas (as heauens pleaſe)</hi>
+                  </l>
+                  <l>
+                     <hi>returne to ſprings by vnder-grounds.</hi>
+                  </l>
+                  <l>
+                     <hi>Euen ſo our cittie (in her prime)</hi>
+                  </l>
+                  <l>
+                     <hi>preſcribing Princes euery thing,</hi>
+                  </l>
+                  <l>
+                     <hi>Is now ſubdu'de by conquering Time:</hi>
+                  </l>
+                  <l>
+                     <hi>and liueth ſubiect to a King.</hi>
+                  </l>
+                  <l>
+                     <hi>And yet perhaps the ſun-bright crowne,</hi>
+                  </l>
+                  <l>
+                     <hi>that now the Tyrans bead doth deck,</hi>
+                  </l>
+                  <l>
+                     <hi>May turne to Rome with true renoune,</hi>
+                  </l>
+                  <l>
+                     <hi>If fortune chaunce but once to check.</hi>
+                  </l>
+                  <l>
+                     <hi>The ſtately walls that once were rear'd,</hi>
+                  </l>
+                  <l>
+                     <hi>and by a shephards hands erect,</hi>
+                  </l>
+                  <l>
+                     <pb facs="tcp:6007:18"/>
+                     <hi>(VVith haples brothers blood
+beſmear'd)</hi>
+                  </l>
+                  <l>
+                     <hi>shall show by whom they were infect.</hi>
+                  </l>
+                  <l>
+                     <hi>And once more vniust</hi> Tarquins <hi>frowne,</hi>
+                  </l>
+                  <l>
+                     <hi>(with arrogance and rage enflam'd)</hi>
+                  </l>
+                  <l>
+                     <hi>Shall keepe the Romaine valure downe;</hi>
+                  </l>
+                  <l>
+                     <hi>and Rome it ſelfe a while be tam'd.</hi>
+                  </l>
+                  <l>
+                     <hi>And chaſtest</hi> Lucrece <hi>once againe,</hi>
+                  </l>
+                  <l>
+                     <hi>(becauſe her name dishonored stood)</hi>
+                  </l>
+                  <l>
+                     <hi>Shall by herſelfe be careleſſe ſlaine,</hi>
+                  </l>
+                  <l>
+                     <hi>and make a riuer of her blood;</hi>
+                  </l>
+                  <l>
+                     <hi>Scorning her ſoule a ſeate should builde</hi>
+                  </l>
+                  <l>
+                     <hi>within a body, baſely ſeene.</hi>
+                  </l>
+                  <l>
+                     <hi>By shameles rape to be defilde,</hi>
+                  </l>
+                  <l>
+                     <hi>that earst was cleere as heauens Queene.</hi>
+                  </l>
+                  <l>
+                     <hi>But heauens as tyrannie shall yoke</hi>
+                  </l>
+                  <l>
+                     <hi>our boſterd harts, with ſeruile thrall;</hi>
+                  </l>
+                  <l>
+                     <hi>So grant your plagues (which they prouoke,)</hi>
+                  </l>
+                  <l>
+                     <hi>may light vpon them once for all.</hi>
+                  </l>
+                  <l>
+                     <hi>And let another</hi> Brutus <hi>riſe,</hi>
+                  </l>
+                  <l>
+                     <hi>brauely to fight in Romes defence,</hi>
+                  </l>
+                  <l>
+                     <hi>To free our Towne from tyrannie,</hi>
+                  </l>
+                  <l>
+                     <hi>and tyrannous proud inſolence.</hi>
+                  </l>
+               </lg>
+            </sp>
+         </div>
+         <div n="3" type="act">
+            <pb facs="tcp:6007:19"/>
+            <head>ACTVS TERTIVS.</head>
+            <stage> 
+               <list>
+                  <item>Cornelia.</item>
+                  <item> Chorus.</item>
+               </list>
+            </stage>
+            <sp>
+               <l>THE cheerefull Cock (the ſad nights comforter,)</l>
+               <l>Wayting vpon the ryſing of the Sunne,</l>
+               <l>Doth ſing to ſee how <hi>Cynthia</hi> ſhrinks her horne,</l>
+               <l>While <hi>Clitie</hi> takes her progreſſe to the Eaſt.</l>
+               <l>Where wringing wet with drops of ſiluer dew,</l>
+               <l>Her wonted teares of loue ſhe doth renew.</l>
+               <l>The wandring Swallow with her broken ſong,</l>
+               <l>The Country-wench vnto her worke awakes;</l>
+               <l>While <hi>Citherea</hi> ſighing walks to ſeeke</l>
+               <l>Her murdred loue, tranſ-form'd into a Roſe.</l>
+               <l>Whom (though ſhe ſee) to crop ſhe kindly feares;</l>
+               <l>But (kiſsing) ſighes, and dewes hym with her teares.</l>
+               <l>Sweet teares of loue, remembrancers to tyme.</l>
+               <l>Tyme paſt with me that am to teares conuerted,</l>
+               <l>Whoſe mournfull paſsions, dull the mornings ioyes.</l>
+               <l>Whoſe ſweeter ſleepes, are turnd to fearefull dreames.</l>
+               <l>And whoſe firſt fortunes, (fild with all diſtreſſe,)</l>
+               <l>Afford no hope of future happineſſe.</l>
+               <l>But what diſaſtrous or hard accident,</l>
+               <l>Hath bath'd your blubbred eyes in bitter teares?</l>
+               <l>That thus conſort me in my myſerie.</l>
+               <l>Why doe you beate your breſts? why mourne you ſo?</l>
+               <l>
+                  <pb facs="tcp:6007:19"/>Say gentle ſiſters, tell me, and belieue</l>
+               <l>It grieues me that I know not why you grieue.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>O poore <hi>Cornelia,</hi> haue not we good cauſe,</l>
+               <l>For former wrongs to furniſh vs with teares?</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>O but I feare that Fortune ſeekes new flawes,</l>
+               <l>And ſtil (vnſatisfide) more hatred beares.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>Wherein can Fortune further iniure vs,</l>
+               <l>Now we haue loſt our conquered libertie,</l>
+               <l>Our Common-wealth, our Empyre, and our honors,</l>
+               <l>Vnder thys cruell <hi>Tarquins</hi> tyrannie?</l>
+               <l>Vnder his outrage now are all our goods,</l>
+               <l>Where ſcattered they runne by Land and Sea</l>
+               <l>(Lyke exil'd vs) from fertill Italy,</l>
+               <l>To proudeſt Spayne, or pooreſt Getulie.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>And will the heauens that haue ſo oft defended</l>
+               <l>Our Romaine walls, from fury of fierce kings,</l>
+               <l>Not (once againe) returne our Senators,</l>
+               <l>That from the Lybique playnes, and Spaniſh fields,</l>
+               <l>With feareles harts do guard our Romaine hopes?</l>
+               <l>Will they not once againe encoumge them,</l>
+               <l>To fill our fields with blood of enemies.</l>
+               <l>And bring from Affrique to our Capitoll,</l>
+               <l>
+                  <pb facs="tcp:6007:20"/>Vpon theyr helmes the Empyre that is ſtole.</l>
+               <l>Then home-borne houſhold gods, and ye good ſpirits,</l>
+               <l>To whom in doubtfull things we ſeeke acceſſe,</l>
+               <l>By whom our family, hath beene adorn'd,</l>
+               <l>And graced with the name of Affrican.</l>
+               <l>Doe ye vouchſafe that thys victorious title,</l>
+               <l>Be not expired in <hi>Cornelias</hi> blood;</l>
+               <l>And that my Father now (in th' Affrique wars)</l>
+               <l>The ſelfe-ſame ſtyle by conqueſt may continue.</l>
+               <l>But wretched that I am, alas I feare.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>What feare you Madam?</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>That the frowning heauens,</l>
+               <l>Oppoſe themſelues againſt vs in theyr wrath.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>Our loſſe (I hope) hath ſatiſ-fide theyr ire.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>O no, our loſſe lyſts Caeſars fortunes hyer.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>Fortune is fickle.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>But hath fayld him neuer.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>The more vnlike ſhe ſhould continue euer.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:20"/>
+               <speaker>Cornelia.</speaker>
+               <l>My fearefull dreames doe my deſpairs redouble.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>Why ſuffer you vayne dreames your heade to trouble?</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>Who is not troubled with ſtrange viſions?</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>That of our ſpyrit are but illuſions.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>God graunt theſe dreames, to good effect bee brought.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>We dreame by night what we by day haue thought.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>The ſilent Night that long had ſoiurned,</l>
+               <l>Now gan to caſt her ſable mantle off,</l>
+               <l>And now the ſleepie Waine-man ſoftly droue,</l>
+               <l>His ſlow-pac'd Teeme, that long had traueled.</l>
+               <l>When (like a ſlumber, if you tearme it ſo)</l>
+               <l>A dulnes, that diſpoſeth vs to reſt,</l>
+               <l>Gan cloſe the windowes of my watchfull eyes,</l>
+               <l>Already tyerd and loaden with my teares.</l>
+               <l>And loe (me thought) came glyding by my bed,</l>
+               <l>The ghoſt of <hi>Pompey,</hi> with a ghaſtly looke;</l>
+               <l>All pale and brawne-falne, not in tryumph borne,</l>
+               <l>Amongſt the conquering Romans as we vs'de,</l>
+               <l>When he (enthroniz'd,) at his feete beheld</l>
+               <l>
+                  <pb facs="tcp:6007:21"/>Great Emperors, faſt bound in chaynes of
+braſſe.</l>
+               <l>But all amaz'd, with fearefull hollow eyes,</l>
+               <l>Hys hayre and beard, deform'd with blood and ſweat,</l>
+               <l>Caſting a thyn courſe lynſel ore hys ſhoulders,</l>
+               <l>That (torne in peeces) trayl'd vpon the ground.</l>
+               <l>And (gnaſhing of his teeth) vnlockt his iawes,</l>
+               <l>Which (ſlyghtly couer'd with a ſcarce-ſeene skyn,)</l>
+               <l>Thys ſolemne tale, he ſadly did begin.</l>
+               <l>Sleep'ſt thou <hi>Cornelia?</hi> ſleepſt thou gentle
+wife,</l>
+               <l>And ſeeſt thy Fathers miſery and mine?</l>
+               <l>Wake deereſt ſweete, and (ore our Sepulchers)</l>
+               <l>In pitty ſhow thy lateſt loue to vs.</l>
+               <l>Such hap (as ours) attendeth on my ſonnes,</l>
+               <l>The ſelfe-ſame foe and fortune following them.</l>
+               <l>Send <hi>Sextus</hi> ouer to ſome forraine Nation,</l>
+               <l>Farre from the common hazard of the warrs;</l>
+               <l>That (being yet ſau'd) he may attempt no more,</l>
+               <l>To venge the valure that is tryde before.</l>
+               <l>He ſayd. And ſuddainly a trembling horror,</l>
+               <l>A chyl-cold ſhyuering (ſetled in my vaines)</l>
+               <l>Brake vp my ſlumber; When I opte my lyps</l>
+               <l>Three times to cry, but could nor cry, nor ſpeake.</l>
+               <l>I mou'd mine head, and flonge abroade mine armes</l>
+               <l>To entertaine him, but his airie ſpirit,</l>
+               <l>Beguiled mine embraſements, and (vnkind)</l>
+               <l>Left me embracing nothing but the wind.</l>
+               <l>
+                  <pb facs="tcp:6007:21"/>O valiant ſoule, when ſhall this ſoule of
+mine,</l>
+               <l>Come viſite thee in the Eliſian ſhades?</l>
+               <l>O deereſt life; or when ſhall ſweeteſt death,</l>
+               <l>Diſſolue the fatall trouble of my daies,</l>
+               <l>And bleſſe me with my <hi>Pompeys</hi> company?</l>
+               <l>But may my father (O extreame miſhap)</l>
+               <l>And ſuch a number of braue regiments,</l>
+               <l>Made of ſo many expert Souldiours,</l>
+               <l>That lou'd our liberty and follow'd him,</l>
+               <l>Be ſo diſcomfited? O would it were but an illuſion.</l>
+            </sp>
+            <sp>
+               <speaker>Cho.</speaker>
+               <l>Madam neuer feare.</l>
+               <l>Nor let a ſenceles Idol of the nyght,</l>
+               <l>Encreaſe a more then needfull feare in you.</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>My feare proceeds not of an idle dreame,</l>
+               <l>For t'is a trueth that hath aſtoniſht me.</l>
+               <l>I ſaw great <hi>Pompey,</hi> and I heard hym ſpeake;</l>
+               <l>And thinking to embrace him, opte mine armes,</l>
+               <l>When drouſy ſleep that wak'd mee at vnwares,</l>
+               <l>Dyd with hys flight vncloſe my feareful eyes</l>
+               <l>So ſuddainly, that yet mee thinks I ſee him.</l>
+               <l>Howbe-it I cannot tuch him, for he ſlides</l>
+               <l>More ſwiftly from mee then the Ocean glydes.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>"Theſe are vaine thoughts, or melancholie ſhowes,</l>
+               <l>"That wont to haunt and trace by cloiſtred tombes:</l>
+               <l>
+                  <pb facs="tcp:6007:22"/>"Which eath's appeare in ſadde and ſtrange
+diſguiſes.</l>
+               <l>"To penſiue mindes deceiued, (wyth theyr ſhadowes)</l>
+               <l>"They counterfet the dead in voyce and figure;</l>
+               <l>"Deuining of our future miſeries.</l>
+               <l>"For when our ſoule the body hath diſgaged,</l>
+               <l>"It ſeeks the common paſſage of the dead,</l>
+               <l>"Downe by the fearefull gates of Acheron.</l>
+               <l>"Where when it is by <hi>Aeacus</hi> adiudg'd,</l>
+               <l>"It eyther turneth to the Stygian Lake,</l>
+               <l>"Or ſtaies for euer in th'Eliſian fields;</l>
+               <l>"And ne're returneth to the Corſe interd;</l>
+               <l>"To walke by night, or make the wiſe afeard.</l>
+               <l>"None but ineuitable conquering Death,</l>
+               <l>"Deſcends to hell, with hope to riſe againe;</l>
+               <l>"For ghoſts of men are lockt in fiery gates,</l>
+               <l>"Faſt-guarded by a fell remorceles Monſter.</l>
+               <l>"And therefore thinke not it was <hi>Pompeys</hi> ſpryte,</l>
+               <l>"But ſome falſe <hi>Daemon</hi> that beguild your ſight.</l>
+            </sp>
+            <sp>
+               <speaker>Cicero.</speaker>
+               <l>Then O worlds Queene, O towne that didſt extend</l>
+               <l>Thy conquering armes beyond the Ocean,</l>
+               <l>And throngdſt thy conqueſts from the Lybian ſhores</l>
+               <l>Downe to the Scithian ſwift-foote feareles Porters,</l>
+               <l>Thou art embas'd; and at this inſtant yeeld'ſt</l>
+               <l>Thy proud necke to a miſerable yoke.</l>
+               <l>Rome thou art tam'd, &amp; th'earth dewd with thy bloode,</l>
+               <l>
+                  <pb facs="tcp:6007:22"/>Doth laugh to ſee how thou art ſigniorizd.</l>
+               <l>The force of heauen exceeds thy former ſtrength.</l>
+               <l>For thou that wont'ſt to tame and conquer all,</l>
+               <l>Art conquer'd now with an eternall fall.</l>
+               <l>Now ſhalt thou march (thy hands faſt bound behind thee)</l>
+               <l>Thy head hung downe, thy cheeks with teares beſprent,</l>
+               <l>Before the victor; Whyle thy rebell ſonne,</l>
+               <l>With crowned front tryumphing followes thee.</l>
+               <l>Thy braueſt Captaines, whoſe coragious harts</l>
+               <l>(Ioyn'd with the right) did re-enforce our hopes,</l>
+               <l>Now murdred lye for Foule to feede vpon.</l>
+               <l>
+                  <hi>Petreus, Cato,</hi>-and <hi>Scipio</hi> are ſlaine,</l>
+               <l>And <hi>Iuba</hi> that amongſt the Mores did raigne.</l>
+               <l>Nowe you whom both the gods and Fortunes grace,</l>
+               <l>Hath ſau'd from danger in theſe furious broyles,</l>
+               <l>Forbeare to tempt the enemy againe,</l>
+               <l>For feare you feele a third calamitie.</l>
+               <l>
+                  <hi>Caeſar</hi> is like a brightlie flaming blaze</l>
+               <l>That fiercely burnes a houſe already fired;</l>
+               <l>And ceaſeles lanching out on euerie ſide,</l>
+               <l>Conſumes the more, the more you ſeeke to quench it,</l>
+               <l>Still darting ſparcles, till it finde a trayne</l>
+               <l>To ſeaze vpon, and then it flames amaine.</l>
+               <l>The men, the Ships, wher-with poore Rome affronts him,</l>
+               <l>All powreles, giue proud <hi>Caeſars</hi> wrath free
+paſſage.</l>
+               <l>Nought can reſiſt him, all the powre we raiſe,</l>
+               <l>
+                  <pb facs="tcp:6007:23"/>Turnes but to our misfortune, and his prayſe.</l>
+               <l>T'is thou (O Rome) that nurc'd his inſolence.</l>
+               <l>T'is thou (O Rome) that gau'ſt him firſt the ſword</l>
+               <l>Which murdrer-like againſt thy ſelfe he drawes:</l>
+               <l>And violates both God and Natures lawes.</l>
+               <l>Lyke morrall <hi>Eſops</hi> myſled Country ſwaine,</l>
+               <l>That fownd a Serpent pyning in the ſnowe,</l>
+               <l>And full of fooliſh pitty tooke it vp,</l>
+               <l>And kindly layd it by his houſhold fire,</l>
+               <l>Till (waxen warme) it nimbly gan to ſtyr,</l>
+               <l>And ſtung to death the foole that foſtred her.</l>
+               <l>O gods that once had care of theſe our walls,</l>
+               <l>And feareles kept vs from th'aſſault of foes.</l>
+               <l>Great <hi>Iupiter,</hi> to whom our Capitol</l>
+               <l>So many Oxen yeerely ſacrafiz'd.</l>
+               <l>
+                  <hi>Minerua, Stator,</hi> and ſtoute Thracian <hi>Mars,</hi>
+               </l>
+               <l>Father to good <hi>Quirinus</hi> our firſt founder.</l>
+               <l>To what intent haue ye preſeru'd our Towne?</l>
+               <l>This ſtatelie Towne ſo often hazarded,</l>
+               <l>Againſt the Samnites, Sabins, and fierce Latins?</l>
+               <l>Why from once footing in our Fortreſſes,</l>
+               <l>Haue yee repeld the luſtie warlike Gaules?</l>
+               <l>Why from Moloſſus and falſe <hi>Hanibal,</hi>
+               </l>
+               <l>Haue yee reſeru'd the noble Romuliſts?</l>
+               <l>Or why from <hi>Catlins</hi> lewde conſpiracies,</l>
+               <l>Preſeru'd yee Rome by my preuention?</l>
+               <l>
+                  <pb facs="tcp:6007:23"/>To caſt ſo ſoone a ſtate ſo long
+defended,</l>
+               <l>Into the bondage where (enthrald) we pine?</l>
+               <l>To ſerue (no ſtranger, but amongſt vs) one</l>
+               <l>That with blind frenzie buildeth vp his throne?</l>
+               <l>But if in vs be any vigor reſting,</l>
+               <l>If yet our harts retaine one drop of blood,</l>
+               <l>
+                  <hi>Caeſar</hi> thou ſhalt not vaunt thy conqueſt long,</l>
+               <l>Nor longer hold vs in this ſeruitude.</l>
+               <l>Nor ſhalt thou bathe thee longer in our blood.</l>
+               <l>For I diuine that thou muſt vomit it,</l>
+               <l>Like to a Curre that Carrion hath deuour'd,</l>
+               <l>And cannot reſt vntill his mawe be ſcour'd.</l>
+               <l>Think'ſt thou to ſigniorize, or be the King</l>
+               <l>Of ſuch a number, nobler then thy ſelfe?</l>
+               <l>Or think'ſt thou Romains beare ſuch baſtard harts,</l>
+               <l>To let thy tyrannie be vnreueng'd?</l>
+               <l>No, for mee thinks I ſee the ſhame, the griefe,</l>
+               <l>The rage, the hatred that they haue conceiu'd:</l>
+               <l>And many a Romaine ſword already drawne,</l>
+               <l>T'enlarge the libertie that thou vſurpſt.</l>
+               <l>And thy diſmembred body (ſtab'd and torne,)</l>
+               <l>Dragd through the ſtreets, diſdained to bee borne.</l>
+            </sp>
+            <stage> 
+               <list>
+                  <item>Phillip.</item>
+                  <item>Cornelia.</item>
+               </list>
+            </stage>
+            <sp>
+               <l>Amongſt the reſt of mine extreame miſhaps,</l>
+               <l>I finde my fortune not the leaſt in this,</l>
+               <l>
+                  <pb facs="tcp:6007:24"/>That I haue kept my Maiſter company,</l>
+               <l>Both in his life and at hys lateſt houre.</l>
+               <l>
+                  <hi>Pompey</hi> the great, whom I haue honored,</l>
+               <l>With true deuotion both aliue and dead.</l>
+               <l>One ſelfe-ſame ſhyp containd vs when I ſaw</l>
+               <l>The murdring Egiptians bereaue his lyfe;</l>
+               <l>And when the man that had afright the earth,</l>
+               <l>Did homage to it with his deereſt blood.</l>
+               <l>O're whom I ſhed full many a bitter teare,</l>
+               <l>And did performe hys obſequies with ſighes:</l>
+               <l>And on the ſtrond vpon the Riuer ſide,</l>
+               <l>(Where to my ſighes the waters ſeem'd to turne)</l>
+               <l>I woaue a Coffyn for his corſe of Seggs,</l>
+               <l>That with the winde dyd waue like bannerets.</l>
+               <l>And layd his body to be burn'd thereon.</l>
+               <l>Which when it was conſum'd I kindly tooke,</l>
+               <l>And ſadly cloz'd within an earthen Vrne</l>
+               <l>The asſhie reliques of his haples bones.</l>
+               <l>Which hauing ſcapt the rage of wind and Sea,</l>
+               <l>I bring to faire <hi>Cornelia</hi> to interr</l>
+               <l>Within his Elders Tombe that honoured her.</l>
+            </sp>
+            <sp>
+               <speaker>Cornelia.</speaker>
+               <l>Ayh-me, what ſee I?</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>
+                  <hi>Pompeys</hi> tender bones,</l>
+               <l>which (in extreames) an earthen Vrne containeth.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>O ſweet, deere, deplorable cynders,</l>
+               <l>O myſerable woman, lyuing dying.</l>
+               <l>
+                  <pb facs="tcp:6007:24"/>O poore <hi>Cornelia,</hi> borne to be
+diſtreſt,</l>
+               <l>Why liu'ſt thou toyl'd, that (dead) mightſt lye at reſt?</l>
+               <l>O faithles hands that vnder cloake of loue,</l>
+               <l>Did entertaine him, to torment him ſo.</l>
+               <l>O barbarous, inhumaine, hatefull traytors,</l>
+               <l>Thys your diſloyall dealing hath defam'd</l>
+               <l>Your King, and his inhoſpitable ſeate,</l>
+               <l>Of the extreameſt and moſt odious cryme,</l>
+               <l>That gainſt the heauens might bee imagined.</l>
+               <l>For yee haue baſely broke the Law of Armes,</l>
+               <l>And out-rag'd ouer an afflicted ſoule;</l>
+               <l>Murdred a man that did ſubmit himſelfe,</l>
+               <l>And iniur'd him that euer vs'd you kindly.</l>
+               <l>For which miſdeed, be Egipt peſtered,</l>
+               <l>With battaile, famine, and perpetuall plagues.</l>
+               <l>Let Aſpies, Serpents, Snakes, and Lybian Beares,</l>
+               <l>Tygers, and Lyons, breed with you for euer.</l>
+               <l>And let fayre Nylus (wont to nurſe your Corne)</l>
+               <l>Couer your Land with Toades and Crocadils,</l>
+               <l>That may infect, deuoure and murder you.</l>
+               <l>Els earth make way, and hell receiue them quicke.</l>
+               <l>A hatefull race, mongſt whom there dooth abide</l>
+               <l>All treaſon, luxurie, and homicide.</l>
+            </sp>
+            <sp>
+               <speaker>Phillip.</speaker>
+               <l>Ceaſe theſe laments.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>I doe but what I ought</l>
+               <l>to mourne his death:</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Alas that profits nought.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:25"/>
+               <speaker>Cor.</speaker>
+               <l>Will heauen let treaſon be vnpuniſhed?</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Heauens will performe what they haue promiſed.</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>I feare the heauens will not heare our prayer.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>The plaints of men oppreſt, doe pierce the ayre.</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>Yet <hi>Caeſar</hi> liueth ſtill.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>"Due puniſhment</l>
+               <l>"Succeedes not alwaies after an offence.</l>
+               <l>"For oftentimes t'is for our chaſtiſement</l>
+               <l>"That heauen doth with wicked men diſpence.</l>
+               <l>"That when they liſt, they may with vſurie,</l>
+               <l>"For all miſdeeds pay home the penaltie.</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>This is the hope that feeds my haples daies,</l>
+               <l>Els had my life beene long agoe expired.</l>
+               <l>I truſt the gods that ſee our hourely wrongs,</l>
+               <l>Will fire his ſhamefull bodie with their flames.</l>
+               <l>Except ſome man (reſolued) ſhall conclude,</l>
+               <l>With <hi>Caeſars</hi> death to end our ſeruitude.</l>
+               <l>Els (god to fore) my ſelfe may liue to ſee,</l>
+               <l>His tired corſe lye toyling in his blood:</l>
+               <l>Gor'd with a thouſand ſtabs, and round about,</l>
+               <l>The wronged people leape for inward ioy.</l>
+               <l>And then come Murder, then come vglie Death,</l>
+               <l>Then <hi>Lethe</hi> open thine infernall Lake,</l>
+               <l>Ile downe with ioy: becauſe before I died,</l>
+               <l>Mine eyes haue ſeene what I in hart deſir'd.</l>
+               <l>
+                  <hi>Pompey</hi> may not reuiue, (and <hi>Pompey</hi> dead)</l>
+               <l>Let me but ſee the murdrer murdered.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:25"/>
+               <speaker>Phil.</speaker>
+               <l>
+                  <hi>Caeſar</hi> bewail'd his death.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>His death hee mournd,</l>
+               <l>whom while hee lyu'd, to lyue lyke him hee ſcorne.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Hee puniſhed his murdrers.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>Who murdred hym</l>
+               <l>but hee that followd <hi>Pompey</hi> with the ſword?</l>
+               <l>He murdred <hi>Pompey</hi> that purſu'd his death,</l>
+               <l>And caſt the plot to catch him in the trap.</l>
+               <l>He that of his departure tooke the ſpoyle,</l>
+               <l>Whoſe fell ambition (founded firſt in blood)</l>
+               <l>By nought but <hi>Pompeys</hi> lyfe could be with-ſtood.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>
+                  <hi>Photis</hi> and falſe <hi>Achillas</hi> he beheadded.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>That was, becauſe that <hi>Pompey</hi> being theyr freend,</l>
+               <l>they had determin'd once of <hi>Caeſars</hi> end.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>What got he by his death?</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>Supremacie.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Yet <hi>Caeſar</hi> ſpeakes of <hi>Pompey</hi>
+honourablie.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>Words are but winde, nor meant he what he ſpoke.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>He will not let his ſtatues be broke.</l>
+            </sp>
+            <sp>
+               <speaker>Cor.</speaker>
+               <l>By which diſguiſe (what ere he doth pretend)</l>
+               <l>His owne from beeing broke he doth defend.</l>
+               <l>And by the traynes where-with he vs allures,</l>
+               <l>His owne eſtate more firmely he aſſures.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>He tooke no pleaſure in his death you ſee.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>Becauſe hymſelfe of life did not bereaue him.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Nay, he was mou'd with former amitie.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:26"/>
+               <speaker>Corn.</speaker>
+               <l>He neuer truſted him but to deceiue him.</l>
+               <l>But, had he lou'd him with a loue vnfained,</l>
+               <l>Yet had it beene a vaine and truſtleſſe league;</l>
+               <l>"For there is nothing in the ſoule of man</l>
+               <l>"So firmely grounded, as can qualifie,</l>
+               <l>"Th'inextinguible thyrſt of ſigniorie.</l>
+               <l>"Not heauens feare, nor Countries ſacred loue,</l>
+               <l>"Not auncient lawes, nor nuptiall chaſt deſire,</l>
+               <l>"Reſpect of blood, or (that which moſt ſhould moue,)</l>
+               <l>"The inward zeale that Nature doth require:</l>
+               <l>"All theſe, nor any thing we can deuiſe,</l>
+               <l>"Can ſtoope the hart reſolu'd to tyrannize.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>I feare your griefes increaſe with thys diſcourſe.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>My griefes are ſuch, as hardly can be worſe.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>"Tyme calmeth all things.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>No tyme quallifies</l>
+               <l>my dolefull ſpyrits endles myſeries.</l>
+               <l>My griefe is lyke a Rock, whence (ceaſeles) ſtrayne</l>
+               <l>Freſh ſprings of water at my weeping eyes:</l>
+               <l>Still fed by thoughts, lyke floods with winters rayne.</l>
+               <l>For when to eaſe th'oppreſsion of my hart,</l>
+               <l>I breathe an Autumne forth of fiery ſighes,</l>
+               <l>Yet herewithall my paſsion neither dyes,</l>
+               <l>Nor dryes the heate the moyſture of mine eyes.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Can nothing then recure theſe endleſſe teares?</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>Yes, newes of <hi>Caeſars</hi> death that medcyn beares.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:26"/>
+               <speaker>Phil.</speaker>
+               <l>Madam, beware, for ſhould hee heare of thys,</l>
+               <l>his wrath againſt you t'will exaſperate.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>I neither ſtand in feare of him nor his.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>T'is pollicie to feare a powrefull hate.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>What can he doe?</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Madam what cannot men</l>
+               <l>that haue the powre to doe what pleaſeth them?</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>He can doe mee no miſchiefe that I dread.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>Yes, cauſe your death.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>Thriſe happy were I dead.</l>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <l>With rigorous torments.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>Let him torture mee.</l>
+               <l>Pull me in peeces, famiſh, fire mee vp,</l>
+               <l>Fling mee aliue into a Lyons denn:</l>
+               <l>There is no death ſo hard torments mee ſo,</l>
+               <l>As his extreame tryumphing in our woe.</l>
+               <l>But if he will torment me, let him then</l>
+               <l>Depriue me wholy of the hope of death;</l>
+               <l>For I had died before the fall of Rome,</l>
+               <l>And ſlept with <hi>Pompey</hi> in the peacefull deepes,</l>
+               <l>Saue that I lyue in hope to ſee ere long,</l>
+               <l>That <hi>Caeſars</hi> death ſhall ſatisfie his wrong.</l>
+            </sp>
+            <sp>
+               <speaker>CHORVS.</speaker>
+               <lg>
+                  <l>"<hi>FOrtune in powre imperious,</hi>
+                  </l>
+                  <l>"<hi>Vs'd ore the world and worldings thus</hi>
+                  </l>
+                  <l>"<hi>to tirannize,</hi>
+                  </l>
+                  <l>
+                     <pb facs="tcp:6007:27"/>"<hi>VVhen shee hath heap't her gifts on
+vs,</hi>
+                  </l>
+                  <l>"<hi>away shee flies.</hi>
+                  </l>
+                  <l>"<hi>Her feete more ſwift then is the winde,</hi>
+                  </l>
+                  <l>"<hi>Are more inconstant in their kinde</hi>
+                  </l>
+                  <l>"<hi>then Autumne blasts,</hi>
+                  </l>
+                  <l>"<hi>A womans shape, a womans minde,</hi>
+                  </l>
+                  <l>"<hi>that ſildom lasts.</hi>
+                  </l>
+                  <l>"<hi>One while shee bends her angry browe,</hi>
+                  </l>
+                  <l>"<hi>And of no labour will allow.</hi>
+                  </l>
+                  <l>"<hi>Another while,</hi>
+                  </l>
+                  <l>"<hi>She fleres againe, I know not how,</hi>
+                  </l>
+                  <l>"<hi>ſtill to beguile.</hi>
+                  </l>
+                  <l>"<hi>Fickle in our aduerſities,</hi>
+                  </l>
+                  <l>"<hi>And fickle when our fortunes riſe,</hi>
+                  </l>
+                  <l>"<hi>shee ſcoffs at vs:</hi>
+                  </l>
+                  <l>"<hi>That (blynd herſelfe) can bleare our eyes,</hi>
+                  </l>
+                  <l>"<hi>to trust her thus.</hi>
+                  </l>
+                  <l>"<hi>The Sunne that lends the earth his light,</hi>
+                  </l>
+                  <l>"<hi>Behelde her neuer ouer night</hi>
+                  </l>
+                  <l>"<hi>lye calmely downe,</hi>
+                  </l>
+                  <l>"<hi>But in the morrow following, might</hi>
+                  </l>
+                  <l>"<hi>perceiue her frowne.</hi>
+                  </l>
+                  <l>"<hi>Shee hath not onely power and will,</hi>
+                  </l>
+                  <l>"<hi>T'abuſe the vulgar wanting skill,</hi>
+                  </l>
+                  <l>"<hi>but when shee list,</hi>
+                  </l>
+                  <l>"<hi>To Kings and Clownes doth equall ill.</hi>
+                  </l>
+                  <l>
+                     <pb facs="tcp:6007:27"/>"<hi>without reſist.</hi>
+                  </l>
+                  <l>"<hi>Mischaunce that euery man abhors,</hi>
+                  </l>
+                  <l>"<hi>And cares for crowned Emperors</hi>
+                  </l>
+                  <l>"<hi>shee doth reſerue,</hi>
+                  </l>
+                  <l>"<hi>As for the pooreſt labourers</hi>
+                  </l>
+                  <l>"<hi>that worke or starue.</hi>
+                  </l>
+                  <l>"<hi>The Merchant that for priuate gaine,</hi>
+                  </l>
+                  <l>"<hi>Doth ſend his Ships to paſſe the maine,</hi>
+                  </l>
+                  <l>"<hi>vpon the shore,</hi>
+                  </l>
+                  <l>"<hi>In hope he shall his wish obtaine,</hi>
+                  </l>
+                  <l>"<hi>doth thee adore.</hi>
+                  </l>
+                  <l>"<hi>Vpon the ſea, or on the Land,</hi>
+                  </l>
+                  <l>"<hi>VVhere health or wealth, or vines doe stand,</hi>
+                  </l>
+                  <l>"<hi>thou canst doe much,</hi>
+                  </l>
+                  <l>"<hi>And often helpst the helples hande,</hi>
+                  </l>
+                  <l>"<hi>thy power is ſuch.</hi>
+                  </l>
+                  <l>"<hi>And many times (diſpos'd to iest)</hi>
+                  </l>
+                  <l>"<hi>Gainst one whoſe power and cauſe is beſt,</hi>
+                  </l>
+                  <l>"<hi>(thy power to try,)</hi>
+                  </l>
+                  <l>"<hi>To him that n'ere put ſpeare in rest</hi>
+                  </l>
+                  <l>"<hi>giu'st victory.</hi>
+                  </l>
+                  <l>"<hi>For ſo the Lybian Monarchy,</hi>
+                  </l>
+                  <l>"<hi>That with Auſonian blood did die</hi>
+                  </l>
+                  <l>"<hi>our warlike field,</hi>
+                  </l>
+                  <l>"<hi>To one that n'ere got victorie,</hi>
+                  </l>
+                  <l>"<hi>was vrg'd to yeelde.</hi>
+                  </l>
+                  <l>
+                     <pb facs="tcp:6007:28"/>"<hi>So noble</hi> Marius, Arpins
+<hi>friend,</hi>
+                  </l>
+                  <l>"<hi>That dyd the Latin ſtate defend</hi>
+                  </l>
+                  <l>"<hi>from</hi> Cymbrian <hi>rage,</hi>
+                  </l>
+                  <l>"<hi>Did proue thy furie in the end</hi>
+                  </l>
+                  <l>"<hi>which nought could ſwage.</hi>
+                  </l>
+                  <l>"<hi>And</hi> Pompey <hi>whoſe dayes haply led,</hi>
+                  </l>
+                  <l>"<hi>So long thou ſeem'dst t'haue fauoured,</hi>
+                  </l>
+                  <l>"<hi>in vaine t'is ſayd</hi>
+                  </l>
+                  <l>"<hi>VVhen the</hi> Pharſalian <hi>field be led</hi>
+                  </l>
+                  <l>"<hi>implor'd thine ayde.</hi>
+                  </l>
+                  <l>"<hi>Now</hi> Caeſar <hi>ſwolne with honors heate,</hi>
+                  </l>
+                  <l>"<hi>Sits ſigniorizing in her ſeate,</hi>
+                  </l>
+                  <l>"<hi>and will not ſee,</hi>
+                  </l>
+                  <l>"<hi>That Fortune can her hopes defeate</hi>
+                  </l>
+                  <l>"<hi>what e're they be.</hi>
+                  </l>
+                  <l>"<hi>From chaunce is nothing franchized.</hi>
+                  </l>
+                  <l>"<hi>And till the time that they are dead,</hi>
+                  </l>
+                  <l>"<hi>is no man blest.</hi>
+                  </l>
+                  <l>"<hi>He onely that no death doth dread,</hi>
+                  </l>
+                  <l>"<hi>doth liue at rest.</hi>
+                  </l>
+               </lg>
+            </sp>
+         </div>
+         <div n="4" type="act">
+            <pb facs="tcp:6007:28"/>
+            <head>ACTVS QVARTVS.</head>
+            <stage> 
+               <list>
+                  <item>Caſsius.</item>
+                  <item>Decim</item>
+                  <item>Brutus.</item>
+               </list>
+            </stage>
+            <sp>
+               <l>ACcurſed Rome, that arm'ſt againſt thy ſelfe</l>
+               <l>A Tyrants rage, and mak'ſt a wretch thy King.</l>
+               <l>For one mans pleaſure (O iniurious Rome,)</l>
+               <l>Thy chyldren gainſt thy children thou haſt arm'd;</l>
+               <l>And thinkſt not of the riuers of theyr bloode,</l>
+               <l>That earſt was ſhed to ſaue thy libertie,</l>
+               <l>Becauſe thou euer hatedſt Monarchie.</l>
+               <l>Now o're our bodies (tumbled vp on heapes,</l>
+               <l>Lyke cocks of Hay when Iuly ſheares the field)</l>
+               <l>Thou buildſt thy kingdom, and thou ſeat'ſt thy King.</l>
+               <l>And to be ſeruile, (which torments me moſt,)</l>
+               <l>Employeſt our liues, and lauiſheſt our blood.</l>
+               <l>O Rome, (accurſed Rome) thou murdreſt vs,</l>
+               <l>And maſsacreſt thy ſelfe in yeelding thus.</l>
+               <l>Yet are there Gods, yet is there heauen and earth,</l>
+               <l>That ſeeme to feare a certaine Thunderer,</l>
+               <l>No, no, there are no Gods, or if there be,</l>
+               <l>They leaue to ſee into the worlds affaires;</l>
+               <l>They care not for vs, nor account of men,</l>
+               <l>For what we ſee is done, is done by chaunce.</l>
+               <l>T'is Fortune rules, for equitie and right,</l>
+               <l>Haue neither helpe nor grace in heauens ſight.</l>
+               <l>
+                  <pb facs="tcp:6007:29"/>
+                  <hi>Scipio</hi> hath wrencht a ſword into hys
+breſt,</l>
+               <l>And launc'd hys bleeding wound into the ſea.</l>
+               <l>Vndaunted <hi>Cato,</hi> tore hys entrails out.</l>
+               <l>
+                  <hi>Affranius</hi> and <hi>Faustus</hi> murdred dyed.</l>
+               <l>
+                  <hi>Iuba</hi>-and <hi>Petreus</hi> fiercely combatting,</l>
+               <l>Haue each done other equall violence.</l>
+               <l>Our Army's broken, and the Lybian Beares</l>
+               <l>Deuoure the bodies of our Cittizens.</l>
+               <l>The conquering Tyrant, high in Fortunes grace,</l>
+               <l>Doth ryde tryumphing o're our Common-wealth.</l>
+               <l>And mournfull we behold him brauely mounted</l>
+               <l>(With ſtearne lookes) in his Chariot, where he leades</l>
+               <l>The conquered honor of the people yok't.</l>
+               <l>So Rome to <hi>Caeſar</hi> yeelds both powre and pelfe,</l>
+               <l>And o're Rome <hi>Caeſar</hi> raignes in Rome it ſelfe.</l>
+               <l>But <hi>Brutus</hi> ſhall wee diſſolutelie ſitte,</l>
+               <l>And ſee the tyrant liue to tyranize?</l>
+               <l>Or ſhall theyr ghoſts that dide to doe vs good,</l>
+               <l>Plaine in their Tombes of our baſe cowardiſe?</l>
+               <l>Shall lamed Souldiours, and graue gray-haird men,</l>
+               <l>Poynt at vs in theyr bitter teares, and ſay,</l>
+               <l>See where they goe that haue theyr race forgot.</l>
+               <l>And rather chuſe (vnarm'd) to ſerue with ſhame,</l>
+               <l>Then (arm'd) to ſaue their freedom and their fame.</l>
+            </sp>
+            <sp>
+               <speaker>Brutus.</speaker>
+               <l>I ſweare by heauen, th'Immortals higheſt throne,</l>
+               <l>
+                  <pb facs="tcp:6007:29"/>Their Temples, Altars, and theyr Images,</l>
+               <l>To ſee (for one,) that <hi>Brutus</hi> ſuffer not</l>
+               <l>His ancient liberty to be repreſt.</l>
+               <l>I freely marcht with <hi>Caeſar</hi> in hys warrs,</l>
+               <l>Not to be ſubiect, but to ayde his right.</l>
+               <l>But if (enuenom'd with ambitious thoughts)</l>
+               <l>He lyft his hand imperiouſly o're vs,</l>
+               <l>If he determyn but to raigne in Rome,</l>
+               <l>Or follow'd <hi>Pompey</hi> but to thys effect:</l>
+               <l>Or if (theſe ciuill diſcords now diſſolu'd)</l>
+               <l>He render not the Empyre back to Rome,</l>
+               <l>Then ſhall he ſee, that <hi>Brutus</hi> thys day beares,</l>
+               <l>The ſelfe-ſame Armes to be aueng'd on hym.</l>
+               <l>And that thys hand (though <hi>Caeſar</hi> blood abhor,)</l>
+               <l>Shall toyle in his, which I am ſorry for.</l>
+               <l>I loue, I loue him deerely. "But the loue</l>
+               <l>"That men theyr Country and theyr birth-right beare,</l>
+               <l>"Exceeds all loues, and deerer is by farre</l>
+               <l>"Our Countries loue, then friends or chyldren are.</l>
+            </sp>
+            <sp>
+               <speaker>Caſsius.</speaker>
+               <l>If this braue care be nouriſht in your blood,</l>
+               <l>Or if ſo franck a will your ſoule poſſeſſe,</l>
+               <l>Why haſt we not euen while theſe words are vttred,</l>
+               <l>To ſheathe our new-ground ſwords in <hi>Caeſars</hi>
+throate?</l>
+               <l>Why ſpend we day-light, and why dies he not,</l>
+               <l>That by his death we wretches may reuiue?</l>
+               <l>
+                  <pb facs="tcp:6007:30"/>We ſtay too-long, I burne till I be there</l>
+               <l>To ſee this maſſacre, and ſend his ghoſt</l>
+               <l>To theyrs, whom (ſubtilly) he for Monarchie,</l>
+               <l>Made fight to death with ſhow of liberty.</l>
+            </sp>
+            <sp>
+               <speaker>Bru.</speaker>
+               <l>Yet haply he (as <hi>Sylla</hi> whylom dyd,)</l>
+               <l>When he hath rooted ciuill warre from Rome,</l>
+               <l>Will there-withall diſcharge the powre he hath.</l>
+            </sp>
+            <sp>
+               <speaker>Caſs.</speaker>
+               <l>
+                  <hi>Caeſar</hi> and <hi>Sylla, Brutus</hi> be not like.</l>
+               <l>
+                  <hi>Sylla</hi> (aſſaulted by the enemie)</l>
+               <l>Did arme himſelfe (but in his owne defence)</l>
+               <l>Againſt both <hi>Cynnas</hi> hoſt and <hi>Marius.</hi>
+               </l>
+               <l>Whom when he had diſcomfited and chas'd,</l>
+               <l>And of his ſafety throughly was aſſur'd,</l>
+               <l>He layd apart the powre that he had got,</l>
+               <l>And gaue vp rule, for he deſier'd it not.</l>
+               <l>Where <hi>Caeſar</hi> that in ſilence might haue ſlept,</l>
+               <l>Nor vrg'd by ought but his ambition,</l>
+               <l>Did breake into the hart of Italie.</l>
+               <l>And lyke rude <hi>Brennus</hi> brought his men to field,</l>
+               <l>Trauers'd the ſeas: And shortly after (backt</l>
+               <l>With wintered ſouldiers vs'd to conquering,)</l>
+               <l>He aym'd at vs, bent to exterminate,</l>
+               <l>Who euer ſought to intercept his ſtate.</l>
+               <l>Now, hauing got what he hath gaped for,</l>
+               <l>(Deere <hi>Brutus</hi>) thinke you <hi>Caeſar</hi> ſuch a
+chyld,</l>
+               <l>Slightly to part with ſo great ſigniorie.</l>
+               <l>
+                  <pb facs="tcp:6007:30"/>Belieue it not, he bought it deere you know,</l>
+               <l>And traueled too farre to leaue it ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Brut.</speaker>
+               <l>But <hi>Caſius, Caeſar</hi> is not yet a King.</l>
+            </sp>
+            <sp>
+               <speaker>Caſ.</speaker>
+               <l>No, but Dictator, in effect as much.</l>
+               <l>He doth what pleaſeth hym, (a princely thing,)</l>
+               <l>And wherein differ they whoſe powre is ſuch?</l>
+            </sp>
+            <sp>
+               <speaker>Brutus.</speaker>
+               <l>Hee is not bloody.</l>
+            </sp>
+            <sp>
+               <speaker>Caſsius.</speaker>
+               <l>But by bloody iarres</l>
+               <l>he hath vnpeopled moſt part of the earth.</l>
+               <l>Both Gaule and Affrique perriſht by his warres.</l>
+               <l>Egypt, Emathia, Italy and Spayne,</l>
+               <l>Are full of dead mens bones by <hi>Caeſar</hi> ſlayne.</l>
+               <l>Th'infectious plague, and Famins bitternes,</l>
+               <l>Or th'Ocean (whom no pitty can aſſwage,)</l>
+               <l>Though they containe dead bodies numberles,</l>
+               <l>Are yet inferior to <hi>Caeſars</hi> rage.</l>
+               <l>Who (monſter-like) wyth his ambition,</l>
+               <l>Hath left more Tombes then ground to lay them on.</l>
+            </sp>
+            <sp>
+               <speaker>Brut.</speaker>
+               <l>Souldiers with ſuch reproch ſhould not be blam'd.</l>
+            </sp>
+            <sp>
+               <speaker>Caſs.</speaker>
+               <l>He with his ſouldiers hath himſelfe defam'd.</l>
+            </sp>
+            <sp>
+               <speaker>Bru.</speaker>
+               <l>Why then you thinke there is no praiſe in war.</l>
+            </sp>
+            <sp>
+               <speaker>Caſs.</speaker>
+               <l>Yes, where the cauſes reaſonable are.</l>
+            </sp>
+            <sp>
+               <speaker>Bru.</speaker>
+               <l>He hath enricht the Empire with newe ſtates.</l>
+            </sp>
+            <sp>
+               <speaker>Caſs.</speaker>
+               <l>Which with ambition now he ruinates.</l>
+            </sp>
+            <sp>
+               <speaker>Bru.</speaker>
+               <l>He hath reueng'd the Gaules old iniurie,</l>
+               <l>And made them ſubiect to our Romaine Lawes.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:31"/>
+               <speaker>Caſsius.</speaker>
+               <l>The reſtfull Almaynes with his crueltie,</l>
+               <l>He raſhly ſtyrd againſt vs without cauſe.</l>
+               <l>And hazarded our Cittie and our ſelues</l>
+               <l>Againſt a harmeles Nation, kindly giuen,</l>
+               <l>To whom we ſhould do well (for ſome amends,)</l>
+               <l>To render him, and reconcile old frends.</l>
+               <l>Theſe Nations did he purpoſely prouoke,</l>
+               <l>To make an Armie for his after-ayde,</l>
+               <l>Againſt the Romains, whom in pollicie</l>
+               <l>He train'd in warre to ſteale theyr ſigniorie.</l>
+               <l>"Like them that (ſtryuing at th'Olympian ſports,</l>
+               <l>"To grace themſelues with honor of the game)</l>
+               <l>"Annoynt theyr ſinewes fit for wreſtling,</l>
+               <l>"And (ere they enter) vſe ſome exerciſe.</l>
+               <l>The Gaules were but a fore-game fecht about</l>
+               <l>For ciuill diſcord, wrought by <hi>Caeſars</hi>
+ſleights,</l>
+               <l>Whom (to be King himſelfe) he ſo one remou'd.</l>
+               <l>Teaching a people hating ſeruitude,</l>
+               <l>To fight for that that did theyr deaths conclude.</l>
+            </sp>
+            <sp>
+               <speaker>Bru.</speaker>
+               <l>The warrs once ended, we ſhall quickly know,</l>
+               <l>Whether he will reſtore the ſtate or no.</l>
+            </sp>
+            <sp>
+               <speaker>Caſ.</speaker>
+               <l>No <hi>Brutus,</hi> neuer looke to ſee that day,</l>
+               <l>For <hi>Caeſar</hi> holdeth ſigniorie too deere.</l>
+               <l>But know, while <hi>Caſsius</hi> hath one drop of blood,</l>
+               <l>To feede this worthles body that you ſee,</l>
+               <l>
+                  <pb facs="tcp:6007:31"/>What reck I death to doe ſo many good,</l>
+               <l>In ſpite of <hi>Caeſar, Caſsius</hi> will be free.</l>
+            </sp>
+            <sp>
+               <speaker>Bru.</speaker>
+               <l>A generous or true enobled ſpirit,</l>
+               <l>Deteſts to learne what taſts of ſeruitude.</l>
+            </sp>
+            <sp>
+               <speaker>Caſs.</speaker>
+               <l>
+                  <hi>Brutus</hi> I cannot ſerue nor ſee Rome yok'd,</l>
+               <l>No, let me rather dye a thouſand deaths.</l>
+               <l>"The ſtiftneckt horſes champe not on the bit,</l>
+               <l>"Nor meekely beare the rider but by force:</l>
+               <l>"The ſturdie Oxen toyle not at the Plough,</l>
+               <l>"Nor yeeld vnto the yoke but by conſtraint.</l>
+               <l>Shall we then that are men, and Romains borne,</l>
+               <l>Submit vs to vnvrged ſlauerie?</l>
+               <l>Shall Rome that hath ſo many ouer-throwne,</l>
+               <l>Now make herſelfe a ſubiect to her owne?</l>
+               <l>O baſe indignitie. A beardles youth,</l>
+               <l>Whom King <hi>Nicomedes</hi> could ouer-reach,</l>
+               <l>Commaunds the world, and brideleth all the earth,</l>
+               <l>And like a Prince controls the Romuliſts.</l>
+               <l>Braue Romaine Souldiers, ſterne-borne ſons of
+<hi>Mars,</hi>
+               </l>
+               <l>And none, not one, that dares to vndertake</l>
+               <l>The intercepting of his tyrannie.</l>
+               <l>O <hi>Brutus</hi> ſpeake, O ſay <hi>Seruilius,</hi>
+               </l>
+               <l>Why cry you ayme, and ſee vs vſed thus?</l>
+               <l>But <hi>Brutus</hi> liues, and ſees, and knowes, and feeles,</l>
+               <l>That there is one that curbs their Countries weale.</l>
+               <l>Yet (as he were the ſemblance, not the ſonne,</l>
+               <l>
+                  <pb facs="tcp:6007:32"/>Of noble <hi>Brutus,</hi> hys great Grandfather,)</l>
+               <l>As if he wanted hands, ſence, ſight, or hart,</l>
+               <l>He doth, deuiſeth, ſees nor dareth ought,</l>
+               <l>That may exſtirpe or raze theſe tyrannies.</l>
+               <l>Nor ought doth <hi>Brutus</hi> that to <hi>Brute</hi> belongs,</l>
+               <l>But ſtill increaſeth by his negligence,</l>
+               <l>His owne diſgrace, and <hi>Caeſars</hi> violence.</l>
+               <l>The wrong is great, and ouer-long endur'd;</l>
+               <l>We ſhould haue practized, conſpierd, coniur'd,</l>
+               <l>A thouſand waies, and weapons to repreſſe,</l>
+               <l>Or kill out-right this cauſe of our diſtreſſe.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <lg>
+                  <l>"<hi>WHo prodigally ſpends his blood,</hi>
+                  </l>
+                  <l>"<hi>Brauely to doe his country good,</hi>
+                  </l>
+                  <l>"<hi>And liueth to no other end,</hi>
+                  </l>
+                  <l>"<hi>But reſolutely to attempt</hi>
+                  </l>
+                  <l>"<hi>VVhat may the innocent defend,</hi>
+                  </l>
+                  <l>"<hi>And bloody Tyrants rage preuent;</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>And he that in his ſoule aſſur'd,</hi>
+                  </l>
+                  <l>"<hi>Hath waters force, and fire endur'd,</hi>
+                  </l>
+                  <l>"<hi>And past the pikes of thouſand hostes,</hi>
+                  </l>
+                  <l>"<hi>To free the truth from tyrannie,</hi>
+                  </l>
+                  <l>"<hi>And feareles ſcowres in danger coasts,</hi>
+                  </l>
+                  <l>"<hi>T'enlarge his countries liberty,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:6007:32"/>
+                  <l>"<hi>VVere all the world his foes before,</hi>
+                  </l>
+                  <l>"<hi>Now shall they loue him euer-more.</hi>
+                  </l>
+                  <l>"<hi>His glory ſpred abroade by Fame,</hi>
+                  </l>
+                  <l>"<hi>On wings of his posteritie,</hi>
+                  </l>
+                  <l>"<hi>From obſcure death shall free his name,</hi>
+                  </l>
+                  <l>"<hi>To liue in endles memorie.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>All after ages shall adore,</hi>
+                  </l>
+                  <l>"<hi>And honor him with bymnes therefore.</hi>
+                  </l>
+                  <l>"<hi>Yeerely the youth for ioy shall bring,</hi>
+                  </l>
+                  <l>"<hi>The fairest flowers that grow in Rome.</hi>
+                  </l>
+                  <l>"<hi>And yeerely in the Sommer ſing,</hi>
+                  </l>
+                  <l>"<hi>O're his heroique kingly Tombe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>For ſo the two Athenians,</hi>
+                  </l>
+                  <l>"<hi>That from their fellow cittizens,</hi>
+                  </l>
+                  <l>"<hi>Did freely chaſe vile ſeruitude,</hi>
+                  </l>
+                  <l>"<hi>Shall liue for valiant proweſſe bleſt.</hi>
+                  </l>
+                  <l>"<hi>No Sepulcher shall ere exclude,</hi>
+                  </l>
+                  <l>"<hi>Their glorie equall with the beſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>But when the vulgar, mad and rude,</hi>
+                  </l>
+                  <l>"<hi>Repay good with ingratitude,</hi>
+                  </l>
+                  <l>"<hi>Hardly then they them reward:</hi>
+                  </l>
+                  <l>"<hi>That to free them fro the hands</hi>
+                  </l>
+                  <l>"<hi>Of a Tyrant, nere regard</hi>
+                  </l>
+                  <l>"<hi>In what plight their perſon stands.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:6007:33"/>
+                  <l>"<hi>For high</hi> Ioue <hi>that guideth all,</hi>
+                  </l>
+                  <l>"<hi>VVhen he lets his iust wrath fall,</hi>
+                  </l>
+                  <l>"<hi>To reuenge proud Diadems,</hi>
+                  </l>
+                  <l>"<hi>VVith huge cares doth croſſe Kings liues,</hi>
+                  </l>
+                  <l>"<hi>Rayſing treaſons in their Realmes,</hi>
+                  </l>
+                  <l>"<hi>By their chyldren, friends or wiues.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>Therefore he whom all men feare,</hi>
+                  </l>
+                  <l>"<hi>Feareth all men euery where.</hi>
+                  </l>
+                  <l>"<hi>Feare that doth engender hate,</hi>
+                  </l>
+                  <l>"<hi>(Hate enforcing them thereto)</hi>
+                  </l>
+                  <l>"<hi>Maketh many vnder-take,</hi>
+                  </l>
+                  <l>"<hi>Many things they would not doe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>O how many mighty Kings</hi>
+                  </l>
+                  <l>"<hi>Liue in feare of petty things.</hi>
+                  </l>
+                  <l>"<hi>For when Kings haue ſought by warrs,</hi>
+                  </l>
+                  <l>"<hi>Stranger Townes to haue o'rethrowne,</hi>
+                  </l>
+                  <l>"<hi>They haue caught deſerued skarrs,</hi>
+                  </l>
+                  <l>"<hi>Seeking that was not theyr owne.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>For no Tyrant commonly,</hi>
+                  </l>
+                  <l>"<hi>Lyuing ill, can kindly die.</hi>
+                  </l>
+                  <l>"<hi>But eyther trayterouſly ſurprizd</hi>
+                  </l>
+                  <l>"<hi>Doth coward poiſon quaile their breath,</hi>
+                  </l>
+                  <l>"<hi>Or their people haue deuis'd,</hi>
+                  </l>
+                  <l>"<hi>Or their guarde to ſeeke their death.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:6007:33"/>
+                  <l>"<hi>He onely liues most bappilie,</hi>
+                  </l>
+                  <l>"<hi>That free and farre from maiestie,</hi>
+                  </l>
+                  <l>"<hi>Can liue content, although vnknowne:</hi>
+                  </l>
+                  <l>"<hi>He fearing none, none fearing him.</hi>
+                  </l>
+                  <l>"<hi>Medling with nothing but his owne,</hi>
+                  </l>
+                  <l>"<hi>VVhile gazing eyes at crownes grow dim.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <stage> 
+               <list>
+                  <item>Caeſar.</item>
+                  <item>Mar.</item>
+                  <item>Anthonie.</item>
+               </list>
+            </stage>
+            <sp>
+               <speaker>Caeſar.</speaker>
+               <l>O Rome that with thy pryde doſt ouer-peare,</l>
+               <l>The worthieſt Citties of the conquered world.</l>
+               <l>Whoſe honor got by famous victories,</l>
+               <l>Hath fild heauens fierie vaults with frightfull horror.</l>
+               <l>O lofty towres, O ſtately battlements,</l>
+               <l>O glorious temples, O proude Pallaces,</l>
+               <l>And you braue walls, bright heauens maſonrie,</l>
+               <l>Grac'd with a thouſand kingly diadems.</l>
+               <l>Are yee not ſtyrred with a ſtrange delight,</l>
+               <l>To ſee your <hi>Caeſars</hi> matchles victories?</l>
+               <l>And how your Empire and your praiſe begins</l>
+               <l>Through fame, which hee of ſtranger Nations wins?</l>
+               <l>O beautious Tyber, with thine eaſie ſtreames,</l>
+               <l>That glide as ſmothly as a Parthian ſhaft;</l>
+               <l>Turne not thy criſpie tydes like ſiluer curle,</l>
+               <l>Backe to thy graſſ-greene bancks to welcom vs?</l>
+               <l>And with a gentle murmure haſt to tell</l>
+               <l>The foming Seas the honour of our fight?</l>
+               <l>
+                  <pb facs="tcp:6007:34"/>Trudge not thy ſtreames to Trytons Mariners</l>
+               <l>To bruite the prayſes of our conqueſts paſt?</l>
+               <l>And make theyr vaunts to old Oceanus,</l>
+               <l>That hence-forth Tyber ſhall ſalute the ſeas,</l>
+               <l>More fam'd then Tyger or fayre Euphrates?</l>
+               <l>Now all the world (wel-nye) doth ſtoope to Rome.</l>
+               <l>The ſea, the earth, and all is almoſt ours.</l>
+               <l>Be'it where the bright Sun with his neyghbor beames,</l>
+               <l>Doth early light the Pearled Indians.</l>
+               <l>Or where his Chariot ſtaies to ſtop the day,</l>
+               <l>Tyll heauen vnlock the darknes of the night.</l>
+               <l>Be'it where the Sea is wrapt in Chriſtall Iſe,</l>
+               <l>Or where the Sommer doth but warme the earth.</l>
+               <l>Or heere, or there, where is not Rome renownd?</l>
+               <l>There lyues no King, (how great ſo e're he be,)</l>
+               <l>But trembleth if he once but heare of mee.</l>
+               <l>
+                  <hi>Caeſar</hi> is now earths fame, and Fortunes terror,</l>
+               <l>And <hi>Caeſars</hi> worth hath ſtaynd old ſouldiers
+prayſes.</l>
+               <l>Rome, ſpeake no more of eyther <hi>Scipio,</hi>
+               </l>
+               <l>Nor of the <hi>Fabij,</hi> or <hi>Fabritians,</hi>
+               </l>
+               <l>Heere let the <hi>Decij</hi> and theyr glory die.</l>
+               <l>
+                  <hi>Caeſar</hi> hath tam'd more Nations, tane more Townes,</l>
+               <l>And fought more battailes then the beſt of them.</l>
+               <l>
+                  <hi>Caeſar</hi> doth tryumph ouer all the world,</l>
+               <l>And all they ſcarcely conquered a nooke.</l>
+               <l>The Gaules that came to Tiber to carouſe,</l>
+               <l>
+                  <pb facs="tcp:6007:34"/>Dyd liue to ſee my ſouldiers drinke at Loyre;</l>
+               <l>And thoſe braue Germains, true borne Martialiſts,</l>
+               <l>Beheld the ſwift Rheyn vnder-run mine Enſignes;</l>
+               <l>The Brittaines (lockt within a watry Realme,</l>
+               <l>And wald by <hi>Neptune,</hi>) ſtoopt to mee at laſt.</l>
+               <l>The faithles Moore, the fierce Numidian,</l>
+               <l>Th'earth that the Euxine ſea makes ſomtymes marſh,</l>
+               <l>The ſtony-harted people that inhabite</l>
+               <l>Where ſeau'nfold Nilus doth diſgorge it ſelfe,</l>
+               <l>Haue all been vrg'd to yeeld to my commaund.</l>
+               <l>Yea, euen this Cittie that hath almoſt made</l>
+               <l>An vniuerſall conqueſt of the world.</l>
+               <l>And that braue warrier my brother in law,</l>
+               <l>That (ill aduis'd) repined at my glory.</l>
+               <l>
+                  <hi>Pompey</hi> that ſecond <hi>Mars,</hi> whoſe haught
+renowne</l>
+               <l>And noble deeds, were greater then his fortunes.</l>
+               <l>Proou'd to his loſſe but euen in one aſſault</l>
+               <l>My hand, my hap, my hart exceeded his;</l>
+               <l>When the Theſſalian fields were purpled ore</l>
+               <l>With eyther Armies murdred ſouldiers goe.</l>
+               <l>When hee (to conquering accuſtomed,)</l>
+               <l>Did (conquered) flie, his troopes diſcomforted.</l>
+               <l>Now <hi>Scipio,</hi> that long'd to ſhew himſelfe</l>
+               <l>Diſcent of Affrican, (ſo fam'd for Armes)</l>
+               <l>He duiſt affront me and my warlike bands,</l>
+               <l>Vpon the Coaſtes of Lybia, till he loſt</l>
+               <l>
+                  <pb facs="tcp:6007:35"/>His ſcattred Armie: and to ſhun the ſcorne</l>
+               <l>Of being taken captiue, kild himſelfe.</l>
+               <l>Now therefore let vs tryumph <hi>Anthony.</hi>
+               </l>
+               <l>And rendring thanks to heauen as we goe</l>
+               <l>For brideling thoſe that dyd maligne our glory,</l>
+               <l>Lets to the Capitoll.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>Come on braue <hi>Caeſar,</hi>
+               </l>
+               <l>And crowne thy head, and mount thy Chariot.</l>
+               <l>Th'impatient people runne along the ſtreets,</l>
+               <l>And in a route againſt thy gates they ruſhe,</l>
+               <l>To ſee theyr <hi>Caeſar</hi> after dangers paſt,</l>
+               <l>Made Conqueror and Emperor at laſt.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſar.</speaker>
+               <l>I call to witnes heauens great Thunderer,</l>
+               <l>That gainſt my will I haue maintained this warre,</l>
+               <l>Nor thirſted I for conqueſts bought with blood.</l>
+               <l>Iioy not in the death of Cittizens.</l>
+               <l>But through my ſelfe-wild enemies deſpight,</l>
+               <l>And Romains wrong, was I conſtraind to fight.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>They ſought t'eclipſe thy fame, but deſtinie</l>
+               <l>Reuers'd th'effect of theyr ambition.</l>
+               <l>And <hi>Caeſars</hi> prayſe increaſd by theyr diſgrace</l>
+               <l>That reckt not of his vertuous deeds: But thus</l>
+               <l>We ſee it fareth with the enuious.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſar.</speaker>
+               <l>I neuer had the thought to iniure them.</l>
+               <l>Howbeit I neuer meant my greatnes ſhould,</l>
+               <l>By any others greatnes be o're-ruld.</l>
+               <l>
+                  <pb facs="tcp:6007:35"/>For as I am inferior to none,</l>
+               <l>So can I ſuffer no Superiors.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>Well <hi>Caeſar,</hi> now they are diſcomfited,</l>
+               <l>And Crowes are feaſted with theyr carcaſes.</l>
+               <l>And yet I feare you haue too kindly ſau'd</l>
+               <l>Thoſe, that your kindnes hardly will requite.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>Why <hi>Anthony,</hi> what would you wiſh mee doe?</l>
+               <l>Now ſhall you ſee that they will pack to Spaine,</l>
+               <l>And (ioyned with the Exiles there encampt,)</l>
+               <l>Vntill th'ill ſpyrit that doth them defend,</l>
+               <l>Doe bring their treaſons to a bloody end.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>I feare not thoſe that to theyr weapons flye,</l>
+               <l>And keepe theyr ſtate in Spaine, in Spaine to die.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>VVhom fear'ſt thou then <hi>Mark Anthony?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>The hatefull crue,</l>
+               <l>That wanting powre in fielde to conquer you,</l>
+               <l>Haue in theyr coward ſoules deuiſed ſnares</l>
+               <l>To murder thee, and take thee at vnwares.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſar.</speaker>
+               <l>VVill thoſe conſpire my death that liue by mee?</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>In conquered foes what credite can there be?</l>
+            </sp>
+            <sp>
+               <speaker>Caeſar.</speaker>
+               <l>Beſides theyr liues, I did theyr goods reſtore.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>O but theyr Countries good concerns them more.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſar.</speaker>
+               <l>What, thinke they mee to be their Countries foe?</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>No, but that thou vſurp'ſt the right they owe.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſar.</speaker>
+               <l>To Rome haue I ſubmitted mighty things.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>Yet Rome endures not the commaund of Kings.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:36"/>
+               <speaker>Caeſ.</speaker>
+               <l>Who dares to contradict our Emporie?</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>Thoſe whom thy rule hath rob'd of liberty.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>I feare them not whoſe death is but deferd.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>I feare my foe vntill he be interd.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>A man may make his foe his friend you know.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>A man may eaſier make his friend his foe.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>Good deeds the cruelſt hart to kindnes bring,</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>But reſolution is a deadly thing.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>If Cittizens my kindnes haue forgot, whom ſhall I then not
+feare?</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>Thoſe that are not.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>What, ſhall I ſlay them all that I ſuſpect?</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>Els cannot <hi>Caeſars</hi> Emporie endure.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>Rather I will my lyfe and all neglect.</l>
+               <l>Nor labour I my vaine life to aſſure.</l>
+               <l>But ſo to die, as dying I may liue,</l>
+               <l>And leauing off this earthly Tombe of myne,</l>
+               <l>Aſcend to heauen vpon my winged deeds.</l>
+               <l>And ſhall I not haue liued long enough</l>
+               <l>That in ſo ſhort a time am ſo much fam'd?</l>
+               <l>Can I too-ſoone goe taſte <hi>Cocytus</hi> flood?</l>
+               <l>No <hi>Anthony,</hi> Death cannot iniure vs,</l>
+               <l>"For he liues long that dyes victorious.</l>
+            </sp>
+            <sp>
+               <speaker>Anthony.</speaker>
+               <l>Thy prayſes ſhow thy life is long enough,</l>
+               <l>But for thy friends and Country all too-ſhort.</l>
+               <l>
+                  <pb facs="tcp:6007:36"/>Should <hi>Caeſar</hi> lyue as long as
+<hi>Nestor</hi> dyd,</l>
+               <l>Yet Rome may wiſh his life eternized.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſar.</speaker>
+               <l>Heauen ſets our time, with heauen may nought diſpence.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>But we may ſhorten time with negligence.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>But Fortune and the heauens haue care of vs.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>Fortune is fickle, Heauen imperious.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>VVhat ſhall I then doe?</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>As befits your ſtate,</l>
+               <l>Maintaine a watchfull guard about your gate.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>VVhat more aſſurance may our ſtate defend</l>
+               <l>Then loue of thoſe that doe on vs attend?</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>There is no hatred more if it be mou'd,</l>
+               <l>Then theirs whom we offend, and once belou'd.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <l>Better it is to die then be ſuſpitious.</l>
+            </sp>
+            <sp>
+               <speaker>Anth.</speaker>
+               <l>T'is wiſdom yet not to be credulous.</l>
+            </sp>
+            <sp>
+               <speaker>Caeſar.</speaker>
+               <l>The quiet life that careleſly is ledd,</l>
+               <l>Is not alonely happy in this world,</l>
+               <l>But Death it ſelfe doth ſometime pleaſure vs.</l>
+               <l>That death that comes vnſent for or vnſeene,</l>
+               <l>And ſuddainly doth take vs at vnware,</l>
+               <l>Mee thinks is ſweeteſt; And if heauen were pleas'd,</l>
+               <l>I could deſire that I might die ſo well.</l>
+               <l>The feare of euill doth afflict vs more,</l>
+               <l>Then th'euill it ſelfe, though it be nere ſo ſore.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:37"/>
+               <speaker>A Chorus of Caeſars friends.</speaker>
+               <lg>
+                  <l>
+                     <hi>O Faire Sunne that gentlie ſmiles,</hi>
+                  </l>
+                  <l>
+                     <hi>From the Orient-pearled Iles,</hi>
+                  </l>
+                  <l>
+                     <hi>Guilding theſe our gladſome daies,</hi>
+                  </l>
+                  <l>
+                     <hi>VVith the beautie of thy rayes:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Free fro rage of ciuill ſtrife,</hi>
+                  </l>
+                  <l>
+                     <hi>Long preſerue our</hi> Caeſars <hi>life.</hi>
+                  </l>
+                  <l>
+                     <hi>That from ſable Affrique brings,</hi>
+                  </l>
+                  <l>
+                     <hi>Conquests whereof Europe rings.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>And faire</hi> Venus <hi>thou of whom</hi>
+                  </l>
+                  <l>
+                     <hi>The Eneades are come,</hi>
+                  </l>
+                  <l>
+                     <hi>Henceforth vary not thy grace,</hi>
+                  </l>
+                  <l>
+                     <hi>From</hi> Iulus <hi>happy race.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Rather cauſe thy deerest ſonne,</hi>
+                  </l>
+                  <l>
+                     <hi>By his tryumphs new begun,</hi>
+                  </l>
+                  <l>
+                     <hi>To expell fro forth the Land,</hi>
+                  </l>
+                  <l>
+                     <hi>Firce warrs quenchles fire-brand.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>That of care acquitting vs,</hi>
+                  </l>
+                  <l>
+                     <hi>(VVho at last adore him thus)</hi>
+                  </l>
+                  <l>
+                     <hi>He a peacefull starre appeare,</hi>
+                  </l>
+                  <l>
+                     <hi>From our walls all woes to cleere.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:6007:37"/>
+                  <l>
+                     <hi>And ſo let his warlike browes,</hi>
+                  </l>
+                  <l>
+                     <hi>Still be deckt with Lawrel boughes,</hi>
+                  </l>
+                  <l>
+                     <hi>And his ſtatues new ſet</hi>
+                  </l>
+                  <l>
+                     <hi>VVith many a fresh-flowrd Coronet.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>So, in euery place let be,</hi>
+                  </l>
+                  <l>
+                     <hi>Feasts, and Masks, and mirthfull glee,</hi>
+                  </l>
+                  <l>
+                     <hi>Strewing Roſes in the streete,</hi>
+                  </l>
+                  <l>
+                     <hi>VVhen their Emperor they meete.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>He his foes hath conquered,</hi>
+                  </l>
+                  <l>
+                     <hi>Neuer leauing till they fled,</hi>
+                  </l>
+                  <l>
+                     <hi>And (abhorring blood,) at last</hi>
+                  </l>
+                  <l>
+                     <hi>Pardon'd all offences past.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>For high</hi> Ioue <hi>the heauens among,</hi>
+                  </l>
+                  <l>"<hi>(Their ſupport that ſuffer wrong,)</hi>
+                  </l>
+                  <l>"<hi>Doth oppoſe himſelfe agen</hi>
+                  </l>
+                  <l>"<hi>Bloody minded cruell men.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>For he shortneth their dayes,</hi>
+                  </l>
+                  <l>"<hi>Or prolongs them with diſpraiſe:</hi>
+                  </l>
+                  <l>"<hi>Or (his greater wrath to show,)</hi>
+                  </l>
+                  <l>"<hi>Giues them ouer to their foe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Caeſar, <hi>a Cittizen ſo wrong'd</hi>
+                  </l>
+                  <l>
+                     <hi>Of the honor him belong'd,</hi>
+                  </l>
+                  <l>
+                     <pb facs="tcp:6007:38"/>
+                     <hi>To defend himſelfe from harmes,</hi>
+                  </l>
+                  <l>
+                     <hi>VVas enforc'd to take vp Armes.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>For he ſaw that Enuies dart,</hi>
+                  </l>
+                  <l>
+                     <hi>(Pricking ſtill their poyſoned hart,</hi>
+                  </l>
+                  <l>
+                     <hi>For his ſuddaine glory got,)</hi>
+                  </l>
+                  <l>
+                     <hi>Made his enuious foe ſo hote.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>VVicked Enuie feeding ſtill,</hi>
+                  </l>
+                  <l>
+                     <hi>Foolish thoſe that doe thy will.</hi>
+                  </l>
+                  <l>
+                     <hi>For thy poyſons in them poure</hi>
+                  </l>
+                  <l>
+                     <hi>Sundry paſsions euery houre.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>And to choller doth conuart,</hi>
+                  </l>
+                  <l>
+                     <hi>Purest blood about the hart.</hi>
+                  </l>
+                  <l>
+                     <hi>VVhich (ore-flowing of their brest)</hi>
+                  </l>
+                  <l>
+                     <hi>Suffreth nothing to digest.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>Other mens proſperitie,</hi>
+                  </l>
+                  <l>"<hi>Is their infelicitie.</hi>
+                  </l>
+                  <l>"<hi>And their choller then is rais'd</hi>
+                  </l>
+                  <l>"<hi>VVhen they heare another prais'd.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>Neither</hi> Phoebus <hi>fairest eye,</hi>
+                  </l>
+                  <l>"<hi>Feasts, nor friendly company,</hi>
+                  </l>
+                  <l>"<hi>Mirth, or what ſo-e're it be,</hi>
+                  </l>
+                  <l>"<hi>VVith their humor can agree.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:6007:38"/>
+                  <l>"<hi>Day or night they neuer rest,</hi>
+                  </l>
+                  <l>"<hi>Spightfull hate ſo pecks their brest.</hi>
+                  </l>
+                  <l>"<hi>Pinching their perplexed lunges,</hi>
+                  </l>
+                  <l>"<hi>VVith her fiery poyſoned tongues.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>Fire-brands in their brests they beare,</hi>
+                  </l>
+                  <l>"<hi>As if</hi> Teſiphon <hi>were there.</hi>
+                  </l>
+                  <l>"<hi>And their ſoules are pierc'd as ſore</hi>
+                  </l>
+                  <l>"<hi>As</hi> Prometheus <hi>ghost, and more.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>"<hi>VVretches, they are wee-begone,</hi>
+                  </l>
+                  <l>"<hi>For their wound is alwaies one.</hi>
+                  </l>
+                  <l>"<hi>Nor hath</hi> Chyron <hi>powre or skill,</hi>
+                  </l>
+                  <l>"<hi>To recure them of their ill.</hi>
+                  </l>
+               </lg>
+            </sp>
+         </div>
+         <div n="5" type="act">
+            <head>ACTVS QVINTVS.</head>
+            <stage> 
+               <list>
+                  <item>The Meſsenger.</item>
+                  <item>Cornelia.</item>
+                  <item>Chorus.</item>
+               </list>
+            </stage>
+            <sp>
+               <speaker>Meſsenger.</speaker>
+               <l>VNhappy man, amongſt ſo many wracks</l>
+               <l>As I haue ſuffred both by Land and Sea,</l>
+               <l>That ſcorneful deſtinie denyes my death.</l>
+               <l>Oft haue I ſeene the ends of mightier men,</l>
+               <l>Whoſe coates of ſteele baſe Death hath ſtolne into.</l>
+               <l>And in thys direful warre before mine eyes,</l>
+               <l>
+                  <pb facs="tcp:6007:39"/>Beheld theyr corſes ſcattred on the plaines,</l>
+               <l>And endles numbers falling by my ſide,</l>
+               <l>Nor thoſe ignoble, but the nobleſt Lords.</l>
+               <l>Mongſt whom aboue the reſt that moues me moſt,</l>
+               <l>
+                  <hi>Scipio</hi> (my deereſt Maiſter) is deceas'd.</l>
+               <l>And Death that ſees the Nobles blood ſo rife,</l>
+               <l>Full-gorged triumphes, and diſdaines my lyfe.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>We are vndone.</l>
+            </sp>
+            <sp>
+               <speaker>Chor.</speaker>
+               <l>
+                  <hi>Scipio</hi> hath loſt the day.</l>
+               <l>But hope the beſt, and harken to his newes.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>O cruell fortune.</l>
+            </sp>
+            <sp>
+               <speaker>Meſſ.</speaker>
+               <l>Theſe miſ-fortues yet</l>
+               <l>muſt I report to ſad <hi>Cornelia.</hi>
+               </l>
+               <l>Whoſe ceaſeles griefe (which I am ſorry for)</l>
+               <l>Will agrauate my former miſery.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>Wretch that I am, why leaue I not the world?</l>
+               <l>Or wherefore am I not already dead?</l>
+               <l>O world, O wretch.</l>
+            </sp>
+            <sp>
+               <speaker>Chor.</speaker>
+               <l>Is this th'vndaunted hart</l>
+               <l>that is required in extremities?</l>
+               <l>Be more confirmd. And Madam, let not griefe</l>
+               <l>abuſe your wiſdom lyke a vulgar wit.</l>
+               <l>Haply the newes is better then the noyſe,</l>
+               <l>Let's heare him ſpeake.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>O no, for all is loſt.</l>
+               <l>Farwell deere Father.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:39"/>
+               <speaker>Chor.</speaker>
+               <l>Hee is ſau'd perhaps.</l>
+            </sp>
+            <sp>
+               <speaker>Meſs.</speaker>
+               <l>Me thinks I heare my Maiſters daughter ſpeake.</l>
+               <l>What ſighes, what ſobs, what plaints, what paſsions</l>
+               <l>haue we endurde <hi>Cornelia</hi> for your ſake?</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>Where is thine Emperor?</l>
+            </sp>
+            <sp>
+               <speaker>Meſs.</speaker>
+               <l>Where our Captaines are.</l>
+               <l>Where are our Legions? Where our men at Armes?</l>
+               <l>Or where ſo many of our Romaine ſoules?</l>
+               <l>The earth, the ſea, the vultures and the Crowes,</l>
+               <l>Lyons and Beares are theyr beſt Sepulchers.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>O miſerable.</l>
+            </sp>
+            <sp>
+               <speaker>Chor.</speaker>
+               <l>Now I ſee the heauens,</l>
+               <l>are heapt with rage and horror gainſt this houſe.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>O earth, why op'ſt thou not?</l>
+            </sp>
+            <sp>
+               <speaker>Chor.</speaker>
+               <l>Why waile you ſo?</l>
+               <l>Aſſure your ſelfe that <hi>Scipio</hi> brauely dyed,</l>
+               <l>And ſuch a death excels a ſeruile life.</l>
+               <l>Say Meſſenger,</l>
+               <l>The manner of his end</l>
+               <l>will haply comfort this your diſcontent.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>Diſcourſe the manner of his hard miſhap,</l>
+               <l>And what diſaſtrous accident did breake,</l>
+               <l>So many people bent ſo much to fight.</l>
+            </sp>
+            <sp>
+               <speaker>Meſsenger.</speaker>
+               <l>
+                  <hi>Caeſar,</hi> that wiſely knewe his ſouldiers harts,</l>
+               <l>And their deſire to be approou'd in Armes,</l>
+               <l>
+                  <pb facs="tcp:6007:40"/>Sought nothing more then to encounter vs.</l>
+               <l>And therefore (faintly skyrmiſhing) in craft,</l>
+               <l>Lamely they fought, to draw vs further on.</l>
+               <l>Oft (to prouoke our warie wel-taught troopes)</l>
+               <l>He would attempt the entrance on our barrs.</l>
+               <l>Nay, euen our Trenches, to our great diſgrace,</l>
+               <l>And call our ſouldiers cowards to theyr face.</l>
+               <l>But when he ſaw his wiles nor bitter words,</l>
+               <l>Could draw our Captaines to endanger vs,</l>
+               <l>Coaſting along and following by the foote,</l>
+               <l>He thought to tyre and wearie vs fro thence.</l>
+               <l>And got hys willing hoſts to march by night,</l>
+               <l>With heauy Armor on theyr hardned backs,</l>
+               <l>Downe to the Sea-ſide; Where before faire <hi>Tapſus,</hi>
+               </l>
+               <l>He made his Pyoners (poore weary ſoules)</l>
+               <l>The ſelfe-ſame day, to dig and caſt new Trenches,</l>
+               <l>And plant ſtrong Barricades. Where he (encampt)</l>
+               <l>Reſolu'd by force to hold vs hard at work.</l>
+               <l>
+                  <hi>Scipio,</hi> no ſooner heard of his deſignes,</l>
+               <l>But being afeard to looſe ſo fit a place,</l>
+               <l>Marcht on the ſuddaine to the ſelfe-ſame Cittie.</l>
+               <l>Where few men might doe much, which made him ſee</l>
+               <l>Of what importance ſuch a Towne would be.</l>
+               <l>The fields are ſpred, and as a houſhold Campe</l>
+               <l>Of creeping Emmets, in a Countrey Farme,</l>
+               <l>That come to forrage when the cold begins:</l>
+               <l>
+                  <pb facs="tcp:6007:40"/>Leauing theyr crannyes to goe ſearch about,</l>
+               <l>Couer the earth ſo thicke, as ſcarce we tread</l>
+               <l>But we ſhall ſee a thouſand of them dead.</l>
+               <l>Euen ſo our battails ſcattred on the ſands,</l>
+               <l>Dyd ſcoure the plaines in purſuite of the foe.</l>
+               <l>One while at <hi>Tapſus</hi> we begin t'entrench,</l>
+               <l>To eaſe our Army if it ſhould retyre.</l>
+               <l>Another while we ſoftly ſally foorth.</l>
+               <l>And wakefull <hi>Caeſar</hi> that doth watch our being,</l>
+               <l>(When he perceiues vs marching o're the plaine,)</l>
+               <l>Doth leape for gladnes. And (to murder vow'd)</l>
+               <l>Runnes to the Tent for feare we ſhould be gone,</l>
+               <l>And quickly claps his ruſtie Armour on.</l>
+               <l>For true it is, that <hi>Caeſar</hi> brought at firſt,</l>
+               <l>An hoſte of men to Affrique, meanely Arm'd,</l>
+               <l>But ſuch as had braue ſpirits, and (combatting)</l>
+               <l>Had powre and wit to make a wretch a King.</l>
+               <l>Well, forth to field they marched all at once,</l>
+               <l>Except ſome fewe that ſtayd to guard the Trench.</l>
+               <l>Them <hi>Caeſar</hi> ſoone and ſubt'ly ſets in ranke.</l>
+               <l>And euery Regiment (warn'd with a worde</l>
+               <l>Brauely to fight for honor of the day.)</l>
+               <l>He ſhowes that auncient ſouldiers need not feare,</l>
+               <l>Them that they had ſo oft diſordered.</l>
+               <l>Them that already dream'd of death or flight.</l>
+               <l>That tyer'd, would nere hold out, if once they ſee</l>
+               <l>
+                  <pb facs="tcp:6007:41"/>That they o're-layd them in the firſt
+aſſault.</l>
+               <l>Meane-while our Emperor (at all poynts arm'd)</l>
+               <l>Whoſe ſiluer hayres and honorable front,</l>
+               <l>Were (warlike) lockt within a plumed caske,</l>
+               <l>In one hand held his Targe of ſteele emboſt,</l>
+               <l>And in the other graſpt his Coutelas:</l>
+               <l>And with a cheerefull looke ſurueigh'd the Campe.</l>
+               <l>Exhorting them to charge, and fight like men,</l>
+               <l>And to endure what ere betyded them.</l>
+               <l>For now (quoth he) is come that happie day,</l>
+               <l>Wherein our Countrey ſhall approue our loue.</l>
+               <l>Braue Romains know, this is the day and houre,</l>
+               <l>That we muſt all liue free, or friendly die.</l>
+               <l>For my part (being an auncient Senator,)</l>
+               <l>An Emperor and Conſul, I diſdaine</l>
+               <l>The world ſhould ſee me to become a ſlaue.</l>
+               <l>I'le eyther conquer, or this ſword you ſee,</l>
+               <l>(Which brightly ſhone) ſhall make an end of me.</l>
+               <l>We fight not we like thieues, for others wealth.</l>
+               <l>We fight not we t'enlarge our skant confines.</l>
+               <l>To purchaſe fame to our poſterities,</l>
+               <l>By ſtuffing of our tropheies in their houſes.</l>
+               <l>But t'is for publique freedom that we fight,</l>
+               <l>For Rome we fight, and thoſe that fled for feare.</l>
+               <l>Nay more, we fight for ſafetie of our lyues,</l>
+               <l>Our goods, our honors, and our auncient lawes.</l>
+               <l>
+                  <pb facs="tcp:6007:41"/>As for the Empire, and the Romaine ſtate</l>
+               <l>(Due to the victor) thereon ruminate.</l>
+               <l>Thinke how this day the honorable Dames,</l>
+               <l>With blubbred eyes, and handes to heauen vprear'd,</l>
+               <l>Sit inuocating for vs to the Gods,</l>
+               <l>That they will bleſſe our holy purpoſes.</l>
+               <l>Me thinks I ſee poore Rome in horror clad,</l>
+               <l>And aged Senators in ſad diſcourſe,</l>
+               <l>Mourne for our ſorrowes and theyr ſeruitude.</l>
+               <l>Me thinks I ſee them (while lamenting thus)</l>
+               <l>Theyr harts and eyes lye houering ouer vs.</l>
+               <l>On then braue men, my fellowes and Romes friends,</l>
+               <l>To ſhew vs worthy of our aunceſtors:</l>
+               <l>And let vs fight with courage and conceite,</l>
+               <l>That we may reſt the Maiſters of the field:</l>
+               <l>That this braue Tyrant valiantly beſet,</l>
+               <l>May perriſh in the preſſe before our faces.</l>
+               <l>And that his troopes (as tucht wyth lightning flames)</l>
+               <l>May by our horſe, in heapes be ouer-throwne,</l>
+               <l>And he (blood-thirſting) wallow in his owne.</l>
+               <l>Thys ſayd; His Army crying all at once,</l>
+               <l>With ioyfull tokens did applaude his ſpeeches.</l>
+               <l>VVhoſe ſwift ſhrill noyſe did pierce into the clowdes,</l>
+               <l>Lyke Northern windes that beate the horned Alpes.</l>
+               <l>The clattring Armour buskling as they paced,</l>
+               <l>Ronge through the Forreſts with a frightfull noyſe,</l>
+               <l>
+                  <pb facs="tcp:6007:42"/>And euery Eccho tooke the Trompets clange.</l>
+               <l>When (like a tempeſt rais'd with whire-winds rage,)</l>
+               <l>They ranne at euer-each other hand and foote.</l>
+               <l>Where-with the duſt, as with a darkſome clowde,</l>
+               <l>Aroſe, and ouer-ſhadowed horſe and man.</l>
+               <l>The Darts and Arrowes on theyr Armour glaunced,</l>
+               <l>And with theyr fall the trembling earth was ſhaken.</l>
+               <l>The ayre (that thickned with theyr thundring cryes,)</l>
+               <l>With pale wanne clowdes diſcoloured the Sunne.</l>
+               <l>The fire in ſparks fro forth theyr Armour flew,</l>
+               <l>And with a duskiſh yellow, chokt the heauens.</l>
+               <l>The battels lockt, (with briſtle-poynted ſpeares)</l>
+               <l>Doe at the halfe pyke freely charge each other,</l>
+               <l>And daſh together like two luſtie Bulls,</l>
+               <l>That (iealous of ſome Heyfar in the Heard,)</l>
+               <l>Runne head to head, and (ſullen) wil not yeeld,</l>
+               <l>Till dead or fled, the one forſake the field.</l>
+               <l>The ſhyuered Launces (ratling in the ayre,)</l>
+               <l>Fly forth as thicke as moates about the Sunne:</l>
+               <l>When with theyr ſwords (fleſht with the former fight,)</l>
+               <l>They hewe their Armour, and they cleaue their casks,</l>
+               <l>Till ſtreames of blood, like Riuers fill the Downes.</l>
+               <l>That being infected with the ſtench thereof</l>
+               <l>Surcloyes the ground, and of a Champant Land,</l>
+               <l>Makes it a Quagmire, where (kneedeepe) they ſtand.</l>
+               <l>Blood-thirſtie <hi>Diſcord,</hi> with her ſnakie hayre,</l>
+               <l>
+                  <pb facs="tcp:6007:42"/>A fearfull Hagge, with fier-darting eyes,</l>
+               <l>Runnes croſſe the Squadrons with a ſmokie brand:</l>
+               <l>And with her murdring whip encourageth</l>
+               <l>The ouer-forward hands, to bloode and death.</l>
+               <l>
+                  <hi>Bellona</hi> fiered with a quenchles rage,</l>
+               <l>Runnes vp and downe, and in the thickeſt throng,</l>
+               <l>Cuts, caſts the ground, and madding makes a poole,</l>
+               <l>Which in her rage, free paſſage doth afford,</l>
+               <l>That with our blood ſhe may annoynt her ſword.</l>
+               <l>Now we of our ſide, vrge them to retreate,</l>
+               <l>And nowe before them, we retyre as faſt.</l>
+               <l>As on the Alpes the ſharpe Nor-North-eaſt wind,</l>
+               <l>Shaking a Pynetree with theyr greateſt powre,</l>
+               <l>One while the top doth almoſt touch the earth,</l>
+               <l>And then it riſeth with a counterbuffe.</l>
+               <l>So did the Armies preſſe and charge each other,</l>
+               <l>With ſelfe-ſame courage, worth and weapons to;</l>
+               <l>And prodigall of life for libertie,</l>
+               <l>With burning hate let each at other flie.</l>
+               <l>Thryce did the Cornets of the ſouldiers (cleerd,)</l>
+               <l>Turne to the Standerd to be newe ſupplyde;</l>
+               <l>And thrice the beſt of both was faine to breathe.</l>
+               <l>And thrice recomforted they brauely ranne,</l>
+               <l>And fought as freſhly as they firſt beganne.</l>
+               <l>Like two fierce Lyons fighting in a Deſart,</l>
+               <l>To winne the loue of ſome faire Lyoneſſe,</l>
+               <l>
+                  <pb facs="tcp:6007:43"/>When they haue vomited theyr long-growne rage,</l>
+               <l>And proou'd each others force ſufficient,</l>
+               <l>Paſſant regardant ſoftly they retyre.</l>
+               <l>Theyr iawbones dy'd with foming froth and blood.</l>
+               <l>Their lungs like ſpunges, ramm'd within their ſides,</l>
+               <l>Theyr tongues diſcouerd, and theyr tailes long trailing.</l>
+               <l>Till iealous rage (engendered with reſt,)</l>
+               <l>Returnes them ſharper ſet then at the firſt;</l>
+               <l>And makes them couple when they ſee theyr prize,</l>
+               <l>With briſtled backs, and fire-ſparkling eyes,</l>
+               <l>Tyll tyer'd or conquer'd, one ſubmits or flyes.</l>
+               <l>
+                  <hi>Caeſar,</hi> whoſe kinglike lookes like day-bright
+ſtarrs,</l>
+               <l>Both comfort and encourage his to fight,</l>
+               <l>Marcht through the battaile (laying ſtill about him.)</l>
+               <l>And ſubt'ly markt whoſe hand was happieſt.</l>
+               <l>Who nicely did but dyp his ſpeare in blood,</l>
+               <l>And who more roughly ſmear'd it to his fiſte.</l>
+               <l>Who (ſtaggering) fell with euery feeble wound,</l>
+               <l>And who (more ſtrongly) pac'd it through the thickeſt,</l>
+               <l>Him he enflam'd, and ſpur'd, and fild with horror.</l>
+               <l>As when <hi>Alecto</hi> in the loweſt hell,</l>
+               <l>Doth breathe new heate within <hi>Orestes</hi> breſt,</l>
+               <l>Till out-ward rage with inward griefe begins,</l>
+               <l>A freſh remembrance of our former ſins.</l>
+               <l>For then (as if prouokt with pricking goades,)</l>
+               <l>Theyr warlike Armies, (faſt lockt foote to foote,)</l>
+               <l>
+                  <pb facs="tcp:6007:43"/>Stooping their heads low bent to toſſe theyr
+ſtaues,</l>
+               <l>They fiercely open both Battalions.</l>
+               <l>Cleaue, breake, and raging tempeſt-like o're-turne,</l>
+               <l>What e're makes head to meet them in this humor.</l>
+               <l>Our men at Armes (in briefe) begin to flye.</l>
+               <l>And neither prayers, intreatie, nor example</l>
+               <l>Of any of theyr leaders left aliue,</l>
+               <l>Had powre to ſtay them in this ſtrange carrier.</l>
+               <l>Stragling, as in the faire Calabrian fields,</l>
+               <l>VVhen Wolues for hunger ranging fro the wood,</l>
+               <l>Make forth amongſt the flock, that ſcattered flyes</l>
+               <l>Before the Shepheard, that reſiſtles lyes.</l>
+            </sp>
+            <sp>
+               <speaker>Corn.</speaker>
+               <l>O cruell fortune.</l>
+            </sp>
+            <sp>
+               <speaker>Meſs.</speaker>
+               <l>None reſiſting now,</l>
+               <l>the field was fild with all confuſion,</l>
+               <l>of murder, death, and direfull maſſacres.</l>
+               <l>The feeble bands that yet were left entyre,</l>
+               <l>Had more deſire to ſleepe then ſeeke for ſpoyle.</l>
+               <l>No place was free from ſorrow, euery where</l>
+               <l>Lay Armed men, ore-troden with theyr horſes.</l>
+               <l>Diſmembred bodies drowning in theyr blood,</l>
+               <l>And wretched heapes lie mourning of theyr maimes.</l>
+               <l>VVhoſe blood, as from a ſpunge, or bunche of Grapes</l>
+               <l>Cruſht in a VVine-preſſe, guſheth out ſo faſt,</l>
+               <l>As with the ſight doth make the ſound agaſt.</l>
+               <l>
+                  <pb facs="tcp:6007:44"/>Some ſhould you ſee that had theyr heads halfe
+clouen,</l>
+               <l>And on the earth theyr braines lye trembling.</l>
+               <l>Here one new wounded, helps another dying.</l>
+               <l>Here lay an arme, and there a leg lay ſhiuer'd.</l>
+               <l>Here horſe and man (o're-turnd) for mercy cryde,</l>
+               <l>With hands exſtended to the merciles.</l>
+               <l>That ſtopt theyr eares, and would not heare a word,</l>
+               <l>But put them all (remorceles) to the ſword.</l>
+               <l>He that had hap to ſcape, doth helpe a freſh,</l>
+               <l>To re-enforce the ſide wheron he ſeru'd.</l>
+               <l>But ſeeing that there the murdring Enemie,</l>
+               <l>Peſle-meſle, purſued them like a ſtorme of hayle,</l>
+               <l>They gan retyre where <hi>Iuba</hi> was encampt;</l>
+               <l>But there had <hi>Caeſar</hi> eftſoones tyranniz'd.</l>
+               <l>So that diſpayring to defend themſelues,</l>
+               <l>They layd aſide theyr Armour, and at laſt,</l>
+               <l>Offred to yeeld vnto the enemy.</l>
+               <l>Whoſe ſtony hart, that nere dyd Romaine good,</l>
+               <l>VVould melt with nothing but theyr deereſt blood.</l>
+               <l>And <hi>Scipio</hi> my Father,</l>
+               <l>when he beheld</l>
+               <l>His people ſo diſcomfited and ſcorn'd.</l>
+               <l>When he perceiu'd the labour profitles,</l>
+               <l>To ſeeke by new encouraging his men,</l>
+               <l>To come vpon them with a freſh alarme.</l>
+               <l>And when he ſaw the enemies purſuite,</l>
+               <l>
+                  <pb facs="tcp:6007:44"/>To beate them downe as fierce as thundring
+flints,</l>
+               <l>And lay them leuell with the charged earth,</l>
+               <l>Lyke eares of Corne with rage of windie ſhowres,</l>
+               <l>Their battailes ſcattred, and their Enſignes taken.</l>
+               <l>And (to conclude) his men diſmayd to ſee,</l>
+               <l>The paſſage choakt with bodies of the dead;</l>
+               <l>(Inceſſantly lamenting th'extreame loſſe,</l>
+               <l>And ſouſpirable death of ſo braue ſouldiers.)</l>
+               <l>He ſpurrs his horſe, and (breaking through the preſſe)</l>
+               <l>Trots to the Hauen, where his ſhips he finds,</l>
+               <l>And hopeles truſteth to the truſtles windes.</l>
+               <l>Now had he thought to haue ariu'd in Spayne,</l>
+               <l>To raiſe newe forces, and returne to field.</l>
+               <l>But as one miſchiefe drawes another on,</l>
+               <l>A ſuddaine tempeſt takes him by the way,</l>
+               <l>And caſts him vp neere to the Coaſts of Hyppon.</l>
+               <l>Where th'aduerſe Nauie ſent to ſcoure the ſeas,</l>
+               <l>Did hourely keepe their ordinary courſe;</l>
+               <l>Where ſeeing himſelfe at anchor ſlightly ſhipt,</l>
+               <l>Beſieg'd, betraide by winde, by land, by ſea,</l>
+               <l>(All raging mad to rig his better Veſſels,</l>
+               <l>The little while this naual conflict laſted,)</l>
+               <l>Behold his owne was fiercely ſet vpon.</l>
+               <l>Which being ſore beaten, till it brake agen,</l>
+               <l>Ended the liues of his beſt fighting men,</l>
+               <l>
+                  <pb facs="tcp:6007:45"/>There did the remnant of our Romaine nobles,</l>
+               <l>Before the foe, and in theyr Captaines preſence</l>
+               <l>Dye brauely, with their fauchins in their fiſts.</l>
+               <l>Then <hi>Scipio,</hi> (that ſaw his ſhips through-galled,</l>
+               <l>And by the foe fulfild with fire and blood,</l>
+               <l>His people put to ſword, Sea, Earth and Hell,</l>
+               <l>And Heauen it ſelfe coniur'd to iniure him,)</l>
+               <l>Stepts to the Poope, and with a princely viſage</l>
+               <l>Looking vpon his weapon dide with blood,</l>
+               <l>Sighing he ſets it to his breſt, and ſaid:</l>
+               <l>Since all our hopes are by the Gods beguil'd,</l>
+               <l>What refuge now remaines for my diſtreſſe,</l>
+               <l>But thee my deereſt nere-deceiuing ſword?</l>
+               <l>Yea, thee my lateſt fortunes firmeſt hope.</l>
+               <l>By whom I am aſſurde this hap to haue,</l>
+               <l>That being free borne, I ſhall not die a ſlaue.</l>
+               <l>Scarce had he ſaid, but cruelly reſolu'd,</l>
+               <l>He wrencht it to the pommel through his ſides,</l>
+               <l>That fro the wound the ſmoky blood ran bubling,</l>
+               <l>VVhere-with he ſtaggred; And I ſtept to him</l>
+               <l>To haue embrac'd him. But he (beeing afraid</l>
+               <l>T'attend the mercy of his murdring foe,</l>
+               <l>That ſtil purſued him and oppreſt his ſhips,)</l>
+               <l>Crawld to the Deck, and lyfe with death to eaſe,</l>
+               <l>Headlong he threw himſelfe into the ſeas.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:6007:45"/>
+               <speaker>CORNELIA.</speaker>
+               <l>O cruell Gods, O heauen, O direfull Fates,</l>
+               <l>O radiant Sunne that ſlightly guildſt our dayes,</l>
+               <l>O night ſtarrs, full of infelicities,</l>
+               <l>O triple titled <hi>Heccat</hi> Queene and Goddeſſe,</l>
+               <l>Bereaue my lyfe, or lyuing ſtrangle me.</l>
+               <l>Confound me quick, or let me ſinck to hell.</l>
+               <l>Thruſt me fro forth the world, that mongſt the ſpirits</l>
+               <l>Th'infernall Lakes may ring with my laments.</l>
+               <l>O miſerable, deſolate, diſtresful wretch,</l>
+               <l>Worne with miſhaps, yet in miſhaps abounding.</l>
+               <l>What ſhall I doe, or whether ſhall I flye</l>
+               <l>To venge this out-rage, or reuenge my wrongs?</l>
+               <l>Come wrathfull Furies with your Ebon locks,</l>
+               <l>And feede your ſelues with mine enflamed blood.</l>
+               <l>
+                  <hi>Ixions</hi> torment, <hi>Syſiph's</hi> roling ſtone,</l>
+               <l>And th'Eagle tyering on <hi>Prometheus,</hi>
+               </l>
+               <l>Be my eternall tasks; That th'extreame fire,</l>
+               <l>Within my hart, may from my hart retyre.</l>
+               <l>I ſuffer more, more ſorrowes I endure,</l>
+               <l>Then all the Captiues in th'infernall Court.</l>
+               <l>O troubled Fate, O fatall miſery,</l>
+               <l>That vnprouoked, deal'ſt ſo partiallie.</l>
+               <l>
+                  <pb facs="tcp:6007:46"/>Say freatfull heauens, what fault haue I
+committed,</l>
+               <l>Or wherein could mine innocence offend you,</l>
+               <l>When (being but young) I loſt my firſt loue
+<hi>Croſsus?</hi>
+               </l>
+               <l>Or wherein did I merrite ſo much wrong,</l>
+               <l>To ſee my ſecond husband <hi>Pompey</hi> ſlayne?</l>
+               <l>But mongſt the reſt, what horrible offence,</l>
+               <l>What hatefull thing (vnthought of) haue I done,</l>
+               <l>That in the midſt of this my mournfull ſtate,</l>
+               <l>Nought but my Fathers death could expiate?</l>
+               <l>Thy death deere <hi>Scipio,</hi> Romes eternall loſſe,</l>
+               <l>Whoſe hopefull life preſeru'd our happines.</l>
+               <l>Whoſe ſiluer haires encouraged the weake.</l>
+               <l>Whoſe reſolutions did confirme the reſt.</l>
+               <l>Whoſe ende, ſith it hath ended all my ioyes,</l>
+               <l>O heauens at leaſt permit, of all theſe plagues,</l>
+               <l>That I may finiſh the Cataſtrophe.</l>
+               <l>Sith in this widdow-hood, of all my hopes</l>
+               <l>I cannot looke for further happines.</l>
+               <l>For both my husbands and my Father gone,</l>
+               <l>VVhat haue I els to wreak your wrath vpon.</l>
+               <l>Now as for happy thee, to whom ſweet Death,</l>
+               <l>Hath giuen bleſſed reſt for lifes bereauing,</l>
+               <l>O enuious <hi>Iulia,</hi> in thy iealous hart</l>
+               <l>Venge not thy wrong vpon <hi>Cornelia.</hi>
+               </l>
+               <l>But ſacred ghoſt, appeaſe thine ire, and ſee</l>
+               <l>
+                  <pb facs="tcp:6007:46"/>My hard miſhap in marrying after thee.</l>
+               <l>O ſee mine anguiſh; Haplie ſeeing it,</l>
+               <l>T'will moue compaſsion in thee of my paines:</l>
+               <l>And vrge thee (if thy hart be not of flynt,</l>
+               <l>Or drunck with rigor,) to repent thy ſelfe;</l>
+               <l>That thou enflam'dſt ſo cruell a reuenge</l>
+               <l>In <hi>Caeſars</hi> hart, vpon ſo ſlight a cauſe.</l>
+               <l>And mad'ſt him raiſe ſo many mournfull Tombes,</l>
+               <l>Becauſe thy husband did reuiue the lights</l>
+               <l>Of thy forſaken bed; (Vnworthely)</l>
+               <l>Oppoſing of thy freatfull ieloſie,</l>
+               <l>Gainſt his miſhap, as it my helpe had bin,</l>
+               <l>Or as if ſecond marriage were a ſin.</l>
+               <l>VVas neuer Citty where calamitie,</l>
+               <l>Hath ſoiour'd with ſuch ſorrow as in this.</l>
+               <l>VVas neuer ſtate wherein the people ſtood</l>
+               <l>So careles of their conquered libertie,</l>
+               <l>And careful of anothers tiranny.</l>
+               <l>O Gods, that earſt of Carthage tooke ſome care,</l>
+               <l>Which by our Fathers (pittiles) was ſpoyl'd.</l>
+               <l>When thwarting Deſtinie, at Affrique walls</l>
+               <l>Did topſide turuey turne their Common-wealth.</l>
+               <l>VVhen forcefull weapons fiercely tooke away,</l>
+               <l>Their ſouldiers (ſent to nouriſh vp thoſe warrs.)</l>
+               <l>VVhen (fierd) their golden Pallaces fell downe.</l>
+               <l>
+                  <pb facs="tcp:6007:47"/>When through the ſlaughter th'Afrique ſeas were
+dide,</l>
+               <l>And ſacred Temples quenchleſly enflam'd.</l>
+               <l>Now is our haples time of hopes expired.</l>
+               <l>Then ſatiſ-fie your ſelues with this reuenge,</l>
+               <l>Content to count the ghoſts of thoſe great Captains,</l>
+               <l>Which (conquered) periſht by the Romaine ſwords.</l>
+               <l>The Hannons, the Amilcars, Aſdrubals,</l>
+               <l>Eſpecially, that proudeſt Hanniball,</l>
+               <l>That made the fayre Thraſymene ſo dezart.</l>
+               <l>For euen thoſe fields that mour'd to beare their bodies,</l>
+               <l>Now (loaden) groane to feele the Romaine corſes.</l>
+               <l>Theyr earth we purple ore, and on theyr Tombes</l>
+               <l>We heape our bodies, equalling theyr ruine.</l>
+               <l>And as a <hi>Scipio</hi> did reuerſe theyr powre,</l>
+               <l>They haue a <hi>Scipio</hi> to reuenge them on.</l>
+               <l>Weepe therefore Roman Dames, and from henceforth,</l>
+               <l>Valing your Criſtall eyes to your faire boſoms,</l>
+               <l>Raine ſhowres of greefe vpon your Roſe-like cheeks,</l>
+               <l>And dewe your ſelues with ſpringtides of your teares.</l>
+               <l>Weepe Ladies weepe, and with your reeking ſighes,</l>
+               <l>Thicken the paſſage of the pureſt clowdes,</l>
+               <l>And preſſe the ayre with your continuall plaints.</l>
+               <l>Beate at your Iuorie breaſts, and let your robes</l>
+               <l>(Defac'd and rent) be witnes of your ſorrowes.</l>
+               <l>And let your haire that wont be wreath'd in treſſes,</l>
+               <l>
+                  <pb facs="tcp:6007:47"/>Now hang neglectly, dangling downe your
+ſholders,</l>
+               <l>Careles of Arte, or rich accouſtrements.</l>
+               <l>That with the gold and pearle we vs'd before,</l>
+               <l>Our mournfull habits may be deckt no more.</l>
+               <l>Alas what ſhall I doe? O deere companions,</l>
+               <l>Shall I, O ſhall I liue in theſe laments?</l>
+               <l>Widdowed of all my hopes, my haps, my husbands,</l>
+               <l>And laſt, not leaſt, bereft of my beſt Father;</l>
+               <l>And of the ioyes mine aunceſtors enioy'd,</l>
+               <l>When they enioy'd their liues and libertie.</l>
+               <l>And muſt I liue to ſee great <hi>Pompeys</hi> houſe,</l>
+               <l>(A houſe of honour and antiquitie)</l>
+               <l>Vſurpt in wrong by lawleſſe <hi>Anthony?</hi>
+               </l>
+               <l>Shall I behold the ſumptuous ornaments,</l>
+               <l>(Which both the world and Fortune heapt on him,)</l>
+               <l>Adorne and grace his graceles Enemy?</l>
+               <l>Or ſee the wealth that <hi>Pompey</hi> gain'd in warre,</l>
+               <l>Sold at a pike, and borne away by ſtrangers?</l>
+               <l>Dye, rather die <hi>Cornelia;</hi> And (to ſpare</l>
+               <l>Thy worthles life that yet muſt one day perriſh,)</l>
+               <l>Let not thoſe Captains vainlie lie inter'd,</l>
+               <l>Or <hi>Caeſar</hi> triumph in thine infamie,</l>
+               <l>That wert the wife to th'one, and th'others daughter.</l>
+               <l>But if I die before I haue entomb'd,</l>
+               <l>My drowned Father in ſome Sepulcher,</l>
+               <l>
+                  <pb facs="tcp:6007:48"/>VVho will performe that care in kindnes for me?</l>
+               <l>Shall his poore wandring lymbs lie ſtil tormented,</l>
+               <l>Toſt with the ſalte waues of the waſteful Seas?</l>
+               <l>No louely Father, and my deereſt husband,</l>
+               <l>
+                  <hi>Cornelia</hi> muſt liue, (though life ſhe hateth)</l>
+               <l>To make your Tombes, &amp; mourne vpon your hearſes.</l>
+               <l>VVhere (languiſhing,) my famous faithful teares</l>
+               <l>May trickling bathe your generous ſweet cynders.</l>
+               <l>And afterward (both wanting ſtrength and moyſture,</l>
+               <l>Fulfilling with my lateſt ſighes and gaſps,</l>
+               <l>The happie veſſels that encloſe your bones,)</l>
+               <l>I will ſurrender my ſurcharged life.</l>
+               <l>And (when my ſoule Earths pryſon ſhall forgoe,)</l>
+               <l>Encreaſe the number of the ghoſts be-low.</l>
+            </sp>
+            <epigraph>
+               <q> Non proſunt Domino quae proſunt omnibus; Artes.</q>
+            </epigraph>
+            <closer>
+               <signed>Tho: Kyd.</signed>
+            </closer>
+            <pb facs="tcp:6007:48"/>
+         </div>
+      </body>
+   </text>
+</TEI>

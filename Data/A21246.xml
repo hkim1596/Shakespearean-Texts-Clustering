@@ -1,0 +1,654 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speeches deliuered to Her Maiestie this last progresse at the Right Honorable the Lady Russels, at Bissam, the Right Honorable the Lorde Chandos at Sudley, at the Right Honorable the Lord Norris, at Ricorte.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21246</idno>
+            <idno type="STC">STC 7600</idno>
+            <idno type="STC">ESTC S105478</idno>
+            <idno type="EEBO-CITATION">99841206</idno>
+            <idno type="PROQUEST">99841206</idno>
+            <idno type="VID">5770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21246)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 337:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Speeches deliuered to Her Maiestie this last progresse at the Right Honorable the Lady Russels, at Bissam, the Right Honorable the Lorde Chandos at Sudley, at the Right Honorable the Lord Norris, at Ricorte.</title>
+                  <author>Barnes, Joseph, d. 1618.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Ioseph Barnes,</publisher>
+                  <pubPlace>At Oxforde :</pubPlace>
+                  <date>1592.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Compiler's preface signed: I.B., i.e. Joseph Barnes.</note>
+                  <note>Partly in verse.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth --  I, --  Queen of England, 1533-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5770:1"/>
+            <pb facs="tcp:5770:1" rendition="simple:additions"/>
+            <p>SPEECHES DELIVERED TO HER MAIESTIE THIS LAST PROGRESSE, AT THE Right Honorable the Lady RVSSELS, at Biſſam, the Right Honorable the Lorde CHANDOS at Sudley, at the Right Honorable the Lord NORRIS, at Ricorte.</p>
+            <figure>
+               <figDesc>printer's device of Joseph Barnes, McKerrow 336: "The arms of the University of Oxford"</figDesc>
+               <p>AC: OX</p>
+            </figure>
+            <p>At Oxforde, Printed by Ioſeph Barnes. 1592.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:5770:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg> GATHERED theſe copies in looſe papers I know not how imperfect, therefore muſt I craue a double par<g ref="char:EOLhyphen"/>don; of him that penned them, and thoſe that reade them. The matter of ſmall moment, and therefore the offence of no great danger.</p>
+            <closer>
+               <signed>I. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="pageant">
+               <pb facs="tcp:5770:2"/>
+               <p>At the top of the Hill going to Biſſam, the Cornets ſounding in the Woods, a wilde man came forth and vt<g ref="char:EOLhyphen"/>tered this ſpeech.</p>
+               <sp>
+                  <p>
+                     <seg rend="decorInit">I</seg> Followed this ſounde, as enchanted; neither knowing the reaſon why, nor how to bee ridde of it: vnuſuall to theſe Woods, and (I feare) to our gods prodigi<g ref="char:EOLhyphen"/>ous. <hi>Syluanus</hi> whom I honour, is runne into a Caue: <hi>Pan,</hi> whom I enuye, courting of the Shephear<g ref="char:EOLhyphen"/>deſſe: Enuie I thee <hi>Pan?</hi> No, pitty thee, an eie-ſore to chaſt Nymphes; yet ſtill importunate: Honour thee <hi>Syluanus?</hi> No, contemne thee: fearefull of Muſicke in the Woods, yet counted the god of the Woods. I, it may bee more ſtout, than wiſe, asked, who paſſed that way? what he or ſhee? none durſt anſwere, or would vouchſafe, but paſsionate Eccho, who ſaide Shee. And Shee it is, and you are Shee, whom in our dreames many yeares wee Satyres haue ſeene, but waking could neuer finde any ſuch. Euery one hath tolde his dreame and deſcribed your perſon, all agree in one, and ſet downe your vertues: in this onely did wee differ, that ſome ſaide your Pourtraiture might be drawen, other ſaide impoſsible: ſome thought your vertues might be numbred, moſt ſaide they were infinite: Infinite, and impoſsible, of that ſide was I: and firſt in hu<g ref="char:EOLhyphen"/>mility to ſalute you moſt happy I: my vntamed thoughts
+<pb facs="tcp:5770:3"/>waxe gentle, &amp; I feele in my ſelfe ciuility, A thing hated, becauſe not knowen, and vnknowen, becauſe I knew not you. Thus Vertue tameth fierceneſſe, Beauty, madneſſe. Your Maieſty on my knees will I followe, bearing this Club, not as a Saluage, but to beate downe thoſe that are.</p>
+               </sp>
+               <p>At the middle of the Hill ſate Pan, and two Virgins keeping ſheepe, and ſowing in their Samplers, where her Maie<g ref="char:EOLhyphen"/>ſtye ſtayed and heard this.</p>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>PRety ſoules and bodies too, faire ſhephardiſſe, or ſweete Miſtreſſe, you know my ſuite, loue, my vertue, Muſicke, my power, a godhead. I cannot tickle the ſheepes gutts of a Lute, bydd, bydd, bydd, like the calling of Chickins, but for a Pipe that ſqueeketh like a Pigg, I am he. How doe you burne time, &amp; drowne beauty in prick<g ref="char:EOLhyphen"/>ing of clouts, when you ſhould bee penning of Sonnets? You are more ſimple then the ſheepe you keepe, but not ſo gentle. I loue you both, I know not which beſt, and you both ſcorne me, I know not which moſt. Sure I am, that you are not ſo young as not to vnderſtand loue, nor ſo wiſe as to withſtand it, vnleſſe you think your ſelues greater tha<g ref="char:cmbAbbrStroke">̄</g> gods, whereof I am one. Howe often haue I brought you Cheſtnuts for a loue token, &amp; deſired but acceptance for a fauour. Little did you knowe the miſterye, that as the huske was thornye and tough, yet the meate ſweete, ſo though my hyde were rough and vnkempt, yet my heart was ſmooth and louing: you are but the Farmers daughters of the Dale, I the god of the flocks that feede vpon the hils. Though I cannot force loue, I may obedience, or elſe ſende your ſheepe a wandring, with my fancies. Coy<g ref="char:EOLhyphen"/>neſſe muſt be reuenged with curſtneſſe, but be not agaſte ſweet mice, my godhead co<g ref="char:cmbAbbrStroke">̄</g>meth ſo faſt vpon me, that Ma<g ref="char:EOLhyphen"/>ieſtye had almoſt ouerru<g ref="char:cmbAbbrStroke">̄</g>n affectio<g ref="char:cmbAbbrStroke">̄</g>, Can you loue? Wil you?</p>
+               </sp>
+               <sp>
+                  <speaker>Syb.</speaker>
+                  <p>Alas poore <hi>Pan,</hi> looke how he looketh Siſter, fitter
+<pb facs="tcp:5770:3"/>to drawe in a Harueſt wayne, then talke of loue to chaſte Virgins, would you haue vs both?</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>I, for oft I haue hearde, that two Pigeons may bee caught with one beane.</p>
+               </sp>
+               <sp>
+                  <speaker>Iſab.</speaker>
+                  <p>And two Woodcocks with one ſprindge.</p>
+               </sp>
+               <sp>
+                  <speaker>Syb.</speaker>
+                  <p>And many Dotterels with one dance.</p>
+               </sp>
+               <sp>
+                  <speaker>Iſab.</speaker>
+                  <p>And all fooles with one faire worde.</p>
+               </sp>
+               <p>Nay, this is his meaning; as he hath two ſhapes, ſo hath he two harts, the one of a man wherewith his tongue is tipped, diſſembling; the other of a beaſt, wherewith his thoughts are poyſoned, luſt. Men muſt haue as manie loues, as they haue hart-ſtrings, and ſtudie to make an Al<g ref="char:EOLhyphen"/>phabet of miſtreſſes, from A. to Y. which maketh them in the end crie, Ay. Againſt this, experience hath prouided vs a remedy, to laugh at them when they know not what to ſaie, and when they ſpeake, not to beleeue them.</p>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>Not for want of matter, but to knowe the meaning, what is wrought in this ſampler?</p>
+               </sp>
+               <sp>
+                  <speaker>Syb.</speaker>
+                  <p>The follies of the Gods, who became beaſtes, for their affections.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>What in this?</p>
+               </sp>
+               <sp>
+                  <speaker>Iſa.</speaker>
+                  <p>The honour of Virgins who became Goddeſſes, for their chaſtity.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>But what be theſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Syb.</speaker>
+                  <p>Mens tongues, wrought all with double ſtitch but not one true.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>What theſe?</p>
+               </sp>
+               <sp>
+                  <speaker>Iſa.</speaker>
+                  <p>Roſes, Egle<g ref="char:cmbAbbrStroke">̄</g>tine, harts-eaſe, wrought with Queenes ſtitch, and all right.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>I neuer hard the odds betweene mens tongues, and weomens, therefore they may be both double, vnleſſe you tell mee how they differ.</p>
+               </sp>
+               <sp>
+                  <speaker>Syb.</speaker>
+                  <p>Thus, weomens tongues are made of the ſame fleſh that their harts are, and ſpeake as they thinke: Mens harts of the fleſh that their tongues, and both diſſemble, But prythy <hi>Pan</hi> be packing, thy words are as odious as thy
+<pb facs="tcp:5770:4"/>fight and we attend a fight which is more glorious, then the ſunne riſing.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>What doth <hi>Iupiter</hi> come this waies?</p>
+               </sp>
+               <sp>
+                  <speaker>Syb.</speaker>
+                  <p>No, but one that will make <hi>Iupiter</hi> bluſh as guilty of his vnchaſt iugglings, and <hi>Iuno</hi> diſmaide as wounded at her Maieſty. What our mother hath often tolde vs, and fame the whole world, cannot be concealed from thee; if it be, we wil tell thee, which may hereafter make thee ſur<g ref="char:EOLhyphen"/>ceaſe thy ſuite, for feare of her diſpleaſure, and honour virginitye, by wondering at her vertues.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>Say on ſweete ſoule?</p>
+               </sp>
+               <sp>
+                  <speaker>Syb.</speaker>
+                  <p>This way commeth the Queene of this Iſlande, the wonder of the world, and natures glory, leading affections in fetters, Virginities ſlaues: embracing mildnes with Iu<g ref="char:EOLhyphen"/>ſtice, Maieſties twinns. In whom nature hath imprinted beauty, not art paynted it; in whome wit hath bred lear<g ref="char:EOLhyphen"/>ning, but not without labour; labour brought forth wiſe<g ref="char:EOLhyphen"/>dome, but not without wonder. By her it is <hi>(Pan)</hi> that all our Carttes that thou ſeeſt, are laden vvith Corne, when in other countries they are filled vvith Harneys, that our horſes are ledde vvith a whipp: theirs vvith a Launce, that our Riuers flow with fiſh, theirs with bloode: our cattel feede on paſtures, they feede on paſtures like cattel: One hande ſhe ſtretcheth to <hi>Fraunce,</hi> to weaken Rebels; the other to <hi>Flaunders,</hi> to ſtrengthen Religion; her heart to both Countries, her vertues to all. This is ſhee at whom <hi>Enuie</hi> hath ſhott all her arrowes, and now for anger broke her bow, on whom God hath laide all his bleſſinges, &amp; we for ioy clappe our hands, heedleſſe treaſon goeth hed<g ref="char:EOLhyphen"/>leſſe; and cloſe trechery reſtleſſe: Daunger looketh pale to beholde her Maieſty; &amp; tyranny bluſheth to heare of her mercy. <hi>Iupiter</hi> came into the houſe of poore <hi>Baucis,</hi> &amp; ſhe vouchſafeth to viſite the bare Farmes of her ſubiects. We vpo<g ref="char:cmbAbbrStroke">̄</g> our knees, wil entreat her to come into the valley, that our houſes may be bleſſed with her preſence, whoſe hartes are filled with quietnes by her gouernement. To her wee wiſh as many yeares, as our fieldes haue eares of
+<pb facs="tcp:5770:4"/>corne, both infinite: and to her enemies, as many troubles, as the Wood hath leaues, all intollerable. But whiſt, here ſhee is, run downe <hi>Pan</hi> the hill in all haſt, and though thou breake thy necke to giue our mother warning, it is no matter.</p>
+               </sp>
+               <sp>
+                  <speaker>Pan.</speaker>
+                  <p>No, giue me leaue to die with wondring, &amp; trippe you to your mother. Here I yeelde all the flockes of theſe fields to your highnes: greene be the graſſe where you treade: calme the water where you rowe: ſweete the aire, where you breathe: long the life that you liue, happy the people that you loue: this is all I can wiſh. During your a<g ref="char:EOLhyphen"/>bode, no theft ſhalbe in the woods: in the fielde no noiſe, in the vallies no ſpies, my ſelfe will keepe all ſafe: that is all I can offer. And heare I breake my pipe, which <hi>Apollo</hi> could neuer make me doe; and follow that ſounde which followes you.</p>
+               </sp>
+               <p>At the bottome of the hill, entring into the houſe Ceres with her Nymphes in an har<g ref="char:EOLhyphen"/>ueſt Cart, meete her Maieſty, hauing a Crowne of wheat-ears with a Iewell, and after this ſong, vttered the ſpeech following.</p>
+               <sp>
+                  <lg>
+                     <l>
+                        <hi>Swel</hi> Ceres <hi>now for other Gods are ſhrinking,</hi>
+                     </l>
+                     <l>Pomona <hi>pineth,</hi>
+                     </l>
+                     <l>
+                        <hi>Fruitleſſe her tree;</hi>
+                     </l>
+                     <l>
+                        <hi>Faire</hi> Phoebus <hi>ſhineth</hi>
+                     </l>
+                     <l>
+                        <hi>Onely on mee.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Conceite doth make me ſmile whilſt I am thinking,</hi>
+                     </l>
+                     <l>
+                        <hi>How euery one doth read my ſtory,</hi>
+                     </l>
+                     <l>
+                        <hi>How euery bough on</hi> Ceres <hi>lowreth,</hi>
+                     </l>
+                     <l>
+                        <hi>Cauſe heauens plenty on me powreth,</hi>
+                     </l>
+                     <l>
+                        <hi>And they in leaues doe onely glory,</hi>
+                     </l>
+                     <l>
+                        <hi>All other Gods of power bereuen,</hi>
+                     </l>
+                     <l>Ceres <hi>only Queene of heauen.</hi>
+                     </l>
+                  </lg>
+                  <pb facs="tcp:5770:5"/>
+                  <lg>
+                     <l>
+                        <hi>With Robes and flowers let me be dreſſed.</hi>
+                     </l>
+                     <l>Cynthia <hi>that ſhineth,</hi>
+                     </l>
+                     <l>
+                        <hi>Is not ſo cleare,</hi>
+                     </l>
+                     <l>Cynthia <hi>declineth,</hi>
+                     </l>
+                     <l>
+                        <hi>When I appeere,</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Yet in this Ile ſhee raignes as bleſſed,</hi>
+                     </l>
+                     <l>
+                        <hi>And euery one at her doth wonder,</hi>
+                     </l>
+                     <l>
+                        <hi>And in my eares ſtill fonde fame whiſpers,</hi>
+                     </l>
+                     <l>Cynthia <hi>ſhalbe</hi> Ceres <hi>Miſtres,</hi>
+                     </l>
+                     <l>
+                        <hi>But firſt my Carre ſhall riue aſunder,</hi>
+                     </l>
+                     <l>
+                        <hi>Helpe</hi> Phoebus <hi>helpe my fall is ſuddaine,</hi>
+                     </l>
+                     <l>Cynthia, Cynthia, <hi>muſt be ſoueraigne.</hi>
+                     </l>
+                  </lg>
+                  <p>GReater then <hi>Ceres,</hi> receiue <hi>Ceres</hi> Crowne, the orna<g ref="char:EOLhyphen"/>ment of my plenty, the honour of your peace, heere at your highnes feete, I lay downe my feined deity, which Poets haue honoured, truth contemned. To your Maie<g ref="char:EOLhyphen"/>ſty whome the heauens haue crowned with happines, the world with vvonder, birth with dignitie, nature with per<g ref="char:EOLhyphen"/>fection, vve doe all Homage, accounting nothing ours but what comes fro<g ref="char:cmbAbbrStroke">̄</g> you. And this muche dare we promiſe for the Lady of the farme, that your preſence hath added many daies to her life, by the infinite ioies ſhee conceyues in her heart, who preſents your highneſſe with this toye and this ſhort praier, poured from her hart, that your daies may increaſe in happines, your happines haue no end till there be no more daies.</p>
+               </sp>
+               <pb facs="tcp:5770:5"/>
+               <p>At her Maieſties entrance into the Caſtle, an olde Shepheard ſpake this ſaying.</p>
+               <sp>
+                  <p>
+                     <seg rend="decorInit">V</seg>Ouchſafe to heare, a ſim<g ref="char:EOLhyphen"/>ple Shephard, ſhephards and ſimpli<g ref="char:EOLhyphen"/>city cannot part, your highnes is co<g ref="char:cmbAbbrStroke">̄</g>e into Cotſhold, an vneue<g ref="char:cmbAbbrStroke">̄</g> cou<g ref="char:cmbAbbrStroke">̄</g>try, but a people, that carry their thoughtes leuell with their fortunes, lowe ſpi<g ref="char:EOLhyphen"/>rites, but true harts, vſing plaine dea<g ref="char:EOLhyphen"/>linge, once counted a Iewell nowe beggery, theſe hills afoorde nothing but cottages, and no<g ref="char:EOLhyphen"/>thing can we preſent to your highnes, but ſhephards. The country healthy, and harmeles, a freſh aier, where there are noe dampes, and where a black ſheepe is a perilous beaſt, no monſters, we carry our harts, at our tongues ends, being as farre from diſſembling, as our ſheepe from fierceneſſe, and if in any thing, we ſhall chance to diſcouer our leud<g ref="char:EOLhyphen"/>nes, it wilbe in ouer boldneſſe, in gazinge at you, who fils our harts with ioye, and our eies with wonder, as for the ho<g ref="char:EOLhyphen"/>norable Lord and Lady of the Caſtle, what happines they conceiue, I would it were poſsible for them ſelues to ex<g ref="char:EOLhyphen"/>preſſe, then ſhould your Maieſtie ſee, that al outwarde en<g ref="char:EOLhyphen"/>terteinment, were but a ſmoake riſing from their inward affections, which as they cannot be ſeene, being in the hart, ſo can they not be ſmoothred, appearing in their counte<g ref="char:EOLhyphen"/>nance, this lock of wooll Cotſholdes beſt fruite, and my poore gift, I offer to your highnes, in which nothing is to be eſteemed, but the whitenes, virginities colour, nor to be expected but duetye, ſhepards religion.</p>
+               </sp>
+               <p>Sunday, Apollo running after Daphne, a Shepheard followed vttering this.</p>
+               <sp>
+                  <q>
+                     <l>
+                        <hi>Neſcis temeraria; neſcis,</hi>
+                     </l>
+                     <l>
+                        <hi>Quem fugias; idio<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> fugis.</hi>
+                     </l>
+                  </q>
+                  <p>A ſhort tale, but a ſorrowfull, a iuſt complaint, but re<g ref="char:EOLhyphen"/>medeleſſe, I loued, (for ſhephardes haue their Saints)
+<pb facs="tcp:5770:6"/>long I loued (for beauty bindeth prentices) a Nymph moſt faire &amp; as chaſt as faire, yet not more faire, then I vn<g ref="char:EOLhyphen"/>happy, <hi>Apollo</hi> who calleth him ſelfe a god (a title among men, when they will commit iniuries) tearme them<g ref="char:EOLhyphen"/>ſelues gods, purſued my <hi>Daphne</hi> with booteleſſe loue, and me, with endleſſe hate, her he woed; with faire wordes, the flatteries of men, with great gifts, the ſorceries of gods, with cruell threates, the terrefiing of weake damoſels <hi>Néc prece néc pretio néc mouet ille minis.</hi> me; he terrified with a mon<g ref="char:EOLhyphen"/>ſtrous word metamorphoſing, ſaying that he would turne me into a woolfe and of a ſhepheard make me a ſheepe-bi<g ref="char:EOLunhyphen"/>ter, or into a Cockatrice and cauſe mine eies which gazed on her, to blind hers which made mine dazell, or to a molde that I ſhould heare his flattering ſpeech, but neuer behold her faire face, <hi>tantaené animis caeleſtibus irae?</hi> ſome<g ref="char:EOLhyphen"/>times would he allure her with ſweete muſicke, but har<g ref="char:EOLhyphen"/>mony is harſh when it is luſts broaker, often with promiſe of immortality, but chaſtetye is of it ſelfe immortall, euer purſuing her with ſwiftnes, but vertue tying wings to the thoughts of Virgins, ſwiftnes becommeth ſurbated; thus liued he twixt loue and ielouſy; I twixt loue and danger; ſhe twixt feare and vertue. At laſt and alas, this day I feare of all my ioyes the laſt, I cannot as a Poet (who deſcribing the morning, and before he tell what it is, make it night,) ſtand on the time, loue coyneth no circumloquutions, but by the ſunne, a Shepheardes Diall, which goeth as true as our harts, it was four of the clock, whe<g ref="char:cmbAbbrStroke">̄</g> ſhe flying fro<g ref="char:cmbAbbrStroke">̄</g> his trea<g ref="char:EOLunhyphen"/>ſon was turned into a tree; which made me ſtand, as though I had bene turned into a ſtone, and <hi>Apollo</hi> ſo enchanted as wounded with her loſſe, or his owne crueltye, the fingers which were wonte to play on the Lute, found no other in<g ref="char:EOLhyphen"/>ſtrument then his owne face, the goulden haire the pride of his heade pulde off in lockes and ſtampt at his feete, his ſweete voice, turned to howling; and there ſitteth he, (long maie he ſorrowe,) wondring, and weeping, and kiſsing the lawrell, his late loue, and mine euer. Pleaſeth your Maie<g ref="char:EOLhyphen"/>ſtye to viewe the melancholy of <hi>Apollo,</hi> my diſtreſſe, and
+<pb facs="tcp:5770:6"/>
+                     <hi>Daphnes</hi> miſchance, it may be the ſight of ſo rare perfectio<g ref="char:cmbAbbrStroke">̄</g>, will make him die for griefe, which I wiſh, or <hi>Daphne</hi> re<g ref="char:EOLhyphen"/>turne to her olde ſhape, which muſt be your wounder; if neither, it ſhal content me that I haue reuealed my griefes, and that you may beholde his.</p>
+               </sp>
+               <p>This ſpeech ended, her Maieſty ſawe Apollo with the tree, hauing on the one ſide one that ſung, on the other one that plaide.</p>
+               <sp>
+                  <l>SIng you, plaie you, but ſing and play my truth,</l>
+                  <l>This tree my Lute, theſe ſighes my notes of ruth:</l>
+                  <l>The Lawrell leafe for euer ſhall bee greene,</l>
+                  <l>And chaſtety ſhalbe <hi>Apolloes</hi> Queene.</l>
+                  <l>If gods maye dye, here ſhall my tombe be plaſte,</l>
+                  <l>And this engrauen, fonde <hi>Phoebus, Daphne</hi> chaſte.</l>
+               </sp>
+               <p>After theſe verſes, the ſong.</p>
+               <sp>
+                  <l>MY hart and tongue were twinnes, at once conceaued,</l>
+                  <l>The eldeſt was my hart, borne dumbe by deſtenie,</l>
+                  <l>The laſt my tongue, of all ſweete thoughts bereaued,</l>
+                  <l>Yet ſtrung and tunde, to play harts harmonie.</l>
+                  <l>Both knit in one, and yet aſunder placed,</l>
+                  <l>What hart would speake, the tongue doeth ſtill diſcouer,</l>
+                  <l>What tongue doth speake, is of the hart embraced,</l>
+                  <l>And both are one to make a new found louer:</l>
+                  <l>New founde, and onely founde in Gods and Kings,</l>
+                  <l>Whoſe words are deedes, but deedes nor words regarded:</l>
+                  <l>Chaſte thoughts doe mount and flie with ſwifteſt wings,</l>
+                  <l>My loue with paine, my paine with loſſe rewarded:</l>
+                  <l>Engraue vpon this tree, <hi>Daphnes</hi> perfection,</l>
+                  <l>That neither men nor gods, can force affection.</l>
+               </sp>
+               <pb facs="tcp:5770:7"/>
+               <p>The ſong ended, the tree riued, and Daphne iſſued out, Apollo ranne after, with theſe words.</p>
+               <sp>
+                  <l>
+                     <hi>NImpha mane, per me concordant carmina neruis.</hi>
+                  </l>
+                  <l>Faire Daphne ſtaye, too chaſte becauſe too faire,</l>
+                  <l>Yet fairer in mine eies, becauſe ſo chaſte,</l>
+                  <l>And yet becauſe ſo chaſte, muſt I despaire?</l>
+                  <l>And to despaire, I yeelded haue at laſt.</l>
+                  <l>Shepheard poſſeſſe thy loue, for me too cruell,</l>
+                  <l>Poſſeſſe thy loue, thou knoweſt not how to meaſure,</l>
+                  <l>A dunghill cock doeth often finde a Iewell,</l>
+                  <l>Enioying that, he knowes not to be treaſure.</l>
+                  <l>When broomy bearde, to ſweepe thy lips preſume,</l>
+                  <l>When on thy necke, his rough hewen armes ſhall moue,</l>
+                  <l>And gloate on thee with eies that drizell reume,</l>
+                  <l>When that his toothleſſe mouth ſhall call thee loue,</l>
+                  <l>Noght will I ſaie of him, but pittie thee,</l>
+                  <l>That btauty might, but would no wiſer bee.</l>
+               </sp>
+               <p>Daphne running to her Maieſtie vttred this.</p>
+               <sp>
+                  <p>I ſtay, for whether ſhould chaſtety fly for ſuccour, but to the Queene of chaſtety, by thee was I enterred in a tree, that by crafte, way might be made to luſt, by your highnes reſtored, that by vertue, there might be aſſurance in ho<g ref="char:EOLhyphen"/>nor: theſe tables, to ſet downe your prayſes long ſince <hi>Si<g ref="char:EOLhyphen"/>billas</hi> propheſies I humbly preſent to your Maieſty, not thinking, that your vertues can be deciphered in ſo ſlight a volume, but noted; the whole world is drawen in a ſmall mappe, <hi>Homers Illiades</hi> in a nutſhel, and the riches of a Mo<g ref="char:EOLhyphen"/>narch, in a few cyphers, and ſo much ods, betwext explai<g ref="char:EOLhyphen"/>ning of your perfections, and the touching, as is betvvixt painting and thinking, the one, running ouer a little table
+<pb facs="tcp:5770:7"/>in a vvhole day, the other ouer the whole world in a mi<g ref="char:EOLhyphen"/>nute, vvith this vouchſafe a poore virgins wiſh, that often wiſh for good husbands, mine, only for the endleſſe proſpe<g ref="char:EOLunhyphen"/>rity of my ſoueraigne.</p>
+               </sp>
+               <p>The verſes, written in the tables which were giuen to her Maieſty.</p>
+               <q>
+                  <lg>
+                     <l>LET fame deſcribe your rare perfection,</l>
+                     <l>Let nature paint your beuties glory,</l>
+                     <l>Let loue engraue your true affection,</l>
+                     <l>Let wonder write your vertues ſtory,</l>
+                     <l>By them and Gods muſt you be blazed,</l>
+                     <l>Sufficeth men they ſtand amazed.</l>
+                  </lg>
+               </q>
+            </div>
+            <div type="pageant">
+               <p>The thirde day ſhoulde haue beene preſen<g ref="char:EOLhyphen"/>ted to her Maieſtie, the high Conſtable of Cotſholde but the weather ſo vnfit, that it was not. But this it ſhould haue beene, one clothed all in ſheepes-skins, face &amp; all ſpake this by his interpreter.</p>
+               <sp>
+                  <p>MAy it pleaſe your highnes, this is the great Conſta<g ref="char:EOLhyphen"/>ble and commandadore of Cotſholde, he ſpeaks no language, but the Rammiſh tongue, ſuch ſheepiſhe gouer<g ref="char:EOLhyphen"/>nours there are, that can ſay no more to a meſsenger then he, (Bea), this therfore, as ſignifying his duety to your Ma<g ref="char:EOLhyphen"/>ieſtye, and al our deſires, I am commanded to be his inter<g ref="char:EOLhyphen"/>preter, or ſhepheards ſtarre, pointing directly to Cotſhold, and in Cotſhold, to Sudley, made vs expect ſome wonder, and of the eldeſt, aske ſome counſel, it was reſolued by the ancientſt, that ſuch a one ſhould come, by whome all the ſhepheards ſhould haue their flocks in ſafety, &amp; their own liues, all the cou<g ref="char:cmbAbbrStroke">̄</g>try quietnes, &amp; the whole world aſtoniſh<g ref="char:EOLhyphen"/>ment:
+<pb facs="tcp:5770:8"/>our Conſtable commaunds this day to be kept hol<g ref="char:EOLhyphen"/>liday, all our ſhepheards are aſſembled, and if ſhepheards paſtimes may pleaſe, how ioyful would they be if it would pleaſe you to ſee them; which if you vouchſafe not, as pa<g ref="char:EOLhyphen"/>ſtimes too meane for your Maieſtie, they meane to call this day the ſhepheards blacke day; in all humilitie we entreat, that you would caſt an eie to their rude deuices, and an eare to their harſhe wordes, and if nothing happen to be pleaſing, the amends is, nothing ſhal be tedious.</p>
+               </sp>
+               <p>After this ſpeech her Maieſty was to be brought amonge the ſhepheards amonge whome was a King and a Queene to be choſen and thus they beganne.</p>
+               <stage>Melibaeus. Niſa. Cutter of Cootſholde.</stage>
+               <sp>
+                  <speaker>Mel.</speaker>
+                  <p>CVT the Cake, who hath the beane; ſhalbe King, and where the peaze is, ſhee ſhalbe Queene.</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>I haue the peaze, and muſt be Queene.</p>
+               </sp>
+               <sp>
+                  <speaker>Mel.</speaker>
+                  <p>I the beane and King, I muſt cammaunde.</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>Not ſo, the Queene, ſhall and muſt commaunde, for I haue often heard of a King that coulde not com<g ref="char:EOLhyphen"/>maunde his ſubiects, and of a Queene that hath commaun<g ref="char:EOLunhyphen"/>ded Kings.</p>
+               </sp>
+               <sp>
+                  <speaker>Mel.</speaker>
+                  <p>I yeeld, yet is it within compaſſe of my authoritie to aske queſtions and firſt I will beginne with you in loue, I meane Shepheardes loue, for I will not meddle with Gentlefolkes loue, which is moſt conſtant, the man or the woman?</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>It is no queſtion, no more then if you ſhould aske whether on a ſteepe hill, a ſquare ſtone, or a globe ſtoode moſt ſteddye.</p>
+               </sp>
+               <pb facs="tcp:5770:8"/>
+               <sp>
+                  <speaker>Mel.</speaker>
+                  <p>Both louing, which is moſt louing?</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>The woman if ſhe haue her right, the man, if he be his owne Iudge.</p>
+               </sp>
+               <sp>
+                  <speaker>Mel.</speaker>
+                  <p>Why doth the man euer vvoe the vvoman, the woman neuer the man?</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>Becauſe men are moſt amorous and leaſt chaſte, women careleſſe of fonde affections, and vvhen they em<g ref="char:EOLhyphen"/>brace them, fearefull. But vnleſſe your queſtions were vviſer, I commaunde you to ſilence. You ſirra, that ſit as though your wits were a vvoole-gathering vvill you haue a queſtion, or a commaundement?</p>
+               </sp>
+               <sp>
+                  <speaker>Cut.</speaker>
+                  <p>No queſtion of a Queene, for they are harde to be anſwered, but anie commaundement, for that muſt be o<g ref="char:EOLhyphen"/>beyed.</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>Then ſing, and you ſir, a queſtion, or commaund<g ref="char:EOLhyphen"/>ment?</p>
+               </sp>
+               <sp>
+                  <speaker>Do.</speaker>
+                  <p>A commaundment I, and glad that I am?</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>Then play:</p>
+               </sp>
+               <sp>
+                  <speaker>Do.</speaker>
+                  <p>I haue plaide ſo long with my fingers that I haue beaten out of play al my good fortunes</p>
+                  <floatingText xml:lang="eng" type="song">
+                     <body>
+                        <head>The Song.</head>
+                        <lg>
+                           <l>HEarbes, wordes, and ſtones, all maladies haue cured,</l>
+                           <l>Hearbes, wordes, and ſtones, I vſed when I loued,</l>
+                           <l>Hearbes ſmels, words, winde, ſtones hardnes haue procured,</l>
+                           <l>By ſtones, nor wordes, nor hearbes her minde was moued;</l>
+                           <l>I askt the cauſe, this was a womans reaſon,</l>
+                           <l>Mongſt hearbes are weedes, and thereby are refuſed,</l>
+                           <l>Deceite, as well as truth ſpeakes wordes in ſeaſon,</l>
+                           <l>Falſe ſtones by foiles haue many one abuſed,</l>
+                           <l>I ſight, and then ſhee ſaide my fancie ſmoaked,</l>
+                           <l>I gaz'd, ſhee ſaide my lookes were follies glauncing,</l>
+                           <l>I ſounded deade, ſhee ſaide my loue was choaked,</l>
+                           <l>I ſtarted vp, ſhee ſaide my thoughtes were dauncing,</l>
+                           <l>O ſacred loue if thou haue any Godhead,</l>
+                           <l>Teach other rules to winne a maidenheade.</l>
+                        </lg>
+                     </body>
+                  </floatingText>
+               </sp>
+               <sp>
+                  <speaker>Mel.</speaker>
+                  <p>Well ſong, &amp; wel plaide, ſeldome ſo well amonge ſhepheards, but call me the Cutter of Cotſholde, that
+<pb facs="tcp:5770:9"/>lookes as though he onlie knew his leripoope, amorous he is, and vviſe, carying a ſheepes eie in a calfs heade.</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>Will you 3 queſtions, or 3 commaundments?</p>
+               </sp>
+               <sp>
+                  <speaker>Cut.</speaker>
+                  <p>Halfe a dozen of eache. My wits worke like new beare, and they will breake my head, vnleſſe it vent at the mouthe.</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>Sing,</p>
+               </sp>
+               <sp>
+                  <speaker>Cut.</speaker>
+                  <p>I haue forſworne that ſince cuckow-time, for I heard, one ſing all the ſommer, and in the winter was all balde.</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>Play on the Lute.</p>
+               </sp>
+               <sp>
+                  <speaker>Cut.</speaker>
+                  <p>Taylers crafte, a knocke on the knuckles, wil make one faſte a fortnight, my belly and back ſhall not be retai<g ref="char:EOLhyphen"/>ners to my fingers.</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>What queſtion ſhall I aske?</p>
+               </sp>
+               <sp>
+                  <speaker>Cut.</speaker>
+                  <p>Any ſo it be of loue.</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>Are youe amorous?</p>
+               </sp>
+               <sp>
+                  <speaker>Cut.</speaker>
+                  <p>No, but fantaſticall.</p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>But what is loue?</p>
+               </sp>
+               <sp>
+                  <speaker>Cut.</speaker>
+                  <p>A ſingle Accidens. In loue there are eight partes.
+<list>
+                        <item>Ioy</item>
+                        <item>Hope</item>
+                        <item>Truth</item>
+                        <item>Co<g ref="char:cmbAbbrStroke">̄</g>ſta<g ref="char:cmbAbbrStroke">̄</g>cy</item>
+                     </list> all tole<g ref="char:EOLhyphen"/>rable.
+<list>
+                        <item>Sorrow</item>
+                        <item>Anger</item>
+                        <item>Ielouſie</item>
+                        <item>Diſpaire</item>
+                     </list> all intole<g ref="char:EOLhyphen"/>rable.</p>
+                  <p>Theſe containe all, till you come to the rules, and then in loue, there are three concords.
+<list>
+                        <item>1 The firſt, betwixt a Bacheler, and a maide,</item>
+                        <item>2 The ſeconde, betwixt a man and his wife,</item>
+                        <item>3 The thirde, betwixt any he and ſhe, that loueth ſtrag<g ref="char:EOLhyphen"/>ling.</item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Niſ.</speaker>
+                  <p>The foole bleeds, it is time to ſtopp his vaine, for ha<g ref="char:EOLhyphen"/>uing wet his foote, he careth not how deepe he wades. Let vs atte<g ref="char:cmbAbbrStroke">̄</g>d that, which we moſt expect. the ſtarr, that directs vs hither, vvho hath in Almanacke?</p>
+               </sp>
+               <sp>
+                  <speaker>Cut.</speaker>
+                  <p>What meane you, a ſtarmonger, the quipper of the firmament, here is one. I euer carrie it, to knowe the hye vvaies, to euerie good tovvne, the faires, and the faire weather.</p>
+               </sp>
+               <pb facs="tcp:5770:9"/>
+               <sp>
+                  <speaker>Mel.</speaker>
+                  <p>Let me ſee it. The ſeuenth of September, happines was borne into the world, it may be the eleuenth is ſome wo<g ref="char:cmbAbbrStroke">̄</g>der. The moone at the ful, tis true, for <hi>Cynthia</hi> neuer ſhi<g ref="char:EOLhyphen"/>ned ſo bright, the twelfth the weather inclined to moiſture &amp; ſhepheards deuiſes to dryenes, the thirteenth, ſommer, goeth from hence, the ſigne in <hi>virgo, viuat clariſſimae virgo.</hi> The diſeaſes ſhalbe melancholies, ſome proceeding of ne<g ref="char:EOLunhyphen"/>ceſſitie, ſome of ſuperfluity, many ſhalbe ſtudying how to ſpend what they haue, more, beating their braines to get what they want. Malice ſhalbe more infectious then the peſtilence, and Drones more fauoured then Ants, as for Bees, they ſhal haue but their laboure for their paines, and when their combes be ful, they ſhalbe ſtilde; the warre ſhal be, twixt hemlocke and honie. At foure of the clocke this day, ſhal appeare the worldes wonder that leades England into euery land, and brings all lands into England.</p>
+               </sp>
+               <p>Then eſpying her Maieſty, he &amp; al the ſhep<g ref="char:EOLhyphen"/>heards kneeling, concluded thus.</p>
+               <sp>
+                  <p>THis is the day, this the houre, this the ſtarre, pardon dread Soueraigne, poore ſhepheards paſtimes, and bolde ſhepheards preſumptions. We call our ſelues Kings and Queenes to make mirth, but when we ſee a King or Queene, we ſtand amazed. The ſunne warmes the earth, yet looſeth no brightnes; but ſheweth more force, &amp; Kings names that fall vpon ſhepheards, looſe no dignity, but breede more feare. Their pictures are drawen in colours, and in braſſe their portraytures engrauen. At cheſts, there are Kings, and Queenes, &amp; they of wood. Shepheards are no more, nor no leſſe, woodde<g ref="char:cmbAbbrStroke">̄</g>. In Theaters, artificers haue plaide Emperours, yet the next day forgotte<g ref="char:cmbAbbrStroke">̄</g>, neither their dueties nor occupations. For our boldenes in borrowing their names, and in not ſeeing your Maieſty for our blind<g ref="char:EOLhyphen"/>nes, we offer theſe ſhepheards weedes, which, if your Ma<g ref="char:EOLhyphen"/>ieſtye vouchſafe at any time to weare, it ſhall bring to our hearts comfort, and happines to our labours.</p>
+               </sp>
+            </div>
+            <div type="speech">
+               <pb facs="tcp:5770:10"/>
+               <head>The 28. of September, her Maieſty went fro<g ref="char:cmbAbbrStroke">̄</g> Oxforde to Ricort, where an olde gentle<g ref="char:EOLhyphen"/>man, ſometimes a ſouldier, deli<g ref="char:EOLhyphen"/>uered this ſpeech.</head>
+               <sp>
+                  <p>
+                     <seg rend="decorInit">V</seg>OVCHSAFE dread ſoue<g ref="char:EOLhyphen"/>raigne, after ſo many ſmooth ſpee<g ref="char:EOLhyphen"/>ches of Muſes, to heare a rough he<g ref="char:EOLhyphen"/>wen tale of a ſouldier, wee vſe not with wordes, to amplifie our con<g ref="char:EOLhyphen"/>conceites, and to pleade faith by figures, but by deedes, to ſhew the loyalty of our harts, and to make it good with our liues. I meane not to recount any ſeruice, all proceeding of duety, but to tell your Maieſty, that I am paſt al ſeruice, ſaue only deuotion. My horſe, mine armour, my ſhielde, my ſworde, the riches of a young ſouldier, and an olde ſouldiers reliques, I ſhould here offer to your high<g ref="char:EOLhyphen"/>neſſe, but my foure boies haue ſtollen them from me, vow<g ref="char:EOLhyphen"/>ing themſelues to armes, and leauing mee to my prayers, fortune giueth ſucceſſe, fidelitye courage, chance cannot blemiſh faith, nor trueth preue<g ref="char:cmbAbbrStroke">̄</g>t deſtinye, whateuer happe<g ref="char:cmbAbbrStroke">̄</g>, this is their reſolution, and my deſire, that their liues maye, be imployed wholy in your ſeruice, and their deathes, bee their vowes ſacrifice. Their deathes, the rumour of which, hath ſo often affrighted the Crowe my wife, that her hart, hath bene as blacke as her feathers. I know not whether it be affection, or fondnes, but the crowe thinketh her owne birds the faireſt, becauſe to her they are deareſt. What ioies we both conceiue, neither ca<g ref="char:cmbAbbrStroke">̄</g> expreſſe, ſufficeth they be, as your vertues, infinite. And although, nothing be more vn<g ref="char:EOLhyphen"/>fit to lodge your Maieſtye, then a crowes neſte, yet ſhall it be moſt happy to vs, that it is by your highneſſe, made a Phoenix neſte. <hi>Quicolor ater erat, nunc eſt contrarius atro.</hi> Vouchſafe this trifle,<note place="margin">A faire gowne.</note> and with this my heart, the greateſt gift I can offer, and the chiefeſt, that I ought.</p>
+               </sp>
+            </div>
+            <div type="letters_and_speeches">
+               <pb facs="tcp:5770:10"/>
+               <p>On Sunday, her Maieſty going to the garde<g ref="char:cmbAbbrStroke">̄</g>, receiued with ſweete Muſicke of ſundry ſorts, the olde Gentleman mee<g ref="char:EOLhyphen"/>ting her, ſaide thus.</p>
+               <sp>
+                  <p>PArdon dread Soueraigne, the greatnes of my preſump<g ref="char:EOLunhyphen"/>tion, who hauing nothing to ſay, muſt follow ſtil to won<g ref="char:EOLunhyphen"/>der, but ſaft, ſome newes out of Irelande.</p>
+               </sp>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>A letter deliuered by an Iriſh lac<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>, in which was incloſed, a Darte of gold, ſet with Dia<g ref="char:EOLunhyphen"/>monds, &amp; after the letter read, deliuered to her Maieſtye, with this motto in Iriſh, <hi>I flye onely for my ſoueraigne.</hi>
+                     </head>
+                     <p>MY deuty humbly remembred. It is ſaide, the winde is vnconſtant, I am gladde it is, otherwiſe had not I heard that, which I moſt wiſhed, and leaſt looked for. The winde blowing ſtifly in the weſte, on the ſuddaine turned eaſterly, by which meanes I receiued letters, that her Ma<g ref="char:EOLhyphen"/>ieſtie woulde bee at Rycort, nothing could happen to mee more happy, vnleſſe it were my ſelfe to be thereto doe my duety. But I am a ſtranger in mine owne countrye, and al<g ref="char:EOLhyphen"/>moſt vnknowen to my beſtfrends, onely remembred by her Maieſtie, whoſe late fauours, haue made me more than fortunate. I ſhould accu<g ref="char:cmbAbbrStroke">̄</g>ot my ten years abſence a flatt ba<g ref="char:EOLhyphen"/>niſhment, were I not honoured in her Maieſties ſeruice, which hath bound all my affections, prentiſes to patience. In all humility, I deſire this Dart to be deliuered, an Iriſh weapon, and this wiſh of an Engliſh hearte, that in whoſe hart faith is not faſtned, a Darte may. I can ſcarce write for ioy, and it is likely, this lacque cannot ſpeak for wondring. If he doe not, this is all that I ſhould ſay, that my life is my dueties bondman, dutie my faiths ſoueraigne.</p>
+                  </body>
+               </floatingText>
+               <pb facs="tcp:5770:11"/>
+               <p>The Dart deliuered, a skipper comming fro<g ref="char:cmbAbbrStroke">̄</g> Flaunders, deliuered another letter, with a key of golde, ſet with Diamonds with, this motto in dutch, <hi>I onelie open to you.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>MY duety reme<g ref="char:cmbAbbrStroke">̄</g>bred, The enemy of late hath made many braueadoes, euen to the gates of <hi>Oſtend,</hi> but the ſucceſſe was onely a floriſh. My ſelfe walking on the Ra<g ref="char:cmbAbbrStroke">̄</g>parts, to ouer ſee the Sentenels, deſcryed a pink, of whome I enquired, where the Court was, hee ſaide hee knew not, but that the 28. of Septe<g ref="char:cmbAbbrStroke">̄</g>ber, her Maieſty would be at Rycort. I was ouer-ioyed, &amp; in making haſte to reme<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>ber my duety, I had almoſt forgot it, for I was ſhipping my ſelfe for England, with this Skipper, but to come without leaue, might be to returne without welco<g ref="char:cmbAbbrStroke">̄</g>e. To ſignifie that my hart is there, I moſt humbly entreat, that this Key may be preſe<g ref="char:cmbAbbrStroke">̄</g>ted, the Key of <hi>Oſtende,</hi> &amp; <hi>Oſtend</hi> the Key of <hi>Flaun<g ref="char:EOLhyphen"/>ders,</hi> the wards are made of true harts, trechery canot coun<g ref="char:EOLhyphen"/>terfeit the Key, nor treaſon her ſelfe picke the locke. None ſhal turne it, but who<g ref="char:cmbAbbrStroke">̄</g> her Maieſty co<g ref="char:cmbAbbrStroke">̄</g>mands, none can. For my ſelfe, I can but wiſh, all happines to her highnes, &amp; any occaſio<g ref="char:cmbAbbrStroke">̄</g>, that what my toung deliuers, my bloud may ſeale, the end of my ſeruice, that in her ſeruice, my life may end.</p>
+                  </body>
+               </floatingText>
+               <p>The Key deliuered, a french page came with three other letters, the one writen to the la<g ref="char:EOLhyphen"/>dy Squemiſh, which beeing miſtaken by a wrong ſuperſcription, was read before her Maieſtie. In the ſecond was incloſed a ſword of golde, ſet with Diamonds and Ru<g ref="char:EOLhyphen"/>byes, with this motto in french, <hi>Drawen onelie in your defence.</hi> In the thirde was incloſed a trunchio<g ref="char:cmbAbbrStroke">̄</g> ſet with Diamo<g ref="char:cmbAbbrStroke">̄</g>ds, with his motto in Spaniſh, <hi>I doe not commaunde but vnder you.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb facs="tcp:5770:11"/>
+                     <head>A letter, written by a Souldier to his Mi<g ref="char:EOLhyphen"/>ſtris the Lady Squemiſh.</head>
+                     <p>FAire Lady and ſweete Miſtris, I ſeldome write, becauſe I write not well, if I ſpeake, you ſay I chatter, becauſe I ſpeake ſo faſt, &amp; when I am ſilent, you thinke me careleſſe. You ſay loue cannot be in ſoldiers, I ſweare it is, only this the differe<g ref="char:cmbAbbrStroke">̄</g>ce, that we proue it by the ſword, others, by their Sonets theirs inke, blacke for colde, ours bloud, redde for heate. Ofte<g ref="char:cmbAbbrStroke">̄</g> haue you tolde me, that I know not what loue is, &amp; ofte<g ref="char:cmbAbbrStroke">̄</g> haue I tolde you, that this it is, that which makes the head ake, and the hart to; the eies ielous, and the eares to, the liuer blacke, &amp; the Splen to, the vaines ſhrinke &amp; the purſe to. Wit is but loues wier drawer, making of a ſhort paſſion an endleſſe perſwaſion, yet no more mettall. You obiect, that I haue many Miſtriſſes, I anſwere, you haue ten times as many ſeruants, and if you ſhould picke a quar<g ref="char:EOLunhyphen"/>rel, why ſhould not I bring my Miſtreſſes into the field a<g ref="char:EOLhyphen"/>gainſt your ſeruants? But inconſtancy is a ſouldiers ſcarre, it is true, but the wound came by conſtancie; what a pati<g ref="char:EOLhyphen"/>ent vertue is ſtaidnes? like a nail in a dore, ruſty, becauſe ne<g ref="char:EOLhyphen"/>uer remoued, I cannot be ſo ſuperſtitious as theſe nice lo<g ref="char:EOLhyphen"/>uers, who make the pax of their miſtris ha<g ref="char:cmbAbbrStroke">̄</g>ds, tis flat popery. I would not purchaſe loue in fee ſimple, a leaſe of two years to me were tedious. I meane not, to haue my tongue rin<g ref="char:EOLhyphen"/>ged at my Miſtris eare like a Iewel, alwaies whiſpering of loue, I am no earewigg, nor can I endure ſtill to gaze on her face, as though my eies were bodkins to ſticke in her haire. Let me haue my loue anſwered, and you ſhall finde me faithfull, in which if you make delaies, I cannot be pa<g ref="char:EOLhyphen"/>tient, the winde calls me away, and with the winde, awaie ſhall my affections.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The ſecond Letter.</head>
+                     <p>MY duetie to your L. remembred &amp;c. Being readie to take ſhipping, I heard that her Maieſty would honor
+<pb facs="tcp:5770:12"/>Ricort, with her preſence, which wrought no ſmal co<g ref="char:cmbAbbrStroke">̄</g>tent, but to haue made it ful, I wiſhed I might haue ſeene it. In this place is no choiſe of anie thing, whereby I might ſig<g ref="char:EOLhyphen"/>nifie my dutifull affection, but that which a Souldier ma<g ref="char:EOLhyphen"/>keth his chiefeſt choiſe, a ſword, which moſt humblie I de<g ref="char:EOLhyphen"/>ſire to haue preſented to her highnes. With this proteſta<g ref="char:EOLhyphen"/>tion pourde from my hart, that in her ſeruice, I will ſpende the bloud of my hart. Eloquence &amp; I, am vowde enemies, loialty &amp; I, ſworne brothers, what my words cannot effect, my ſworde ſhall.</p>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>The thirde Letter from the Sea coaſt.</head>
+                     <p>MY duetie humbly remembred, the ſame time that I receiued letters that her Maieſty would be at Ri<g ref="char:EOLhyphen"/>cort, the winde ſerued for Britaigne, I was ouer ioi<g ref="char:EOLhyphen"/>ed with both, yet ſtoode in a mamering whether I ſhould take the opportunity of the winde, which I long expected or ride poſte to do my duetie, which I moſt deſired, neceſ<g ref="char:EOLhyphen"/>ſitye co<g ref="char:cmbAbbrStroke">̄</g>troled affection, that bid me vnleſſe I could kepe the winde in a bagge, to vſe the windes whe<g ref="char:cmbAbbrStroke">̄</g> they blew, I o<g ref="char:EOLhyphen"/>baide yet, wiſhing that they would turne for a while, to ſerue my turne, being vnfurniſhed, of al fit preſents. I would haue this my excuſe that cheapſide is not in my Shippe, &amp; therefore haue nothing to offer but my Trunchio<g ref="char:cmbAbbrStroke">̄</g> the ho<g ref="char:EOLhyphen"/>nour which I receiued of her Maieſtie, by whom I am only to be commaunded, &amp; euer elſe let me be only miſerable and euer.</p>
+                  </body>
+               </floatingText>
+               <p>Theſe Letters read, and the preſents de<g ref="char:EOLhyphen"/>liuered, the olde man kneeling downe ended thus.</p>
+               <sp>
+                  <p>THat my ſonnes, haue remembred their dueties, it is my harts comfort, that your Maieſtie accepteth the<g ref="char:cmbAbbrStroke">̄</g>, their harts heauen. If fortune, &amp; fidelitie had bin twinnes,
+<pb facs="tcp:5770:12"/>they might haue beene as rich, as faithfull, but this is the Iubyle of my life, that their faithes, are without ſpot, and your Maieſty I hope, confident, without ſuſpition. Among my ioies, there is one griefe, that my daughter, the Miſtris of a Moole hil, hath ſo much forgotte<g ref="char:cmbAbbrStroke">̄</g>; that moſt ſhe ſhould remember, duetie. I doubt not her excuſe, becauſe ſhee is a woman, but feare the truth, of it, becauſe it muſt be to her ſoueraigne. For my ſelfe, my crowe, and all our birds, this I promiſe, that they are all; as faithfull in their feathers, as they were in their ſhels.</p>
+               </sp>
+               <p>
+                  <hi>This being done, there was ſwcete muſicke, and two ſonnets which ended, her Maieſty went in.</hi>
+               </p>
+               <p>On mu<g ref="char:cmbAbbrStroke">̄</g>day morning, as her Maieſty was to take horſe, a meſſenger, comming out of Ierſey, and bringing a Dayſie of golde, ſet with Rubies, deliuered it to her Maieſty with this ſpeech.</p>
+               <sp>
+                  <p>AT length, though verie late, I am come, from the La<g ref="char:EOLhyphen"/>die of the Moold hill, ſent long ſince, but the paſſage troubleſome, at euerie miles end, a louer, at euery ſentence end a lie, I ſtaide to heare, the concluſions, and found nut<g ref="char:EOLhyphen"/>browne gyrles to be cheapned. But none to be bought, but the amyable. Thus much for my excuſe, now for my Mi<g ref="char:EOLhyphen"/>ſtris, who hearing that your Maieſty would enter this cab<g ref="char:EOLhyphen"/>bine, was aſtoniſhed, with ioie, and doubt, ioie, for ſo great honour done to her father. Doubt, by what meanes ſhee might ſhew her duety to your Maieſty. At the laſt, ſitting vpon the top of a moole hill, ſhe eſpied, a red Dayſie, the faireſt flower, that barren place doth yeeld, which, with all humilitie ſhe preſents to your Maieſtie, it hath no ſweete<g ref="char:EOLhyphen"/>nes, yet manie vertues, her hart no tongue, but infinite af<g ref="char:EOLhyphen"/>fections, In you ſhe ſaith are all vertues, and towardes you all her affections.</p>
+               </sp>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

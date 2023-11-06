@@ -1,0 +1,2679 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A newe enterlude of vice conteyninge, the historye of Horestes with the cruell reuengment of his fathers death, vpon his one naturill mother. By John Pikeryng  ...</title>
+            <title>History of Horestes</title>
+            <author>Pikering, John, fl. 1567.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1567</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A09651</idno>
+            <idno type="STC">STC 19917</idno>
+            <idno type="STC">ESTC S101918</idno>
+            <idno type="EEBO-CITATION">99837721</idno>
+            <idno type="PROQUEST">99837721</idno>
+            <idno type="VID">2061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A09651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 2061)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1033:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A newe enterlude of vice conteyninge, the historye of Horestes with the cruell reuengment of his fathers death, vpon his one naturill mother. By John Pikeryng  ...</title>
+                  <title>History of Horestes</title>
+                  <author>Pikering, John, fl. 1567.</author>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Fletestrete, at the signe of the Falcon by Wylliam Gryffith, and are to be solde at his shope in S. Dunstons Churcheyearde,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno. 1567.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-E⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Orestes --  Drama --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:2061:1" rendition="simple:additions"/>
+            <pb facs="tcp:2061:1"/>
+            <p>
+               <g ref="char:leaf">❧</g> A NEWE Enterlude of Vice Conteyninge, the Hiſtorye of
+Horeſtes with the cruell reuengment of his Fathers death, vpon his one
+naturtll Mother. by Iohn Pikeryng.</p>
+            <list>
+               <head>The players names.</head>
+               <item>The Vice,</item>
+               <item>Ruſticus.</item>
+               <item>Hodge.</item>
+               <item>Hroreſtes</item>
+               <item>Idumeus.</item>
+               <item>Councell.</item>
+               <item>Clytemneſtra.</item>
+               <item>Hallterſycke.</item>
+               <item>Hempſtryng.</item>
+               <item>Neſtor.</item>
+               <item>Menalaus.</item>
+               <item>A woman.</item>
+               <item>Sodyer.</item>
+               <item>Nobulle.</item>
+               <item>Nature.</item>
+               <item>Prouiſyon.</item>
+               <item>Harrauld.</item>
+               <item>Sodyer.</item>
+               <item>Truthe.</item>
+               <item>Fame.</item>
+               <item>Hermione.</item>
+               <item>Dewtey.</item>
+               <item>Meſſenger.</item>
+               <item>Egeſtus.</item>
+               <item>Commones.</item>
+            </list>
+            <list>
+               <head>☞ The names deuided for vi. to playe.</head>
+               <item>The fyrſt the Vice and Nature and Dewtey. 3. </item>
+               <item>2. Ruſticus. Idumeus. 2. Sodyer. Menelauus. &amp; Nobulles.
+5. </item>
+               <item>3. Hodge. Counſell. Meſſenger. Neſtor. &amp;
+Commones. 5. </item>
+               <item>4. Horeſtes. a woman. &amp; Prologue. 3. </item>
+               <item>5. Haullterſicke. Sodyer. Egiſtus. Harrauld. Fame. Truth
+and Idumeus. 7. </item>
+               <item>6. Hempſtrynge. Clytemneſtra. Prouiſyon. &amp;
+Heſmione. 4.</item>
+            </list>
+            <p>¶ Imprinted at London to fleteſtrete, at the ſigne of the
+Falcon by Wylliam Gryffith, and are to be ſolde at his ſhope in S.
+Dunſtons Churcheyearde. Anno. 1567.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:2061:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:2061:2"/>
+            <sp>
+               <speaker>The Vyce.</speaker>
+               <l>
+                  <seg rend="decorInit">A</seg> Syrra nay ſoft, what? let me ſee,</l>
+               <l>God morrowe to you ſyr, how do you fare?</l>
+               <l>
+                  <hi>Sante a men.</hi> I thincke it wyll be.</l>
+               <l>the next day in y<hi rend="sup">e</hi> morning, before I com thear</l>
+               <l>Well forwarde I wyll, for to prepare,</l>
+               <l>Some weapons &amp; armour, y<hi rend="sup">e</hi> catiues to quell,</l>
+               <l>Ille teache the hurchetes, agayne to rebell.</l>
+               <l>Rebell? ye ſyr, how ſaye you there to?</l>
+               <l>What? you had not beſte their partes to take:</l>
+               <l>Houlde the content foole, and do as I do,</l>
+               <l>Or elles me chaunce, your pate for to ake.</l>
+               <l>Ye and thats more, for feare thou ſhalt quake,</l>
+               <l>Before Horeſtes, when in good ſouth he,</l>
+               <l>Shall arryue in this lande, reuenged to bée:</l>
+               <l>Well forwarde I wyll, thynges to pouruaye,</l>
+               <l>In good ſouth for the wares, as I ſhall thincke good.</l>
+               <l>Farre well good man dotterell, and marke what I ſaye,</l>
+               <l>Or eles it may chaunce you, to ſeke a new houd:</l>
+               <l>You would eate no more cakbread, I thinke then by y<hi rend="sup">e</hi> roud,</l>
+               <l>If that, that ſame poulle from your ſhoulderes were
+hent,</l>
+               <l>You would thincke you were yll, if ſo you were ſhent.</l>
+            </sp>
+            <stage place="margin">Hear en<g ref="char:EOLhyphen"/>tryth Ru<g ref="char:EOLunhyphen"/>ſtycus, &amp; hodge.</stage>
+            <sp>
+               <speaker>Ruſtycus.</speaker>
+               <l>Chyll neuer nabore hodge, haue a glade harte,</l>
+               <l>Tyll Egiſtous the Kynge, hath for his deſarte:</l>
+               <l>Receiued dew punnyſhment, for this well I knowe,</l>
+               <l>Horreſtes to Crete, with <hi>Idumeous</hi> dyd go.</l>
+               <l>When his father was ſlayne, by his Mother moſt yll,</l>
+               <l>And therefore I thincke, that com heather he wyll:</l>
+               <l>And reuenge the iniurey, of his mother moſt dyare,</l>
+               <l>waſtinge our land with zworde, and with vyare.</l>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <l>Ieſu nabor, with vyar and zworde? zaye you ze?</l>
+               <l>By gys nabor, chyll zaue one I tro:</l>
+               <l>For iche haue ſmaull good, by giſe for to loſe,</l>
+               <l>And therefore iche care not, how euer it goſe.</l>
+               <l>But chyll not be zlayne, chyll loue nothinge worſſe,</l>
+               <l>Chyll neuer be bournt, for the mony in my pourſe.</l>
+               <l>
+                  <pb facs="tcp:2061:3"/>Iche haue ſmall rouddockes, and ſodyers I
+kno,</l>
+               <l>Wyll robbe the riche chorles, and let the poore knaues go.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>A ſyrre, nowe ſteye, and pauſe their a whyle,</l>
+               <l>Be not to haſtye, but take all the daye:</l>
+               <l>Be God I am wearey, with comming this myle,</l>
+               <l>And hauing no money, my horſe heyare to paye.</l>
+               <l>Who how, I rode on my fete, all the waye,</l>
+               <l>Ieſu what ground, ſince yeſterday at none,</l>
+               <l>Haue I gut thorow, with this pare of ſhoune.</l>
+            </sp>
+            <sp>
+               <speaker>Ruſticus.</speaker>
+               <l>Nabor hodge, be goge hatche none I beare,</l>
+               <l>That this lyttell hourchet, the devayaunce doth beare.</l>
+               <l>Come let vs go, and of him in good ſouth?</l>
+               <l>We woll conquear out, the verey truth.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Hurchyt, goges oundes gyppe with a wanyon,</l>
+               <l>Ar you ſo louſtey, in fayth good man clound:</l>
+               <l>Oundes, hart, and nayles, this is a franion,</l>
+               <l>Ille teache you to floute me, I hould you a pounde.</l>
+               <l>O that it weare not, in fayth for my gound?</l>
+               <l>It wyll I be knoc vm, yet for all that.</l>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <l>Hould good maſter, you mare my new hat.</l>
+            </sp>
+            <stage place="margin">Fight</stage>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Ha, ha, he, mar his hat quoth he? thear was all his thought</l>
+               <l>Tout tout, for the bloſe he ſet not a pyn:</l>
+               <l>That garment is dyer, that with bloſe is bought,</l>
+               <l>Well ſieres to in treat me, ſyth you begyn?</l>
+               <l>I am contentyd, my blade, now ſhaull in.</l>
+               <l>But tell me ſyeres tell me no whearefore of me,</l>
+               <l>The cauſe on this ſort, your taullkynge ſhould be.</l>
+            </sp>
+            <sp>
+               <speaker>Ruſticus.</speaker>
+               <l>By gis and iche chyll maſter, for all my great payne,</l>
+               <l>Of this matter to you to tell the veary playne:</l>
+               <l>My naybor hodge and I, in good ſouth,</l>
+               <l>Mot hear in the veldes, I tell you the truth:</l>
+               <l>Now as we wear talkinge, marke what I zaye,</l>
+               <l>
+                  <pb facs="tcp:2061:3"/>You came in ſtraight, and of vs croſt the
+waye.</l>
+               <l>Which thinge for zartyn, when I dyd eſpye,</l>
+               <l>This fancey vlouncht, in my head by and by:</l>
+               <l>And to hodge I zayde that, by gys I dyd veare,</l>
+               <l>That your maſſhyp, good maſter the devyaunce doth
+beare,</l>
+               <l>And be cauſe you weare lyttell, and of ſtature but
+ſmaull:</l>
+               <l>Your perſon a hourchet, in fayth I dyd caull.</l>
+               <l>But by gis be contentyd, vor chyll neauer more,</l>
+               <l>Ofvend you a gains, but cham zorey thearuore.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Yf they weare not twayne, I cared not a poynt,</l>
+               <l>But two is to meyney, the prouerbe douth tell:</l>
+               <l>Elles be his oundes, I would iobard this ioynt,</l>
+               <l>And teache them agaynſte me, againe to rebell?</l>
+               <l>O that I wear abull, the knaues vor to quell,</l>
+               <l>Then would I tryomphe, paſſinge all meaſure.</l>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <l>Zentyll man zentyll man, at your owne pleaſure:</l>
+               <l>In fayth we be, and thearuore we praye,</l>
+               <l>What they name, is to vs vor to zaye.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>My name would ye kno, marrey you ſhaull,</l>
+               <l>Harke frynde, fourſt to the I wyll it declare:</l>
+               <l>Maſter pacience maſter pacience, many on doth me caull?</l>
+               <l>But com heather nabor hodge, thou muſt haue a ſhare.</l>
+               <l>By gys vnto the I wyll not ſpare,</l>
+               <l>The ſame for to ſhowe, whearfore my frend,</l>
+               <l>My name is pacience if thou it perpend.</l>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <l>Paſt ſhame? Godes gée naybor paſt ſhame?</l>
+               <l>By godes de naybor thates a tryccom name.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Tell a mare a tall, and ſhyell gerd out a fart</l>
+               <l>Se bow the as my wordes, douth myſtake,</l>
+               <l>Would it not anger a ſaynt at the hart:</l>
+               <l>To ſe what a ſcoffe of my name, he douth make?</l>
+               <l>O oundes of me, as ſtill as a ſtake.</l>
+               <l>He ſtandith, nought caring what of him maye be tyde,</l>
+               <l>
+                  <pb facs="tcp:2061:4"/>Be his woundes, I wod haue a arme, or a ſyde.</l>
+               <l>Sought let me ſe, it is beſt to be ſtyll,</l>
+               <l>Good ſlepinge in a hole ſkynne, ould foulkes do ſaye,</l>
+               <l>Not withſtanding I wis, ill haue myne owne wyll.</l>
+               <l>Naye I wyll be reuenged, by his oundes and I maye,</l>
+               <l>Syrra you good man Ruſtycus, marke what I ſaye:</l>
+               <l>Harke in thine eare man, this dyd I ſee,</l>
+               <l>A hoge of thyne wearyed to be.</l>
+            </sp>
+            <sp>
+               <speaker>Ruſticus.</speaker>
+               <l>Godes gée maiſter pacience, I praye you me tell,</l>
+               <l>What horſen chorles doge, my hogge ſo dyd quell:</l>
+               <l>Iche zware by giſe, and holye zaynt blyue,</l>
+               <l>Chyll be zwinge him, and ich be a lyue,</l>
+               <l>By godes de cham angry, and not well content,</l>
+               <l>Chould ha wear hear, chould make him repent.</l>
+               <l>Ich had rather gyuen, vore ſtryke of corne,</l>
+               <l>Then to had my hogge on this wyſe forlorne:</l>
+               <l>But if I knewe whous dogge chould be,</l>
+               <l>Reuenged well inough iche warrent the.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Ha, ha, he, by god Ruſticus, I maye ſaye in no game,</l>
+               <l>I knowe the perſon, whoſe dogge ſo did flaye:</l>
+               <l>Thy hogge fye fye man, it was a vearey ſhame,</l>
+               <l>For thy naybor hodge, to let it by this daye.</l>
+               <l>Well I wyll go to him, and ſe if I maye,</l>
+               <l>By aney meanes procure him, to make the amendes;</l>
+               <l>Ille do the beſt I can, to make you both frendes.</l>
+            </sp>
+            <sp>
+               <speaker>Ruſticus.</speaker>
+               <l>Chyll be no frendes, chad rather be hanged,</l>
+               <l>Tyll iche haue that oulde karle, wel and thryfteley banged,</l>
+               <l>And tweare not your maſſhyppe, dyd me with hould,</l>
+               <l>To ſwing the ourchet, iche chould be boulde,</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Ha, ha, he, nay, nay, ſpare not for me,</l>
+               <l>Go to it ſtrayght, if thear to ye gre,</l>
+            </sp>
+            <sp>
+               <speaker>Ruſticus,</speaker>
+               <l>Hodge I harde ſaye, thou illy, haſt wrought,</l>
+               <l>For my hogge vnto death, with thi dog thou haſte broughgt</l>
+               <l>
+                  <pb facs="tcp:2061:4"/>Iche byd the thy vaute, to me to amend,</l>
+               <l>Or chyll zwaddell the, iche zweare in my bat end.</l>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <l>Zwaddell me godes get? chyll care not a poynte,</l>
+               <l>Iche haue a good bat, thy bones to anoynte:</l>
+               <l>Thou olde carle I zaye, thy hoge hurtyd me,</l>
+               <l>And therefore I wyll haue, a mendes now of the.</l>
+               <l>My rye and my otes, my beanes and my peaſe,</l>
+               <l>They haue eaten vp quight, but ſmall for my eaſe:</l>
+               <l>And therfore iche zaye, all thy hogges kepe vaſte,</l>
+               <l>Or iche wyll them wearey, as longe as they laſte.</l>
+               <l>By godes get, I can neuer come in my ground,</l>
+               <l>But that zame zwyne, in my peaſe iche haue founde.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Tout tout Ruſticus, theſe wordes be but wynd</l>
+               <l>To him man, to him, and ſwaddell him well:</l>
+               <l>Ye neauer leaue him, as longe as thou can fynd</l>
+               <l>Him whot, but teathe him, a gaine to rebell,</l>
+               <l>What nededeſt thou to care, though his wordes be ſo
+fell,</l>
+               <l>Tout tout tharte vnwyſe, and followe my mynde:</l>
+               <l>And I warraunt the in end, ſome eaſe thou ſhalt finde.</l>
+            </sp>
+            <sp>
+               <speaker>Ruſticus.</speaker>
+               <l>Godes gée hourſon hoge, paye me for my zwine,</l>
+               <l>Or eles larne to kepe, that cockescome of thyne.</l>
+            </sp>
+            <stage place="margin">Vp with thy ſtaf, &amp; be readye to ſmyte,
+but hodg ſmit firſt, and let y<hi rend="sup">e</hi> viſe thwa<g ref="char:EOLunhyphen"/>cke them both and run
+out.</stage>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <l>Godes de, do thy worſt, I care not a poynte,</l>
+               <l>Chyll paye the none, chyll iobard a ioynte.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Nay ſtand I ſtyll ſome what, I wyll lend,</l>
+               <l>Take this for a reward, now a waye I muſt wend.</l>
+            </sp>
+            <sp>
+               <speaker>Ruſticus.</speaker>
+               <l>O Godes get, cham zwinged zo zore,</l>
+               <l>Iche thincke chaul neauer lyue one houre more.</l>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <l>O godes ge I thincke, my bewnes will in zonder,</l>
+               <l>Yf ich get home by gis, ittes a wounder:</l>
+               <l>Farwell Ruſticus, for by gis ich chaull,</l>
+               <l>When I mete the againe, bezwinge the vorall.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:2061:5"/>
+               <speaker>Ruſticus.</speaker>
+               <l>Naye letes be frendes, and chyll in good part,</l>
+               <l>Of browne ale at my houſe, giue the a whole whart:</l>
+               <l>What hodge ſhake hondes, mon be merey and lauffe,</l>
+               <l>By godes ge iche had not, the beſt end of the ſtaffe.</l>
+            </sp>
+            <sp>
+               <speaker>Hodge.</speaker>
+               <l>Cham content naybor Ruſticus, ſhaull be ene ſo,</l>
+               <l>Come to they houſe, I praye the let vs go.</l>
+               <stage place="margin">go out</stage>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>To caull to minde the crabyd rage of mothers yll attempt</l>
+               <l>
+                  <stage place="margin">Entrith.</stage> Prouokes me now all pyttie
+quight, from me to be exempt.</l>
+               <l>Yet lo dame nature teles me that, I muſt with willing mind</l>
+               <l>For giue the faute and to pytie, ſome what to be inclynd.</l>
+               <l>But lo be hould thad vlltres dame, on hourdome morder vill</l>
+               <l>Hath heaped vp not contented, her ſponſaule bed to fyll:</l>
+               <l>With forrayne loue but ſought alſo, my fatal thred to
+ſhare</l>
+               <l>As erſt before my fathers fyll, in ſonder ſhe dyd
+pare.</l>
+               <l>O paterne loue why douſte thou ſo, of pytey me
+requeſt,</l>
+               <l>Syth thou to me waſt quight denyed, my mother being
+preſt:</l>
+               <l>When tender yeres this corps of mine, did hould alas for wo</l>
+               <l>Whe<g ref="char:cmbAbbrStroke">̄</g> frend my mother ſhuld haue bin the<g ref="char:cmbAbbrStroke">̄</g> was ſhe chefe
+myfo</l>
+               <l>Oh godes therfore ſith you be iuſt, vnto whoſe poure &amp;
+wyll,</l>
+               <l>All thing in heauen, and earth alſo? obaye and ſarue
+vntyll.</l>
+               <l>Declare to me your gracious mind, ſhall I reuenged be,</l>
+               <l>Of good Kynge <hi>Agamemnones</hi> death, ye godes declare to
+me</l>
+               <l>Or ſhall I let the, adulltres dame, ſtyll wallow in her
+ſin,</l>
+               <l>Oh godes of war, gide me a right, when I ſhall war begyn.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Warre quoth he. I war in dede, and trye it by the. ſworde,</l>
+               <l>God ſaue you ſyr, the godes to ye: haue ſent this kind of
+word</l>
+               <l>That in the haſt you armour take, your fathers foſe to
+ſlaye</l>
+               <l>And I as gyde with you ſhall go, to gyde you on the way.</l>
+               <l>By me thy mind ther wrathfuldome, ſhalbe performd in dede</l>
+               <l>Therfore Horeſtes marke me well, &amp; forward do procede.</l>
+               <l>For to reueng thy fathers death, for this they all haue ment</l>
+               <l>Which thing for to demonſtrat lo, to the they haue ſent
+me.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Ar you good ſyr, the meſſenger of godes as you do
+ſaye</l>
+               <l>
+                  <pb facs="tcp:2061:5"/>Wil they in reuenging this wrong, I make not long
+delay.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>What nede you dout, I was in heauen, whe<g ref="char:cmbAbbrStroke">̄</g> al y<hi rend="sup">e</hi> gods did
+gre</l>
+               <l>That you of <hi>Agamemnons</hi> death, for ſouth reuengid
+ſhould be,</l>
+               <l>Tout tout, put of that childiſh loue, couldſt thou w<hi rend="sup">t</hi> a
+good wil</l>
+               <l>Contentyd be? that one ſhould ſo, they father ſeme to
+kyll?</l>
+               <l>Why waylſt y<hi rend="sup">u</hi> man, leaue of I ſay, plucke corrage vnto
+the.</l>
+               <l>This lamentation ſone ſhall fade, if thou imbraſydeſt
+me.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes</speaker>
+               <l>What is they name may I in quear? O ſacrid wight I pray</l>
+               <l>Declare to me &amp; with this feare, do not my hart
+diſmaye.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Amonge the godes celeſtiall, I Courrage called am,</l>
+               <l>You to aſſyſte in vearey truth, from out the heauens I
+cam</l>
+               <l>And not w<hi rend="sup">t</hi>out god Marſis his leaue, I durſt hear ſhow my
+face</l>
+               <l>which thou ſhalt fele if that ther gift thou doſt forth w<hi rend="sup">t</hi>
+imbrace</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>And ſith it is thear gratious will, welcom thou art to me,</l>
+               <l>O holy wight for this thear gyft, I thanke them hartelley.</l>
+               <l>My thinkes I fele all feare to fley, all ſorrow griefe &amp;
+payne,</l>
+               <l>My thinkes I fele corrage prouokes, my wil for ward againe</l>
+               <l>For to reuenge my fathers death, and infamey ſo great,</l>
+               <l>Oh how my hart doth boyle in dede, w<hi rend="sup">t</hi> firey perching heate.</l>
+               <l>Corrage now welcom by the godes, I find thou art in dede,</l>
+               <l>A meſſenger of heauenly goſtes, come let vs now
+procede.</l>
+               <l>And take in hand to bringe to pas, reuengyd for to be,</l>
+               <l>Of thoſe which haue my father ſlaine, but ſoft now let
+meſe</l>
+               <l>
+                  <hi>Idumeus</hi> that worthy Kinge, doth com into this
+place,</l>
+               <l>What ſaye you corrage: ſhal I now? declare to him my
+caſe?</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Faull to it then and ſlacke no time, for tyme once paſt
+away,</l>
+               <l>Doth cauſe repentence, but to late to com old foulks do
+ſay.</l>
+               <l>When ſtede is ſtolen, to late it is to ſhyt the ſtable
+dore,</l>
+               <l>Take time I ſay, while time doth giue a leaſure good
+therfore</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>What euer he be that ſceptar beares or rules in ſtate full
+hie</l>
+               <l>Is ſoneſt down through fortunes eyar, &amp; brought to
+myſerey,</l>
+               <l>As of late yeares the worthy kinge <hi>Agamemnon</hi> by
+name,</l>
+               <l>
+                  <pb facs="tcp:2061:6"/>whos praſs throughout y<hi rend="sup">e</hi> world is blou<g ref="char:cmbAbbrStroke">̄</g>, by golde<g ref="char:cmbAbbrStroke">̄</g>
+tru<g ref="char:cmbAbbrStroke">̄</g>p of fame</l>
+               <l>His wel won fame in marſhall ſtoure, doth reache vnto y<hi rend="sup">e</hi>
+ſky</l>
+               <l>Yet lo through fortunes blind attempt, be lo in earth doth
+lie</l>
+               <l>He y<hi rend="sup">e</hi> had paſt the fate of war, where chaunce was equall
+ſet,</l>
+               <l>Through fortunes ſpight is caught alacke, win olde
+<hi>Meros</hi> net</l>
+               <l>And he which ſomtime did delight, in clothed coat of
+maylle,</l>
+               <l>Is now conſtcaynd in <hi>Carones</hi> bote; ouer the brouke to
+ſaylle.</l>
+               <l>That floſe vpon y<hi rend="sup">e</hi> fatall bankes, of Plutoſe kingdome
+great</l>
+               <l>And that in ſhade of ſilent wodes, and valeys gréene
+do beate.</l>
+               <l>Where ſoules of kinges &amp; other wights a poyntyd are to
+be,</l>
+               <l>In quiet ſtate there alſo is, this worthey reall
+trée.</l>
+               <l>Of ſouth I ioye for to behold, Horeſtes actyue cheare,</l>
+               <l>The which in father ſomtime was, in ſon doth now apear,</l>
+               <l>But where is he that all this day, I neauer ſawe his face,</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>
+                  <stage place="margin">Kenll do<g ref="char:EOLhyphen"/>wne.</stage> At hand O King thy
+faruant is, which wiſſheth to thy grace</l>
+               <l>All hayl with happey fate certayne, w<hi rend="sup">t</hi> pleaſures many
+fould,</l>
+               <l>But yet my leege a ſute I haue, if I might be ſo bold.</l>
+               <l>To craue the ſame my ſoferayn lord, wherby I might
+aſpyer</l>
+               <l>Vnto the thing with very much, O king I do requier.</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>What thing is that if we ſuppoſe, it laufull for to be,</l>
+               <l>On prynces faith without delaye, at ſhall be giuen the.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Tout let him alone now, we may in good ſouth,</l>
+               <l>I was not ſo luſtey, my pourpoſe to get:</l>
+               <l>But now of my honeſtey, I tell you of truth,</l>
+               <l>In reuenging the wronge, his mynd he hath ſet?</l>
+               <l>It is not Idumeus that hath poure to let.</l>
+               <l>Horeſtes fro ſekinge his mother to kyll,</l>
+               <l>Tout let hym alone, hele haue his owne wyll.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Sith that your grace hath willed me, this my defiar to
+ſhow,</l>
+               <l>Oh gratious king this thing it is, I let your grace to know</l>
+               <l>That long I haue requeſt to vew, my fathers kingley place,</l>
+               <l>And eke for to reuenge the wrong done to my fathers grace,</l>
+               <l>Is myne intent wherefore o king, graunt that w<hi rend="sup">t</hi>out delaye,</l>
+               <l>My earytage and honor eke, atchyue agayne I maye.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:2061:6"/>
+               <speaker>Idumeus.</speaker>
+               <l>Stey their a whyle Horeſtes mine, tyll councell do
+decrée?</l>
+               <l>The thing that ſhall vnto your ſtate, moſt honorabell
+bée.</l>
+               <l>My counciler how do you thinke, let vs your councell haue,</l>
+               <l>How think you by this thi<g ref="char:cmbAbbrStroke">̄</g>g y<hi rend="sup">t</hi> which Horeſtes now doth
+craue</l>
+            </sp>
+            <sp>
+               <speaker>Councell.</speaker>
+               <l>As I do thinke my ſolerayne lord, it ſhould be nothing
+ill,</l>
+               <l>A Prynce for to reuenged be, on thoſe which ſo dyd kyll.</l>
+               <l>His fathers: grace but rather ſhall, it be a feare to
+thoſe,</l>
+               <l>That to the lyke at anye time, their cruell mindes
+diſpoſe<g ref="char:punc">▪</g>
+               </l>
+               <l>And alſo as I thinke it ſhall, an honer be to ye,</l>
+               <l>To adiuuate and helpe him with, ſome men reuenged to be.</l>
+               <l>This do I thinke moſt fytteſt for, your ſtate and his
+alſo,</l>
+               <l>Do as you lyſt ſieth that your grace, my mind herin doth
+kno.</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>Sith Councell thinkes it fyt in ded, reuenged for to be,</l>
+               <l>That you Horeſtes in good ſouth, for to reuenge I
+grée.</l>
+               <l>And alſo to mayntaine your war, I graunt you w<hi rend="sup">t</hi> good
+will,</l>
+               <l>A thouſand men of ſtomake bolde, your enimiſe to kyll.</l>
+               <l>Take them forth with, &amp; forward go, let ſlyp no time ne
+tyd.</l>
+               <l>For chaunce to leaſure to be bound, I tell you can not byd</l>
+               <l>Go therfore ſtraight prouide your men &amp; like a manly
+knight</l>
+               <l>In place of ſtouer put forth thy ſelfe, aſſay w<hi rend="sup">t</hi> all
+thy might.</l>
+               <l>To win the fame, for glorey none, it chambering doth reſt</l>
+               <l>Marke what I ſaye to get thy men, I take it for they
+beſt.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Com on Horeſtes ſith thou haſt, obtayned thy deſier.</l>
+               <l>Tout tout man, ſeke to dyſtroye, as doth the flaming
+fier?</l>
+               <l>Whoſe properte thou knoeſt doth gro, as long as any
+thing</l>
+               <l>Is left wher by the ſame may ſeme, ſom ſuckcor for to
+bring.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>I thanke your grace I ſhal ſequeſt your gratius mind
+herin.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Se ſe I praye you how he ioyſe, that he muſt war begin.
+<stage place="margin">Go out.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Idumeus,</speaker>
+               <l>
+                  <stage place="margin">Go out.</stage> My councell now declare to me,
+how think you by this wight</l>
+               <l>Doth not he ſeme in ſouth to be, in tyme a manley
+knight.</l>
+               <l>By all the godes I thinke in ſouth, a man may eaſeley
+kno,</l>
+               <l>
+                  <pb facs="tcp:2061:7"/>Whoſe ſon he was, ſo right he doth his fathers
+ſteppes follow</l>
+            </sp>
+            <sp>
+               <speaker>Councell.</speaker>
+               <l>Vndoubtedly my ſoferaynd lorde, he ſemeth vnto me,</l>
+               <l>Not to ſequeſt his fathers ſteppes, in feates of
+cheuallrey:</l>
+               <l>But rather for to imitate, the floure of great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> land,</l>
+               <l>I meane <hi>A chilles</hi> that ſame knight, by whoſe one
+only hand</l>
+               <l>The Greacia<g ref="char:cmbAbbrStroke">̄</g>s haue obtaind at laingth y<hi rend="sup">e</hi> co<g ref="char:cmbAbbrStroke">̄</g>queſt of old
+Troy</l>
+               <l>For which thei did holl x. yeres ſpace, their labor great
+imploy</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>Syth he is gon for to puruaye, ſuch thinges as ſhall in
+dede,</l>
+               <l>Suffiſe to ſarue his tourn in wares, wherof he ſhal haue
+nede</l>
+               <l>Let vs depart and when he ſhall, retourne heather a gayne,</l>
+               <l>To ſée the muſt or of his men, we wyll ſure take
+the payne.</l>
+            </sp>
+            <sp>
+               <speaker>Halterſycke.</speaker>
+               <stage>
+                  <stage place="margin">Go out.</stage> The Songe.</stage>
+               <stage place="margin">Entrithe &amp; ſyngeth this ſong to y<hi rend="sup">e</hi>
+tune of haue o<g ref="char:EOLunhyphen"/>uer y<hi rend="sup">e</hi> wa<g ref="char:EOLhyphen"/>ter to flo<g ref="char:EOLhyphen"/>ride or ſe<g ref="char:EOLhyphen"/>lengers round.</stage>
+               <l>
+                  <seg rend="decorInit">F</seg>Arre well adew, that courtlycke lyfe,</l>
+               <l>To warre we tend to gowe:</l>
+               <l>It is good ſport to ſe the ſtryfe,</l>
+               <l>Of ſodyers on a rowe.</l>
+               <l>How mereley they forward march,</l>
+               <l>Theſe enemys to ſlaye:</l>
+               <l>With hey trym and tryxey to,</l>
+               <l>Their banners they dyſplaye.</l>
+               <l>Now ſhaull we haue the Golden cheates,</l>
+               <l>When others want the ſame:</l>
+               <l>And ſodyares haue foull maney feates,</l>
+               <l>Their enemyes to tame.</l>
+               <l>With couckinge heare, and bomynge their,</l>
+               <l>They breake thear foſe araye:</l>
+               <l>And louſtey lades amid the feldes,</l>
+               <l>Thear enſines do dyſplaye.</l>
+               <l>The droum and flute playe louſteley,</l>
+               <l>The troumpet bloſe a mayne?</l>
+               <l>And ventrous knightes corragiouſley,</l>
+               <l>Do march before thear trayne:</l>
+               <l>With ſpeare in reſte ſo lyuely dreſt,</l>
+               <l>In armour bryghte and gaye:</l>
+               <l>With hey trym and tryxey to,</l>
+               <l>
+                  <pb facs="tcp:2061:7"/>Thear banners they dyſplaye.</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>Goges oundes haulterſycke, what makes thou heare,</l>
+            </sp>
+            <stage place="margin">Hempſt<g ref="char:EOLhyphen"/>ring com<g ref="char:EOLunhyphen"/>meth in &amp;
+ſpeaketh.</stage>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>What? Iacke hempſtringe welcom, draw neare?</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>By his oundes I haue ſoughte the ſome newſe the to
+tell,</l>
+            </sp>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>Godes bloud what newſe, iſt the deuell in hell?</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtring.</speaker>
+               <l>In faythe thou act meatey, but this is the matter,</l>
+               <l>Douſt thou hear halterſicke? each man doth clatter:</l>
+               <l>Of warres, ye of warres, for Horeſtes wyll go,</l>
+               <l>His erytage to wyn, boye the truth is ſo.</l>
+            </sp>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>Nay but Iacke Hempſtringe ſeaſe of this prate,</l>
+               <l>Yf thou cauil me boye, then beware thy pate.</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>What hould thy peace, as far as I ſe,</l>
+               <l>We be boyſe both thearfore let vs grée.</l>
+            </sp>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>Boye naye be god, though I be but ſmaull,</l>
+               <l>Yet Iacke hempſtringe, a hart is worth all.</l>
+               <l>And haue not I an hart, that to warres dare go,</l>
+               <l>Yes hempſtringe I warrant the, &amp; that thou ſhouldeſt
+know</l>
+               <l>If dycke halterſyckes mynde, thou moue vnto eyar,</l>
+               <l>Colles neauer bourne, tyll they be ſet one fyare.</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>Ye but if they bourne, ſo that they ſame,</l>
+               <l>Yet water dycke hallterſycke, the bourning cane ſame.</l>
+               <l>But hacke thée my maſter will venter a ioynt,</l>
+               <l>And me to wayte on him, he all readye doth poynt.</l>
+               <l>But hearſte thou, thou knoweſt my maſter loues well,</l>
+               <l>Now and then to be ſnappinge, at ſome dayntye
+moſſell.</l>
+               <l>But by goges bloud hallterſycke, if thou loue me,</l>
+               <l>Take ſome prytey wenche our laundrar to be,</l>
+               <l>And be goges bloud, I am contentyd to beare,</l>
+               <l>Halfe of her chargis, when that ſhe comes thear.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:2061:8"/>
+               <speaker>Haulterſycke.</speaker>
+               <l>As fyt for the warre, Iacke hempſtringe thou art,</l>
+               <l>In fayth as abe, is to drawe a carte:</l>
+               <l>He is lyke to be manned, that hath ſuch a knight,</l>
+               <l>Vnder his banner, I ſweare for to fight.</l>
+               <l>When Horeſtes in fight, moſte buſieſt ſhalbe,</l>
+               <l>Then with they gynney, we muſt ſeke the.</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>Goges oundes, hart, and nayles, you are a ſea man,</l>
+               <l>Come of with a myſchiefe, my gentell companion.</l>
+               <l>By your ſleue fire haulterſicke, I thinke that a be,</l>
+               <l>As good a ſodyer as euer was ye,</l>
+            </sp>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>He hath learned his leſſon, but of fouth I feare,</l>
+               <l>He hath quight forgotten, the waye for to ſweare.</l>
+               <l>Oundes, hart, and nayles, nalrey <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>And he be not hanged, he wyll be ſtarke <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>Hange me no hanginge, yf ye be ſo quicke,</l>
+               <l>Roube not to hard, leſt hempſtringe do kycke.</l>
+            </sp>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>
+                  <stage place="margin">flort him.</stage> Had better be ſtyll, and
+a ſléepe in his head,</l>
+               <l>Yf a kycke me, me chaunce to breake his head,</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>Goges bloud good man halterſycke, begine you to flout me</l>
+            </sp>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>No not at all he douth but ſout ye.</l>
+               <l>What hempſtringe I ſaye, are you angred at ieſte.</l>
+               <l>
+                  <stage place="margin">flort hym on y<hi rend="sup">e</hi> lipes</stage> In fayth
+goodman lobcocke, your handſomley dreſt:</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>Goges bloud ſo to flout me, thou art muche to blame?</l>
+            </sp>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>Why all that I do man, is but in game.</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>
+                  <stage place="margin">giue him a bor on y<hi rend="sup">e</hi> eare</stage> Take thou
+that for they ieſte, and flout me no more?</l>
+            </sp>
+            <sp>
+               <speaker>Halterſicke.</speaker>
+               <l>For that ſame on blowe, than ſhault haue a ſcore:</l>
+               <l>Drawe thy ſword vylyne, yf thou be a man,</l>
+               <l>
+                  <pb facs="tcp:2061:8"/>And then do the worſt, that euer thou can.</l>
+            </sp>
+            <sp>
+               <speaker>Hempſtringe.</speaker>
+               <l>Naye ſet ſword a ſyde, and at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>offetes well trey,</l>
+               <l>Wheather of vs both, ſhall haue the maſterey.</l>
+            </sp>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>Goges oundes thou art bygger, yet I care not a poynt,</l>
+               <l>Yf to be reuenged, I iobard a ioynt.</l>
+            </sp>
+            <stage place="margin">Fyght at bofites w<hi rend="sup">t</hi> fyſtes</stage>
+            <sp>
+               <speaker>Hempſtring.</speaker>
+               <l>I haue coylyd the well, but I holde the a grote?</l>
+               <l>Yf thou meddell with me. I wyll ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inge thye cote.</l>
+            </sp>
+            <sp>
+               <speaker>Haulterſycke.</speaker>
+               <l>In dede I muſt ſaye, I haue cought the worſt,</l>
+               <l>But I wyll be reuengyd, or eies I ſhall bourſte.</l>
+               <l>Yf tyme did not call me, from hence to depart</l>
+               <l>I ſhould anger the hempſtring, euen at the h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t?</l>
+               <l>Therefore farwell, tyll an other daye,</l>
+               <l>But h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſte thou take this, to ſpend by the waye.</l>
+            </sp>
+            <stage place="margin">Giue him a box on y<hi rend="sup">e</hi> eare &amp; go out. go out.
+let y<hi rend="sup">e</hi> drum playe and Horeſtes enter w<hi rend="sup">t</hi> his men &amp; then lette him knele
+downe &amp; ſpeake.</stage>
+            <sp>
+               <speaker>Hempſtring.</speaker>
+               <l>Goges dundes is he gon, naye after I wyll,</l>
+               <l>And of the ſlaue by his oundes, I wyll haue my fyll.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Oh godes be proſperous I praye, &amp; eke preſerue my
+band,</l>
+               <l>Show now y<hi rend="sup">t</hi> ye be gods in ded, ſtretch out your mighty
+hand</l>
+               <l>And giue vs hartes &amp; willes alſo, where by we may
+preuayll</l>
+               <l>And ſuffer not you godes I praye, our courragis to fayll.</l>
+               <l>But let our hartes addytyd be, for aye as we pretend,</l>
+               <l>And of that one adulltres dame, oh gods now make an end.</l>
+               <l>My ha<g ref="char:cmbAbbrStroke">̄</g>ds do thryſt her blod to haue, nought can my mi<g ref="char:cmbAbbrStroke">̄</g>d
+co<g ref="char:cmbAbbrStroke">̄</g>tent</l>
+               <l>Tyll y<hi rend="sup">t</hi> on her I haue perfourmed, oh gods your iuſt
+iudgme<g ref="char:cmbAbbrStroke">̄</g>t</l>
+            </sp>
+            <sp>
+               <speaker>Nature.</speaker>
+               <l>Nay ſtey my child fro<g ref="char:cmbAbbrStroke">̄</g> mothers bloud w<hi rend="sup">t</hi> draw thy bloudy ha<g ref="char:cmbAbbrStroke">̄</g>d
+<stage place="margin">ſtand vp.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>No nought at all oh nature can, my purpoſe now
+withſtand,</l>
+               <l>Shall I for giue my fathers death, my hart can not agre</l>
+               <l>My father ſlayne in ſuch a ſorte, and vnreuengyd to
+be.</l>
+            </sp>
+            <sp>
+               <speaker>Nature.</speaker>
+               <l>Conſider firſt horeſtes myne, what payne for the ſhe
+toke,</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>And of my fathers death againe, o Nature do thou louke.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:2061:9"/>
+               <speaker>Nature.</speaker>
+               <l>I do confeſſe awycked facte, it was this is moſt
+playne,</l>
+               <l>Not w<hi rend="sup">t</hi>ſtandi<g ref="char:cmbAbbrStroke">̄</g>g fro<g ref="char:cmbAbbrStroke">̄</g> mothers bloud, thou muſt thy ha<g ref="char:cmbAbbrStroke">̄</g>ds
+refrain</l>
+               <l>Canſt thou a lacke vnhappey wight, conſent reuenged to
+be,</l>
+               <l>On her whoſe pappes before this time, hath giuen foud to
+the</l>
+               <l>In whom I nature for myd the, as beſt I thought it good,</l>
+               <l>Oh now requight her for her pain, w<hi rend="sup">t</hi>draw thy ha<g ref="char:cmbAbbrStroke">̄</g>ds fro<g ref="char:cmbAbbrStroke">̄</g>
+bloud</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Who offendith y<hi rend="sup">e</hi> loue of god, &amp; eke mans loue w<hi rend="sup">t</hi> willing
+hart</l>
+               <l>Muſt by y<hi rend="sup">e</hi> loue haue punniſhment, as dutey due for his
+deſart</l>
+               <l>For me therfor to pu<g ref="char:cmbAbbrStroke">̄</g>niſh hear as law of gods &amp; ma<g ref="char:cmbAbbrStroke">̄</g> doth
+wil</l>
+               <l>Is not a crime though y<hi rend="sup">t</hi> I do, as thou doſt ſaie my mother
+kil</l>
+            </sp>
+            <sp>
+               <speaker>Nature.</speaker>
+               <l>The cruel beaſts y<hi rend="sup">e</hi> rau<g ref="char:cmbAbbrStroke">̄</g>g in feldes whoſe iauſe to blod
+ar whet</l>
+               <l>Do not conſent their mothers paunch, in cruell wiſe to
+eate</l>
+               <l>The tyger fierſe doth not deſiare, the ruine of his
+kinde,</l>
+               <l>And ſhall dame nature now in the, ſuch tyraney once
+finde<g ref="char:punc">▪</g>
+               </l>
+               <l>As not the cruell beſtes voutſafe, to do in aney caſe,</l>
+               <l>Leue now I ſay Horeſtes myne, &amp; to my wordes giue
+place.</l>
+               <l>Leſt that of men this facte af thine, may iudged for to
+be:</l>
+               <l>Ne lawe in ſouth, ne iuſtys eke, but cruell tyraney.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Pythagoras doth thincke it lo, no tyraney to be,</l>
+               <l>When that iuſtyſe is myneſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yd, as lawe and godes
+decrée.</l>
+               <l>If that the law doth her condemne, as worthy death to haue,</l>
+               <l>Oh nature woulſt thou wil y<hi rend="sup">t</hi> I, her life ſhould ſeme to
+ſaue?</l>
+               <l>To ſaue her lyfe whom law doth ſlay, is not iuſtiſe to
+do,</l>
+               <l>Therefore I ſaye I wyll not yeld, they heſtes to com
+vnto.</l>
+            </sp>
+            <sp>
+               <speaker>Nature.</speaker>
+               <l>Yf nature cannot brydell the, remember the decaye,</l>
+               <l>Of thoſe which hereto fore in ſouth, their pare<g ref="char:cmbAbbrStroke">̄</g>ts ſought
+to ſlay</l>
+               <l>
+                  <hi>oedippus</hi> fate, caull thou to minde, that ſlew his
+father ſo,</l>
+               <l>And eke remember now what fame, of him a brode doth go.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>what fame doth blowe I forſe not I, ne yet what fame I
+haue</l>
+               <l>For this is true y<hi rend="sup">t</hi> bloud for bloud, my fathers deth doth
+craue</l>
+               <l>And lawe of godes, &amp; lawe of man, doth eke requeſt y<hi rend="sup">e</hi>
+ſame.</l>
+               <l>Therefore oh nature ſeaſe to praye, I forſe not of my
+name.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:2061:9"/>
+               <speaker>Nature.</speaker>
+               <l>For to lament this heauey fate, I cannot other do.</l>
+               <l>A lacke a lacke that once my chyld, ſhould now conſent
+vnto:</l>
+               <l>His mothers death wherefore farewell, I can no longer ſtey.
+<stage place="margin">Go out.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Farwel dame Nature to my men. I ſtraight wil take my way
+<stage place="margin">Go out.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>
+                  <stage place="margin">Enter.</stage> To ſe this monſter let vs
+go, for I ſuppoſe it tyme,</l>
+               <l>Where is Horeſtes why ſteaſe he: the truth to me
+define:</l>
+            </sp>
+            <sp>
+               <speaker>Councell.</speaker>
+               <l>
+                  <stage place="margin">Let y<hi rend="sup">e</hi> dru<g ref="char:cmbAbbrStroke">̄</g> playe.</stage> Oh ſoferayne
+lord me thinkes I here, him for to be at hand</l>
+               <l>yft pleaſe your grace, he is in ſight, euen now withal his
+band.</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>Com on Horeſtes we haue ſtayd, your monſter for to
+ſe.</l>
+            </sp>
+            <stage place="margin">Let y<hi rend="sup">e</hi> dru<g ref="char:cmbAbbrStroke">̄</g> play &amp; en<g ref="char:EOLhyphen"/>ter Hore<g ref="char:EOLhyphen"/>ſtis w<hi rend="sup">t</hi>
+his band mar<g ref="char:EOLunhyphen"/>che about the ſtage.</stage>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>And now at hand my men and I, all redy armed be.</l>
+               <l>Lo mighty king this champions here, agre with me to wende</l>
+               <l>Oh gracious king that they ſhall ſo, wylt pleaſe you
+co<g ref="char:cmbAbbrStroke">̄</g>diſſend</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>I do agrée and now a whyle, giue eare your king vnto,</l>
+               <l>It doth behoufe corragious knightes, on this wyſe for to
+do.</l>
+               <l>That is to ſtryue for to obtayne, the victorey and
+prayſe,</l>
+               <l>That laſts for aye, when death ſhal end, y<hi rend="sup">t</hi> find of theſe
+our dais</l>
+               <l>Wherefore be bold, &amp; feare no fate, the gods for you ſhall
+fight</l>
+               <l>For they be iuſt and will not ſe, that you in caſe of
+right.</l>
+               <l>Shall be deſſtreſt wherefore attend, and do your buſey
+payne,</l>
+               <l>The crabyd rage of enymyſe, by forſe for to reſtrayne?</l>
+               <l>And as to me your truſteynes, hath here to fore be knowne,</l>
+               <l>So now to this Horeſtes here, let eke the ſame be
+ſhowne.</l>
+               <l>Be to his heaſtes obaydient, be ſtoute to take in hand,</l>
+               <l>Such enterpryſe which he ſhal thinke, moſt for his ſtate
+to ſta<g ref="char:cmbAbbrStroke">̄</g>d</l>
+               <l>Which if you do the ſame is youres, the glorey and
+renoune,</l>
+               <l>That ſhal ariſe of this your facts, throughout y<hi rend="sup">e</hi> world
+ſhal ſou<g ref="char:cmbAbbrStroke">̄</g>d</l>
+               <l>The which you may I pray the godes, your gydes here in to be</l>
+               <l>And now farwell but not that well, that I haue ſayde to
+ye.</l>
+            </sp>
+            <sp>
+               <speaker>Sodyeares.</speaker>
+               <l>The godes preſarue your grace for aye, &amp; you defend from
+wo.</l>
+               <l>That we haue don as you co<g ref="char:cmbAbbrStroke">̄</g>mau<g ref="char:cmbAbbrStroke">̄</g>d, ful wel your grace ſhal
+kno</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:2061:10"/>
+               <speaker>Idumeus.</speaker>
+               <l>Now harke Horeſtes ſith thou muſt, of men the gyder
+be,</l>
+               <l>And that the wyll of godes it is, thou muſt now part from
+me.</l>
+               <l>Take yet my laſt commaundement, &amp; beare it in thy
+minde,</l>
+               <l>Let now they men courragiouſnes, in the their captayne
+finde</l>
+               <l>And as thou art courragious, ſo lyke wyſe let their be,</l>
+               <l>For ſafegard of thy men a brayne, well fraught with
+pollicye.</l>
+               <l>For ouer raſhe in doinge ought, doth often damage bringe,</l>
+               <l>Therfore take councell firſt before, thou doſt anye
+thinge.</l>
+               <l>For councell as <hi>Plaato</hi> doth tell, is ſure a heauenly
+thinge.</l>
+               <l>And <hi>Socrates</hi> a certaynte doth ſay, councell doth
+brynge.</l>
+               <l>Of thinges in dout for <hi>Lyuy</hi> ſayes, no man ſhall him
+repent,</l>
+               <l>That hath before he worked ought, his tyme in councell
+ſpent</l>
+               <l>And be thou lybraull to thy men, and gentell be alſo,</l>
+               <l>For y<hi rend="sup">e</hi> way at thy wil thou mayſt, haue them through fire to
+go</l>
+               <l>And he that ſhall at any tyme, deſerue ought well of
+the,</l>
+               <l>Soffer him not for to depart, tyll well reward he be.</l>
+               <l>Thus haue you hard horeſtes mine, remembar well the ſame</l>
+               <l>In doing thus you ſhall pourchas, to the immortaull fame.</l>
+               <l>The which I hope you wyll aſſaye, for to atchife in
+dede,</l>
+               <l>The gods the blis when in y<hi rend="sup">e</hi> war, thou forward ſhalt
+procede.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>I thanke your grace and now of you, my leaue I here do take</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>
+                  <stage place="margin">Imbraſe him</stage> Farwell my ſonne
+Horeſtes I, thy partinge yll ſhall take,</l>
+               <l>Yet eare thou go let me imbrace, the once I the do praye,</l>
+               <l>A lacke alacke that now from me, thou muſt nedes part away</l>
+               <l>Yet whyell thou art in preaſent place, receaue of me this
+kys,</l>
+               <l>
+                  <stage place="margin">Kys him.</stage> Farwell good knight for now I
+ſhal, thy ſwete imbraſings mys</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>The ſacred godes preſarue and ſaue, thy ſtate oh king I
+pray,</l>
+               <l>And ſend the helth and after death, to rayne with him for
+aye.</l>
+               <l>Come on my men, let vs depart,</l>
+            </sp>
+            <sp>
+               <speaker>Sodyers</speaker>
+               <l>
+                  <stage place="margin">March a<g ref="char:EOLhyphen"/>bout and go out.</stage> As pleaſe
+your grace with all our hart.</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>Ah, ah, how, greuous is his parting now, my councell vnto me</l>
+               <l>The Godes him bles &amp; ſend him helth, I pray them
+hartele.</l>
+               <l>
+                  <pb facs="tcp:2061:10"/>Wo worth the time the day and our, now may
+Horeſtes wayle</l>
+               <l>And <hi>Clytemneſtra</hi> may lament, that ſo ſhe dyd
+aſſayle.</l>
+               <l>His father deare for now on bloud, Horeſtes mind is ſet,</l>
+               <l>And to reuenge his fathers death, ſure nought their is can
+let.</l>
+               <l>In voyding of a miſchefe ſmal, they haue wrought their
+decay</l>
+               <l>For now nought elles in Horeſtes, but ſore reueng bears
+ſway</l>
+            </sp>
+            <sp>
+               <speaker>Councell.</speaker>
+               <l>For to cauſes my ſoferayne lord, reuengment ought to be,</l>
+               <l>The on leaſt others be in fecte, with that, that they ſhall
+ſe.</l>
+               <l>Their princes do, the other is, that thoſe that now be
+yll.</l>
+               <l>May be reuoked and may be taught, for to ſubdew their
+wyll,</l>
+               <l>
+                  <hi>Plato</hi> a wyſe phyloſopher, dyd thinke it for to
+be,</l>
+               <l>A Prynceley facte when as a King, ſhall punniſhe
+ſeriouſley.</l>
+               <l>Such perſons as dyd trayne their lyfe, to follow y<hi rend="sup">t</hi> was
+naught</l>
+               <l>y<hi rend="sup">t</hi> which their pri<g ref="char:cmbAbbrStroke">̄</g>ce at ani time, ſhal by miſchau<g ref="char:cmbAbbrStroke">̄</g>ce haue
+wroght</l>
+               <l>
+                  <hi>Protegeus</hi> an euell kinge, a carrayne lykenes to,</l>
+               <l>Which all the place about the ſame, to ſtinke cauſeth to
+do.</l>
+               <l>Therefore O king if that her faute, ſhould vnreuengyd be,</l>
+               <l>A thouſand euylles would inſu, their of your grace ſhould
+ſe.</l>
+               <l>Her faute is great and punnyſhment, it is worthy for to
+haue,</l>
+               <l>For by that meane the good in ſouth, fro<g ref="char:cmbAbbrStroke">̄</g> duu<g ref="char:cmbAbbrStroke">̄</g>gers may be
+ſaufe</l>
+               <l>For lo the vnyuerſaull ſcoll, of all the world we knowe,</l>
+               <l>Is once the pallace of a kinge, where vyces chefe do flow.</l>
+               <l>And as to waters from on head, and fountayne oft do
+ſpring,</l>
+               <l>So vyce and vertue oft do flo, from pallace of a kinge.</l>
+               <l>Whereby the people ſeing that, the kinge adycte to be,</l>
+               <l>To proſecute the lyke, they all do labor as we ſe.</l>
+               <l>Therfore the gods haue wylled thus, Horeſtes for to take,</l>
+               <l>His iorney and a recompence, for fatheres death to make.</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>Sith gods haue wild the ſame to be, good lucke y<hi rend="sup">e</hi> gods him
+ſend</l>
+               <l>Com on my councell now from hence, we purpoſe for to wend
+<stage place="margin">Go out.</stage>
+               </l>
+            </sp>
+            <stage place="margin">Enter E<g ref="char:EOLhyphen"/>giſtus &amp; Clyte<g ref="char:cmbAbbrStroke">̄</g>ne<g ref="char:EOLhyphen"/>ſtra,
+ſing<g ref="char:EOLhyphen"/>inge this ſonge, to y<hi rend="sup">e</hi> tune of king Sa<g ref="char:EOLhyphen"/>lomon.</stage>
+            <sp>
+               <speaker>Egiſtus.</speaker>
+               <l>
+                  <seg rend="decorInit">A</seg>Nd was it not a worthy ſight,</l>
+               <l>Of <hi>Venus</hi> childe kinge <hi>Priames</hi> ſonne:</l>
+               <l>To ſteale from Grece a Ladye bryght,</l>
+               <l>For whom the wares of Troye begon.</l>
+               <l>Naught fearinge daunger that might faull.</l>
+               <l>
+                  <pb facs="tcp:2061:11"/>Lady ladie.</l>
+               <l>From Grece to Troye, he went with all,</l>
+               <l>My deare Lady.</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>When <hi>Paris</hi> firſte ariued there,</l>
+               <l>Where as dame <hi>Venus</hi> worſhyp is:</l>
+               <l>And blouſtringe fame abroade dyd beare,</l>
+               <l>His lyueley fame ſhe dyd not mys.</l>
+               <l>To <hi>Helena</hi> for to repayre,</l>
+               <l>Her for to tell:</l>
+               <l>Of prayſe and ſhape ſo trym and fayre,</l>
+               <l>That dyd exzell.</l>
+            </sp>
+            <sp>
+               <speaker>Egiſtus.</speaker>
+               <l>Her beautie cauſed <hi>Paris</hi> payne,</l>
+               <l>And bare chiefe ſweye with in his mynde:</l>
+               <l>No thinge was abell to reſtraine,</l>
+               <l>His wyl ſome waye fourth for to finde.</l>
+               <l>Where by he might haue his deſpyare,</l>
+               <l>Lady ladye:</l>
+               <l>So great in him was <hi>Cupids</hi> fyare,</l>
+               <l>My deare ladye.</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>And eke as <hi>Paris</hi> dyd deſyear,</l>
+               <l>Fayre <hi>Helena</hi> for to poſſeſſe:</l>
+               <l>Her hart inflamid with lyke fyear,</l>
+               <l>Of <hi>Paris</hi> loue deſpiard no leſſe,</l>
+               <l>And found occaſion him to mete,</l>
+               <l>In <hi>Cytheron.</hi>
+               </l>
+               <l>Where each of them the other dyd grete,</l>
+               <l>The feaſt vppon.</l>
+            </sp>
+            <sp>
+               <speaker>Egiſtus.</speaker>
+               <l>Yf that in <hi>Paris Cupides</hi> ſhafte,</l>
+               <l>O <hi>Clytemneſtra</hi> toke ſuch place:</l>
+               <l>That tyme ne waye he neuer left,</l>
+               <l>Tyll he had gotte her comley grace,</l>
+               <l>I thinke my chaunce not ill to be</l>
+               <l>Ladye ladye.</l>
+               <l>That ventryd lyfe to purchaſe ye<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <pb facs="tcp:2061:11"/>My dere ladye.</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>Kynge <hi>Priames.</hi> ſonne loued not ſo ſore,</l>
+               <l>The gretian dame they brothers wyfe:</l>
+               <l>But ſhe his perſon eſtemed more,</l>
+               <l>Not for his ſake ſauinge her lyfe.</l>
+               <l>Which cauſed her people to be ſlayne,</l>
+               <l>With him to flye,</l>
+               <l>And he requight her loue a gayne,</l>
+               <l>Moſt faythfullye.</l>
+            </sp>
+            <sp>
+               <speaker>Egyſtus.</speaker>
+               <l>And as he recompence agayne,</l>
+               <l>The fayre quene <hi>Hellyn</hi> for the ſame:</l>
+               <l>So whyle I lyue I wyll take payne,</l>
+               <l>My wyll alwayes to yours to frame.</l>
+               <l>Syth that you haue voutſafe to be,</l>
+               <l>Ladye ladye.</l>
+               <l>A Queene and ladye vnto me,</l>
+               <l>My deare ladye.</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>And as ſhe louyd him beſt whyle lyfe,</l>
+               <l>Dyd laſt ſo tend I you to do:</l>
+               <l>Yf that deuoyd of warr and ſtryfe,</l>
+               <l>The Godes ſhall pleaſe to graunt vs to,</l>
+               <l>Syeth you voutſafeſt me for to take,</l>
+               <l>O my good knyght:</l>
+               <l>And me thy ladye for to make,</l>
+               <l>My hartes delyghte.</l>
+            </sp>
+            <sp>
+               <speaker>Egiſtus.</speaker>
+               <l>As ioyfull as the warlyke god is <hi>Venus</hi> to behoulde,</l>
+               <l>So is my hart repleate with ioye, much more a thouſand
+fould</l>
+               <l>Oh Lady deare in that I do, poſſes my hartes delyghte,
+<stage place="margin">Let y<hi rend="sup">e</hi> tru<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>pet blowe with in.</stage>
+               </l>
+               <l>What menes this ſound for very much, it doth my hart a
+flight</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>Feare nought at all Egiſtus myne, no hourt it doth
+pretend,</l>
+               <l>But lo me thinkes a meſſenger, to vs heather doth wend.</l>
+            </sp>
+            <stage place="margin">enter.</stage>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <l>The Gods preſarue your eaquall ſtate &amp; ſend you of
+their blys</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:2061:12"/>
+               <speaker>Clytemneſtra.</speaker>
+               <l>Welcom good meſſenger what neweſe, I pray the with the
+is</l>
+            </sp>
+            <sp>
+               <speaker>Meſſenger.</speaker>
+               <l>Yft pleaſe your grace euen now their is, aryued in this
+land</l>
+               <l>The mightey knight Horeſtes with, a mightey pewſau<g ref="char:cmbAbbrStroke">̄</g>t
+band</l>
+               <l>Who purpoſith for to inuade, this <hi>Mycoene</hi> Citie
+ſtronge,</l>
+               <l>And as he goeſe he leyſe both tower, and caſtell all
+alonge.</l>
+               <l>It boutes no man defence to make, for yf he wyll not yeld,</l>
+               <l>By ſodyeres rage he ſtraight is ſlayne, in mydeſt of the
+felde.
+<stage place="margin">Go out.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>Ah ſyr is he come in dede, he is wellcom by this daye,</l>
+               <l>Egiſtus now in ſouth w<hi rend="sup">t</hi> ſpede, from hence take you your
+way.</l>
+               <l>In to our realme and take vp men, our tyghtull to defend,</l>
+               <l>Tyll your retourne this Citie I, to kepe do ſure intend.</l>
+               <l>For all his ſtrength he ſhall not get, to entter once hear
+in,</l>
+               <l>The walles be ſtrong and for his forſe, I ſure ſet not a
+pyn.</l>
+            </sp>
+            <stage place="margin">Enter a-woman, lyke a be<g ref="char:EOLhyphen"/>ger roun<g ref="char:EOLhyphen"/>ning be<g ref="char:EOLhyphen"/>fore
+they ſodier but let the ſo<g ref="char:EOLhyphen"/>dier ſpeke firſt, but let y<hi rend="sup">e</hi> wo<g ref="char:EOLhyphen"/>man crye
+firſt piti<g ref="char:EOLhyphen"/>fulley.</stage>
+            <sp>
+               <speaker>Egiſtus.</speaker>
+               <l>Syth you be abell to defend, this Citie as you ſaye,</l>
+               <l>Farwell in ſouth to get men, I now wyll take my waye.</l>
+               <l>And ſone againe I wyll returne, his pamprid pryd to tame,</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>Farwell Egiſtus and in ſouth, I ſtrayght will do the
+ſame.</l>
+            </sp>
+            <sp>
+               <speaker>Sodyer.</speaker>
+               <l>Yeld the I ſaye and that by and by,</l>
+               <l>Or with this ſword, in fayth thou ſhalt dye.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>Oh with a good wyll, I yeld me to the,</l>
+               <l>Good maſter ſodier, haue mercye on me.</l>
+               <l>My huſband thou haſt ſlayne, in moſt cruell-wyſe,</l>
+               <l>Yet this my prayer, do now not dyſpyſe.</l>
+            </sp>
+            <sp>
+               <speaker>Sodier.</speaker>
+               <l>
+                  <stage place="margin">Go a fore her, &amp; let her fal do<g ref="char:EOLunhyphen"/>wne vpo<g ref="char:cmbAbbrStroke">̄</g>
+the &amp; al to be beate him.</stage> Come on then in haſt, my pryfoner thou
+art,</l>
+               <l>Come followe me I ſaye, we muſt nedes depart.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>A horſon ſlaue I wyll teach the in faye,</l>
+               <l>To handle a woman on, an other waye.</l>
+               <l>To put me in feare, with out my dezarte</l>
+               <l>I wyll teache the in faye to playe ſuch a parte.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:2061:12"/>
+               <speaker>Sodyer.</speaker>
+               <l>Be contentyd good woman, and thou ſhalt be,</l>
+               <l>Neauer heare after molyſted for me.</l>
+            </sp>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>Naye vyllyn ſlaue, a mendes thou ſhalt make,</l>
+               <l>In that thou be fore me as pryſinor dydeſt take.</l>
+               <l>Nowe I haue cought the, and my pryſoner thou art,</l>
+               <l>By his oundes horſon ſlaue, this goſe to they harte.</l>
+            </sp>
+            <sp>
+               <speaker>Sodyer.</speaker>
+               <l>Naye ſaue my lyfe, for I wyll be,</l>
+               <l>Thy pryſoner and lo I yelde me to the</l>
+            </sp>
+            <stage place="margin">take his weapons &amp; let him ryſe vp &amp;
+then go out both. Enter. the Vyce ſynginge this ſong to y<hi rend="sup">e</hi> tune of the
+Pa<g ref="char:EOLunhyphen"/>ynter.</stage>
+            <sp>
+               <speaker>Woman.</speaker>
+               <l>Come wend thou with me, and they wepon thou ſhalt haue,</l>
+               <l>Syth that thou voutſafyſte, my lyfe for to ſaue.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>
+                  <seg rend="decorInit">S</seg>Tand backe ye ſlepinge iackes at home,</l>
+               <l>And let me go.</l>
+               <l>You lye ſyr knaue am I a mome,</l>
+               <l>Why ſaye you ſo.</l>
+               <l>Tout tout, you dare not come in felde,</l>
+               <l>For feare you ſhoulde the goſte vp yelde.</l>
+               <l>With bloſe, he goſe, the gunne ſhot flye,</l>
+               <l>It feares, it ſeares, and their doth lye.</l>
+               <l>A houndreth in a moment be,</l>
+               <l>Diſſtroyed quight:</l>
+               <l>Syr ſauſe in fayth yf you ſhoulde ſe,</l>
+               <l>The gonne ſhot lyght.</l>
+               <l>To quake for feare you would not ſtynte,</l>
+               <l>When as by forſe of gounſhotes dynte:</l>
+               <l>The rankes in raye, are tooke awaye,</l>
+               <l>As pleaſeth fortune oft to playe.</l>
+               <l>But in this ſtower who beares the fame,</l>
+               <l>But onley I:</l>
+               <l>Reuenge, Reuenge, wyll haue the name,</l>
+               <l>Or he wyll dye.</l>
+               <l>I ſpare no wight, I feare none yll,</l>
+               <l>But with this blade I wyll them kyll</l>
+               <l>For when myne eayre, is ſet on fyare,</l>
+               <l>I rap them, I ſnap them, that is my deſyare.</l>
+               <l>
+                  <pb facs="tcp:2061:13"/>Farwell a dew to wares I muſte</l>
+               <l>In all the haſt.</l>
+               <l>My coſen cut purſſe wyll I truſte,</l>
+               <l>Your purſſe well taſt,</l>
+               <l>But to it man, and feare for nought,</l>
+               <l>Me ſaye to the it is well fraught.</l>
+               <l>Wyth ruddockes red be at a becke,</l>
+               <l>Beware the arſe, breake not thy necke,</l>
+            </sp>
+            <stage place="margin">Go out.</stage>
+            <stage place="margin">Horeſtes entrith w<hi rend="sup">t</hi> his bande &amp; marche<g ref="char:EOLhyphen"/>th
+about the ſtage.</stage>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Come on my ſodyers for at home, aryued their we be,</l>
+               <l>Where as we muſt haue our deſyare, or els dye manfulley.</l>
+               <l>The walles be hye yet I intend, vppon them firſt to go,</l>
+               <l>And as I hope you ſodierrs will, your captayne eke follow</l>
+               <l>Yf I forſake to go before then fley you eke be hynde,</l>
+               <l>And as I am ſo eke I truſt, my ſodyers for to finde.</l>
+               <l>Com hether harauld go proclame this mine inte<g ref="char:cmbAbbrStroke">̄</g>t
+ſtraightway</l>
+               <l>To yonder citite ſay that I, am come to their decaye.</l>
+               <l>Vnleſſe they yeld I will deſtroye, boch man woman &amp;
+childe,</l>
+               <l>And eke their towers that for the war, ſo ſtrongly they do
+bylde</l>
+               <l>Byd them in haſt to yeld to me, for nough I do a byde.</l>
+               <l>But for their aunſwear or elles fourth w<hi rend="sup">t</hi> for the<g ref="char:cmbAbbrStroke">̄</g> &amp;
+theres prouid</l>
+            </sp>
+            <stage place="margin">Let y<hi rend="sup">e</hi> tru<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pet go to<g ref="char:EOLhyphen"/>warde the Citie and
+blowe.</stage>
+            <sp>
+               <speaker>Harraulde.</speaker>
+               <l>Your gratious minde ſtraight ſhalbe don, cum tro<g ref="char:cmbAbbrStroke">̄</g>pet let vs
+go</l>
+               <l>That I haue don your meſſage wel, your grace ful wel ſhal
+kno</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Hye the apaſe and let me haue, agayne an aunſweare
+ſone,</l>
+               <l>And then a non thou ſhalt well ſe, what quickely ſhalbe
+done.</l>
+            </sp>
+            <stage place="margin">Let y<hi rend="sup">e</hi> tru<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>pet leaue ſoundyng &amp; let
+Har<g ref="char:EOLhyphen"/>rauld ſpe<g ref="char:EOLhyphen"/>ake &amp; Cli<g ref="char:EOLhyphen"/>temneſtra ſpeake o<g ref="char:EOLhyphen"/>uer y<hi rend="sup">e</hi> wal.</stage>
+            <sp>
+               <speaker>Harraulld.</speaker>
+               <l>How whow is their y<hi rend="sup">t</hi> kepes the gate giue eare my words vnto</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra,</speaker>
+               <l>what wouldſt thou haue harald declare, what haſt thou her to
+do</l>
+            </sp>
+            <sp>
+               <speaker>Harauld.</speaker>
+               <l>My maſter bydes the yeld to him, this citie out of hande,</l>
+               <l>Or elles he will not leaue on ſtone, on other for to
+ſtand.</l>
+               <l>And all things elles within this towne he wil haue at his
+wil</l>
+               <l>As pleaſeth him by any meanes, to ſaue or elles to
+ſpyll,</l>
+               <l>What you will now, therfore declare, &amp; aunſwere to him
+ſend</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>
+                  <pb facs="tcp:2061:13"/>This Citie here againſt him, and his I wyll
+defende,</l>
+            </sp>
+            <sp>
+               <speaker>Harrauld.</speaker>
+               <l>Then in his name I do defye, both the and all with in,</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>By him and his tell him in ſouth, we do not ſet a pyn.</l>
+            </sp>
+            <sp>
+               <speaker>Harrauld.</speaker>
+               <l>Yf it pleaſe your grace this word ſhe ſends, ſhe wil not
+yeld to ye</l>
+               <l>But yf you com vnto your harme, ſhe ſayes that it
+ſhalbe.</l>
+            </sp>
+            <stage place="margin">Let y<hi rend="sup">e</hi> ha<g ref="char:EOLhyphen"/>raulde go out here.</stage>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Sith that my grace and eke good wil, they on ſuch ſort
+diſpiſe,</l>
+               <l>For to deſtroye both man and chyld, I ſurely do
+deuyſe,</l>
+               <l>Com on my men, bend now your forſe, this Citie for to wyn,</l>
+               <l>Saue no mans lyfe, y<hi rend="sup">t</hi> once ſhould make, ryſiſtaunce there
+w<hi rend="sup">t</hi>in,</l>
+               <l>And when you ſhall poſſes the towne, &amp; haue all things
+at wil,</l>
+               <l>Loke out my mother but to her, do ye no kynde of yll.</l>
+               <l>Let her not die, though that ſhe would, deſiar the death to
+haue</l>
+               <l>For other wyſe my fathers death, reuengment doth craue.</l>
+            </sp>
+            <sp>
+               <speaker>Sodyer.</speaker>
+               <l>We ſhall your heſtes obaye with ſpede, oh captayne we
+deſiar,</l>
+               <l>That we were therefor to reuenge, our hartes are ſet on
+fyar.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Lyke men by God, I ſweare well ſayd, Horeſtes let vs
+gow,</l>
+               <l>Nowe to thy men lyke manley hart, I praye the for to
+ſhowe.</l>
+               <l>And as thou ſeiſte be firſte the man, that ſhall the
+Citie wyn,</l>
+               <l>How, how, now for to flye, all ready they begynne.</l>
+            </sp>
+            <stage place="margin">Go &amp; ma<g ref="char:EOLhyphen"/>ke your li<g ref="char:EOLunhyphen"/>uely bat<g ref="char:EOLhyphen"/>tel &amp; let it
+be longe eare you can win y<hi rend="sup">e</hi> Citie and when you haue won it let Hor<g ref="char:EOLunhyphen"/>eſtes
+bri<g ref="char:EOLhyphen"/>nge out his moth<g ref="char:EOLhyphen"/>er by the arme &amp; let y<hi rend="sup">e</hi> droum ſeaſe play<g ref="char:EOLunhyphen"/>ing
+&amp; the trumpet, alſo when ſhe is ta<g ref="char:EOLhyphen"/>ke<g ref="char:cmbAbbrStroke">̄</g> let her knele do<g ref="char:EOLhyphen"/>wne and
+ſpeake.</stage>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>With lyuely hartes my troumpeters, exault your tubal
+ſound.</l>
+               <l>And now my ſodyers in your harts, let courrage eke be
+found.</l>
+               <l>Com let vs go the godes for vs, ſhall make an eaſey
+waye,</l>
+               <l>Spare none a lyue for I am bent, to ſeke their great
+decaye.</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>A lack what heaps of myſchefes great, me ſelly wight
+torment.</l>
+               <l>Now is the tyme falune me vpon, which I thought to preuent</l>
+               <l>Yet beſt I ſeke my lyfe to ſaue, perhappes he will me
+here,</l>
+               <l>A lacke reuengment he dothe craue, for ſlaying his father
+dere.</l>
+               <l>Yf aney ſparke of mothers bloud, remaynd within thy
+breſte,</l>
+               <l>Oh gratious child let now thine eares, vnto my words be
+preſt</l>
+               <l>Pardon I craue Horeſtes myne, ſaue now my corpes fro<g ref="char:cmbAbbrStroke">̄</g>
+death</l>
+               <l>
+                  <pb facs="tcp:2061:14"/>Let no man ſaye that thou waſt cauſe, I yeldyd
+vp my breath,</l>
+               <l>I haue offendyd I do confeſſe, yet ſaue my lyfe I
+praye,</l>
+               <l>And to they mother this requeſt, o knight do not denaye.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>For to repent this facte of thyne, now that it is to late,</l>
+               <l>Can not be thought a recompence, for kylling of thy mate.</l>
+               <l>Go haue her hence therfore with ſpede, &amp; ſe her
+ſureley kepte,</l>
+               <l>And for y<hi rend="sup">e</hi> fact a fore thou dydeſt, thou ſurley
+ſhouldſt haue wept</l>
+            </sp>
+            <stage place="margin">go out w<hi rend="sup">t</hi> on of the ſodiares.</stage>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Nay, far you wel, in fayth you haue an aunſwer, get you
+hence.</l>
+               <l>Oundes of me I would not be, in her cote for forty pence.</l>
+               <l>Nay nay, a way far well a dew, now now, it is to late.</l>
+               <l>When ſtede is ſtollen for you in ſouth, to ſhut the
+ſtable gate.</l>
+               <l>She ſhould haue wept whe<g ref="char:cmbAbbrStroke">̄</g> firſt ſhe went, y<hi rend="sup">e</hi> king about
+to ſlay,</l>
+               <l>
+                  <stage place="margin">Let Hor<g ref="char:EOLhyphen"/>eſtes ſyth hard.</stage> It makes
+no matter ſhe foull well, dyd brede her owne decaye</l>
+               <l>Ounds of me what meane you man, begyn you now to faynt</l>
+               <l>Ieſu god how ſtyll he ſyttes, I thinke he be a
+ſaynt.</l>
+               <l>Ooooo, you care not for me, nay ſone I haue don I warrant
+ye</l>
+            </sp>
+            <stage place="margin">wepe but let Hore<g ref="char:EOLhyphen"/>ſtes ryſe &amp; bid him
+peaſe.</stage>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>By all the godes my hart dyd fayle, my mother for to ſe,</l>
+               <l>From hye eſtate for to be brought, to ſo great
+myſerey.</l>
+               <l>That all moſt I had graunted lyfe, to her had not this be,</l>
+               <l>My fathers death whoſe death in ſouth, chefe cauſer of was
+ſhe.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Euen as you ſaye but harke at hand, Egiſtus draweth nye.</l>
+               <l>Who purpoſieth the chaunce of war, Horeſtes for to trye.</l>
+            </sp>
+            <stage place="margin">Let Egi<g ref="char:EOLhyphen"/>ſtus enter &amp; ſet hys men in a
+raye &amp; let the drom playe tyll Horeſtes ſpeaketh</stage>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>And by the godes I purpoſe eke, my honour to defend,</l>
+               <l>Com on my men kepe your araye, for now we do pretend.</l>
+               <l>Eather to be the conqerer, or elles to dye in felde,</l>
+               <l>Lyft vp your hartes and let vs ſe, how ye your bloſe can
+yeld.</l>
+            </sp>
+            <sp>
+               <speaker>Egiſtus.</speaker>
+               <l>Lyke manley men adreſſe your ſelues, to get immortall
+fame,</l>
+               <l>Yf ye do flye lo what doth reſt, behynde but foull defame.</l>
+               <l>Strike vp your dru<g ref="char:cmbAbbrStroke">̄</g>s let tru<g ref="char:cmbAbbrStroke">̄</g>pets ſou<g ref="char:cmbAbbrStroke">̄</g>d, your baners eke
+diſplay,</l>
+               <l>And I my ſelfe as captayne, to you wyll lead the waye.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Thou traytor to my father dere, what makeſt the here in
+feld,</l>
+               <l>
+                  <pb facs="tcp:2061:14"/>Repent the of thy wyckednes, and to me ſtrayght do
+yeld.</l>
+            </sp>
+            <sp>
+               <speaker>Egiſtus.</speaker>
+               <l>Thou pryncoks boy &amp; baſtard ſlaue, thinks thou me to
+ſubdew?</l>
+               <l>It lyeth not with in thy powre, thou boye I tell the trew.</l>
+               <l>But yf I take thy corpes, it ſhalbe a fode the byrdes to
+fede.</l>
+               <l>Stryke vp your droums &amp; forward now, to wars let vs
+proſede.</l>
+            </sp>
+            <stage place="margin">ſtryke vp your dru<g ref="char:cmbAbbrStroke">̄</g>, &amp; fyght a good whil
+&amp; then let ſum of E<g ref="char:EOLunhyphen"/>giſtus me<g ref="char:cmbAbbrStroke">̄</g> flye &amp; the<g ref="char:cmbAbbrStroke">̄</g> take hym &amp; let
+Hor<g ref="char:EOLhyphen"/>eſtes drau him vyo<g ref="char:EOLhyphen"/>lentlye &amp; let y<hi rend="sup">e</hi> dru<g ref="char:cmbAbbrStroke">̄</g>s ſeaſe.</stage>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Oh vyllayne trayghtor now y<hi rend="sup">e</hi> gods, ne mortall man ſhall
+ſaue</l>
+               <l>Thy corps fro<g ref="char:cmbAbbrStroke">̄</g> death for blud for blud my fathers deth doth
+craue</l>
+               <l>Oh tyraunt fyrſe couldeſt thou voutſafe, my father ſo to
+ſlaye?</l>
+               <l>But now no forſe for thou haſt wrought, at laſt thine one
+decay</l>
+            </sp>
+            <sp>
+               <speaker>Egiſtus.</speaker>
+               <l>A lacke a lacke yet ſpare my lyfe, Horeſtes I the praye.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Thy lyfe? naye trayghtor vyle, that chefe I do denaye.</l>
+               <l>For as thou haſt deſeruyd, ſo I ſhall thy facte
+requit.</l>
+               <l>That once couldſt ſeme to me &amp; mine, for to work ſuch
+diſpight</l>
+               <l>Therfore com forth and for thy facte, receaue dew
+punniſhme<g ref="char:cmbAbbrStroke">̄</g>t</l>
+               <l>Repent I ſay this former lyfe, for this is my iudgment.</l>
+               <l>That for my fathers death, the which we finde the chefe to
+be,</l>
+               <l>The cauſer of thou ſhalt be hanged, where we thy death may
+ſe</l>
+               <l>And as thou for my fathers death, dew punniſhment receiue,</l>
+               <l>So ſhall my mother in lykewiſe, for that ſhe gaue the
+leaue.</l>
+               <l>Him for to ſlaye, and eke to it, with good will
+condyſende,</l>
+               <l>Therfore com of and ſone dyſpatch, that we had made an
+end.</l>
+            </sp>
+            <sp>
+               <speaker>Egiſtus.</speaker>
+               <l>Ah heauey fate &amp; chaunce moſt yll, wo worth this hap of
+mine,</l>
+               <l>For giue my faute you ſacryd godes, and to my wordes
+incline</l>
+               <l>Your gracious eare for cauſer furſt, I was this is moſt
+plaine,</l>
+               <l>Of <hi>Agamemnous</hi> death, wherefore I muſt receaue this
+paine.</l>
+               <l>Pardon I craue, voutſafe ye godes, the ſame to graunt it
+me,</l>
+               <l>Now ſodier worke thy wyll in haſt, I praye the harteley.</l>
+            </sp>
+            <stage place="margin">fling him of y<hi rend="sup">e</hi> lader &amp; then let on bringe
+in his mo<g ref="char:EOLunhyphen"/>ther Cly<g ref="char:EOLhyphen"/>te<g ref="char:cmbAbbrStroke">̄</g>neſtra but let her loke wher Egiſtus hangeth.</stage>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>Ah heauey fate would god I had, in tormoyle great byn
+ſlayne</l>
+               <l>Syth nothing can Horeſtes hands, fro<g ref="char:cmbAbbrStroke">̄</g> ſheding bloud
+reſtraine</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>How chaunce you dyd not the<g ref="char:cmbAbbrStroke">̄</g> lament his father whe<g ref="char:cmbAbbrStroke">̄</g> you
+ſlew?</l>
+               <l>But now when death doth you preuent, to late ites for to
+rew.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:2061:15"/>
+               <speaker>Clytemneſtra.</speaker>
+               <l>Yet hope I that he will me graunt, my lyfe that I ſhould
+haue.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Euen as much as thou voutſafeſt, his fathers lyfe to
+ſaue,</l>
+               <l>Therfore com of we muſt not ſtey, all daye to wayght on
+the.</l>
+               <l>Lo myghtye prince for whom ye ſent, lo preaſent here is
+ſhe.</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>Haue mercy ſonne &amp; quight remitte, this faute of mine I
+pray,</l>
+               <l>Be mercyfull Horeſtes myne, and do not me denaye.</l>
+               <l>Conſider that in me thou hadeſt, they hewmayne ſhape
+co<g ref="char:cmbAbbrStroke">̄</g>poſid</l>
+               <l>That thou ſhouldſt ſlay thy mother ſon, let it not be
+diſcloſyd,</l>
+               <l>Spare to perſe her harte with ſword, call eke vnto thy
+mynd,</l>
+               <l>
+                  <hi>Edyppus</hi> fate and as <hi>Nero,</hi> ſhowe not thy
+ſelfe vnkynde.</l>
+            </sp>
+            <stage place="margin">Take do<g ref="char:EOLunhyphen"/>wne Egi<g ref="char:EOLunhyphen"/>ſtus and bear him out.</stage>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Lyke as a braunche once ſet a fyare, doth cauſe y<hi rend="sup">e</hi>
+trée to bourne</l>
+               <l>As <hi>Socrates</hi> ſuppoſeth ſo, a wicked wight doth
+tourne.</l>
+               <l>Thoſe that be good and cauſe them eke, his euell to
+ſequeſt,</l>
+               <l>Wherefore the poete <hi>Iuuenal,</hi> doth thinke it for the
+beſte:</l>
+               <l>That thoſe that lyue lycentiouſley, ſhould brydlyd be w<hi rend="sup">t</hi>
+payne</l>
+               <l>And ſo others that elles would ſyn, therby they might
+reſtrain</l>
+               <l>For thus he ſayeth that Cities are, well gouerned in dede,</l>
+               <l>Where punniſhment for wycked ones, by lawe is ſo
+decrede.</l>
+               <l>And not decrede but exerſyeſd, in punnyſhinge of
+thoſe,</l>
+               <l>Which law ne pain fro<g ref="char:cmbAbbrStroke">̄</g> waloing ſtill, in vice their mind
+diſpoſe,</l>
+               <l>And as thou haſt byn chiefes cauſe, of yelding vp they
+breath,</l>
+               <l>So call to minde thou waſt the cauſe, of <hi>Agamemnons</hi>
+death.</l>
+               <l>For which as death is recompence, of death ſo eke with
+the,</l>
+               <l>For kyllinge of my father thou, now kylled eke ſhault be.</l>
+               <l>This thinge to ſe accomplyſhyd, reuenge with the ſhall
+go,</l>
+               <l>Now haue her hence ſieth y<hi rend="sup">t</hi> you all, my iudgment here do
+kno</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>A lacke a lack w<hi rend="sup">t</hi> drawe thy hand, my ſon from ſheding
+bloud.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Thou art a foule thus for to prate, this doth Horeſtes
+good,</l>
+               <l>Com on a way thou douſt no more, but him with words
+moleſt</l>
+               <l>A foulyſhe foull that thou wart ded, he takes it for the
+beſt?</l>
+            </sp>
+            <sp>
+               <speaker>Clytemneſtra.</speaker>
+               <l>
+                  <stage place="margin">Knele do<g ref="char:EOLunhyphen"/>wne.</stage> Yf euer aney pytie was,
+of mother plante in the,</l>
+               <l>
+                  <pb facs="tcp:2061:15"/>Let it apeare Horeſtes myne, and ſhowe it vnto
+me.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>What pyttie thou on father myne, dydeſt curſedley
+beſtowe,</l>
+               <l>The ſame to the at this preſent, I purpoſe for to
+ſhowe.</l>
+               <l>Therfore Reuenge haue her a way, and as I iudgment gaue:</l>
+               <l>So ſe that ſhe in order lyke, her puniſhment dew haue.</l>
+            </sp>
+            <stage place="margin">Let Cly<g ref="char:EOLhyphen"/>temneſtra wepe and go out re<g ref="char:EOLhyphen"/>ueng
+alſo</stage>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Let me alone, com on a way, that thou weart out of ſight,</l>
+               <l>A peſtelaunce on the crabyd queane, I thinke thou do
+delyght,</l>
+               <l>Him to moleſt, com of in haſt, and troubell me no more,</l>
+               <l>Come on com on, ites all in vaine, and get you on a fore,</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Now ſyeth we haue the conqueſt got, of all our mortall
+foſe,</l>
+               <l>Let vs prouide that occaſion, we do not chaunce to loſe.</l>
+               <l>Stryke vp your droumes for enter now, we wyll the citie gate</l>
+               <l>For nowe reſeſtaunce none there is, to let vs in
+thereat.</l>
+            </sp>
+            <stage place="margin">Enter in fame &amp; let all y<hi rend="sup">e</hi> ſody<g ref="char:EOLunhyphen"/>ers folow
+him in a<g ref="char:EOLhyphen"/>raye.</stage>
+            <sp>
+               <speaker>Fame.</speaker>
+               <l>As eache man bendes him ſelfe, ſo I report his fame in
+dede,</l>
+               <l>Yf yll, the<g ref="char:cmbAbbrStroke">̄</g> yll, through iarne tru<g ref="char:cmbAbbrStroke">̄</g>p, his fame doth ſtraigh
+proſede:</l>
+               <l>Yf good, then good, through golden tru<g ref="char:cmbAbbrStroke">̄</g>p, I blo his lyuely
+fame:</l>
+               <l>through heaue<g ref="char:cmbAbbrStroke">̄</g>s, throgh earth, &amp; ſurgi<g ref="char:cmbAbbrStroke">̄</g>g ſeaſe I bere
+abrod y<hi rend="sup">e</hi> ſame</l>
+               <l>perhaps what wind me heather driues, w<hi rend="sup">t</hi>in your mid<g ref="char:cmbAbbrStroke">̄</g>s you
+muſe</l>
+               <l>From <hi>Crete</hi> I com to you my frends, I bring this kind of
+newſe</l>
+               <l>That <hi>Agamemnons</hi> brother is ariuyd in this land,</l>
+               <l>And eke with him his ladey fayre, Quene <hi>Helen</hi>
+vnderſtand.</l>
+               <l>Whom for to ſe a great frequent, of people their aryue,</l>
+               <l>This newſe to ſhew at this preſent, me heather now dyd
+driue.</l>
+            </sp>
+            <stage place="margin">enter the Vyce ſin<g ref="char:EOLhyphen"/>ging this ſonge.</stage>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>
+                  <seg rend="decorInit">A</seg> Newe maſter, a newe,</l>
+               <l>No lenger I maye:</l>
+               <l>Abyde by this daye</l>
+               <l>Horeſtes now doth rew.</l>
+               <l>A new maſter a new,</l>
+               <l>And was it not yll?</l>
+               <l>His mother to kyll?</l>
+               <l>I pray you how ſaye you?</l>
+               <l>A new maſter a new,</l>
+               <l>
+                  <pb facs="tcp:2061:16"/>Nowe ites to late?</l>
+               <l>To ſhut the gate?</l>
+               <l>Horeſtes gines to rew.</l>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <l>
+                  <hi>Deniꝙ non paruas animo dati gloria vires:</hi>
+               </l>
+               <l>
+                  <hi>Et foecunda facit pectora laudis amor.</hi>
+               </l>
+               <l>As <hi>Ouid</hi> ſayeth I am in dede, the ſpure to each
+eſtate,</l>
+               <l>For by my troumpe I often cauſe the wicked man to hate,</l>
+               <l>Is fylthey lyfe, and eke I ſtoure, the good more good to
+be:</l>
+               <l>So much the hart and will of man, is lynked vnto me.</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>A new maſter a new, naye I wyll go,</l>
+               <l>Tout, tout, Horeſtes is be com a newe man:</l>
+               <l>Now he ſorroweth to bad that it is ſo,</l>
+               <l>Yet I wyll oreſſe him, by his oundes and I can.</l>
+               <l>Who <hi>Saintie amen.</hi> God morrowe myſtres Nan,</l>
+               <l>By his oundes I am glad to ſe the ſo trycke,</l>
+               <l>Nay may I be ſo bould, at your lyppes to haue a lycke.</l>
+               <l>Ieſus how coye, do you make the ſame,</l>
+               <l>You neauer knew me afore I dare ſaye:</l>
+               <l>In fayth, in fayth, I was to blame,</l>
+               <l>That I made no courchey to you by the waye.</l>
+               <l>Who berladye Nan, thou art trym and gaye,</l>
+               <l>Woundes of me, ſhe hath winges alſo,</l>
+               <l>Who whother with a myſchefe, douſt thou thinke for to
+go?</l>
+               <l>To heauen? or to hell? to pourgatorye? or ſpayne?</l>
+               <l>To Venys? to pourtugaull? or to the eylles <hi>Canarey?</hi>
+               </l>
+               <l>Nay ſtay a whyle for a myle or twayne.</l>
+               <l>I wyll go with the, I ſweare by ſaynt marey,</l>
+               <l>Wylt thou haue a bote Nan, ouer ſeay the to carey.</l>
+               <l>For yf it chaunce for to rayne, as the weathers not harde,</l>
+               <l>It may chaunce this trym geare of thine, to be marde,</l>
+            </sp>
+            <sp>
+               <speaker>Fame.</speaker>
+               <l>
+                  <hi>Omnia ſi perdis, famam ſeruare memento,</hi>
+               </l>
+               <l>
+                  <hi>Qua ſemel amiſsa, poſtia nullus eris.</hi>
+               </l>
+               <l>Aboue eache thinge kepe well thy fame, what euer y<hi rend="sup">t</hi> thou
+loſe</l>
+               <l>For fame once gone they memory, with fame a way it goſe.</l>
+               <l>And it once loſt thou ſhalt in ſouth, accomptyd lyke to
+be,</l>
+               <l>
+                  <pb facs="tcp:2061:16"/>A drope of rayne that faulyth in, the boſom of the
+ſée,</l>
+               <l>Me fame therfore as <hi>Ouid</hi> thinkes, no man hath powre to
+hold,</l>
+               <l>To thoſe with whom I pleaſe to dwell, I am more rich the<g ref="char:cmbAbbrStroke">̄</g>
+gold</l>
+               <l>What cauſid ſom for countris ſoyle, them ſelues to
+perrell caſt</l>
+               <l>But that the knew that after death, y<hi rend="sup">e</hi> fame of thers ſhall
+laſt.</l>
+               <l>Not on, but all, do me deſiare, both good and bad
+lykewyſe,</l>
+               <l>As maye apeare yf we perpend, of <hi>Neroſe</hi>
+enterpryſe.</l>
+               <l>Which firſt did cauſe his maſters death, &amp; eke wheras
+he laye</l>
+               <l>In mothers wound to ſe in ſouth, his mother dyd ſtraight
+ſlay.</l>
+               <l>With this Horeſtes eke takes place, whoſe father being
+ſlayn,</l>
+               <l>throgh mothers gile fro<g ref="char:cmbAbbrStroke">̄</g> mothers blod, his ha<g ref="char:cmbAbbrStroke">̄</g>ds could not
+refrai<g ref="char:cmbAbbrStroke">̄</g>e</l>
+               <l>But lyke as he reuengyd the death, of father in his eyare,</l>
+               <l>So fathers brother in lyke ſort, Reuenge hath ſet on
+fyare.</l>
+               <l>For he is gon for to requeſt, the ayde of prynces great,</l>
+               <l>So ſore his hart is ſet on fyare, throught raging rigorus
+heat.</l>
+               <l>What to detarmayne all the kynges, of Grece aryued be,</l>
+               <l>At <hi>Neſtores</hi> towne that <hi>Athens</hi> highte, their
+iudgment to decre</l>
+            </sp>
+            <sp>
+               <speaker>Vyce.</speaker>
+               <l>Oundes harte and nayles, naye now I am dreſt,</l>
+               <l>Is the kinge <hi>Menalaus</hi> at <hi>Athenes</hi> aryued?</l>
+               <l>And I am be hind? to be packinges the beſt,</l>
+               <l>Leaſt the matter in ſouth, to ſone be contryued.</l>
+               <l>
+                  <hi>Auxilla humilia firma, conſenſus facit,</hi> this
+allwayes prouided</l>
+               <l>That conſent maketh ſuckers moſt ſure for to be,</l>
+               <l>Well I wyll be their ſtrayght, wayſe you ſhall ſe.</l>
+            </sp>
+            <stage place="margin">Go out.</stage>
+            <sp>
+               <speaker>Fame.</speaker>
+               <l>As <hi>Publius</hi> doth well declare, we ought chefeſt to
+ſe,</l>
+               <l>Vnto our ſelues that nought be don, after extremite.</l>
+               <l>
+                  <hi>Abalio expectes, alteri quod feceris.</hi>
+               </l>
+               <l>For loke what meſure thou doſt meate, y<hi rend="sup">e</hi> ſame againe
+ſhalbe,</l>
+               <l>At other tyme at others hand, repayde againe to the.</l>
+               <l>Therefore I wyſhe eache wight to do, to others as he
+would,</l>
+               <l>That they in lyke occaſion, vnto him offer would.</l>
+               <l>Wel forth I muſt ſom newſe to here, for fame no where ca<g ref="char:cmbAbbrStroke">̄</g>
+ſtay</l>
+               <l>But what ſhe hears throughout y<hi rend="sup">e</hi> would abrod ſhe doth
+diſplay</l>
+            </sp>
+            <stage place="margin">Go out.</stage>
+            <sp>
+               <speaker>Prouicion.</speaker>
+               <l>Make roume and gyue place, ſtand backe there a fore,</l>
+               <l>For all my ſpeakinge, you preſſe ſtyll the more.</l>
+               <l>
+                  <pb facs="tcp:2061:17"/>Gyue rome I ſaye quickeley, and make no
+dalyaunce,</l>
+               <l>It is not now tyme, to make aney taryaunce:</l>
+               <l>The kinges here do com, therefore giue way,</l>
+               <l>Or elles by the godes, I wyll make you I ſaye.</l>
+               <l>Lo where my Lord Kynge <hi>Neſtor</hi> doth com,</l>
+               <l>And <hi>Horeſtes</hi> with him <hi>Agamemnons</hi>
+ſonne:</l>
+               <l>
+                  <hi>Menelaus</hi> a kyng lykewyſe, of great fame,</l>
+               <l>Make rome I ſaye, before their with ſhame.</l>
+            </sp>
+            <sp>
+               <speaker>Neſtor.</speaker>
+               <l>Nowe ſyeth we be here Kynge <hi>Menalaij</hi>
+               </l>
+               <l>Vnto vs we praye you, your matter to ſaye.</l>
+               <l>For theſe prynces here, after they haue perpendyd,</l>
+               <l>If ought be amys, it ſhall be amendyd,</l>
+               <l>But ſyrra prouiſion, go in haſte and fet,</l>
+               <l>Good kynge <hi>Idumeus,</hi> tell him we are ſet.
+<stage place="margin">Go out.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Prouiſion.</speaker>
+               <l>
+                  <stage place="margin">Pauſe a while till he be gon out &amp; the<g ref="char:cmbAbbrStroke">̄</g>
+ſpeak tre<g ref="char:EOLhyphen"/>tably.</stage> As your gracis haue wylled, ſo tend I to do,</l>
+               <l>I wyll fetche him ſtrayght, and bringe him you to.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>If ought be amys, the ſame ſone ſhall be,</l>
+               <l>If I haue commytted amendyd of me:</l>
+               <l>But ſo <hi>Idumeus</hi> the good kyng of Crete,</l>
+               <l>Is come to this place, vs for to mete.</l>
+            </sp>
+            <stage place="margin">Enter I<g ref="char:EOLhyphen"/>dumius &amp; prouiſion comming w<hi rend="sup">t</hi> his
+cap in his ha<g ref="char:cmbAbbrStroke">̄</g>d a fore him &amp; making waye.</stage>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>The Gods preſarue your gracis all, &amp; ſend you health for
+aye.</l>
+            </sp>
+            <sp>
+               <speaker>Neſtor.</speaker>
+               <l>Well com ſier kinge the ſame to ye, contynewalley we
+pray.</l>
+            </sp>
+            <sp>
+               <speaker>Menalaus.</speaker>
+               <l>Two thi<g ref="char:cmbAbbrStroke">̄</g>gs ther is o kings, y<hi rend="sup">e</hi> moues me thus your ayds to
+pray:</l>
+               <l>And theſe be it the which to you, I purpoſe for to
+ſaye.</l>
+               <l>The one is this where with I fynde, my ſelfe agreuid to
+be,</l>
+               <l>That on ſuch ſort my ſyſters ſlayne, as all your
+gracis ſe.</l>
+               <l>The other is that ſo her ſonne, without all kind of
+right,</l>
+               <l>Should to his mother in ſuch caſe, (I ſay) worke ſuch
+diſpight.</l>
+               <l>Theſe two be they, wherfore I craue, your ayds to ioyn w<hi rend="sup">t</hi>
+me:</l>
+               <l>To the intent of ſuch great ylles, reuengyd I may be.</l>
+               <l>That thus he dyd be hould the ſtate, of all my brothers
+land,</l>
+               <l>And ſe I pray you in what place, the ſame doth preſent
+ſtand.</l>
+               <l>
+                  <pb facs="tcp:2061:17"/>His crueltie is ſuch in ſouth, as nether tower
+ne towne,</l>
+               <l>That letted once his paſſage, but is brought vnto the
+ground.</l>
+               <l>The fatherles he pyttyed not, where as he euer went,</l>
+               <l>y<hi rend="sup">e</hi> agyd wight whoſe yeres before, their youthly poure had
+ſpent</l>
+               <l>The mayd whoſe parentes at the ſege, defending of their
+right</l>
+               <l>Was ſlaine, y<hi rend="sup">e</hi> ſame this tyrant hath opreſſyd through
+his might</l>
+               <l>The wido y<hi rend="sup">t</hi> through forrayne wars, was left now comfortles,</l>
+               <l>He ſpared not, but them &amp; theres, he cruelly dyd
+dyſtres.</l>
+               <l>Wherfore ſith that he thus hath wrought, as far as I can
+ſée,</l>
+               <l>From <hi>Mycoene</hi> land we ſhould prouid, him exylyd to
+be.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes,</speaker>
+               <l>Syth that you haue accuſyd me, I muſt my aunſwere
+make,</l>
+               <l>And here before theſe kings of Grece, this for my aunſwer
+take</l>
+               <l>O ounckel that I neuer went, reuengment for to do,</l>
+               <l>On fathers foſe tyll by the godes, I was comaund there to.</l>
+               <l>Whoſe heaſtes no man dare once refuſe, but wyllingly
+obaye</l>
+               <l>That I haue ſlayne her wylfully, vntruely you do ſaye.</l>
+               <l>I dyd but that I could not chuſe, ites hard for me to
+kycke,</l>
+               <l>Syth gods commaund as on would ſay, in fayth againſt y<hi rend="sup">e</hi>
+prick</l>
+               <l>In that you ſay, I ſparyd none, your grace full well may
+ſe,</l>
+               <l>That lyttell mercy they ſuppoſyd, in ſouth to ſhow to
+me.</l>
+               <l>When as they bad me do my worſt, requeſting them to
+yeld,</l>
+               <l>It is no ieſt when ſodyares ioyne, to fight within a
+felde.</l>
+               <l>Thus I ſuppoſe ſufficiently, I aunſwerd haue to end,</l>
+               <l>Your great complaynt, the which you ſo, mightely did
+defend.</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>In dede as <hi>Hermes</hi> doth declare, no man can once
+eſtew,</l>
+               <l>The iudgment of god moſt iuſt, that for his fautes is
+dew.</l>
+               <l>And as god is moſt mercyfull, ſo is he iuſt lyke
+wyſe.</l>
+               <l>And wyll correcte moſt ſuerley thoſe, that his heaſtes
+diſpyſel</l>
+            </sp>
+            <sp>
+               <speaker>Neſtor.</speaker>
+               <l>As you good Kyng <hi>Idumeus,</hi> haue ſayd ſo lykewiſe
+I,</l>
+               <l>Do thinke it trew therefore as nowe, I do him here defye.</l>
+               <l>That one dare ſay y<hi rend="sup">t</hi> he hath wrought, y<hi rend="sup">e</hi> thing y<hi rend="sup">t</hi> is not
+right</l>
+               <l>Lo here my gloue to him I giue, in pledge with him to fyght.</l>
+               <l>I promys here to proue there by, Horeſtes nought dyd do,</l>
+               <l>But that was iuſt &amp; that the gods, commaundyd him there
+to<g ref="char:punc">▪</g>
+               </l>
+               <l>That he is kinge of <hi>Mycoene</hi> land, who euer do
+deney.</l>
+               <l>
+                  <pb facs="tcp:2061:18"/>I offer here my gloue with him, therfore to lyue and
+dye.</l>
+               <l>Yf none therebe wyll vnder take, his tyghfull to with
+ſaye.</l>
+               <l>Let vs be frendes vnto him nowe, my Lordes I doye praye.</l>
+               <l>It was the parte of ſuch a knyght, reuengyd for to be,</l>
+               <l>Should Horeſtes content him ſelfe, his father ſlayne to
+ſe.</l>
+               <l>No, no, a ryghtuous facte I thinke, the ſame to be in
+dede,</l>
+               <l>Syeth that it was accomplyſht ſo, as godes before
+decrede.</l>
+            </sp>
+            <sp>
+               <speaker>Menelaus.</speaker>
+               <l>In dede I muſt confeſſe that I, reuengyd ſhould haue
+be,</l>
+               <l>If that my father had byn ſlayne, with ſuch great
+cruelte.</l>
+               <l>But yet I would for natures ſake, haue ſpard my mothers
+lyfe</l>
+               <l>O wretched man, o cruell beaſt, o mortall blade and knyfe.</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>Seaſe of ſyr kyng leaue morning lo, nought can it you
+auaylle</l>
+               <l>Not with ſtanding be rulyd now, we pray by our
+counſaylle.</l>
+               <l>Conſider firſt your one eſtate, conſider what maye
+be,</l>
+               <l>A ioyefull mene to end at leyngth, this your calamytie.</l>
+               <l>Horeſtes he is younge of yeares, and you are ſomwhat
+olde,</l>
+               <l>And ſorrowe may your grace to ſone, within her net in
+folde,</l>
+               <l>Therefore ites beſt you do forget, ſo ſhall you be at
+eaſe,</l>
+               <l>And I am ſure Horeſtes wyll, indeuor you to pleaſe,</l>
+               <l>So far as it for him may be, with honor lefe to do,</l>
+               <l>He wyll not ſhrynke but wyll conſent, your gracis bydding
+to</l>
+               <l>For aſſuraunce of your good wyll, Horeſtes here doth
+craue,</l>
+               <l>your daughter fayre <hi>Hermione,</hi> in maryage for to
+haue.</l>
+               <l>Thereby for to contynew ſtyll, true loue and amytie,</l>
+               <l>That ought in ſought betwixte to ſuch, indefferent for to
+be.</l>
+            </sp>
+            <sp>
+               <speaker>Menalaus.</speaker>
+               <l>As for my frendſhyp he ſhall haue, the godes his helper
+be</l>
+               <l>But for my daughters maryage, I can not graunt to be.</l>
+               <l>She is but yong and much vnfet, ſuch holy ryghtes to take,</l>
+               <l>Therefore ſyr kyngs at this preſent, no aunſwere I can
+make.</l>
+            </sp>
+            <sp>
+               <speaker>Neſtor.</speaker>
+               <l>She is a dame of comley grace, therefore kyng
+<hi>Menalaye,</hi>
+               </l>
+               <l>Graunt this to vs this ſtryfe to end, o kyng we do the
+praye.</l>
+               <l>For eache of them a grede be the other for to haue,</l>
+               <l>Good ſyr graunt this that at thy handes, ſo iuſtley we do
+craue</l>
+            </sp>
+            <sp>
+               <speaker>Menalaus.</speaker>
+               <l>
+                  <pb facs="tcp:2061:18"/>O Nobell king what that it were, I could not you
+denaye,</l>
+               <l>I muſt nedes graunt whe<g ref="char:cmbAbbrStroke">̄</g> nought I haue, againſt you to
+repley</l>
+               <l>Horeſtes here before theſe kinges, my ſonne I the do
+make,</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>And the o kynge whyle lyfe doth laſt, for father I do
+take.</l>
+            </sp>
+            <sp>
+               <speaker>Neſtor.</speaker>
+               <l>Ryght ioyfull is this thinge to vs, and happey for your
+ſtate,</l>
+               <l>Therfore with ſpede let vs go hence, the maryage to
+ſeleybrate</l>
+               <l>And all the godes I praye preſarue, &amp; kepe you both from
+wo,</l>
+               <l>Com on ſyr king, ſhall we from hence, vnto our pallace
+go.</l>
+            </sp>
+            <sp>
+               <speaker>Menalaus.</speaker>
+               <l>As if ſhall pleaſe your grace in dede, ſo we conſent to
+do,</l>
+            </sp>
+            <sp>
+               <speaker>Idumeus.</speaker>
+               <l>And we lykewyſe oh gratious Prynce, do condiſend there
+to.</l>
+            </sp>
+            <stage place="margin">go out all</stage>
+            <stage place="margin">Vyce en<g ref="char:EOLhyphen"/>trith w<hi rend="sup">t</hi> a ſtaffe &amp; a bottell or
+dyſhe and wallet.</stage>
+            <sp>
+               <speaker>Reuenge.</speaker>
+               <l>I woulde I were ded, and layde in my graue,</l>
+               <l>Oundes of me, I am trymley promouted:</l>
+               <l>Ah, ah, oh, well now for my labor, theſe trynketes I haue?</l>
+               <l>Whyſe you not I praye you, how I am flouted.</l>
+               <l>A bagge and a bottell, thus am I louted?</l>
+               <l>Eache knaue now a dayes, would make me his man,</l>
+               <l>But chyll maſter them, I be his oundes and I can.</l>
+               <l>A begginge, a begginge, nay now I muſt go,</l>
+               <l>Horeſtes is maryed, god ſend him much care:</l>
+               <l>And I Reuenge, am dryuen him fro.</l>
+               <l>And then ites no maruayll, though I be thus bare.</l>
+               <l>But peace, who better then beggars doth fare.</l>
+               <l>For all they be beggares, and haue no great port,</l>
+               <l>Who is meryer, then the pooryſte ſort.</l>
+               <l>What ſhall I begge? nay thates to bad,</l>
+               <l>Is their neare a man, that a ſaruaunt doth lacke:</l>
+               <l>Of myne honeſtye gentle woman, I would be glad?</l>
+               <l>You to ſarue but for clothes, to put on my backe.</l>
+               <l>A waye with theſe rages, from me the ſhall packe.
+<stage place="margin">Put of y<hi rend="sup">e</hi> beggares cote &amp; all thy
+thyn<g ref="char:EOLhyphen"/>ges.</stage>
+               </l>
+               <l>What thinke you ſcorne, me your ſeruaunt to make,</l>
+               <l>A nother wyll haue me, yf you me for ſake.</l>
+               <l>Parhappes you all meruayll, of this ſodayne mutation,</l>
+               <l>How ſene I was downe, from ſo hye a degre:</l>
+               <l>
+                  <pb facs="tcp:2061:19"/>To ſatiſfye your myndes, I wyl yuſe a
+perſwation.</l>
+               <l>This one thinge you knowe, that on caulyd amyte,</l>
+               <l>Is vnto me reuenge moſt contrarey.</l>
+               <l>And we twayne to geather, could not abyde,</l>
+               <l>Whych cauſyd me ſo ſone, from hye ſtate to ſlyde.</l>
+               <l>Horeſtes and his ounckell, Kynge <hi>Menalaus,</hi>
+               </l>
+               <l>Is made ſuch ſure frendes, without paraduenture,</l>
+               <l>Through the pollycye, of olde <hi>Idumeus?</hi>
+               </l>
+               <l>That as, far as I can ſe, it is to hard to enter,</l>
+               <l>Ye and thates worſſe, when I ſought to venture.</l>
+               <l>I was dryuen with out comfort, awaye from their gate,</l>
+               <l>I was glad to be packinge, for feare of my pate.</l>
+               <l>Yet befor I went, my fancey to pleaſe,</l>
+               <l>The maryage ſelebratyd, at the church I dyd ſe,</l>
+               <l>Wyllinge I was, them all to dyſeaſe:</l>
+               <l>But I durſt not be ſo bold, for maſter Amyte.</l>
+               <l>Sot by <hi>Menalaus,</hi> and bore him companye,</l>
+               <l>On the other ſyde Dewtey with Horeſtes boure ſwaye.</l>
+               <l>So that I could not enter, by no kynde of waye?</l>
+               <l>Well ſyeth from them both, I am bannyſhyd ſo,</l>
+               <l>I wyll ſeke a new maſter, yf I can him finde:</l>
+               <l>Yet I am in good comfort, for this well I knowe,</l>
+               <l>That the moſt parte of wemen, to me be full kynde,</l>
+               <l>Yf they ſaye near a worde, yet I knowe their mynde.</l>
+               <l>Yf they haue not all thinges, when they do deſiare,</l>
+               <l>They wyll be reuengyd, or elles lye in the myare.</l>
+               <l>Nay I knowe their quallytes, the leſſe is my care,</l>
+               <l>As well as they do knowe, Reuengys operation,</l>
+               <l>Ye faull to it good wyues, and do them not ſpare.</l>
+               <l>Nay Ille helpe you forward, yf you lacke but perſwacion.</l>
+               <l>What man a moſte is frée, from inuaſion.</l>
+               <l>For as playnely <hi>Socrates</hi> declareth vnto vs,</l>
+               <l>Wemen for the moſt part, are borne malitious.</l>
+               <l>Perhappes you wyll ſaye, maney on that I lye,</l>
+               <l>And other ſume I am ſure, alſo wyll take my parte:</l>
+               <l>Not withſtandinge what I haue ſayde, they wyll veryfye,</l>
+               <l>ye and do it I wys, in ſpyght of thy hart.</l>
+               <l>Yf therefore thou wyll lyue quyetlye, after their deſart?</l>
+               <l>
+                  <pb facs="tcp:2061:19"/>Reward then ſo ſhault, thou brydell their
+affection,</l>
+               <l>And vnto they wyll, ſhall haue them in ſubiection.</l>
+               <l>In <hi>Athenes</hi> dwellyd <hi>Socrates,</hi> the
+phylloſopher dyuine,</l>
+               <l>Who had a wyfe namyd <hi>Exantyp,</hi> both deuelyſhe and
+yll:</l>
+               <l>Which twayne beenge faulne out, vppon a tyme,</l>
+               <l>Perhappe cauſe <hi>Exantyp,</hi> could not haue her wyll.</l>
+               <l>He went out of dores, ſyttinge there ſtyll.</l>
+               <l>She cround him with a pyſpot, and their he</l>
+               <l>Was wet to the ſkynne, moſte pytifull to ſe.</l>
+               <l>I praye god that ſuch dames, be not in this place,</l>
+               <l>For then I might chaunce neare a miſtres to get,</l>
+               <l>Nay yf ye anger them, they wyll laye you on the face,</l>
+               <l>Or elles their nayles in your chekes, they wyll ſet,</l>
+               <l>Nay lyke a raſor, fome of their nayles are whet.</l>
+               <l>That not for to pare, but to cut to the bone,</l>
+               <l>I count him moſt happeſt, that medelles with none.</l>
+               <l>Well far you well, for I muſt be packinge,</l>
+               <l>Remembar my wordes, and beare it in mynde?</l>
+               <l>What ſuffer the myll, a whyle to be clackinge,</l>
+               <l>Yf that you intend, aney eaſe for to fynde.</l>
+               <l>Then wyll they be to you, both louinge and kinde.</l>
+               <l>Farwell coſen cutpurſſe, and be ruled by me,</l>
+               <l>Or elles you may chaunce, to end on a tre.
+<stage place="margin">Go out.</stage>
+               </l>
+            </sp>
+            <stage place="margin">Enter Horeſtes &amp; Hermi<g ref="char:EOLhyphen"/>one Nobi<g ref="char:EOLunhyphen"/>lytye and
+Cominy<g ref="char:EOLhyphen"/>alte truth &amp; Dewty</stage>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Syth y<hi rend="sup">t</hi> the gods haue geuen vs grace, this realme for to
+poſſes</l>
+               <l>Which floryſheth aboundauntlye, with gold &amp; great
+riches.</l>
+               <l>Let vs now ſe how much the wilds, &amp; minde of all this
+land,</l>
+               <l>Is vnto vs and of their ſtate, lykewyſe to vnderſtand.</l>
+            </sp>
+            <sp>
+               <speaker>Hermione.</speaker>
+               <l>I deme of them Horeſtes myne, that they contentyd be,</l>
+               <l>With humbell hart for to ſubmyte, o kyng them ſelues to
+ye,</l>
+               <l>Wherefore my loue inquiare, their ſtate this preaſente
+tyme,</l>
+               <l>And of their hartes good wyll to vs, o king let them deuyne.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>As I do loue the laydye bright, ſo eke I thynke in dede,</l>
+               <l>That loue for loue as equallye, ſhalbe reward of mede.</l>
+            </sp>
+            <sp>
+               <speaker>Hermione.</speaker>
+               <l>The godes neuer prolonge my lyfe, that day I ſhall a peare,
+<stage place="margin">Let De<g ref="char:EOLhyphen"/>wty and Truth ta<g ref="char:EOLunhyphen"/>ke y<hi rend="sup">e</hi> cro<g ref="char:EOLhyphen"/>wne in
+their rig<g ref="char:EOLhyphen"/>ht hands.</stage>
+               </l>
+               <l>
+                  <pb facs="tcp:2061:20"/>To breake my fayth to the now plyght, my louing lord
+ſo dere.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Com on my Lordes &amp; commons eke, let me now vnderſtand,</l>
+               <l>Of all your mindes for I deſiare, to know what caſe this
+land</l>
+               <l>Doth now conſyſt voutſate the ſame, therfore to ſhew
+to me,</l>
+               <l>And yf that ought be now a myſe, amendyd it ſhalbe.</l>
+            </sp>
+            <sp>
+               <speaker>Nobelles.</speaker>
+               <l>Moſt regall Prynce we now are voyd, of mortall wars
+vexatio<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>And through your grace we ar ioyned, in loue w<hi rend="sup">t</hi> euery
+nation.</l>
+               <l>So y<hi rend="sup">t</hi> your nobelles may now lyue, in pleaſaunt ſtate
+ſartaine,</l>
+               <l>Deuoyd of wars &amp; ciuill ſtryfes, whyle y<hi rend="sup">t</hi> your grace doth
+raine</l>
+               <l>The which you may I pray the god, with happy days and blys</l>
+               <l>And after death to ſend you there, where ioyſe ſhall neuer
+mys.</l>
+               <l>
+                  <stage place="margin">Let truth &amp; Dewty Crowne
+Horeſtes.</stage> As ſyne of our obedyence, lo Dewty doth the Crownd,</l>
+               <l>And Truth alſo which doth me bynd, they ſubiecte to be
+found.</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>My Nobels all I gyue you thankes, for this now ſhowed to
+me</l>
+               <l>And as you haue ſo eke wyll I, the lyke ſhow vnto ye.</l>
+               <l>My co<g ref="char:cmbAbbrStroke">̄</g>mons how goſe it w<hi rend="sup">t</hi> you, your ſtate now let me
+know,</l>
+            </sp>
+            <sp>
+               <speaker>Commons.</speaker>
+               <l>Where as ſuch on as you do raine, there nedes muſt riches
+gro</l>
+               <l>We are o king eaſyd of the yoke, which we haue ſo
+deſiard.</l>
+               <l>The ſtate of this our common welth, nede not to be
+inquiard.</l>
+               <l>Peace, welth, ioye, and felycitie, o kinge it is we haue,</l>
+               <l>And what thing is their y<hi rend="sup">t</hi> which, ſubiects ought more to
+craue</l>
+            </sp>
+            <sp>
+               <speaker>Horeſtes.</speaker>
+               <l>Syeth all thinges is in ſo good ſtate, my commons as you
+ſaye</l>
+               <l>That it may ſo contynew ſtyll, the ſacred godes I
+praye.</l>
+               <l>And as to me your truſteynes, ſhall anye wayes be found,</l>
+               <l>So ſtyll to mayntayne your eſtate, I ſureley ſhalbe
+bound.</l>
+               <l>And for your faythfull harts, the which you grau<g ref="char:cmbAbbrStroke">̄</g>ted haue to
+me</l>
+               <l>Both you my lordes, and commons eke, I thanke you hartele.</l>
+               <l>Therfore ſith time wil haue an end, &amp; now my mind you
+know</l>
+               <l>Let vs giue place to tyme, and to our pallaſe let vs go.</l>
+            </sp>
+            <sp>
+               <speaker>Nobelles.</speaker>
+               <l>We both wil waight vpon your grace, yft pleaſe you to
+depart</l>
+            </sp>
+            <sp>
+               <speaker>Commons.</speaker>
+               <l>Eeuen when you pleaſe to waigh you on I ſhall w<hi rend="sup">t</hi> all my
+hart</l>
+            </sp>
+            <stage place="margin">
+               <pb facs="tcp:2061:20"/> go out all &amp; let truth &amp; Dewtye
+ſpeake.</stage>
+            <sp>
+               <speaker>Truth.</speaker>
+               <l>A kyngdome kept in Amyte, and voyde of diſſention,</l>
+               <l>Ne deuydyd in him ſelfe, by aney kynde of waye,</l>
+               <l>Neather prouoked by wordes, of reprehention,</l>
+               <l>Muſt nedes long contynew, as Truth doth ſaye.</l>
+               <l>For deſention and ſtryfe, is the path to decaye.</l>
+               <l>And continuinge therein, muſt of neſecttie,</l>
+               <l>Be quight ruinate, and brought vnto myſerye.</l>
+            </sp>
+            <sp>
+               <speaker>Dewtey.</speaker>
+               <l>Where I Dewtey am neclected, of aney eſtate.</l>
+               <l>Their ſtryfe and dyſſention, my place do ſupplye:</l>
+               <l>Cankred mallyſe pryde, and debate,</l>
+               <l>Therefore to reſt, all meanes do trye.</l>
+               <l>Then ruin comes after, of their ſtate whereby,</l>
+               <l>They are vtterly extynguyſhed, leuinge nought behynde,</l>
+               <l>Whereof ſo much as their, name we maye fynde.</l>
+            </sp>
+            <sp>
+               <speaker>Truth.</speaker>
+               <l>He that leadeth his lyfe, as his phanſey doth lyke,</l>
+               <l>Though for a whyle, the ſame he may hyde:</l>
+               <l>Yée Truth, the daughter of Tyme, wyll it ſeke,</l>
+               <l>And ſo in a tyme, it wyll be diſcryde.</l>
+               <l>Yet in ſuch tyme as it can not, be denyed?</l>
+               <l>But receaue dew punniſhment, as god ſhall ſe,</l>
+               <l>For the faute commytted, moſt conuenient to be.</l>
+               <l>As this ſtorye here hath, made open vnto ye,</l>
+               <l>Which yf it haue byn marked, much prophet may aryſe?</l>
+               <l>For as Truth ſayth, nothinges wryten be,</l>
+               <l>But for our learninge, in anye kynde of wyſe.</l>
+               <l>By which we may learne, the yll to diſpyſe,</l>
+               <l>And the truth to imitate, thus Truth doth ſaye:</l>
+               <l>The which for to do, I beſech God we maye.</l>
+            </sp>
+            <sp>
+               <speaker>Dewtey.</speaker>
+               <l>For your gentle pacience, we geue you thankes hartely,</l>
+               <l>And therefore our dewtey weyed, let vs all praye,</l>
+               <l>For <hi>Elyzabeth</hi> our Quene, whoſe gratious
+maieſtie:</l>
+               <l>May rayne ouer vs, in helth for aye,</l>
+               <l>Lyke wyſe for her councell, that each of them maye.</l>
+               <l>Haue the ſpyryte of grace, their doinges to dyrecte,</l>
+               <l>
+                  <pb facs="tcp:2061:21"/>In ſettinge vp vertue, and vyce to correcte.</l>
+            </sp>
+            <sp>
+               <speaker>Truth.</speaker>
+               <l>For all the Nobylytie, and ſpiritualtie, let vs praye,</l>
+               <l>For Iudges, and head officers, what euer they be:</l>
+               <l>According to oure boundaunt dewties, eſpetially I ſaye,</l>
+               <l>For my Lord Mayre, lyfetennaunt of this noble Cytie.</l>
+               <l>And for all his brytherne, with the cominualtie.</l>
+               <l>That eache of them, doinge their dewties a ryght,</l>
+               <l>May after death poſſes heauen, to their hartes delyght.</l>
+            </sp>
+            <closer>
+               <signed>Finis. ꝙ. I. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <head>SAPIENS DOMINABITVR ASTRIS.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>¶Imprinted at London in Fleteſtrete, at the ſigne of the
+Faucon, by Wylliam Gryffith, and are to be ſold at his ſhoppe in Saynte
+Dunſtones Church yarde. Anno. Domini. 1567.</p>
+            <pb facs="tcp:2061:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>

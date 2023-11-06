@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A merrie dialogue, betweene Band, Cuffe, and Ruffe: done by an excellent wit, and lately acted in a shew in the famous Vniversitie of Cambridge</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A03424</idno>
+            <idno type="STC">STC 1355</idno>
+            <idno type="STC">ESTC S104456</idno>
+            <idno type="EEBO-CITATION">99840194</idno>
+            <idno type="PROQUEST">99840194</idno>
+            <idno type="VID">4670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A03424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4670)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 823:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A merrie dialogue, betweene Band, Cuffe, and Ruffe: done by an excellent wit, and lately acted in a shew in the famous Vniversitie of Cambridge</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Stansby for Miles Partrich, and are to be sold at his shop in Fleetstreet, neare vnto Chancerie-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1615.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴ (-A1, B4).</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4670:1"/>
+            <pb facs="tcp:4670:1"/>
+            <p>A MERRIE DIALOGVE, <hi>Betweene</hi> BAND, CVFFE, and RVFFE: Done by an excellent WIT, And <hi>Lately acted in a ſhew in the famous</hi> Vniverſitie of CAM<g ref="char:EOLhyphen"/>BRIDGE.</p>
+            <p>LONDON, Printed by <hi>William Stansby</hi> for <hi>Miles Partrich,</hi> and are to be ſold at his ſhop in Fleet<g ref="char:EOLhyphen"/>ſtreet, neare vnto Chancerie<g ref="char:EOLhyphen"/>lane. 1615.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:4670:2"/>
+            <pb facs="tcp:4670:2"/>
+            <head>A Merrie Dialogue betvveene BAND, CVFFE, and RVFFE.</head>
+            <head>
+               <hi>ACTORS.</hi> Band, Cuffe, and Ruffe.</head>
+            <stage>Enter BAND and CVFFE.</stage>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>VFFE, where art thou?</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Here at hand.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Where is this <hi>Cuffe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cuffe</speaker>
+               <p>Almoſt at your Elbow.</p>
+            </sp>
+            <pb facs="tcp:4670:3"/>
+            <stage>ENTER RVFFE.</stage>
+            <sp>
+               <speaker>Ruffe</speaker>
+               <p>OH <hi>Band,</hi> art thou there? I thought thou had<g ref="char:EOLhyphen"/>deſt beene worne out of date by this time, or ſhrunke in the wetting at leaſt.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>What? doe you thinke I am afraid of your great words? no, you ſhall know that there be men of faſhion in place, as well as your ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Good <hi>Band,</hi> doe not fret ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>A ſcurvie ſhag-ragge Gentleman, new come out of the North, a Punie, a Freſhman, come vp hither to learne faſhions and ſeeke to expell me?</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Nay: if you bee ſo broad with him, <hi>Band,</hi> we ſhall haue a fray preſently.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Sir, Ile pull downe your <hi>Choller</hi> from you.</p>
+               <stage>He iuſtles <hi>B.</hi> and <hi>C.</hi> ſtaies him.</stage>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>It was fit time for mee to ſtay you vp, for I am ſure you were a falling <hi>Band.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Well, <hi>Band,</hi> for all you are ſo ſtiffe, Ile make you limber enough before I haue done with you.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>No, <hi>Hodge Peake,</hi> its more then you can doe.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Sfoot, let mee come to him: well, <hi>Band,</hi> let mee catch you in another place, and I will make cut-worke of you.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Ther's ne're a <hi>Spaniſh Ruffe</hi> of you all can doe it.</p>
+            </sp>
+            <pb facs="tcp:4670:3"/>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Sfoot, if theſe two ſhould goe together by the cares and hurt one another, <hi>Ruffe</hi> would be in a fine plight: would he not?</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Well, <hi>Band,</hi> looke to thy ſelfe, for if I meet thee, I will lace thee roundly.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Lace me? thou wouldeſt bee laced thy ſelfe, <hi>Ruffe,</hi> for this is the very truth, thou art a plaine Knaue.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>If they talke of lacing, I were beſt looke about my ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Dareſt thou meet me in the field?</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>In the field? why? thou art but an ef<g ref="char:EOLhyphen"/>feminate fellow, <hi>Ruffe;</hi> for all thou art ſo well ſet: but at what weapon?</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Nay, I will giue thee that aduantage, bring thou what weapons thou wilt, I ſcorne to make any thing of thee, <hi>Band,</hi> but needle worke.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Sfoot, thou ſhalt know, a Gentleman and a Souldier ſcornes thy proffer.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>A Souldier?</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Did you not heare of the great <hi>Bands</hi> went ouer of late?</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Where did you ſerue? in the Lowe Countries?</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>It may be ſo; for I am ſure he is a <hi>Hol<g ref="char:EOLhyphen"/>land Band.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Where I haue ſerued, it is no matter, but I am ſure I haue beene preſſed oft.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Truely, his Landreſſe will beare him witneſſe thereof.</p>
+            </sp>
+            <pb facs="tcp:4670:4"/>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Preſſe mee no preſſings, Ile make you know that <hi>Ruffe</hi> is ſteeled to the back, if I had my ſtick here, you ſhould feele it.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Nay bragger, it is not your great words can carrie it away ſo; giue <hi>Band</hi> but a hemme, and he will bee for you at any time, name the place, the time and houre of our meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>The place, the Paper mills, where I will teare thee into rags, before I haue done with thee: the time, to morrow in the after-noone about one: but doe you heare? wee will fight ſingle, you ſhall not be double, <hi>Band.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Now I perceiue, the <hi>Spaniard</hi> and the <hi>Hollander</hi> will to it roundly.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>But doe you heare? once more doe not ſay at our next meeting you forgot the time.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>No, I dare warrant you, there is no man more carefull of the time then he: for I am ſure hee hath alwaies at the leaſt a dozen Clocks about him.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Farewell then.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Then farewell.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Nay, you ſhall not part ſo, you will goe into the fields, and know not what fighting meanes: a couple of white liuered fellowes, your Landreſſe will make you both as white as a clout it ſhee liſt; If you lack beating, ſhee'l beat you Ile warrant you, ſhee'l ſo clap your ſides toge<g ref="char:EOLhyphen"/>ther, that they ſhall bee beaten out in once or
+<pb facs="tcp:4670:4"/>twice ha<g ref="char:cmbAbbrStroke">̄</g>dling; why? I haue known her leaue her marke behinde her a whole weeke after, ſheell quickly beate you Blacke and Blew, for I am ſure ſhee'll ſcarce waſh white before ſhee ſtarch.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Well, remember the time and place, <hi>Ruffe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Well, remember your ſclues and Mi<g ref="char:EOLhyphen"/>ſteris <hi>Stichwell,</hi> one to whom you haue beene both beholding in your dayes.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Who? Miſtris <hi>Stichwell,</hi> by this light I know her not.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>No, nor you neither.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Nor I, I ſweare by all the Gumme and Blew-ſtarch in Chriſtendome.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>I thought ſo, why its the <hi>Semſter,</hi> one that both you had beene vndone had it not beene for her, but what talke you of vndoing? I ſay Miſter is <hi>Stichwell</hi> the <hi>Semſter</hi> was the very maker of you both, yet thus little doe you re<g ref="char:EOLhyphen"/>gard her, but it is the common cuſtome of you all, when you come to bee ſo great as you are, you forget from what houſe you come.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Sfoote <hi>Ruffe</hi> careth not a pinne for her.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Nor <hi>Band</hi> a button.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Well <hi>Band</hi> and <hi>Ruffe,</hi> you were beſt both of you to take heede of her, you knowe ſhee ſet you both in the Stocks once before, and if ſhee catch you againe, it is a hundreth to
+<pb facs="tcp:4670:5"/>one, if ſhe hang you not both vp, for ſhe hath got ſtrings already.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Meet me, if thou dareſt?</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>The place the Paper-mils, the hower to morrow at one.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Since you will goe, goe; but heare me, if you goe, looke at me well; as little a fellow as I am, I will come and <hi>Cuffe</hi> you both out of the fields; if I doe not, ſay, <hi>Cuffe</hi> is no man of his hands.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Alas poore ſhrimpe, thou art nothing in my hands.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>If you goe, you ſhall neuer ſay that <hi>Cuffe</hi> came of a ſleeueleſſe errand, Ile binde your hands (I warrant you) for ſtriking.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Say and hold.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Remember the Paper-mils.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>And you bee ſo chollericke, Ile euen pinne you both in, as ſoone as I come home: can you not decide the quarrell betweene your ſelues without a field? I had thought you had beene a little more milde, <hi>Ruffe.</hi> You were a horrible <hi>Puritane</hi> the other day, a very preciſe <hi>Ruffe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Hang him, baſe Raſcall: would hee not make any man mad, to ſee ſuch a—I durſt not ſcarce peep out before Coller came to Towne, now to ſwagger thus.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Come, you ſhall be friends, <hi>Band.</hi>
+               </p>
+            </sp>
+            <pb facs="tcp:4670:5"/>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Friends with him? ſuch a baſe Raſcall? he is a very threed-bare fellow, I ſcorne, but my man <hi>Coller</hi> ſhould goe as well as hee euery day in the weeke, and be friends with him.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Thy man <hi>Coller?</hi> thy Maſter, thou wouldeſt haue ſaid, I am ſure hee is thy vp-hol<g ref="char:EOLhyphen"/>der.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Nay, ſurely he is his Maſter, at leaſt his Maker: for <hi>Bands,</hi> make rags; Rags make Paper; Paper makes Paſt-board; and Paſt-board makes <hi>Collar;</hi> and I thinke that this is a ſtiffe argument that he is his Maſter.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Well, be he what he will, if I catch his <hi>Collar,</hi> Ile cut him in iags, let mee but claſpe him, and Ile make him for ſtirring.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>But you ſhall not fight: haue you not Friends &amp; Neighbours enough to end this con<g ref="char:EOLhyphen"/>trouerſie, but you muſt goe into the fields, and there cut the threed of your liues? wee'l haue none of that, come chooſe you an Vmpire, <hi>Band,</hi> for it ſhall be ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>Since you will force me to it, if <hi>Ruffe</hi> be content, I am willing.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>
+                  <hi>Ruffe,</hi> you ſhall be content.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>If I ſhall then, I muſt, let him name him.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>If I may chooſe, Ile haue Maſter <hi>Hand<g ref="char:EOLhyphen"/>kerchiefe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Nay, ſtay there, he is a moſt filthy Sni<g ref="char:EOLhyphen"/>veling
+<pb facs="tcp:4670:6"/>fellow, and he will wipe your Noſe of all, if you put the caſe to him, but what ſay you to <hi>Shirt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>He is a ſhifting knaue, and one, to whom <hi>Band,</hi> a little before hath beene much beholding, they were ioyned a long time togither in friend<g ref="char:EOLhyphen"/>ſhip.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Why, then goe to Maſter <hi>Cap,</hi> the head<g ref="char:EOLhyphen"/>man of the Towne.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>No, I denie that, he is a very bad Iuſtice, you may haue him wrought on any ſide for mo<g ref="char:EOLhyphen"/>nic.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>Ile tell you what, then wee will goe to my Lord <hi>Corpus</hi> himſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Band.</speaker>
+               <p>He is not in Towne.</p>
+            </sp>
+            <sp>
+               <speaker>Ruffe.</speaker>
+               <p>He is, for I ſaw <hi>Sock,</hi> his chiefe Foote<g ref="char:EOLhyphen"/>man in Towne.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Heer's a doe with you, and my Lord <hi>Corpus,</hi> indeede I would you were both hanged about his neck for me, but I ſee, this ſtrife will ne<g ref="char:EOLhyphen"/>uer be ended, till I bee Arbitrator my ſelfe, you know, I am equally allied to you both: ſhall I be Moderator betweene you?</p>
+            </sp>
+            <sp>
+               <speaker>Band and Ruffe.</speaker>
+               <p>Content.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Well then, <hi>Ruffe</hi> ſhall bee moſt accoun<g ref="char:EOLhyphen"/>ted of amongſt the Clergie, for he is the graue Fellow (although I know, the <hi>Puritans</hi> will not greatly care for him, he hath ſuch a deale of ſet<g ref="char:EOLhyphen"/>ting, and they loue ſtanding very well.) As for
+<pb facs="tcp:4670:6"/>you, <hi>Band,</hi> you ſhall bee moſt made of amongſt the young Gal ants, although ſometimes they ſhall vſe <hi>Ruffe,</hi> for a faſhion, but not otherwiſe; how euer, you neede not regard the gid die hea<g ref="char:EOLhyphen"/>ded multitude, let them doe as they liſt, ſome<g ref="char:EOLhyphen"/>times reſpecting one, ſometimes the other: but when you come to the Counſailor, and men of Law, which know right from wrong, acknow<g ref="char:EOLhyphen"/>ledging Maſter Worths to bee equall, they ſhall preferre neither, but vſe the kindneſſe of you both, wearing both a <hi>Band</hi> and a <hi>Ruffe;</hi> how ſay you, are you both content?</p>
+            </sp>
+            <sp>
+               <speaker>Band and Ruffe.</speaker>
+               <p>We are.</p>
+            </sp>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Then goe before me to the next town, and Ile follow after with a <hi>Band</hi> of your friend<g ref="char:EOLhyphen"/>ſhip drawne, which I hope, theſe Gentlemen will ſeale with their hands.</p>
+            </sp>
+            <stage>Exeunt Band and Ruffe.</stage>
+            <sp>
+               <speaker>Cuffe.</speaker>
+               <p>Claw me, and Ile claw thee, the prouerb goes, Let it be true in that our Muſe here ſhoes, <hi>Cuffe</hi> graceth hand, Cuffes debtors hands remaine, Let hands clap me, and Ile <hi>Cuffe</hi> them againe.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
